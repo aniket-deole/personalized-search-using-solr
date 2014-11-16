@@ -1,4 +1,4 @@
-package org.zeppelin.p3.indexers;
+package org.zeppelin.p3.parser;
 
 
 public class TestXmlParsing {
