@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en" ng-app>
+<head>
+<title>Insert title here</title>
+<script type="text/javascript"
+    src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+</head>
+<body>
+<div ng-controller="ContactController">
+     Email:<input type="text" ng-model="q"/>
+    <button ng-click="createUser ()">Index</button>
+    <button ng-click="query ()">Query</button>
+    <h2>Contacts</h2>
+ 
+    <ul>
+      <p>{{status}}</p>
+    </ul>
+ 
+</div>
+<script type="text/javascript">
+    function ContactController($scope, $http) {
+    	 $scope.user = {};
+
+   	  $scope.createUser = function() 
+   	  {
+   	    $http({
+   	      method: 'POST',
+   	      url: 'http://localhost:8080/UB535p3WebApp/BasicIndexer',
+   	      headers: {'Content-Type': 'application/text','q':$scope.q},
+   	      data:  $scope.user
+   	    }).success(function (data) 
+   	      {
+   	    	$scope.status=data;
+   	      });
+   	  };
+	  $scope.query = function() 
+	  {
+	    $http({
+	      method: 'POST',
+	      url: 'http://localhost:8080/UB535p3WebApp/BasicEvaluator',
+	      headers: {'Content-Type': 'application/text','q':$scope.q},
+	      data:  $scope.user
+	    }).success(function (data) 
+	      {
+	    	$scope.status=data;
+	      });
+	  };
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+  <display-name>UB535p3WebApp</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet-mapping>
+    <servlet-name>BasicEvaluator</servlet-name>
+    <url-pattern>/BasicEvaluator</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>BasicEvaluator</display-name>
+    <servlet-name>BasicEvaluator</servlet-name>
+    <servlet-class>org.zeppelin.p3.query.BasicEvaluator</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>BasicIndexer</servlet-name>
+    <url-pattern>/BasicIndexer</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>BasicIndexer</display-name>
+    <servlet-name>BasicIndexer</servlet-name>
+    <servlet-class>org.zeppelin.p3.indexers.BasicIndexer</servlet-class>
+  </servlet>
+</web-app>
