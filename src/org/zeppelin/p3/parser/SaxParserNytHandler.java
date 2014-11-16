@@ -10,11 +10,18 @@ import javax.xml.parsers.SAXParserFactory;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
+import org.zeppelin.p3.common.CommonConstants;
 
 public class SaxParserNytHandler extends DefaultHandler{
 	
 	Boolean isBlockFullText = false;
 	Boolean isContent = false;
+	Boolean isTitle = false;
+	Boolean isAuthor = false;
+	
+	StringBuilder content = new StringBuilder();
+	StringBuilder title = new StringBuilder();
+	StringBuilder author = new StringBuilder();
 	
 	public void parseDocument(String fileName){
 	  SAXParserFactory factory = SAXParserFactory.newInstance();
@@ -42,6 +49,9 @@ public class SaxParserNytHandler extends DefaultHandler{
 	
 	@Override
 	public void endDocument() throws SAXException {
+		  System.out.println("\nContent :: "+content);
+		  System.out.println("\nTitle :: "+title);
+		  System.out.println("\nAuthor :: "+author);
           System.out.println("\nEnded document");
 	}
 	
@@ -56,25 +66,48 @@ public class SaxParserNytHandler extends DefaultHandler{
 		}
 		
 		else if(qName.equals("p") && isBlockFullText){
-			isContent = true;
-			isBlockFullText = false;	
+			isContent = true;	
+		}
+		
+		else if(qName.equals("hl1")){
+			isTitle = true;
+		}
+		
+		else if(qName.equals("person")){
+			isAuthor = true;
 		}
 	}
 	
 	@Override
 	public void endElement(String uri, String localName, String qName)
 			throws SAXException {
-		//System.out.println("\nEnd Element "+qName);
+		if(qName.equals("block")){
+               isBlockFullText = false;
+		}
+		else if(isBlockFullText && qName.equals("p")){
+			isContent = false;
+		}
 	}
 	
 	@Override
 	public void characters(char[] ch, int start, int length)
 			throws SAXException {
-       //System.out.println("\nCharacters");
 	   if(isContent){
-		   String s = new String(ch, start, length);
-		   System.out.println("\nContent :"+s);
+		   StringBuilder s = new StringBuilder(new String(ch, start, length));
+		   content.append(s).append(CommonConstants.WHITESPACE);
 		   isContent = false;
+	   }
+	   
+	   else if(isTitle){
+		   StringBuilder s = new StringBuilder(new String(ch, start, length));
+		   title.append(s);
+		   isTitle = false;
+	   }
+	   
+	   else if(isAuthor){
+		   StringBuilder s = new StringBuilder(new String(ch, start, length));
+		   author.append(s);
+		   isAuthor = false;
 	   }
 	}
 }
