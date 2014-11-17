@@ -1,12 +1,211 @@
 <!doctype html>
-<html lang="en" ng-app>
+<html lang="en" ng-app="YourApp">
 <head>
 <title>Insert title here</title>
+<!-- 
 <script type="text/javascript"
-    src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+    src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script> -->
+<script src="js/angular/angular.js"></script>
+<meta name="viewport"
+	content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="js/angular-material.css">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/angular-aria/angular-aria.js"></script>
+<script src="js/angular-animate.js"></script>
+<script src="js/hammerjs/hammer.js"></script>
+<script src="js/angular-material.js"></script>
+<script>
+	
+</script>
+<script type="text/javascript">
+	function ContactController($scope, $http) {
+		$scope.user = {};
+
+		$scope.createUser = function() {
+			$http({
+				method : 'POST',
+				url : 'http://localhost:8080/UB535p3WebApp/BasicIndexer',
+				headers : {
+					'Content-Type' : 'application/text',
+					'q' : $scope.q
+				},
+				data : $scope.user
+			}).success(function(data) {
+				$scope.status = data;
+			});
+		};
+		$scope.query = function() {
+			$http({
+				method : 'POST',
+				url : 'http://localhost:8080/UB535p3WebApp/BasicEvaluator',
+				headers : {
+					'Content-Type' : 'application/text',
+					'q' : $scope.q
+				},
+				data : $scope.user
+			}).success(function(data) {
+				$scope.status = data;
+			});
+		};
+	}
+	function AppCtrl($scope) {
+
+		console.log('AppCtrl');
+		$scope.data = {
+			selectedIndex : 0,
+			secondLocked : false,
+			secondLabel : "Item Two"
+		};
+
+		$scope.next = function() {
+			$scope.data.selectedIndex = Math.min($scope.data.selectedIndex + 1,
+					2);
+			console.log('next');
+		};
+
+		$scope.previous = function() {
+			$scope.data.selectedIndex = Math.max($scope.data.selectedIndex - 1,
+					0);
+			console.log('previous');
+		};
+
+		$scope.announceSelected = function(tab) {
+			console.log($scope.data.selectedIndex);
+			$scope.data.selectedIndex = tab;
+		};
+
+	}
+</script>
 </head>
 <body>
-<div ng-controller="ContactController">
+	<script>
+		// Include app dependency on ngMataerial
+
+		var app = angular.module('YourApp', [ 'ngMaterial' ]);
+
+		app.controller("ContactController", ContactController);
+		app.controller("AppCtrl", AppCtrl);
+	</script>
+	<div layout="vertical" layout-fill style="height:100%;">
+		<md-toolbar scroll-shrink>
+
+		<div class="md-toolbar-tools">
+			<md-text-float label="Enter query" ng-model="asd" class="long">asasd</md-text-float>
+
+			<!-- fill up the space between left and right area -->
+			<span flex></span>
+
+			<md-button>Change User</md-button>
+		</div>
+
+		</md-toolbar>
+		<md-content style="height:100%;">
+		<div class="tabsdemoStaticTabs" style="height:100%;">
+			<div ng-controller="AppCtrl" style="height:100%;">
+
+				<md-tabs selected="data.selectedIndex" left> 
+					<md-tab
+						id="tab1" num="1" aria-controls="tab1-content"
+						ng-click="announceSelected(0)"> 
+							Top News 
+						</md-tab> 
+					<md-tab
+						id="tab2" aria-controls="tab2-content"
+						ng-click="announceSelected(1)">
+							Personalised Results 
+					</md-tab> 
+					<md-tab id="tab3" aria-controls="tab3-content"
+							ng-click="announceSelected(2)"> 
+						Search Results 
+					</md-tab> 
+				</md-tabs>
+				
+				<ng-switch on="data.selectedIndex"	 style="height:100%;">
+				<div role="tabpanel" id="tab1-content" aria-labelledby="tab1"
+					ng-switch-when="0" md-swipe-left="next()"
+					md-swipe-right="previous()">
+					<md-card style="background-color:white; color:#555">
+      <h2>Paracosm</h2>
+      <p>
+        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
+        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+      </p>
+      <hr/>
+      <div style="overflow:hidden"><p style="float:left; width:100px;">LIKE</p><p style="left:25px;">NOPE</p></div>
+    </md-card>
+    
+    <md-card style="background-color:white; color:#555">
+      <h2>Paracosm</h2>
+      <p>
+        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
+        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+      </p>
+      <hr/>
+      <div style="overflow:hidden"><p style="float:left; width:100px;">LIKE</p><p style="left:25px;">NOPE</p></div>
+    </md-card>
+    
+    <md-card style="background-color:white; color:#555">
+      <h2>Paracosm</h2>
+      <p>
+        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
+        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+      </p>
+      <hr/>
+      <div style="overflow:hidden"><p style="float:left; width:100px;">LIKE</p><p style="left:25px;">NOPE</p></div>
+    </md-card>
+    
+    <md-card style="background-color:white; color:#555">
+      <h2>Paracosm</h2>
+      <p>
+        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
+        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+      </p>
+      <hr/>
+      <div style="overflow:hidden"><p style="float:left; width:100px;">LIKE</p><p style="left:25px;">NOPE</p></div>
+    </md-card>
+				</div>
+				<div role="tabpanel" id="tab2-content" aria-labelledby="tab2"
+					ng-switch-when="1" md-swipe-left="next()"
+					md-swipe-right="previous()">
+					<md-card style="background-color:white; color:#555">
+      <h2>Paracosm</h2>
+      <p>
+        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
+        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+      </p>
+    </md-card>
+				</div>
+				<div role="tabpanel" id="tab3-content" aria-labelledby="tab3"
+					ng-switch-when="2" md-swipe-left="next()"
+					md-swipe-right="previous()">
+					 <md-card style="background-color:white; color:#555">
+      <h2>Paracosm</h2>
+      <p>
+        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
+        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+      </p>
+    </md-card>
+    					
+				</div>
+				</ng-switch>
+
+<!-- 				<div class="after-tabs-area" layout="vertical"
+					layout-sm="horizontal" layout-padding layout-align="left center">
+
+					<md-text-float type="number" label="Selected Index"
+						ng-model="data.selectedIndex"></md-text-float>
+					<div flex></div>
+					<span>Item Two: </span>
+					<md-checkbox ng-model="data.secondLocked" aria-label="Disabled">
+					Disabled </md-checkbox>
+
+				</div> -->
+			</div>
+		</div>
+
+		</md-content>
+	</div>
+	<!-- <div ng-controller="ContactController">
      Email:<input type="text" ng-model="q"/>
     <button ng-click="createUser ()">Index</button>
     <button ng-click="query ()">Query</button>
@@ -15,37 +214,15 @@
     <ul>
       <p>{{status}}</p>
     </ul>
- 
-</div>
-<script type="text/javascript">
-    function ContactController($scope, $http) {
-    	 $scope.user = {};
-
-   	  $scope.createUser = function() 
-   	  {
-   	    $http({
-   	      method: 'POST',
-   	      url: 'http://localhost:8080/UB535p3WebApp/BasicIndexer',
-   	      headers: {'Content-Type': 'application/text','q':$scope.q},
-   	      data:  $scope.user
-   	    }).success(function (data) 
-   	      {
-   	    	$scope.status=data;
-   	      });
-   	  };
-	  $scope.query = function() 
-	  {
-	    $http({
-	      method: 'POST',
-	      url: 'http://localhost:8080/UB535p3WebApp/BasicEvaluator',
-	      headers: {'Content-Type': 'application/text','q':$scope.q},
-	      data:  $scope.user
-	    }).success(function (data) 
-	      {
-	    	$scope.status=data;
-	      });
-	  };
-    }
-</script>
+ <md-button>
+   Button
+ </md-button>
+ <md-button href="http://google.com" class="md-button-colored">
+   I'm a link
+ </md-button>
+ <md-button disabled class="md-colored">
+   I'm a disabled button
+ </md-button>
+</div> -->
 </body>
 </html>
