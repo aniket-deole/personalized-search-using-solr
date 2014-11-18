@@ -23,14 +23,19 @@ public class SaxParserNytHandler extends DefaultHandler{
 	Boolean isAuthor = false;
 	Boolean isTag = false;
 	
-	StringBuilder content = new StringBuilder();
-	StringBuilder title = new StringBuilder();
-	StringBuilder author = new StringBuilder();
-	StringBuilder source = new StringBuilder();
+	String content = "";
+	String title = "";
+	String author = "";
+	String source = "";
+	String date = "";
+	String place = "";
+	String summary = "";
 	List<String> categories; //= new ArrayList<String>();
 	List<String> tags = new ArrayList<String>();
 	
-	public void parseDocument(String fileName){
+	Document document = new Document();
+	
+	public Document parseDocument(String fileName){
 	  SAXParserFactory factory = SAXParserFactory.newInstance();
 	  SAXParser parser;
 			try {
@@ -46,7 +51,8 @@ public class SaxParserNytHandler extends DefaultHandler{
 			} catch (SAXException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-			} 
+			}
+			return document;
     }
 	
 	@Override
@@ -69,6 +75,16 @@ public class SaxParserNytHandler extends DefaultHandler{
 			 System.out.println(tag);  
 		  }
           System.out.println("\nEnded document");
+          
+          document.setAuthor(author);
+          document.setCategories(categories);
+          document.setContent(content);
+          document.setDate(date);
+          document.setPlace(place);
+          document.setTags(tags);
+          document.setTitle(title);
+          document.setSource(source);
+          document.setSummary(summary);
 	}
 	
 	@Override
@@ -95,7 +111,7 @@ public class SaxParserNytHandler extends DefaultHandler{
 		
 		else if(qName.equals("doc.copyright")){
 	        if(attributes.getValue("holder")!=null){
-			    source.append(attributes.getValue("holder"));
+	        	source=attributes.getValue("holder");
 	        }
 		}
 		
@@ -149,20 +165,20 @@ public class SaxParserNytHandler extends DefaultHandler{
 	public void characters(char[] ch, int start, int length)
 			throws SAXException {
 	   if(isContent){
-		   StringBuilder s = new StringBuilder(new String(ch, start, length));
-		   content.append(s).append(CommonConstants.WHITESPACE);
+		   String s = new String(new String(ch, start, length));
+		   content=s+CommonConstants.WHITESPACE;
 		   isContent = false;
 	   }
 	   
 	   else if(isTitle){
-		   StringBuilder s = new StringBuilder(new String(ch, start, length));
-		   title.append(s);
+		   String s = new String(new String(ch, start, length));
+		   title=s;
 		   isTitle = false;
 	   }
 	   
 	   else if(isAuthor){
-		   StringBuilder s = new StringBuilder(new String(ch, start, length));
-		   author.append(s);
+		   String s = new String(new String(ch, start, length));
+		   author=s;
 		   isAuthor = false;
 	   }
 	   
