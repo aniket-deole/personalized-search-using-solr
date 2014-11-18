@@ -4,82 +4,184 @@
 package org.zeppelin.p3.parser;
 
 import java.util.HashMap;
+import java.util.List;
 
 /**
  * @author nikhillo
  * Wrapper class that holds {@link FieldNames} to value mapping
  */
 public class Document {
-	//Sample implementation - you can change this if you like
-	private HashMap<FieldNames, String[]> map;
 	
 	/**
-	 * Default constructor
+	 * Source of the document
 	 */
-	public Document() {
-		map = new HashMap<FieldNames, String[]>();
-	}
+	private String source;
 	
 	/**
-	 * store the length of the file
+	 * Title of the document
 	 */
-	private Long length;
-	/**
-	 * stores the result snippet for the document
-	 */
-	private String resultSnippet;
+	private String title;
 	
 	/**
-	 * Method to set the field value for the given {@link FieldNames} field
-	 * @param fn : The {@link FieldNames} to be set
-	 * @param o : The value to be set to
+	 * Category of the document
 	 */
-	public void setField(FieldNames fn, String... o) {
-		map.put(fn, o);
-	}
+	private String category;
 	
 	/**
-	 * Method to get the field value for a given {@link FieldNames} field
-	 * @param fn : The field name to query
-	 * @return The associated value, null if not found
+	 * Tags or subcategories that can be associated
+	 * with the document
 	 */
-	public String[] getField(FieldNames fn) {
-		return map.get(fn);
-	}
+	private List<String> tags;
 	
 	/**
-	 * @return the length
+	 * The author of the document
 	 */
-	public Long getLength() {
-		return length;
+	private String author;
+	
+	/**
+	 * The place from which the document was published
+	 */
+	private String place;
+	
+	/**
+	 * The date on  which the document was published
+	 */
+	private String date;
+	
+	/**
+	 * Summary or result snippet that can be associated with the document
+	 */
+	private String summary;
+	
+	/**
+	 * Content of the document
+	 */
+	private String content;
+
+	/**
+	 * @return the source
+	 */
+	public String getSource() {
+		return source;
 	}
 
 	/**
-	 * @param length the length to set
+	 * @param source the source to set
 	 */
-	public void setLength(Long length) {
-		this.length = length;
+	public void setSource(String source) {
+		this.source = source;
 	}
 
-	public String getResultSnippet() {
-		return resultSnippet;
+	/**
+	 * @return the title
+	 */
+	public String getTitle() {
+		return title;
 	}
 
-	public void setResultSnippet(String resultSnippet) {
-		this.resultSnippet = resultSnippet;
+	/**
+	 * @param title the title to set
+	 */
+	public void setTitle(String title) {
+		this.title = title;
 	}
 
-	public String toString(){
-		return new StringBuilder().append("FILEID ::").append(map.get(FieldNames.FILEID))
-				.append("CATEGORY ::").append(map.get(FieldNames.CATEGORY))
-				.append("TITLE ::").append(map.get(FieldNames.TITLE))
-				.append("AUTHOR ::").append(map.get(FieldNames.AUTHOR))
-				.append("AUTHORORG ::").append(map.get(FieldNames.AUTHORORG))
-				.append("PLACE ::").append(map.get(FieldNames.PLACE))
-				.append("NEWSDATE ::").append(map.get(FieldNames.NEWSDATE))
-				.append("CONTENT ::").append(map.get(FieldNames.CONTENT))
-				.toString();
-		
+	/**
+	 * @return the category
+	 */
+	public String getCategory() {
+		return category;
+	}
+
+	/**
+	 * @param category the category to set
+	 */
+	public void setCategory(String category) {
+		this.category = category;
+	}
+
+	/**
+	 * @return the tags
+	 */
+	public List<String> getTags() {
+		return tags;
+	}
+
+	/**
+	 * @param tags the tags to set
+	 */
+	public void setTags(List<String> tags) {
+		this.tags = tags;
+	}
+
+	/**
+	 * @return the author
+	 */
+	public String getAuthor() {
+		return author;
+	}
+
+	/**
+	 * @param author the author to set
+	 */
+	public void setAuthor(String author) {
+		this.author = author;
+	}
+
+	/**
+	 * @return the place
+	 */
+	public String getPlace() {
+		return place;
+	}
+
+	/**
+	 * @param place the place to set
+	 */
+	public void setPlace(String place) {
+		this.place = place;
+	}
+
+	/**
+	 * @return the date
+	 */
+	public String getDate() {
+		return date;
+	}
+
+	/**
+	 * @param date the date to set
+	 */
+	public void setDate(String date) {
+		this.date = date;
+	}
+
+	/**
+	 * @return the summary
+	 */
+	public String getSummary() {
+		return summary;
+	}
+
+	/**
+	 * @param summary the summary to set
+	 */
+	public void setSummary(String summary) {
+		this.summary = summary;
+	}
+
+	/**
+	 * @return the content
+	 */
+	public String getContent() {
+		return content;
+	}
+
+	/**
+	 * @param content the content to set
+	 */
+	public void setContent(String content) {
+		this.content = content;
 	}
 	
 }
