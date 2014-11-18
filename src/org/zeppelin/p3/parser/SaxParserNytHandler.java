@@ -2,6 +2,9 @@ package org.zeppelin.p3.parser;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
@@ -18,10 +21,14 @@ public class SaxParserNytHandler extends DefaultHandler{
 	Boolean isContent = false;
 	Boolean isTitle = false;
 	Boolean isAuthor = false;
+	Boolean isTag = false;
 	
 	StringBuilder content = new StringBuilder();
 	StringBuilder title = new StringBuilder();
 	StringBuilder author = new StringBuilder();
+	StringBuilder source = new StringBuilder();
+	List<String> categories; //= new ArrayList<String>();
+	List<String> tags = new ArrayList<String>();
 	
 	public void parseDocument(String fileName){
 	  SAXParserFactory factory = SAXParserFactory.newInstance();
@@ -52,6 +59,15 @@ public class SaxParserNytHandler extends DefaultHandler{
 		  System.out.println("\nContent :: "+content);
 		  System.out.println("\nTitle :: "+title);
 		  System.out.println("\nAuthor :: "+author);
+		  System.out.println("\nSource :: "+source);
+		  System.out.println("\nCategories :: ");
+		  for(String cat:categories){
+			 System.out.println(cat);  
+		  }
+		  System.out.println("\nTags :: "+tags.size());
+		  for(String tag:tags){
+			 System.out.println(tag);  
+		  }
           System.out.println("\nEnded document");
 	}
 	
@@ -69,12 +85,42 @@ public class SaxParserNytHandler extends DefaultHandler{
 			isContent = true;	
 		}
 		
-		else if(qName.equals("hl1")){
+		else if(qName.equals("title")){
 			isTitle = true;
 		}
 		
 		else if(qName.equals("person")){
 			isAuthor = true;
+		}
+		
+		else if(qName.equals("doc.copyright")){
+	        if(attributes.getValue("holder")!=null){
+			    source.append(attributes.getValue("holder"));
+	        }
+		}
+		
+		else if(qName.equals("meta")){
+			String name = attributes.getValue("name");
+			if(name!=null && name.equals("online_sections")){
+				String cats = attributes.getValue("content");
+				if(cats!=null){
+					//TODO - need to trim?
+					String [] catArr = cats.split(CommonConstants.SEMICOLON);
+					categories = Arrays.asList(catArr);
+				}
+			}
+		}
+		
+		else if(qName.equals("org")){
+              isTag = true;
+		}
+		
+		else if(qName.equals("classifier")){
+			String classname = attributes.getValue("class");
+			String type = attributes.getValue("type");
+			if(("online_producer").equals(classname) && ("general_descriptor").equals(type)){
+				isTag = true;
+			}
 		}
 	}
 	
@@ -86,6 +132,16 @@ public class SaxParserNytHandler extends DefaultHandler{
 		}
 		else if(isBlockFullText && qName.equals("p")){
 			isContent = false;
+		}
+		else if(qName.equals("title")){
+	        isTitle = false;
+		}
+		else if(qName.equals("classifier") && isTag){
+			isTag = false;
+		}
+		
+		else if(qName.equals("org") && isTag){
+			isTag = false;
 		}
 	}
 	
@@ -109,5 +165,13 @@ public class SaxParserNytHandler extends DefaultHandler{
 		   author.append(s);
 		   isAuthor = false;
 	   }
+	   
+	   else if(isTag){
+		   String s = new String(ch, start, length);
+		   if(s!=null && s.length()>0){
+	           tags.add(s); 
+		   }
+	   }
+	   
 	}
 }

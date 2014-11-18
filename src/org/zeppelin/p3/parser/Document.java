@@ -25,7 +25,7 @@ public class Document {
 	/**
 	 * Category of the document
 	 */
-	private String category;
+	private List<String> categories;
 	
 	/**
 	 * Tags or subcategories that can be associated
@@ -86,19 +86,6 @@ public class Document {
 		this.title = title;
 	}
 
-	/**
-	 * @return the category
-	 */
-	public String getCategory() {
-		return category;
-	}
-
-	/**
-	 * @param category the category to set
-	 */
-	public void setCategory(String category) {
-		this.category = category;
-	}
 
 	/**
 	 * @return the tags
@@ -182,6 +169,20 @@ public class Document {
 	 */
 	public void setContent(String content) {
 		this.content = content;
+	}
+
+	/**
+	 * @return the categories
+	 */
+	public List<String> getCategories() {
+		return categories;
+	}
+
+	/**
+	 * @param categories the categories to set
+	 */
+	public void setCategories(List<String> categories) {
+		this.categories = categories;
 	}
 	
 }

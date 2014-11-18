@@ -29,5 +29,7 @@ public class CommonConstants {
 	
 	public static final String EQUAL_SIGN = "=";
 	
+	public static final String SEMICOLON = ";";
+	
 
 }
