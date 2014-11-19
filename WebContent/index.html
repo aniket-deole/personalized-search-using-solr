@@ -19,36 +19,9 @@
 </script>
 <script type="text/javascript">
 	function ContactController($scope, $http) {
-		$scope.user = {};
-
-		$scope.createUser = function() {
-			$http({
-				method : 'POST',
-				url : 'http://localhost:8080/UB535p3WebApp/BasicIndexer',
-				headers : {
-					'Content-Type' : 'application/text',
-					'q' : $scope.q
-				},
-				data : $scope.user
-			}).success(function(data) {
-				$scope.status = data;
-			});
-		};
-		$scope.query = function() {
-			$http({
-				method : 'POST',
-				url : 'http://localhost:8080/UB535p3WebApp/BasicEvaluator',
-				headers : {
-					'Content-Type' : 'application/text',
-					'q' : $scope.q
-				},
-				data : $scope.user
-			}).success(function(data) {
-				$scope.status = data;
-			});
-		};
+		
 	}
-	function AppCtrl($scope) {
+	function AppCtrl($scope, $http) {
 
 		console.log('AppCtrl');
 		$scope.data = {
@@ -57,6 +30,45 @@
 			secondLabel : "Item Two"
 		};
 
+		$scope.user = {};
+
+		$scope.createUser = function() {
+			$http({
+				method : 'POST',
+				url : 'http://localhost:8080/UB535p3WebApp/BasicIndexer',
+				headers : {
+					'Content-Type' : 'application/text',
+					'q' : $scope.queryText
+				},
+				data : $scope.user
+			}).success(function(data) {
+				$scope.status = data;
+				console.log (data);
+			});
+		};
+		$scope.query = function() {
+			$scope.cards = [];
+			$http({
+				method : 'POST',
+				url : 'http://localhost:8080/UB535p3WebApp/BasicEvaluator',
+				headers : {
+					'Content-Type' : 'application/text',
+					'q' : $scope.queryText
+				},
+				data : $scope.user
+			}).success(function(data) {
+				$scope.status = data;
+				console.log (data);
+				var stringarray = data.split (',');
+				for (var i = 0; i < stringarray.length - 1; i++){
+					$scope.cards.push({
+			        	title: stringarray[i],
+			        	content: stringarray[i]
+			    	});
+				}
+			});
+		};
+		
 		$scope.next = function() {
 			$scope.data.selectedIndex = Math.min($scope.data.selectedIndex + 1,
 					2);
@@ -73,11 +85,13 @@
 			console.log($scope.data.selectedIndex);
 			$scope.data.selectedIndex = tab;
 		};
-
+		$scope.cards = [
+			            
+	         ];
 	}
 </script>
 </head>
-<body>
+<body ng-controller="AppCtrl" >
 	<script>
 		// Include app dependency on ngMataerial
 
@@ -90,18 +104,20 @@
 		<md-toolbar scroll-shrink>
 
 		<div class="md-toolbar-tools">
-			<md-text-float label="Enter query" ng-model="asd" class="long">asasd</md-text-float>
+			<md-text-float label="Enter query" ng-model="queryText" class="long">asasd</md-text-float>
 
 			<!-- fill up the space between left and right area -->
+			<md-button ng-click="query ()">Search</md-button>
 			<span flex></span>
 
+			<md-button ng-click="createUser ()">Index</md-button>
 			<md-button>Change User</md-button>
 		</div>
 
 		</md-toolbar>
 		<md-content style="height:100%;">
 		<div class="tabsdemoStaticTabs" style="height:100%;">
-			<div ng-controller="AppCtrl" style="height:100%;">
+			<div style="height:100%;">
 
 				<md-tabs selected="data.selectedIndex" left> 
 					<md-tab
@@ -119,73 +135,26 @@
 						Search Results 
 					</md-tab> 
 				</md-tabs>
-				
 				<ng-switch on="data.selectedIndex"	 style="height:100%;">
 				<div role="tabpanel" id="tab1-content" aria-labelledby="tab1"
 					ng-switch-when="0" md-swipe-left="next()"
 					md-swipe-right="previous()">
-					<md-card style="background-color:white; color:#555">
-      <h2>Paracosm</h2>
+	
+	<md-card ng-repeat="card in cards" style="background-color:white; color:#555">
+      <h2>{{card.title}}</h2>
       <p>
-        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
-        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+        	{{card.content}}
       </p>
       <hr/>
       <div style="overflow:hidden"><p style="float:left; width:100px;">LIKE</p><p style="left:25px;">NOPE</p></div>
     </md-card>
     
-    <md-card style="background-color:white; color:#555">
-      <h2>Paracosm</h2>
-      <p>
-        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
-        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
-      </p>
-      <hr/>
-      <div style="overflow:hidden"><p style="float:left; width:100px;">LIKE</p><p style="left:25px;">NOPE</p></div>
-    </md-card>
-    
-    <md-card style="background-color:white; color:#555">
-      <h2>Paracosm</h2>
-      <p>
-        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
-        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
-      </p>
-      <hr/>
-      <div style="overflow:hidden"><p style="float:left; width:100px;">LIKE</p><p style="left:25px;">NOPE</p></div>
-    </md-card>
-    
-    <md-card style="background-color:white; color:#555">
-      <h2>Paracosm</h2>
-      <p>
-        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
-        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
-      </p>
-      <hr/>
-      <div style="overflow:hidden"><p style="float:left; width:100px;">LIKE</p><p style="left:25px;">NOPE</p></div>
-    </md-card>
-				</div>
+
+  				</div>
 				<div role="tabpanel" id="tab2-content" aria-labelledby="tab2"
 					ng-switch-when="1" md-swipe-left="next()"
 					md-swipe-right="previous()">
-					<md-card style="background-color:white; color:#555">
-      <h2>Paracosm</h2>
-      <p>
-        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
-        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
-      </p>
-    </md-card>
-				</div>
-				<div role="tabpanel" id="tab3-content" aria-labelledby="tab3"
-					ng-switch-when="2" md-swipe-left="next()"
-					md-swipe-right="previous()">
-					 <md-card style="background-color:white; color:#555">
-      <h2>Paracosm</h2>
-      <p>
-        The titles of Washed Out's breakthrough song and the first single from Paracosm share the
-        two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
-      </p>
-    </md-card>
-    					
+				
 				</div>
 				</ng-switch>
 
