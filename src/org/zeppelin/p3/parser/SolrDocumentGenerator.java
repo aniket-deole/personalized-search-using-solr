@@ -18,6 +18,7 @@ public class SolrDocumentGenerator {
 		//TODO- Pass multiple documents
 		Document doc=handler.parseDocument("H:\\projects\\nyt.xml");
 		SolrInputDocument solrDoc = new SolrInputDocument();
+		solrDoc.addField("id", 7777);
 		solrDoc.addField("content", doc.getContent());
 		solrDoc.addField("title", doc.getTitle());
 		if(doc.getCategories()!=null){
