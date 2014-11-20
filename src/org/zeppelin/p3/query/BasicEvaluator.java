@@ -51,14 +51,14 @@ public class BasicEvaluator extends HttpServlet {
 				out.println("No Documents Matched.");
 			} else {
 				for (int i = 0; i < list.size(); i++) {
-					out.println(list.get(i).getFieldValue("title") + ",");
-					out.println(list.get(i).getFieldValue("source") + ",");
+					out.println(list.get(i).getFieldValue("title") + "<eoc>");
+					out.println(list.get(i).getFieldValue("source") + "<eoc>");
 					Object retrievedCategories = list.get(i).getFieldValue(
 							"category");
 					if (retrievedCategories instanceof List<?>) {
 						List<?> categories = (List<?>) retrievedCategories;
 						for (Object category : categories) {
-							out.println(category + ",");
+							out.println(category + "<eoc>");
 						}
 					}
 				}

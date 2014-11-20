@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" ng-app="YourApp">
 <head>
-<title>Insert title here</title>
+<title>Toogle - The New Google</title>
 <!-- 
 <script type="text/javascript"
     src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script> -->
@@ -59,7 +59,7 @@
 			}).success(function(data) {
 				$scope.status = data;
 				console.log (data);
-				var stringarray = data.split (',');
+				var stringarray = data.split ('<eoc>');
 				for (var i = 0; i < stringarray.length - 1; i++){
 					$scope.cards.push({
 			        	title: stringarray[i],
