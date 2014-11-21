@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ENRON EPILOGUE</title>
+    <meta content="28suits-4" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822102"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <classifier class="indexing_service" type="descriptor">Sentences (Criminal)</classifier>
+        <org class="indexing_service">Enron Corp</org>
+        <person class="indexing_service">Glisan, Ben F Jr</person>
+        <person class="indexing_service">Murphy, Kate</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4DA173FF93BA15752C0A9619C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ENRON EPILOGUE</hl1>
+      </hedline>
+      <byline class="print_byline">By KATE MURPHY</byline>
+      <byline class="normalized_byline">Murphy, Kate</byline>
+      <abstract>
+        <p>Ben F Glisan Jr, Enron's first executive to go to prison for participating in fraud that destroyed company, is free after four years in federal prison and four months of home confinement (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After three years in federal prison and four months of home confinement, Ben F. Glisan Jr., the first Enron executive to go to jail for participating in the fraud that destroyed the energy company, is a free man again.</p>
+        <p>But free to do what?</p>
+      </block>
+      <block class="full_text">
+        <p>After three years in federal prison and four months of home confinement, Ben F. Glisan Jr., the first Enron executive to go to jail for participating in the fraud that destroyed the energy company, is a free man again.</p>
+        <p>But free to do what?</p>
+        <p>Reached at his home last week, Mr. Glisan politely declined to comment on his plans.</p>
+        <p>His job prospects are undoubtedly tough. ''He can kiss the idea of having a similar role in a public company,'' said John C. Lamar, managing director of the Alexander Group, an executive search firm based in Houston.</p>
+        <p>Private companies, Mr. Lamar added, might be more likely to consider applicants with dodgy backgrounds.</p>
+        <p>Mr. Glisan, the former treasurer, pleaded guilty in 2003 and received a maximum sentence of five years in prison after refusing to cooperate with prosecutors. He later helped prosecutors by testifying against his former bosses, Jeffrey K. Skilling, who was chief executive, and Kenneth L. Lay, who was chairman.</p>
+        <p>The jurors in that trial said the attractive and forthright Mr. Glisan was the government's most effective witness.</p>
+        <p>Whatever his ambition, Mr. Glisan might want to look for employment outside of Houston. ''It was such a soap opera here,'' Mr. Lamar said of the Enron collapse, investigation and trials. ''The passage of time has helped, but a lot of people will never get over it.''</p>
+        <p>KATE MURPHY</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Warning On Earnings From Maker Of BlackBerry</title>
+    <meta content="17rimm" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/17/technology/17rimm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819450"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <classifier class="indexing_service" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Research in Motion</org>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Research in Motion Limited</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E7DF1130F934A25752C0A9619C8B63" item-length="345" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Warning On Earnings From Maker Of BlackBerry</hl1>
+        <hl2 class="online_headline">New Warning on Earnings From Maker of BlackBerry</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <dateline>OTTAWA, Jan. 16</dateline>
+      <abstract>
+        <p>Research In Motion repeats earlier warning that it may restate more than $45 million in earnings dating back to 1997; says options restatement is unlikely to affect second and third quarter results; analysts express concern about handset pricing (M)1</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Research in Motion, maker of the BlackBerry, released additional preliminary financial results Tuesday, but they gave investors no better sense of the size of the earnings restatement the company will make after a review of its stock option grants to employees.</p>
+        <p>In filings with Canadian and American securities regulators, Research in Motion repeated its earlier warning that it may restate more than $45 million in earnings dating back to 1997, and again did not indicate an upper limit.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Research in Motion gave investors no better sense of the size of the earnings restatement the company will make after a review of its stock option grants to employees.</p>
+      </block>
+      <block class="full_text">
+        <p>Research in Motion, maker of the BlackBerry, released additional preliminary financial results Tuesday, but they gave investors no better sense of the size of the earnings restatement the company will make after a review of its stock option grants to employees.</p>
+        <p>In filings with Canadian and American securities regulators, Research in Motion repeated its earlier warning that it may restate more than $45 million in earnings dating back to 1997, and again did not indicate an upper limit.</p>
+        <p>It said, however, that the options restatement was unlikely to affect the preliminary results reported for the second and third quarter of the current fiscal year. Last month, the company said that its sales were up 49 percent in the third quarter and profit reached $176 million.</p>
+        <p>Lawrence M. Harris, an analyst with Oppenheimer, said the filings offered little significant information. He added, however, that cuts in the price of Research in Motion products by retailers might overshadow the company's options issues.</p>
+        <p>''I'm a little more concerned about the handset pricing,'' Mr. Harris said.</p>
+        <p>On Monday, the price of a Pearl, R.I.M.'s first consumer model, available with some T-Mobile service plans, was cut to $150, a $50 drop. RadioShack also introduced the device in stores at the same price, Mr. Harris said.</p>
+        <p>''We've seen the prices on all sorts of mobile phones in the last few months coming down,'' Mr. Harris said. ''Given R.I.M.'s higher security and features for e-mail, we would have expected something of a greater ability to withstand pricing declines.''</p>
+        <p>Concerns about the Pearl's potential grew last week after Apple introduced its iPhone. While that device was not expected to appeal to many business users who rely on other BlackBerry devices, there was speculation that it might limit sales of the Pearl.</p>
+        <p>In the long run, a lower price for the Pearl might work to R.I.M.'s benefit by increasing the number of subscribers for BlackBerry e-mail service, a high-profit business for R.I.M. At the moment, however, the Pearl and the slightly larger BlackBerry handsets generate about three-quarters of the company's revenue.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

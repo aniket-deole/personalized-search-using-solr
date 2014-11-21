@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="04qod" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816347"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EFD71730F937A35752C0A9619C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''We're aghast at the level of compensation that Nardelli is walking away with -- this is money directly out of shareholders' pockets.''</p>
+        <p>RICHARD FERLAUTO, director of pension investment policy for the American Federation of State, County and Municipal Employees, on the $210 million exit package for Robert L. Nardelli, the chairman and chief executive of Home Depot. [C5]</p>
+      </block>
+      <block class="full_text">
+        <p>''We're aghast at the level of compensation that Nardelli is walking away with -- this is money directly out of shareholders' pockets.''</p>
+        <p>RICHARD FERLAUTO, director of pension investment policy for the American Federation of State, County and Municipal Employees, on the $210 million exit package for Robert L. Nardelli, the chairman and chief executive of Home Depot. [C5]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

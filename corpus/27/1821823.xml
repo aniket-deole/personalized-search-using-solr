@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="27corrections-1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821823"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E3D8173FF934A15752C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Jan 26 chart with article about declining union membership gave outdated information on states with highest and lowest membership in 2006</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A chart yesterday with an article about declining union membership gave outdated information on the states with the highest and lowest membership in 2006. The top states were Hawaii (24.7%), New York (24.4%), Alaska (22.2%), New Jersey (20.1%) and Washington (19.8%); the bottom states were Texas (4.9%), Georgia (4.4%), Virginia (4.0%), and North and South Carolina (both with 3.3%). The chart listed the 2005 rankings. (As the article noted correctly, the national average is 12 percent, based on 2006 figures.)</p>
+      </block>
+      <block class="full_text">
+        <p>A chart yesterday with an article about declining union membership gave outdated information on the states with the highest and lowest membership in 2006. The top states were Hawaii (24.7%), New York (24.4%), Alaska (22.2%), New Jersey (20.1%) and Washington (19.8%); the bottom states were Texas (4.9%), Georgia (4.4%), Virginia (4.0%), and North and South Carolina (both with 3.3%). The chart listed the 2005 rankings. (As the article noted correctly, the national average is 12 percent, based on 2006 figures.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

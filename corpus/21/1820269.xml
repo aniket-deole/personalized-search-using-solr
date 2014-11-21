@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Happiness 101</title>
+    <meta content="21letters.t-4" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820269"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="indexing_service" type="descriptor">Psychology and Psychologists</classifier>
+        <person class="indexing_service">Max, D T</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DC1130F932A15752C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Happiness 101</hl1>
+      </hedline>
+      <abstract>
+        <p>Nancy Tilly and Robert Edwards letters commen on Jan 7 article on classes in positive psychology</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a retired teacher of humanities and English, I thought at first that D. T. Max's article (Jan. 7) described a good way to help students connect with meaning and a desire to do good. But it's hard to see positive psychology as entirely worthwhile if it values happiness ''at the cost of a full understanding of literature and human complexity.''</p>
+        <p>Nancy Tilly</p>
+        <p>Chapel Hill, N.C.</p>
+      </block>
+      <block class="full_text">
+        <p>As a retired teacher of humanities and English, I thought at first that D. T. Max's article (Jan. 7) described a good way to help students connect with meaning and a desire to do good. But it's hard to see positive psychology as entirely worthwhile if it values happiness ''at the cost of a full understanding of literature and human complexity.''</p>
+        <p>Nancy Tilly</p>
+        <p>Chapel Hill, N.C.</p>
+        <p>Mark Linkins seems to be describing an established scientific or philosophical truth, as Max quotes him: ''It's preferable to be happy than not, even if that means the potential for creative output is diminished.'' The logic in his astonishing assumption makes a compelling argument for lobotomies.</p>
+        <p>Robert Edwards</p>
+        <p>Swarthmore, Pa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

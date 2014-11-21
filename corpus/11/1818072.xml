@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Starbucks Backs a Book</title>
+    <meta content="11arts-3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/11/books/11starb.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818072"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Book Trade</classifier>
+        <org class="indexing_service">Starbucks Coffee Co</org>
+        <person class="indexing_service">Bosman, Julie</person>
+        <person class="indexing_service">Beah, Ishmael</person>
+        <object.title class="indexing_service">Long Way Gone, A (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Book Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4D81230F932A25752C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Starbucks Backs a Book</hl1>
+        <hl2 class="online_headline">Starbucks Backs a Book</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIE BOSMAN; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Bosman, Julie</byline>
+      <abstract>
+        <p>Starbucks selects Ishmael Beah book A Long Way Gone to be promoted and sold in their stores (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Starbucks has made its second book selection, and it's no Mitch Albom. ''A Long Way Gone'' by Ishmael Beah, a memoir of that first-time author's life as a child soldier in war-ravaged Sierra Leone, will be sold in about 6,000 Starbucks stores beginning on Feb. 15, the company plans to announce today. Mr. Albom's ''For One More Day,'' the sentimental novel that inaugurated the company's book-sale program, has sold roughly 92,000 copies in Starbucks stores since going on sale on Sept. 26. Comparing the two titles, Ken Lombard, the president of Starbucks Entertainment, said ''A Long Way Gone'' was ''opposite in terms of the type of book, but consistent with our overall strategy of quality books.'' The company, he added, is ''convinced our customers are going to love this.'' Beginning next month, Mr. Beah will give readings at Starbucks in 10 cities. ''A Long Way Gone'' is published by Farrar, Straus &amp; Giroux.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Starbucks has made its second book selection. “A Long Way Gone,” by Ishmael Beah, a memoir of life as a child soldier in Sierra Leone, will be sold in about 6,000 stores.</p>
+      </block>
+      <block class="full_text">
+        <p>Starbucks has made its second book selection, and it's no Mitch Albom. ''A Long Way Gone'' by Ishmael Beah, a memoir of that first-time author's life as a child soldier in war-ravaged Sierra Leone, will be sold in about 6,000 Starbucks stores beginning on Feb. 15, the company plans to announce today. Mr. Albom's ''For One More Day,'' the sentimental novel that inaugurated the company's book-sale program, has sold roughly 92,000 copies in Starbucks stores since going on sale on Sept. 26. Comparing the two titles, Ken Lombard, the president of Starbucks Entertainment, said ''A Long Way Gone'' was ''opposite in terms of the type of book, but consistent with our overall strategy of quality books.'' The company, he added, is ''convinced our customers are going to love this.'' Beginning next month, Mr. Beah will give readings at Starbucks in 10 cities. ''A Long Way Gone'' is published by Farrar, Straus &amp; Giroux.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

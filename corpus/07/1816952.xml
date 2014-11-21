@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ANOTHER SIDE OF PARADISE</title>
+    <meta content="07traletters-4" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816952"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Los Roques Archipelago (Venezuela)</location>
+        <location class="indexing_service">Venezuela</location>
+        <person class="indexing_service">Arnold, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Venezuela</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE7DA1730F934A35752C0A9619C8B63" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ANOTHER SIDE OF PARADISE</hl1>
+      </hedline>
+      <abstract>
+        <p>David Arnold letter on December 17 travel article about Los Roques, Venezuela</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Regarding ''Los Roques, Venezuela: In the Caribbean, a No-Frills Vibe'' (Explorer, Dec. 17): I would add one detail. Last September, one tourist was murdered there, and another was bludgeoned, nearly to death. ''Other than that, Mrs. Lincoln, how was the play?''</p>
+        <p>David Arnold  Boston</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Regarding ''Los Roques, Venezuela: In the Caribbean, a No-Frills Vibe'' (Explorer, Dec. 17): I would add one detail. Last September, one tourist was murdered there, and another was bludgeoned, nearly to death. ''Other than that, Mrs. Lincoln, how was the play?''</p>
+        <p>David Arnold  Boston</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

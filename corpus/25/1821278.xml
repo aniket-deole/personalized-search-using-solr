@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wendy's Shifts Work To Three Agencies</title>
+    <meta content="25addes" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/business/media/25addes.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821278"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <org class="indexing_service">Wendy's International Inc</org>
+        <org class="indexing_service">Saatchi &amp; Saatchi Plc</org>
+        <org class="indexing_service">Mccann Erickson Worldwide</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <org class="online_producer">Wendy's International Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E3DB163FF936A15752C0A9619C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wendy's Shifts Work To Three Agencies</hl1>
+        <hl2 class="online_headline">Wendy’s Shifts Work to Three Agencies</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <abstract>
+        <p>Wendy's Shifts Work To T</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wendy's International is unexpectedly changing agencies after working since August 2002 with two New York agencies that are part of the McCann Erickson Worldgroup division of the Interpublic Group of Companies. Wendy's spends about $300 million a year on local and national advertising in major media.</p>
+        <p>Saatchi &amp; Saatchi in New York, part of the Publicis Groupe, becomes the lead creative agency, replacing McCann Erickson Worldwide, which created national campaigns with spending estimated at $225 million. Kirshenbaum Bond &amp; Partners in New York, part of MDC Partners, will work on creative projects, a new assignment. The media planning and buying parts of the account are being shifted from Universal McCann to MediaVest in New York, part of the Starcom MediaVest Group unit of Publicis.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Wendy’s Shifts Work.</p>
+      </block>
+      <block class="full_text">
+        <p>Wendy's International is unexpectedly changing agencies after working since August 2002 with two New York agencies that are part of the McCann Erickson Worldgroup division of the Interpublic Group of Companies. Wendy's spends about $300 million a year on local and national advertising in major media.</p>
+        <p>Saatchi &amp; Saatchi in New York, part of the Publicis Groupe, becomes the lead creative agency, replacing McCann Erickson Worldwide, which created national campaigns with spending estimated at $225 million. Kirshenbaum Bond &amp; Partners in New York, part of MDC Partners, will work on creative projects, a new assignment. The media planning and buying parts of the account are being shifted from Universal McCann to MediaVest in New York, part of the Starcom MediaVest Group unit of Publicis.</p>
+        <p>Since 2005, when Wendy's began to struggle with a sales slump, there had been speculation the company was seeking to change agencies. A sales rebound in the fourth quarter of 2006 damped that speculation.</p>
+        <p>''Now that a turnaround has taken place in our business, we believe the timing is right to seek new resources to take our advertising efforts to the next level,'' said Ian B. Rowden, chief marketing officer at Wendy's in Dublin, Ohio. A campaign to replace the McCann Erickson work is expected in the spring.</p>
+        <p>Wendy's is the second big account gain for Saatchi &amp; Saatchi in four months, after J. C. Penney. The Wendy's assignment to create campaigns aimed at Hispanic consumers will remain at the Vidal Partnership in New York.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

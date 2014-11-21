@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Praise From a Former Rival</title>
+    <meta content="04bruno-1" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816389"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CHANGEOVER IN ALBANY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">State of the State Message (NYS)</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">Nassau County (NY)</location>
+        <person class="indexing_service">Confessore, Nicholas</person>
+        <person class="indexing_service">Suozzi, Thomas R (County Exec)</person>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E1D61730F937A35752C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Praise From a Former Rival</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS CONFESSORE</byline>
+      <byline class="normalized_byline">Confessore, Nicholas</byline>
+      <abstract>
+        <p>Nassau County, NY, Executive Thomas R Suozzi praises State of the State address of former Democratic gubernatorial rival Eliot Spitzer; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A few minutes after Gov. Eliot Spitzer's address, as the crowds left the Capitol's Assembly chamber, a familiar figure walked slowly down the stairs, buffeted by the crush of bodies with nary a press secretary to smooth his passage. It was Thomas R. Suozzi, the bright, passionate Nassau County executive who ran an uphill -- some would say politically suicidal -- primary campaign against Mr. Spitzer, and lost.</p>
+        <p>Mr. Suozzi, who during the address was seated with some of Mr. Spitzer's new appointees, said the governor had laid out ''a very ambitious and exciting agenda.''</p>
+      </block>
+      <block class="full_text">
+        <p>A few minutes after Gov. Eliot Spitzer's address, as the crowds left the Capitol's Assembly chamber, a familiar figure walked slowly down the stairs, buffeted by the crush of bodies with nary a press secretary to smooth his passage. It was Thomas R. Suozzi, the bright, passionate Nassau County executive who ran an uphill -- some would say politically suicidal -- primary campaign against Mr. Spitzer, and lost.</p>
+        <p>Mr. Suozzi, who during the address was seated with some of Mr. Spitzer's new appointees, said the governor had laid out ''a very ambitious and exciting agenda.''</p>
+        <p>''It's going to be very tough, but if there's one person who can accomplish it, it's Governor Spitzer,'' said Mr. Suozzi, who last fall attacked Mr. Spitzer for failing to prosecute Medicaid fraud, accused him of throwing ''a temper tantrum'' at one debate, and said that as a prosecutor, Mr. Spitzer did not ''understand what it takes to manage a large, complex, multibillion-dollar government.''</p>
+        <p>Asked what he thought of Mr. Spitzer's delivery, he smiled tightly and responded graciously.</p>
+        <p>''I would only wish that I could do it as well as he had done it,'' Mr. Suozzi said.</p>
+        <p>NICHOLAS CONFESSORE</p>
+        <p>CHANGEOVER IN ALBANY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

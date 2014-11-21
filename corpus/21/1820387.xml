@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jeeps Go Forth And Reproduce</title>
+    <meta content="21JEEP" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/automobiles/21JEEP.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820387"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <org class="indexing_service">Daimlerchrysler Ag</org>
+        <org class="indexing_service">Jeep/eagle Division of Chrysler Motor Co</org>
+        <person class="indexing_service">Jensen, Christopher</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <org class="online_producer">DaimlerChrysler AG</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEFDF1E30F932A15752C0A9619C8B63" item-length="475" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jeeps Go Forth And Reproduce</hl1>
+        <hl2 class="online_headline">Jeeps Go Forth and Reproduce</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRISTOPHER JENSEN</byline>
+      <byline class="normalized_byline">Jensen, Christopher</byline>
+      <abstract>
+        <p>DaimlerChrysler has expanded number of Jeep models, some designed for off-road conditions and others simply for commuting or day-to-day chores; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WITH its four-wheel-drive franchise under assault from all sides, DaimlerChrysler's Jeep division has responded by sending new recruits into battle. But to the horror of some Jeep traditionalists, not all of these new models can climb every mountain and ford every stream.</p>
+        <p>The company does help buyers tell the difference between the real he-man Jeeps and the emotionally supportive, lifestyle-accessory Jeeps. Real Jeeps designed to go off road get a Trail Rated badge, which means they have been ''designed to perform in a variety of challenging off-road conditions.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Seven new Jeep models can climb every mountain and ford every stream.</p>
+      </block>
+      <block class="full_text">
+        <p>WITH its four-wheel-drive franchise under assault from all sides, DaimlerChrysler's Jeep division has responded by sending new recruits into battle. But to the horror of some Jeep traditionalists, not all of these new models can climb every mountain and ford every stream.</p>
+        <p>The company does help buyers tell the difference between the real he-man Jeeps and the emotionally supportive, lifestyle-accessory Jeeps. Real Jeeps designed to go off road get a Trail Rated badge, which means they have been ''designed to perform in a variety of challenging off-road conditions.''</p>
+        <p>Jeeps without that badge may handle a snowy road, but are really intended for commuting or handling day-to-day chores, like trips to the post office. Taking one of these mail-rated Jeeps on a rough trail will please only the people in the dealership's body shop.</p>
+        <p>Here's a primer to the changing topography of Jeepland:</p>
+        <p>COMPASS Compact crossover (base prices of $15,985 to $22,235). Front- or all-wheel drive. How appropriate that something named the Compass should take Jeep in a new direction. This car-based vehicle is not Trail Rated, but aimed at urbanites who want to wallow in the earthy Jeep mystique. While Jeep describes the Wrangler as ''not afraid to get dirty,'' the Compass reflects an attitude of ''I do not care, or dare, to get dirty.'' The Compass shares its underpinnings with the Dodge Caliber.</p>
+        <p>PATRIOT Compact crossover wagon. ($14,985 to $23,530). Front- or all-wheel drive. A fraternal twin of the Compass, the Patriot looks like a scaled-down version of the classic, upright Cherokee. The Patriot is intended to stay on pavement unless it has an optional off-road package, which earns it a Trail Rated badge. Like the Compass, it is mechanically similar to the Caliber.</p>
+        <p>WRANGLER Compact S.U.V. ($18,765 to $26,750). Four-wheel drive with a low gear range. Not only Trail Rated, but the most capable Jeep off road (and the least friendly on pavement).</p>
+        <p>WRANGLER UNLIMITED ($20,410 to $28,895). Rear- or four-wheel drive. A new four-door model, about 20 inches longer than the two-door, with a practical back seat and more cargo room.</p>
+        <p>LIBERTY Compact S.U.V. ($22,025 to $27,170). Rear- or four-wheel drive. The Liberty was designed for off-road use and is thus Trail Rated. It shares its platform and mechanical systems with the new Dodge Nitro.</p>
+        <p>GRAND CHEROKEE Midsize S.U.V. ($28,360 to $43,385). Rear- or four-wheel drive. Along with the Ford Explorer, this five-passenger wagon helped to create the boom in family S.U.V.'s in the 1990s, though sales have fallen. With four-wheel drive, it is Trail Rated.</p>
+        <p>COMMANDER Midsize S.U.V. ($28,610 to $44,670). Rear- or four-wheel drive. Two inches longer than the Grand Cherokee on which it is based. The only Jeep that can carry seven people, although the two in the third row had better be small.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

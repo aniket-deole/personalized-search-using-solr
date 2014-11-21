@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   CUSHNY, THEODORUS VAN WYCK</title>
+    <meta content="dn010307" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816008"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">CUSHNY, THEODORUS VAN WYCK</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EEDD1E3AF930A35752C0A9619C8B63" item-length="41" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   CUSHNY, THEODORUS VAN WYCK</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CUSHNY--Theodorus Van Wyck, 74, of Unionville, PA. Adored husband of Cora, beloved father of Van, Lillian, Michael, and Coralie; and grandfather of four. A memorial service will be held 11:15am Saturday, January 6th, 2007 at St. Marys Church, Roslyn, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>CUSHNY--Theodorus Van Wyck, 74, of Unionville, PA. Adored husband of Cora, beloved father of Van, Lillian, Michael, and Coralie; and grandfather of four. A memorial service will be held 11:15am Saturday, January 6th, 2007 at St. Marys Church, Roslyn, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

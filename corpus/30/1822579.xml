@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One Horse Dies</title>
+    <meta content="30tue4" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/opinion/30tue4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822579"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Horse Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Kentucky Derby</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Barbaro (Race Horse)</classifier>
+        <classifier class="online_producer" type="descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="descriptor">Horses</classifier>
+        <classifier class="online_producer" type="descriptor">Preakness Stakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kentucky Derby</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Preakness Stakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E7D9143FF933A05752C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One Horse Dies</hl1>
+        <hl2 class="online_headline">One Horse Dies</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial notes widespread grief over loss of Kentucky Derby winner Barbaro; says effort to save this one horse was truly exceptional in sport that is barbarous as often as it is beautiful</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Why should we feel so much grief at the loss of one horse? After all, this is a world in which horses are sacrificed again and again for the sport of humans. Barbaro was euthanized yesterday, eight months after he shattered his right hind leg at the start of the Preakness Stakes. After an injury like that, most racehorses would have been put down minutes later. But every race is a complex equation -- a balance of economics, athleticism, equine grace and conscience. Conscience often comes in last, but not in this case. Barbaro's owners gave that horse exactly what he had given them, which is everything. It was the very least they could do, and yet it seemed truly exceptional in a sport that is barbarous as often as it is beautiful.</p>
+        <p>Barbaro was exceptional because he won the Kentucky Derby and looked as if he might have a chance at the Triple Crown. But nearly everyone who met him also talked of the life he displayed, a vivid presence that was so much more visible to us because it happened to belong to a winner.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Barbaro’s death was tragic not because it was measured against the races he might have won, but because of what every horse is.</p>
+      </block>
+      <block class="full_text">
+        <p>Why should we feel so much grief at the loss of one horse? After all, this is a world in which horses are sacrificed again and again for the sport of humans. Barbaro was euthanized yesterday, eight months after he shattered his right hind leg at the start of the Preakness Stakes. After an injury like that, most racehorses would have been put down minutes later. But every race is a complex equation -- a balance of economics, athleticism, equine grace and conscience. Conscience often comes in last, but not in this case. Barbaro's owners gave that horse exactly what he had given them, which is everything. It was the very least they could do, and yet it seemed truly exceptional in a sport that is barbarous as often as it is beautiful.</p>
+        <p>Barbaro was exceptional because he won the Kentucky Derby and looked as if he might have a chance at the Triple Crown. But nearly everyone who met him also talked of the life he displayed, a vivid presence that was so much more visible to us because it happened to belong to a winner.</p>
+        <p>Humans are not especially good at noticing horses, but Barbaro was easy to notice. And if his life caused us to pay attention to the possibilities of all horses, his death should cause us to pay attention to the tragedy inherent in the end of so many horses. Barbaro's death was tragic not because it was measured against the races he might have won or even against the effort to save his life. It was tragic because of what every horse is.</p>
+        <p>You would have to look a long, long time to find a dishonest or cruel horse. And the odds are that if you did find one, it was made cruel or dishonest by the company it kept with humans. It is no exaggeration to say that nearly every horse -- Barbaro included -- is pure of heart. Some are faster, some slower. Some wind up in the winner's circle. But they should all evoke in us the generosity of conscience -- a human quality, after all -- that was expended in the effort to save this one horse.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

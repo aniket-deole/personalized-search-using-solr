@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critics' Choice: New CDs</title>
+    <meta content="29choi-4" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822411"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Chinen, Nate</person>
+        <person class="indexing_service">Colley, Scott</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E3DD143FF93AA15752C0A9619C8B63" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critics' Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By NATE CHINEN</byline>
+      <byline class="normalized_byline">Chinen, Nate</byline>
+      <abstract>
+        <p>Nate Chinen reviews new CD from Scott Colley (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scott Colley  ''Architect of the Silent Moment''  (Cam Jazz)</p>
+        <p>The bassist Scott Colley plays with a warm, singing tone and a nimble touch when briskness is required. On his sixth album as a leader he traffics mainly in ostinato -- most of his bass lines are asymmetrical, hypnotic and harmonically static -- while his ensemble floats purposefully above him.</p>
+      </block>
+      <block class="full_text">
+        <p>Scott Colley  ''Architect of the Silent Moment''  (Cam Jazz)</p>
+        <p>The bassist Scott Colley plays with a warm, singing tone and a nimble touch when briskness is required. On his sixth album as a leader he traffics mainly in ostinato -- most of his bass lines are asymmetrical, hypnotic and harmonically static -- while his ensemble floats purposefully above him.</p>
+        <p>Mr. Colley seems intent on showcasing his compositions, and in that regard this album is a handsome success. It's also a useful gauge of the interests now gripping an increasing number of post-post-bop musicians: long-form ensemble writing, rippling dynamic fluctuations and a moody equipoise rooted as much in rock and classical minimalism as in jazz.</p>
+        <p>Songs like ''Strip Mall Ballet'' and ''Masoosong'' unmistakably evoke the Pat Metheny Group, and not just because of the presence of the adroit Antonio Sanchez (on drums) and the charismatic Grégoire Maret (on harmonica), two present members of that group. Elsewhere the trumpeter Ralph Alessi expertly carries off Mr. Colley's slippery melodies in conjunction with the keyboardist Craig Taborn; at times the alto saxophonist David Binney and the pianist Jason Moran lend a hand. Free improvisation crops up bracingly but fleetingly, like a bout of airborne turbulence between cruising altitudes.</p>
+        <p>As a title ''Architect of the Silent Moment'' implies calibration as well as introspection, which is apt, since Mr. Colley engages in both at once. That the result never gets oppressive is a credit to the band, which brings fluid movement to his designs.</p>
+        <p>NATE CHINEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

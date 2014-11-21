@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="07alscorr-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816982"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <object.title class="indexing_service">Kite Runner, the (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E6D71730F934A35752C0A9619C8B63" item-length="51" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Dec 31, 2006 picture caption with article about film based on The Kite Runner (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture caption last Sunday with an article about a film based on Khaled Hosseini's novel ''The Kite Runner'' reversed the identifications for two men involved in the production, based on information provided by the studio. The novelist was on the left, and the director, Marc Forster, was on the right.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture caption last Sunday with an article about a film based on Khaled Hosseini's novel ''The Kite Runner'' reversed the identifications for two men involved in the production, based on information provided by the studio. The novelist was on the left, and the director, Marc Forster, was on the right.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accord on Increasing Pell Grants</title>
+    <meta content="31loans" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/31/washington/31loans.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822800"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Pell Grants</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Schemo, Diana Jean</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E1DF153FF932A05752C0A9619C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accord on Increasing Pell Grants</hl1>
+        <hl2 class="online_headline">Accord on Increasing Pell Grants</hl2>
+      </hedline>
+      <byline class="print_byline">By DIANA JEAN SCHEMO</byline>
+      <byline class="normalized_byline">Schemo, Diana Jean</byline>
+      <dateline>WASHINGTON, Jan. 30</dateline>
+      <abstract>
+        <p>House and Senate Democrats announce increase of Pell Grants for middle- and low-income students to attend college; maximum federal grant in catchall spending bill would increase to $4,310 annually from $4,050 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The maximum federal grant for middle- and low-income students to attend college would increase for the first time in four years under a catchall spending bill that House and Senate Democrats agreed to on Tuesday.</p>
+        <p>The measure would complete budget issues left over from 2006.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The increase would raise the maximum grants, under the Pell program, to $4,310 a year from $4,050.</p>
+      </block>
+      <block class="full_text">
+        <p>The maximum federal grant for middle- and low-income students to attend college would increase for the first time in four years under a catchall spending bill that House and Senate Democrats agreed to on Tuesday.</p>
+        <p>The measure would complete budget issues left over from 2006.</p>
+        <p>The increase, announced by the chairmen of the House and Senate Appropriations Committees, would raise the maximum grants, under the Pell program, to $4,310 a year from $4,050. The last substantial increase in the grants was in 2001.</p>
+        <p>Senator Edward M. Kennedy, Democrat of Massachusetts and chairman of the Senate education committee, called the increase ''an important down payment by Democrats on our commitment to help families with high college costs.''</p>
+        <p>The move follows a vote by the House, under the Democrats' agenda in the new Congress, to cut interest rates on some subsidized loans for middle- and lower-income students.</p>
+        <p>Although the rate cut passed with overwhelming bipartisan support, that bill was criticized by House Republicans and the Bush administration as benefiting just college graduates faced with repaying loans, rather than broadening access to college for low-income students.</p>
+        <p>With the announcement on Tuesday, days before President Bush is to release his 2008 budget, Democrats appeared to answer that criticism, part of a broader effort to claim the issue of college affordability.</p>
+        <p>Even if the president asks for an increase in Pell Grants, as the White House has indicated is likely, Democrats will have already acted to increase the grants.</p>
+        <p>Republicans generally appeared to support increasing the grants.</p>
+        <p>Each year, 5.3 million students with family incomes less than $40,000 a year receive the grants. Although the grants have remained steady, the cost of attending college has outpaced inflation, lowering the buying power of the grants.</p>
+        <p>The budget bill would increase federal grant money by $615.4 million, to $13.6 billion for this year.</p>
+        <p>An advocate for the U.S. Public Interest Research Group Higher Education Project, Luke Swarthout, said the increase was significant, though students had hoped for a much larger increase.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

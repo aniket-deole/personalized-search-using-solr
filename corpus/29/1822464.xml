@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Sex Offenders</title>
+    <meta content="29mbrfs-3" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/nyregion/29mbrfs-offender.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822464"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Weiner, Anthony D (Rep)</person>
+        <person class="indexing_service">Chan, Sewell</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E4DC143FF93AA15752C0A9619C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Sex Offenders</hl1>
+        <hl2 class="online_headline">Manhattan: Sex Offenders Study</hl2>
+      </hedline>
+      <byline class="print_byline">By SEWELL CHAN; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Chan, Sewell</byline>
+      <abstract>
+        <p>Report released by Rep Anthony D Weiner shows that 85 percent of the 2,114 sex offenders who live in New York City are within five blocks of a school and that 32 percent are within two blocks (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Study Of the 2,114 sex offenders who live in New York City and are listed in the state's publicly available database, 85 percent live within five blocks of a school and 32 percent within two blocks of a school, according to a report released yesterday by Representative Anthony D. Weiner, a Democrat who represents parts of Queens and Brooklyn. Mr. Weiner's staff used mapping software to analyze records from the database, which was expanded in July and lists Level 2 and Level 3 sex offenders, who must register for life. (Sex offenders are assigned a risk level from 1 to 3 based on the nature of the crime, the victim's age and an offender's prior record.) Though there is no law that restricts where a sex offender may live, Mr. Weiner has pushed for action. In addition to seeking federal aid to study and monitor sex offenders, Mr. Weiner called for requiring offenders to notify the authorities if they have profiles on social-networking Web sites like MySpace, and if they live near schools, to submit to monitoring using global positioning satellite technology.</p>
+        <p>SEWELL CHAN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Of the 2,114 sex offenders who live in New York City and are listed in the state’s publicly available database, 85 percent live within five blocks of a school and 32 percent within two blocks of a school, according to a report released yesterday by Representative Anthony D. Weiner, a Democrat who represents parts of Queens and Brooklyn. Mr. Weiner’s staff used mapping software to analyze records from the database, which was expanded in July and lists Level 2 and Level 3 sex offenders, who must register for life. (Sex offenders are assigned a risk level from 1 to 3 based on the nature of the crime, the victim’s age and an offender’s prior record.) Though there is no law that restricts where a sex offender may live, Mr. Weiner has pushed for action. In addition to seeking federal aid to study and monitor sex offenders, Mr. Weiner called for requiring offenders to notify the authorities if they have profiles on social-networking Web sites like MySpace, and if they live near schools, to submit to monitoring using global positioning satellite technology.</p>
+      </block>
+      <block class="full_text">
+        <p>Study Of the 2,114 sex offenders who live in New York City and are listed in the state's publicly available database, 85 percent live within five blocks of a school and 32 percent within two blocks of a school, according to a report released yesterday by Representative Anthony D. Weiner, a Democrat who represents parts of Queens and Brooklyn. Mr. Weiner's staff used mapping software to analyze records from the database, which was expanded in July and lists Level 2 and Level 3 sex offenders, who must register for life. (Sex offenders are assigned a risk level from 1 to 3 based on the nature of the crime, the victim's age and an offender's prior record.) Though there is no law that restricts where a sex offender may live, Mr. Weiner has pushed for action. In addition to seeking federal aid to study and monitor sex offenders, Mr. Weiner called for requiring offenders to notify the authorities if they have profiles on social-networking Web sites like MySpace, and if they live near schools, to submit to monitoring using global positioning satellite technology.</p>
+        <p>SEWELL CHAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Johanna Francis, William Stroever</title>
+    <meta content="14francis" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/weddings/14francis.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818795"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Francis, Johanna Bess (Johanna Bess Stroever)</person>
+        <person class="indexing_service">Stroever, William Wallace</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E5DB1330F937A25752C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Johanna Francis, William Stroever</hl1>
+        <hl2 class="online_headline">Johanna Francis and William Stroever</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Johanna Bess Francis, the daughter of Anne V. Francis and David M. Francis of Newtown, Conn., is to be married today to William Wallace Stroever, a son of Karen A. Stroever and Bruce W. Stroever of Long Valley, N.J. The Rev. Donald Delaney, a Roman Catholic priest, is to perform the ceremony in the Chapel of De La Salle and His Brothers at Manhattan College in Riverdale, the Bronx.</p>
+        <p>The bride and the bridegroom, both 26, are law clerks in southern New Jersey, she to Judge Julio L. Mendez, who presides in Family Court of Cumberland County, and he to Judge Carmen H. Alvarez of Superior Court in Cape May County. The bride and bridegroom met at Haverford College, from which they graduated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married on Sunday in the Chapel of De La Salle and His Brothers at Manhattan College in Riverdale, the Bronx. The bride and the bridegroom, both 26, are law clerks in southern New Jersey.</p>
+      </block>
+      <block class="full_text">
+        <p>Johanna Bess Francis, the daughter of Anne V. Francis and David M. Francis of Newtown, Conn., is to be married today to William Wallace Stroever, a son of Karen A. Stroever and Bruce W. Stroever of Long Valley, N.J. The Rev. Donald Delaney, a Roman Catholic priest, is to perform the ceremony in the Chapel of De La Salle and His Brothers at Manhattan College in Riverdale, the Bronx.</p>
+        <p>The bride and the bridegroom, both 26, are law clerks in southern New Jersey, she to Judge Julio L. Mendez, who presides in Family Court of Cumberland County, and he to Judge Carmen H. Alvarez of Superior Court in Cape May County. The bride and bridegroom met at Haverford College, from which they graduated.</p>
+        <p>The bride received her law degree from the University of Connecticut. Her father is an executive recruiter at the Hagan-Ricci Group in Armonk, N.Y., which recruits quantitative analysts. Her mother is a manager of Julie Allen Bridals in Newtown.</p>
+        <p>The bridegroom received his law degree from Boston College. His mother is a vice chairwoman of the National Society of the Daughters of the American Revolution. His father is the president and chief executive of the Musculoskeletal Transplant Foundation in Edison, N.J., a tissue bank.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

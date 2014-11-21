@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="17botcorrex-10" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Theater; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819505"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Theaters (Buildings)</classifier>
+        <classifier class="indexing_service" type="descriptor">Globe Theater (London)</classifier>
+        <classifier class="indexing_service" type="descriptor">Models and Replicas</classifier>
+        <location class="indexing_service">Washington (DC)</location>
+        <person class="indexing_service">Shakespeare, William (1564-1616)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DE1130F934A25752C0A9619C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Jan 13 article about Washington exhibit on design inspired by Shakespeare's Globe Theater; passage quoted</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in The Arts on Saturday about an exhibition in Washington focusing on design inspired by Shakespeare's Globe Theater omitted a passage. It should have read: ''And the theater's basic design elements, such as they are known, have inspired loose architectural interpretations that range from the polygonal Festival Theater in Stratford, Ontario, to a Globe made entirely of ice hundreds of miles above the Arctic Circle in Sweden. The continuing fascination with Shakespeare's theater and the myriad efforts to replicate its spirit -- and, in many cases, its actual form -- is the subject of 'Reinventing the Globe: A Shakespearean Theater for the 21st Century,' an exhibition that opens on Saturday at the National Building Museum here as part of the city's six-month Shakespeare in Washington festival.''</p>
+      </block>
+      <block class="full_text">
+        <p>An article in The Arts on Saturday about an exhibition in Washington focusing on design inspired by Shakespeare's Globe Theater omitted a passage. It should have read: ''And the theater's basic design elements, such as they are known, have inspired loose architectural interpretations that range from the polygonal Festival Theater in Stratford, Ontario, to a Globe made entirely of ice hundreds of miles above the Arctic Circle in Sweden. The continuing fascination with Shakespeare's theater and the myriad efforts to replicate its spirit -- and, in many cases, its actual form -- is the subject of 'Reinventing the Globe: A Shakespearean Theater for the 21st Century,' an exhibition that opens on Saturday at the National Building Museum here as part of the city's six-month Shakespeare in Washington festival.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

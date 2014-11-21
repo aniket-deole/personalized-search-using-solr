@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Herminator Encourages Governator</title>
+    <meta content="17hermann" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/17/sports/othersports/17hermann.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819526"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Skiing</classifier>
+        <classifier class="indexing_service" type="descriptor">Governors (US)</classifier>
+        <location class="indexing_service">Austria</location>
+        <location class="indexing_service">California</location>
+        <person class="indexing_service">Maier, Hermann</person>
+        <person class="indexing_service">Schwarzenegger, Arnold</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Austria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Skiing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Austria</classifier>
+        <classifier class="online_producer" type="descriptor">Skiing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Governors (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skiing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Maier, Hermann</person>
+        <person class="online_producer">Schwarzenegger, Arnold</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EEDE1130F934A25752C0A9619C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Herminator Encourages Governator</hl1>
+        <hl2 class="online_headline">Herminator Encourages Governator</hl2>
+      </hedline>
+      <abstract>
+        <p>Austrian Skier Hermann Maier offers words of encouragement to California Governor Arnold Schwarzenegger, who broke his leg while skiing; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Austrian skier Hermann Maier, who knows a thing or two about bouncing back from injury, has offered encouragement to the Austrian-born governor of California, Arnold Schwarzenegger, who broke a leg last month on a skiing trip.</p>
+        <p>''I wrote him a letter,'' Maier said in an interview Sunday. ''I told him I believe for sure he will have a great comeback.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Austrian skier Hermann Maier has offered encouragement to Arnold Schwarzenegger, who broke a leg last month on a skiing trip.</p>
+      </block>
+      <block class="full_text">
+        <p>The Austrian skier Hermann Maier, who knows a thing or two about bouncing back from injury, has offered encouragement to the Austrian-born governor of California, Arnold Schwarzenegger, who broke a leg last month on a skiing trip.</p>
+        <p>''I wrote him a letter,'' Maier said in an interview Sunday. ''I told him I believe for sure he will have a great comeback.''</p>
+        <p>In the late 1990s, Maier's aggressive skiing and seemingly indestructible body earned him the nickname the Herminator, a play on the title of Schwarzenegger's most famous action-movie character, the Terminator.</p>
+        <p>Maier was already one of the greatest ski racers when he nearly lost a leg in a 2001 motorcycle accident. He then returned to the top of the sport two years later, winning skiing's most coveted trophies with a mellower, more reflective attitude.</p>
+        <p>Now losing speed at 34, Maier has not said when he plans to retire. He won two medals last year at the Olympic Games in Turin, Italy, but this season has finished on the podium only once in 15 races on the World Cup circuit.</p>
+        <p>He typically peaks for the annual Hahnenkamm race at Kitzbühel, Austria, the most dangerous and celebrated downhill on the tour. That Jan. 27 event could be canceled as early as tomorrow if race officials decide there is not enough snow.</p>
+        <p>With dirt showing through much of the course's lower section, organizers are importing snow from higher elevations with trucks and helicopters.</p>
+        <p>Schwarzenegger, who broke his right femur Dec. 23 in Sun Valley, Idaho, is an avid skier. Maier has never skied with him, though he said he hoped to.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

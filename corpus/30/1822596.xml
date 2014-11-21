@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Gay Sheep And Sound Science</title>
+    <meta content="30sheep" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822596"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Livestock</classifier>
+        <classifier class="indexing_service" type="descriptor">Sheep</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <person class="indexing_service">De Vries, Geert J</person>
+        <person class="indexing_service">Roselli, Charles (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Livestock</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E1D9143FF933A05752C0A9619C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Gay Sheep And Sound Science</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Prof Geert J de Vries and 11 other scientists defends Dr Chuck Roselli's research on homosexual rams as groundbreaking; says it is not homophobic and, in fact, should lead to greater acceptance of homosexuality (Jan 25 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Of Gay Sheep, Modern Science and Bad Publicity'' (front page, Jan. 25):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Of Gay Sheep, Modern Science and Bad Publicity'' (front page, Jan. 25):</p>
+        <p>Dr. Chuck Roselli's research on homosexual rams is not a homophobic experiment but solid, groundbreaking science.</p>
+        <p>Dr. Roselli has taken advantage of a natural variation in the behavior of rams to find out how brains modulate sexual behavior and mate choice.</p>
+        <p>His experiment provides insight into how mate preference of any sort is formed, homosexual as well as heterosexual. The idea that Dr. Roselli's research is aimed at preventing homosexuality or increasing discrimination against homosexuals is baffling. If anything, understanding the biological basis of variability in mate choice should lead to greater acceptance of homosexuality. We consider Dr. Roselli one of our finest colleagues and deplore the unfair treatment his research has received from action groups, the media and the blogosphere.</p>
+        <p>GEERT J. DE VRIES  Amherst, Mass., Jan. 26, 2007</p>
+        <p>The writer is a professor of neuroscience and behavior at the University of Massachusetts at Amherst. The letter was also signed by 11 other scientists. The full list of signers is at nytimes.com/opinion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

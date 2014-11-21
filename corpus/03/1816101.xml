@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Protecting Internet Democracy</title>
+    <meta content="03wed1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/03/opinion/03wed1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816101"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">United States</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Federal Communications Commission</org>
+        <org class="online_producer">AT&amp;T Corp</org>
+        <org class="online_producer">BellSouth Corp</org>
+        <person class="online_producer">Wyden, Ron</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0DC1730F930A35752C0A9619C8B63" item-length="469" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Protecting Internet Democracy</hl1>
+        <hl2 class="online_headline">Protecting Internet Democracy</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial urges new Congress to pass 'net neutrality' bill, aimed at ensuring that all traffic on Internet is delivered equally</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the big winners in the last election may turn out to be the principle, known as net neutrality, that Internet service providers should not be able to favor some content over others. Democrats who are moving into the majority in Congress -- led by Ron Wyden in the Senate and Edward Markey in the House -- say they plan to fight hard to pass a net neutrality bill, and we hope that they do. It is vital to preserve the Internet's role in promoting entrepreneurship and free expression.</p>
+        <p>Internet users now get access to any Web site on an equal basis. Foreign and domestic sites, big corporate home pages and little-guy blogs all show up on a user's screen in the same way when their addresses are typed into a browser. Anyone who puts up a Web page can broadcast it to the world.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Net neutrality is vital to preserve the Internet’s role in promoting entrepreneurship and free expression.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the big winners in the last election may turn out to be the principle, known as net neutrality, that Internet service providers should not be able to favor some content over others. Democrats who are moving into the majority in Congress -- led by Ron Wyden in the Senate and Edward Markey in the House -- say they plan to fight hard to pass a net neutrality bill, and we hope that they do. It is vital to preserve the Internet's role in promoting entrepreneurship and free expression.</p>
+        <p>Internet users now get access to any Web site on an equal basis. Foreign and domestic sites, big corporate home pages and little-guy blogs all show up on a user's screen in the same way when their addresses are typed into a browser. Anyone who puts up a Web page can broadcast it to the world.</p>
+        <p>Cable and telephone companies are talking, however, about creating a two-tiered Internet with a fast lane and a slow lane. Companies that pay hefty fees would have their Web pages delivered to Internet users in the current speedy fashion. Companies and individuals that do not would be relegated to the slow lane.</p>
+        <p>Creating these sorts of tiers would destroy the democratic quality of the Internet. Big, wealthy voices would start to overpower the smaller, poorer ones. Innovation would be threatened if start-ups and small companies could not afford the new fees. The next eBay or Google might never be born.</p>
+        <p>A net neutrality law would require cable and telephone companies to continue to provide Web sites to Internet users on an equal basis. Mr. Markey, of Massachusetts, will be taking over a key subcommittee that handles Internet issues. He has promised to hold hearings to educate Congress and the public, and to reintroduce his strong net neutrality bill. Mr. Wyden, of Oregon, plans to reintroduce an equally solid bill in the Senate.</p>
+        <p>Passing the legislation will not be easy. The cable and telephone companies have fought net neutrality with a lavishly financed and misleading lobbying campaign, because they stand to gain an enormous windfall. But there is growing support from individuals and groups across the political spectrum, from MoveOn.org to the Gun Owners of America, who worry about what will happen to their free speech if Internet service providers are allowed to pick and choose the traffic they carry.</p>
+        <p>In the last week, there was a limited but important victory for net neutrality. As a condition of approving the AT&amp;T-BellSouth merger, the Federal Communications Commission required AT&amp;T to guarantee net neutrality on its broadband service for the next two years. The commission was right to extract this concession, but it should not be necessary to negotiate separate deals like this one. On the information superhighway, net neutrality should be a basic rule of the road.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

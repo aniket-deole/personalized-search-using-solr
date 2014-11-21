@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   EDWARDS, ALFRED L.</title>
+    <meta content="dn013007" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822477"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">EDWARDS, ALFRED L.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E0D61F3AF933A05752C0A9619C8B63" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   EDWARDS, ALFRED L.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EDWARDS--Alfred L. Age 86, of Ann Arbor died January 26, 2007. Funeral Services held Friday, February 2, 2007. In 1963 he was appointed by President Kennedy to become the Deputy Assistant Secretary of Agriculture. He was the first African American to hold that high a position in the agriculture department. He received the Distinguished Service Award in the department in 1969. Services with Muehlig Funeral Chapel, Ann Arbor, MI.</p>
+      </block>
+      <block class="full_text">
+        <p>EDWARDS--Alfred L. Age 86, of Ann Arbor died January 26, 2007. Funeral Services held Friday, February 2, 2007. In 1963 he was appointed by President Kennedy to become the Deputy Assistant Secretary of Agriculture. He was the first African American to hold that high a position in the agriculture department. He received the Distinguished Service Award in the department in 1969. Services with Muehlig Funeral Chapel, Ann Arbor, MI.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

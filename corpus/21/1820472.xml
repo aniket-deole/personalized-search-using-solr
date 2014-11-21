@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A PENNY FOR HIS BOSS</title>
+    <meta content="21suits-2" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820472"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Currency</classifier>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <org class="indexing_service">United States Mint</org>
+        <person class="indexing_service">Mellon, Andrew (1855-1937)</person>
+        <person class="indexing_service">Paulson, Henry M Jr (Sec)</person>
+        <person class="indexing_service">Moy, Edmund C</person>
+        <person class="indexing_service">Levere, Jane</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E0D81E30F932A15752C0A9619C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A PENNY FOR HIS BOSS</hl1>
+      </hedline>
+      <byline class="print_byline">By JANE L. LEVERE</byline>
+      <byline class="normalized_byline">Levere, Jane</byline>
+      <abstract>
+        <p>United States Mint director Edmund C Moy says it is possible that prominent chief executives from corporate America could be commemorated on future coins now that notable business figures from government will soon appear on new dollar coins; possible candidates for such honor include Andrew W Mellon and Henry M Paulson; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With chief executives of the United States soon appearing on new dollar coins, starting with Washington on Feb. 15, might big-name chief executives from corporate America ever merit at least a penny?</p>
+        <p>Edmund C. Moy, director of the United States Mint, says notes and coins traditionally commemorate ''great Americans and great events,'' so it is not impossible. ''I think it's an interesting thing to think about,'' he said, though any decision would be up to Congress.</p>
+      </block>
+      <block class="full_text">
+        <p>With chief executives of the United States soon appearing on new dollar coins, starting with Washington on Feb. 15, might big-name chief executives from corporate America ever merit at least a penny?</p>
+        <p>Edmund C. Moy, director of the United States Mint, says notes and coins traditionally commemorate ''great Americans and great events,'' so it is not impossible. ''I think it's an interesting thing to think about,'' he said, though any decision would be up to Congress.</p>
+        <p>Warming to the idea, he mulled possible candidates, starting with a former Treasury secretary, Andrew W. Mellon, ''a famous Wall Streeter who served the country in a critical position at a critical time.'' He also mentioned the current Treasury secretary (and his boss), Henry M. Paulson Jr.: ''He's extremely well-known on Wall Street.''</p>
+        <p>JANE L. LEVERE</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

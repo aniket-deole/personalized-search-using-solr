@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Survival Mode, 2 Newsprint Makers Merge</title>
+    <meta content="30paper" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/business/media/30paper.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822564"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">Abitibi-Consolidated Inc</org>
+        <org class="indexing_service">Bowater Inc</org>
+        <person class="indexing_service">Weaver, John W</person>
+        <person class="indexing_service">Paterson, David J</person>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">North America</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2DA143FF933A05752C0A9619C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Survival Mode, 2 Newsprint Makers Merge</hl1>
+        <hl2 class="online_headline">In Survival Mode, 2 Newsprint Makers Merge</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <dateline>OTTAWA, Jan. 29</dateline>
+      <abstract>
+        <p>In Survival Mode, 2 Newsprint</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two leaders of the struggling North American newsprint industry, Abitibi Consolidated and Bowater, announced on Monday that they would merge through a stock-based transaction.</p>
+        <p>The resulting company, AbitibiBowater, will retain Abitibi's Montreal headquarters but 52 percent of its stock will be owned by the current shareholders of Bowater, which is based in Greenville, S.C. The combined operation, which will evenly divide board positions between the companies, has an estimated value of $8 billion.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two leaders of the struggling North American newsprint industry, Abitibi Consolidated and Bowater, announced that they would merge through a stock-based transaction.</p>
+      </block>
+      <block class="full_text">
+        <p>Two leaders of the struggling North American newsprint industry, Abitibi Consolidated and Bowater, announced on Monday that they would merge through a stock-based transaction.</p>
+        <p>The resulting company, AbitibiBowater, will retain Abitibi's Montreal headquarters but 52 percent of its stock will be owned by the current shareholders of Bowater, which is based in Greenville, S.C. The combined operation, which will evenly divide board positions between the companies, has an estimated value of $8 billion.</p>
+        <p>The Internet, declining circulation and publishers' attempts to lower costs with narrower newspapers have combined to reduce newsprint consumption in the United States by 26 percent since 1999. Adding to the industry's woes have been production cost increases caused by a stronger Canadian dollar and rising energy prices.</p>
+        <p>As a result, Abitibi, which is a product of earlier consolidations, has posted losses for the last two years, while Bowater was last profitable in 2001.</p>
+        <p>In announcing the merger, the chief executive and president of Abitibi, John W. Weaver, and the chief executive and president of Bowater, David J. Paterson, emphasized that the merger should realize savings of $250 million a year. Mr. Weaver will become the executive chairman of AbitibiBowater; Mr. Patterson will retain the titles of chief executive and president.</p>
+        <p>In an interview, Mr. Weaver said that when those savings, with $100 million of them coming from sales and administration costs, are combined with other measures, the new company would gain the ''financial flexibility'' it needed for investing in new products and its operations.</p>
+        <p>That being said, Mr. Paterson added that when it came to newsprint, ''we feel we are very competitive, among the lowest-cost producers in the world.''</p>
+        <p>Jacquelyn D. McNutt, executive director of the Center for Paper Business and Industry Studies, which is affiliated with the Georgia Institute of Technology, said this deal was unlikely to be the last word in consolidation in the North American industry.</p>
+        <p>There is one lurking issue that may make a bad situation even worse for North American producers. Several modern paper mills in China are under construction or moving into production.</p>
+        <p>While those mills are ultimately intended to serve China, until that domestic demand develops, Dr. McNutt said it was possible that the Chinese might pursue North American sales through low prices.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

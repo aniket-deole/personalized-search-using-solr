@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flighty Beethoven, Liberated Monteverdi and Brotherly Bach</title>
+    <meta content="07tony" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816935"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASSICAL RECORDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Tommasini, Anthony</person>
+        <person class="indexing_service">Beethoven, Ludwig Van (1770-1827)</person>
+        <person class="indexing_service">Guy, Francois-Frederic</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E6DD1730F934A35752C0A9619C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flighty Beethoven, Liberated Monteverdi and Brotherly Bach</hl1>
+      </hedline>
+      <byline class="print_byline">By ANTHONY TOMMASINI</byline>
+      <byline class="normalized_byline">Tommasini, Anthony</byline>
+      <abstract>
+        <p>Anthony Tommasini reviews new CD of Beethoven Piano Sonatas Nos 8, 19 and 29 played by Francois-Frederic Guy; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beethoven: Piano Sonatas Nos. 8, 19, 29  François-Frédéric Guy, pianist. Naïve V5023; CD.</p>
+        <p>BEETHOVEN'S Piano Sonata No. 29 in B flat, the ''Hammerklavier,'' has long been considered a monument: one of the most path-breaking, large-scale and technically daunting sonatas of the Classical period, a work that only select pianists attempt.</p>
+      </block>
+      <block class="full_text">
+        <p>Beethoven: Piano Sonatas Nos. 8, 19, 29  François-Frédéric Guy, pianist. Naïve V5023; CD.</p>
+        <p>BEETHOVEN'S Piano Sonata No. 29 in B flat, the ''Hammerklavier,'' has long been considered a monument: one of the most path-breaking, large-scale and technically daunting sonatas of the Classical period, a work that only select pianists attempt.</p>
+        <p>In performance it often sounds just as hard as it is. But not on the new recording by François-Frédéric Guy. This 37-year-old French pianist captures the audaciousness and wild flights of the score and plays brilliantly. Yet there is remarkable clarity and poise in his performance. Textures are clear; every note speaks; no detail is fudged.</p>
+        <p>Mr. Guy's tempo in the first movement is nowhere near the impossibly fast metronome marking that Beethoven indicated in the printed edition. Still, Mr. Guy maintains a vibrant clip, with plenty of room for phrases to breathe and transitions to ease from one to the next. He brings mischievous humor and crisp articulation to the Scherzo and a searching pensiveness to the great Adagio sostenuto. The finger-twisting fugue is so lucid and fleet that you might think Mr. Guy was playing a standard fugue by Bach.</p>
+        <p>This bushy-haired, bearded and intellectually curious pianist, who also champions contemporary music, has had a bigger career in Europe than in the United States. To his credit he seems in no rush. This recording, his second of the ''Hammerklavier,'' a work he has performed more than 60 times in concert, should spread his reputation in this country.</p>
+        <p>On this all-Beethoven recording, he precedes the ''Hammerklavier'' with a noble account of the ''Pathétique'' Sonata and follows it with, of all things, the Sonata No. 19 in G minor, one of a pair of works Beethoven labeled ''leichte Sonate,'' lighter or easier sonata. And in Mr. Guy's elegant account this moody work, whatever its technical demands or lack of same, seems anything but complicated.</p>
+        <p>ANTHONY TOMMASINI</p>
+        <p>CLASSICAL RECORDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

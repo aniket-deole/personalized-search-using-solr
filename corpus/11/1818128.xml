@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Staten Island: More Bad Smells</title>
+    <meta content="11mbrfs-2" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818128"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Odors</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Seaberg, Maureen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Odors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5D71230F932A25752C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Staten Island: More Bad Smells</hl1>
+      </hedline>
+      <byline class="print_byline">By MAUREEN SEABERG; Compiled by Thomas J. Lueck</byline>
+      <byline class="normalized_byline">Seaberg, Maureen</byline>
+      <abstract>
+        <p>New York City officials identify foul smell over Staten Island as natural gas fumes with additive that creates rotten egg smell; source is not determined (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A foul odor reported yesterday over Staten Island, particularly at Curtis High School and in New Brighton, was identified by fire officials and the Department of Environmental Protection as gas fumes. No injuries were reported, but students could be seen covering their noses and mouths. Unlike the odors over Manhattan and New Jersey on Monday, believed to be mercaptan, a chemical added to natural gas that smells like rotten eggs, the Staten Island smell is believed to be petroleum-based, said Charles Sturcken, spokesman for the environmental department. ''The preliminary results in the field are that there is nothing hazardous in the air,'' he said. After the first reports of the odor about 2 p.m., officials sampled the air along the waterfront across from an industrial area of Bayonne, N.J. The source of the odor was not determined.</p>
+        <p>MAUREEN SEABERG</p>
+      </block>
+      <block class="full_text">
+        <p>A foul odor reported yesterday over Staten Island, particularly at Curtis High School and in New Brighton, was identified by fire officials and the Department of Environmental Protection as gas fumes. No injuries were reported, but students could be seen covering their noses and mouths. Unlike the odors over Manhattan and New Jersey on Monday, believed to be mercaptan, a chemical added to natural gas that smells like rotten eggs, the Staten Island smell is believed to be petroleum-based, said Charles Sturcken, spokesman for the environmental department. ''The preliminary results in the field are that there is nothing hazardous in the air,'' he said. After the first reports of the odor about 2 p.m., officials sampled the air along the waterfront across from an industrial area of Bayonne, N.J. The source of the odor was not determined.</p>
+        <p>MAUREEN SEABERG</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Public Theater Collaborates With Stanford</title>
+    <meta content="22public" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/theater/22public.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820593"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2DB1F30F932A15752C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Public Theater Collaborates With Stanford</hl1>
+        <hl2 class="online_headline">The Public Theater Collaborates With Stanford</hl2>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stanford University and the Public Theater in New York have announced a long-term partnership that includes an annual residency program at Stanford for playwrights developing work for the Public, joint commissions for one playwright a year, and three annual fellowships for Stanford undergraduates and graduates with the artistic staff of the Public.</p>
+        <p>David Henry Hwang, a Stanford alumnus, will be the playwright in the residency program this year. Starting next month Mr. Hwang will spend several weeks at Stanford, in Palo Alto, Calif., working on his new play, "Yellow Face," which will be performed as staged readings before being presented at the Mark Taper Forum in Los Angeles in May and at the Public Theater next season.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The long-term partnership includes an annual residency program at Stanford for playwrights developing work for the Public.</p>
+      </block>
+      <block class="full_text">
+        <p>Stanford University and the Public Theater in New York have announced a long-term partnership that includes an annual residency program at Stanford for playwrights developing work for the Public, joint commissions for one playwright a year, and three annual fellowships for Stanford undergraduates and graduates with the artistic staff of the Public.</p>
+        <p>David Henry Hwang, a Stanford alumnus, will be the playwright in the residency program this year. Starting next month Mr. Hwang will spend several weeks at Stanford, in Palo Alto, Calif., working on his new play, "Yellow Face," which will be performed as staged readings before being presented at the Mark Taper Forum in Los Angeles in May and at the Public Theater next season.</p>
+        <p>For the 2007-8 residency, the director JoAnne Akalaitis will present a new version of Euripides' "Bacchae," with music by Philip Glass, in a workshop production.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

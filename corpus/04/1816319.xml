@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making a Point, For $210 Million</title>
+    <meta content="04homebox" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816319"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EED81730F937A35752C0A9619C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making a Point, For $210 Million</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Home Depot board's decision to oust Robert L. Nardelli as chairman and chief executive is a surprising move that highlights the growing influence of investors. But it also illustrates another point: Even when their voice is heard on executive pay, shareholders often wind up holding the bag. Page C4.</p>
+      </block>
+      <block class="full_text">
+        <p>The Home Depot board's decision to oust Robert L. Nardelli as chairman and chief executive is a surprising move that highlights the growing influence of investors. But it also illustrates another point: Even when their voice is heard on executive pay, shareholders often wind up holding the bag. Page C4.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

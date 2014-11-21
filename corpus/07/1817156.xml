@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jumbo Bonuses: Dial Your Envy Down a Notch</title>
+    <meta content="07count" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/business/yourmoney/07count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817156"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Bonuses</classifier>
+        <person class="indexing_service">Korkki, Phyllis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Goldman Sachs Group Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E0D71430F934A35752C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jumbo Bonuses: Dial Your Envy Down a Notch</hl1>
+        <hl2 class="online_headline">Jumbo Bonuses: Dial Your Envy Down a Notch</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+      <byline class="normalized_byline">Korkki, Phyllis</byline>
+      <abstract>
+        <p>Graph shows average bonus in New York securities industry for 2006 was $137,000; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's time to put the record Wall Street bonuses you've heard about in perspective. Yes, a few investment stars did reap tens of millions, topped by Lloyd C. Blankfein, the chairman of Goldman Sachs, who received $53.4 million.</p>
+        <p>But these people were the exception. The fact is, the average 2006 bonus in the New York securities industry was about $137,000, an increase of 15 percent from the year before.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The average 2006 bonus in the New York securities industry was about $137,000, an increase of 15 percent from the year before.</p>
+      </block>
+      <block class="full_text">
+        <p>It's time to put the record Wall Street bonuses you've heard about in perspective. Yes, a few investment stars did reap tens of millions, topped by Lloyd C. Blankfein, the chairman of Goldman Sachs, who received $53.4 million.</p>
+        <p>But these people were the exception. The fact is, the average 2006 bonus in the New York securities industry was about $137,000, an increase of 15 percent from the year before.</p>
+        <p>What? Does that still seem like a lot to you? Maybe you were one of those unfortunate workers whose bonus was four or even just three or two figures.</p>
+        <p>Or (and you don't need to identify yourselves) maybe your bonus was just one figure: zero, an increase of zero percent over 2005.</p>
+        <p>If so, look at it this way: The data below are courtesy of the New York State comptroller's office, which takes an intense interest in bonuses at tax time. The tax bite from a six-figure bonus is likely to be substantial, whereas the tax you have to pay on a nonexistent bonus is  zero.</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

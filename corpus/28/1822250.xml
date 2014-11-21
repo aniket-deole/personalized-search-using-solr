@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Big Cats</title>
+    <meta content="McCall--Smith.t" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/books/review/McCall_Smith.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822250"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Smith, Alexander Mccall</person>
+        <person class="indexing_service">Ransom, Roberto</person>
+        <object.title class="indexing_service">Tale of Two Lions, A (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <object.title class="online_producer">Tale of Two Lions, A (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907EFD71130F93BA15752C0A9619C8B63" item-length="508" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Big Cats</hl1>
+        <hl2 class="online_headline">Big Cats</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEXANDER MCCALL SMITH</byline>
+      <byline class="normalized_byline">Smith, Alexander Mccall</byline>
+      <abstract>
+        <p>Alexander McCall Smith reviews book A Tale of Two Lions by Roberto Ransom (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A TALE OF TWO LIONS</p>
+        <p>By Roberto Ransom.</p>
+        <p>Translated by Jasper Reid.</p>
+        <p>Illustrated. 114 pp.</p>
+        <p>W. W. Norton &amp; Company. $19.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The lions in this picaresque novel by the Mexican writer Roberto Ransom are elusive, and deliberately so.</p>
+      </block>
+      <block class="full_text">
+        <p>A TALE OF TWO LIONS</p>
+        <p>By Roberto Ransom.</p>
+        <p>Translated by Jasper Reid.</p>
+        <p>Illustrated. 114 pp.</p>
+        <p>W. W. Norton &amp; Company. $19.95.</p>
+        <p>There are all sorts of books about lions. Accounts of lions who come to stay are always popular, as Joy Adamson discovered when she wrote ''Born Free'' and its sequels. These books succeed because the idea of sharing one's life with such a creature is, at some deep level, very appealing. Then there is writing in which lion imagery is used to make a point about the human rather than the leonine situation. In such a context, the lion is symbolic of vigor, of the masculine, of the untamable. Indeed, so burdened are lions with symbolism that it's surprising they manage to stagger even a few paces, let alone spring at their prey.</p>
+        <p>I came to ''A Tale of Two Lions,'' by the Mexican writer Roberto Ransom (translated by Jasper Reid, son of the well-known Scottish essayist and translator Alastair Reid), in a mood of enthusiastic anticipation, being well-disposed toward lions and their literary depiction. Ever since I read Russell Hoban's remarkable ''Lion of Boaz-Jachin and Jachin-Boaz'' some years ago, I have been looking for another piece of leonine magic realism.</p>
+        <p>Lion books need not be long, but they do need meat. And while Ransom's book is charming, it is perhaps a bit too brief to explore its theme of lions lost and found. Two main stories are brought together, to an extent, in a third, but ''A Tale of Two Lions'' is really just one long short story, or a shortish novella. The Thurberesque drawings that punctuate the book don't add a great deal to a story that, on its own, is perfectly engaging. There might also have been fewer pages of preliminaries, one of which bears a single sentence reminding us of the line used in old maps to fill unknown spaces: ''Here there are lions.'' (Perhaps this is a warning about the virtually blank pages we'll encounter later on?)</p>
+        <p>The first story takes the epistolary form and concerns a lion -- small enough to pass for a cat, but leonine in its exuberant habits -- that travels in an aircraft from Italy to the United States and then goes missing. In the next story, we are in a museum where a lion on display suddenly leaps out of an exhibit. (This is a lovely idea, and the relationship between the museum attendant and the lion is poignantly described.) Finally, we find ourselves in a circus, where the two lions meet. The first lion, Cattino, speaks Italian (a nice conceit), but all too soon both animals disappear. We are left wondering just who was who.</p>
+        <p>It's all very whimsical, but that, of course, is what a picaresque novel can be. Ransom's lions are elusive, and deliberately so: we see them, and then they appear to be something else; they are gone, yet they are somehow within us. It's like a half-remembered dream -- or an unexpected sighting of a real lion in the bush.</p>
+        <p>Alexander McCall Smith's most recent novel is ''The Right Attitude to Rain.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Alexander McCall Smith's most recent novel is ''The Right Attitude to Rain.''</tagline>
+    </body.end>
+  </body>
+</nitf>

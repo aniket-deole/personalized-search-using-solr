@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TONIGHT'S TV LISTINGS: What's on Tuesday Night</title>
+    <meta content="0123tvcol" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820973"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1D71F30F930A15752C0A9619C8B63" item-length="388" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TONIGHT'S TV LISTINGS: What's on Tuesday Night</hl1>
+      </hedline>
+      <byline class="print_byline">By KATHRYN SHATTUCK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>9 P.M. (Major Networks) STATE OF THE UNION 2007 President George W. Bush addresses Congress and the nation. Analysis follows.</p>
+        <p>8 P.M. (Fox) AMERICAN IDOL Ready your earplugs: the second week of auditions for the next singing sensation begins.</p>
+      </block>
+      <block class="full_text">
+        <p>9 P.M. (Major Networks) STATE OF THE UNION 2007 President George W. Bush addresses Congress and the nation. Analysis follows.</p>
+        <p>8 P.M. (Fox) AMERICAN IDOL Ready your earplugs: the second week of auditions for the next singing sensation begins.</p>
+        <p>8 P.M. (11) GILMORE GIRLS Rory returns from London to Star's Hollow, where Lorelai and Christopher have belated Christmas festivities awaiting her. Meanwhile, Luke asks Lorelai to write a recommendation letter for his custody battle.</p>
+        <p>8 P.M. (CBS) NCIS Ten kilograms of highly toxic chemical weapons are missing, and a wanted terrorist is the suspect. Now it's up to the team to stop him before he carries out his plan to poison the country's major cities.</p>
+        <p>9 P.M. (11) VERONICA MARS Monkey see, monkey do. Now monkey hide. Tonight, Veronica takes a job helping researchers track down a missing animal.</p>
+        <p>9 P.M. (History) ANCIENT DISCOVERIES This special ventures through the film vaults of Hollywood to retell the legend of the destruction of Troy.</p>
+        <p>9 P.M. (IFC) THE BARBARIAN INVASIONS (2003). An academic, losing his battle with cancer, summons his family and friends to his deathbed in Denys Arcand's sequel, set 17 years later, to ''Decline of the American Empire.'' The film earned an Oscar for best foreign language film and won for best screenplay (Mr. Arcand's) and best actress (Marie-Josée Croze) at Cannes.</p>
+        <p>10 P.M. (FX) DIRT Slam dunk: Lucy (Courteney Cox) blackmails Prince Tyresse (played by Rick Fox, formerly of the Los Angeles Lakers), the basketball hotshot, into helping her track down a missing rap star. But what's this? Lucy and Leo's mother announces her plans to re-marry on the anniversary of their father's suicide.</p>
+        <p>10 P.M. (Logo) THE OUTLAUGH FESTIVAL ON WISECRACK Margaret Cho unfurls her claws, and a whole lot of humor, as host of this new stand-up comedy series. Tonight's guests: Karen Ripley, Nora of the Nellie Olesons, and Bruce Vilanch.</p>
+        <p>10 P.M. (VH1) FABULOUS LIFE OF . . . A look inside the bedrooms of some sizzling stars. No, we're not talking decorating.</p>
+        <p>11 P.M. (WE) COAL MINER'S DAUGHTER (1980). Long before Reese Witherspoon won her Oscar playing June Carter Cash in ''Walk the Line,'' Sissy Spacek won hers portraying Loretta Lynn in this affecting biographical drama from Michael Apted. And like Ms. Witherspoon, she does all the singing. KATHRYN SHATTUCK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

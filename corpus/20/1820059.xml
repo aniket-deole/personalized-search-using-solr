@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bush to Visit Democrats' Retreat</title>
+    <meta content="20bush" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/20/us/politics/20bush.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820059"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <location class="indexing_service">Williamsburg (Va)</location>
+        <person class="indexing_service">Stolberg, Sheryl Gay</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Virginia/Williamsburg</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Virginia</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Democratic Party</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E0D91E30F933A15752C0A9619C8B63" item-length="300" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bush to Visit Democrats' Retreat</hl1>
+        <hl2 class="online_headline">Bush to Visit Democrats’ Retreat</hl2>
+      </hedline>
+      <byline class="print_byline">By SHERYL GAY STOLBERG</byline>
+      <byline class="normalized_byline">Stolberg, Sheryl Gay</byline>
+      <dateline>WASHINGTON, Jan. 19</dateline>
+      <abstract>
+        <p>Pres Bush accepts invitation from House Democrats to travel to Williamsburg, Va, in February to speak at their annual issues conference (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Who says bipartisanship is dead? President Bush has accepted an invitation from House Democrats to travel to Williamsburg, Va., in February to speak at their annual issues conference, a move that might have been unthinkable a few short months ago, when Republicans ran Capitol Hill.</p>
+        <p>Mr. Bush has addressed the Democratic retreat before, in 2001, the first year he was in office. His planned appearance this year, on Feb. 3, was announced by Representative Rahm Emanuel, chairman of the House Democratic caucus, in an e-mail message to colleagues on Friday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush has accepted an invitation from House Democrats to travel to Williamsburg, Va., in February to speak at their annual issues conference.</p>
+      </block>
+      <block class="full_text">
+        <p>Who says bipartisanship is dead? President Bush has accepted an invitation from House Democrats to travel to Williamsburg, Va., in February to speak at their annual issues conference, a move that might have been unthinkable a few short months ago, when Republicans ran Capitol Hill.</p>
+        <p>Mr. Bush has addressed the Democratic retreat before, in 2001, the first year he was in office. His planned appearance this year, on Feb. 3, was announced by Representative Rahm Emanuel, chairman of the House Democratic caucus, in an e-mail message to colleagues on Friday.</p>
+        <p>''I'm happy to announce that President Bush has accepted our invitation to address the conference on Saturday morning,'' Mr. Emanuel wrote, adding that former President Bill Clinton would also be there.</p>
+        <p>Mr. Bush's appearance is testimony to the changed climate on Capitol Hill, where Democrats have just pushed six major pieces of legislation through the House, on issues including student loans, Medicare prescription drugs and stem cell research, with some Republican support. A White House spokeswoman said Mr. Bush would deliver a speech to the Democrats and take five questions.</p>
+        <p>In the months since Democrats won the November midterm elections, members of both parties, and the president, have said they want to work together in a bipartisan way. But with Democrats strongly opposed to Mr. Bush's plan to send additional troops to Iraq, relations between the two sides have not exactly been lovey-dovey in recent days.</p>
+        <p>On Friday, Speaker Nancy Pelosi accused the president of moving quickly to put the troops ''in harm's way'' because he knew Democrats would not cut off financing once troops were sent into battle. That prompted a sharp response from Dana Perino, a White House spokeswoman, who called Ms. Pelosi's comments ''poisonous.''</p>
+        <p>Just hours later, Mr. Emanuel sent out his announcement.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

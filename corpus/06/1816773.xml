@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="06btmcxns-10" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816773"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Greek Civilization</classifier>
+        <classifier class="indexing_service" type="descriptor">Looting</classifier>
+        <location class="indexing_service">Greece</location>
+        <org class="indexing_service">Getty, J Paul, Museum (Los Angeles)</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Archeology and Anthropology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Greece</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0D61430F935A35752C0A9619C8B63" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction on Dec 30 report about two artifacts that J Paul Getty Museum has agreed to return to Greece; there has been no independent finding that objects were illegally excavated</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the ''Arts, Briefly'' column last Saturday about criticism of officials at the J. Paul Getty Museum by the former antiquities curator referred imprecisely to the origin of two artifacts that the museum agreed to hand over to Greece last month. Although the Greek government contends they were looted from Greek soil, and the Getty says they should rightfully be returned, there has been no independent finding that the objects were illegally excavated.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the ''Arts, Briefly'' column last Saturday about criticism of officials at the J. Paul Getty Museum by the former antiquities curator referred imprecisely to the origin of two artifacts that the museum agreed to hand over to Greece last month. Although the Greek government contends they were looted from Greek soil, and the Getty says they should rightfully be returned, there has been no independent finding that the objects were illegally excavated.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

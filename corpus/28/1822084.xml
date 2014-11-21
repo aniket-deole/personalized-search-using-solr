@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alas, the Best Time To Buy a House Was 35 Years Ago</title>
+    <meta content="28count" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/business/yourmoney/28count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822084"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <org class="indexing_service">National Association of Realtors</org>
+        <person class="indexing_service">Korkki, Phyllis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E6DB173FF93BA15752C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alas, the Best Time To Buy a House Was 35 Years Ago</hl1>
+        <hl2 class="online_headline">Alas, the Best Time to Buy a House Was 35 Years Ago</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+      <byline class="normalized_byline">Korkki, Phyllis</byline>
+      <abstract>
+        <p>Alas, the Best Time to Buy a House Was 35 Years A</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is easy to calculate the worst time to buy a house: usually, it's exactly when you are looking for one.</p>
+        <p>If it's a buyer's market, then interest rates may be so high that you can't afford anything decent. But if interest rates and prices are nice and low, then smarter, quicker buyers are sure to find the best deals.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It is easy to calculate the worst time to buy a house: usually, it’s exactly when you are looking for one.</p>
+      </block>
+      <block class="full_text">
+        <p>It is easy to calculate the worst time to buy a house: usually, it's exactly when you are looking for one.</p>
+        <p>If it's a buyer's market, then interest rates may be so high that you can't afford anything decent. But if interest rates and prices are nice and low, then smarter, quicker buyers are sure to find the best deals.</p>
+        <p>That can be how it seems, anyway, when so much money is on the line. But a chart from the National Association of Realtors shows that some years are actually much easier on the bank account for the average home buyer, based on the convergence of interest rates, median home price and median family income.</p>
+        <p>In these days of no money down, the chart somewhat quaintly (and prudently) assumes a 20 percent down payment and 25 percent of gross income going toward mortgage principal and interest. Given those assumptions, the early 1980s, when interest rates soared into the double digits, were the worst time to buy a home, while the early '70s were the halcyon days.</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

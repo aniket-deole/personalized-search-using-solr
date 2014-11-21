@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Help the Homeless</title>
+    <meta content="l25homeless" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821303"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Volunteers of America</org>
+        <person class="indexing_service">Motta, Richard P</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E6DA163FF936A15752C0A9619C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Help the Homeless</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Richard Motta, president and CEO, Volunteers of America-Greater New York, says merchants of Madison Avenue should band together and work with city and nonprofit providers to help chronically homeless make transition from streets to shelters and permanent homes instead of filing suits (Jan 18 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Antique Dealer Sues to Bar Homeless From Sidewalk'' (news article, Jan. 18): The merchants of Madison Avenue would do better to band together and work with New York City and nonprofit providers in coordinated action to help the chronically homeless make the transition off the streets and into shelters and permanent homes.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Antique Dealer Sues to Bar Homeless From Sidewalk'' (news article, Jan. 18): The merchants of Madison Avenue would do better to band together and work with New York City and nonprofit providers in coordinated action to help the chronically homeless make the transition off the streets and into shelters and permanent homes.</p>
+        <p>While suing may draw temporary attention to the matter, it will hardly provide permanent relief for residents, business owners or the homeless, who need patience, treatment and a roof over their heads, not time in front of a judge.</p>
+        <p>Richard Motta  President and C.E.O., Volunteers  of America-Greater New York  New York, Jan. 22, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

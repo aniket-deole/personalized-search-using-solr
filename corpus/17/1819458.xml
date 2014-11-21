@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Keep Your Shoes On, for a Price</title>
+    <meta content="17wed2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/17/opinion/17wed2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819458"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Shoes and Boots</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Airports</classifier>
+        <classifier class="online_producer" type="descriptor">X-Rays</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="descriptor">Shoes and Boots</classifier>
+        <classifier class="online_producer" type="general_descriptor">X-Rays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shoes and Boots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <org class="online_producer">Transportation Security Administration</org>
+        <person class="online_producer">Brill, Steven T</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE6DF1130F934A25752C0A9619C8B63" item-length="425" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Keep Your Shoes On, for a Price</hl1>
+        <hl2 class="online_headline">Keep Your Shoes On, for a Price</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial reports that annoying hassle of taking one's shoes off at airport security will soon be lifted at some airports for those willing to pay $100 for pre-screening by private registered-traveler companies; hopes new technology will trickle down to everyone</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Of all the hassles at the airport in this age of heightened security, perhaps the most annoying is the requirement to take off your shoes to send them through the X-ray screener. That burden will be lifted at some airports shortly -- for those willing to pay about $100 a year for the privilege.</p>
+        <p>The Transportation Security Administration has recently approved a new device that will scan your shoes while you are still wearing them. It uses quadrupole resonance technology, similar to a medical M.R.I., to determine whether explosives or weapons might be hidden in your shoes. It is the first important new technology to emerge from the for-profit registered traveler programs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Of all the hassles at the airport in this age of heightened security, perhaps the most annoying is the requirement to take off your shoes to send them through the X-ray screener.</p>
+      </block>
+      <block class="full_text">
+        <p>Of all the hassles at the airport in this age of heightened security, perhaps the most annoying is the requirement to take off your shoes to send them through the X-ray screener. That burden will be lifted at some airports shortly -- for those willing to pay about $100 a year for the privilege.</p>
+        <p>The Transportation Security Administration has recently approved a new device that will scan your shoes while you are still wearing them. It uses quadrupole resonance technology, similar to a medical M.R.I., to determine whether explosives or weapons might be hidden in your shoes. It is the first important new technology to emerge from the for-profit registered traveler programs.</p>
+        <p>The hitch is that, for now, you have to pay to join a program in which private companies pledge to move you through the security lines a bit faster if you submit to a government background check in advance and supply biometric data -- like a thumbprint or iris scan -- that can be used to identify you at the airport.</p>
+        <p>The lead company in the field, founded by Steven Brill, operates the registered traveler lanes in Orlando, Fla., where use of the shoe scanner started yesterday, and plans to open lanes at four more airports in coming weeks. That will include Kennedy Airport, where one lane opened yesterday but with its shoe scanner not yet operational.</p>
+        <p>The scanner was developed for Mr. Brill's company by G.E. Security, a subsidiary of General Electric. It is part of a kiosk that also includes a device to scan fingertips for traces of chemicals that might indicate recent contact with explosives. That technology, if approved by the federal government, could make it possible for travelers to be X-rayed for hidden explosives without first having to take off their coats. Another company is exploring backscatter X-ray technology that can see through clothing to detect hidden objects, although that carries privacy implications. Also down the road is a technology to scan laptops without removing them from their cases.</p>
+        <p>These technology advances could become the major contribution of registered traveler programs, which otherwise simply offer those willing to pay an annual fee a designated fast lane to a set of the airport's standard metal detectors and X-ray scanners. The kiosks cost a hefty $150,000, probably too much for the government to swallow. But G.E. would surely relish a broad market, and volume production would presumably reduce the price. Someday these technologies may trickle down to us all, and the registered traveler companies will have to keep finding new devices to stay ahead.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

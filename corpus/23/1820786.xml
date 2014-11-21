@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  TRACHTENBERG, JACOB (JACK)</title>
+    <meta content="dn012307" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820786"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">TRACHTENBERG, JACOB (JACK)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E4DA1F3AF930A15752C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  TRACHTENBERG, JACOB (JACK)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TRACHTENBERG--Jacob (Jack), of Riverdale, January 21, 2007. Beloved husband of Elaine (Boriskin) Trachtenberg. Devoted father of Ira Weintraub and Anne McGuire of Weymouth, MA. Loving grandfather of Johanna and Kathryn Weintraub. Also survived by brother, Leo Trachtenberg, nephew Daniel Trachtenberg, his wife, Cari, and their daughter, Allie. Services at the Weinstein Memorial Chapel, 1652 Central Park Avenue, Yonkers, on Tuesday, January 23, at 12:30 pm. Memorial observance will be at the home of Elaine Trachtenberg, 2621 Palisade Avenue, Apt. 4H, Bronx, NY, on January 23 from 4:30 to 7:30 pm and January 24 from 1:00 to 5:00 pm.</p>
+      </block>
+      <block class="full_text">
+        <p>TRACHTENBERG--Jacob (Jack), of Riverdale, January 21, 2007. Beloved husband of Elaine (Boriskin) Trachtenberg. Devoted father of Ira Weintraub and Anne McGuire of Weymouth, MA. Loving grandfather of Johanna and Kathryn Weintraub. Also survived by brother, Leo Trachtenberg, nephew Daniel Trachtenberg, his wife, Cari, and their daughter, Allie. Services at the Weinstein Memorial Chapel, 1652 Central Park Avenue, Yonkers, on Tuesday, January 23, at 12:30 pm. Memorial observance will be at the home of Elaine Trachtenberg, 2621 Palisade Avenue, Apt. 4H, Bronx, NY, on January 23 from 4:30 to 7:30 pm and January 24 from 1:00 to 5:00 pm.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GOLDMAN, LORRAINE</title>
+    <meta content="dn012507" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821195"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GOLDMAN, LORRAINE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2D91F3AF936A15752C0A9619C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GOLDMAN, LORRAINE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOLDMAN--Lorraine. Mommy, you always gave us wings. We love you. Stephanie, Andrew, Justin, Samantha, and Bennett.</p>
+        <p>$(6$)GOLDMAN--Lorraine Ross, beloved daughter of the late Edythe and Dr. Jerome H. Ross, sister of the late Richard Ross. A self-made success at Merrill Lynch, rising to the position of Vice President, Lorraine mentored many young colleagues. Her integrity and strength of character enabled her to achieve uncommon heights for a beautiful woman in a man's world. Loyalty and a passionate heart were the foundations of many loving friendships that lasted a lifetime. Lori will be sorely missed by all who knew her. She is survived by two daughters and six grandchildren. Services Friday 10 AM at ''The Riverside'' 76th St. and Amsterdam Ave.</p>
+        <p>$(6$)GOLDMAN--Lorraine. Dear Mommy, may you find peace. I love you. Love, Cindy</p>
+      </block>
+      <block class="full_text">
+        <p>GOLDMAN--Lorraine. Mommy, you always gave us wings. We love you. Stephanie, Andrew, Justin, Samantha, and Bennett.</p>
+        <p>$(6$)GOLDMAN--Lorraine Ross, beloved daughter of the late Edythe and Dr. Jerome H. Ross, sister of the late Richard Ross. A self-made success at Merrill Lynch, rising to the position of Vice President, Lorraine mentored many young colleagues. Her integrity and strength of character enabled her to achieve uncommon heights for a beautiful woman in a man's world. Loyalty and a passionate heart were the foundations of many loving friendships that lasted a lifetime. Lori will be sorely missed by all who knew her. She is survived by two daughters and six grandchildren. Services Friday 10 AM at ''The Riverside'' 76th St. and Amsterdam Ave.</p>
+        <p>$(6$)GOLDMAN--Lorraine. Dear Mommy, may you find peace. I love you. Love, Cindy</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

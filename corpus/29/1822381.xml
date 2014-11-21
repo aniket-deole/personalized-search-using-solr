@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The City That Never Walks</title>
+    <meta content="29sullivan" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/opinion/29sullivan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822381"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Walking</classifier>
+        <classifier class="indexing_service" type="descriptor">Bicycles and Bicycling</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Sullivan, Robert</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Biking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Hiking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Walking</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="descriptor">Bicycles and Bicycling</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Walking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bicycles and Bicycling</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <location class="online_producer">New Jersey</location>
+        <location class="online_producer">Times Square and 42nd Street (NYC)</location>
+        <org class="online_producer">Transportation Alternatives</org>
+        <org class="online_producer">Department of Transportation</org>
+        <person class="online_producer">Sullivan, Robert</person>
+        <person class="online_producer">Moses, Robert</person>
+        <person class="online_producer">Bloomberg, Michael R</person>
+        <person class="online_producer">Schaller, Bruce</person>
+        <person class="online_producer">Jackson, John Brinckerhoff</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E5DE143FF93AA15752C0A9619C8B63" item-length="1146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The City That Never Walks</hl1>
+        <hl2 class="online_headline">The City That Never Walks</hl2>
+      </hedline>
+      <byline class="print_byline">By Robert Sullivan</byline>
+      <byline class="normalized_byline">Sullivan, Robert</byline>
+      <abstract>
+        <p>Op-Ed article by Robert Sullivan says New York has lost its golden pedestrian touch, and even bicyclists are being discouraged; says increasingly, New Yorkers are always finding good reasons to drive; suspects this is partly based on strange reversal: influx of former suburbanites who have returned to city they abandoned years ago, bringing with them a love of cars; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR the past two decades, New York has been an inspiration to other American cities looking to revive themselves. Yes, New York had a lot of crime, but somehow it also still had neighborhoods, and a core that had never been completely abandoned to the car. Lately, though, as far as pedestrian issues go, New York is acting more like the rest of America, and the rest of America is acting more like the once-inspiring New York.</p>
+        <p>As a New Yorker who has spent two years researching roads and transportation across the United States, I am saddened to see our city falling behind places like downtown Albuquerque, where one-way streets have become more pedestrian-friendly two-way streets, and car lanes are replaced by bike lanes, with bike racks everywhere.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As a New Yorker who has spent two years researching roads and transportation across the United States, I am saddened to see that the city is losing its edge as a pedestrian mecca.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR the past two decades, New York has been an inspiration to other American cities looking to revive themselves. Yes, New York had a lot of crime, but somehow it also still had neighborhoods, and a core that had never been completely abandoned to the car. Lately, though, as far as pedestrian issues go, New York is acting more like the rest of America, and the rest of America is acting more like the once-inspiring New York.</p>
+        <p>As a New Yorker who has spent two years researching roads and transportation across the United States, I am saddened to see our city falling behind places like downtown Albuquerque, where one-way streets have become more pedestrian-friendly two-way streets, and car lanes are replaced by bike lanes, with bike racks everywhere.</p>
+        <p>Then there is Grand Rapids, Mich., which has a walkable downtown with purposely limited parking and is home to a new bus plaza that is part of a mass transit renaissance in Michigan. The state is investing in high-speed trains, and it is even talking about a mass transit system for the nation's auto-capital, Detroit, where a new pedestrian plaza anchors downtown. In Indianapolis, an urban walking and biking trail will soon link inner-city neighborhoods -- something New York certainly hasn't tried.</p>
+        <p>We have lost our golden pedestrian touch in New York mostly because we still think about traffic as though it were 1950, and we needed Robert Moses to plow a few giant freeways through town to get the cars moving again. But the fact is that more roads equal more traffic.</p>
+        <p>London now charges drivers a fee to enter the core business area, but here such initiatives are branded as anti-car, and thus anti-personal freedom: a congestion fee, critics say, is a tax on the middle-class car commuter. But as matters now stand, the pedestrian is taxed every day: by delays and emissions, by asthma rates that are (in the Bronx) as much as four times the national average. Though we think of it as a luxury, the car taxes us, and with it we tax others.</p>
+        <p>And yet, here in New York, we even have the debate over bicycle traffic backwards. We focus on drivers' complaints about the bicycle commuter who races through red lights, rather than on the concerns of the mother biking her child around organic-food delivery trucks that idle in bike-only lanes. In December, the police say, a bicyclist was killed on the Hudson River Greenway by a drunken driver speeding along a bike lane that was completely separated from the road. Asked what was being done to improve safety in light of the biker's death, Mayor Michael Bloomberg suggested that bikers ''pay attention.''</p>
+        <p>''Even if they're in the right, they are the lightweights,'' he told a reporter.</p>
+        <p>Contrast this response with that of Mayor Richard Daley of Chicago after a 4-year-old pedestrian was killed in a hit and run. Mayor Daley immediately set up a pedestrian awareness program, suggested that police sting operations arrest speeding drivers and proposed to add 500 miles of bike lanes, so that there would be one within a half-mile of every resident.</p>
+        <p>One reason New York is losing its New York edge may be that the city's revival is partly based on a strange reversal: the city is the new suburb. Families have returned to the New York that was abandoned years ago for lawns and better public schools. They've brought with them a love of cars. A new study by Bruce Schaller, a local transportation consultant, shows that half the drivers in Manhattan are from the city -- and that more city residents than suburbanites drive to work every day.</p>
+        <p>New Yorkers always find good reasons to drive. Public transportation is dirty, time-consuming, a hassle, unsafe. Walking takes too long. The children will be late for school. But choosing the car is no longer safe -- for your children who already don't get enough exercise, for anyone's lungs or for the future of New York as a livable place. There are even such things as secondhand driving effects: studies show that people who live on high-traffic streets tend to stay inside.</p>
+        <p>The simple and elegant cure for the loss of New York's inner pedestrian is to open up car-clogged streets and public spaces. Another of Mr. Schaller's surveys, sponsored by the citizens' group Transportation Alternatives, showed that 89 percent of people questioned on Prince Street in SoHo got there by subway, bus, foot or bicycle, and that the majority would gladly give up parking for more pedestrian space.</p>
+        <p>With a million more New Yorkers scheduled to arrive by 2030, true sustainability requires the city -- or at least its residents -- to make a bold move. Some neighborhoods are already working on it. The Ninth Avenue Renaissance Project, sponsored by a coalition of residents and businesses, has held community workshops on converting Ninth Avenue from Lincoln Tunnel access ramp to boulevard.</p>
+        <p>The now chic Meatpacking District plans to bring back a space that, since the area was a Native American village, has been a natural gathering place for people without combustion engines: wider sidewalks, public seating and a piazza in the restaurant-surrounded open field of paving stones could be more like Campo dei Fiori in Rome and less a spot for crazed U-turns. In Williamsburg, Brooklyn, the city's Department of Transportation has replaced parking spaces near a subway station with rows of bike racks.</p>
+        <p>But these are tiny steps. Boston's mayor has endorsed converting Hanover Street in the city's North End into a car-free pedestrian mall. Why don't we do the same in part or even all of SoHo? In Los Angeles, some traffic lights are programmed to change for approaching buses (a signal in the bus alerts the light). Why can't the same happen on 14th Street?</p>
+        <p>And if Boulder, Baltimore, Sacramento, San Diego, Denver, Houston, Dallas, Portland, Ore., and Bergen County in New Jersey can build light rails, then why can't New York finally put one on 42nd Street? Times Square could be the Crossroads of People instead of the Crossroads of Car Congestion.</p>
+        <p>These are relatively cheap changes -- in some cases, they require just a couple of sawhorses. And New York's walkability is crucial to its character, no small part of which is its relative freedom from America's plague of strip malls. The great shame of the 22-acre Atlantic Yards mega-development in Brooklyn is that it seems like something out of Atlanta in the 1990s.</p>
+        <p>Not today's Atlanta. Today's Atlanta is building a circular hiking, recreation and even transit trail, a little like the still unfinished Manhattan greenway.</p>
+        <p>''Roads no longer merely lead to places; they are places,'' wrote John Brinckerhoff Jackson, the landscape historian. We've already lost a lot of New York to traffic. If New Yorkers don't get out of their cars soon, the city's future residents won't have a reason to.</p>
+        <p>Op-Ed Contributor Robert Sullivan, a contributing editor at Vogue, is the author, most recently, of ''Cross Country.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Robert Sullivan, a contributing editor at Vogue, is the author, most recently, of ''Cross Country.''</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tackling Taxes</title>
+    <meta content="WE--Taxing" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/opinion/nyregionopinions/WE_Taxing.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820352"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Long Island | Westchester"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">Nassau County (NY)</location>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <person class="indexing_service">Weitzman, Howard S (Comptroller)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <location class="online_producer">Westchester County (NY)</location>
+        <location class="online_producer">Long Island (NY)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1D61130F932A15752C0A9619C8B63" item-length="523" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tackling Taxes</hl1>
+        <hl2 class="online_headline">Tackling Taxes</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial praises Nassau County Comptroller Howard Weitzman's report highlighting ways that more than 200 special taxing districts in county could save large amounts of money; holds New York Gov Eliot Spitzer and municipalities everywhere, including those in Westchester County, should enact Weitzman's recommendations</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As targets of suburban loathing and despair, property taxes get all the attention, particularly in Westchester, whose property taxes are among the highest in the nation. But there are many other tributaries flowing into the sea of taxes in which New Yorkers float.</p>
+        <p>The proliferation of taxing districts -- counties, towns, villages, hamlets, fire departments, sewer and sanitary districts -- has left us all in a trap. We love the amenities of multiple governments but ache under the burden of paying for them all. The cost of living here keeps rising in ways that seem beyond anyone's control, since children need the best schooling, and other things like garbage collection and gleaming fire trucks, while expensive, are also seen as essential. Or, if not essential, then at least immovable. In many cases the special taxing districts have become politically tenacious fiefdoms: secretive, highly fortified and resistant to siege.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People like to complain about special taxing districts, but it took the Nassau County Comptroller, Howard Weitzman, to sink his watchdog’s teeth into it.</p>
+      </block>
+      <block class="full_text">
+        <p>As targets of suburban loathing and despair, property taxes get all the attention, particularly in Westchester, whose property taxes are among the highest in the nation. But there are many other tributaries flowing into the sea of taxes in which New Yorkers float.</p>
+        <p>The proliferation of taxing districts -- counties, towns, villages, hamlets, fire departments, sewer and sanitary districts -- has left us all in a trap. We love the amenities of multiple governments but ache under the burden of paying for them all. The cost of living here keeps rising in ways that seem beyond anyone's control, since children need the best schooling, and other things like garbage collection and gleaming fire trucks, while expensive, are also seen as essential. Or, if not essential, then at least immovable. In many cases the special taxing districts have become politically tenacious fiefdoms: secretive, highly fortified and resistant to siege.</p>
+        <p>People like to complain about the problem, but it took the Nassau County Comptroller, Howard Weitzman, to sink his watchdog's teeth into it. Last month he issued a report highlighting ways that the more than 200 special taxing districts in Nassau -- whose total tax bill was more than $473 million last year -- could save large amounts of money. Officials in Westchester could learn something from what Mr. Weitzman has to say.</p>
+        <p>Mr. Weitzman says that municipalities can save money without dissolving themselves or consolidating with other districts. These options have often been suggested, most recently by Gov. Eliot Spitzer, who wants to create a Commission on Local Government Efficiency to study the problem across the state, which has more than 4,200 taxing districts. Instead, Mr. Weitzman proposes smart trimming around the edges of the problem by imposing greater oversight and by pooling resources.</p>
+        <p>The first line of defense against special-district overspending -- watchful voters -- is faulty, since special-district elections are obscure rituals in which only the tiniest sliver of the electorate participates. So Mr. Weitzman suggests that town governments step in to control spending. As he interprets state law, towns have the authority to review the budgets of special districts, to compel them to justify expenses and to trim their budgets as needed. Two of Nassau's three towns -- North Hempstead and Oyster Bay -- have already begun doing so.</p>
+        <p>Mr. Weitzman's report outlines common-sense ways districts could band together to reduce insurance costs, pooling their risk through group self-insurance and saving money that would otherwise be spent unnecessarily on brokers' fees and redundant contracts with private companies. The same cooperation could apply to buying goods and services in bulk, or contracting with town governments for services like snow plowing and tree pruning at rates cheaper than those charged by private companies.</p>
+        <p>If there was ever any doubt that special-district spending could be tightened, it was shattered in 2005. That was the year Mr. Weitzman conducted eye-opening audits of sanitary districts in Nassau, finding numerous examples of wastefulness and lack of oversight, and Newsday published a series of articles detailing the sometimes grotesquely lavish spending by volunteer fire districts across Long Island. Mr. Spitzer and municipalities everywhere would do well to take a page, or several, from Mr. Weitzman's report.</p>
+        <p>Long Island | Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="05btmcxns-9" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816603"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Electronics Show</classifier>
+        <classifier class="indexing_service" type="descriptor">Dvd (Digital Versatile Disk)</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <org class="indexing_service">Metro-Goldwyn-Mayer Inc</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Paramount Pictures</org>
+        <org class="indexing_service">Sony Corp</org>
+        <org class="indexing_service">Time Warner Inc</org>
+        <org class="indexing_service">Toshiba Corp</org>
+        <org class="indexing_service">Twentieth Century Fox</org>
+        <org class="indexing_service">Universal Studios Inc</org>
+        <org class="indexing_service">Warner Brothers</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/DVD and Video</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Studios/Metro-Goldwyn-Mayer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Studios/Paramount Pictures</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Studios/Twentieth Century Fox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Studios/Universal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Studios/Warner Brothers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E6DA1430F936A35752C0A9619C8B63" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 4 article about proposed high-definition videodisc referred incorrectly to capability of Blue-ray players; they do play standard DVDs</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day yesterday about a proposed high-definition videodisc that will play on rival technologies referred incorrectly to one capability of the Blu-ray players, a rival to the HD-DVD technology. Blu-Ray players do, in fact, play standard DVDs, as do HD-DVD players. One difference is that some new HD-DVD discs are sold in a combination format that will also play on standard DVD players, while Blu-Ray discs currently do not have this feature.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day yesterday about a proposed high-definition videodisc that will play on rival technologies referred incorrectly to one capability of the Blu-ray players, a rival to the HD-DVD technology. Blu-Ray players do, in fact, play standard DVDs, as do HD-DVD players. One difference is that some new HD-DVD discs are sold in a combination format that will also play on standard DVD players, while Blu-Ray discs currently do not have this feature.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

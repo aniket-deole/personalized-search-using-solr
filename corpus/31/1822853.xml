@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judge Puts Mayo Back in Big Game</title>
+    <meta content="31preps" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/31/sports/othersports/31preps.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822853"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <location class="indexing_service">West Virginia</location>
+        <person class="indexing_service">Thamel, Pete</person>
+        <person class="indexing_service">Mayo, O J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/West Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/West Virginia</classifier>
+        <classifier class="online_producer" type="descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">West Virginia</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E0DE153FF932A05752C0A9619C8B63" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judge Puts Mayo Back in Big Game</hl1>
+        <hl2 class="online_headline">Judge Puts Mayo Back in Big Game</hl2>
+      </hedline>
+      <byline class="print_byline">By PETE THAMEL</byline>
+      <byline class="normalized_byline">Thamel, Pete</byline>
+      <abstract>
+        <p>Judge rules that Huntington High School (W Va) player O J Mayo can play in game against another top team after Mayo was initially suspended for two technical fouls (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A West Virginia judge ordered an injunction yesterday that allowed the high school basketball star O. J. Mayo to play last night in a game featuring two of the country's top teams.</p>
+        <p>Mayo, considered the best guard prospect since LeBron James, had 19 points and 12 rebounds for Huntington High School in a 73-66 victory against Artesia High of Lakewood, Calif., at Duke's Cameron Indoor Stadium in Durham, N.C. The game was part of the Hoophall Classic, a tripleheader matching elite high school teams. Huntington is ranked No. 2 nationally and Artesia No. 11.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A West Virginia judge ordered an injunction that allowed the high school basketball star O.J. Mayo to play in a game featuring two of the country’s top teams.</p>
+      </block>
+      <block class="full_text">
+        <p>A West Virginia judge ordered an injunction yesterday that allowed the high school basketball star O. J. Mayo to play last night in a game featuring two of the country's top teams.</p>
+        <p>Mayo, considered the best guard prospect since LeBron James, had 19 points and 12 rebounds for Huntington High School in a 73-66 victory against Artesia High of Lakewood, Calif., at Duke's Cameron Indoor Stadium in Durham, N.C. The game was part of the Hoophall Classic, a tripleheader matching elite high school teams. Huntington is ranked No. 2 nationally and Artesia No. 11.</p>
+        <p>Mayo was initially suspended from the game because he received two technical fouls in a game Friday night. The resulting two-game suspension, automatic under state rules, caused a furor around West Virginia because of the questionable nature of the second technical foul.</p>
+        <p>The referee Mike Lazo appeared to exaggerate his fall to the ground when Mayo approached him, adding a bizarre twist to the incident. Video from the game played on the Web has fueled the story nationally.</p>
+        <p>According to a copy of the court documents, the order from Chief Judge Dan P. O'Hanlon of Cabell County allowed Mayo to play because, among other reasons, he ''will suffer immediate and irreparable injury before the adverse party can fully be heard in opposition.''</p>
+        <p>The injunction also said that the West Virginia Secondary School Athletic Commission's decision to apply its rules to out-of-state contests was ''clearly wrong.'' In a separate ruling, the five Huntington reserves who were thrown out of Friday's game for leaving the bench after Mayo was ejected were also allowed to play last night.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

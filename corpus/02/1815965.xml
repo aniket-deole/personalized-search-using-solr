@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calling It a Sick Day</title>
+    <meta content="02lett-4" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815965"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Absenteeism</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Colds</classifier>
+        <person class="indexing_service">Livote, Elayne</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E1DF1730F931A35752C0A9619C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calling It a Sick Day</hl1>
+      </hedline>
+      <abstract>
+        <p>Elayne Livote letter on December 26 article about sick days at work says that some companies have consolidated all days off into one category of paid time off and many employees come to work even if they are sick so that they do not lose vacation time</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Sniffling, Sneezing and Turning Cubicles Into Sick Bays'' (Dec. 26) did not mention another reason that sick people come to work. In an effort to curb the abuse of sick days, some companies have adopted ''paid time off,'' which makes no distinction between vacation, personal and sick days.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Sniffling, Sneezing and Turning Cubicles Into Sick Bays'' (Dec. 26) did not mention another reason that sick people come to work. In an effort to curb the abuse of sick days, some companies have adopted ''paid time off,'' which makes no distinction between vacation, personal and sick days.</p>
+        <p>At a prior employer, the unintended consequence was that employees (myself included) came to view all the days as vacation days, preferring to come to work sick rather than waste a vacation day.</p>
+        <p>Elayne Livote  Pound Ridge, NY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

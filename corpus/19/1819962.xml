@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Manning Keeps Quiet</title>
+    <meta content="19playoffs-2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819962"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">Indianapolis Colts</org>
+        <org class="indexing_service">New England Patriots</org>
+        <person class="indexing_service">Battista, Judy</person>
+        <person class="indexing_service">Manning, Peyton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Indianapolis Colts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New England Patriots</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EEDC1E30F93AA25752C0A9619C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Manning Keeps Quiet</hl1>
+      </hedline>
+      <byline class="print_byline">By JUDY BATTISTA</byline>
+      <byline class="normalized_byline">Battista, Judy</byline>
+      <abstract>
+        <p>Indianapolis Colts and quarterback Peyton Manning prepare to face New England Patriots in playoff game (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Colts quarterback Peyton Manning has been noticeably quiet this week in Indianapolis, opting to address the news media only once -- at a huge news conference scheduled for Friday afternoon. So it has fallen to the rest of the Colts to guess how Manning will be judged after Sunday's game against the Patriots.</p>
+        <p>Manning, for all his regular-season success and stratospheric statistics, is in an unenviable position. He is constantly compared to Patriots quarterback Tom Brady, who is 12-1 in the postseason, even if he is no threat to break the passing records that Manning will set.</p>
+      </block>
+      <block class="full_text">
+        <p>Colts quarterback Peyton Manning has been noticeably quiet this week in Indianapolis, opting to address the news media only once -- at a huge news conference scheduled for Friday afternoon. So it has fallen to the rest of the Colts to guess how Manning will be judged after Sunday's game against the Patriots.</p>
+        <p>Manning, for all his regular-season success and stratospheric statistics, is in an unenviable position. He is constantly compared to Patriots quarterback Tom Brady, who is 12-1 in the postseason, even if he is no threat to break the passing records that Manning will set.</p>
+        <p>Manning will almost certainly own every passing record before he retires, but he is 5-6 in playoff games and is in danger of inching into Dan Marino's shoes as the best quarterback to never have won a Super Bowl.</p>
+        <p>In a conference call earlier this week, the former Jets quarterback Boomer Esiason said that if the Colts lose Sunday, Manning will be lumped into the same category as the Yankees' Alex Rodriguez: players who make the most money, but haven't won championships.</p>
+        <p>Colts Coach Tony Dungy arrived in Pittsburgh as a defensive back when Terry Bradshaw was winning Super Bowls for the Steelers, but he remembers when the jury was still out on Bradshaw. Manning, after nine years in the N.F.L., may be only halfway through his career.</p>
+        <p>''I don't think you judge him until his career is over,'' Dungy said.</p>
+        <p>JUDY BATTISTA</p>
+        <p>PRO FOOTBALL: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

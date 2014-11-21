@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Awaiting The Day When Everyone Writes Software</title>
+    <meta content="28slip" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/business/yourmoney/28slip.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822087"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SLIPSTREAM"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Software</classifier>
+        <org class="indexing_service">Intentional Software (Co)</org>
+        <person class="indexing_service">Simonyi, Charles</person>
+        <person class="indexing_service">Pontin, Jason</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Standards and Standardization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Standards and Standardization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <person class="online_producer">Simonyi, Charles</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E6DB173FF93BA15752C0A9619C8B63" item-length="1187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Awaiting The Day When Everyone Writes Software</hl1>
+        <hl2 class="online_headline">Awaiting the Day When Everyone Writes Software</hl2>
+      </hedline>
+      <byline class="print_byline">By JASON PONTIN</byline>
+      <byline class="normalized_byline">Pontin, Jason</byline>
+      <abstract>
+        <p>Intentional Software chief executive Charles Simonyi advocates 'intentional programming' in effort to correct bugs and other software troubles that cost businesses and economy $59.5 billion annually; aims to design software that does more to anticipate behavior of computer users; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BJARNE STROUSTRUP, the designer of C++, the most influential programming language of the last 25 years, has said that ''our technological civilization depends on software.'' True, but most software isn't much good. Too many programs are ugly: inelegant, unreliable and not very useful. Software that satisfies and delights is as rare as a phoenix.</p>
+        <p>All this does more than frustrate computer users. Bad software is terrible for business and the economy. Software failures cost $59.5 billion a year, the National Institute of Standards and Technology concluded in a 2002 study, and fully 25 percent of commercial software projects are abandoned before completion. Of projects that are finished, 75 percent ship late or over budget.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Too many software programs are ugly: inelegant, unreliable and not very useful. Software that satisfies and delights is as rare as a phoenix.</p>
+      </block>
+      <block class="full_text">
+        <p>BJARNE STROUSTRUP, the designer of C++, the most influential programming language of the last 25 years, has said that ''our technological civilization depends on software.'' True, but most software isn't much good. Too many programs are ugly: inelegant, unreliable and not very useful. Software that satisfies and delights is as rare as a phoenix.</p>
+        <p>All this does more than frustrate computer users. Bad software is terrible for business and the economy. Software failures cost $59.5 billion a year, the National Institute of Standards and Technology concluded in a 2002 study, and fully 25 percent of commercial software projects are abandoned before completion. Of projects that are finished, 75 percent ship late or over budget.</p>
+        <p>The reasons aren't hard to divine. Programmers don't know what a computer user wants because they spend their days interacting with machines. They hunch over keyboards, pecking out individual lines of code in esoteric programming languages, like medieval monks laboring over illustrated manuscripts.</p>
+        <p>Worse, programs today contain millions of lines of code, and programmers are fallible like all other humans: there are, on average, 100 to 150 bugs per 1,000 lines of code, according to a 1994 study by the Software Engineering Institute at Carnegie Mellon University. No wonder so much software is so bad: programmers are drowning in ignorance, complexity and error.</p>
+        <p>Charles Simonyi, the chief executive of Intentional Software, a start-up in Bellevue, Wash., believes that there is another way. He wants to overthrow conventional coding for something he calls ''intentional programming,'' in which programmers would talk to machines as little as possible. Instead, they would concentrate on capturing the intentions of computer users.</p>
+        <p>Mr. Simonyi, the former chief architect of Microsoft, is arguably the most successful pure programmer in the world, with a personal fortune that Forbes magazine estimates at $1 billion. There may be richer programmer-billionaires -- Bill Gates of Microsoft and Larry Page of Google come to mind -- but they became rich by founding and managing technology ventures; Mr. Simonyi rose mainly by writing code.</p>
+        <p>He designed Microsoft's most successful applications, Word and Excel, and he devised the programming method that the company's software developers have used for the last quarter-century. Mr. Simonyi, 58, was important before he joined Microsoft in 1981, too. He belongs to the fabled generation of supergeeks who invented personal computing at Xerox PARC in the 1970s: there, he wrote the first modern application, a word processor called Bravo that displayed text on a computer screen as it would appear when printed on page.</p>
+        <p>Even at leisure, Mr. Simonyi, who was born in Hungary and taught himself programming by punching machine code on Russian mainframes, is a restless, expansive personality. In April, he will become the fifth space tourist, paying $20 million to board a Russian Soyuz rocket and visit the International Space Station.</p>
+        <p>Mr. Simonyi says he is not disgusted with big, bloated, buggy programs like Word and Excel. But he acknowledges that he is disappointed that we have been unable to use ''our incredible computational ability'' to address efficiently ''our practical computational problems.''</p>
+        <p>''Software is truly the bottleneck in the high-tech horn of plenty,'' he said.</p>
+        <p>Mr. Simonyi began thinking about a new method for creating software in the mid-1990s, while he was still at Microsoft. But his ideas were so at odds with .Net, the software environment that Microsoft was building then, that he left the company in 2002 to found Intentional Software.</p>
+        <p>''It was impractical, when Microsoft was making tremendous strides with .Net, to send somebody out from the same organization who says, 'What if you did things in this other, more disruptive way?' '' he said in the January issue of Technology Review .</p>
+        <p>For once, that overfavored word -- ''disruptive'' -- is apt; intentional programming is disruptive. It would automate much of software development.</p>
+        <p>The method begins with the intentions of the people inside an organization who know what a program should do. Mr. Simonyi calls these people ''domain experts,'' and he expects them to work with programmers to list all the concepts the software must possess.</p>
+        <p>The concepts are then translated into a higher-level representation of the software's functions called the domain code, using a tool called the domain workbench.</p>
+        <p>At two conferences last fall, Intentional Software amazed software developers by demonstrating how the workbench could project the intentions of domain experts into a wonderful variety of forms. Using the workbench, domain experts and programmers can imagine the program however they want: as something akin to a PowerPoint presentation, as a flow chart, as a sketch of what they want the actual user screen to look like, or in the formal logic that computer scientists love.</p>
+        <p>Thus, programmers and domain experts can fiddle with whatever projections they prefer, editing and re-editing until both parties are happy. Only then is the resulting domain code fed to another program called a generator that manufactures the actual target code that a computer can compile and run. If the software still doesn't do what its users want, the programmers can blithely discard the target code and resume working on the domain workbench with the domain experts.</p>
+        <p>As an idea, intentional programming is similar to the word processor that Mr. Simonyi developed at PARC. In the jargon of programming, Bravo was Wysiwyg -- an acronym, pronounced WIZ-e-wig, for ''what you see is what you get.'' Intentional programming also allows computer users to see and change what they are getting.</p>
+        <p>''Programming is very complicated,'' Mr. Simonyi said. ''Computer languages are really computer-oriented. But we can make it possible for domain experts to provide domain information in their own terms which then directly contributes to the production of the software.''</p>
+        <p>Intentional programming has three great advantages: The people who design a program are the ones who understand the task that needs to be automated; that design can be manipulated simply and directly, rather than by rewriting arcane computer code; and human programmers do not generate the final software code, thus reducing bugs and other errors.</p>
+        <p>NOT everyone believes in the promise of intentional programming. There are three common objections.</p>
+        <p>The first is theoretical: it is based on the belief that human intention cannot, in principle, be captured (or, less metaphysically, that computer users don't know what people want).</p>
+        <p>The second is practical: to programmers, the intentional method constitutes an ''abstraction'' of the underlying target code. But most programmers believe that abstractions ''leak'' -- that is, they fail to perfectly represent the thing they are meant to be abstracting, which means software developers must sink their hands into the code anyway.</p>
+        <p>The final objection is cynical: Mr. Simonyi has been working on intentional programming for many years; only two companies, bound to silence by nondisclosure agreements, acknowledge experimenting with the domain workbench and generator. Thus, no one knows if intentional programming works.</p>
+        <p>Sheltered by Mr. Simonyi's wealth, Intentional Software seems in no hurry to release an imperfect product. But it is addressing real and pressing problems, and Mr. Simonyi's approach is thrillingly innovative.</p>
+        <p>If intentional programming does what its inventor says, we may have something we have seldom enjoyed as computer users: software that makes us glad.</p>
+        <p>SLIPSTREAM Jason Pontin is the editor in chief and publisher of Technology Review, a magazine and Web site owned by M.I.T. E-mail: pontin@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Jason Pontin is the editor in chief and publisher of Technology Review, a magazine and Web site owned by M.I.T. E-mail: pontin@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

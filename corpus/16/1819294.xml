@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Castro 'Serious'; Report Details Many Surgeries</title>
+    <meta content="16fidel" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070118T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1819294"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <location class="indexing_service">Cuba</location>
+        <person class="indexing_service">Castro, Fidel (Pres)</person>
+        <person class="indexing_service">Lacey, Marc</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Cuba</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Cuba</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E4D81030F935A25752C0A9619C8B63" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Castro 'Serious'; Report Details Many Surgeries</hl1>
+      </hedline>
+      <byline class="print_byline">By MARC LACEY</byline>
+      <byline class="normalized_byline">Lacey, Marc</byline>
+      <dateline>MEXICO CITY, Jan. 15</dateline>
+      <abstract>
+        <p>Spanish newspaper El Pais reports Pres Fidel Castro of Cuba had series of surgeries to repair pouches that formed in his large intestine and later onset of serious infection in his stomach lining; this is most detailed accounting of his illness to date but it has not been independently confirmed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fidel Castro has had a series of surgeries in recent months to repair pouches that formed in his large intestine and later the onset of a serious infection in his stomach lining, a Spanish newspaper reported Monday.</p>
+        <p>The report by El Pais, the most detailed accounting of the Cuban leader's illness to date, could not be independently confirmed. The newspaper cited two anonymous medical sources at Gregorio Marañón Hospital in Madrid. Dr. José Luis García Sabrido, who is head of surgery at the hospital, examined Mr. Castro in December and told reporters afterward that the leader did not suffer from cancer, as American officials had speculated.</p>
+      </block>
+      <block class="full_text">
+        <p>Fidel Castro has had a series of surgeries in recent months to repair pouches that formed in his large intestine and later the onset of a serious infection in his stomach lining, a Spanish newspaper reported Monday.</p>
+        <p>The report by El Pais, the most detailed accounting of the Cuban leader's illness to date, could not be independently confirmed. The newspaper cited two anonymous medical sources at Gregorio Marañón Hospital in Madrid. Dr. José Luis García Sabrido, who is head of surgery at the hospital, examined Mr. Castro in December and told reporters afterward that the leader did not suffer from cancer, as American officials had speculated.</p>
+        <p>The Spanish newspaper said in a report posted on its Web site on Monday that Mr. Castro, who has not been seen in public since July 26, had suffered from diverticulitis, a serious ailment caused when the bulges that sometimes form in the colon of older people become infected.</p>
+        <p>In Mr. Castro's case, that later led to peritonitis, which is an inflaming of the stomach lining, the newspaper said. Describing his condition as ''very serious,'' the paper said Mr. Castro was being fed intravenously.</p>
+        <p>Doctors first removed a portion of Mr. Castro's large intestine and connected the colon to the rectum, the paper said. But the operation failed and fecal matter found its way into his stomach, causing an infection.</p>
+        <p>Later, doctors drained the infected area and performed a colostomy but that also failed, the paper said. A third operation implanted a prothesis. A Korean version failed, prompting Cuban doctors to order one from Spain.</p>
+        <p>In a news briefing in December, Dr. García Sabrido said Mr. Castro could recover from the intestinal bleeding that required him to hand over power to his brother Raúl. But the doctor said he ''required muscular rehabilitation and a strict diet.''</p>
+        <p>''He does not have cancer, he has a problem with his digestive system,'' Dr. García Sabrido told reporters. ''President Castro has no malign inflammation. It's a benign process in which he has had a series of complications.''</p>
+        <p>Reuters reported Monday that those complications included stitches that have not healed properly. Quoting an unidentified diplomat from a country with close relations to Cuba, Reuters said Mr. Castro was taken to the operating room seven times in a single day in December to deal with the problem.</p>
+        <p>Correction:  January 18, 2007, Thursday  An article on Tuesday about intestinal surgeries that a Spanish newspaper said had been performed on Fidel Castro referred incorrectly to peritonitis, a serious condition that the newspaper said had afflicted Mr. Castro after one of the surgeries. Peritonitis is an inflammation of the lining of the abdominal cavity, called the peritoneum; it is not an inflammation of the stomach lining.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 18, 2007, Thursday</p>
+        <p>An article on Tuesday about intestinal surgeries that a Spanish newspaper said had been performed on Fidel Castro referred incorrectly to peritonitis, a serious condition that the newspaper said had afflicted Mr. Castro after one of the surgeries. Peritonitis is an inflammation of the lining of the abdominal cavity, called the peritoneum; it is not an inflammation of the stomach lining.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

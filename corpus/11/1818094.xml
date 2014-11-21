@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Honest, It Works</title>
+    <meta content="11show-4" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818094"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS: REPORTERS' NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Electronics Show</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <location class="indexing_service">Las Vegas (Nev)</location>
+        <org class="indexing_service">Samsung Electronics Co</org>
+        <person class="indexing_service">Darlin, Damon</person>
+        <person class="indexing_service">Godfrey, John M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Nevada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada/Las Vegas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E0D81230F932A25752C0A9619C8B63" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Honest, It Works</hl1>
+      </hedline>
+      <byline class="print_byline">By DAMON DARLIN</byline>
+      <byline class="normalized_byline">Darlin, Damon</byline>
+      <dateline>LAS VEGAS</dateline>
+      <abstract>
+        <p>Damon Darlin Reporters' Notebook column on glitches that developed when Samsung Electronics vice president John Godfrey was demonstrating prototype of A-VSB, new technology for sending television to portable video devices, during Consumer Electronics Show in Las Vegas (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An immutable law of technology is that no demonstration of a new technology, especially when witnessed by the news media, will go smoothly.</p>
+        <p>Samsung Electronics was reminded of that during a demonstration of a new system of sending television to portable video devices. Samsung planned to display its A-VSB technology -- it stands for Advanced Vestigial Sideband -- in a minibus moving through the streets of Las Vegas. The audience would be held captive.</p>
+      </block>
+      <block class="full_text">
+        <p>An immutable law of technology is that no demonstration of a new technology, especially when witnessed by the news media, will go smoothly.</p>
+        <p>Samsung Electronics was reminded of that during a demonstration of a new system of sending television to portable video devices. Samsung planned to display its A-VSB technology -- it stands for Advanced Vestigial Sideband -- in a minibus moving through the streets of Las Vegas. The audience would be held captive.</p>
+        <p>In the back of the minibus were two television screens. One was tuned into the normal local broadcast, which the company knew would come in and out as the signal was blocked by tall hotels. The other was receiving a special A-VSB signal from a local TV station, KVMY, owned by Sinclair Broadcasting.</p>
+        <p>Samsung wanted to show how this signal, carried on a small portion of the radio spectrum used by a broadcaster, could provide a reliable picture to a moving target.</p>
+        <p>But right at the outset, the regular signal was lost.</p>
+        <p>Something was wrong, but John M. Godfrey, Samsung's vice president for government and public affairs, shifted the subject to the kinds of new electronic devices this technology would spawn, like hand-held TVs that people could take to picnics or the ballpark.</p>
+        <p>Such devices would need only an inexpensive chip to receive the signal.</p>
+        <p>A prototype was passed around. But the picture it was displaying was different from the one on the van's TV that was also receiving the A-VSB signal.</p>
+        <p>Then the A-VSB picture on the bigger TV on the wall of the van froze. ''Folks, it was working perfectly this afternoon,'' Mr. Godfrey said as the cameras rolled. ''Remember, this is only a prototype.''</p>
+        <p>Suddenly, just as the ride was coming to an end, the hand-held TV and the wall TV had a picture -- the same picture, as they were supposed to.</p>
+        <p>The problem had been ''power interruption'' back at the station, said a public relations executive along for the ride.</p>
+        <p>Mr. Godfrey proudly posed with the prototype, now working. When giving a demonstration, he advised, it helps not to pull out the plug.</p>
+        <p>DAMON DARLIN</p>
+        <p>CIRCUITS: REPORTERS' NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

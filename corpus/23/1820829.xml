@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Through Life's Decorum, Make Room for the Inner Clown</title>
+    <meta content="23rita" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820829"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Holden, Stephen</person>
+        <person class="indexing_service">Moreno, Rita</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E6DA1F30F930A15752C0A9619C8B63" item-length="401" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Through Life's Decorum, Make Room for the Inner Clown</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+      <byline class="normalized_byline">Holden, Stephen</byline>
+      <abstract>
+        <p>Stephen Holden reviews performance by Rita Moreno at Cafe Carlyle; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you look as fresh and unbowed as Rita Moreno at 75, you may as well flaunt your age. For her birthday, she announced at Tuesday's opening-night show of ''Little Tributes,'' her breezy new cabaret act at the Café Carlyle, her husband presented her with a bound copy of The New York Times from the day she was born, Dec. 11, 1931. On the front page was a story about Alphonse XIII, the recently deposed ruler of Spain. In show business Bing Crosby was the new kid on the block; the paper cost 2 cents then.</p>
+        <p>''But Alive,'' from ''Applause,'' the 1970 musical based on ''All About Eve,'' is the number that best sums up Ms. Moreno's amused, glad-to-be-here spirit. In the song Margo Channing describes feeling ''rotten yet covered with roses, younger than springtime and older than Moses.'' If Ms. Moreno isn't ''younger than springtime,'' she is a brisk September afternoon after a cold front has ushered in fresh air and sunshine.</p>
+      </block>
+      <block class="full_text">
+        <p>If you look as fresh and unbowed as Rita Moreno at 75, you may as well flaunt your age. For her birthday, she announced at Tuesday's opening-night show of ''Little Tributes,'' her breezy new cabaret act at the Café Carlyle, her husband presented her with a bound copy of The New York Times from the day she was born, Dec. 11, 1931. On the front page was a story about Alphonse XIII, the recently deposed ruler of Spain. In show business Bing Crosby was the new kid on the block; the paper cost 2 cents then.</p>
+        <p>''But Alive,'' from ''Applause,'' the 1970 musical based on ''All About Eve,'' is the number that best sums up Ms. Moreno's amused, glad-to-be-here spirit. In the song Margo Channing describes feeling ''rotten yet covered with roses, younger than springtime and older than Moses.'' If Ms. Moreno isn't ''younger than springtime,'' she is a brisk September afternoon after a cold front has ushered in fresh air and sunshine.</p>
+        <p>Throughout the show there is always the sense of Ms. Moreno's inner clown poised to shatter the decorum. Wielding a cane and dancing a few steps on the cafe's tiny platform stage, she spoofs her way through ''The Old Soft Shoe.'' During ''Class,'' Kander and Ebb's comic lament for the decline of civility in modern life, she metamorphoses into a rude vulgarian, chewing candy with her mouth open and spitting it out.</p>
+        <p>The show's most tender moment is a wistful ''I Never Has Seen Snow,'' from the Harold Arlen-Truman Capote collaboration ''House of Flowers,'' which Ms. Moreno prefaces with some affectionate Arlen anecdotes. A similar spirit infuses ''New Ways to Dream,'' from the musical ''Sunset Boulevard.'' Ms. Moreno played Norma Desmond in a 1996 London production, and if her interpretation is an indication of how she inhabited the role, her Norma was no gorgon but a sane, approachable show business veteran.</p>
+        <p>Of all the performers who tackle ''Here's to Life,'' a summing-up anthem that has become an almost obligatory encore for cabaret women of a certain age, Ms. Moreno puts the least bitterness into its boast of embattled survival. Although she mentions having traveled some ''very bumpy'' roads, ''Little Tributes'' is a smooth, comfortable ride with a performer who knows who she is.</p>
+        <p>''Little Tributes'' continues through Feb. 10 at the Café Carlyle, at the Carlyle Hotel, 35 East 76th Street, Manhattan; (212) 744-1600.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

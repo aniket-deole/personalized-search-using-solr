@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A CITIZEN'S CALENDAR</title>
+    <meta content="14ctcivic" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818735"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EED71230F937A25752C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A CITIZEN'S CALENDAR</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A selective listing of state, county and local government events across Connecticut this week. (All dates and times subject to confirmation.) Items should be submitted by mail at least three weeks in advance to the Connecticut Op-Ed Page, The New York Times, 229 West 43rd Street, New York, N.Y. 10036, or by e-mail to ctcivic@nytimes.com.</p>
+        <p>State of Connecticut</p>
+        <p>New Britain Connecticut Siting Council meeting on energy and telecommunications. Thursday at 1:30 p.m. 10 Franklin Square. (860) 827-2935.</p>
+        <p>Fairfield County</p>
+        <p>Bethel Board of Selectmen. Tuesday at 7:30 p.m. Clifford J. Hurgin Municipal Center, 1 School Street. (203) 794-8501.  Brookfield Architectural Advisory Committee. Thursday at 7 p.m. Brookfield Town Hall, 100 Pocono Road. (203) 775-7300.  Danbury Planning Commission. Wednesday at 7:30 p.m. Danbury City Hall, 155 Deer Hill Avenue. (203) 797-4500.  Trumbull Planning and Zoning Commission public hearing. Wednesday at 7:30 p.m. Trumbull Town Hall, 5866 Main Street. (203) 452-5000.</p>
+        <p>New Haven County</p>
+        <p>Cheshire Board of Education. Thursday at 7:30 p.m. Cheshire Town Hall, 84 South Main Street. (203) 271-6660.  Orange Conservation Commission. Wednesday at 7:30 p.m. Orange Town Hall, 617 Orange Center Road. (203) 891-2122.</p>
+      </block>
+      <block class="full_text">
+        <p>A selective listing of state, county and local government events across Connecticut this week. (All dates and times subject to confirmation.) Items should be submitted by mail at least three weeks in advance to the Connecticut Op-Ed Page, The New York Times, 229 West 43rd Street, New York, N.Y. 10036, or by e-mail to ctcivic@nytimes.com.</p>
+        <p>State of Connecticut</p>
+        <p>New Britain Connecticut Siting Council meeting on energy and telecommunications. Thursday at 1:30 p.m. 10 Franklin Square. (860) 827-2935.</p>
+        <p>Fairfield County</p>
+        <p>Bethel Board of Selectmen. Tuesday at 7:30 p.m. Clifford J. Hurgin Municipal Center, 1 School Street. (203) 794-8501.  Brookfield Architectural Advisory Committee. Thursday at 7 p.m. Brookfield Town Hall, 100 Pocono Road. (203) 775-7300.  Danbury Planning Commission. Wednesday at 7:30 p.m. Danbury City Hall, 155 Deer Hill Avenue. (203) 797-4500.  Trumbull Planning and Zoning Commission public hearing. Wednesday at 7:30 p.m. Trumbull Town Hall, 5866 Main Street. (203) 452-5000.</p>
+        <p>New Haven County</p>
+        <p>Cheshire Board of Education. Thursday at 7:30 p.m. Cheshire Town Hall, 84 South Main Street. (203) 271-6660.  Orange Conservation Commission. Wednesday at 7:30 p.m. Orange Town Hall, 617 Orange Center Road. (203) 891-2122.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

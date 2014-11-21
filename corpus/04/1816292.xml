@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Putting It All Together</title>
+    <meta content="04basics" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/technology/04basics.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816292"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASICS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Darlin, Damon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E7D81730F937A35752C0A9619C8B63" item-length="1380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Putting It All Together</hl1>
+        <hl2 class="online_headline">Pulling It All Together</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON DARLIN</byline>
+      <byline class="normalized_byline">Darlin, Damon</byline>
+      <abstract>
+        <p>Basics column shows how to piece together entry-level home entertainment network using off-the-shelf components for less than $1,000; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WILLIAM D. WATKINS has seven terabytes of data storage tucked into a cabinet in the media room of his beach home in Aptos, Calif. That is not a big thing for Mr. Watkins, the chief executive of Seagate, which makes hard disk drives. But it is enough space to hold 600,000 songs, 584,000 photographs and 1,000 hours of TV shows.</p>
+        <p>All of that material can be displayed on the giant flat-panel TV spread across one wall in the media room and distributed to the six TVs and numerous speakers throughout the house.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Building a poor man’s home media network for less than $1,000.</p>
+      </block>
+      <block class="full_text">
+        <p>WILLIAM D. WATKINS has seven terabytes of data storage tucked into a cabinet in the media room of his beach home in Aptos, Calif. That is not a big thing for Mr. Watkins, the chief executive of Seagate, which makes hard disk drives. But it is enough space to hold 600,000 songs, 584,000 photographs and 1,000 hours of TV shows.</p>
+        <p>All of that material can be displayed on the giant flat-panel TV spread across one wall in the media room and distributed to the six TVs and numerous speakers throughout the house.</p>
+        <p>Call it tech envy, but I wondered if I could set up a system on a wireless home network so my own photos, videos and movies could be viewed from any TV in the house, and an entire collection of music could be summoned from any stereo. Could I do it with equipment available at a big chain like Best Buy or Circuit City?</p>
+        <p>''The answer to that is easy: no,'' said Dan Sokol, a technology analyst with the Envisioneering Group, electronic engineering consultants in Seaford, N.Y. The problem, according to Mr. Sokol, is that there are dozens of pieces of incompatible electronic equipment involved in this kind of project.</p>
+        <p>I refused to take Mr. Sokol's ''no'' for an answer -- and set out to build a home media network for less than $1,000. I understood there would be plenty of hurdles. Devices coming out of the world of information technology, like PCs and networking equipment, are just beginning to communicate with the devices that come out of the world of home electronics, like TVs and stereos.</p>
+        <p>Both industries have been working out standards through an alphabet soup of trade associations. They are hoping that all of those devices, and cellphones, printers and digital cameras, will start making sense to each other this year. Best Buy just started selling a whole system in a box that will handle entertainment and control your thermostats and lights for $15,000.</p>
+        <p>Device manufacturers are convinced that consumers will want interconnectivity. Parks Associates, a technology industry consulting firm, estimates that by 2010, some 30 million American homes will have a home entertainment network. (Right now only about half of the 43 million American homes with broadband Internet connections even have a home network, so this seems like an optimistic projection.)</p>
+        <p>''Connected entertainment is near and dear to our heart,'' said Jan-Luc Blakborn, director of digital entertainment at Hewlett-Packard. ''We clearly see connected entertainment as an area where we can grow. It is starting to happen.''</p>
+        <p>At present I can buy a Sonos or Squeezebox device to play music throughout the house -- but those can only handle music. Another device, the Slingbox, can send TV programs to a PC anywhere in the world over the Internet. But I do not want to watch TV on a 15-inch notebook screen when I can watch it on a 42-inch TV.</p>
+        <p>Then there is TiVo. It had the potential to become the leading home entertainment hub. A free download of TiVo Desktop software to a PC allows video from your TiVo to be watched anywhere and anytime on that PC. If you have a second TV, any program recorded on one TiVo box can stream effortlessly to any other TiVo elsewhere in the house.</p>
+        <p>But this is really an example of a lost opportunity. TiVo stores video in a proprietary digital format that prevents it from being viewed on non-TiVo devices, and the files are not recognized by other hardware, which is the problem that led Mr. Sokol to declare that my efforts would be futile.</p>
+        <p>James Denney, vice president for product marketing at TiVo, said the company had not set out to be the center of everything. ''Our approach is that there isn't one hub in the house,'' he said. ''Our role is a display device near the TV.''</p>
+        <p>TiVo also does nothing for my collection of DVDs. It is difficult to watch a movie on DVD over a home network without first copying it to a hard drive. Software for doing this is widely available, but it is illegal to bypass the copy protection on a DVD, even one that you own. Systems for sending copy-protected video around the house are still largely works in progress.</p>
+        <p>Another problem I encountered was a lack of advice. Few of the devices needed to assemble my network are even advertised by retailers or manufacturers. Sony, for instance, has a number of devices under the LocationFree name that can be used to move TV shows to a PlayStation Portable game machine or a small TV monitor outdoors, but it seems to be keeping this a secret. Hewlett-Packard is selling what it calls the MediaSmart TV, a 37-inch L.C.D. set that locates your wireless home network and pulls in content. It is a nice product, but it will not work for this project; it costs $2,000.</p>
+        <p>To build a homemade networked entertainment system, I needed a network, of course. Older wireless routers using the 802.11b standard will move video data so slowly that it will be nearly unwatchable. So the wireless router has to be upgraded to 802.11g or the even newer 802.11n standard.</p>
+        <p>Here is where this project started getting expensive. Wireless devices anywhere on the network that are still using the older technology will slow the whole network. I have to upgrade them, too, for about $50 each.</p>
+        <p>Music, movies and photos can be stored on the hard drive of any computer connected to the network. But because TV shows or movies can fill up a PC's hard drive much faster than photos or music files do, it can make sense to centralize everything on an always-available external hard drive.</p>
+        <p>''The way I view it, being a nerd, the storage device is as important as the media center,'' said Mike Scott, technical media manager at D-Link, a maker of home networking equipment.</p>
+        <p>There are now drives on the market that can hold as much as a terabyte, enough space to hold about 90 hours of high-definition TV. That much storage will cost a bit more than $500, but prices keep falling.</p>
+        <p>I decided to use a kind of external hard drive known as a network-attached storage device. Although they cost about $100 more than regular drives, they come with software that will organize files and help all the devices on the network find the drive. The Maxtor Shared Storage II drive that I chose, which holds 1 terabyte and costs about $680, was up and running in less than 10 minutes.</p>
+        <p>One alternative is buy a $100 device called a network storage link that is plugged in between a regular external drive and the router. That offers more flexibility if I buy a lower-capacity drive that needs to be upgraded later.</p>
+        <p>The next step is attaching a media adapter to a TV or a stereo to pick up the programming from the network. D-Link sells one called the MediaLounge Media Player for less than $300. (A fancier model just hit the market for $600.) This is essentially a DVD player with a built-in wireless adapter that enables it to locate photos, movies and music on the network's hard drives. A similar device from D-Link, which costs about $180, can connect to any stereo receiver so that music files are always accessible. The drawback is that I needed one of these adapters for every TV and stereo.</p>
+        <p>The home entertainment network that I jury-rigged wasn't nearly as slick as Mr. Watkins's setup. But then it only cost me about $850, not including the cost of my existing computers and TV. I spent more time moving music and video files to the hard drive than I spent actually setting it up. Once the content was there, I could do exactly what I wanted to do: view whatever I wanted, wherever I wanted.</p>
+        <p>If all of this sounds like too much effort, you can always wait. Almost every consumer electronics company is set to announce its answer to home entertainment connectivity at the Consumer Electronics Show next week. As with all consumer electronics, the devices coming out next year will do more for less. I can only hope they will be just a little bit easier to put together.</p>
+        <p>BASICS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

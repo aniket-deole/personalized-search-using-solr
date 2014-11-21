@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="08addes-1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817437"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="indexing_service">Young &amp; Rubicam</org>
+        <person class="indexing_service">Patti, Michael</person>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E1DA1530F93BA35752C0A9619C8B63" item-length="64" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <abstract>
+        <p>Advertising: Addenda</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Michael Patti, vice chairman and worldwide creative director at Y&amp;R Advertising, New York, part of the Young &amp; Rubicam Brands unit of the WPP Group, left to pursue other interests, the agency said. His departure came four months after the arrival of a new chief executive at Y&amp;R, Hamish McLennan, who has described plans to ''invest in our talent'' as he remakes the agency.</p>
+      </block>
+      <block class="full_text">
+        <p>Michael Patti, vice chairman and worldwide creative director at Y&amp;R Advertising, New York, part of the Young &amp; Rubicam Brands unit of the WPP Group, left to pursue other interests, the agency said. His departure came four months after the arrival of a new chief executive at Y&amp;R, Hamish McLennan, who has described plans to ''invest in our talent'' as he remakes the agency.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Either Victory Song Will Please Steinbrenner</title>
+    <meta content="06boss" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/06/sports/ncaafootball/06boss.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816702"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">BCS National Championship</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">Ohio State University</org>
+        <org class="indexing_service">University of Florida</org>
+        <person class="indexing_service">Lapointe, Joe</person>
+        <person class="indexing_service">Steinbrenner, George</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">Ohio State University</org>
+        <org class="online_producer">Bowl Championship Series</org>
+        <person class="online_producer">Steinbrenner, George M 3d</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E7D71430F935A35752C0A9619C8B63" item-length="360" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Either Victory Song Will Please Steinbrenner</hl1>
+        <hl2 class="online_headline">Either Victory Song After Title Game Will Please Steinbrenner</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE LAPOINTE</byline>
+      <byline class="normalized_byline">Lapointe, Joe</byline>
+      <abstract>
+        <p>New York Yankees owner George Steinbrenner is rooting for both Ohio State University and Florida University in bowl championship series title game, as he has ties to both schools (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>George Steinbrenner, the Yankees' principal owner, has not had a World Series champion since 2000, but he will back a winner in Monday's title game of the Bowl Championship Series between Ohio State and Florida.</p>
+        <p>In a sense, Steinbrenner is calling the tune.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Yankees' owner George Steinbrenner and his wife, Joan, have donated large amounts of money for construction of marching band facilities on the campuses of both Ohio State and Florida universities.</p>
+      </block>
+      <block class="full_text">
+        <p>George Steinbrenner, the Yankees' principal owner, has not had a World Series champion since 2000, but he will back a winner in Monday's title game of the Bowl Championship Series between Ohio State and Florida.</p>
+        <p>In a sense, Steinbrenner is calling the tune.</p>
+        <p>He lives in Florida but grew up in Ohio. He likes football, and he enjoys the music of marching bands. So Steinbrenner and his wife, Joan, have donated large but unspecified amounts of money for construction of marching band facilities on the campuses of both universities.</p>
+        <p>The Joan Zieg Steinbrenner Band Center in Columbus, Ohio, is named for Steinbrenner's wife, a graduate of Ohio State. The George M. Steinbrenner Band Building is under construction in Gainesville, Fla.</p>
+        <p>Howard Rubenstein, Steinbrenner's New York-based spokesman, would not disclose the amount of Steinbrenner's donations, although it has been reported that each donation was more than $1 million. Rubenstein said the two universities have been the only recipients of Steinbrenner's philanthropy toward college band facilities.</p>
+        <p>''I'm a dedicated fan of football and the band plays an enormous role in enhancing the spirit and excitement of football whenever they march and play,'' Steinbrenner said in a statement relayed by Rubenstein, who said he spoke yesterday by telephone with Steinbrenner. ''It's wonderful for the sport.''</p>
+        <p>Rubenstein said that Steinbrenner would not attend the championship game Monday.</p>
+        <p>David Waybright, director of bands at Florida, said that the university's building would eventually cost $9.3 million, and it should be finished by the spring of 2008. The Ohio State band building is part of Ohio Stadium, which was renovated earlier this decade.</p>
+        <p>Waybright said he understood that Steinbrenner would root for Ohio State to defeat Florida but added: ''This game is a win-win for him. He likes bands. He's quietly philanthropic. It speaks volumes to me.''</p>
+        <p>Steinbrenner, Rubenstein said, is a friend of Jon R. Woods, director of the Ohio State band, and that ''Dr. Woods was instrumental in suggesting that George contribute something to Florida.''</p>
+        <p>Waybright said he learned of the donation after Steinbrenner attended a game at Florida and told university officials, ''I want to do something nice for the band.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

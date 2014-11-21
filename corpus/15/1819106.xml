@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="15choi-3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819106"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Chinen, Nate</person>
+        <person class="indexing_service">Lindner, Jason</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFDC1030F936A25752C0A9619C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By NATE CHINEN</byline>
+      <byline class="normalized_byline">Chinen, Nate</byline>
+      <abstract>
+        <p>Nate Chinen reviews new CD from Jason Lindner; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jason Lindner  ''Ab Aeterno''  (Fresh Sound New Talent)</p>
+        <p>Rhythm provides more than a heartbeat for the pianist Jason Lindner. It also seems to fuel his respiratory functions and digestive activity, and maybe his neurons. So it's no surprise that Mr. Lindner's new album, ''Ab Aeterno,'' makes an argument for pulse as the governing force of music through the ages. Nor is it a shock how naturally that argument resonates at the hands of Mr. Lindner and his peers.</p>
+      </block>
+      <block class="full_text">
+        <p>Jason Lindner  ''Ab Aeterno''  (Fresh Sound New Talent)</p>
+        <p>Rhythm provides more than a heartbeat for the pianist Jason Lindner. It also seems to fuel his respiratory functions and digestive activity, and maybe his neurons. So it's no surprise that Mr. Lindner's new album, ''Ab Aeterno,'' makes an argument for pulse as the governing force of music through the ages. Nor is it a shock how naturally that argument resonates at the hands of Mr. Lindner and his peers.</p>
+        <p>It's a trio effort, with Mr. Lindner on piano, mbira and melodica; his longtime associate Omer Avital on bass and oud; and the Venezuelan percussionist Luisito Quintero drawing from what sounds like a carload of shakers, bells and hand drums. Their interplay is rich in insinuation and ostinato. Mr. Lindner isn't afraid to let chords chime, but usually in the service of an incantation. He may spell out the melodies of most of his songs, but the deeper stories tend to come from the ground up, where bass and percussion conspire.</p>
+        <p>Naturally Mr. Quintero emerges as a lead voice. On ''The Gathering,'' the first track after a calmly anticipatory overture, his congas bring focus to a slippery odd-metered groove; on ''Renacimiento'' his fingers thrum against a frame drum while Mr. Avital fashions a prayerful melody on his oud.</p>
+        <p>Elsewhere, on tracks like ''G-Point'' and ''Song for Amos,'' the lyrical traditions of Afro-Cuban music are filtered through the harmonic sensibilities of pianists like Chick Corea. But even on a Bud Powell theme, ''Glass Enclosure,'' Mr. Lindner seems only partly interested in jazz's idiomatic customs. What matters to him is groove, however it comes.</p>
+        <p>NATE CHINEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

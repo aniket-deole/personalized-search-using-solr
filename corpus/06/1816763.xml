@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="06topcxns" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816763"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Mccormick, Robert R, Tribune Foundation</org>
+        <org class="indexing_service">Tribune Co</org>
+        <org class="indexing_service">Blackstone Group</org>
+        <person class="indexing_service">Fitzsimmons, Dennis J</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E1D61430F935A35752C0A9619C8B63" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Jan 5 picture caption about decision by McCormick Tribune Foundation, large shareholder in Tribune Co, to hire Blackstone Group as adviser while Tribune is up for sale, misstated role of company's chief executive, Dennis Fitzsimmons, in sales process; he has recused himself from issues regarding sale</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture caption in Business Day yesterday about a decision by the McCormick Tribune Foundation, a large shareholder in the Tribune Company, to hire the Blackstone Group as an adviser while the Tribune is up for sale, misstated the role of the company's chief executive, Dennis FitzSimons, in the sales process. Mr. FitzSimons, who is also chairman of the foundation's board, has recused himself from issues regarding the sale; he is not a member of the special committee dealing with the Blackstone Group.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture caption in Business Day yesterday about a decision by the McCormick Tribune Foundation, a large shareholder in the Tribune Company, to hire the Blackstone Group as an adviser while the Tribune is up for sale, misstated the role of the company's chief executive, Dennis FitzSimons, in the sales process. Mr. FitzSimons, who is also chairman of the foundation's board, has recused himself from issues regarding the sale; he is not a member of the special committee dealing with the Blackstone Group.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

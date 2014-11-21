@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Have Magic Powers, Will Investigate. Hey, It's a Living.</title>
+    <meta content="20dres" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/20/arts/television/20dres.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819991"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Bellafante, Ginia</person>
+        <person class="indexing_service">Blackthorne, Paul</person>
+        <object.title class="indexing_service">Dresden Files, The (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E7DA1E30F933A15752C0A9619C8B63" item-length="451" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Have Magic Powers, Will Investigate. Hey, It's a Living.</hl1>
+        <hl2 class="online_headline">Have Magic Powers, Will Investigate. Hey, It’s a Living.</hl2>
+      </hedline>
+      <byline class="print_byline">By GINIA BELLAFANTE</byline>
+      <byline class="normalized_byline">Bellafante, Ginia</byline>
+      <abstract>
+        <p>Ginia Bellafante reviews Sci Fi series The Dresden Files, starring Paul Blackthorne (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The hero of ''The Dresden Files,'' a new series on the Sci-Fi Channel that will make its debut tomorrow night, is Harry Dresden, and if his name reminds you of someone, his profession, wizardry, should confirm your suspicions of where inspiration for him might have been drawn.</p>
+        <p>Dresden, played by Paul Blackthorne, is Harry Potter grown up to become Columbo. As a young boy, this Harry was given a bracelet meant to prevent bad things from happening to him, but he seems to have innate higher powers too (genius is, apparently, nature and nurture) -- powers to suss out reincarnated murderers or the bad wizards who roam the earth in the guise, say, of attractive blond elementary school teachers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“The Dresden Files” is based on a series of science fiction books by Jim Butcher. In televised form, it has the feeling of pizza with pineapple on it  not actually for grown-ups.</p>
+      </block>
+      <block class="full_text">
+        <p>The hero of ''The Dresden Files,'' a new series on the Sci-Fi Channel that will make its debut tomorrow night, is Harry Dresden, and if his name reminds you of someone, his profession, wizardry, should confirm your suspicions of where inspiration for him might have been drawn.</p>
+        <p>Dresden, played by Paul Blackthorne, is Harry Potter grown up to become Columbo. As a young boy, this Harry was given a bracelet meant to prevent bad things from happening to him, but he seems to have innate higher powers too (genius is, apparently, nature and nurture) -- powers to suss out reincarnated murderers or the bad wizards who roam the earth in the guise, say, of attractive blond elementary school teachers.</p>
+        <p>In the first episode, a little boy approaches Harry on the street with $5,000 to get monsters out of his house. (If you were once given a bracelet intended to prevent bad things from happening, you'd think this was just the sort of thing you would be lucky enough to avoid.)</p>
+        <p>Like most superhero stories, ''The Dresden Files'' is an essay, if rendered with a very, very light hand, on noblesse oblige and the politics of personal responsibility. Bureaucracies are never quite up to snuff. Here Harry's talents are always held up against the relative inadequacies of the police department for which he sometimes consults. And the so-called High Council, a vague governing body of überwizards, you are left to believe, seems only to get in the way of things.</p>
+        <p>Despite the fact that he charges on doing good in the world, Harry, straddling youth and middle age, doesn't comport himself with any great sense of moral purpose. He wears an old leather jacket under which he slumps his shoulders, and while he advertises his supernatural detective services in the Chicago phone book, he can look as if he'd rather do almost anything else when someone tries to make use of them.</p>
+        <p>''The Dresden Files'' is based on a series of science fiction books, the first of which was published seven years ago, from an author named Jim Butcher. And in televised form, at least, it has the feeling of pizza with pineapple on it -- which is to say, not actually for grown-ups. Wizardry, in the end, is best left in the hands of its most famous interpreter.</p>
+        <p>The Dresden Files  Sci Fi Channel, tomorrow night at 9, Eastern and Pacific times; 8, Central time.</p>
+        <p>Nicolas Cage, Norm Golightly, executive producers; David Simkins, Robert Hewitt Wolfe, executive producers and writers; Jonathan Hackett, producer; Alwyn J. Kumst, cinematographer.</p>
+        <p>WITH: Raoul Bhaneja (Kirmani), Paul Blackthorne (Harry Dresden), Conrad Coates (Morgan), Valerie Cruz (Lieut. Connie Murphy), Terrence Mann (Bob).</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

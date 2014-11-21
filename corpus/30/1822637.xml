@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Politics Could Scuttle Raising Pay for House Members</title>
+    <meta content="30cong" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/us/30cong.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822637"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Congress (US)</org>
+        <person class="indexing_service">Hulse, Carl</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">House of Representatives</org>
+        <org class="online_producer">Republican Party</org>
+        <org class="online_producer">Democratic Party</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E5D8143FF933A05752C0A9619C8B63" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Politics Could Scuttle Raising Pay for House Members</hl1>
+        <hl2 class="online_headline">Politics Could Scuttle Raising Pay for House Members</hl2>
+      </hedline>
+      <byline class="print_byline">By CARL HULSE</byline>
+      <byline class="normalized_byline">Hulse, Carl</byline>
+      <dateline>WASHINGTON, Jan. 29</dateline>
+      <abstract>
+        <p>Annual raise for House members is doubtful, as Republicans say they are inclined to oppose any increase, and Democrats say they are not likely to enact one on their own; Republican leaders say making raises political issue violates longtime unwritten agreement between parties (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The annual raise for members of the House is on the verge of being eaten up in political payback.</p>
+        <p>Republicans, who were attacked by Democrats in the 2006 campaign for accepting annual raises while not increasing the federal minimum wage for 10 years, say they are inclined to oppose any increase for representatives. And Democrats say they are not likely to enact one on their own, which would open them to attack in the next campaign.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The annual raise for members of the House is on the verge of being eaten up in political payback.</p>
+      </block>
+      <block class="full_text">
+        <p>The annual raise for members of the House is on the verge of being eaten up in political payback.</p>
+        <p>Republicans, who were attacked by Democrats in the 2006 campaign for accepting annual raises while not increasing the federal minimum wage for 10 years, say they are inclined to oppose any increase for representatives. And Democrats say they are not likely to enact one on their own, which would open them to attack in the next campaign.</p>
+        <p>Republican leaders point a finger at the hard-hitting Democratic campaign operation of last year, saying Monday that making the raises a political issue violated a longtime unwritten agreement between the parties.</p>
+        <p>''It was absolutely understood and agreed to,'' said Representative Roy Blunt of Missouri, the second-ranking Republican.</p>
+        <p>Mr. Blunt and others said the raises were crucial for members of Congress who are not independently wealthy and must operate two households on the current $165,200 salary. The annual raise for this year was set at 1.7 percent, about $2,760.</p>
+        <p>Democrats seized on the raise last fall to emphasize the stagnant minimum wage. Both parties backed a provision in a stop-gap spending bill that prohibited any Congressional raises until the minimum wage was increased. That stop-gap measure is due to expire, and the House is set to extend it on Wednesday.</p>
+        <p>''We said all along there would be no pay raise until we pass the minimum wage,'' said Brendan Daly, spokesman for the speaker, Nancy Pelosi, Democrat of California.</p>
+        <p>But now that the minimum wage increase is making progress, some lawmakers are considering making their own raise effective June 1 to allow time for a minimum wage bill to be signed into law.</p>
+        <p>Republican objections appear intended to try to drive a wedge between the Democratic leadership and lawmakers who were hoping for the salary increase.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

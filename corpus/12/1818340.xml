@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="12correx-2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818340"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Doctors</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Immigrants</classifier>
+        <location class="indexing_service">California</location>
+        <person class="indexing_service">Schwarzenegger, Arnold (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E0DC1330F931A25752C0A9619C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 9 article about proposal to extend health care coverage to all California residents misstated requirement for insurers; they would have to contribute 85 percent of premiums; also referred incorrectly to number of states attempting universal coverage; California would be fifth state</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article on Tuesday about a proposal by Gov. Arnold Schwarzenegger to extend health care coverage to all of California's residents misstated a requirement for insurers. They would have to contribute 85 percent of premiums to health care services, not 85 percent of profits. The article also referred incorrectly to the precedent for universal coverage. California would be the fifth state, not the fourth, to try near universal coverage. (Besides Maine, Massachusetts and Vermont, Hawaii has also tried.)</p>
+        <p>A picture caption with an articleWednesday about efforts by Massachusetts to extend health care coverage to all residents reversed the names in some copies of two people who helped an immigrant from Bangladesh sign up for insurance. Feroza Bashar, a translator, was at right, and Goretti Macedo of Cambridge Health Alliance was at left.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article on Tuesday about a proposal by Gov. Arnold Schwarzenegger to extend health care coverage to all of California's residents misstated a requirement for insurers. They would have to contribute 85 percent of premiums to health care services, not 85 percent of profits. The article also referred incorrectly to the precedent for universal coverage. California would be the fifth state, not the fourth, to try near universal coverage. (Besides Maine, Massachusetts and Vermont, Hawaii has also tried.)</p>
+        <p>A picture caption with an articleWednesday about efforts by Massachusetts to extend health care coverage to all residents reversed the names in some copies of two people who helped an immigrant from Bangladesh sign up for insurance. Feroza Bashar, a translator, was at right, and Goretti Macedo of Cambridge Health Alliance was at left.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

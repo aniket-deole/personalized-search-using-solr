@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SMITH, CATHERINE T.</title>
+    <meta content="dn012807" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821884"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SMITH, CATHERINE T.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD71F3AF93BA15752C0A9619C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SMITH, CATHERINE T.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SMITH--Catherine T., 84, resident of Delray Beach, FL, and former resident of Garden City, Long Island, on January 26, 2007. Widow of late Leo C. Smith. She is survived by her loving children, Kevin, Leo, Peggy, David, and Kathleen, her loving daughters-inlaw Jodey and Beth, her sonsin-law, Peter and Joe, her brother John Williamson and his wife, Ann. She was a dedicated grandmother to Elisabeth, Chris, Jessica, Kelly, Ryan, Kaitlin, Eileen, Dan and Rose and a loving aunt to Katie and Matt. A wake will be held at Weigand Funeral Home, 49 Hillside Avenue, Williston Park, NY on Sunday, January 28 from 4-8pm. A funeral Mass will be held at 10am on Monday, January 29 at St. Aidan's Church on 505 Willis Avenue, Williston Park, NY. Interment LI. National Cemetery. In lieu of flowers, please send donations to Good Samaritan Hospital, Suffern, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>SMITH--Catherine T., 84, resident of Delray Beach, FL, and former resident of Garden City, Long Island, on January 26, 2007. Widow of late Leo C. Smith. She is survived by her loving children, Kevin, Leo, Peggy, David, and Kathleen, her loving daughters-inlaw Jodey and Beth, her sonsin-law, Peter and Joe, her brother John Williamson and his wife, Ann. She was a dedicated grandmother to Elisabeth, Chris, Jessica, Kelly, Ryan, Kaitlin, Eileen, Dan and Rose and a loving aunt to Katie and Matt. A wake will be held at Weigand Funeral Home, 49 Hillside Avenue, Williston Park, NY on Sunday, January 28 from 4-8pm. A funeral Mass will be held at 10am on Monday, January 29 at St. Aidan's Church on 505 Willis Avenue, Williston Park, NY. Interment LI. National Cemetery. In lieu of flowers, please send donations to Good Samaritan Hospital, Suffern, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

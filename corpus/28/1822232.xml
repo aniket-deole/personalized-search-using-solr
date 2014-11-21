@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editor's Choice: Other recent books of particular interest</title>
+    <meta content="EdChoice.t" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822232"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E1D71130F93BA15752C0A9619C8B63" item-length="340" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editor's Choice: Other recent books of particular interest</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CASTLE IN THE FOREST, by Norman Mailer. (Random House, $27.95.) This remarkable novel, about the young Adolf Hitler, his family and their shifting circumstances, is Mailer's first in 10 years and his most perfect apprehension of the absolutely alien.</p>
+        <p>HOUSE OF MEETINGS, by Martin Amis. (Knopf, $23.) In Amis's novel, a Russian veteran of World War II acquaints his American stepdaughter with his grim past of rapine and violence.</p>
+        <p>THE RACE BEAT: The Press, the Civil Rights Struggle, and the Awakening of a Nation, by Gene Roberts and Hank Klibanoff. (Knopf, $30.) Two veteran journalists analyze in depth the way the news media came to play such an important role in the fight for racial justice. AFRICAN QUEEN: The Real Life of the Hottentot Venus, by Rachel Holmes. (Random House, $23.95.) A gripping case of human exploitation in 19th-century London's theater of human oddities.</p>
+        <p>FALSE SELF: The Life of Masud Khan, by Linda Hopkins. (Other Press, $35.) This biography of the dashing Anglo-Pakistani psychoanalyst reveals a man who was himself deeply troubled.</p>
+        <p>THE AVERAGED AMERICAN: Surveys, Citizens, and the Making of a Mass Public, by Sarah E. Igo. (Harvard University, $35.) How the social sciences changed the way America thinks of itself.</p>
+        <p>PAULA SPENCER, by Roddy Doyle. (Viking, $24.95.) In Doyle's novel, a Dublin woman struggles to overcome alcoholism and abuse.</p>
+        <p>LETTERS OF E. B. WHITE: Revised Edition. Originally edited by Dorothy Lobrano Guth. Revised and updated by Martha White. (HarperCollins, $35.) The expanded edition includes additional correspondence by the New Yorker writer.</p>
+        <p>THE BEST SEAT IN THE HOUSE: How I Woke Up One Tuesday and Was Paralyzed for Life, by Allen Rucker. (HarperCollins, $24.95.) At 51, Rucker was stricken with transverse myelitis.</p>
+        <p>THEY CALL ME NAUGHTY LOLA: Personal Ads From The London Review of Books. Edited and with an introduction by David Rose. (Scribner, $16.) Lonely hearts as a literary genre.</p>
+        <p>The full reviews of these and other recent books are on the Web: nytimes.com/books.</p>
+      </block>
+      <block class="full_text">
+        <p>THE CASTLE IN THE FOREST, by Norman Mailer. (Random House, $27.95.) This remarkable novel, about the young Adolf Hitler, his family and their shifting circumstances, is Mailer's first in 10 years and his most perfect apprehension of the absolutely alien.</p>
+        <p>HOUSE OF MEETINGS, by Martin Amis. (Knopf, $23.) In Amis's novel, a Russian veteran of World War II acquaints his American stepdaughter with his grim past of rapine and violence.</p>
+        <p>THE RACE BEAT: The Press, the Civil Rights Struggle, and the Awakening of a Nation, by Gene Roberts and Hank Klibanoff. (Knopf, $30.) Two veteran journalists analyze in depth the way the news media came to play such an important role in the fight for racial justice. AFRICAN QUEEN: The Real Life of the Hottentot Venus, by Rachel Holmes. (Random House, $23.95.) A gripping case of human exploitation in 19th-century London's theater of human oddities.</p>
+        <p>FALSE SELF: The Life of Masud Khan, by Linda Hopkins. (Other Press, $35.) This biography of the dashing Anglo-Pakistani psychoanalyst reveals a man who was himself deeply troubled.</p>
+        <p>THE AVERAGED AMERICAN: Surveys, Citizens, and the Making of a Mass Public, by Sarah E. Igo. (Harvard University, $35.) How the social sciences changed the way America thinks of itself.</p>
+        <p>PAULA SPENCER, by Roddy Doyle. (Viking, $24.95.) In Doyle's novel, a Dublin woman struggles to overcome alcoholism and abuse.</p>
+        <p>LETTERS OF E. B. WHITE: Revised Edition. Originally edited by Dorothy Lobrano Guth. Revised and updated by Martha White. (HarperCollins, $35.) The expanded edition includes additional correspondence by the New Yorker writer.</p>
+        <p>THE BEST SEAT IN THE HOUSE: How I Woke Up One Tuesday and Was Paralyzed for Life, by Allen Rucker. (HarperCollins, $24.95.) At 51, Rucker was stricken with transverse myelitis.</p>
+        <p>THEY CALL ME NAUGHTY LOLA: Personal Ads From The London Review of Books. Edited and with an introduction by David Rose. (Scribner, $16.) Lonely hearts as a literary genre.</p>
+        <p>The full reviews of these and other recent books are on the Web: nytimes.com/books.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

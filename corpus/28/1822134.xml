@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An East Village Bar And Its Neighbors</title>
+    <meta content="l28city-1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822134"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6D8173FF93BA15752C0A9619C8B63" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An East Village Bar And Its Neighbors</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a board member and resident of the building directly across the street from Heathers bar (''The Sound and the Fury,'' Jan. 21), I believe that the public opposition to the noise problem is legitimate and more than just an ''active minority'' of residents. My neighbors and I regularly endure noise and many other disturbances to our quality of life resulting from Heathers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a board member and resident of the building directly across the street from Heathers bar (''The Sound and the Fury,'' Jan. 21), I believe that the public opposition to the noise problem is legitimate and more than just an ''active minority'' of residents. My neighbors and I regularly endure noise and many other disturbances to our quality of life resulting from Heathers.</p>
+        <p>Although I live in the back of the building, I must now leave some of my windows closed at night year-round to avoid hearing the noise.</p>
+        <p>Many residents of our building are suffering from the nightly commotion, even with windows closed. One unit-owner recently moved out, citing the disturbances from Heathers, specifically, as the main reason for moving. For these reasons, I believe that the vast majority of the residents of our building and this block oppose the renewal of Heathers' liquor license.</p>
+        <p>Stephen Cooper  East Village</p>
+        <p>To the Editor:</p>
+        <p>I am a designer and artist living on 13th Street, two doors down from Heathers. As a patron, I appreciate the gluten-free beer and potato vodka, but primarily it is the vibe that brings me back.</p>
+        <p>Not since leaving the Mission neighborhood of San Francisco have I found a place that feels like a true community of locals, varied in interest, age, profession and gender. Heathers is one of the few gems at night that reflects what the East Village could be.</p>
+        <p>Before Heathers, the space was an after-hours club, and as a neighbor I much prefer Heathers. As a patron I am glad it has withstood the complaints, and I hope that the two parties can resolve their issues.</p>
+        <p>Cas Holman  East Village</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

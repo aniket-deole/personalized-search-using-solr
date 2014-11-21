@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MORE TO COME?</title>
+    <meta content="14suits-5" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818860"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="indexing_service" type="descriptor">Fines (Penalties)</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Conspiracy, Criminal</classifier>
+        <org class="indexing_service">US Foodservice</org>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <person class="indexing_service">Brown, Suzanne</person>
+        <person class="indexing_service">Resnick, Michael J</person>
+        <person class="indexing_service">Peters, Jeremy W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DA1330F937A25752C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MORE TO COME?</hl1>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS</byline>
+      <byline class="normalized_byline">Peters, Jeremy W</byline>
+      <abstract>
+        <p>Securities and Exchange Commission says former US Foodservice corporate</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Federal prosecutors successfully concluded criminal cases against two former U.S. Foodservice executives late last year, but the affair is not over.</p>
+        <p>The Securities and Exchange Commission said Suzanne Brown, the former corporate controller, agreed to pay a $100,000 civil penalty to resolve accusations that she helped inflate revenue by $700 million from 2000 to 2003. She did not admit or deny any wrongdoing.</p>
+      </block>
+      <block class="full_text">
+        <p>Federal prosecutors successfully concluded criminal cases against two former U.S. Foodservice executives late last year, but the affair is not over.</p>
+        <p>The Securities and Exchange Commission said Suzanne Brown, the former corporate controller, agreed to pay a $100,000 civil penalty to resolve accusations that she helped inflate revenue by $700 million from 2000 to 2003. She did not admit or deny any wrongdoing.</p>
+        <p>Michael J. Resnick, the company's ex-finance chief, pleaded guilty to fraud and conspiracy charges last September and was sentenced in December to six months' home detention and three years' probation. Mark P. Kaiser, a former marketing executive, was convicted in federal court in Manhattan in November; he is to be sentenced Feb. 8.</p>
+        <p>The S.E.C. is still investigating the case, an agency official said, and more enforcement actions may come soon.</p>
+        <p>JEREMY W. PETERS</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

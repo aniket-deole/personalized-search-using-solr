@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CLEARING THE AIR</title>
+    <meta content="09psmoke" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/us/politics/09psmoke.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817539"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="POLITICAL ACTION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Congress (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Smoking and Tobacco</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">House of Representatives (US)</org>
+        <person class="indexing_service">Pelosi, Nancy (Speaker)</person>
+        <person class="indexing_service">Hulse, Carl</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <person class="online_producer">Pelosi, Nancy</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EFD91530F93AA35752C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CLEARING THE AIR</hl1>
+        <hl2 class="online_headline">Clearing the Air</hl2>
+      </hedline>
+      <byline class="print_byline">By CARL HULSE</byline>
+      <byline class="normalized_byline">Hulse, Carl</byline>
+      <abstract>
+        <p>Nancy Pelosi, new House Speaker, is poised to end right to smoke just off floor in area known as Speaker's Lobby, forcing all smokers outside (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Speaker Nancy Pelosi is poised to extinguish one of the last true perquisites of House service: the right to smoke just off the floor in an area known as the Speaker's Lobby. Lawmakers and aides say they expect that Mrs. Pelosi will soon use the substantial powers of her new office to bar smokers from the lobby and force them outside. Opponents of smoking have complained about the practice for years. The impact of the change will be bipartisan; members of both parties regularly enjoy cigarettes and cigars as they relax in the lobby's leather chairs between votes. The highest ranking smoker is Representative John A. Boehner, Republican of Ohio and the minority leader, who was perhaps anticipating the change when he headed to an outer balcony last week for a quick cigarette. Ever defiant, some smokers said they would still light up in their personal offices.</p>
+        <p>CARL HULSE</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Speaker Nancy Pelosi is poised to extinguish one of the last true perquisites of House service: the right to smoke just off the floor in an area known as the Speaker’s Lobby.</p>
+      </block>
+      <block class="full_text">
+        <p>Speaker Nancy Pelosi is poised to extinguish one of the last true perquisites of House service: the right to smoke just off the floor in an area known as the Speaker's Lobby. Lawmakers and aides say they expect that Mrs. Pelosi will soon use the substantial powers of her new office to bar smokers from the lobby and force them outside. Opponents of smoking have complained about the practice for years. The impact of the change will be bipartisan; members of both parties regularly enjoy cigarettes and cigars as they relax in the lobby's leather chairs between votes. The highest ranking smoker is Representative John A. Boehner, Republican of Ohio and the minority leader, who was perhaps anticipating the change when he headed to an outer balcony last week for a quick cigarette. Ever defiant, some smokers said they would still light up in their personal offices.</p>
+        <p>CARL HULSE</p>
+        <p>POLITICAL ACTION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Innocence And Then A Hint Of Menace</title>
+    <meta content="23morr" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820820"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Morris, Mark, Dance Group</org>
+        <person class="indexing_service">Kourlas, Gia</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7DA1F30F930A15752C0A9619C8B63" item-length="413" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Innocence And Then A Hint Of Menace</hl1>
+      </hedline>
+      <byline class="print_byline">By GIA KOURLAS</byline>
+      <byline class="normalized_byline">Kourlas, Gia</byline>
+      <abstract>
+        <p>Gia Kourlas reviews performance by Mark Morris Dance Group at Mark Morris Dance Center; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mark Morris began the sold-out nine-performance run of the Mark Morris Dance Group on Wednesday night by accepting a WQXR American Gramophone Award (WQXR is owned by The New York Times Company), which pays tribute to individual excellence in music. ''Music is a song and a dance,'' Mr. Morris said, quoting the late composer Lou Harrison. ''Enjoy the show.''</p>
+        <p>Thankfully, that wasn't his only trip onstage. Performing a solo at once raw and refined in the andante section of his new dance, ''Italian Concerto,'' which is set to Bach and played by pianist Colin Fowler, Mr. Morris was also its heartbeat.</p>
+      </block>
+      <block class="full_text">
+        <p>Mark Morris began the sold-out nine-performance run of the Mark Morris Dance Group on Wednesday night by accepting a WQXR American Gramophone Award (WQXR is owned by The New York Times Company), which pays tribute to individual excellence in music. ''Music is a song and a dance,'' Mr. Morris said, quoting the late composer Lou Harrison. ''Enjoy the show.''</p>
+        <p>Thankfully, that wasn't his only trip onstage. Performing a solo at once raw and refined in the andante section of his new dance, ''Italian Concerto,'' which is set to Bach and played by pianist Colin Fowler, Mr. Morris was also its heartbeat.</p>
+        <p>''Italian Concerto'' begins with Mr. Morris in black, facing the audience with one arm outstretched, palm and fingers extended. He slowly closes them into a fist and then exits matter-of-factly, making way for the spirited allegro. Amber Darragh and David Leventhal, in crimson and orange, lighten the mood, demonstrating repeated motifs with unfailing accuracy -- fluttering feet and fists, raised revolutionary style, that then unclench and swirl like fish. The dancers' three-dimensional forms repeatedly twist into flattened profiles, recalling creatures in an antique frieze -- until, that is, they wittily adjust the height of an elbow.</p>
+        <p>In the final presto, Dallas McMurray and Julie Worden, in gray and bright blue, mirror the allegro's vigorous pace, darting from side to side in steps that convey, with a jazzy sway of the hips, a free-spirited innocence.</p>
+        <p>In between those two sections comes Mr. Morris's menacing solo, in which he crosses his wrists firmly and takes hulking steps forward only to retreat to the back of the stage, and taps his chest twice. Just as the structure of the dance is contained -- Mr. Morris restricts himself to one side of the stage -- his presence is gravely self-possessed, as if somewhere in the joy lurks a tragedy.</p>
+        <p>The rest of the program, impeccably selected for the space by Mr. Morris, is an intimate portrait of a prolific master over time. It brings back some older gems: ''The Argument,'' from 1999; ''Sang-Froid,'' from 2000; and ''Love Song Waltzes,'' from 1989, with music by Schumann, Chopin and Brahms performed live.</p>
+        <p>Each piece warrants the sort of microscopic scrutiny a smaller stage provides, but this is no science experiment. Mr. Morris is one of the most illuminating and enjoyable song-and-dance men around.</p>
+        <p>The Mark Morris Dance Group performs through Saturday at the Mark Morris Dance Center, 3 Lafayette Avenue, at Ashland Place, Fort Greene, Brooklyn; (212) 352-3101.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

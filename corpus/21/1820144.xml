@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   FREEDMAN, DORIS ROSENBLUM</title>
+    <meta content="dn012107.1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820144"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">FREEDMAN, DORIS ROSENBLUM</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EFDC1F3AF932A15752C0A9619C8B63" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   FREEDMAN, DORIS ROSENBLUM</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FREEDMAN--Doris Rosenblum, of Lauderhill, FL, and formerly of West Orange, NJ, beloved wife of Bernard, mother of Steven (Lee) and Grace (Oz), grandmother of Tom, Adam and Amos, sister of Miriam Friedman and the late Leonard Rosenblum and Pauline Gruhin, and dear aunt of many nieces and nephews, died of complications of pneumonia on December 4, 2006 at age 85. Donations in her memory may be directed to Hadassah.</p>
+      </block>
+      <block class="full_text">
+        <p>FREEDMAN--Doris Rosenblum, of Lauderhill, FL, and formerly of West Orange, NJ, beloved wife of Bernard, mother of Steven (Lee) and Grace (Oz), grandmother of Tom, Adam and Amos, sister of Miriam Friedman and the late Leonard Rosenblum and Pauline Gruhin, and dear aunt of many nieces and nephews, died of complications of pneumonia on December 4, 2006 at age 85. Donations in her memory may be directed to Hadassah.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

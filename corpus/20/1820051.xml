@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Advice for Invaders</title>
+    <meta content="l20dowd" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820051"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Islam</classifier>
+        <location class="indexing_service">Algeria</location>
+        <location class="indexing_service">France</location>
+        <person class="indexing_service">Greene, Molly</person>
+        <person class="indexing_service">Horne, Alistair</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Algeria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Islam</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E2D91E30F933A15752C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Advice for Invaders</hl1>
+      </hedline>
+      <abstract>
+        <p>Molly Greene letter disputes historian Alistair Horne's description of France's 130-year occupation of Algeria as depressing problem of getting entangled in Muslim world</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Aux Barricades!,'' by Maureen Dowd (column, Jan. 17):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Aux Barricades!,'' by Maureen Dowd (column, Jan. 17):</p>
+        <p>It is extraordinary that the historian Alistair Horne, who should know better, chooses to describe France's 130-year occupation of Algeria as ''the depressing problem of getting entangled in the Muslim world.'' It is as if the Algerians, with their long tentacles, reached out and ensnared the unsuspecting French.</p>
+        <p>In fact, France attacked and occupied Algeria without cause and without provocation in 1830, and then enacted a colonial policy of extraordinary brutality. By 1954 the Algerians had had enough.</p>
+        <p>Here's a tip: if you don't want the depression that comes from entanglement with a Muslim country, don't invade it.</p>
+        <p>Molly Greene  Princeton, N.J., Jan. 17, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

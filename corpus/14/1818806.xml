@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nicole Quenqua, Sean Adler</title>
+    <meta content="14quenqua" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818806"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Quenqua, Nicole (Nicole Adler)</person>
+        <person class="indexing_service">Adler, Dr. Sean</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E4DB1330F937A25752C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nicole Quenqua, Sean Adler</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nicole Quenqua and Dr. Sean Adler were married on Friday in a civil ceremony at the New York City Municipal Building. Blanca Martinez of the City Clerk's office, officiated. Last evening they had a Jewish ceremony at the New York Botanical Garden in the Bronx.</p>
+        <p>Mrs. Adler, 28, is an associate vice president at Rubenstein Communications, the public relations firm in Manhattan, and works with entertainment and film clients. She graduated magna cum laude from New York University.</p>
+      </block>
+      <block class="full_text">
+        <p>Nicole Quenqua and Dr. Sean Adler were married on Friday in a civil ceremony at the New York City Municipal Building. Blanca Martinez of the City Clerk's office, officiated. Last evening they had a Jewish ceremony at the New York Botanical Garden in the Bronx.</p>
+        <p>Mrs. Adler, 28, is an associate vice president at Rubenstein Communications, the public relations firm in Manhattan, and works with entertainment and film clients. She graduated magna cum laude from New York University.</p>
+        <p>She is the daughter of Pamela Kramer and Joseph Quenqua of Manhattan. Her mother is a clinical social worker in Manhattan. Her father is an insurance agent in Manhattan and Valley Stream, N.Y.</p>
+        <p>Dr. Adler, 31, practices at the Manhattan Pediatric Dental Group. He graduated from Pennsylvania State University and received both an M.B.A. and a Doctor of Dental Medicine degree from Temple. He is the son of Toby and David Adler of Yardley, Pa. His mother teaches reading to first-, second- and third-grade students at Walt Disney Elementary School in Levittown, Pa. His father is a chemical engineer in Teterboro, N.J., at Symrise, a German maker of fragrances and flavors.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meatpacking Safety</title>
+    <meta content="l16meat" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819257"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="indexing_service" type="descriptor">Meat</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <org class="indexing_service">American Meat Institute</org>
+        <person class="indexing_service">Boyle, J Patrick</person>
+        <person class="indexing_service">Cohen, Adam</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4D91030F935A25752C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meatpacking Safety</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from J Patrick Boyle of American Meat Institute defends safety of nation's meat supply in response to Adam Cohen's Jan 2 Editorial Observer column urging heightened inspections</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''100 Years Later, the Food Industry Is Still 'The Jungle,' '' by Adam Cohen (Editorial Observer, Jan. 2): Yes, 100 years ago Upton Sinclair wrote a book about the plight of the immigrant and focused in part on the meat industry. But 100 years later, our industry has been transformed and our meat supply is among the safest, most abundant and certainly the most affordable anywhere in the world.</p>
+        <p>Today, Department of Agriculture inspectors are present in meatpacking plants continuously and are empowered to prevent any product that does not meet federal standards from entering commerce.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''100 Years Later, the Food Industry Is Still 'The Jungle,' '' by Adam Cohen (Editorial Observer, Jan. 2): Yes, 100 years ago Upton Sinclair wrote a book about the plight of the immigrant and focused in part on the meat industry. But 100 years later, our industry has been transformed and our meat supply is among the safest, most abundant and certainly the most affordable anywhere in the world.</p>
+        <p>Today, Department of Agriculture inspectors are present in meatpacking plants continuously and are empowered to prevent any product that does not meet federal standards from entering commerce.</p>
+        <p>This inspection oversight, which is more intense than in any other industry, has not been reduced.</p>
+        <p>Today's meat plants operate in carefully controlled, high-tech environments that approach operating-room levels of sanitation. Bacteria levels on fresh meat products are at the lowest levels in history, according to U.S.D.A. data.</p>
+        <p>Since 1999, the incidence of E. coli O157:H7 in ground beef samples tested by the Agriculture Department has declined by 80 percent to a fraction of a percent, a level once thought impossible.</p>
+        <p>J. Patrick Boyle  President and Chief Executive  American Meat Institute  Washington, Jan. 5, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Boxer-Rice Exchange</title>
+    <meta content="l17boxer" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819461"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Boxer, Barbara (Sen)</person>
+        <person class="indexing_service">Rice, Condoleezza (Sec)</person>
+        <person class="indexing_service">Ramniceanu, Mary</person>
+        <person class="indexing_service">Mcallister, Bruce A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5DF1130F934A25752C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Boxer-Rice Exchange</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters comment on Jan 13 article on exchange between Sen Barbara Boxer and Sec of State Condoleezza Rice about who is paying price in Iraq; Mary Ramniceanu notes that neither woman has family members in Iraq or waiting to be sent there; Bruce A McAllister says that while Boxer may have stepped over the line, Bush administration should acknowledge near total absence from combat of any relatives of decision makers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Passing Exchange Becomes Political Flashpoint Focused on Feminism'' (news article, Jan. 13):</p>
+        <p>The silliness resulting from Senator Barbara Boxer's comment to Secretary of State Condoleezza Rice -- ''Who pays the price?'' -- is nothing more than that: silliness.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Passing Exchange Becomes Political Flashpoint Focused on Feminism'' (news article, Jan. 13):</p>
+        <p>The silliness resulting from Senator Barbara Boxer's comment to Secretary of State Condoleezza Rice -- ''Who pays the price?'' -- is nothing more than that: silliness.</p>
+        <p>Neither of these women has family members who are in the military waiting to be sent to Iraq or who are already there. That is a fact. It is the truth. It is not demeaning. It is not an attack. It is not antifeminist.</p>
+        <p>This is wasted rhetoric and an absurdly ridiculous debate.</p>
+        <p>Mary Ramniceanu  New York, Jan. 14, 2007</p>
+        <p>To the Editor:</p>
+        <p>Senator Barbara Boxer stepped over a line, but --  shouldn't there be a smidgen of awareness from someone in this administration that there is a singular lack of shared sacrifice in this war?</p>
+        <p>And that the near total absence from combat of any relatives of the decision makers in this administration symbolizes that difference between this and past wars?</p>
+        <p>The administration would have done better if it had acknowledged that fact and not merely descended to the obvious reference to feminism.</p>
+        <p>Bruce A. McAllister  Palm Beach, Fla., Jan. 13, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

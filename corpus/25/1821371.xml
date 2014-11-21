@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Vatican City: Pope Condemns Sex In Media</title>
+    <meta content="25briefs-1" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821371"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Sex</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Violence</classifier>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Fisher, Ian</person>
+        <person class="indexing_service">Pope (Benedict Xvi)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEED9163FF936A15752C0A9619C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Vatican City: Pope Condemns Sex In Media</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN FISHER</byline>
+      <byline class="normalized_byline">Fisher, Ian</byline>
+      <abstract>
+        <p>Pope Benedict XVI condemns in written brief address any entertainment as 'perversion' that romanticizes violence or trivializes sex, especially animated cartoons and video games meant for children (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pope Benedict XVI condemned as a ''perversion'' any entertainment that romanticizes violence or trivializes sex, especially animated cartoons and video games meant for children. ''I appeal to the leaders of the media industry to educate and encourage producers to safeguard the common good, to uphold the truth, to protect human dignity and promote respect for the needs of the family,'' the pope wrote in a brief address on the media and children.</p>
+        <p>IAN FISHER</p>
+      </block>
+      <block class="full_text">
+        <p>Pope Benedict XVI condemned as a ''perversion'' any entertainment that romanticizes violence or trivializes sex, especially animated cartoons and video games meant for children. ''I appeal to the leaders of the media industry to educate and encourage producers to safeguard the common good, to uphold the truth, to protect human dignity and promote respect for the needs of the family,'' the pope wrote in a brief address on the media and children.</p>
+        <p>IAN FISHER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Star System in Soccer</title>
+    <meta content="28backpage-1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822104"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Soccer</classifier>
+        <classifier class="indexing_service" type="descriptor">Celebrities</classifier>
+        <org class="indexing_service">Major League Soccer</org>
+        <person class="indexing_service">Clayton, Steven M</person>
+        <person class="indexing_service">Beckham, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Celebrities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EEDA173FF93BA15752C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Star System in Soccer</hl1>
+      </hedline>
+      <abstract>
+        <p>Steven M Clayton letter on January 21 Economic View column on Major League Soccer; says soccer does not have following in United States to support starts like David Beckham (S)0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Star-Struck on the Soccer Field, and in the Boardroom'' (Economic View, Jan. 21):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Star-Struck on the Soccer Field, and in the Boardroom'' (Economic View, Jan. 21):</p>
+        <p>While I applaud Major League Soccer for getting a star like David Beckham, I question what this will do for the sport. When stars like Michael Jordan and Wayne Gretzky captured our imaginations, their respective sports already had big, solid bases of fans, something that despite considerable effort by many, soccer has yet to attract in America. The foundation is needed before rewards can be reaped by the Beckham signing.</p>
+        <p>Steven M. Clayton  Ocean, N.J., Jan. 21</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

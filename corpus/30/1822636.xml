@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Smithsonian Discloses Cable Programs</title>
+    <meta content="30arts-5" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822636"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Smithsonian Institution</org>
+        <org class="indexing_service">Showtime Networks Inc</org>
+        <org class="indexing_service">National Museum of American History</org>
+        <person class="indexing_service">Wyatt, Edward</person>
+        <object.title class="indexing_service">Stories From the Vaults (TV Program)</object.title>
+        <object.title class="indexing_service">American Treasures (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E5D8143FF933A05752C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Smithsonian Discloses Cable Programs</hl1>
+      </hedline>
+      <byline class="print_byline">By EDWARD WYATT; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Wyatt, Edward</byline>
+      <abstract>
+        <p>Smithsonian Networks, on-demand cable channel that drew criticism over its exclusive content agreement with Showtime Networks, says that first two programs will take viewers behind scenes of Smithsonian's vast collections; series Stories From the Vaults will look at museum's treasures and people who care for them; series American Treasures will focus on National Museum of American History exhibition of 150 most unusual items in collection (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Smithsonian Networks, the on-demand cable channel that drew criticism over its exclusive content agreement with Showtime Networks, said yesterday that its first slate of programming would include two programs taking viewers behind the scenes of the Smithsonian's vast collections of American memorabilia. ''Stories from the Vaults,'' a series of six 30-minute shows, will look at both the museum's treasures and the people ''who care for and unlock their secrets.'' ''American Treasures'' will focus on a National Museum of American History exhibition of 150 of the most unusual items in the collection, including the hat that Abraham Lincoln wore on the night of his assassination. Other programs will highlight the mystery surrounding the 1933 Double Eagle, one of the world's rarest and most valuable gold coins; commercial applications of scientific data, like how the hydrodynamics of penguins have influenced car design; and pre-Katrina Mardi Gras in New Orleans.</p>
+        <p>EDWARD WYATT</p>
+      </block>
+      <block class="full_text">
+        <p>Smithsonian Networks, the on-demand cable channel that drew criticism over its exclusive content agreement with Showtime Networks, said yesterday that its first slate of programming would include two programs taking viewers behind the scenes of the Smithsonian's vast collections of American memorabilia. ''Stories from the Vaults,'' a series of six 30-minute shows, will look at both the museum's treasures and the people ''who care for and unlock their secrets.'' ''American Treasures'' will focus on a National Museum of American History exhibition of 150 of the most unusual items in the collection, including the hat that Abraham Lincoln wore on the night of his assassination. Other programs will highlight the mystery surrounding the 1933 Double Eagle, one of the world's rarest and most valuable gold coins; commercial applications of scientific data, like how the hydrodynamics of penguins have influenced car design; and pre-Katrina Mardi Gras in New Orleans.</p>
+        <p>EDWARD WYATT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

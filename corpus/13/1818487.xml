@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'Grey' Leads for ABC</title>
+    <meta content="13arts-3" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818487"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Abc Inc</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <object.title class="indexing_service">Grey's Anatomy (TV Program)</object.title>
+        <object.title class="indexing_service">Ugly Betty (TV Program)</object.title>
+        <object.title class="indexing_service">Men in Trees (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD81330F930A25752C0A9619C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'Grey' Leads for ABC</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>ABC wins ratings for Thursday night with shows Grey's Anatomy, Ugly Betty and Men in Trees (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Grey's Anatomy'' outdrew its 9 p.m. competition on Thursday on CBS, NBC and Fox combined, as ABC went on to dominate the night over all. According to Nielsen's estimates, this medical drama drew 22.9 million viewers, its second-largest audience since September. ABC also led in total viewers at 8 p.m. with ''Ugly Betty'' (13.4 million), while at 10, ''Men in Trees'' (10.3 million) edged out a repeat of CBS's ''Shark'' (10.2 million) to finish second behind NBC's ''ER'' (12.1 million). Among adults 18 to 49, NBC ranked No. 2 for the night, thanks to ''My Name Is Earl'' at 8 (10.9 million) and ''The Office'' at 8:30 (10.2 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>''Grey's Anatomy'' outdrew its 9 p.m. competition on Thursday on CBS, NBC and Fox combined, as ABC went on to dominate the night over all. According to Nielsen's estimates, this medical drama drew 22.9 million viewers, its second-largest audience since September. ABC also led in total viewers at 8 p.m. with ''Ugly Betty'' (13.4 million), while at 10, ''Men in Trees'' (10.3 million) edged out a repeat of CBS's ''Shark'' (10.2 million) to finish second behind NBC's ''ER'' (12.1 million). Among adults 18 to 49, NBC ranked No. 2 for the night, thanks to ''My Name Is Earl'' at 8 (10.9 million) and ''The Office'' at 8:30 (10.2 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

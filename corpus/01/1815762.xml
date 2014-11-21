@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Journal Hits a Closed Market</title>
+    <meta content="01journal" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/01/business/media/01journal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815762"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <org class="indexing_service">Wall Street Journal</org>
+        <person class="indexing_service">Ford, Gerald Rudolph Jr (1913-2006)</person>
+        <person class="indexing_service">Seelye, Katharine Q</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <org class="online_producer">Wall Street Journal</org>
+        <org class="online_producer">New York Stock Exchange</org>
+        <org class="online_producer">Nasdaq Stock Market</org>
+        <person class="online_producer">Ford, Gerald Rudolph Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFD91630F932A35752C0A9619C8B63" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Journal Hits a Closed Market</hl1>
+        <hl2 class="online_headline">New Journal Hits a Closed Market</hl2>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+      <byline class="normalized_byline">Seelye, Katharine Q</byline>
+      <abstract>
+        <p>Wall Street Journal will introduce redesigned, smaller version of its newspaper on day markets will be closed to mark death of former President Gerald R Ford; says closing, which is falling on long-planned date of new version's release, will not affect publicity; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You know what they say about the best-laid plans. The Wall Street Journal is now an expert.</p>
+        <p>The paper is introducing its newly designed version -- and smaller size -- tomorrow. It has been touting the design, which it first announced more than a year ago, in a publicity campaign for the last month, building momentum toward the Jan. 2 introduction.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Wall Street is shutting down to mark the death of former President Gerald R. Ford on the same day The Wall Street Journal is launching its new design.</p>
+      </block>
+      <block class="full_text">
+        <p>You know what they say about the best-laid plans. The Wall Street Journal is now an expert.</p>
+        <p>The paper is introducing its newly designed version -- and smaller size -- tomorrow. It has been touting the design, which it first announced more than a year ago, in a publicity campaign for the last month, building momentum toward the Jan. 2 introduction.</p>
+        <p>The only problem is that Wall Street is shutting down tomorrow to mark the death of former President Gerald R. Ford. Both the New York Stock Exchange and the Nasdaq Stock Market are following tradition, dating from the burial of Ulysses S. Grant in 1885, in honoring the death of a president by halting trading. That means The Journal's core audience is likely to miss the ballyhooed first issue.</p>
+        <p>A spokesman for The Journal said that the closing of the markets would not have much affect on the paper's publicity plans, which include giving away half a million copies free at 40,000 newsstands across the country -- most of them not in Manhattan. And most of those copies that are in Manhattan are to be distributed at transportation hubs outside the financial district, like Grand Central Terminal, Penn Station and the Port Authority, to reach ordinary commuters, not the pinstripes downtown.</p>
+        <p>But the crowning feature of the planned hoopla was for Peter R. Kann, chairman of Dow Jones, which owns The Journal, to ring the closing bell at the New York Stock exchange tomorrow. That prized showcase is now canceled.</p>
+        <p>KATHARINE Q. SEELYE</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

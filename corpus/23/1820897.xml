@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Never Too Early for Pollsters</title>
+    <meta content="23ppoll" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820897"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="POLITICAL ACTION: THE 2008 RACE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">Newsweek Poll</classifier>
+        <org class="indexing_service">Newsweek (Magazine)</org>
+        <person class="indexing_service">Broder, John M</person>
+        <person class="indexing_service">Edwards, John W</person>
+        <person class="indexing_service">Mccain, John (Sen)</person>
+        <person class="indexing_service">Giuliani, Rudolph W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/John Edwards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE5D81F30F930A15752C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Never Too Early for Pollsters</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN M. BRODER</byline>
+      <byline class="normalized_byline">Broder, John M</byline>
+      <abstract>
+        <p>Newsweek poll says of Democratic presidential candidates, only former Sen John Edwards would beat Sen John McCain and Rudolph W Giuliani, top two potential Republican candidates, in head-to-head matchups; poll results noted; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Let the hypotheticals begin. Conventional wisdom may say Senator Hillary Rodham Clinton of New York is the Democrats' prohibitive front-runner. But a Newsweek poll released over the weekend, which otherwise shows the candidates tightly bunched, indicates that former Senator John Edwards, below, is the only one to beat the top two potential Republican candidates in head-to-head matchups. The poll shows that Mr. Edwards, of North Carolina, Mrs. Clinton and Senator Barack Obama of Illinois all would beat Senator John McCain of Arizona by a few percentage points. But Rudolph W. Giuliani, the former New York mayor, would narrowly defeat Senators Clinton and Obama while losing to Mr. Edwards, 45 percent to 48 percent. But the numbers are all close and fall within the poll's margin of sampling error of plus or minus four percentage points.</p>
+        <p>The matchups, in percentages:</p>
+        <p>Edwards 48, McCain 43  Clinton 48, McCain 47  Obama 46, McCain 44  Edwards 48, Giuliani 45  Giuliani 48, Clinton 47  Giuliani 47, Obama 45</p>
+        <p>JOHN M. BRODER</p>
+      </block>
+      <block class="full_text">
+        <p>Let the hypotheticals begin. Conventional wisdom may say Senator Hillary Rodham Clinton of New York is the Democrats' prohibitive front-runner. But a Newsweek poll released over the weekend, which otherwise shows the candidates tightly bunched, indicates that former Senator John Edwards, below, is the only one to beat the top two potential Republican candidates in head-to-head matchups. The poll shows that Mr. Edwards, of North Carolina, Mrs. Clinton and Senator Barack Obama of Illinois all would beat Senator John McCain of Arizona by a few percentage points. But Rudolph W. Giuliani, the former New York mayor, would narrowly defeat Senators Clinton and Obama while losing to Mr. Edwards, 45 percent to 48 percent. But the numbers are all close and fall within the poll's margin of sampling error of plus or minus four percentage points.</p>
+        <p>The matchups, in percentages:</p>
+        <p>Edwards 48, McCain 43  Clinton 48, McCain 47  Obama 46, McCain 44  Edwards 48, Giuliani 45  Giuliani 48, Clinton 47  Giuliani 47, Obama 45</p>
+        <p>JOHN M. BRODER  POLITICAL ACTION: THE 2008 RACE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

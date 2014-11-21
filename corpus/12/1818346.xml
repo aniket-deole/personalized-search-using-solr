@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="12correx-8" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818346"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Outdoor Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Outdoor Advertising Assn of America</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Outdoor Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EFDC1330F931A25752C0A9619C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 11 article about digital technology that rotates images on highway billboards misstated number of billboards expected to be converted to new technology within 10 years; it is 4,000, not 90,000</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Advertising column on Wednesday, about the popularity of penguin characters among marketers, misidentifed the agency that created a holiday commercial for Coca-Cola, based on information supplied by Coca-Cola. The agency was Berlin Cameron United, which previously worked for the company -- not Wieden &amp; Kennedy, the current agency. The article also misspelled the surname of a founder of Club Penguin, a Web site for children. He is Dave Krysko, not Krisko.</p>
+      </block>
+      <block class="full_text">
+        <p>The Advertising column on Wednesday, about the popularity of penguin characters among marketers, misidentifed the agency that created a holiday commercial for Coca-Cola, based on information supplied by Coca-Cola. The agency was Berlin Cameron United, which previously worked for the company -- not Wieden &amp; Kennedy, the current agency. The article also misspelled the surname of a founder of Club Penguin, a Web site for children. He is Dave Krysko, not Krisko.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Budget Illusion</title>
+    <meta content="28sun1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/opinion/28sun1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822109"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Congressional Budget Office</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E1D9173FF93BA15752C0A9619C8B63" item-length="517" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Budget Illusion</hl1>
+        <hl2 class="online_headline">The Budget Illusion</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial scores Pres Bush for claiming that slashing taxes helped cut budget deficit in half; says 10-year budget outlook is for cumulative deficit of roughly $3 trillion if tax cuts are extended beyond their scheduled 2010 expiration; holds that tax cuts should largely be allowed to expire</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the State of the Union speech, President Bush said that the budget deficit had been cut in half from 2004 to 2006. Not quite. The deficit declined, but not by half, from $412 billion to $248 billion. If you measure it as a percentage of the economy, Mr. Bush was off by an amount equal to about $15 billion.</p>
+        <p>Then, Mr. Bush greatly compounded his otherwise modest exaggeration by taking credit for the reduction, when the deficit really fell despite his policies, not because of them. The distinction is crucial, to understand both the current mess -- in which debt is mounting just as huge obligations are coming due for Medicare and Social Security -- and how best to get out of it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush’s tax cuts should largely be allowed to expire. Facing that truth is not a fiscal challenge, it’s a political one.</p>
+      </block>
+      <block class="full_text">
+        <p>In the State of the Union speech, President Bush said that the budget deficit had been cut in half from 2004 to 2006. Not quite. The deficit declined, but not by half, from $412 billion to $248 billion. If you measure it as a percentage of the economy, Mr. Bush was off by an amount equal to about $15 billion.</p>
+        <p>Then, Mr. Bush greatly compounded his otherwise modest exaggeration by taking credit for the reduction, when the deficit really fell despite his policies, not because of them. The distinction is crucial, to understand both the current mess -- in which debt is mounting just as huge obligations are coming due for Medicare and Social Security -- and how best to get out of it.</p>
+        <p>The drop in the deficit over the past few years was due largely to the cyclical recovery from the earlier recession, and to a boost in revenue when temporary business tax cuts expired after 2004.</p>
+        <p>Mr. Bush, meanwhile, has pursued a single-minded strategy of spending more while slashing taxes. That is the opposite of deficit reduction; it has made the budget hole deeper than it would have been. Still, Mr. Bush wants you to believe that tax cuts caused the economic recovery, and thus the budget improvement. If you follow that logic, the key to continued improvement would be continued tax cuts, and that is just what Mr. Bush called for last week. He conjured a bright future in which the deficit disappears after he leaves office, without anyone ever having to raise taxes.</p>
+        <p>That was the speech, and then there is reality, which came knocking within days when the nonpartisan Congressional Budget Office released its annual 10-year budget outlook. The outlook is for a cumulative deficit of $2.9 trillion to $3.4 trillion -- about $300 billion a year -- if, as Mr. Bush wishes, the tax cuts are extended beyond their scheduled expiration in 2010 and tax relief continues for Americans wrongly afflicted by the alternative minimum tax. In arriving at its estimate, the budget agency also assumed that costs for the war in Iraq would start going down next year, an assumption that, if proved wrong, would result in even higher deficits.</p>
+        <p>In the absence of overt tax increases, that leaves Mr. Bush only three ways to erase the deficit. He would have to make pie-in-the-sky assumptions of revenue growth, which would be dicey in any event, but folly at a time when the economy is slowing. He would have to renege on his pledge to protect taxpayers from the alternative minimum tax, a huge backdoor tax increase. Or he would have to persuade lawmakers to make cuts in spending even more draconian than those already dodged by the previous Republican-controlled Congress.</p>
+        <p>Fortunately, such cuts are necessary only if one accepts Mr. Bush's premise that taxes must never rise under any circumstances. That is clearly a false premise. Mr. Bush's tax cuts should largely be allowed to expire. Facing that truth is not a fiscal challenge, it's a political one.</p>
+        <p>Mr. Bush will not meet it. But a future president and Congress will have to.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

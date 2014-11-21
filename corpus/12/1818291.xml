@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Will Chuck See His Shadow? First, He Has to Get Used to the Commute</title>
+    <meta content="12groundREEFER" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070115T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1818291"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Zoos</classifier>
+        <classifier class="indexing_service" type="descriptor">Groundhogs</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Staten Island Zoo (NYC)</org>
+        <person class="indexing_service">Groundhog Day</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Zoos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE0DD1330F931A25752C0A9619C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Will Chuck See His Shadow? First, He Has to Get Used to the Commute</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Chuck, groundhog visiting Staten Island Zoo; is training to make personal appearances on Groundhogs Day in February</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>Correction:  January 15, 2007, Monday  A picture caption on Friday with an article about Staten Island Chuck, a groundhog being prepared for his first Groundhog Day duty, omitted a credit in some copies. The pictures of Chuck and his trainer, Douglas Schwartz, were by Chang W. Lee of The New York Times.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 15, 2007, Monday</p>
+        <p>A picture caption on Friday with an article about Staten Island Chuck, a groundhog being prepared for his first Groundhog Day duty, omitted a credit in some copies. The pictures of Chuck and his trainer, Douglas Schwartz, were by Chang W. Lee of The New York Times.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

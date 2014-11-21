@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KATZ, IRA</title>
+    <meta content="dn010407" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816202"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KATZ, IRA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E0DC1E3AF937A35752C0A9619C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KATZ, IRA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KATZ--Ira. The family of Howard Katz (deceased), Gilda, Alan (Randi, Stefanie and Pamela), Stuart (Carmen, Andrea and Sandra) and Jonathan (Robin, Danielle and Derek), mourn the passing of his brother Ira. Ira and Howard, with their father Philip, were among the pioneers of housing and industrial construction on Long Island after WWII under the trade name of Sherwood. As patriarch, he delighted in the success and happiness of his family. His wonderful smile and warm, easy way made him the beloved family man we will always remember. Our love and thoughts are with his wife Elaine, son Jeffrey (Beth Rogers), daughter Suzi and his grandchildren (John, Jason and Mark). May his memory be for a blessing. So long, Tom.</p>
+      </block>
+      <block class="full_text">
+        <p>KATZ--Ira. The family of Howard Katz (deceased), Gilda, Alan (Randi, Stefanie and Pamela), Stuart (Carmen, Andrea and Sandra) and Jonathan (Robin, Danielle and Derek), mourn the passing of his brother Ira. Ira and Howard, with their father Philip, were among the pioneers of housing and industrial construction on Long Island after WWII under the trade name of Sherwood. As patriarch, he delighted in the success and happiness of his family. His wonderful smile and warm, easy way made him the beloved family man we will always remember. Our love and thoughts are with his wife Elaine, son Jeffrey (Beth Rogers), daughter Suzi and his grandchildren (John, Jason and Mark). May his memory be for a blessing. So long, Tom.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

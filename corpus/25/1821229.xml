@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Shepherd, the Sea Nymph And the Big Rock, Abridged</title>
+    <meta content="25aulo" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/arts/music/25aulo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821229"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Opera</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Oestreich, James R</person>
+        <person class="indexing_service">Handel, George Frederick (1685-1759)</person>
+        <object.title class="indexing_service">Acis and Galatea (Opera)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Aulos Ensemble</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E3DC163FF936A15752C0A9619C8B63" item-length="285" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Shepherd, the Sea Nymph And the Big Rock, Abridged</hl1>
+        <hl2 class="online_headline">The Shepherd, the Sea Nymph and the Big Rock, Abridged</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES R. OESTREICH</byline>
+      <byline class="normalized_byline">Oestreich, James R</byline>
+      <abstract>
+        <p>James R Oestreich reviews concert performance of Handel opera Acis and Galatea at Metropolitan Museum of Art; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This can be short. Certainly the opera is.</p>
+        <p>In fact, the Aulos Ensemble made Handel's ''Acis and Galatea'' even shorter for a concert performance in the Medieval Sculpture Hall of the Metropolitan Museum on Tuesday evening, with several arias shorn of their da capo endings and another dropped altogether. The trims, unfortunate in an already fast-paced round of delicious melodies, had no doubt been made to accommodate the two performances originally scheduled, at 6:30 and 8:30.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This work (technically a serenata) is a little gem, and the Aulos Ensemble polished it to a fine luster.</p>
+      </block>
+      <block class="full_text">
+        <p>This can be short. Certainly the opera is.</p>
+        <p>In fact, the Aulos Ensemble made Handel's ''Acis and Galatea'' even shorter for a concert performance in the Medieval Sculpture Hall of the Metropolitan Museum on Tuesday evening, with several arias shorn of their da capo endings and another dropped altogether. The trims, unfortunate in an already fast-paced round of delicious melodies, had no doubt been made to accommodate the two performances originally scheduled, at 6:30 and 8:30.</p>
+        <p>In any event, the later one was canceled because of lagging ticket sales. More's the pity, for this work (technically a serenata) is a little gem, and Aulos polished it to a fine luster.</p>
+        <p>The plot, taken more or less from Ovid's ''Metamorphoses,'' is simple: the shepherd Acis and the sea nymph Galatea fall blissfully in love. The monster Polyphemus intrudes, fixating on Galatea and crushing Acis under a huge rock. All mourn.</p>
+        <p>John Elwes sang strongly as Acis despite an occasional graininess to his tone. His earnest demeanor somewhat belied the sentiment of the buoyant duet ''Happy we.'' Kendra Colton, as Galatea, carried herself like a goddess and sang radiantly and vividly. Curtis Streetman brought the appropriate bluster to the role of Polyphemus and his surefire aria, ''O ruddier than the cherry.''</p>
+        <p>The Aulos players were their usual expert selves. Having the oboist Marc Schachman as accompanist or duet partner must be a mixed blessing for a singer, since he sings as well as most, better than some.</p>
+        <p>In all, it was an utter delight. If the performers had changed their minds and offered a second run-through after all, many of the loudly appreciative audience members would surely have stayed to hear it again.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

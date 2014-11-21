@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Shirley: Woman Dies In House Fire</title>
+    <meta content="22mbrfs-3" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/nyregion/22mbrfs-fire.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820750"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firefighters</classifier>
+        <location class="indexing_service">Shirley (NY)</location>
+        <person class="indexing_service">Hutt, Delores</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <location class="online_producer">Long Island (NY)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE4DB1F30F931A15752C0A9619C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Shirley: Woman Dies In House Fire</hl1>
+        <hl2 class="online_headline">Shirley, N.Y.: Woman Dies in House Fire</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+      <abstract>
+        <p>Delores Hutt dies in Shirley, NY, house fire (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A woman died yesterday morning in a house fire, the Suffolk County police said. The woman, Delores Hutt, 57, was trapped in an upstairs bathroom during the fire at a house on Saint George Drive West, in Shirley, Long Island, the police said. According to the police, Ms. Hutt's sister, Dorothy Landau, was making tea about 4:30 a.m. when she saw flames coming from a blanket on the couch. An investigation continued yesterday, but the police said the fire did not appear to be suspicious.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A woman died yesterday morning in a house fire, the Suffolk County police said. The woman, Delores Hutt, 57, was trapped in an upstairs bathroom during the fire at a house on Saint George Drive West, in Shirley, Long Island, the police said. According to the police, Ms. Hutt’s sister, Dorothy Landau, was making tea about 4:30 a.m. when she saw flames coming from a blanket on the couch. An investigation continued yesterday, but the police said the fire did not appear to be suspicious.</p>
+      </block>
+      <block class="full_text">
+        <p>A woman died yesterday morning in a house fire, the Suffolk County police said. The woman, Delores Hutt, 57, was trapped in an upstairs bathroom during the fire at a house on Saint George Drive West, in Shirley, Long Island, the police said. According to the police, Ms. Hutt's sister, Dorothy Landau, was making tea about 4:30 a.m. when she saw flames coming from a blanket on the couch. An investigation continued yesterday, but the police said the fire did not appear to be suspicious.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

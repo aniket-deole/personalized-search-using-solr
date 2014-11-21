@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="17topcorrex" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819492"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Royalties</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Property</classifier>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <location class="indexing_service">Wyoming</location>
+        <org class="indexing_service">Interior Department</org>
+        <person class="indexing_service">Burton, Johnnie M</person>
+        <person class="indexing_service">Geringer, Jim (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wyoming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E6DE1130F934A25752C0A9619C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Jan 16 article about Johnnie M Burton, who runs Interior Department's troubled program to collect royalties on oil and gas pumped on public lands; Wyoming Gov Jim Geringer left office because of term limits law</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day yesterday about Johnnie M. Burton, who runs the Interior Department's troubled program to collect royalties on oil and gas pumped on public lands, misstated the circumstances under which Gov. Jim Geringer of Wyoming, who had named Ms. Burton to run the state's Department of Revenue, left office. Wyoming term-limit laws prevented Mr. Geringer, a Republican, from running for re-election in 2002; he was not ''ousted'' by voters.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day yesterday about Johnnie M. Burton, who runs the Interior Department's troubled program to collect royalties on oil and gas pumped on public lands, misstated the circumstances under which Gov. Jim Geringer of Wyoming, who had named Ms. Burton to run the state's Department of Revenue, left office. Wyoming term-limit laws prevented Mr. Geringer, a Republican, from running for re-election in 2002; he was not ''ousted'' by voters.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hard, Easy or Just Right?</title>
+    <meta content="18classKATA" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Health; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/fashion/18classKATA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819572"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASS IS IN SESSION: STREET KATA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Exercise</classifier>
+        <classifier class="indexing_service" type="descriptor">Martial Arts</classifier>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Equinox Fitness Clubs</org>
+        <person class="indexing_service">Ellin, Abby</person>
+        <person class="indexing_service">Garland, Bishop</person>
+        <classifier class="online_producer" type="types_of_material">Series</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Martial Arts</classifier>
+        <classifier class="online_producer" type="descriptor">Health Clubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Clubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Martial Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E0DC1130F93BA25752C0A9619C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hard, Easy or Just Right?</hl1>
+        <hl2 class="online_headline">Street Kata</hl2>
+      </hedline>
+      <byline class="print_byline">By ABBY ELLIN</byline>
+      <byline class="normalized_byline">Ellin, Abby</byline>
+      <abstract>
+        <p>Review of Bishop Garland class at Equinox Fitness Club, which blends elements of different martial arts with serious dance moves; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Equinox locations in Manhattan. www.equinoxfitness.com.  Day pass: $25 to 35. Guests must be accompanied by a member.</p>
+        <p>IT was only a matter of time before watered-down martial arts classes (see: kickboxing) evolved. After all, anyone can strike a virtual partner; it takes talent to do it with finesse. ''If you ever watch a karate movement, they're not just moving forward and back, there's showmanship there,'' said Bishop Garland, the creator of Street Kata. ''They move with grace and balance.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>STREET KATA.</p>
+      </block>
+      <block class="full_text">
+        <p>Equinox locations in Manhattan. www.equinoxfitness.com.  Day pass: $25 to 35. Guests must be accompanied by a member.</p>
+        <p>IT was only a matter of time before watered-down martial arts classes (see: kickboxing) evolved. After all, anyone can strike a virtual partner; it takes talent to do it with finesse. ''If you ever watch a karate movement, they're not just moving forward and back, there's showmanship there,'' said Bishop Garland, the creator of Street Kata. ''They move with grace and balance.''</p>
+        <p>This class blends elements from tae kwon do, shodokan aikido, capoeira and tai chi with serious dance moves. Imagine ''The Karate Kid Goes Break Dancing.'' Street Kata, according to a class description, is about ''understanding movement, which flows into understanding self.'' What that means remains a mystery, but we were asked to visualize clocking an unseen opponent in the knee, kidneys and head with swift kicks. Then we blocked, ducked, punched; eventually Mr. Garland strung moves together into choreographed sequences, until we had a fairly involved dance routine going.</p>
+        <p>The instructor has three rules: stay on the balls of your feet to avoid injury, keep your guard up and never stop moving. They're good precepts, applicable to life and gym. Forty-five minutes later I was wiped out. Did I understand myself any better? Not really, alas. But trying to figure out the moves -- and do them with a certain élan -- made the class flow right by. Best of all, Mr. Garland provides earplugs, so you don't have to feel like the loud, throbbing music is bashing you in the head along with an imaginary foot.</p>
+        <p>ABBY ELLIN</p>
+        <p>This is another in a series of group fitness class reviews.</p>
+        <p>CLASS IS IN SESSION: STREET KATA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

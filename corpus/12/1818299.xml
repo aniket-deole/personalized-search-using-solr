@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; But I Was Cool</title>
+    <meta content="12gall-6" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818299"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Cotter, Holland</person>
+        <person class="indexing_service">Scott, Dread</person>
+        <person class="indexing_service">Pruitt, Robert A</person>
+        <person class="indexing_service">Gant, Jerry</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEFDD1330F931A25752C0A9619C8B63" item-length="375" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; But I Was Cool</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+      <byline class="normalized_byline">Cotter, Holland</byline>
+      <abstract>
+        <p>Holland Cotter reviews works by Dread Scott, Robert A Pruitt and Jerry Gant at Aljira, a Center for Contemporary Art in Newark, NJ (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Aljira, a Center for Contemporary Art  591 Broad Street, Newark  Through Jan. 20</p>
+        <p>In a 2006 New York Times Op-Ed article titled ''A Poverty of the Mind,'' the sociologist Orlando Patterson suggested that the most important liability for many African-American men isn't joblessness or poor education, but what he called the ''cool pose,'' a masculine stance of power and invulnerability that made hanging out, doing drugs and risking going to jail a worthy career.</p>
+      </block>
+      <block class="full_text">
+        <p>Aljira, a Center for Contemporary Art  591 Broad Street, Newark  Through Jan. 20</p>
+        <p>In a 2006 New York Times Op-Ed article titled ''A Poverty of the Mind,'' the sociologist Orlando Patterson suggested that the most important liability for many African-American men isn't joblessness or poor education, but what he called the ''cool pose,'' a masculine stance of power and invulnerability that made hanging out, doing drugs and risking going to jail a worthy career.</p>
+        <p>The three black male artists in the show -- Dread Scott, Robert A. Pruitt and Jerry Gant -- offer nuanced glosses on Mr. Patterson's position, questioning it and casting it in into historical perspective. Mr. Scott refers back to the radical politics of the 1960s in an assemblage titled ''Bensonhurst: Violence Is an Equal Opportunity Employer,'' which refers to the Black Panther Fred Hampton, killed by police in 1969, advising blacks to arm themselves.</p>
+        <p>Mr. Pruitt looks to the same era in his life-size ''Black Shining Prince'' drawings, which depict men wearing Black Panther-style leather jackets and African dance masks. The series title comes from a eulogy delivered at the funeral of the murdered Malcolm X. The ''portraits'' are of the young artist's contemporaries. The images are complex because African masks can be used to deter violence and sustain social equilibrium or in pursuit of justice and in war.</p>
+        <p>Other pieces by Mr. Pruitt trace ''cool'' back to slavery, when masking emotions -- staying cool -- was a survival tactic. Mr. Scott brings the investigation into the present with posters memorializing deaths in Hurricane Katrina and an African ''power figure'' in the form of a black male toy doll bristling with bullets.</p>
+        <p>It is Mr. Gant who offers the most abstract and positive take on the coolness theme in the form of a mediating remedy through art. For the occasion, he built a thin, high throne made of plywood and equipped with halo-like headphones and a crown. The throne, at once regal and fragile, is actually designed as a listening station. And Mr. Gant, who organized the exhibition with Edwin Ramoran in memory of Aljira's chief curator, Eathon G. Hall Jr., plans to build more. It's a sociable idea. With the right music playing, a whole new cool could rule.</p>
+        <p>HOLLAND COTTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

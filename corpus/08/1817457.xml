@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A $400,000 Tanning Booth</title>
+    <meta content="07NUGGETrolls" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817457"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DD1130F93BA35752C0A9619C8B63" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A $400,000 Tanning Booth</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM DIEM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Sunday:Rolls-Royce Phantom Drophead Coupé</p>
+        <p>Is it real? Production starts this summer.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Sunday:Rolls-Royce Phantom Drophead Coupé</p>
+        <p>Is it real? Production starts this summer.</p>
+        <p>What's the point? Rolls has nearly always had a big convertible, and the 100EX concept car of 2004 was an announcement that it would be forever so. ''Drophead'' refers to the folding top that disappears under a teak cover, and people used the word generically in Britain to describe several luxury convertibles in the 1920s, including a Phantom. The two doors (opening coach style from the front) make it a coupé.</p>
+        <p>What they said: Because the Phantom platform was shortened by nine inches, ''it is a more nimble, agile vehicle,'' said Ian Robertson, chairman and chief executive of Rolls-Royce Motor Cars. ''With naught to 60 mile per hour acceleration in 5.7 seconds, it's a performance vehicle as well.''</p>
+        <p>What they didn't say: The existing Phantom sedan (''saloon'' to the British) consumes a gallon of premium for every 12 city miles (19 highway), so the statement it makes is not environmental. Donald Trump has one, so it doesn't make a populist statement. But frankly, it seems to belong in the world.</p>
+        <p>What makes it tick? The same 6.7-liter V-12 that pushes the ''ordinary'' Phantom.</p>
+        <p>How much, how soon? About $400,000 in the United States, the marque's largest market. It will cost more elsewhere, which will prompt some customers to fly to America and ship one home, frustrating their hometown dealers.</p>
+        <p>How's it look? The proportions are monumental, the interior is sumptuous and the rear end is sleek. But the blunt face is as unsophisticated as a second-grader's crayon rendering.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

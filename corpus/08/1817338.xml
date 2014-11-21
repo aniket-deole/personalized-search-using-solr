@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="08addes" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817338"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E3DC1530F93BA35752C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <abstract>
+        <p>Round up of advertising account changes (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Audi of America, Auburn Hills, Mich., part of Volkswagen, named Venables, Bell &amp; Partners, San Francisco, to handle its creative account, which had been handled since 1993 by McKinney &amp; Silver, Durham, N.C., part of Havas. Spending was estimated at $75 million to $100 million.</p>
+        <p>Wm. Wrigley Jr. Company, Chicago, shifted the creative duties for Altoids mints to Publicis &amp; Hal Riney, San Francisco, from Leo Burnett, Chicago, which had handled the brand since its American introduction in 1994 and created the popular ''Curiously strong'' campaign. Spending was estimated at $15 million. Both agencies are owned by the Publicis Groupe.</p>
+      </block>
+      <block class="full_text">
+        <p>Audi of America, Auburn Hills, Mich., part of Volkswagen, named Venables, Bell &amp; Partners, San Francisco, to handle its creative account, which had been handled since 1993 by McKinney &amp; Silver, Durham, N.C., part of Havas. Spending was estimated at $75 million to $100 million.</p>
+        <p>Wm. Wrigley Jr. Company, Chicago, shifted the creative duties for Altoids mints to Publicis &amp; Hal Riney, San Francisco, from Leo Burnett, Chicago, which had handled the brand since its American introduction in 1994 and created the popular ''Curiously strong'' campaign. Spending was estimated at $15 million. Both agencies are owned by the Publicis Groupe.</p>
+        <p>The Maryland Lottery awarded Trahan, Burden &amp; Charles, Baltimore, a contract to serve as interim agency of record for six to eight months. The decision came after an emergency review prompted by the unexpected closing last month of Eisner Communications, Baltimore, which had handled the account since 2001. The lottery is expected to spend an estimated $8 million to $10 million during the term of the contract.</p>
+        <p>Godiva Chocolatier, part of Campbell Soup, Camden, N.J., selected Sugartown Creative, New York, to handle its worldwide creative account, which had been handled by Margeotes Fertitta Powell, New York, and predecessor agencies for more than two decades. Spending was estimated at $12 million. Margeotes Fertitta, part of MDC Partners, did not take part in a review for the assignment.</p>
+        <p>Method Products, San Francisco, which sells household cleaners, chose the Playa del Rey, Calif., office of TBWA/Chiat/Day, part of the TBWA Worldwide division of the Omnicom Group, to handle its account after parting ways last month with Crispin Porter &amp; Bogusky, Miami, a unit of MDC Partners. Spending was estimated at $3 million.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

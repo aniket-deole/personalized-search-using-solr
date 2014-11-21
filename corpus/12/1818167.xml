@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WALLACH, IRA D.</title>
+    <meta content="dn011207" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818167"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WALLACH, IRA D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406EFD71E3AF931A25752C0A9619C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WALLACH, IRA D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WALLACH--Ira D. The staff and patients of the Center for Special Studies of New York Presbyterian Hospital mourn the death of Ira Wallach. Ira was a concerned activist who used philanthropy to support initiatives that had the potential to make a difference. Miriam and Ira were among our first benefactors, and helped us establish a model of care that has subsequently helped thousands of indigent New Yorkers infected with HIV. We will miss our friend. Dr. Jonathan L. Jacobs, Executive Director Dr. Samuel T. Merrick, Medical Director Mr. Gerard Ilaria, Director</p>
+      </block>
+      <block class="full_text">
+        <p>WALLACH--Ira D. The staff and patients of the Center for Special Studies of New York Presbyterian Hospital mourn the death of Ira Wallach. Ira was a concerned activist who used philanthropy to support initiatives that had the potential to make a difference. Miriam and Ira were among our first benefactors, and helped us establish a model of care that has subsequently helped thousands of indigent New Yorkers infected with HIV. We will miss our friend. Dr. Jonathan L. Jacobs, Executive Director Dr. Samuel T. Merrick, Medical Director Mr. Gerard Ilaria, Director</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

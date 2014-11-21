@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Better Late Than Never</title>
+    <meta content="30nfl-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822676"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="N.F.L. ROUNDUP"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EED8143FF933A05752C0A9619C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Better Late Than Never</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN CROUSE</byline>
+      <dateline>MIAMI, Jan. 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Colts' four chartered buses pulled up to the Fort Lauderdale hotel that will serve as their headquarters a few minutes late Monday, although some would argue they were running much later than that considering their opponents, the Bears, traveled to South Florida on Sunday.</p>
+        <p>Tony Dungy decided to give his players an extra day to spend with their families in Indianapolis before joining the party well under way.</p>
+      </block>
+      <block class="full_text">
+        <p>The Colts' four chartered buses pulled up to the Fort Lauderdale hotel that will serve as their headquarters a few minutes late Monday, although some would argue they were running much later than that considering their opponents, the Bears, traveled to South Florida on Sunday.</p>
+        <p>Tony Dungy decided to give his players an extra day to spend with their families in Indianapolis before joining the party well under way.</p>
+        <p>''We wanted to do it that way,'' Dungy said. ''We thought it was best for us to win.''</p>
+        <p>Dungy reasoned that the Colts needed rest more than any Super Bowl-related recreation. They had not enjoyed a weekend off since their open date Oct. 15. ''We had a great week of practice Wednesday, Thursday and Friday,'' Dungy said. ''We had a great workout this morning.''</p>
+        <p>Noting that the players will have the rest of Tuesday to themselves after meeting with the news media in the morning, tight end Dallas Clark said: ''We normally have Tuesdays off, and after meeting with the media, we'll get the rest of the day to explore Miami. I think it's really going to help the players not to throw them off their regular week of work.''</p>
+        <p>Before the Colts left, Dungy tried to drive home the point that this was a business trip. ''We've got to look at this as our time to do it now,'' he said, ''and I think we'll be focused in on it.''</p>
+        <p>KAREN CROUSE</p>
+        <p>N.F.L. ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

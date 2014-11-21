@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CHURN</title>
+    <meta content="05churn" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/05/business/05churn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816509"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Churn"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E7DC1430F936A35752C0A9619C8B63" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CHURN</hl1>
+        <hl2 class="online_headline">People</hl2>
+      </hedline>
+      <abstract>
+        <p>The Churn column on litigation related to recent corporate mergers and company appointments (S)1</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People</p>
+        <p>David Krieger and Justin Sadrian have been promoted to managing directors at Warburg Pincus. Mr. Krieger works in the energy group, while Mr. Sadrian works in the technology, media and telecommunications group. Both are based in New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People.</p>
+      </block>
+      <block class="full_text">
+        <p>People</p>
+        <p>David Krieger and Justin Sadrian have been promoted to managing directors at Warburg Pincus. Mr. Krieger works in the energy group, while Mr. Sadrian works in the technology, media and telecommunications group. Both are based in New York.</p>
+        <p>Michael J. Aiello, formerly of Dewey Ballantine, has joined Weil, Gotshal &amp; Manges as a partner in the mergers and acquisitions group.</p>
+        <p>Joshua Gotbaum has joined Blue Wolf Capital Management, a private equity firm based in New York, as an operating partner. Mr. Gotbaum recently managed Hawaiian Airlines as a Chapter 11 bankruptcy trustee. He held several positions during the Clinton administration and was chief executive of the September 11 Fund, a charity.</p>
+        <p>Peter Babej has joined Deutsche Bank Securities as head of insurance investment banking for the Americas. He will also be chairman of a newly created global insurance committee within the financial institutions group. Mr. Babej joins from Lazard.</p>
+        <p>Tim Emmerson has been elected a partner at Sullivan &amp; Cromwell and will join its London office. Mr. Emmerson had been a partner in the London office of Milbank, Tweed, Hadley &amp; McCloy.</p>
+        <p>The Cowen Group has hired Dr. Gregory B. Brown, Todd C. Davis and Clarke B. Futch to form a private equity unit, Cowen Healthcare Royalty Partners. The three, who were partners at Paul Capital Partners, have been named managing directors of Cowen.</p>
+        <p>William Cullen, Janet Barbiere and Bola Oloko have joined Thacher Proffitt &amp; Wood as partners in the structured finance group in New York. All three were partners in the New York office of Sidley Austin.</p>
+        <p>Zachary T. Fardon has joined the Chicago office of Latham &amp; Watkins as a partner in the litigation department. He was previously first assistant United States attorney in Nashville.</p>
+        <p>The Churn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

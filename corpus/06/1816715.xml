@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Viacom Selects President For MTV International Unit</title>
+    <meta content="06mtv" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/06/business/media/06mtv.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816715"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Viacom Inc</org>
+        <org class="indexing_service">Mtv Networks</org>
+        <person class="indexing_service">Bakish, Robert M</person>
+        <person class="indexing_service">Davis, Wade</person>
+        <person class="indexing_service">Salmi, Mika</person>
+        <person class="indexing_service">Fabrikant, Geraldine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">Viacom Incorporated</org>
+        <org class="online_producer">MTV Networks</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E3D71430F935A35752C0A9619C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Viacom Selects President For MTV International Unit</hl1>
+        <hl2 class="online_headline">Viacom Selects President for MTV International Unit</hl2>
+      </hedline>
+      <byline class="print_byline">By GERALDINE FABRIKANT</byline>
+      <byline class="normalized_byline">Fabrikant, Geraldine</byline>
+      <abstract>
+        <p>Viacom names Robert M Bakish as president of MTV Networks International; names Wade Davis as senior vice president for strategy mergers and acquisitions for Viacom; forms new global digital media executive team headed by Mika Salmi (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a series of appointments expected to solidify the management at Viacom, the company named Robert M. Bakish as president of MTV Networks International.</p>
+        <p>He will report to William H. Roedy, who is global chairman of MTV Networks and has oversight of MTV's international operation. MTV is a unit of Viacom.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Robert M. Bakish was named president of MTV Networks International in an effort to solidify the management at Viacom.</p>
+      </block>
+      <block class="full_text">
+        <p>In a series of appointments expected to solidify the management at Viacom, the company named Robert M. Bakish as president of MTV Networks International.</p>
+        <p>He will report to William H. Roedy, who is global chairman of MTV Networks and has oversight of MTV's international operation. MTV is a unit of Viacom.</p>
+        <p>In addition, the company named Wade Davis as senior vice president for strategy mergers and acquisitions for Viacom. He will oversee mergers and acquisitions in addition to being responsible for strategic planning and development.</p>
+        <p>In a third move, Viacom said that it had formed a new global digital media executive team that will report to Mika Salmi, president of Global digital media for MTV Networks.</p>
+        <p>In an interview Mr. Bakish said MTV wanted to focus on improving programming in crucial markets like Germany and Great Britain.</p>
+        <p>One media analyst, Richard Greenfield at Pali Research, noted that business for MTV Networks has been very weak in Britain, in part because of a poor advertising market.</p>
+        <p>Germany was also a trouble spot last year, in part because MTV Networks benefited from a major advertising buy in 2005 from Jamba, a ring-tone company. Then Jamba unexpectedly pulled its advertising, resulting in unfavorably comparisons of operating income.</p>
+        <p>''Now the company can focus on the programming side,'' Mr. Greenfield said of MTV, ''and the cost structure both in the United Kingdom and in Germany.''</p>
+        <p>Mr. Bakish said he anticipates significant play in growth markets like India.</p>
+        <p>''We have MTV and Nickelodeon distributed there, but cable and satellite become increasingly important. We see the chance to build a more significant business,'' he said.</p>
+        <p>He added that the company believes that the combination of its programming and consumer products will increase revenue in smaller emerging market countries.</p>
+        <p>Mr. Bakish is moving to MTV's international division from Viacom where he had been executive vice president for strategic planning and business development.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

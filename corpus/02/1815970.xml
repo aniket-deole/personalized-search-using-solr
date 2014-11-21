@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crash Kills Officer And Two Daughters</title>
+    <meta content="02accident" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/02/nyregion/02accident.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815970"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Police</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Bedminster (NJ)</location>
+        <person class="indexing_service">Pierre, Louicasse (Police Officer)</person>
+        <person class="indexing_service">Pierre, Ashley</person>
+        <person class="indexing_service">Pierre, Arabellah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">New Jersey</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFDF1730F931A35752C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crash Kills Officer And Two Daughters</hl1>
+        <hl2 class="online_headline">3 Are Killed in Wreck on I-78 in New Jersey</hl2>
+      </hedline>
+      <abstract>
+        <p>Off-duty New York City Police Officer Louicasse Pierre and two young daughters are killed in car crash near Bedminster, NJ (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An off-duty New York City police officer and his two daughters were killed yesterday morning when the sport utility vehicle he was driving veered off Interstate 78 near Bedminster, N.J., in wet conditions and struck a tree, the authorities said.</p>
+        <p>The driver, Louicasse Pierre, 39, of Brooklyn, had worked for the public housing police since he first joined the force in 2003. Mr. Pierre and his elder daughter, Ashley, 9, were pronounced dead at the scene.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An off-duty New York City police officer and his two daughters were killed yesterday morning when the sport utility vehicle he was driving veered off Interstate 78 near Bedminster, N.J., in wet conditions and struck a tree, the authorities said.</p>
+      </block>
+      <block class="full_text">
+        <p>An off-duty New York City police officer and his two daughters were killed yesterday morning when the sport utility vehicle he was driving veered off Interstate 78 near Bedminster, N.J., in wet conditions and struck a tree, the authorities said.</p>
+        <p>The driver, Louicasse Pierre, 39, of Brooklyn, had worked for the public housing police since he first joined the force in 2003. Mr. Pierre and his elder daughter, Ashley, 9, were pronounced dead at the scene.</p>
+        <p>His other daughter, Arabellah, 4, was taken to Morristown Memorial Hospital, where she died a short time later.</p>
+        <p>The accident happened about 7:45 a.m. just west of the exit for Interstate 287, said Sgt. Jeanne Hengemuhle of the New Jersey State Police.</p>
+        <p>The S.U.V., a Toyota 4Runner, was westbound on I-78 when it went off the road into a wooded area, Sergeant Hengemuhle said. It traveled about 200 feet before hitting a tree head on, she said.</p>
+        <p>The cause of the accident was under investigation, though alcohol did not appear to have played a role, Sergeant Hengemuhle said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

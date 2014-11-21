@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suicide Bomber Kills at Least 8 In Afghanistan</title>
+    <meta content="24afghan" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/24/world/middleeast/24afghan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821177"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE REACH OF WAR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Afghanistan</location>
+        <location class="indexing_service">Khost Province (Afghanistan)</location>
+        <org class="indexing_service">North Atlantic Treaty Organization</org>
+        <person class="indexing_service">Wafa, Abdul Waheed</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <location class="online_producer">Afghanistan</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EFD61F30F937A15752C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suicide Bomber Kills at Least 8 In Afghanistan</hl1>
+        <hl2 class="online_headline">Suicide Bomber Kills at Least 8 in Afghanistan</hl2>
+      </hedline>
+      <byline class="print_byline">By ABDUL WAHEED WAFA</byline>
+      <byline class="normalized_byline">Wafa, Abdul Waheed</byline>
+      <dateline>KABUL, Afghanistan, Jan. 23</dateline>
+      <abstract>
+        <p>Suicide bomber wearing explosive vest blows himself up at entrance to NATO base in Afghanistan's Khost province, killing 8 to 10 people (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A suicide bomber wearing an explosive vest blew himself up Tuesday at the entrance to a NATO base in the southeastern province of Khost, killing 8 to 10 people, officials said.</p>
+        <p>The attack occurred as Afghan laborers were lining up for security checks at the pedestrian entrance of the base known as Camp Salerno. The bomber was trying to enter the base, NATO said, but detonated the vest when he reached the search point.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A suicide bomber wearing an explosive vest blew himself up Tuesday at the entrance to a NATO base in the southeastern province of Khost.</p>
+      </block>
+      <block class="full_text">
+        <p>A suicide bomber wearing an explosive vest blew himself up Tuesday at the entrance to a NATO base in the southeastern province of Khost, killing 8 to 10 people, officials said.</p>
+        <p>The attack occurred as Afghan laborers were lining up for security checks at the pedestrian entrance of the base known as Camp Salerno. The bomber was trying to enter the base, NATO said, but detonated the vest when he reached the search point.</p>
+        <p>Arsalah Jamal, the Afghan provincial governor of Khost, visited the scene after the bombing and confirmed the deaths of eight civilian laborers and two Afghan security guards, though a NATO statement put the toll at six Afghan civilians and two policemen.</p>
+        <p>''I confirm 10 people, including two Afghan security guards, were killed in a suicide attack at the entrance of the military base,'' Mr. Jamal said.</p>
+        <p>He said 14 others had been wounded in the attack, all Afghan civilian daily workers for the military base. NATO said only five had been wounded.</p>
+        <p>Khost, in eastern Afghanistan, borders tribal areas in Pakistan that Afghan and Western officials contend offer a haven for militants organizing suicide attacks.</p>
+        <p>''Suicide attack is not an Afghani phenomenon,'' Mr. Jamal said by telephone. ''There are madrasas and camps on the other side of the border where some elements promise passport and visa'' to ''young people for killing themselves and others.''</p>
+        <p>The attack was one of the deadliest since Sept. 30, 2006, when a suicide bomber blew himself up outside the gates of the Interior Ministry in Kabul, killing 12 people and wounding up to 40.</p>
+        <p>THE REACH OF WAR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

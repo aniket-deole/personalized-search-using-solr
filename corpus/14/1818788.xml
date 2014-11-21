@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Polo Player</title>
+    <meta content="14WIWN" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818788"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE: WHAT I'M WEARING NOW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Models (Professional)</classifier>
+        <person class="indexing_service">Tung, Jennifer</person>
+        <person class="indexing_service">Figueras, Ignacio</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Models (Professional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E6DB1330F937A25752C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Polo Player</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER TUNG</byline>
+      <byline class="normalized_byline">Tung, Jennifer</byline>
+      <abstract>
+        <p>Polo player and model Ignacio Figueras is elegant dresser, favoring custom-made shirts and designer clothing; photo (Pulse column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Though this hasn't been a fur-coat-worthy New York winter, Ignacio Figueras, a professional polo player and model from Argentina, found plenty of chill in the air on a visit to Central Park. ''I don't usually spend time in cold places,'' said Mr. Figueras, who is known as Nacho, ''so it was a good change for me.''</p>
+        <p>Mr. Figueras, 29, follows the polo circuit year-round, playing in Palm Beach, Fla., in the spring, the Hamptons in the summer and Argentina in the fall. He describes his sport as ''elegant and classic, but also modern,'' adding, ''There is something very sexy about a guy on a horse.'' Perhaps with that in mind, Ralph Lauren chose him to be the face of its latest men's fragrance, Polo Double Black, which came out last fall.</p>
+      </block>
+      <block class="full_text">
+        <p>Though this hasn't been a fur-coat-worthy New York winter, Ignacio Figueras, a professional polo player and model from Argentina, found plenty of chill in the air on a visit to Central Park. ''I don't usually spend time in cold places,'' said Mr. Figueras, who is known as Nacho, ''so it was a good change for me.''</p>
+        <p>Mr. Figueras, 29, follows the polo circuit year-round, playing in Palm Beach, Fla., in the spring, the Hamptons in the summer and Argentina in the fall. He describes his sport as ''elegant and classic, but also modern,'' adding, ''There is something very sexy about a guy on a horse.'' Perhaps with that in mind, Ralph Lauren chose him to be the face of its latest men's fragrance, Polo Double Black, which came out last fall.</p>
+        <p>''I always go to the side of elegant,'' Mr. Figueras said of his style. ''I wear suits to parties because I'd rather make the mistake of being too dressed than not dressed enough.'' Here, he wears a custom-made shirt that belonged to his grandfather, an Hermès scarf, Seven for All Mankind jeans and Prada boots. His coat is by Ralph Lauren.</p>
+        <p>Mr. Figueras, who is married, with two small children, heads to his horse-breeding farm outside Buenos Aires between seasons. ''I ride almost every day,'' said Mr. Figueras, who owns 100 horses, ''so I always wear jeans and T-shirts.''</p>
+        <p>His other fashion essential is heavy-duty bleach. ''It's an obligation to wear white jeans when you play, and they get very dirty,'' he said. ''I go through four pairs in a season.''</p>
+        <p>JENNIFER TUNG</p>
+        <p>PULSE: WHAT I'M WEARING NOW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

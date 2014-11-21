@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ALTERMAN, PHOEBE</title>
+    <meta content="dn012607" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821389"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ALTERMAN, PHOEBE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E7D81F3AF935A15752C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ALTERMAN, PHOEBE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALTERMAN--Phoebe, of Baltimore, MD, previously of New York City, died on January 21, 2007 at age 86. She was the wife of the late Daniel Alterman. She leaves her son Daniel L. Alterman (Li Wah Lai) of NYC, daughter Merry Alterman (Ed Rosenfeld) of Baltimore, four grandchildren and special friend Norman Davis. A celebration of her life will be February 10, 2007 at 2:00 pm at NY Law School at 47 Worth St 10013 and continued at Grace Restaurant at 114 Franklin St. 10013. In lieu of flowers, please send a donation to the NY Civil Liberties Union 125 Broad St. 19th Floor, NY 10004 Attn: Donna Lieberman.</p>
+      </block>
+      <block class="full_text">
+        <p>ALTERMAN--Phoebe, of Baltimore, MD, previously of New York City, died on January 21, 2007 at age 86. She was the wife of the late Daniel Alterman. She leaves her son Daniel L. Alterman (Li Wah Lai) of NYC, daughter Merry Alterman (Ed Rosenfeld) of Baltimore, four grandchildren and special friend Norman Davis. A celebration of her life will be February 10, 2007 at 2:00 pm at NY Law School at 47 Worth St 10013 and continued at Grace Restaurant at 114 Franklin St. 10013. In lieu of flowers, please send a donation to the NY Civil Liberties Union 125 Broad St. 19th Floor, NY 10004 Attn: Donna Lieberman.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

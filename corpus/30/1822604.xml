@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Agency Says Higher Casualty Total Was Posted in Error</title>
+    <meta content="30wound" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/us/30wound.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822604"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">Afghanistan</location>
+        <org class="indexing_service">Veterans Affairs Department</org>
+        <person class="indexing_service">Grady, Denise</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+        <location class="online_producer">Afghanistan</location>
+        <org class="online_producer">Veterans Affairs Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E0D9143FF933A05752C0A9619C8B63" item-length="587" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Agency Says Higher Casualty Total Was Posted in Error</hl1>
+        <hl2 class="online_headline">Agency Says Higher Casualty Total Was Posted in Error</hl2>
+      </hedline>
+      <byline class="print_byline">By DENISE GRADY</byline>
+      <byline class="normalized_byline">Grady, Denise</byline>
+      <abstract>
+        <p>Veterans Affairs Dept Web site changed its total of US troops wounded in Iraq and Afghanistan from 50,508 to 21,649 on Jan 10; agency says official tally depends on how 'wounded' is defined; says change in count was made simply to correct error, and higher total inadvertently added noncombat injuries (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the last few months, anyone who consulted the Veterans Affairs Department's Web site to learn how many American troops had been wounded in Iraq and Afghanistan would have found this number: 50,508.</p>
+        <p>But on Jan. 10, without explanation, the figure plummeted to 21,649.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Veterans Affairs Department’s Web site temporarily changed the number of American troops wounded in Iraq and Afghanistan from 50,508 to 21,649.</p>
+      </block>
+      <block class="full_text">
+        <p>For the last few months, anyone who consulted the Veterans Affairs Department's Web site to learn how many American troops had been wounded in Iraq and Afghanistan would have found this number: 50,508.</p>
+        <p>But on Jan. 10, without explanation, the figure plummeted to 21,649.</p>
+        <p>Which number is correct? The answer depends on a larger question, the definition of wounded. If the term includes combat or ''hostile'' injuries inflicted by the enemy, the definition the Pentagon uses, the smaller number would be right.</p>
+        <p>But if it also applies to injuries from accidents like vehicle crashes and to mental and physical illnesses that developed in the war zone, the meaning that veterans' groups favor, 50,508 would be accurate.</p>
+        <p>A spokesman for the veterans' department, Matt Burns, said the change in the count was made simply to correct an error. Mr. Burns said the department posted the higher figure by mistake in November, when an employee who was updating the site inadvertently added noncombat injuries listed by the Defense Department. The Pentagon Web site had the correct total all along.</p>
+        <p>The previous total on the Web site was 18,586, strictly for combat injuries. Apparently, no one noticed the sudden leap.</p>
+        <p>The 50,508 figure caught the attention of the Pentagon when Prof. Linda Bilmes of Harvard mentioned it in an opinion article on Jan. 5 in The Los Angeles Times. A few days later, said Professor Bilmes, who teaches public finance, she had a call from Dr. William Winkenwerder Jr., assistant secretary of defense for health affairs, challenging the number.</p>
+        <p>Professor Bilmes explained that she had used the government tally, the one on the ''America's Wars'' page of the veterans' department Web site. She faxed him a copy.</p>
+        <p>A few days later, the number on the Web site was changed.</p>
+        <p>A spokeswoman for Dr. Winkenwerder confirmed that he had called the veterans' department to have the figure corrected and that the worker had misunderstood the Defense Department figures.</p>
+        <p>For her purposes, Professor Bilmes said, the higher figure was the relevant one because she was writing about the future demands that wounded veterans would place on the veterans' health care system. Many of the veterans would be treated in the system regardless of whether they had been injured in combat or in vehicle crashes.</p>
+        <p>About 1.4 million troops have served in Iraq or Afghanistan, and more than 205,000 have sought care from the veterans' agency, according to the government. Of those, more than 73,000 sought treatment for mental problems like post-traumatic stress disorder.</p>
+        <p>No one disputes that more 50,000 troops have been injured in Iraq and Afghanistan or that nonhostile injuries can be serious. Of the more than 3,000 deaths that have occurred, 600 have been listed as nonhostile.</p>
+        <p>The Pentagon generally directs reporters to www.defenselink.mil, which lists counts of the wounded and dead. The deaths are divided into hostile and nonhostile, but the injuries include just those ''wounded in action.''</p>
+        <p>Another site on the Web, http://siadapp.dior.whs.mil/personnel/CASUALTY/castop.htm, shows diseases and nonhostile injuries. It is the source of the higher counts.</p>
+        <p>''The government keeps two sets of books,'' said Paul Sullivan, director of research and analysis for Veterans of America. Until last March, Mr. Sullivan was a project manager in the Veterans Affairs Department who monitored the use of disability benefits by Afghanistan, gulf war and Iraq veterans.</p>
+        <p>He suggested that the differing numbers might be cleared up by a bill that has been introduced in the Senate to improve the collection of health information on Afghanistan and Iraq veterans.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

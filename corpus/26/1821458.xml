@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calling Blue: And on That Farm He Had a Cellphone</title>
+    <meta content="26blue" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/arts/television/26blue.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821458"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Heffernan, Virginia</person>
+        <object.title class="indexing_service">Blue's Room (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <person class="online_producer">Heffernan, Virginia</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0D7163FF935A15752C0A9619C8B63" item-length="413" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calling Blue: And on That Farm He Had a Cellphone</hl1>
+        <hl2 class="online_headline">Calling Blue: And on That Farm He Had a Cellphone</hl2>
+      </hedline>
+      <byline class="print_byline">By VIRGINIA HEFFERNAN</byline>
+      <byline class="normalized_byline">Heffernan, Virginia</byline>
+      <abstract>
+        <p>Virginia Heffernan reviews Nick Jr series Blue's Room (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stephen Colbert, listen up. If any minority lifestyle is overrepresented in the early education of children in the United States, it's farm life.</p>
+        <p>Long since agribusiness made working family farms scarcer than hen's teeth, little Americans still sing and learn far too much about chickens, eggs, sheep, wool, dells, troughs, pigs and goats. Not exactly news they can use. Better that kids of 2007 be taught about ring tones, A.T.M.'s, cubicles, Best Buys and cup holders.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It’s shocking how, in this day and age, even a progressive, cutting-edge educational television series such as this one still features the archaic notion of farm life.</p>
+      </block>
+      <block class="full_text">
+        <p>Stephen Colbert, listen up. If any minority lifestyle is overrepresented in the early education of children in the United States, it's farm life.</p>
+        <p>Long since agribusiness made working family farms scarcer than hen's teeth, little Americans still sing and learn far too much about chickens, eggs, sheep, wool, dells, troughs, pigs and goats. Not exactly news they can use. Better that kids of 2007 be taught about ring tones, A.T.M.'s, cubicles, Best Buys and cup holders.</p>
+        <p>But then look at ''Blue's Room,'' the first episode of the big new spinoff of the blockbuster ''Blue's Clues,'' fresh out on Nick Jr. this morning. There are the puppets (today in overalls): Blue, and her little brother Sprinkles. And here are their tasks: shucking corn, gathering eggs, milking a cow.</p>
+        <p>That's right: milking a cow. A full-dress demo has the puppets showing the audience how to squeeze the udders to fill a tin pail. This archaism is meant to be part of a progressive, cutting-edge educational television series. It's shocking.</p>
+        <p>''Blue's Room'' is styled by the channel as ''the ultimate play date'' and a chance for viewers to enter Blue's world: a dreamy playroom with everything fun in it, including an oafish guy named Joe (Donovan Patton, a stage actor, who also appears on ''Blue's Clues''). It must be said that Joe's a little bit creepy, in the way of grown men who superintend children's shows. This effect is not lessened by his Old McDonald uniform. On the first episode he's mostly absent and the puppets are left to do tasks he assigns them. When he comes home, they all celebrate their obsolete achievements while Joe pretends to play the banjo.</p>
+        <p>The farm theme, blessedly, is around for only episode one. After that the puppets get all fancy with themes that include music, art and transportation. But the ambition is not restricted to the content of the show. Nick Jr. is also going all out to saturate children's media with ''Blue's Room'' as it plans for the ''spinoff series'' -- in the words of the press release -- ''to roll out on multiple platforms including wireless carriers, video on demand, Nick Jr. video and DVD release.''</p>
+        <p>Brave new world. And we're still teaching our children about milking cows?</p>
+        <p>Blue's Room</p>
+        <p>Nick Jr., today at 10 a.m., Eastern and Pacific times; 9 a.m., Central time.</p>
+        <p>Creators and executive producers, Traci Paige Johnson and Angela C. Santomero; Wendy Harris, executive producer on the series.</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

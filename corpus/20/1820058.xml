@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>3 From the Bush Advertising Team Join McCain's '08 Advisers</title>
+    <meta content="20mccain" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/20/us/politics/20mccain.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820058"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Mccain, John S (Sen)</person>
+        <person class="indexing_service">Schriefer, Russell</person>
+        <person class="indexing_service">Stevens, Stuart</person>
+        <person class="indexing_service">Davis, Fred</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">McCain, John</person>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">Stevens, Stuart</person>
+        <person class="online_producer">Davis, Fred</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0D91E30F933A15752C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>3 From the Bush Advertising Team Join McCain's '08 Advisers</hl1>
+        <hl2 class="online_headline">3 From the Bush Advertising Team Join McCain’s ’08 Advisers</hl2>
+      </hedline>
+      <dateline>WASHINGTON, Jan. 19</dateline>
+      <abstract>
+        <p>Sen John McCain has enlisted Russ Schriefer, Stuart Stevens and Fred Davis, strategists from Pres Bush's advertising team, to work on his drive for Republican presidential nomination (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Senator John McCain of Arizona has enlisted strategists from President Bush's advertising team to work on the senator's nascent drive for the Republican presidential nomination, aides with his campaign exploratory committee said Friday.</p>
+        <p>Mr. McCain's aides said he was hiring those three strategists -- Russ Schriefer, Stuart Stevens and Fred Davis -- as part of a continuing accumulation of campaign advisers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>John McCain’s aides said he was hiring three strategists  Russ Schriefer, Stuart Stevens and Fred Davis  as part of a continuing accumulation of campaign advisers.</p>
+      </block>
+      <block class="full_text">
+        <p>Senator John McCain of Arizona has enlisted strategists from President Bush's advertising team to work on the senator's nascent drive for the Republican presidential nomination, aides with his campaign exploratory committee said Friday.</p>
+        <p>Mr. McCain's aides said he was hiring those three strategists -- Russ Schriefer, Stuart Stevens and Fred Davis -- as part of a continuing accumulation of campaign advisers.</p>
+        <p>Mr. Schriefer and Mr. Stevens, partners at a consulting firm based in Washington, helped produce some of the most hard-charging advertisements of Mr. Bush's 2000 and 2004 campaigns.</p>
+        <p>Among their commercials in 2004 was one featuring Senator John Kerry of Massachusetts, the Democratic nominee, saying that he did vote for an $87 billion war appropriation ''before I voted against it.'' Another had video of Mr. Kerry windsurfing back and forth, an image reflecting the Bush campaign's accusation that he was a flip-flopper.</p>
+        <p>Mr. Davis, based in California, has worked on commercials including those in the 2004 campaign in which Mr. Bush and the first lady spoke directly into the camera in the White House residence.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

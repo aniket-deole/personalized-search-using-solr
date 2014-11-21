@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PAY FOR, UH, WHAT?</title>
+    <meta content="21suits-5" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820475"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <org class="indexing_service">Conagra Foods Inc</org>
+        <person class="indexing_service">Blue, James Charles</person>
+        <person class="indexing_service">Campbell, Victor</person>
+        <person class="indexing_service">Cook, Randy</person>
+        <person class="indexing_service">Olson, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405EFD81E30F932A15752C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PAY FOR, UH, WHAT?</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+      <abstract>
+        <p>Federal investigat�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Performance-based executive pay is a fine idea, as long as the performance is real. That is under scrutiny again, this time at a former ConAgra Foods subsidiary.</p>
+        <p>Federal investigators have accused three executives of the subsidiary, United Agri Products, of using unlawful accounting practices to inflate revenue there in 1999 and 2000, to qualify for bonuses.</p>
+      </block>
+      <block class="full_text">
+        <p>Performance-based executive pay is a fine idea, as long as the performance is real. That is under scrutiny again, this time at a former ConAgra Foods subsidiary.</p>
+        <p>Federal investigators have accused three executives of the subsidiary, United Agri Products, of using unlawful accounting practices to inflate revenue there in 1999 and 2000, to qualify for bonuses.</p>
+        <p>James Charles Blue, former president and chief executive of ConAgra Agri Products Companies, and Victor Campbell, former controller for United Agri Products, agreed to settle the complaint without admitting or denying the accusations. Mr. Blue will repay $622,087 and Mr. Campbell $198,074, pending approval by the Federal District Court in Denver, where the complaint was filed.</p>
+        <p>Randy Cook, the former president of United Agri's North America operations, was also accused. In addition to higher bonuses for those years, he received additional unwarranted remuneration through the company's profit-based compensation plan, according to a Securities and Exchange Commission civil-suit complaint.</p>
+        <p>The commission said it was still seeking to have him ''disgorge all ill-gotten gains along with prejudgment interest.''</p>
+        <p>The executives' actions, federal securities regulators said, caused ConAgra to overstate its before-tax income more than 7 percent each year -- $46.7 million in fiscal 1999 and $48.5 million in fiscal 2000.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

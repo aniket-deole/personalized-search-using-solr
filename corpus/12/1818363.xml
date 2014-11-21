@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Streep to Star in Film Version of ABBA Musical</title>
+    <meta content="12streep" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/theater/12streep.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818363"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EEDD1130F931A25752C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Streep to Star in Film Version of ABBA Musical</hl1>
+        <hl2 class="online_headline">Streep to Star in Film Version of ABBA Musical</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Meryl Streep will take on the role of a mother with a rebel streak when she stars in the film version of the international hit musical ''Mamma Mia!,'' Reuters reported.</p>
+        <p>The film will be the first musical for Ms. Streep, who has, nevertheless, sung in the movies ''A Prairie Home Companion,'' ''Postcards From the Edge'' and ''Death Becomes Her.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Meryl Streep will take on the role of a mother with a rebel streak when she stars in the film version of the international hit musical "Mamma Mia!"</p>
+      </block>
+      <block class="full_text">
+        <p>Meryl Streep will take on the role of a mother with a rebel streak when she stars in the film version of the international hit musical ''Mamma Mia!,'' Reuters reported.</p>
+        <p>The film will be the first musical for Ms. Streep, who has, nevertheless, sung in the movies ''A Prairie Home Companion,'' ''Postcards From the Edge'' and ''Death Becomes Her.''</p>
+        <p>The story of ''Mamma Mia!'' features 22 Abba songs and revolves around a bride-to-be and her once-rebellious single mother, who reared her on a Greek island without disclosing the identity of her child's father. The young woman locates three possibilities and invites them to the wedding.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

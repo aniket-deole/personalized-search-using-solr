@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unconsumption</title>
+    <meta content="07wwln--consumed.t" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/magazine/07wwln_consumed.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816904"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WAY WE LIVE NOW: 1-07-07: CONSUMED"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Freecycle.com</org>
+        <person class="indexing_service">Walker, Rob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DE1730F934A35752C0A9619C8B63" item-length="716" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unconsumption</hl1>
+        <hl2 class="online_headline">Unconsumption</hl2>
+      </hedline>
+      <byline class="print_byline">By ROB WALKER</byline>
+      <byline class="normalized_byline">Walker, Rob</byline>
+      <abstract>
+        <p>Rob Walker Consumed column on what motivates members of freecycle.com, Web-enabled network of nearly 4,000 e-mail groups where people can give away items on virtual bulletin board; says getting rid of something but not throwing it away offers satisfaction to participants; says freecycle channels same blend of utility and pleasure that motivates consumption; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Freecycle</p>
+        <p>Getting new stuff can feel really good. Most everybody knows that. Most everybody also knows -- particularly in the aftermath of the consumption-frenzy holiday season -- that utility can fade, pleasure can be fleeting and the whole thought-that-counts thing is especially ephemeral. Apart from the usual solution to this problem (more new stuff!), it's worth pondering whether getting rid of stuff can ever feel as good as getting it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Can getting rid of stuff feel as good as getting it?</p>
+      </block>
+      <block class="full_text">
+        <p>Freecycle</p>
+        <p>Getting new stuff can feel really good. Most everybody knows that. Most everybody also knows -- particularly in the aftermath of the consumption-frenzy holiday season -- that utility can fade, pleasure can be fleeting and the whole thought-that-counts thing is especially ephemeral. Apart from the usual solution to this problem (more new stuff!), it's worth pondering whether getting rid of stuff can ever feel as good as getting it.</p>
+        <p>A few years ago, a self-described tree-hugger in Tucson named Deron Beal was working for a nonprofit that focused on recycling as a way to minimize what was going into local landfills. While plenty of people were willing, even eager, to get rid of things they no longer wanted but that weren't really trash, finding people who wanted those things was a challenge. Beal set up a Yahoo Groups mailing list, hoping to create a giveaway marketplace where people could list usable items and others could lay claim to them and then come pick them up. The mailing list became the basis for Freecycle, a Web-enabled network of about 3,900 such e-mail groups, each dedicated to a local community and managed by a volunteer moderator, and claiming 2.9 million participants in more than 70 countries. One of the largest Freecycle groups, with 25,000 members, is for New York City.</p>
+        <p>Save-the-earth types make up only a fraction of Freecycle users. Like any successful marketplace, this one works because it links people with widely disparate motivations. Some participants want to declutter. Some see it as akin to a charity. Some just don't want to lug items to the dump. And of course, many people are looking for free stuff. As Freecycle has become a bigger and bigger de facto brand -- Beal prefers ''movement'' -- its sheer scale no doubt attracts people who aren't tree-huggers or ''simple living'' fanatics but just have some item they'd like to unconsume and in the process see what all the fuss is about.</p>
+        <p>Whatever attracts people to join, part of what keeps them involved, Beal says, is something they probably didn't expect: the moment when someone thanks you backward and forward for giving him something you planned to throw away. ''There's a sort of paradigm shift in your brain: 'Wow, that feels really good,' '' Beal says. ''That's what I think is fueling this absurd amount of growth we've had.''</p>
+        <p>But it's not all one big love-in. Freecycle has also sparked squabbles, schisms and even legal disputes among its enthusiasts. Though Beal turned away venture capitalists, opting to register as a nonprofit, he did take on a sponsor, the garbage-hauling company Waste Management Inc. Some of the network's purists didn't like that idea; others didn't like what they saw as too many Freecycle rules and split off to form their own groups. The legal wrangling (and some of the network's rules) stem from competing efforts to claim the Freecycle name. Given all this turmoil, the online environmental magazine Grist was already asking in 2005 whether, only two years after Freecycle started, it had ''run its course.'' Beal concedes that ''it was messy there for a while,'' but membership has more than doubled since then, and Freecycle is still keeping tons of exercise equipment, old computers, Santa neckties, 80-pound bags of cement and whatever else out of landfills.</p>
+        <p>In a sense, what Freecycle has done is channel the same blend of utility and pleasure that motivates consumption itself. Steve Portigal, a business-strategy consultant based in Montara, Calif., founded a Freecycle group for the San Francisco area's coastal communities in 2004. ''Getting something you need and getting rid of something you don't need are both satisfying as problems solved,'' he points out. But while we're all well trained in the former, the latter often exceeds our patience and know-how.</p>
+        <p>Consider the unwanted shed in Portigal's backyard. Instead of trying to figure out how to take it apart and hauling the pieces to the dump, he listed it on his Freecycle group. Sure enough, someone volunteered to take the thing, expertly disassembling it and moving it to a nearby farm. Thus a tedious hassle was converted into a virtuous act, and Portigal enjoyed the satisfaction of knowing that his old shed had a new home. Moreover, he adds, ''it was great to get rid of it.''</p>
+        <p>THE WAY WE LIVE NOW: 1-07-07: CONSUMED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

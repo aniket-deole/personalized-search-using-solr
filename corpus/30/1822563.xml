@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MEMO PAD</title>
+    <meta content="30memo" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/business/30memo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822563"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ITINERARIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <classifier class="indexing_service" type="descriptor">Reno-Tahoe International Airport</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Strikes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Building (Construction)</classifier>
+        <org class="indexing_service">Unisys Corp</org>
+        <org class="indexing_service">British Airways Plc</org>
+        <org class="indexing_service">Lodging Econometrics</org>
+        <org class="indexing_service">United Airlines</org>
+        <person class="indexing_service">Sharkey, Joe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Business Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Construction and Maintenance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Strikes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E2DA143FF933A05752C0A9619C8B63" item-length="472" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MEMO PAD</hl1>
+        <hl2 class="online_headline">Memo Pad</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE SHARKEY</byline>
+      <byline class="normalized_byline">Sharkey, Joe</byline>
+      <abstract>
+        <p>Memo Pad column; Unisys plans to open its first Registered Traveler program kiosk at Reno-Tahoe International Airport; program will unlikely offer shoe-scanning technology due to glitches in security measure; British Airways averts planned strikes after reaching agreement with its cabin crews union; Lodging Econometrics reports that number of domestic hotel rooms under construction or in active development was 23 percent higher in fourth quarter of 2006 than in same period of 2005; United Airlines makes changes to its Mileage Plus frequent-flier program which automatically expire miles in accounts that have been inactive for 18 months (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SHOELESS IN RENO? -- Unisys plans to open its first Registered Traveler program kiosk at the Reno-Tahoe International Airport in mid-February. But it is unlikely that the program will initially offer shoe-scanning technology, said Larry Zmuda, the company's partner for homeland-security-related business. In an interview, Mr. Zmuda said the major concern for Unisys was ensuring the program's ''predictability'' for members, who will undergo a federal background check and pay an annual fee to receive biometrically encoded I.D. cards and access to a special lane for expedited passage through the security checkpoint. Mr. Zmuda cited early snags with shoe-scanning technology being tested in Orlando by Verified Identity Pass, which already operates a Registered Traveler program called Clear at Orlando and four other airports. The Clear shoe-scanning technology, developed by General Electric Security, was intended to detect traces of explosives and suspicious metal, and to allow most travelers to pass through Clear lanes without having to remove their shoes. But the scanner rejected an unexpectedly high number of travelers' shoes in Orlando, requiring members to remove their shoes just as they would at regular checkpoints. Mr. Zmuda said Unisys, which plans to be operating in 6 to 10 airports within a year, will probably offer only a special lane for the I.D. cards in Reno while the company continues to study options that will provide more benefits. Steven Brill, the founder of Verified Identity, has said that not having to remove shoes is the biggest potential benefit sought by customers. But Mr. Zmuda said that ''all of our survey data'' show that not having to remove laptops from cases is the biggest benefit sought by potential members.</p>
+        <p>BRITISH AIR STRIKE AVERTED -- British Airways said it reached an agreement with the union for its cabin crews that would avert planned strikes today and tomorrow and for two 72-hour periods next month. The airline had already adjusted schedules in expectation of a strike and the agreement ''has come too late to prevent disruption to the travel plans of tens of thousands of our customers,'' said Willie Walsh, the airline's chief executive.</p>
+        <p>HOTEL BOOM -- The number of domestic hotel rooms under construction or in active development was 23 percent higher in the fourth quarter of 2006 than in the period in 2005, according to Lodging Econometrics. One of the biggest growth areas is in upscale hotels, with 207 of them totaling 23,274 rooms scheduled to open this year, a 35 percent increase over 2006, the hotel industry forecasting company said.</p>
+        <p>A FREQUENT-FLIER CHANGE -- United Airlines has changed its Mileage Plus frequent-flier program. Miles in accounts that have been inactive for 18 months will automatically expire, the airline said, adding that the new rule will enable more frequent travelers to ''compete with fewer people for reward seats.''</p>
+        <p>JOE SHARKEY</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>SHOELESS IN RENO? Unisys plans to open its first Registered Traveler program kiosk at the Reno-Tahoe International Airport in mid-February. But it is unlikely that the program will initially offer shoe-scanning technology, said Larry Zmuda, the company’s partner for homeland-security-related business. In an interview, Mr. Zmuda said the major concern for Unisys was ensuring the program’s “predictability” for members, who will undergo a federal background check and pay an annual fee to receive biometrically encoded I.D. cards and access to a special lane for expedited passage through the security checkpoint. Mr. Zmuda cited early snags with shoe-scanning technology being tested in Orlando by Verified Identity Pass, which already operates a Registered Traveler program called Clear at Orlando and four other airports. The Clear shoe-scanning technology, developed by General Electric Security, was intended to detect traces of explosives and suspicious metal, and to allow most travelers to pass through Clear lanes without having to remove their shoes. But the scanner rejected an unexpectedly high number of travelers’ shoes in Orlando, requiring members to remove their shoes just as they would at regular checkpoints. Mr. Zmuda said Unisys, which plans to be operating in 6 to 10 airports within a year, will probably offer only a special lane for the I.D. cards in Reno while the company continues to study options that will provide more benefits. Steven Brill, the founder of Verified Identity, has said that not having to remove shoes is the biggest potential benefit sought by customers. But Mr. Zmuda said that “all of our survey data” show that not having to remove laptops from cases is the biggest benefit sought by potential members.</p>
+      </block>
+      <block class="full_text">
+        <p>SHOELESS IN RENO? -- Unisys plans to open its first Registered Traveler program kiosk at the Reno-Tahoe International Airport in mid-February. But it is unlikely that the program will initially offer shoe-scanning technology, said Larry Zmuda, the company's partner for homeland-security-related business. In an interview, Mr. Zmuda said the major concern for Unisys was ensuring the program's ''predictability'' for members, who will undergo a federal background check and pay an annual fee to receive biometrically encoded I.D. cards and access to a special lane for expedited passage through the security checkpoint. Mr. Zmuda cited early snags with shoe-scanning technology being tested in Orlando by Verified Identity Pass, which already operates a Registered Traveler program called Clear at Orlando and four other airports. The Clear shoe-scanning technology, developed by General Electric Security, was intended to detect traces of explosives and suspicious metal, and to allow most travelers to pass through Clear lanes without having to remove their shoes. But the scanner rejected an unexpectedly high number of travelers' shoes in Orlando, requiring members to remove their shoes just as they would at regular checkpoints. Mr. Zmuda said Unisys, which plans to be operating in 6 to 10 airports within a year, will probably offer only a special lane for the I.D. cards in Reno while the company continues to study options that will provide more benefits. Steven Brill, the founder of Verified Identity, has said that not having to remove shoes is the biggest potential benefit sought by customers. But Mr. Zmuda said that ''all of our survey data'' show that not having to remove laptops from cases is the biggest benefit sought by potential members.</p>
+        <p>BRITISH AIR STRIKE AVERTED -- British Airways said it reached an agreement with the union for its cabin crews that would avert planned strikes today and tomorrow and for two 72-hour periods next month. The airline had already adjusted schedules in expectation of a strike and the agreement ''has come too late to prevent disruption to the travel plans of tens of thousands of our customers,'' said Willie Walsh, the airline's chief executive.</p>
+        <p>HOTEL BOOM -- The number of domestic hotel rooms under construction or in active development was 23 percent higher in the fourth quarter of 2006 than in the period in 2005, according to Lodging Econometrics. One of the biggest growth areas is in upscale hotels, with 207 of them totaling 23,274 rooms scheduled to open this year, a 35 percent increase over 2006, the hotel industry forecasting company said.</p>
+        <p>A FREQUENT-FLIER CHANGE -- United Airlines has changed its Mileage Plus frequent-flier program. Miles in accounts that have been inactive for 18 months will automatically expire, the airline said, adding that the new rule will enable more frequent travelers to ''compete with fewer people for reward seats.''</p>
+        <p>JOE SHARKEY</p>
+        <p>ITINERARIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

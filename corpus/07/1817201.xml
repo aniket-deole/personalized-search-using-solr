@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUT-BOX</title>
+    <meta content="07hotticket" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817201"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE3DF1530F934A35752C0A9619C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUT-BOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The five most e-mailed articles from nytimes.com/sports for Dec. 30, 2006, to Jan. 5, 2007.</p>
+        <p>1. THE TWO SIDES OF JIM TRESSEL Profile of the Ohio State coach. (Published Jan. 3)</p>
+        <p>2. PLAYBOOK FULL OF TRICKS GIVES BOISE STATE DRAMATIC AND DEFINING VICTORY Boise State beats Oklahoma in wild finish at Fiesta Bowl. (Jan. 2)</p>
+        <p>3. FOR BOISE STATE, WINNING RESPECT IS THE REAL TRICK Victory raises the Broncos' hopes for a rise in the rankings. (Jan. 3)</p>
+        <p>4. BONDING OVER A MASCOT The Seminole Tribe's relationship with Florida State. (Dec. 29)</p>
+        <p>5. RED-LETTER DAY FOR SCARLET KNIGHTS Rutgers beats Kansas State in the Texas Bowl. (Dec. 29)</p>
+      </block>
+      <block class="full_text">
+        <p>The five most e-mailed articles from nytimes.com/sports for Dec. 30, 2006, to Jan. 5, 2007.</p>
+        <p>1. THE TWO SIDES OF JIM TRESSEL Profile of the Ohio State coach. (Published Jan. 3)</p>
+        <p>2. PLAYBOOK FULL OF TRICKS GIVES BOISE STATE DRAMATIC AND DEFINING VICTORY Boise State beats Oklahoma in wild finish at Fiesta Bowl. (Jan. 2)</p>
+        <p>3. FOR BOISE STATE, WINNING RESPECT IS THE REAL TRICK Victory raises the Broncos' hopes for a rise in the rankings. (Jan. 3)</p>
+        <p>4. BONDING OVER A MASCOT The Seminole Tribe's relationship with Florida State. (Dec. 29)</p>
+        <p>5. RED-LETTER DAY FOR SCARLET KNIGHTS Rutgers beats Kansas State in the Texas Bowl. (Dec. 29)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

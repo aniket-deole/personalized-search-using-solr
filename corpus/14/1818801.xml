@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lauren Wine, Jonathan Grella</title>
+    <meta content="14Wine" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/weddings/14Wine.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818801"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Wine, Lauren Ariella (Lauren Ariella Grella)</person>
+        <person class="indexing_service">Grella, Jonathan Adam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE5DB1330F937A25752C0A9619C8B63" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lauren Wine, Jonathan Grella</hl1>
+        <hl2 class="online_headline">Lauren Wine, Jonathan Grella</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lauren Ariella Wine, the daughter of Myrna F. Smith of Bethesda, Md., and Bruce X. Wine of Washington, was married last evening to Jonathan Adam Grella, a son of Marilyn L. Grella and Judge Philip M. Grella of Merrick, N.Y. The Rev. Michael Kelley, a Roman Catholic priest, officiated with Rabbi Lewis Solomon at the National Museum of Women in the Arts in Washington.</p>
+        <p>Mrs. Grella, 25, works for Georgetown University as a project director of a cancer education and prevention program at the Lombardi Comprehensive Cancer Center in Washington. She graduated cum laude from the University of Pennsylvania and is studying for a master's degree in communications, culture and technology at Georgetown.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Lauren Ariella Wine, the daughter of Myrna F. Smith of Bethesda, Md., and Bruce X. Wine of Washington, was married last evening to Jonathan Adam Grella, a son of Marilyn L. Grella and Judge Philip M. Grella of Merrick, N.Y. The Rev. Michael Kelley, a Roman Catholic priest, officiated with Rabbi Lewis Solomon at the National Museum of Women in the Arts in Washington.</p>
+      </block>
+      <block class="full_text">
+        <p>Lauren Ariella Wine, the daughter of Myrna F. Smith of Bethesda, Md., and Bruce X. Wine of Washington, was married last evening to Jonathan Adam Grella, a son of Marilyn L. Grella and Judge Philip M. Grella of Merrick, N.Y. The Rev. Michael Kelley, a Roman Catholic priest, officiated with Rabbi Lewis Solomon at the National Museum of Women in the Arts in Washington.</p>
+        <p>Mrs. Grella, 25, works for Georgetown University as a project director of a cancer education and prevention program at the Lombardi Comprehensive Cancer Center in Washington. She graduated cum laude from the University of Pennsylvania and is studying for a master's degree in communications, culture and technology at Georgetown.</p>
+        <p>Her father, a psychologist in Washington, was until 2000 a director of the Institute of Contemporary Psychotherapy and Psychoanalysis there. Her mother is an interior designer in Bethesda.</p>
+        <p>Mr. Grella, 32, is a vice president for media relations in the Washington office of Edelman, the public relations firm. From 2001 to 2005 he was the press secretary for former Representative Tom DeLay of Texas, first when the legislator was the House majority whip and later when he became the majority leader. The bridegroom graduated from Villanova and received a master's degree in politics from Catholic University.</p>
+        <p>His father is a New York State Court of Claims judge, who has been assigned to the Nassau County Family Court in Westbury, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Man Convicted For Killing Fiancée's Mother</title>
+    <meta content="25mbrfs-8" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821381"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Sexton, Tony</person>
+        <person class="indexing_service">Rogers, Maria</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E5D8163FF936A15752C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Man Convicted For Killing Fiancée's Mother</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+      <abstract>
+        <p>Tony Sexton is convicted of 2003 bludgeoning death of fiancee's mother Maria Rogers in Queens (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tony Sexton, 37, of Jamaica, was convicted of second-degree murder yesterday in State Supreme Court for killing Maria Rogers, 57, his fiancée's mother, in 2003, said Richard A. Brown, the Queens district attorney. Mr. Brown said that Ms. Rogers objected to Mr. Sexton's moving into her home, and that after an argument on Feb. 14, 2003, Mr. Sexton bludgeoned her to death. He said Mr. Sexton then put her body in a garbage bag, placed the bag in her car and abandoned the vehicle about a mile away. Mr. Sexton faces up to 27 years in prison when he is sentenced next month, Mr. Brown said.</p>
+      </block>
+      <block class="full_text">
+        <p>Tony Sexton, 37, of Jamaica, was convicted of second-degree murder yesterday in State Supreme Court for killing Maria Rogers, 57, his fiancée's mother, in 2003, said Richard A. Brown, the Queens district attorney. Mr. Brown said that Ms. Rogers objected to Mr. Sexton's moving into her home, and that after an argument on Feb. 14, 2003, Mr. Sexton bludgeoned her to death. He said Mr. Sexton then put her body in a garbage bag, placed the bag in her car and abandoned the vehicle about a mile away. Mr. Sexton faces up to 27 years in prison when he is sentenced next month, Mr. Brown said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

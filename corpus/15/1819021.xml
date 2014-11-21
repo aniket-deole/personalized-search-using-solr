@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stock Offerings This Week</title>
+    <meta content="15equity" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/business/15equity.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819021"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EEDE1030F936A25752C0A9619C8B63" item-length="69" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stock Offerings This Week</hl1>
+        <hl2 class="online_headline">Stock Offerings This Week</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The following equity and convertible debt offerings are expected this week:</p>
+        <p>DiamondRock Hospitality, 14.5 million shares. Citigroup and Merrill Lynch.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The following equity and convertible debt offerings are expected this week:.</p>
+      </block>
+      <block class="full_text">
+        <p>The following equity and convertible debt offerings are expected this week:</p>
+        <p>DiamondRock Hospitality, 14.5 million shares. Citigroup and Merrill Lynch.</p>
+        <p>MV Oil Trust, an initial public offering of 7.5 million shares. Raymond James.</p>
+        <p>Oculus Innovative Sciences, an initial public offering of 3.5 million shares. Roth Capital.</p>
+        <p>Savvis Communications Inc., 6.6 million shares. Morgan Stanley.</p>
+        <p>Smart Modular Technologies, 12.5 million ordinary shares. Citigroup, JPMorgan and Lehman Brothers.</p>
+        <p>Source: MCM EquityWatch</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

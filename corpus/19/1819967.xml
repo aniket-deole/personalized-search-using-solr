@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Officer Hurt In Hit-And-Run</title>
+    <meta content="19mbrfs-5" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819967"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Hit-and-Run Drivers</classifier>
+        <classifier class="indexing_service" type="descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Lee, Jennifer 8</person>
+        <person class="indexing_service">Pagnotta, John (Sgt)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE7DB1E30F93AA25752C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Officer Hurt In Hit-And-Run</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lee, Jennifer 8</byline>
+      <abstract>
+        <p>New York City Police Sgt John Pagnotta is dragged and injured by SUV he stopped in Jamaica, Queens; driver flees scene (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A police officer was injured last night in a hit-and-run involving a sport utility vehicle that he had stopped in Jamaica, the police said. The S.U.V., a black GMC Yukon, dragged the officer 30 feet to 122nd Avenue and Sutphin Boulevard about 8:30 p.m., they said. It then fled north on Sutphin Boulevard. The vehicle was found abandoned about an hour later on 139th Street. The officer, Sgt. John Pagnotta, 40, was in stable condition at Jamaica Hospital Medical Center, the police said. Investigators said that they had identified the vehicle's owner and were looking to question him.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+      <block class="full_text">
+        <p>A police officer was injured last night in a hit-and-run involving a sport utility vehicle that he had stopped in Jamaica, the police said. The S.U.V., a black GMC Yukon, dragged the officer 30 feet to 122nd Avenue and Sutphin Boulevard about 8:30 p.m., they said. It then fled north on Sutphin Boulevard. The vehicle was found abandoned about an hour later on 139th Street. The officer, Sgt. John Pagnotta, 40, was in stable condition at Jamaica Hospital Medical Center, the police said. Investigators said that they had identified the vehicle's owner and were looking to question him.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Square Feet; TRANSACTIONS</title>
+    <meta content="17trsale" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819403"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EED71030F934A25752C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Square Feet; TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Recent Sale  $4.01 million  270 Bleecker Street (also known as 2-4 Morton Street)  Manhattan  A real estate investor has bought this 18-foot-wide 3,900-square-foot, four-story building with a restaurant, a hair salon and three residential units in Greenwich Village.  Buyer: Kenneth Birnbaum  Seller: Patricia McKenna  Brokers: Brendan Gotch and James Nelson, Massey Knakal Realty Services</p>
+        <p>Recent Lease  $36/sq. ft.  approximate annual rent $582,000  53 West 23rd Street  Manhattan  An office products company has taken a 10-year lease for 16,155 square feet on the 10th floor of this 1917 building in the Flatiron district.</p>
+        <p>Tenant: W. B. Mason  Landlord: Twenty-Three R. P. Associates  Broker: David Levy, Adams &amp; Co.</p>
+        <p>For Lease  $36/sq. ft.  approximate annual rent $137,600  99 Wall Street  Manhattan  The entire 18th floor, covering 3,822 square feet with views, is available with a 5- to 10-year lease in this renovated 25-story office building.  Owner: Claremont Group  Brokers: Brad Gerla, Adam Foster and Michael Higgins, CB Richard Ellis</p>
+      </block>
+      <block class="full_text">
+        <p>Recent Sale  $4.01 million  270 Bleecker Street (also known as 2-4 Morton Street)  Manhattan  A real estate investor has bought this 18-foot-wide 3,900-square-foot, four-story building with a restaurant, a hair salon and three residential units in Greenwich Village.  Buyer: Kenneth Birnbaum  Seller: Patricia McKenna  Brokers: Brendan Gotch and James Nelson, Massey Knakal Realty Services</p>
+        <p>Recent Lease  $36/sq. ft.  approximate annual rent $582,000  53 West 23rd Street  Manhattan  An office products company has taken a 10-year lease for 16,155 square feet on the 10th floor of this 1917 building in the Flatiron district.</p>
+        <p>Tenant: W. B. Mason  Landlord: Twenty-Three R. P. Associates  Broker: David Levy, Adams &amp; Co.</p>
+        <p>For Lease  $36/sq. ft.  approximate annual rent $137,600  99 Wall Street  Manhattan  The entire 18th floor, covering 3,822 square feet with views, is available with a 5- to 10-year lease in this renovated 25-story office building.  Owner: Claremont Group  Brokers: Brad Gerla, Adam Foster and Michael Higgins, CB Richard Ellis</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

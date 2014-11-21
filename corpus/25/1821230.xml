@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Math Rookie Is a Girl, A Big Problem for the Geeks</title>
+    <meta content="25quee" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/theater/reviews/25quee.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821230"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THEATER REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Genzlinger, Neil</person>
+        <person class="indexing_service">Walat, Kathryn</person>
+        <person class="indexing_service">Greco, Loretta</person>
+        <person class="indexing_service">Campbell, Jessi</person>
+        <object.title class="indexing_service">Victoria Martin: Math Team Queen (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <person class="online_producer">Greco, Loretta</person>
+        <object.title class="online_producer">Victoria Martin: Math Team Queen (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3DC163FF936A15752C0A9619C8B63" item-length="333" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Math Rookie Is a Girl, A Big Problem for the Geeks</hl1>
+        <hl2 class="online_headline">The Math Rookie Is a Girl, a Big Problem for the Geeks</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+      <abstract>
+        <p>Neil Genzlinger reviews Kathryn Walat play Victoria Martin: Math Team Queen, directed by Loretta Greco; Jessi Campbell stars; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maybe there was a time when exaggerated high school-speak was amusing, but as the avalanche of ''awesome'' and ''totally'' in ''Victoria Martin: Math Team Queen'' buries you, you are hard pressed to remember when it was. The early '90s? Perhaps the '80s?</p>
+        <p>Certainly not now, which means that this play, intended to be a light comedy, ends up being surprisingly oppressive. The title character (Jessi Campbell) is a high school girl who has an untapped aptitude for math, and as soon as she opens her mouth -- in a cellphone conversation, of course -- you know that the playwright, Kathryn Walat, has nothing beyond easy, tired stereotypes to offer.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kathryn Walat’s play is intended to be a light comedy, but ends up being surprisingly oppressive, with nothing beyond easy, tired stereotypes to offer.</p>
+      </block>
+      <block class="full_text">
+        <p>Maybe there was a time when exaggerated high school-speak was amusing, but as the avalanche of ''awesome'' and ''totally'' in ''Victoria Martin: Math Team Queen'' buries you, you are hard pressed to remember when it was. The early '90s? Perhaps the '80s?</p>
+        <p>Certainly not now, which means that this play, intended to be a light comedy, ends up being surprisingly oppressive. The title character (Jessi Campbell) is a high school girl who has an untapped aptitude for math, and as soon as she opens her mouth -- in a cellphone conversation, of course -- you know that the playwright, Kathryn Walat, has nothing beyond easy, tired stereotypes to offer.</p>
+        <p>Victoria reluctantly ends up filling a replacement slot on the school math team, joining four boys (Zachary Booth, Adam Farabee, Tobias Segal and Matthew Stadelmann) who are varying shades of geek caricatures. There are a few funny moments, including a hilarious finish to the first act, and a subplot about one boy's emerging homosexuality is affecting. But over all the play lacks momentum.</p>
+        <p>This is partly because of the ''sport'' Ms. Walat has picked: math competitions hardly lend themselves to spectator involvement, and she doesn't even try to dramatize them. So Victoria's emergence as a math wizard is related secondhand, leaving no tension or thrill for the audience; this ain't Putnam County. Ms. Walat and the director, Loretta Greco, compound this flatness by having the actors spend much of their time addressing the audience rather than one another, not exactly a recipe for building onstage dynamics.</p>
+        <p>This is a production of the Women's Project, and there's a female-empowerment theme in the tale, but it's nothing that hasn't been done repeatedly, and better, on television. The play may actually be intended for a youth audience, but real high school students are much too savvy and complicated to find the cardboard ones here engaging.</p>
+        <p>''Victoria Martin: Math Team Queen'' continues through Feb. 11 at the Julia Miles Theater, 424 West 55th Street; (212) 239-6200.</p>
+        <p>THEATER REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hedge Funds and Insider Trading</title>
+    <meta content="22mon3" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/opinion/22mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820703"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Hedge Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Insider Trading</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Cuomo, Andrew M (Atty Gen)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insider Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Best Buy Company Incorporated</org>
+        <person class="online_producer">Spitzer, Eliot L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2DC1F30F931A15752C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hedge Funds and Insider Trading</hl1>
+        <hl2 class="online_headline">Hedge Funds and Insider Trading</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says New York's new Atty Gen Andrew Cuomo should pursue any wrongoing by so-called matchmaking firms that specialize in introducing corporate middle managers who have inside information with clients who crave such information, like hedge funds managers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A truism of investing is that to beat the market consistently, an investor must either take above-average risk or trade on inside information. That inevitably casts a cloud over hedge funds, which exist to beat the market. Many fail, sometimes spectacularly so. But many succeed. The question is, How?</p>
+        <p>The Wall Street Journal reported that Eliot Spitzer was asking just that question. Shortly before he resigned as New York's attorney general to become the governor, Mr. Spitzer opened investigations into whether employees at companies including Best Buy and Circuit City had improperly given nonpublic information to hedge fund managers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The possibility of a destabilizing meltdown only grows the longer hedge funds escape oversight.</p>
+      </block>
+      <block class="full_text">
+        <p>A truism of investing is that to beat the market consistently, an investor must either take above-average risk or trade on inside information. That inevitably casts a cloud over hedge funds, which exist to beat the market. Many fail, sometimes spectacularly so. But many succeed. The question is, How?</p>
+        <p>The Wall Street Journal reported that Eliot Spitzer was asking just that question. Shortly before he resigned as New York's attorney general to become the governor, Mr. Spitzer opened investigations into whether employees at companies including Best Buy and Circuit City had improperly given nonpublic information to hedge fund managers.</p>
+        <p>Two research firms, the Gerson Lehrman Group and Vista Research, a unit of McGraw Hill, are also under investigation. They specialize in matching up people who have information -- say, middle managers -- with clients who crave information, like hedge funds managers. The firms collect fees from hedge fund clients and pay sources as consultants. Business for these firms has boomed since 2000, when federal regulators enacted disclosure rules that made executives at public companies wary of speaking privately with big investors.</p>
+        <p>It will be up to the prosecutors to determine if the matchmaking firms merely appear to be conduits for nonpublic information, or if they indeed are. The firms say they follow procedures to guard against any inappropriate disclosures.</p>
+        <p>But the safeguards seem weak. Gerson Lehrman told The Journal that it reminds its consultants not to divulge confidential or restricted information. A Vista spokesman said consultants must sign an ethics code that says they're ''never expected'' to comment on their employer.</p>
+        <p>New York's new attorney general, Andrew Cuomo, should pursue any wrongdoing. And the new Congress should move forward with hedge fund regulation. The possibility of a destabilizing meltdown only grows the longer the funds escape oversight.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

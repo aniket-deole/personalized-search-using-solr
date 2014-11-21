@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>H.P. to Report an Advance in Adaptable Circuitry</title>
+    <meta content="16nano" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819211"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Inventions and Patents</classifier>
+        <org class="indexing_service">Hewlett-Packard Co</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6DA1030F935A25752C0A9619C8B63" item-length="734" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>H.P. to Report an Advance in Adaptable Circuitry</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, Jan. 15</dateline>
+      <abstract>
+        <p>H.P. to Report an Advance in Adaptable CircuiG</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hewlett-Packard researchers have developed a novel way to create flexible electronic circuits that could make it routine by the end of the decade to modify and upgrade the circuitry in computer-based consumer products even after they have been sold.</p>
+        <p>The technology grows out of an advance in nanocomputing, which involves creating circuitry on a molecular scale and making it interact with today's silicon wires and transistors.</p>
+      </block>
+      <block class="full_text">
+        <p>Hewlett-Packard researchers have developed a novel way to create flexible electronic circuits that could make it routine by the end of the decade to modify and upgrade the circuitry in computer-based consumer products even after they have been sold.</p>
+        <p>The technology grows out of an advance in nanocomputing, which involves creating circuitry on a molecular scale and making it interact with today's silicon wires and transistors.</p>
+        <p>A cellphone using the technology could be wirelessly upgraded to take advantage of improved wireless network standards. Another potential use would be in making ultracheap memory chips, and one early application could be in the ink-jet cartridges which Hewlett-Packard manufactures by the tens of millions.</p>
+        <p>The results of the research, which the company plans to report on Tuesday and will be the subject of an article in the Jan. 24 issue of the British journal Nanotechnology, are the clearest evidence yet that the once highly speculative technology could be commercialized soon.</p>
+        <p>The H.P. researchers are among dozens of groups in the United States and elsewhere who have been pursuing molecular computing for more than a decade. Even as today's microelectronics industry continues to shrink the size of the wires and switches that make up silicon chips, most engineers believe that sometime in the next decade the microelectronics industry will run up against fundamental limits.</p>
+        <p>That would bring an end to the industrial era that has been defined by an observation known as Moore's Law, in which chip performance has increased and cost has decreased at an accelerating rate for four decades.</p>
+        <p>That challenge has led a hunt for a new technology in which wires will be no more than several molecules wide and switches will be composed of single atoms. So far many laboratories have fabricated experimental switches and wires on this scale, but little progress has been made on the crucial technical challenge of how to move signals between the world of molecular computing and today's microelectronic systems.</p>
+        <p>Now the researchers report that they have capitalized on a simple idea proposed by researchers at Stony Brook University in New York. Last year two Stony Brook scientists, Dmitri B. Strukov and Konstantin K. Likharev, proposed a novel way to overlay a mesh of molecular-scale wires, or nanowires, on top of a conventional chip circuit to move data between the two worlds.</p>
+        <p>''What we're doing is extending Moore's Law by 10 to 15 years,'' said Mr. Likharev, a physicist at Stony Brook who is a pioneer in nanotechnology. In 1985, with Dmitri Averin, while teaching the Moscow State University, he proposed a transistor based on the spin of a single electron. Two years later researchers at Bell Laboratories developed a prototype of such a device.</p>
+        <p>The Hewlett-Packard design would be a hybrid that contained transistors made using conventional photolithography techniques with an accompanying mesh of nanowire-connected switches.</p>
+        <p>''We've demonstrated a credible means for shrinking circuit density without shrinking transistors,'' said Stan Williams, director of quantum science research at H.P. Labs. The researchers have simulated the design in the lab, and they are starting to build test chips in a laboratory in Corvallis, Ore. They hope to have a working prototype within a year.</p>
+        <p>The Hewlett-Packard researchers, who are based in Palo Alto, Calif., have extended the Stony Brook concept and applied it to a class of computer chips known as field programmable gate arrays, or FPGA. FPGA chips are widely used in the computer industry to design prototype circuits that can later be manufactured less expensively.</p>
+        <p>To gain flexibility, the FPGA chips use large numbers of transistors that can be reconfigured into an infinite array of different circuits. Therefore the flexibility entails much higher cost, and the circuits are not routinely used in final products, but rather in development systems.</p>
+        <p>The Stony Brook and H.P. design, however, would make it possible to build FPGA circuits that are one-eighth to one-tenth the scale of today's commercial chips. Moreover, they would have the advantage of consuming far less power than conventional microchips because the molecular computing switches are nonvolatile -- that is, they consume power only when switching from one state to another.</p>
+        <p>Such a breakthrough would allow the flexible FPGA-style chips to be used routinely in consumer products manufactured by the tens of millions. It is this advance that could lead to the ability to modify or upgrade the circuitry of standard consumer electronics products already in use.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

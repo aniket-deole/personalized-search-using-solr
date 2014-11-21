@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Idealist</title>
+    <meta content="28wiwn" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822055"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE: WHAT I'M WEARING NOW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <person class="indexing_service">Tung, Jennifer</person>
+        <person class="indexing_service">Nelson, Manuela Testolini</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E3DC173FF93BA15752C0A9619C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Idealist</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER TUNG</byline>
+      <byline class="normalized_byline">Tung, Jennifer</byline>
+      <abstract>
+        <p>Manuela Testolini Nelson shares wardrobe secrets for achieving pulled-together look; photo (Pulse column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Manuela Testolini Nelson, the founder of Gamillah, a company that develops brands with a social conscience, spends her days bouncing between business meetings, children's shelters and fund-raisers. Her latest venture is Altru, a home fragrance brand that benefits her charity, the In a Perfect World Foundation, which helps underprivileged children.</p>
+        <p>Her secret to looking pulled together in any situation? A closet full of blazers. ''I own at least 12 Gucci suits,'' said Ms. Testolini Nelson, who is 5-foot-3. She also favors Dolce &amp; Gabbana and Stella McCartney, whose designs, she said, ''are powerful and feminine at the same time.''</p>
+      </block>
+      <block class="full_text">
+        <p>Manuela Testolini Nelson, the founder of Gamillah, a company that develops brands with a social conscience, spends her days bouncing between business meetings, children's shelters and fund-raisers. Her latest venture is Altru, a home fragrance brand that benefits her charity, the In a Perfect World Foundation, which helps underprivileged children.</p>
+        <p>Her secret to looking pulled together in any situation? A closet full of blazers. ''I own at least 12 Gucci suits,'' said Ms. Testolini Nelson, who is 5-foot-3. She also favors Dolce &amp; Gabbana and Stella McCartney, whose designs, she said, ''are powerful and feminine at the same time.''</p>
+        <p>She strives for that balance in work and wardrobe. ''I love warm jewel tones, and I wear four-inch heels almost every day,'' said Ms. Testolini Nelson, who is married to Prince. Here, she's in a Gucci leather blazer, a Tracy Feith top, AG Adriano Goldschmied jeans and Dsquared shoes; the bag is by Kooba.</p>
+        <p>A frenetic schedule (a Toronto native, she logged 36 flights on Air Canada alone last year) has forced her to make some style concessions. ''I wear ankle booties because they're easy to slip off for the X-ray machines,'' she said. Recently, Ms. Testolini Nelson bought her first pair of flats, by Tory Burch. Last week, just before flying to the Sundance Film Festival, where she presented her documentary in progress, ''In a Perfect World  Listen to the Children,'' she snapped up two Miss Sixty puffy coats. ''I got one in black and one in olive green.''</p>
+        <p>JENNIFER TUNG</p>
+        <p>PULSE: WHAT I'M WEARING NOW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

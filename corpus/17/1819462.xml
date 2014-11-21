@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Defining Our Values</title>
+    <meta content="l17brooks" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819462"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Social Conditions and Trends</classifier>
+        <person class="indexing_service">Kaufman, Iris</person>
+        <person class="indexing_service">Brooks, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DF1130F934A25752C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Defining Our Values</hl1>
+      </hedline>
+      <abstract>
+        <p>Iris Kaufman letter replying to David Brooks's Jan 14 column says as an American she is not confused about meanings of equality and freedom</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''The American Way of Equality'' (column, Jan. 14), David Brooks says: ''When Americans use the word 'equality,' they really mean 'fair opportunity.' When Americans use the word 'freedom,' they really mean 'opportunity.' ''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''The American Way of Equality'' (column, Jan. 14), David Brooks says: ''When Americans use the word 'equality,' they really mean 'fair opportunity.' When Americans use the word 'freedom,' they really mean 'opportunity.' ''</p>
+        <p>That's what one conservative columnist may think we believe. But when this American uses the word ''equality,'' I mean ''equal opportunity.'' When I use the word ''freedom,'' I'm referring to the rights guaranteed to Americans by our Constitution, including the Bill of Rights.</p>
+        <p>Freedom is precious. No American should be confused about it.</p>
+        <p>Iris Kaufman  Swampscott, Mass., Jan. 14, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

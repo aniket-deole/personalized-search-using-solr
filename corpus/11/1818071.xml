@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Doldrums at Record Stores</title>
+    <meta content="11arts-2" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818071"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <classifier class="indexing_service" type="descriptor">Records and Achievements</classifier>
+        <person class="indexing_service">Sisario, Ben</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E4D81230F932A25752C0A9619C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Doldrums at Record Stores</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Sisario, Ben</byline>
+      <abstract>
+        <p>Dreamgirls soundtrack beats record for lowest sales of No 1 album, established six months ago, with 66,000 copies sold; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the music industry, last week was especially sleepy, and that's not good. The top-selling album, the ''Dreamgirls'' soundtrack (Sony), beat the record -- established six months ago -- for the lowest sales of a No. 1 album since SoundScan began tracking music sales in 1991. In a week that had no major new releases, ''Dreamgirls'' sold 66,000 copies, and the No. 2 album on the Billboard chart, Akon's ''Konvicted'' (Universal), moved 64,000. Chris Daughtry's ''Daughtry'' (RCA) is No. 3; Justin Timberlake's ''FutureSex/LoveSounds'' (Jive) is No. 4; and Vol. 23 of ''Now That's What I Call Music!'' is No. 5. Every title in the Top 10 had a sales decline of at least 27 percent over the week before, and the total number of album sales in the United States in the week that ended Sunday was 22 percent less than in the same week last year.</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>For the music industry, last week was especially sleepy, and that's not good. The top-selling album, the ''Dreamgirls'' soundtrack (Sony), beat the record -- established six months ago -- for the lowest sales of a No. 1 album since SoundScan began tracking music sales in 1991. In a week that had no major new releases, ''Dreamgirls'' sold 66,000 copies, and the No. 2 album on the Billboard chart, Akon's ''Konvicted'' (Universal), moved 64,000. Chris Daughtry's ''Daughtry'' (RCA) is No. 3; Justin Timberlake's ''FutureSex/LoveSounds'' (Jive) is No. 4; and Vol. 23 of ''Now That's What I Call Music!'' is No. 5. Every title in the Top 10 had a sales decline of at least 27 percent over the week before, and the total number of album sales in the United States in the week that ended Sunday was 22 percent less than in the same week last year.</p>
+        <p>BEN SISARIO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

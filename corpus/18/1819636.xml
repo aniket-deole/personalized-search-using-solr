@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Mayor and His Tax Cuts</title>
+    <meta content="18thu3" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/opinion/18thu3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819636"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York City</location>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EEDB1130F93BA25752C0A9619C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Mayor and His Tax Cuts</hl1>
+        <hl2 class="online_headline">The Mayor and His Tax Cuts</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial questions prudence of New York City Mayor Michael Bloomberg's proposed tax cuts</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Michael Bloomberg was elected mayor five years ago after a self-financed campaign in which he shunned the politician label. So it was particularly striking to see his turnaround become all but complete in his State of the City speech yesterday, when he offered up a crowd-pleasing promise to cut taxes by $1 billion. It was an undeniable moment of political triumph, but it was less clear that it was a triumph for prudent governance.</p>
+        <p>Mr. Bloomberg is riding high these days, as polls confirm, and he took some well-deserved bows for a job well done. He has also been cutting a national profile on issues like guns and poverty, and now he has added taxes to the list.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Michael Bloomberg will have to make the case that any gains from his proposed tax cuts would not come at the expense of the fiscal responsibility he himself has long championed.</p>
+      </block>
+      <block class="full_text">
+        <p>Michael Bloomberg was elected mayor five years ago after a self-financed campaign in which he shunned the politician label. So it was particularly striking to see his turnaround become all but complete in his State of the City speech yesterday, when he offered up a crowd-pleasing promise to cut taxes by $1 billion. It was an undeniable moment of political triumph, but it was less clear that it was a triumph for prudent governance.</p>
+        <p>Mr. Bloomberg is riding high these days, as polls confirm, and he took some well-deserved bows for a job well done. He has also been cutting a national profile on issues like guns and poverty, and now he has added taxes to the list.</p>
+        <p>The latest tax cuts can only help his standing with voters. It cannot be lost on aides who have been pressing the mayor to run for president that hacking away at voters' tax bills is almost always good politics.</p>
+        <p>But it is not always good municipal management. It is true that the city has a budget surplus of more than $2 billion now, but the black ink may not last. Mr. Bloomberg showed more caution last year, using a surplus to pay down future obligations.</p>
+        <p>The new tax cuts are not wildly imprudent. The proposed 5 percent property tax cut will largely be offset by the increases homeowners will see because New York real estate values have continued their steady rise -- and it will be for just one year. Some of his other proposed cuts, including rolling back taxes on clothing and small businesses, will need Albany's approval, which is hardly assured.</p>
+        <p>The tax cuts could end up helping the city's fiscal outlook by improving its competitiveness, especially for small businesses. But Mr. Bloomberg will have to make the case that any such gains would not come at the expense of the fiscal responsibility he himself has long championed.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

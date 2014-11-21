@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Close-Ups of the Genome, Species by Species by Species</title>
+    <meta content="23scillu" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820830"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SCIENCE ILLUSTRATED"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <location class="indexing_service">Canada</location>
+        <person class="indexing_service">Constantine, David</person>
+        <person class="indexing_service">Krzywinski, Martin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E1DA1F30F930A15752C0A9619C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Close-Ups of the Genome, Species by Species by Species</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID CONSTANTINE</byline>
+      <byline class="normalized_byline">Constantine, David</byline>
+      <abstract>
+        <p>Martin Krzywinski, Canadian genomics scientist, creates computer program called Circos,which facilitates comparative genomics; example of how program works illustrated; drawings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scientists are sequencing the genomes of more than 70 organisms. The availability of these sequences has given rise to the field of comparative genomics, which seeks to answer questions about one animal's genome using information derived from another. A Canadian genomics scientist, Martin Krzywinski, has created a computer program called Circos that aids in visualizing and comparing the data. The large diagram below illustrates the large degree of similarity between the first chromosomes of four animals to that of a human. Not surprisingly, the humans' is closest to the chimp's.</p>
+        <p>DAVID CONSTANTINE</p>
+        <p>COMPARING CHROMOSOMES 1  Outer band represents each species' first chromosome. Numbers represent millions of base pairs on the chromosome.</p>
+        <p>Lines join the 200 regions on each chromosome that are most similar to a human's (based on number of matching base pairs).</p>
+        <p>Thicker lines represent more similarity.</p>
+        <p>Bar charts tell how many base pairs, 0 to 1 million, match part of the human chromosome.</p>
+        <p>Line charts show what percentage of the human chromosome is similar to each of the other five genomes.</p>
+        <p>If a region of the human genome is very similar to a region in another's genome, there is reason to suspect that these two regions both generate basic functions that are vital to both species and do not permit variation.</p>
+        <p>OTHER TYPES OF COMPARISONS  To download the free program or view other examples: http://mkweb.bcgsc.ca/circos/</p>
+        <p>The chart above shows the similarity of the BRCA1 protein, implicated in early breast cancer, to other genes on human chromosome 17.</p>
+        <p>The image above illustrates the duplication within the human genome. Here, chromosomes 1, 2, 4 and 7 are shown (arbitrarily chosen).</p>
+        <p>*Length shown at 200% compared to other species. Shadings on outer band represent how chromosome looks when stained.</p>
+        <p>(Source by Martin Krzywinski, Michael Smith Genome Sciences Center, Canada)</p>
+      </block>
+      <block class="full_text">
+        <p>Scientists are sequencing the genomes of more than 70 organisms. The availability of these sequences has given rise to the field of comparative genomics, which seeks to answer questions about one animal's genome using information derived from another. A Canadian genomics scientist, Martin Krzywinski, has created a computer program called Circos that aids in visualizing and comparing the data. The large diagram below illustrates the large degree of similarity between the first chromosomes of four animals to that of a human. Not surprisingly, the humans' is closest to the chimp's.</p>
+        <p>DAVID CONSTANTINE</p>
+        <p>COMPARING CHROMOSOMES 1  Outer band represents each species' first chromosome. Numbers represent millions of base pairs on the chromosome.</p>
+        <p>Lines join the 200 regions on each chromosome that are most similar to a human's (based on number of matching base pairs).</p>
+        <p>Thicker lines represent more similarity.</p>
+        <p>Bar charts tell how many base pairs, 0 to 1 million, match part of the human chromosome.</p>
+        <p>Line charts show what percentage of the human chromosome is similar to each of the other five genomes.</p>
+        <p>If a region of the human genome is very similar to a region in another's genome, there is reason to suspect that these two regions both generate basic functions that are vital to both species and do not permit variation.</p>
+        <p>OTHER TYPES OF COMPARISONS  To download the free program or view other examples: http://mkweb.bcgsc.ca/circos/</p>
+        <p>The chart above shows the similarity of the BRCA1 protein, implicated in early breast cancer, to other genes on human chromosome 17.</p>
+        <p>The image above illustrates the duplication within the human genome. Here, chromosomes 1, 2, 4 and 7 are shown (arbitrarily chosen).</p>
+        <p>*Length shown at 200% compared to other species. Shadings on outer band represent how chromosome looks when stained.</p>
+        <p>(Source by Martin Krzywinski, Michael Smith Genome Sciences Center, Canada)  SCIENCE ILLUSTRATED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

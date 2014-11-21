@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="29ulster--refer" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822402"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E4DD143FF93AA15752C0A9619C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sinn Fein Endorses Plan For Ulster Police Reforms  Sinn Fein, the main Catholic republican party, voted to endorse the police force in Northern Ireland, opening the way toward restoring local government shared by Protestants and Catholics.</p>
+        <p>PAGE A4</p>
+        <p>Saudi Proposes Peace Talks  King Abdullah of Saudi Arabia invited the main Palestinian factions Hamas and Fatah to hold talks in Mecca in an effort to halt some of their worst internal fighting.</p>
+        <p>PAGE A3</p>
+        <p>Truth and Consequences  A federal court is trying to decide when is it all right to punish people for telling the truth about matters of public concern. ''Sidebar'' by Adam Liptak.</p>
+        <p>PAGE A12</p>
+        <p>New Push in Fighting Gangs  A surge of gang violence brought renewed promises from Los Angeles officials to reverse it and new teams of officers to fight it.</p>
+        <p>PAGE A16</p>
+        <p>Behind the 'Dreamgirls' Snub  Hollywood executives wonder if excessive marketing could have cost a film an Oscar nomination for best picture.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>All Noir, All the Time  In San Francisco, the fifth Noir City festival, with movies like ''Raw Deal,'' is tapping a renewed interest in film noir.</p>
+        <p>THE ARTS, PAGE E1</p>
+        <p>The Prince at the Court  Prince Charles, visiting New York with his wife, Camilla, ponders a shot at the Harlem Children's Zone, where he made it on the second try. From there it was on to the Harvard Club for an environmental award.</p>
+        <p>PAGE B1</p>
+      </block>
+      <block class="full_text">
+        <p>Sinn Fein Endorses Plan For Ulster Police Reforms  Sinn Fein, the main Catholic republican party, voted to endorse the police force in Northern Ireland, opening the way toward restoring local government shared by Protestants and Catholics.</p>
+        <p>PAGE A4</p>
+        <p>Saudi Proposes Peace Talks  King Abdullah of Saudi Arabia invited the main Palestinian factions Hamas and Fatah to hold talks in Mecca in an effort to halt some of their worst internal fighting.</p>
+        <p>PAGE A3</p>
+        <p>Truth and Consequences  A federal court is trying to decide when is it all right to punish people for telling the truth about matters of public concern. ''Sidebar'' by Adam Liptak.</p>
+        <p>PAGE A12</p>
+        <p>New Push in Fighting Gangs  A surge of gang violence brought renewed promises from Los Angeles officials to reverse it and new teams of officers to fight it.</p>
+        <p>PAGE A16</p>
+        <p>Behind the 'Dreamgirls' Snub  Hollywood executives wonder if excessive marketing could have cost a film an Oscar nomination for best picture.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>All Noir, All the Time  In San Francisco, the fifth Noir City festival, with movies like ''Raw Deal,'' is tapping a renewed interest in film noir.</p>
+        <p>THE ARTS, PAGE E1</p>
+        <p>The Prince at the Court  Prince Charles, visiting New York with his wife, Camilla, ponders a shot at the Harlem Children's Zone, where he made it on the second try. From there it was on to the Harvard Club for an environmental award.</p>
+        <p>PAGE B1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

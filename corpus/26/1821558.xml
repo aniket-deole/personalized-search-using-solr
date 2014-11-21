@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Local Talent Buoys 'Idol'</title>
+    <meta content="26arts-4" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821558"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Fox Entertainment Group Inc</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <object.title class="indexing_service">American Idol (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E7DD173FF935A15752C0A9619C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Local Talent Buoys 'Idol'</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>Fox wins ratings for Wednesday night with reality series American Idol (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As New York City's aspiring singers descended upon ''American Idol'' on Wednesday, the episode drew 33.6 million viewers from 8 to 10 p.m., according to Nielsen's estimates, giving Fox another commanding ratings victory on the night. CBS was a distant second in total viewers, as ''CSI: New York'' (13.4 million) led the 10 o'clock hour. CBS's new reality show, ''Armed and Famous'' (4.7 million), sank to fourth place at 8. NBC edged out CBS in the 18-to-49-year-old demographic for the night, winning second place behind Fox with the help of ''Deal or No Deal'' at 9 (10.1 million). Nielsen also estimated that the State of the Union address, carried live on Tuesday by nine national broadcast and cable networks, drew almost four million viewers more than President Bush's 2006 address (45.5 million, compared with 41.7 million). Despite the overall increase, the Fox News channel drew its smallest audience for a State of the Union by Mr. Bush, off nearly two million viewers from a year ago (4.6 million, compared with 6.5 million). Fox News's coverage remained first among cable channels, but No. 2 CNN saw a slight increase (to 2.4 million from 2.2 million) and No. 3 MSNBC's audience more than doubled, to 1.6 million viewers from 707,000.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>As New York City's aspiring singers descended upon ''American Idol'' on Wednesday, the episode drew 33.6 million viewers from 8 to 10 p.m., according to Nielsen's estimates, giving Fox another commanding ratings victory on the night. CBS was a distant second in total viewers, as ''CSI: New York'' (13.4 million) led the 10 o'clock hour. CBS's new reality show, ''Armed and Famous'' (4.7 million), sank to fourth place at 8. NBC edged out CBS in the 18-to-49-year-old demographic for the night, winning second place behind Fox with the help of ''Deal or No Deal'' at 9 (10.1 million). Nielsen also estimated that the State of the Union address, carried live on Tuesday by nine national broadcast and cable networks, drew almost four million viewers more than President Bush's 2006 address (45.5 million, compared with 41.7 million). Despite the overall increase, the Fox News channel drew its smallest audience for a State of the Union by Mr. Bush, off nearly two million viewers from a year ago (4.6 million, compared with 6.5 million). Fox News's coverage remained first among cable channels, but No. 2 CNN saw a slight increase (to 2.4 million from 2.2 million) and No. 3 MSNBC's audience more than doubled, to 1.6 million viewers from 707,000.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

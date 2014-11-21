@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Layoffs at Paper Prompt Uproar Over Diversity</title>
+    <meta content="15philly" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/business/media/15philly.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819035"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Minorities (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <org class="indexing_service">Philadelphia Inquirer</org>
+        <person class="indexing_service">Aspan, Maria</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Philadelphia Inquirer</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E6DD1030F936A25752C0A9619C8B63" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Layoffs at Paper Prompt Uproar Over Diversity</hl1>
+        <hl2 class="online_headline">Layoffs at Paper Prompt Uproar Over Diversity</hl2>
+      </hedline>
+      <byline class="print_byline">By MARIA ASPAN</byline>
+      <byline class="normalized_byline">Aspan, Maria</byline>
+      <abstract>
+        <p>Recent layoffs at Philadelphia Inquirer result in questions over their impact on diversity in newsroom; 17 of 71 journalists laid off, about 24 percent, are minorities (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The recent layoffs at the embattled Philadelphia Inquirer have resulted in a round of finger-pointing over their disproportionate impact on diversity in the newsroom.</p>
+        <p>On Jan. 3, the Inquirer began laying off 71 newsroom employees, or 17 percent of its staff, based on seniority guidelines in the newspaper union's contract. According to the Newspaper Guild of Greater Philadelphia, 17 of the 71 journalists laid off, or about 24 percent, are minorities.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Staff cuts at The Philadelphia Inquirer have taken a heavy toll among black journalists, who tend to have less seniority.</p>
+      </block>
+      <block class="full_text">
+        <p>The recent layoffs at the embattled Philadelphia Inquirer have resulted in a round of finger-pointing over their disproportionate impact on diversity in the newsroom.</p>
+        <p>On Jan. 3, the Inquirer began laying off 71 newsroom employees, or 17 percent of its staff, based on seniority guidelines in the newspaper union's contract. According to the Newspaper Guild of Greater Philadelphia, 17 of the 71 journalists laid off, or about 24 percent, are minorities.</p>
+        <p>In a Jan. 3 letter to Brian P. Tierney, the publisher of The Inquirer and The Daily News, the National Association of Black Journalists protested the sharp decline in newsroom diversity.</p>
+        <p>Mr. Tierney and union leaders expressed dismay at the impact on newsroom diversity -- and promptly blamed each other.</p>
+        <p>Mr. Tierney responded to the black journalists' association in a Jan. 5 letter, saying that he had repeatedly attempted to change the seniority system in order to consider diversity in the course of staff cuts. But, he said, the guild's insistence on maintaining that system tied his hands.</p>
+        <p>The union responded with a bulletin on Wednesday, defending the seniority system and noting that the paper had managed to partially circumvent that system with ''carveouts'' of certain beats, to protect some reporters with specialized knowledge.</p>
+        <p>''It's a serious moral issue. We must maintain the diversity of the newsroom,'' said Henry J. Holcomb, the president of the Newspaper Guild of Greater Philadelphia. He said that if the paper were willing to offer buyouts to senior employees, the paper could call back several junior African-American reporters.</p>
+        <p>Mr. Tierney said that while he was committed to maintaining diversity, he was financially unable to offer buyouts. ''If we offer buyouts on top of severance, then I'm going to have to lay off more people. That would not be fair to anybody,'' he said in a telephone interview.</p>
+        <p>Bryan Monroe, the president of the black journalists' group, expressed frustration with both the union and the paper. ''They both agree that this is wrong,'' he said. ''If they can't do something about this, who can? Get out of the blame game and fix the problem.''</p>
+        <p>MARIA ASPAN</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

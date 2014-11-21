@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On Display, the Video Frontier</title>
+    <meta content="11show-1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818091"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS: REPORTERS' NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Liquid Crystal Displays</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Electronics Show</classifier>
+        <location class="indexing_service">Las Vegas (Nev)</location>
+        <person class="indexing_service">Taub, Eric A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Nevada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada/Las Vegas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E0D81230F932A25752C0A9619C8B63" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On Display, the Video Frontier</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC A. TAUB</byline>
+      <byline class="normalized_byline">Taub, Eric A</byline>
+      <dateline>LAS VEGAS</dateline>
+      <abstract>
+        <p>Eric Taub Reporters' Notebook column on Consumer Electronics Show in Las Vegas, where several companies say problems long bedeviling LCD TVs--motion blur, weak contrast and limited color reproduction--have been solved; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SPLAYED across hundreds of flat-panel L.C.D. TVs in the booths of Samsung, Sharp, Sony and other manufacturers at the Consumer Electronics Show here are gorgeous images of roses, New Zealand mountains and still lifes of red peppers.</p>
+        <p>It's not that electronics executives are simply nature lovers. Liquid-crystal-display sets simply have a tougher time than plasma TVs in showing moving images without blurring the picture. The virtually motionless outdoor scenes look better than a smeared Ferrari racing across the screen.</p>
+      </block>
+      <block class="full_text">
+        <p>SPLAYED across hundreds of flat-panel L.C.D. TVs in the booths of Samsung, Sharp, Sony and other manufacturers at the Consumer Electronics Show here are gorgeous images of roses, New Zealand mountains and still lifes of red peppers.</p>
+        <p>It's not that electronics executives are simply nature lovers. Liquid-crystal-display sets simply have a tougher time than plasma TVs in showing moving images without blurring the picture. The virtually motionless outdoor scenes look better than a smeared Ferrari racing across the screen.</p>
+        <p>Yet several companies said this week that problems long bedeviling L.C.D. TVs -- motion blur, weak contrast, and limited color reproduction -- had been solved. In other words, their L.C.D. sets finally produce a picture as good as plasma's.</p>
+        <p>To eliminate blur, all the major manufacturers have doubled the frame rate of some L.C.D. models to 120 frames per second.</p>
+        <p>Toshiba has incorporated proprietary technologies to widen the color palette and to help create true blacks rather than muddy grays. Sharp has reduced image smearing by cutting its panels' pixel response time to four milliseconds, and increased the contrast. Similarly, Samsung's L.C.D. models now turn the backlight off in the dark parts of a scene to increase the black level.</p>
+        <p>New display technologies, however, may make these enhancements moot. Sony is showing a 27-inch 10-millimeter-thick prototype TV using O.L.E.D.'s, or organic light-emitting diodes. The picture quality is extraordinary: bright, sharp, with deep colors. If Sony can make O.L.E.D. sets economically, it could mean the end of L.C.D.</p>
+        <p>In the meantime, do the L.C.D. picture enhancement technologies actually enhance the picture? At times, yes. Sharp's top-of-the-line new models looked excellent, with strong color rendition, deep contrast and no apparent problems handling motion. But the image on one of Toshiba's new sets blurred in the corners, which a company representative attributed to transmission issues.</p>
+        <p>Whatever the technology claims, it's still worth looking for yourself.</p>
+        <p>ERIC A. TAUB</p>
+        <p>CIRCUITS: REPORTERS' NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

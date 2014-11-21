@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BRAVERMAN, ARTHUR ALAN</title>
+    <meta content="dn010807" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817309"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BRAVERMAN, ARTHUR ALAN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EEDA1E3AF93BA35752C0A9619C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BRAVERMAN, ARTHUR ALAN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BRAVERMAN--Arthur Alan, of Rockville Centre, NY, died peacefully on January 7th, 2007. Beloved husband of Myrna, loving father of Felice, the late Howard Baturin, Diane and William Levy, and Robyn and Bernard Dolington. Poppy of Spencer, Mallory, Nicole and Samantha. He will forever be in our hearts. Services Tuesday, 12pm at ''Boulevard-Riverside Chapel'', 1450 Broadway, Hewlett NY.</p>
+      </block>
+      <block class="full_text">
+        <p>BRAVERMAN--Arthur Alan, of Rockville Centre, NY, died peacefully on January 7th, 2007. Beloved husband of Myrna, loving father of Felice, the late Howard Baturin, Diane and William Levy, and Robyn and Bernard Dolington. Poppy of Spencer, Mallory, Nicole and Samantha. He will forever be in our hearts. Services Tuesday, 12pm at ''Boulevard-Riverside Chapel'', 1450 Broadway, Hewlett NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art vs. Administration</title>
+    <meta content="07alsmail-4" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816981"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DAMIAN WOETZEL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <person class="indexing_service">Friedman, Jeff</person>
+        <person class="indexing_service">Woetzel, Damian</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFD81730F934A35752C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art vs. Administration</hl1>
+      </hedline>
+      <abstract>
+        <p>Jeff Friedman letter on Dec 31 article about dancer Damian Woetzel</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''He Parked His Barre in Harvard Yard'' by Daniel J. Wakin [Dec. 31]:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''He Parked His Barre in Harvard Yard'' by Daniel J. Wakin [Dec. 31]:</p>
+        <p>I congratulate the dancer Damian Woetzel on pursuing a master's in public administration at Harvard. But while studying to become a successful artistic director of a major ballet company, will he explore the humanities to interpret dances of the past and nurture new repertory? Here's hoping that the education of Damian Woetzel, whose development as an artist, scholar and administrator matters, doesn't stop at the glass door of the business suite.</p>
+        <p>Jeff Friedman  Woodbridge, N.J.</p>
+        <p>The writer teaches dance history at Rutgers University.</p>
+        <p>DAMIAN WOETZEL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

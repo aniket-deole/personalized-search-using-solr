@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PHYSICAL CULTURE: Gear Test With | Ellen Miller, Mountain Running Team Manager; Let the Iceman Come</title>
+    <meta content="11Physical" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817948"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Running</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Shoes and Boots</classifier>
+        <person class="indexing_service">Shea, Sarah Bowen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shoes and Boots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Running</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EEDC1230F932A25752C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PHYSICAL CULTURE: Gear Test With | Ellen Miller, Mountain Running Team Manager; Let the Iceman Come</hl1>
+      </hedline>
+      <byline class="print_byline">By SARAH BOWEN SHEA</byline>
+      <byline class="normalized_byline">Shea, Sarah Bowen</byline>
+      <abstract>
+        <p>Reviews of cleated shoes intended for mountain running; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RUNNERS intending to enter spring marathons need to start training this month, regardless of the weather. Treadmills suffice, but for adventurous runners nothing beats getting outside even if it's the morning after a snowfall.</p>
+        <p>Cleated running shoes that work like studded snow tires and shoe strap-ons that work like tire chains give runners traction on snowy and icy roads. And there are more traction products than ever to lure skittish runners outdoors.</p>
+      </block>
+      <block class="full_text">
+        <p>RUNNERS intending to enter spring marathons need to start training this month, regardless of the weather. Treadmills suffice, but for adventurous runners nothing beats getting outside even if it's the morning after a snowfall.</p>
+        <p>Cleated running shoes that work like studded snow tires and shoe strap-ons that work like tire chains give runners traction on snowy and icy roads. And there are more traction products than ever to lure skittish runners outdoors.</p>
+        <p>''It's important to run on the surface you are going to race on, and these shoes allow runners to take what Mother Nature throws at them,'' said John Schweizer, president of Garmont.</p>
+        <p>To see how well these products keep runners from slipping, Ellen Miller, manager of the Teva U.S. Women's Mountain Running Team, wore them on the roads and slopes of Vail, Colo.</p>
+        <p>SARAH BOWEN SHEA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

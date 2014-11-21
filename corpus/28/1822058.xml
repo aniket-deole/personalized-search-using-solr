@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Helping Hands</title>
+    <meta content="28parties" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070204T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1822058"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="EVENING HOURS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E3DC173FF93BA15752C0A9619C8B63" item-length="5" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Helping Hands</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham
+&lt;p&gt;</byline>
+      <abstract>
+        <p>Photos of benefit dinners in New York City</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>EVENING HOURS</p>
+        <p>Correction:  February 4, 2007, Sunday  An entry in the Evening Hours column last Sunday about the International Women's Health Coalition misidentified its chairwoman. She is Kati Marton -- not Catie Marron, who is the chairwoman of the New York Public Library. A picture caption also misidentified Ms. Marton. It was Ms. Marton -- not Adrienne Germain, president of the health coalition -- who was shown with Sarah Rosenthal and Shirley Lord Rosenthal.</p>
+        <p>Correction:  April 8, 2007, Sunday  An entry in the Evening Hours column on Jan. 28 about the Quadrille Society Bal d'Europe misspelled the surname of a guest. She is Anne Sitrick, not Sitricle. A letter on Jan. 29 pointing out the error did not reach the appropriate editors until Wednesday.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 4, 2007, Sunday</p>
+        <p>An entry in the Evening Hours column last Sunday about the International Women's Health Coalition misidentified its chairwoman. She is Kati Marton -- not Catie Marron, who is the chairwoman of the New York Public Library. A picture caption also misidentified Ms. Marton. It was Ms. Marton -- not Adrienne Germain, president of the health coalition -- who was shown with Sarah Rosenthal and Shirley Lord Rosenthal.</p>
+        <p></p>
+        <p>Correction: April 8, 2007, Sunday</p>
+        <p>An entry in the Evening Hours column on Jan. 28 about the Quadrille Society Bal d'Europe misspelled the surname of a guest. She is Anne Sitrick, not Sitricle. A letter on Jan. 29 pointing out the error did not reach the appropriate editors until Wednesday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

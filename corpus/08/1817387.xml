@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Free-Market Justice</title>
+    <meta content="08hoffman" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/opinion/08hoffman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817387"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Legal Aid for the Poor</classifier>
+        <person class="indexing_service">Hoffman, Morris B</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Aid for the Poor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Welfare (US)</classifier>
+        <person class="online_producer">Hoffman, Morris B</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E4DB1530F93BA35752C0A9619C8B63" item-length="1063" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Free-Market Justice</hl1>
+        <hl2 class="online_headline">Free-Market Justice</hl2>
+      </hedline>
+      <byline class="print_byline">By Morris B. Hoffman</byline>
+      <byline class="normalized_byline">Hoffman, Morris B</byline>
+      <dateline>Denver</dateline>
+      <abstract>
+        <p>Op-Ed article by Morris B Hoffman, former trial judge, on study he conducted with two economists to appraise effectiveness of public defenders; says results were surprising: average sentence for clients of public defenders was almost three years longer than average for clients of private lawyers; says they also found that private lawyers tend to handle more serious cases; says data suggest that large number of felony criminal defendants are 'marginally indigent,' meaning they could tap hidden resources to retain private lawyers; says if self-selection by guilty, marginally indigent defendants is driving big part of this effectiveness difference, remedy may simply be to tighten mechanisms used to determine indigency and eligibility for public defender; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SIXTEEN years as a state trial judge have left me with a deep respect for the professionalism and competence of the public defenders who handle felony cases for indigent criminal defendants in my courtroom. In fact, I've told friends, only half-jokingly, that if they are ever charged with a serious criminal offense, the first thing they should do is give all their assets to charity, in an effort to qualify for public defender representation.</p>
+        <p>So when two economists from Emory University, Paul Rubin and Joanna Shepherd, agreed last year to collaborate with me on an econometric study of how effective public defenders really are, I had to guard against confirmation bias. I was positive that public defenders would prove more effective than their private counterparts. Mr. Rubin and Ms. Shepherd, with their occupational faith in markets, were equally positive of just the opposite. In the end, the economists were right, though with an interesting twist. (The full study has been published in the Ohio State Journal of Criminal Law.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why do private lawyers do better than public defenders?</p>
+      </block>
+      <block class="full_text">
+        <p>SIXTEEN years as a state trial judge have left me with a deep respect for the professionalism and competence of the public defenders who handle felony cases for indigent criminal defendants in my courtroom. In fact, I've told friends, only half-jokingly, that if they are ever charged with a serious criminal offense, the first thing they should do is give all their assets to charity, in an effort to qualify for public defender representation.</p>
+        <p>So when two economists from Emory University, Paul Rubin and Joanna Shepherd, agreed last year to collaborate with me on an econometric study of how effective public defenders really are, I had to guard against confirmation bias. I was positive that public defenders would prove more effective than their private counterparts. Mr. Rubin and Ms. Shepherd, with their occupational faith in markets, were equally positive of just the opposite. In the end, the economists were right, though with an interesting twist. (The full study has been published in the Ohio State Journal of Criminal Law.)</p>
+        <p>We looked at all 5,224 felony criminal cases filed in Denver in 2002. Most other studies measure lawyer effectiveness through indicators like acquittal rates, but we used the one thing criminal defendants care about most: the amount of jail or prison time they receive. Thus, acquittals counted as zero. Probationary sentences likewise counted as zero, unless the probation was combined with some jail time.</p>
+        <p>We counted halfway-house sentences as 120 days, which is typical for Denver defendants. We counted the initial length of a prison sentence without decreasing it for early release or increasing it for parole violations. Life sentences we arbitrarily counted as 110 years.</p>
+        <p>My economist friends were able to use regression analyses to control for other variables (such as whether a case was plea bargained or went to trial), to minimize the chance that the differences we found were caused by factors other than effectiveness. They also used regressions with different combinations of variables, to ensure that our results were not sensitive to a particular variable.</p>
+        <p>The results were surprising. The average sentence for clients of public defenders was almost three years longer than the average for clients of private lawyers.</p>
+        <p>But our most notable finding was hidden in one of the variables we had controlled -- the seriousness of the case. We had assumed that public defenders on average handled more serious cases than private lawyers, if for no other reason than that such cases carry higher bonds, and defendants who can't make those bonds are often rendered indigent by their pretrial incarceration. The length of their clients' sentences would of course be distorted by the fact that they handle more serious cases with longer potential sentences.</p>
+        <p>But when we removed the control for the seriousness of the crime, public defenders performed relatively worse, not better (five years more incarceration versus three years more).</p>
+        <p>When we examined the seriousness of the cases handled by each type of lawyer, we discovered not only that private lawyers tend to handle more serious cases, but also that as the seriousness of the case increases, the chances that a private lawyer is handling it also increases. What in the world could explain such a result?</p>
+        <p>It turns out that the explanation, at least in part, is one that should put a smile on the face of all free-marketers and rational choice theorists: criminal defendants, just like any other consumers of services, appear to be making choices based on their rational assessments of costs and benefits. But, you might ask, do criminal defendants ever really have a choice between public defenders and private counsel? It appears many do.</p>
+        <p>Our data suggested that, contrary to the law's rather binary notion of indigency, a large chunk of felony criminal defendants are what we have called ''marginally indigent.'' They could, if they had to, tap hidden resources, or the resources of family and friends, to retain private lawyers. But what drives that decision? Just what you'd expect from any rational consumer of criminal defense services: a combination of the seriousness of the offense and the likelihood of conviction.</p>
+        <p>Imagine a guilty, marginally indigent defendant facing a relatively minor felony (for which he will most likely get probation). Now add to the mix the fact that his crime was captured on videotape, meaning he has a small chance of avoiding conviction. It is unlikely such a defendant would deplete his and his family's and friends' resources to hire a private lawyer when he could get a free public defender to achieve the same result.</p>
+        <p>At the other end of the spectrum, imagine a marginally indigent defendant charged with first degree murder, and imagine that he is innocent. Wouldn't that defendant do everything in his power to marshal the resources to hire a private lawyer, if he believed, rightly or wrongly, that the private lawyer were more likely to achieve an acquittal?</p>
+        <p>In other words, marginally indigent defendants who choose public defenders tend to be guilty. And of course if that's true, it's not at all surprising that public defenders would achieve less favorable outcomes.</p>
+        <p>More work needs to be done to confirm these results. But if they hold, and hold nationally, they could have important policy implications. Roughly one-third of all states have formal statewide public defender systems, and several others have regional or local systems. Current debates about improving these systems tend to revolve around two poles: increased financing (for which public defenders have been clamoring since the 1980s, when per client spending in most systems, in real dollars, took a nose dive from which it has never recovered) and, more recently, privatization.</p>
+        <p>If it is true that public defenders achieve substantially worse results for their clients than private lawyers, that fact should be troubling to us all, quite apart from whether the difference is the product of underfinancing, government inefficiencies or both.</p>
+        <p>But our results suggest a more benign explanation, and a less drastic solution than spending more on public defenders or privatizing the system. If self-selection by guilty, marginally indigent defendants is driving a big part of this effectiveness difference, the remedy may simply be to tighten the mechanisms we use to determine indigency. This solution would not only reduce the outcome differences between public defenders and private defense lawyers, but it would also give taxpayers more bang for their public defender buck.</p>
+        <p>Op-Ed Contributor Morris B. Hoffman is a Colorado state trial judge and a fellow at the Gruter Institute for Law and Behavioral Research.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Morris B. Hoffman is a Colorado state trial judge and a fellow at the Gruter Institute for Law and Behavioral Research.</tagline>
+    </body.end>
+  </body>
+</nitf>

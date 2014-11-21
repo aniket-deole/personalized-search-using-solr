@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Debra Salz, David Finkelstein</title>
+    <meta content="07salz" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/fashion/weddings/07salz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817095"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Salz, Debra Faith (Debra Faith Finkelstein)</person>
+        <person class="indexing_service">Finkelstein, Dr. David Joel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFDA1430F934A35752C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Debra Salz, David Finkelstein</hl1>
+        <hl2 class="online_headline">Debra Salz, David Finkelstein</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Debra Faith Salz was married last evening to Dr. David Joel Finkelstein at the Shackamaxon Golf and Country Club in Scotch Plains, N.J. Cantor Anna Berman officiated.</p>
+        <p>Mrs. Finkelstein, 37, is a vice president and the corporate counsel of two Linden, N.J., businesses partly owned by her and her family: the Linden Warehouse and Distribution Company and the Linden Bulk Transportation Company, a trucking firm. She graduated from the University of Michigan and received her law degree from George Washington University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Debra Faith Salz was married last evening to Dr. David Joel Finkelstein at the Shackamaxon Golf and Country Club in Scotch Plains, N.J. Cantor Anna Berman officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Debra Faith Salz was married last evening to Dr. David Joel Finkelstein at the Shackamaxon Golf and Country Club in Scotch Plains, N.J. Cantor Anna Berman officiated.</p>
+        <p>Mrs. Finkelstein, 37, is a vice president and the corporate counsel of two Linden, N.J., businesses partly owned by her and her family: the Linden Warehouse and Distribution Company and the Linden Bulk Transportation Company, a trucking firm. She graduated from the University of Michigan and received her law degree from George Washington University.</p>
+        <p>Her mother, Vicki Salz of East Brunswick, N.J., is the director of social services at the Cedar Oaks Care Center, a nursing home in South Plainfield, N.J. The bride's father, the late Louis Salz, lived in Warren, N.J., and was a founder of the trucking firm and the executive vice president of the warehouse.</p>
+        <p>Dr. Finkelstein, 33 is a specialist in emergency medicine. He is a director of education at Staten Island University Hospital, overseeing medical residents and students in the emergency room at its site in Dongan Hills. He also graduated from Michigan and received his medical degree from the State University of New York Downstate Medical Center.</p>
+        <p>He is a son of Janet Finkelstein and Dr. Leonard Finkelstein of Lake Worth, Fla. His mother retired as a practical nurse in the office of Dr. Ruth Treiber and Dr. Eric Treiber, dermatologists in Rye, N.Y. The bridegroom's father, an internist, practiced in the Purchase, N.Y., office of the Westchester Medical Group.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Educated and Healthy</title>
+    <meta content="l10educ" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817792"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Longevity</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Dropouts</classifier>
+        <org class="indexing_service">Public Health Assn of New York City</org>
+        <person class="indexing_service">Freudenberg, Nicholas</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DE1230F933A25752C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Educated and Healthy</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Nicholas Freudenberg, president of Public Health Association of New York City and professor of public health at Hunter College, says growing evidence of link between more school and better health provides compelling rationale for New York and other cities to make dropout prevention into public health priority as well as educational priority (Jan 3 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Surprising Secret to a Long Life: Stay in School'' (''The New Age'' series, front page, Jan. 3):</p>
+        <p>The growing evidence that more schooling leads to better health provides a compelling rationale for New York and other cities to make school dropout prevention a public health priority as well as an educational priority.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Surprising Secret to a Long Life: Stay in School'' (''The New Age'' series, front page, Jan. 3):</p>
+        <p>The growing evidence that more schooling leads to better health provides a compelling rationale for New York and other cities to make school dropout prevention a public health priority as well as an educational priority.</p>
+        <p>Since disparities in health between the better-off and the poor and among whites, blacks and Latinos closely track differences in educational achievement, improving our city's abysmal school completion rates can help New York reduce inequities in health. Moreover, since better health also contributes to educational achievement, New York City should expand the number of school-based health centers, strengthen its health and sexuality education curriculum, and ensure safe and healthy environments in our schools.</p>
+        <p>Nicholas Freudenberg  New York, Jan. 4, 2007</p>
+        <p>The writer is president of the Public Health Association of New York City and a professor of public health at Hunter College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

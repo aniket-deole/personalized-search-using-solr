@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   VLADECK, JUDITH</title>
+    <meta content="dn011207" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818166"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">VLADECK, JUDITH</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFD71E3AF931A25752C0A9619C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   VLADECK, JUDITH</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>VLADECK--Judith, was an icon, esteemed labor lawyer, and feisty, spirited woman who was an early champion of employment rights for women. She was there for us and the women we serve at Nontraditional Employment for Women (NEW) from the beginning, and we are forever indebted to her. NEW named its headquarters the Judith P. Vladeck Center for Women in 1989, and we will miss her leadership and wisdom. NEW's Board and staff extend our heartfelt condolences to her family. The many women working in construction to build our city today are a tribute to Judith's commitment and legacy.</p>
+        <p>$(6$)VLADECK--Judith P. On behalf of the board and staff of Legal Momentum, we wish to express our deepest sympathies to Judith's family, firm and friends. She was a tireless advocate for justice in the workplace, and a trailblazer for women in the legal profession. We are indebted to her legacy and support. Kathy Rodgers, President</p>
+      </block>
+      <block class="full_text">
+        <p>VLADECK--Judith, was an icon, esteemed labor lawyer, and feisty, spirited woman who was an early champion of employment rights for women. She was there for us and the women we serve at Nontraditional Employment for Women (NEW) from the beginning, and we are forever indebted to her. NEW named its headquarters the Judith P. Vladeck Center for Women in 1989, and we will miss her leadership and wisdom. NEW's Board and staff extend our heartfelt condolences to her family. The many women working in construction to build our city today are a tribute to Judith's commitment and legacy.</p>
+        <p>$(6$)VLADECK--Judith P. On behalf of the board and staff of Legal Momentum, we wish to express our deepest sympathies to Judith's family, firm and friends. She was a tireless advocate for justice in the workplace, and a trailblazer for women in the legal profession. We are indebted to her legacy and support. Kathy Rodgers, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

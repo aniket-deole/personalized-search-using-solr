@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A BERLIN MUSEUM</title>
+    <meta content="07traletters-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816950"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Berlin</location>
+        <location class="indexing_service">Germany</location>
+        <person class="indexing_service">Stone, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E7DA1730F934A35752C0A9619C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A BERLIN MUSEUM</hl1>
+      </hedline>
+      <abstract>
+        <p>John Stone letter on December 10 article on 36-hour visit to Berlin; photo</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: It is disheartening that Museum Island in Berlin-- especially its Pergamon Museum -- was not mentioned in ''36 Hours: Berlin'' (Dec. 10). The Pergamon houses some of the reconstructed monumental wonders of the ancient world, transported from the Middle East in the last century by German archaeologists. Not to be missed are the Pergamon Altar, estimated to be about 2,000 years old, and the Ishtar Gate from Babylonia, below, which is estimated to be about 2,500 years old.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: It is disheartening that Museum Island in Berlin-- especially its Pergamon Museum -- was not mentioned in ''36 Hours: Berlin'' (Dec. 10). The Pergamon houses some of the reconstructed monumental wonders of the ancient world, transported from the Middle East in the last century by German archaeologists. Not to be missed are the Pergamon Altar, estimated to be about 2,000 years old, and the Ishtar Gate from Babylonia, below, which is estimated to be about 2,500 years old.</p>
+        <p>In my years of travel, I have found visiting the Pergamon to be among life's most thrilling, life-changing experiences. It is well worth forgoing time spent in one of Berlin's oh-so-chic bistros to take a short, inspiring walk through this museum. It occurs to me that if we took a little more time to consider the ancient Middle East, we might gain insight into how disturbing its modern manifestation is by comparison.</p>
+        <p>John Stone  Southbury, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

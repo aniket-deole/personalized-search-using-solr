@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Purging Bloat To Fashion Sleek Software</title>
+    <meta content="18pogue" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/technology/18pogue.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819685"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Pogue, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Word Processing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Word Processing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E0D91130F93BA25752C0A9619C8B63" item-length="1394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Purging Bloat To Fashion Sleek Software</hl1>
+        <hl2 class="online_headline">Purging Bloat to Fashion Sleek Software</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+      <byline class="normalized_byline">Pogue, David</byline>
+      <abstract>
+        <p>David Pogue State of the Art column on latest version of Microsoft Word; says software maker stripped down program making it more streamlined and easier to use; changes may be difficult for users to get used to since program is so different; new features detailed; photo; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Life has a funny symmetry, don't you think? When you're born, you're short, toothless and bald. You spend the first part of your life gaining height, teeth and hair -- and the last part losing them again.</p>
+        <p>Believe it or not, Microsoft Office is following the same trajectory. (This might sound like the stretched analogy of the year, but bear with me.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After a radical redesign, Microsoft's Word, Excel and PowerPoint applications are almost totally new programs.</p>
+      </block>
+      <block class="full_text">
+        <p>Life has a funny symmetry, don't you think? When you're born, you're short, toothless and bald. You spend the first part of your life gaining height, teeth and hair -- and the last part losing them again.</p>
+        <p>Believe it or not, Microsoft Office is following the same trajectory. (This might sound like the stretched analogy of the year, but bear with me.)</p>
+        <p>Microsoft spent the first dozen years of Office's life piling on new features. Over time, the humble word processor called Word became a photo editor, a Web-design program and a dessert topping. Not one person in a hundred used those extra features. Still, we kept buying the upgrades, thanks to our innate fondness for unnecessary power (see also: S.U.V.'s).</p>
+        <p>Eventually, however, Microsoft Office developed a reputation for bloat and complexity. It was fully grown: tall, hairy and toothy.</p>
+        <p>So what did Microsoft do then? It began shrinking Microsoft Office. In fact, the chief sales point of Office 2007 (for Windows XP or Vista), which arrives on Jan. 30, is that it's simpler, it's more streamlined and its documents take up far less disk space.</p>
+        <p>After a radical redesign, Word, Excel and PowerPoint are almost totally new programs. There are no more floating toolbars; very few tasks require opening dialog boxes, and even the menu bar itself is gone. (Evidently, even Microsoft saw the need for a major feature purge. ''We had some options in there that literally did nothing,'' said Paul Coleman, a product manager.)</p>
+        <p>Instead, almost the entire world of formatting options has been dug out of Office's guts and artfully arranged on a top-mounted strip of controls called the Ribbon.</p>
+        <p>You no longer have to spend 20 minutes hunting through menus for Page Numbering or whatever. It's all right there on the Ribbon. What was once buried four layers deep is now arrayed before you in a big software smorgasbord.</p>
+        <p>Better yet, you can see how each formatting choice will affect your document -- a font, style or color change, let's say, or a slide design in PowerPoint -- just by pointing to a control without clicking. No Apply button, no thumbnail preview; your actual document changes temporarily and automatically. (Unfortunately, this doesn't work with chart styles in Excel.)</p>
+        <p>The bad news, of course, is that this Office bears very little resemblance to the one you may have spent years learning. Virtually everything has been moved around or renamed. Count on a couple of weeks of frustration as you play the free bonus game called Find the Feature.</p>
+        <p>The game is so challenging because the Ribbon changes. Its controls change depending on which of the seven permanent tabs you click at the top of the screen (Home, Insert, View, and so on). Still other Ribbons appear only when needed -- a graphics Ribbon appears, for example, when you click a picture in the document.</p>
+        <p>You're stuck with the tabs Microsoft gives you. You can't rearrange them or hide the ones you never use. Even if you never create form letters or write academic dissertations, the Mailings and References tabs will be there on the Ribbon forever, wasting space.</p>
+        <p>Nor is that the only loss of customization. Microsoft has also removed the ability to create custom toolbars stocked with the features, fonts or style sheets you use most. In Office 2007, the only thing you can customize is something called the Quick Access Bar: a tiny row of unlabeled icons, awkwardly jammed in above or below the Ribbon.</p>
+        <p>The second big disruptive change is the new file format. Microsoft, to its credit, hasn't touched the standard Word, Excel and PowerPoint file formats for 10 years. You never had to worry that your colleagues' Macs or PCs wouldn't be able to open your documents.</p>
+        <p>Now you do. The new file formats (.docx for Word, for example) are much more compact than the old ones, and they're also easier to recover from data corruption. But older versions of Office for Windows can't open them without a free converter (available at microsoftoffice.com). Office 2004 for Macintosh can't open them at all, although shareware and Web conversion utilities are available.</p>
+        <p>Fortunately, you can easily instruct your copy of Office 2007 to save its documents in the older format. In these turbulent transitional times, that might be a good idea.</p>
+        <p>The Ribbon reorg and new document formats are by far the most important changes in Office 2007. There are, of course, some other new features, especially in Word.</p>
+        <p>Word has always let you define style sheets: memorized sets of formatting characteristics -- for headings and captions, for example -- that you can apply with one click. Now, however, there are sets of coordinated styles. One click on Elegant or Formal, for example, impressively reformats all styles in an entire document.</p>
+        <p>What used to be called the File menu is still present in Word, Excel and PowerPoint, although it's now represented by the Office logo. Its submenus offer Quick Print, which prints one copy on your main printer -- no dialog boxes required. Excellent; how often, really, does the average person switch printers?</p>
+        <p>Other improvements: A zoom in/zoom out slider appears at the bottom of the window. The spelling checker now flags right spelling/wrong usage errors, as in, ''I need to loose 10 pounds.'' A Translation tool gives you instant, if imperfect, foreign-language translations.</p>
+        <p>You can now export a document as a PDF file. You can write blog entries that you then post directly to Blogger, TypePad or WordPress servers. A Document Inspector window lets you purge hidden text, comments or other elements that might give away corporate secrets in a document you're about to transmit.</p>
+        <p>Excel, the world's most popular spreadsheet, can now handle ridiculously large matrices of numbers (one million rows, 16,000 columns). Charts are fancier, and ''conditional formatting'' automatically applies color to cells whose numbers meet certain criteria. For example, cells in a temperature-tracking spreadsheet could show shades of blue for cold days, or reds and yellows for warmer ones.</p>
+        <p>As for Outlook, Microsoft's flagship e-mail/calendar program, the most significant change is Instant Search, which lets you pluck one informational needle from the haystack of e-mail, attachments, calendar appointments, addresses and to-do items -- fast. (The horribly sluggish Search from the old Outlook has, at long last, been taken out behind the barn and shot.)</p>
+        <p>Outlook can now subscribe to R.S.S. newsfeeds (free bulletins from blogs and news Web sites). No longer must your e-mail Inbox be your to-do list; you can drag any message directly onto the real To Do list. And -- praise be -- attached documents appear right in the body of your e-mail messages, in their full scrolling majesty.</p>
+        <p>In the beloved/behated slide-show program PowerPoint, in contrast, there's not much new apart from the Office-wide improvements. There is, however, a new tool for creating diagrams and flow charts, and slide libraries let you ''publish'' self-updating slides that you or others may want to use in other presentations.</p>
+        <p>Now then: If Office over all is simpler to use, its version matrix is not. There are eight versions. All include Word, Excel and PowerPoint; they differ only in the extras.</p>
+        <p>The $150 Home and Student edition, for example, also includes OneNote (a note-taking program). The Ultimate package ($680 -- ouch) includes Access (database), Accounting Express, InfoPath (electronic forms), Groove (collaboration ''workspaces''), Outlook and Publisher (page layout). You can also buy programs à la carte.</p>
+        <p>Over all, Office 2007 is much more pleasant to use than previous versions. Itseems to be the work of the New Microsoft, a company far more concerned with elegance, beauty and simplicity than the Old Microsoft. Little things like typography, choice of wording and on-screen feedback get more consideration in Office 2007 (and Windows Vista, which goes on sale to consumers the same day).</p>
+        <p>Still, switching will be a headache for Office veterans for weeks. You may gain productivity once you've made peace with the Ribbon, but until then, you'll spend a lot of time stumbling through the new layout.</p>
+        <p>Handy hint: Don't upgrade right before diving into an important project on deadline. In fact, for best results, don't buy until you've spent some time at microsoftoffice.com watching the tutorials and downloading the free trial versions.</p>
+        <p>By then, you'll realize the truth about the new Microsoft Office: It may not be quite as big and hairy as it once was -- but it's still got teeth.</p>
+        <p>STATE OF THE ART E-mail: Pogue@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Pogue@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

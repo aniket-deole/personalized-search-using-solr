@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where Protons Will Play</title>
+    <meta content="14supercollider.t" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="44" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/magazine/14supercollider.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818613"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Physics</classifier>
+        <classifier class="indexing_service" type="descriptor">Particle Accelerators</classifier>
+        <classifier class="indexing_service" type="descriptor">Large Hadron Collider</classifier>
+        <classifier class="indexing_service" type="descriptor">Protons</classifier>
+        <location class="indexing_service">Switzerland</location>
+        <location class="indexing_service">France</location>
+        <person class="indexing_service">Holt, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Switzerland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Switzerland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="descriptor">Physics</classifier>
+        <classifier class="online_producer" type="descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE5DF1530F937A25752C0A9619C8B63" item-length="827" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where Protons Will Play</hl1>
+        <hl2 class="online_headline">Where Protons Will Play</hl2>
+      </hedline>
+      <byline class="print_byline">By JIM HOLT</byline>
+      <byline class="normalized_byline">Holt, Jim</byline>
+      <abstract>
+        <p>Jim Holt article on what physicists hope to discover when Large Hadron Collider, now nearing completion on French-Swiss border, begins smashing protons; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On seeing the Alps for the first time, Dorothy Parker is reputed to have said, ''They're beautiful, but they're dumb.'' Near the foot of Mont Blanc, the greatest of the Alpine peaks, another sizable object is taking shape, also quite beautiful in its way, yet not at all dumb. In fact, its pristine geometries may be instrumental in revealing what have hitherto been some of nature's deepest secrets.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The new supercollider that is poised to shake up physics.</p>
+      </block>
+      <block class="full_text">
+        <p>On seeing the Alps for the first time, Dorothy Parker is reputed to have said, ''They're beautiful, but they're dumb.'' Near the foot of Mont Blanc, the greatest of the Alpine peaks, another sizable object is taking shape, also quite beautiful in its way, yet not at all dumb. In fact, its pristine geometries may be instrumental in revealing what have hitherto been some of nature's deepest secrets.</p>
+        <p>It is called the Large Hadron Collider, or L.H.C. for short. Its shell is a more or less circular tunnel, some 17 miles in circumference and buried several stories underground, that straddles the Franco-Swiss border. Within this tunnel, a sort of racetrack for protons is being created. (Protons are, of course, usually found in the nucleus of an atom; they are members of the ''hadron'' family of subatomic particles.) The L.H.C. is scheduled to be up and running by the end of this year. When it is, flocks of protons will be made to zip around the tunnel in opposite directions at nearly the speed of light. Then they will be forced to crash into each other, with (it is hoped) spectacular results for physics.</p>
+        <p>Physicists, you see, learn about the subatomic world by smashing things together and then looking at the debris. Imagine a midair collision between two watermelons; it would make quite a mess, but nothing very interesting would result. Suppose, though, you get two protons to collide head-on. If they are moving fast enough, the energy of their collision, converted into mass à la Einstein's E=mc2, will produce a shower of new particles. (It would be as if colliding watermelons splattered into a shower of pineapples, blueberries, mangoes and more exotic fruits.) Some of these particles will already be familiar to physicists. Others, though never before observed, might well have been hypothesized by one of the speculative theories that physicists busy themselves devising, hence giving us reason to think that a theory in question is true. Still others might come as a complete surprise, eliciting an amazed cry of ''Who ordered that?''</p>
+        <p>Although the Large Hadron Collider is a European project, a half-billion or so of the $8 billion price tag is being kicked in by the United States as an official ''observer.'' This might be seen as recompense for Congress's decision to cut off funds for a supercollider in 1993, leaving only a partly excavated hole in the ground in Waxahachie, Tex. Among the community of 7,000 experimenters working at the L.H.C. -- roughly half of the world's particle physicists, coming from some 80 countries -- the largest national contingent, numbering more than 700, will be American.</p>
+        <p>Physicists across the world are thrilled at the prospect of the Large Hadron Collider being turned on later this year, and not just because they look forward to skiing nearby in Chamonix. For the past generation, physics has been in something of a rut. There have been plenty of findings from smaller colliders, but the results have mostly been expected. To make further progress -- to understand why the basic forces of nature have such wildly varying strengths, or why elementary particles have the seemingly arbitrary masses they do, or how all these forces and particles fit together in a single mathematical framework -- data from higher realms of energy are needed. The L.H.C. should take physicists to those realms.</p>
+        <p>And what will they find there? At the very least, the violent proton collisions in the shadow of the Alps are expected to conjure into existence the all-important Higgs boson, a key to understanding not only the masses of the known elementary particles but also the early history of the universe. (Some pessimists fear that this is the only discovery the L.H.C. will result in. If so -- pas mal.) Then there are more exotic possibilities: quantum black holes (sound dangerous, evaporate quickly); ''dark matter'' particles; Kaluza-Klein particles that flit off into higher dimensions; particles like the gluino, the squark, the slepton and the wino (pronounced WE-no) -- which, though silly-sounding, could furnish badly needed evidence that there might be something to string theory. Beyond all that, there is the exciting chance that something utterly undreamed of will be found -- a not-uncommon occurrence when physicists ascend to new levels of energy.</p>
+        <p>Energy and beauty are deeply linked in contemporary physics. At the highest energies, like those immediately after the Big Bang, perfect symmetry prevails, and all the forces of nature merge into one. As the universe cooled down, this symmetry was broken in various ways, so the world we see around us is, as the Nobel laureate physicist Steven Weinberg has put it, ''only an imperfect reflection of a deeper and more beautiful reality.'' By reaching back toward the primordial energy, the L.H.C. promises to move us a little closer to that reality. This promise is bodied forth in the rounded, symmetrical forms of the collider itself -- next to which the Alps, for all their grandeur, look just a bit slovenly.</p>
+        <p>Jim Holt, a regular contributor, writes frequently about science.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Jim Holt, a regular contributor, writes frequently about science.</tagline>
+    </body.end>
+  </body>
+</nitf>

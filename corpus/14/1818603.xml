@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Typical Irish</title>
+    <meta content="Letters.t-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818603"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Clancy, Ambrose</person>
+        <person class="indexing_service">Iyer, Pico</person>
+        <person class="indexing_service">Toibin, Colm</person>
+        <object.title class="indexing_service">Mothers and Sons (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E1DA1430F937A25752C0A9619C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Typical Irish</hl1>
+      </hedline>
+      <abstract>
+        <p>Ambrose Clancy letter comments on Pico Iyer Dec 31 review of Colm Toibin book Mothers and Sons</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of Colm Toibin's ''Mothers and Sons'' (Dec. 31), Pico Iyer separates Toibin from the ''typical Irish writer, if you associate such with musical rhapsodies, loquaciousness or blarney.''</p>
+        <p>Typical? Who has he been reading? Jonathan Swift? Frank O'Connor? Elizabeth Bowen? Benedict Kiely? William Trevor? John McGahern? Not to mention Samuel Beckett, so I won't.</p>
+        <p>There's a long list of writers, many included in the Toibin-edited ''Penguin Book of Irish Fiction,'' who are spare in their music, blade-sharp and ruthlessly to the point.</p>
+        <p>Ambrose Clancy  Hampton Bays, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of Colm Toibin's ''Mothers and Sons'' (Dec. 31), Pico Iyer separates Toibin from the ''typical Irish writer, if you associate such with musical rhapsodies, loquaciousness or blarney.''</p>
+        <p>Typical? Who has he been reading? Jonathan Swift? Frank O'Connor? Elizabeth Bowen? Benedict Kiely? William Trevor? John McGahern? Not to mention Samuel Beckett, so I won't.</p>
+        <p>There's a long list of writers, many included in the Toibin-edited ''Penguin Book of Irish Fiction,'' who are spare in their music, blade-sharp and ruthlessly to the point.</p>
+        <p>Ambrose Clancy  Hampton Bays, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

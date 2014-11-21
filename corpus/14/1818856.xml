@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Corporate Director Who Plays Hardball</title>
+    <meta content="14suits-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818856"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Boards of Directors</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">Netsuite</org>
+        <person class="indexing_service">Beane, Billy</person>
+        <person class="indexing_service">Mcgeehan, Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3DA1330F937A25752C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Corporate Director Who Plays Hardball</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+      <abstract>
+        <p>NetSuite adds former major leauge baseball player Billy Beane to its board of directors; Beane is known for being tough in salary negotiations (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If Zach Nelson, the chief executive of NetSuite, hopes to be paid like a pro athlete, his company may have chosen the wrong baseball executive.</p>
+        <p>NetSuite, a small-business-software maker backed by Lawrence J. Ellison of Oracle, added Billy Beane, the former big-league baseball player who is now general manager of the Oakland Athletics, to its board this month.</p>
+      </block>
+      <block class="full_text">
+        <p>If Zach Nelson, the chief executive of NetSuite, hopes to be paid like a pro athlete, his company may have chosen the wrong baseball executive.</p>
+        <p>NetSuite, a small-business-software maker backed by Lawrence J. Ellison of Oracle, added Billy Beane, the former big-league baseball player who is now general manager of the Oakland Athletics, to its board this month.</p>
+        <p>Mr. Beane has signed multimillion-dollar contracts with some pitchers and shortstops, to be sure. But he is best known for his strategy of playing hardball in salary negotiations and squeezing the most out of players for the least money, which was the subject of ''Moneyball,'' a best-selling book by Michael Lewis.</p>
+        <p>PATRICK McGEEHAN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

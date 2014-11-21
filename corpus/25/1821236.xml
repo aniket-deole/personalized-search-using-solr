@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GARDEN Q. &amp; A.</title>
+    <meta content="25qna" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/garden/25qna.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821236"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="indexing_service" type="descriptor">Peonies</classifier>
+        <classifier class="indexing_service" type="descriptor">Burlap</classifier>
+        <person class="indexing_service">Land, Leslie</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E2DC163FF936A15752C0A9619C8B63" item-length="367" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GARDEN Q. &amp; A.</hl1>
+        <hl2 class="online_headline">Garden Q.&amp;A.</hl2>
+      </hedline>
+      <byline class="print_byline">By Leslie Land</byline>
+      <byline class="normalized_byline">Land, Leslie</byline>
+      <abstract>
+        <p>Garden Q&amp;A on when best to transplant peonies; explains that burlap does not protect plants from extreme cold; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Sarah Bernhardt Drama</p>
+        <p>Q. I know peonies should be moved in fall, but we are putting on an addition this spring, so I have no choice. Can you provide tips to help my beloved Sarah Bernhardts survive?</p>
+        <p>A. First the good news: if you can lift the peonies intact, with little or no root disturbance, you will avoid the major downside of spring transplanting.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Sarah Bernhardt Drama.</p>
+      </block>
+      <block class="full_text">
+        <p>A Sarah Bernhardt Drama</p>
+        <p>Q. I know peonies should be moved in fall, but we are putting on an addition this spring, so I have no choice. Can you provide tips to help my beloved Sarah Bernhardts survive?</p>
+        <p>A. First the good news: if you can lift the peonies intact, with little or no root disturbance, you will avoid the major downside of spring transplanting.</p>
+        <p>The bad news? Intact lifting is unlikely; soil almost always falls away, tearing delicate feeder roots. And old root balls are often so wide that only a bucket loader could lift them whole.</p>
+        <p>Fortunately, Sarah Bernhardt is a survivor, both as a variety and as a plant. Introduced in 1906, this late-blooming dark pink double does tend to flop, and it is often less fragrant than advertised. But it is wonderfully reliable and very long-lived. Plants will probably sulk for a year or two but should be fine after that.</p>
+        <p>Long-term health starts with a new bed large enough to give each plant plenty of breathing room. It should be in sunshine, with rich, loamy soil that drains well and has a pH near neutral.</p>
+        <p>If your soil is acid, add lime now. As soon as the ground can be worked, improve clay or sand with compost (up to a third of total volume), mixing it into the top 18 inches.</p>
+        <p>If plants are old and root-crowded, trim and divide. Otherwise, cut them as little as possible. Replant with growth buds no more than two inches below the surface.</p>
+        <p>Do not fertilize the first summer. Keep roots moist but not wet. In the unlikely event that you need replacements, sources include Adelman Peony Gardens, (503) 393-6185 or peonyparadise.com, and Hollingsworth Peony Nursery, (660) 562-3010 or hollingsworthpeonies.com.</p>
+        <p>Not-So-Cozy Burlap</p>
+        <p>Q. How does something as thin as burlap protect plants from freezing when temperatures sink to single digits?</p>
+        <p>A. It doesn't. Burlap is best for protecting against deer predation, salt spray, drying winter winds and sunburn. Where plants are right on the edge of their comfort zones, burlap can create an air buffer that provides crucial insulation. But it is powerless against extreme cold.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Landy, Astro and Beyond: Searching for the Right Signal</title>
+    <meta content="13card" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/13/crosswords/bridge/13card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818387"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Alder, Phillip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EFDB1330F930A25752C0A9619C8B63" item-length="545" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Landy, Astro and Beyond: Searching for the Right Signal</hl1>
+        <hl2 class="online_headline">Landy, Astro and Beyond: Searching for the Right Signal</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+      <abstract>
+        <p>Phillip Alder bridge column on options when opponent opens one strong no-trump; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If an opponent opens one strong no-trump, what are your partnership's intervening options?</p>
+        <p>You should concentrate on showing as many two-suiters as possible because that doubles your chances of finding a fit.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If an opponent opens one strong no-trump, what are your partnership’s intervening options?</p>
+      </block>
+      <block class="full_text">
+        <p>If an opponent opens one strong no-trump, what are your partnership's intervening options?</p>
+        <p>You should concentrate on showing as many two-suiters as possible because that doubles your chances of finding a fit.</p>
+        <p>In the old days, pairs would play Landy, which is like Stayman, a two-club overcall showing length in the majors. Overcalls of two diamonds, two hearts and two spades were natural. This permitted a pair to show three one-suiters and only one two-suiter -- clearly inefficient.</p>
+        <p>Astro was named more than 30 years ago after Paul Allinger, Roger Stern and Larry Rosler. A two-club overcall shows hearts and either minor; two diamonds promises spades and another suit; and two of a major is natural. The intervener can show two one-suiters and five two-suiters -- a marked improvement.</p>
+        <p>Nowadays, Cappelletti (Hamilton on the West Coast) enjoys considerable popularity. A two-club overcall shows any one-suiter. Two diamonds promises both majors. And two of a major indicates that major and either minor. With this, the intervener can show four one-suiters and five two-suiters -- even better.</p>
+        <p>Dont (disturb opponents' no-trump) was invented by Marty Bergen. Double announces any one-suiter. Overcalls of two clubs, two diamonds and two hearts show that suit and a higher-ranking suit. A two-spade overcall is natural but weaker than doubling first, then bidding two spades. Now you can show all four one-suiters and all six two-suiters below two no-trump -- the best. Dont's main drawback is its stressing of minors over majors. (With a major-minor two-suiter, you show your minor, not your major.)</p>
+        <p>Dont was being used by Joan Dziekanski (West) and Ira Herman (East) in the diagramed deal, which occurred during the Fast Pairs on Dec. 27 at the Edgar Kaplan Winter Regional in Midtown Manhattan. So West's double announced a one-suiter. If North had passed, East would have bid two clubs to ask for his partner's suit, and West would have passed. (This is an advantage over Cappelletti, when West would have to bid first two clubs, then three clubs over a two-diamond inquiry.)</p>
+        <p>North, though, ignored the double, showing with his transfer sequence the values for game and a five-card heart suit.</p>
+        <p>Now East made a well-timed penalty double. He had dummy's heart suit covered and a couple of clubs to help establish that suit, assuming it was his partner's.</p>
+        <p>What should West lead? If she had selected a club, declarer could have got out for down one with a good spade guess. But West, knowing from East's double that he had good hearts, led the heart eight. Now declarer was booked for at least down two. And when South, after taking the first trick with his heart king, made a natural misguess in spades, playing low to dummy's ten, he went down three. East won with his spade queen and returned the club ten, covered by the jack and queen. West led her second heart, declarer winning with the ace on the board and cashing his winners.</p>
+        <p>Plus 800 was worth 10.5 match points out of 11. In the two-session event, Dziekanski and Herman led at halftime but fell back to third, finishing behind Peter Weiden of New York and Richard Zucker of Dobbs Ferry, N.Y.; and William Ehlers of West Orange, N.J. and John Fout of New York.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

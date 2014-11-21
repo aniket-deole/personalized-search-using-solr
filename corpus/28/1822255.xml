@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Up Front</title>
+    <meta content="Upfront.t-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/books/review/Upfront.t-2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822255"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Mallon, Thomas</person>
+        <person class="indexing_service">Tomalin, Claire</person>
+        <person class="indexing_service">Hardy, Thomas (1840-1928)</person>
+        <object.title class="indexing_service">Thomas Hardy (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Mallon, Thomas</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E6DB1E30F93BA15752C0A9619C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Up Front</hl1>
+        <hl2 class="online_headline">Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By The Editors</byline>
+      <abstract>
+        <p>Book Review editors introduce Thomas Mallon review of Claire Tomalin book Thomas Hardy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The only really bold thing I've ever done,'' Thomas Mallon insisted in a recent telephone conversation, ''was to give up tenure at Vassar and start trying, in my mid-30s, to live the kind of life I might have had in my 20s.'' Although his aim was to be a novelist (his first, ''Arts and Sciences,'' was published in 1988; his seventh, ''Fellow Travelers,'' is due in May), it was literary journalism, not novel-writing, that set him free from the constraints of academic prose. Mallon's informed but accessible style, evident in his cover review of Claire Tomalin's biography of Thomas Hardy, has been a feature of his contributions to the Book Review, The New Yorker, The Atlantic Monthly and other publications for the past 20 years -- and in ''Doubting Thomas,'' the column he wrote for GQ magazine through much of the 1990s.</p>
+        <p>After a two-year stint with the National Endowment for the Humanities, Mallon has happily returned to civilian life in Washington, a city where a writer who isn't a political journalist, he explained, is viewed as ''slightly exotic.'' Even there he has found distinctly personal ways to make literature pay. When he first moved to Washington, he fixed his sights on an old house in Foggy Bottom, the neighborhood where his historical novel ''Two Moons'' is set. The owner, who had lovingly restored the place, was considering competing bids. ''Send her your book,'' urged Mallon's real estate agent, and that was that. He got the house, and the house got him: some crucial scenes of his new novel occur in the rooms he now calls home.</p>
+        <p>The Editors</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It was literary journalism, not novel-writing, that set Thomas Mallon free from the constraints of academic prose.</p>
+      </block>
+      <block class="full_text">
+        <p>The only really bold thing I've ever done,'' Thomas Mallon insisted in a recent telephone conversation, ''was to give up tenure at Vassar and start trying, in my mid-30s, to live the kind of life I might have had in my 20s.'' Although his aim was to be a novelist (his first, ''Arts and Sciences,'' was published in 1988; his seventh, ''Fellow Travelers,'' is due in May), it was literary journalism, not novel-writing, that set him free from the constraints of academic prose. Mallon's informed but accessible style, evident in his cover review of Claire Tomalin's biography of Thomas Hardy, has been a feature of his contributions to the Book Review, The New Yorker, The Atlantic Monthly and other publications for the past 20 years -- and in ''Doubting Thomas,'' the column he wrote for GQ magazine through much of the 1990s.</p>
+        <p>After a two-year stint with the National Endowment for the Humanities, Mallon has happily returned to civilian life in Washington, a city where a writer who isn't a political journalist, he explained, is viewed as ''slightly exotic.'' Even there he has found distinctly personal ways to make literature pay. When he first moved to Washington, he fixed his sights on an old house in Foggy Bottom, the neighborhood where his historical novel ''Two Moons'' is set. The owner, who had lovingly restored the place, was considering competing bids. ''Send her your book,'' urged Mallon's real estate agent, and that was that. He got the house, and the house got him: some crucial scenes of his new novel occur in the rooms he now calls home.</p>
+        <p>The Editors</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

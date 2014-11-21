@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="24trns" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821039"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E5DE163FF937A15752C0A9619C8B63" item-length="294" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  BOSTON RED SOX--Agreed to terms with RHP Brendan Donnelly on a one-year contract.  OAKLAND ATHLETICS--Traded RHP Kirk Saarloos and a player to be named to Cincinnati for RHP David Shafer and a player to be named.</p>
+        <p>National League  CINCINNATI REDS--Agreed to terms with INF Mark Bellhorn on a minor league contract.  LOS ANGELES DODGERS--Agreed to terms with RHP Rudy Seanez and INF Fernando Tatis on minor league contracts.  PHILADELPHIA PHILLIES--Agreed to terms with RHP Antonio Alfonseca on a one-year contract.  PITTSBURGH PIRATES--Agreed to terms with OF Luis Matos and INF Nick Green on minor league contracts.</p>
+        <p>N.B.A.</p>
+        <p>MINNESOTA TIMBERWOLVES--Fired Dwane Casey, coach. Named assistant coach Randy Wittman interim coach.  SACRAMENTO KINGS--Waived F Maurice Taylor.</p>
+        <p>N.F.L.</p>
+        <p>ARIZONA CARDINALS--Named Russ Grimm assistant head coach and offensive line coach.  CAROLINA PANTHERS--Named Jeff Davidson offensive coordinator and promoted Dave Magazu from tight ends coach to offensive line coach.  CLEVELAND BROWNS--Named Alfredo Roberts tight ends coach.  HOUSTON TEXANS--Named Jethro Franklin defensive line coach and Larry Kirksey wide receivers coach.  NEW ENGLAND PATRIOTS--Signed C Brian Barthelmes, P Danny Baugher, T Sean Bubin, RB Quadtrine Hill, TE Matt Kranchik, P Tom Malone, DL Santonio Thomas from practice squad.  PHILADELPHIA EAGLES--Named John Harbaugh secondary coach and Sean McDermott linebackers coach. Signed LB Jeremy Cain, LB Craig Kobel, LB Greg Richmond, WR Michael Gasperson, WR Jermaine Jamison, WR J.J. Outlaw, WR Bill Sampy, RB Antoine Bagwell, S Erick Harris, C Jasper Harvey, QB Jeff Mroz, FB Zack Tuiasosopo and TE Lee Vickers. Allocated Harris, Harvey, Jamison, Kobel and Outlaw to NFL Europe.</p>
+        <p>N.H.L.</p>
+        <p>SAN JOSE SHARKS--Assigned G Nolan Schaefer to Hershey of the AHL.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  BOSTON RED SOX--Agreed to terms with RHP Brendan Donnelly on a one-year contract.  OAKLAND ATHLETICS--Traded RHP Kirk Saarloos and a player to be named to Cincinnati for RHP David Shafer and a player to be named.</p>
+        <p>National League  CINCINNATI REDS--Agreed to terms with INF Mark Bellhorn on a minor league contract.  LOS ANGELES DODGERS--Agreed to terms with RHP Rudy Seanez and INF Fernando Tatis on minor league contracts.  PHILADELPHIA PHILLIES--Agreed to terms with RHP Antonio Alfonseca on a one-year contract.  PITTSBURGH PIRATES--Agreed to terms with OF Luis Matos and INF Nick Green on minor league contracts.</p>
+        <p>N.B.A.</p>
+        <p>MINNESOTA TIMBERWOLVES--Fired Dwane Casey, coach. Named assistant coach Randy Wittman interim coach.  SACRAMENTO KINGS--Waived F Maurice Taylor.</p>
+        <p>N.F.L.</p>
+        <p>ARIZONA CARDINALS--Named Russ Grimm assistant head coach and offensive line coach.  CAROLINA PANTHERS--Named Jeff Davidson offensive coordinator and promoted Dave Magazu from tight ends coach to offensive line coach.  CLEVELAND BROWNS--Named Alfredo Roberts tight ends coach.  HOUSTON TEXANS--Named Jethro Franklin defensive line coach and Larry Kirksey wide receivers coach.  NEW ENGLAND PATRIOTS--Signed C Brian Barthelmes, P Danny Baugher, T Sean Bubin, RB Quadtrine Hill, TE Matt Kranchik, P Tom Malone, DL Santonio Thomas from practice squad.  PHILADELPHIA EAGLES--Named John Harbaugh secondary coach and Sean McDermott linebackers coach. Signed LB Jeremy Cain, LB Craig Kobel, LB Greg Richmond, WR Michael Gasperson, WR Jermaine Jamison, WR J.J. Outlaw, WR Bill Sampy, RB Antoine Bagwell, S Erick Harris, C Jasper Harvey, QB Jeff Mroz, FB Zack Tuiasosopo and TE Lee Vickers. Allocated Harris, Harvey, Jamison, Kobel and Outlaw to NFL Europe.</p>
+        <p>N.H.L.</p>
+        <p>SAN JOSE SHARKS--Assigned G Nolan Schaefer to Hershey of the AHL.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

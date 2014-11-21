@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dow's Dogs Still Having Their Day</title>
+    <meta content="06values" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/06/business/06values.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816704"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MARKET VALUES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Dow Jones Industrial Average</classifier>
+        <person class="indexing_service">De Aenlle, Conrad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E7D71430F935A35752C0A9619C8B63" item-length="752" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dow's Dogs Still Having Their Day</hl1>
+        <hl2 class="online_headline">Dow’s Dogs Still Having Their Day</hl2>
+      </hedline>
+      <byline class="print_byline">By CONRAD DE AENLLE</byline>
+      <byline class="normalized_byline">De Aenlle, Conrad</byline>
+      <abstract>
+        <p>Market Values column discusses '10 Dogs' of Dow Jones industrial average; owning all 10 would have produced annualized total return of 5.5 percent since 1999, compared to only 3.3 percent of complete 30-stock index; companies are flawed in some way, making stocks inexpensive investments worth risk (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EVERY dog has its day, but the Dogs of the Dow have had their day for seven years. During that span, the Dogs -- the 10 stocks in the Dow Jones industrial average with the highest dividend yields at the end of each year -- have handily outperformed the index itself and other benchmarks of blue-chip stocks.</p>
+        <p>Owning the 10 Dogs in equal dollar amounts would have produced an annualized total return, share price appreciation plus dividends, of 5.5 percent since 1999, according to Dow Jones &amp; Company. The complete 30-stock index could manage only 3.3 percent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For the past seven years, the Dogs have handily outperformed the Dow itself and other benchmarks of blue-chip stocks.</p>
+      </block>
+      <block class="full_text">
+        <p>EVERY dog has its day, but the Dogs of the Dow have had their day for seven years. During that span, the Dogs -- the 10 stocks in the Dow Jones industrial average with the highest dividend yields at the end of each year -- have handily outperformed the index itself and other benchmarks of blue-chip stocks.</p>
+        <p>Owning the 10 Dogs in equal dollar amounts would have produced an annualized total return, share price appreciation plus dividends, of 5.5 percent since 1999, according to Dow Jones &amp; Company. The complete 30-stock index could manage only 3.3 percent.</p>
+        <p>The Dogs of the Dow are the sort of stocks that value investors covet. Despite the unflattering appellation, the Dogs are solid, long-established businesses that are selling at bargain prices and producing enough cash flow to have high dividend yields.</p>
+        <p>''These are companies that have been around for years,'' said James Huguet, president of Great Companies Funds, a Florida portfolio manager specializing in shares of large American businesses. ''You're buying them at a discount, and they're paying dividends, so it takes some of the risk out.''</p>
+        <p>The Dogs for 2007, in descending order of yield, are Verizon, Altria, AT&amp;T, Pfizer, Citigroup, Merck, General Motors, Dupont, J. P. Morgan and General Electric.</p>
+        <p>A refinement of the strategy is to buy just the five Dogs with the lowest share prices at the end of each year. Doing so would have raised the performance of a Dogs portfolio over the last seven years to an annualized return of 7.3 percent. The five lowest-priced Dogs for 2007, beginning with the cheapest, are Pfizer, G.M., AT&amp;T, G.E. and Verizon.</p>
+        <p>Many Dow Dogs, now or in any year, have something in common besides longevity and low valuations. They are flawed in some way, which is why they are cheap in the first place.</p>
+        <p>''These are companies that are in temporary trouble,'' said Pat Dorsey, research director at Morningstar. ''That is what the strategy is supposed to highlight. Sometimes they bounce back after a rough patch, sometimes management gains some I.Q. points, and sometimes it gets booted out.'' (A high yield can signal trouble because it sometimes results from a decline in the share price rather than an increase in the dividend.)</p>
+        <p>Mr. Huguet focused on the third possibility. Many of the companies that attain Dog status have been taken down the wrong path, he said. Share prices sink, forcing changes at the helm. The new broom begins sweeping around the time that the stocks would be added to a Dogs portfolio.</p>
+        <p>''A lot of the time when Dogs of the Dow that have been downtrodden suddenly come alive, it's because you have new management in there,'' he said. ''Earnings turn around, and because the stock is depressed, it can have a huge effect on the price.''</p>
+        <p>Mr. Huguet prefers to own fast growers rather than potential turnaround plays, so he is not a fan of the Dogs strategy. He does own a couple from this year's crop, though: Citigroup and J. P. Morgan.</p>
+        <p>Walter McCormick, lead manager of the Evergreen Fundamental Large Cap fund, also likes the two banks, along with the drug maker Pfizer and the food and tobacco producer Altria.</p>
+        <p>THIS year may be an especially good one for the Dogs, Mr. McCormick said. After the strong run turned in by many species of Dow stocks over the last few years, returns for the Dow industrial index may diminish, encouraging investors to put a premium on stocks with high dividend yields, he explained. ''You'll want the wind at your back,'' he said. ''If we have a year when returns are in the high single digits, you're halfway there with high-yielding stocks.''</p>
+        <p>Mr. Dorsey, at Morningstar, has mixed feelings about the Dogs. He, too, likes Citigroup, J. P. Morgan and Altria, calling them ''reasonably cheap.'' On the other hand, he considers G.M. and AT&amp;T ''ridiculously overvalued.''</p>
+        <p>He is shunning Merck, which is fending off lawsuits over its painkiller Vioxx, and has had good results in court, but not where it counts, he said. ''Merck has a terrible pipeline'' of new drugs, he said. ''That's what makes drug companies go.''</p>
+        <p>All in all, Mr. Dorsey finds the 2007 Dogs to be ''not a very inspiring group.'' Even so, he approves of the strategy because it may help to teach old investors a new trick.</p>
+        <p>''You're buying solid companies when they're down on their luck,'' he said. ''That's better than buying whatever was hot last year, as many investors do.''</p>
+        <p>MARKET VALUES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

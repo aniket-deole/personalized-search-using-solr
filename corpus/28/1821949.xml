@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Spree Must End</title>
+    <meta content="28alsmail-3" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821949"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="'AN AMERICAN CRIME'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Dauster, Jim</person>
+        <object.title class="indexing_service">American Crime, an (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E6D9163FF93BA15752C0A9619C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Spree Must End</hl1>
+      </hedline>
+      <abstract>
+        <p>Nick Dauster letter about Jan 14 article on making of film An American Crime</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Midwest Nightmare, Too Depraved to Ignore'' by Pat H. Broeske [Jan. 14]:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Midwest Nightmare, Too Depraved to Ignore'' by Pat H. Broeske [Jan. 14]:</p>
+        <p>Here comes yet another film that exploits a murder, this time a film involving Catherine Keener. Ms. Keener has turned in some admirable work with thought-provoking scripts and will no doubt do so in the future. But surely the time has come when we can say that there is enough brutalization in our cinema, that stories of people doing awful things to each other no longer break new ground. There are stories that can examine what is worst about us without forgetting what is best. One was written by an author whom Ms. Keener recently played in a film: Harper Lee.</p>
+        <p>Nick Dauster  Austin, Tex.</p>
+        <p>'AN AMERICAN CRIME'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Magic or Fool's Paradise?</title>
+    <meta content="30lett-2" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822629"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Superstitions</classifier>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <classifier class="indexing_service" type="descriptor">Luck</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Placebos</classifier>
+        <person class="indexing_service">Honda, Erik</person>
+        <person class="indexing_service">Newman, Martin</person>
+        <person class="indexing_service">Deffeyes, Kenneth S</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Luck</classifier>
+        <classifier class="online_producer" type="general_descriptor">Occult Sciences</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7D8143FF933A05752C0A9619C8B63" item-length="328" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Magic or Fool's Paradise?</hl1>
+      </hedline>
+      <abstract>
+        <p>Erik Honda letter on January 23 article about superstitions says that religious faith and superstition are not that different; Martin Newman letter suggests that superstitions can create powerful placebo effect on patients; Kenneth S Deffeyes letter holds that good luck rituals are common</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Do You Believe in Magic?'' (Jan. 23): Benedict Carey opined that superstitious habits ''have little to do with religious faith, which is much more complex,'' and that those whose magical thoughts blossom into delusion are a fundamentally different group.</p>
+        <p>But Mr. Carey also quoted a psychologist who noted that ''the point at which the culture withdraws support for belief in Santa and the Tooth Fairy is about the same time it introduces children to prayer.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Do You Believe in Magic?'' (Jan. 23): Benedict Carey opined that superstitious habits ''have little to do with religious faith, which is much more complex,'' and that those whose magical thoughts blossom into delusion are a fundamentally different group.</p>
+        <p>But Mr. Carey also quoted a psychologist who noted that ''the point at which the culture withdraws support for belief in Santa and the Tooth Fairy is about the same time it introduces children to prayer.''</p>
+        <p>Who among us does not feel that televangelists who tell us God will send a terrorist attack this year, or extremists who round up innocents and torture them, are ''fundamentally different'' from us?</p>
+        <p>Superstition, religion, self-defeating delusion and religious extremism are all part and parcel of the same problem: an irrational refusal to accept the world as it really is.</p>
+        <p>Erik Honda  San Francisco</p>
+        <p>To the Editor:</p>
+        <p>Of the six examples of magical thinking listed with the article's illustration, more investigation needs be done on ''I visualize my immune system destroying the bacteria. It goes away faster.''</p>
+        <p>This kind of thinking is second cousin to the placebo effect, which, as I understand it, works this way: ''This pill that I am taking is genuine and my body will respond to it as expected -- in curing my condition.''</p>
+        <p>The patient doesn't know that the pill was sugar, but because of the patient's belief, the cure resulted. It may not be magic, but it sure fits the article's description of magic.</p>
+        <p>Martin Newman  Los Angeles</p>
+        <p>To the Editor:</p>
+        <p>The article about magical thinking explains that a lot of otherwise rational people cling to good-luck rituals, particularly at times of stress. I have one that absolutely works.</p>
+        <p>When boarding an aircraft, for good luck I touch the outer skin of the plane. It's a skin-to-skin bonding ritual. It actually works; I have never been killed in an airplane crash.</p>
+        <p>Kenneth S. Deffeyes  Princeton, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="13btmcxns-2" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818490"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Assassinations and Attempted Assassinations</classifier>
+        <location class="indexing_service">Russia</location>
+        <person class="indexing_service">Frenkel, Aleksei Y</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assassinations and Attempted Assassinations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EED81330F930A25752C0A9619C8B63" item-length="37" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Jan 12 report misstated given name of banker arrested on suspicion of ordering killing of deputy of Russia's central bank; he is Aleksei Y Frenkel</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the World Briefing column on Friday misstated the given name of a banker arrested on suspicion of ordering the killing of the deputy of Russia's central bank. He is Aleksei Y. Frenkel, not Andrei.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the World Briefing column on Friday misstated the given name of a banker arrested on suspicion of ordering the killing of the deputy of Russia's central bank. He is Aleksei Y. Frenkel, not Andrei.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

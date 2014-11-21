@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Former Union Leader Sentenced</title>
+    <meta content="09mbrfs-5" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/nyregion/09mbrfs-union.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817682"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Sentences (Criminal)</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Crime</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Amalgamated Transit Union</org>
+        <org class="indexing_service">Genovese Crime Family</org>
+        <person class="indexing_service">Greenhouse, Steven</person>
+        <person class="indexing_service">Wood, Kimba M (Judge)</person>
+        <person class="indexing_service">Chiarovano, Ann</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Crime</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EFD61530F93AA35752C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Former Union Leader Sentenced</hl1>
+        <hl2 class="online_headline">Manhattan: Former Union Leader Sentenced</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVEN GREENHOUSE; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Greenhouse, Steven</byline>
+      <abstract>
+        <p>Federal Judge Kimba Wood sentences former Amalgamated Transit Union manager Ann Chiarovano to five months in prison for obstructing justice; union has been placed in trusteeship; union has been held to be under influence of Genovese crime family (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The former manager of a pension fund for New York City's main union of school bus drivers, who pleaded guilty last August to obstructing justice, was sentenced yesterday to five months in prison and five months of home confinement. Judge Kimba Wood of Federal District Court sentenced the former manager, Ann Chiarovano. The union, Local 1181 of the Amalgamated Transit Union, has been placed in trusteeship, and Salvatore Battaglia, its president, has pleaded not guilty to federal charges of extortion, bribery and cooperating with the Genovese crime family.</p>
+        <p>STEVEN GREENHOUSE</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The former manager of a pension fund for New York City’s main union of school bus drivers, who pleaded guilty last August to obstructing justice, was sentenced yesterday to five months in prison and five months of home confinement. Judge Kimba Wood of Federal District Court sentenced the former manager, Ann Chiarovano. The union, Local 1181 of the Amalgamated Transit Union, has been placed in trusteeship, and Salvatore Battaglia, its president, has pleaded not guilty to federal charges of extortion, bribery and cooperating with the Genovese crime family.</p>
+      </block>
+      <block class="full_text">
+        <p>The former manager of a pension fund for New York City's main union of school bus drivers, who pleaded guilty last August to obstructing justice, was sentenced yesterday to five months in prison and five months of home confinement. Judge Kimba Wood of Federal District Court sentenced the former manager, Ann Chiarovano. The union, Local 1181 of the Amalgamated Transit Union, has been placed in trusteeship, and Salvatore Battaglia, its president, has pleaded not guilty to federal charges of extortion, bribery and cooperating with the Genovese crime family.</p>
+        <p>STEVEN GREENHOUSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

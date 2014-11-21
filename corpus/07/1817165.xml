@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WIN-WIN SITUATION</title>
+    <meta content="07suits-5" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817165"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gambling</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Win-Win Gambling</org>
+        <org class="indexing_service">Junum Inc</org>
+        <person class="indexing_service">Coulter, David B</person>
+        <person class="indexing_service">Stein, Mark A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gambling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFD71430F934A35752C0A9619C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WIN-WIN SITUATION</hl1>
+      </hedline>
+      <byline class="print_byline">By MARK A. STEIN</byline>
+      <byline class="normalized_byline">Stein, Mark A</byline>
+      <abstract>
+        <p>Win-Win Gambling settles</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In its mission statement, the company says its executives are committed to a ''win-win'' for all parties involved in its business. But there is winning, and there is winning.</p>
+        <p>Win Win Gaming, a Las Vegas company that makes gambling software for cellphones in China, recently settled a wrongful-termination lawsuit filed by David B. Coulter, even though Mr. Coulter never worked for Win Win and the company never fired him.</p>
+      </block>
+      <block class="full_text">
+        <p>In its mission statement, the company says its executives are committed to a ''win-win'' for all parties involved in its business. But there is winning, and there is winning.</p>
+        <p>Win Win Gaming, a Las Vegas company that makes gambling software for cellphones in China, recently settled a wrongful-termination lawsuit filed by David B. Coulter, even though Mr. Coulter never worked for Win Win and the company never fired him.</p>
+        <p>Mr. Coulter was the chief executive of Junum Inc., a credit repair service that Win Win bought in a reverse takeover in 2002, primarily for its listing as a publicly traded company.</p>
+        <p>Mr. Coulter sued in California, saying Win Win unfairly forced him out of Junum while taking it over.</p>
+        <p>After fighting the lawsuit for almost four years, Win Win settled it just before the new year by agreeing to give Mr. Coulter $400,000, a list of credit-repair customers worth $2 million and options for 700,000 shares of Win Win stock.</p>
+        <p>MARK A. STEIN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

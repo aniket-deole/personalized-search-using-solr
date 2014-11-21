@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the Buzz of Club Activity, A Cluster of Singleton Queens</title>
+    <meta content="29card" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/crosswords/bridge/29card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822338"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Alder, Phillip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1DF143FF93AA15752C0A9619C8B63" item-length="453" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the Buzz of Club Activity, A Cluster of Singleton Queens</hl1>
+        <hl2 class="online_headline">In the Buzz of Club Activity, a Cluster of Singleton Queens</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+      <abstract>
+        <p>Phillip Alder bridge column on deal played at Greater New York Bridge Assn STaC; diagrams (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Players in duplicate tournaments win only master points, no prizes. And they strive to attain the rank of life master. You must gain 300 points, at least 50 being silver points, which can be won only in sectional tournaments. Earlier this month the Greater New York Bridge Association ran a ''STaC'' -- for Sectional Tournaments at Clubs -- week. These pair events were played simultaneously in the clubs across the city.</p>
+        <p>The diagramed deal was played Jan. 18, and it helped Justine Cushing and Barry Rigal of New York to second place behind Joan Hight and Phyllis Young, also of New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Players in duplicate tournaments win only master points, no prizes. And they strive to attain the rank of life master.</p>
+      </block>
+      <block class="full_text">
+        <p>Players in duplicate tournaments win only master points, no prizes. And they strive to attain the rank of life master. You must gain 300 points, at least 50 being silver points, which can be won only in sectional tournaments. Earlier this month the Greater New York Bridge Association ran a ''STaC'' -- for Sectional Tournaments at Clubs -- week. These pair events were played simultaneously in the clubs across the city.</p>
+        <p>The diagramed deal was played Jan. 18, and it helped Justine Cushing and Barry Rigal of New York to second place behind Joan Hight and Phyllis Young, also of New York.</p>
+        <p>When you uncover a good fit with your partner, the strength of your hand increases. There are two commonly used methods of evaluation. First, you can add points for short suits. Here each doubleton is worth one point, giving North a total of nine. This would suggest raising to two spades, with the intention of accepting a game-try by partner, or of competing to three spades if the opponents enter the auction.</p>
+        <p>Second, you can use the Losing Trick Count. You look at no more than the first three cards in every suit, counting one loser for each top honor missing. The North hand has eight losers: three spades, two hearts, one diamond and two clubs. This makes the hand worth a game-invitational raise to three spades, which was the bid chosen by Cushing. (Perhaps the best approach with a borderline hand is to underbid slightly in a pair event, where you do not push for thin games, but to overbid in a team event or Chicago, where you bid game with any excuse.)</p>
+        <p>A club, heart or high-spade start would have defeated four spades, but West had a natural diamond lead. (She was using Rusinow leads, so selected the jack, the second-highest of touching honors.)</p>
+        <p>Declarer immediately discarded two heart losers on dummy's top diamonds, then called for a club. East went up with his ace, cashed the heart ace and continued with the heart king. South ruffed, took his top trumps and club king, ruffed a club on the board (West discarded a diamond) and trumped a diamond in his hand to give this unusual finish:</p>
+        <p>When did you last see four singleton queens in a three-card end position?</p>
+        <p>South led his club jack, leaving West with no winning play. If she had ruffed, declarer would have crossruffed the last two tricks. If West had thrown the heart queen, declarer would have ruffed the club jack on the board and trumped a diamond in his hand. And when West pitched her diamond queen, South ruffed on the board and discarded his last club on the high diamond nine.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

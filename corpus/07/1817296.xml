@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At Colleges, Tradition Counts</title>
+    <meta content="07inbox-3" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817296"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <classifier class="indexing_service" type="descriptor">Mascots</classifier>
+        <classifier class="indexing_service" type="descriptor">Indians, American</classifier>
+        <org class="indexing_service">Dartmouth College</org>
+        <person class="indexing_service">Spence, James R Jr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mascots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indians, American</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DC1530F934A35752C0A9619C8B63" item-length="69" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At Colleges, Tradition Counts</hl1>
+      </hedline>
+      <abstract>
+        <p>James R Spence Jr letter contends that Dartmouth College is too sensitive about use of native american history for school mascots (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''With a Game at Dartmouth, Fighting Sioux Stir Debate,'' Dec. 29: With all due respect to the Dartmouth athletic director and the National Collegiate Athletic Association, and their sensitivity toward the use of American Indian names, mascots and imagery, has political correctness gotten out of hand? History and tradition should not continue to be dismissed as inconsequential.</p>
+        <p>James R. Spence Jr.  Williamsburg, Va.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''With a Game at Dartmouth, Fighting Sioux Stir Debate,'' Dec. 29: With all due respect to the Dartmouth athletic director and the National Collegiate Athletic Association, and their sensitivity toward the use of American Indian names, mascots and imagery, has political correctness gotten out of hand? History and tradition should not continue to be dismissed as inconsequential.</p>
+        <p>James R. Spence Jr.  Williamsburg, Va.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

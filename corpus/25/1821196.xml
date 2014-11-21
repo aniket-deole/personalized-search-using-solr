@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GOLDSMITH, ANN KORTLANG</title>
+    <meta content="dn012507" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821196"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GOLDSMITH, ANN KORTLANG</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E2D91F3AF936A15752C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GOLDSMITH, ANN KORTLANG</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOLDSMITH--Ann Kortlang of Patterson, NY, died peacefully in her sleep on January 21, 2007, at the age of 100. She is survived by her husband of 75 years, S. Delvalle Goldsmith; a son, Stephen Goldsmith; a daughter, Susan Deborah Goldsmith Franz; three grandchildren, Christopher Goldsmith, Elizabeth Brown and Ronald Franz; two greatgrandchildren, Stephanie and Alexander Brown. A graveside service was held on Wednesday at Maple Avenue Cemetery, Patterson, NY. Services under the guidence of Dwyer Funeral Home, Patterson, NY, 845-878-3161.</p>
+      </block>
+      <block class="full_text">
+        <p>GOLDSMITH--Ann Kortlang of Patterson, NY, died peacefully in her sleep on January 21, 2007, at the age of 100. She is survived by her husband of 75 years, S. Delvalle Goldsmith; a son, Stephen Goldsmith; a daughter, Susan Deborah Goldsmith Franz; three grandchildren, Christopher Goldsmith, Elizabeth Brown and Ronald Franz; two greatgrandchildren, Stephanie and Alexander Brown. A graveside service was held on Wednesday at Maple Avenue Cemetery, Patterson, NY. Services under the guidence of Dwyer Funeral Home, Patterson, NY, 845-878-3161.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

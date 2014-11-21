@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suffolk Seeks Ways to Ease School Taxes</title>
+    <meta content="14liweekLI-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818975"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Property Taxes</classifier>
+        <classifier class="indexing_service" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <location class="indexing_service">Suffolk County (NY)</location>
+        <person class="indexing_service">Saslow, Linda</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E1DE1030F937A25752C0A9619C8B63" item-length="345" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suffolk Seeks Ways to Ease School Taxes</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA SASLOW</byline>
+      <byline class="normalized_byline">Saslow, Linda</byline>
+      <abstract>
+        <p>Suffolk County Homeowners Tax Reform Commission releases report that recommends alternatives to property taxes to pay for schools, including taxes on cigarettes and on home sales above $1 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Taxes on cigarettes and on home sales above $1 million, as well as the introduction of video lottery terminals in Suffolk County, are among the recommendations of a commission created by the County Legislature to study alternatives to the current system of real estate taxation.</p>
+        <p>The 17-member Suffolk County Homeowners Tax Reform Commission released its report on Thursday.</p>
+      </block>
+      <block class="full_text">
+        <p>Taxes on cigarettes and on home sales above $1 million, as well as the introduction of video lottery terminals in Suffolk County, are among the recommendations of a commission created by the County Legislature to study alternatives to the current system of real estate taxation.</p>
+        <p>The 17-member Suffolk County Homeowners Tax Reform Commission released its report on Thursday.</p>
+        <p>William J. Lindsay, the presiding officer of the Legislature and a member of the commission, said school taxes had accounted for most of the increase in property taxes in recent years.</p>
+        <p>To generate new revenue in Suffolk County that would allow a reduction in real estate taxes, the commission recommended a local version of the state's income-based STAR program, to provide $150 million a year in tax relief to specified taxpayers.</p>
+        <p>The program, which is subject to approval by the State Legislature, would be financed by a mix of new local revenues -- including a $2-a-pack tax on cigarettes, which could generate an estimated $35.2 million annually for the county; a 1 percent tax on luxury homes ($36.2 million); and video lottery terminals at Suffolk OTB ($73.9 million).</p>
+        <p>Among recommendations for easing school taxes were making the state education-aid formula more equitable to Long Island and state financing for its educational mandates, not all of which it pays for now.</p>
+        <p>Steve Levy, the county executive, commended the panel for raising the profile of tax relief but had concerns about getting state approval for the proposals. ''The state is jealous about sharing its revenues with counties or schools,'' he said. ''My preference is to look at areas where we can control expenditures before seeking to raise more revenues.''</p>
+        <p>Mr. Levy has been working with county school districts to explore ways of sharing services. He said that ''can really make a difference in reducing costs.''</p>
+        <p>But Mr. Lindsay said, ''Tax relief is the No. 1 issue of the year, and I am cautiously optimistic about getting state legislation for the program.'' He said he would brief the Suffolk County delegation to the State Legislature on the proposal.</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

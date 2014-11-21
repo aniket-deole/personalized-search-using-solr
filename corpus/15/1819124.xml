@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="15correx-10" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819124"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Christmas</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Dmx (Co)</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christmas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6DB1030F936A25752C0A9619C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Dec 7, 2006, article about holiday music in retail stores and Jan 3, 2007, article about debate over playing music in restaurants misstated name of company that sells audio systems and programming to such businesses; it is DMX</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Thursday Styles on Dec. 7 about holiday music in retail stores and an article in Dining on Jan. 3 about the debate over playing music in restaurants misstated the name of a music consulting company that sells audio systems and programming to such businesses. It is DMX -- not Digital Music Express or Digital Music Xperience.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Thursday Styles on Dec. 7 about holiday music in retail stores and an article in Dining on Jan. 3 about the debate over playing music in restaurants misstated the name of a music consulting company that sells audio systems and programming to such businesses. It is DMX -- not Digital Music Express or Digital Music Xperience.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

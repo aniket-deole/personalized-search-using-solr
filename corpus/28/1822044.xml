@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Joy Chang, William Schaaf</title>
+    <meta content="28CHANG" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822044"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Chang, Joy Sandy</person>
+        <person class="indexing_service">Schaaf, William Sheehan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4DC173FF93BA15752C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Joy Chang, William Schaaf</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joy Sandy Chang, a daughter of Tzen-Yuan Chang and Loh-Yi Chang of Greenville, S.C., was married in Manhattan last evening to William Sheehan Schaaf, the son of Nora Schaaf and Homer D. Schaaf of New York. The Rev. Dr. Melvin Hawthorne, an ecumenical minister, officiated at the Yale Club of New York City.</p>
+        <p>Ms. Chang, 33, is keeping her name. She works in Manhattan as a director of brand merchandise development for fragrance, body care and cosmetics for Victoria's Secret Beauty. She graduated from Yale and has an M.B.A. from Harvard.</p>
+      </block>
+      <block class="full_text">
+        <p>Joy Sandy Chang, a daughter of Tzen-Yuan Chang and Loh-Yi Chang of Greenville, S.C., was married in Manhattan last evening to William Sheehan Schaaf, the son of Nora Schaaf and Homer D. Schaaf of New York. The Rev. Dr. Melvin Hawthorne, an ecumenical minister, officiated at the Yale Club of New York City.</p>
+        <p>Ms. Chang, 33, is keeping her name. She works in Manhattan as a director of brand merchandise development for fragrance, body care and cosmetics for Victoria's Secret Beauty. She graduated from Yale and has an M.B.A. from Harvard.</p>
+        <p>Her father retired as a research scientist in Greenville, S.C., for Michelin, the French tire company. Her mother is a math teacher at Camperdown Academy, a school for dyslexic children in Greenville.</p>
+        <p>Mr. Schaaf, also 33, is an associate in trusts and estates at Cadwalader, Wickersham &amp; Taft, the Manhattan law firm. He graduated from Haverford College and received his law degree from the University of Pennsylvania.</p>
+        <p>His mother is a volunteer English teacher at St. Ann's Episcopal Church in the South Bronx and at the Abyssinian Development Corporation in Harlem. His father is a partner in Sidley Austin, the Chicago law firm; he works out of its Manhattan office.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

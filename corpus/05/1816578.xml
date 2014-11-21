@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Happily N'Ever After</title>
+    <meta content="05roun-2" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816578"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Bolger, Paul J</person>
+        <person class="indexing_service">Gellar, Sarah Michelle</person>
+        <person class="indexing_service">Prinze, Freddie Jr</person>
+        <person class="indexing_service">Weaver, Sigourney</person>
+        <object.title class="indexing_service">Happily N'Ever After (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E0DB1430F936A35752C0A9619C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Happily N'Ever After</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews animated film Happily N'Ever After, directed by Paul J Bolger and featuring voices of Sarah Michelle Gellar, Freddie Prinze Jr and Sigourney Weaver; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today nationwide  Directed by Paul J. Bolger  87 minutes</p>
+        <p>Anyone who dismisses the ''Shrek'' movies as lowbrow junk should see ''Happily N'Ever After,'' a cartoon feature that apes those films' visuals, soundtrack choices and rude jokes, while throwing away their sweetness and conviction.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today nationwide  Directed by Paul J. Bolger  87 minutes</p>
+        <p>Anyone who dismisses the ''Shrek'' movies as lowbrow junk should see ''Happily N'Ever After,'' a cartoon feature that apes those films' visuals, soundtrack choices and rude jokes, while throwing away their sweetness and conviction.</p>
+        <p>Like Dreamworks' ogre comedies, ''Happily'' is a grab-bag parody set in a fantasyland derived from bedtime stories and Disney films. The adopted chambermaid Ella (voiced by Sarah Michelle Gellar, drawn like Winona Ryder) and the poor dishwasher Rick (Freddie Prinze Jr.) battle Ella's wicked stepmother, Frieda (Sigourney Weaver).</p>
+        <p>Frieda has seized control of the kingdom's Department of Fairytale-Land Security, a surveillance tower in which a wizard (George Carlin) and his hapless, runty, nonhuman minions (Andy Dick and Wallace Shawn) monitor the kingdom's continuing narratives (Rapunzel, Rumpelstiltskin, etc.).</p>
+        <p>That's a good setup. Unfortunately, the filmmakers are content to repeat fairy-tale tropes in a smug directorial voice. Worse, unlike ''Shrek'' -- which countered Disney's 19th-century aesthetic by insisting that morality defines beauty, not the other way around -- ''Happily'' regurgitates retrograde attitudes while pretending to criticize them.</p>
+        <p>Despite self-aware touches -- including Mr. Prinze's resentful, smart-aleck narration and a sight gag in which the film seems to slip free of its sprockets -- this is another tired kidsploitation product in which a wasp-waisted ingénue and a shallow beau (whose boy-band looks make him a redundant alternative to Patrick Warburton's predictably vain and oafish prince) drive the plot and live happily ever. The stepsisters are cardboard gold diggers, the stepmother a haughty shrew who's not fit to wield the wizard's magic staff.</p>
+        <p>Potentially lively backup characters -- kindly sous-chefs in toadstool-shape hats; bipedal wolves with ''Sopranos'' accents; plump butch witches on jet-propelled brooms -- get stuck with the usual options: Serve the pretty ones or get lost.</p>
+        <p>Root for the stepmom.</p>
+        <p>MATT ZOLLER SEITZ</p>
+        <p>''Happily N'Ever After'' is rated PG (Parental guidance suggested) for rude jokes and mild innuendo.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

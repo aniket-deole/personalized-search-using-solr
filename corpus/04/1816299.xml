@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A ThinkPad Tablet Tries to Finds Its Place in the Sun</title>
+    <meta content="04lenovo" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/technology/04lenovo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816299"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Lenovo Group</org>
+        <person class="indexing_service">Katz, Marty</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Lenovo Group</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E6D81730F937A35752C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A ThinkPad Tablet Tries to Finds Its Place in the Sun</hl1>
+        <hl2 class="online_headline">A ThinkPad Tablet Tries to Find Its Place in the Sun</hl2>
+      </hedline>
+      <byline class="print_byline">By MARTY KATZ</byline>
+      <byline class="normalized_byline">Katz, Marty</byline>
+      <abstract>
+        <p>Lenovo X602</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tablet PCs have not gained much traction in the marketplace, but Lenovo's latest may rev up the genre. The X60 ThinkPad Tablet has a 12-inch screen that flips around to fold flat, and it is brighter than usual, with a polarizing filter to cut glare -- perhaps for those who would walk in the sun while Web surfing. There is a stylus for writing on the touch screen, and its other end has an electronic eraser for quick deletions.</p>
+        <p>The X60 is now shipping with Windows XP but can be upgraded to Vista when it arrives at the end of the month. Prices start at $1,749 for a 3.8-pound model and go as high as $4,500 for the works, including an all-day eight-cell battery, which fattens it to 4.23 pounds. An expansion base with a CD-DVD drive comes with the tablet.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tablet PCs have not gained much traction in the marketplace, but Lenovo’s latest may rev up the genre.</p>
+      </block>
+      <block class="full_text">
+        <p>Tablet PCs have not gained much traction in the marketplace, but Lenovo's latest may rev up the genre. The X60 ThinkPad Tablet has a 12-inch screen that flips around to fold flat, and it is brighter than usual, with a polarizing filter to cut glare -- perhaps for those who would walk in the sun while Web surfing. There is a stylus for writing on the touch screen, and its other end has an electronic eraser for quick deletions.</p>
+        <p>The X60 is now shipping with Windows XP but can be upgraded to Vista when it arrives at the end of the month. Prices start at $1,749 for a 3.8-pound model and go as high as $4,500 for the works, including an all-day eight-cell battery, which fattens it to 4.23 pounds. An expansion base with a CD-DVD drive comes with the tablet.</p>
+        <p>The X60 communicates over all the current modes of Wi-Fi through an array of six antennas planted around the edges of the screen, catching a signal whatever way the tablet is held. When Wi-Fi isn't available, an optional cellular data modem can get you online if you sign up for an account.</p>
+        <p>MARTY KATZ</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

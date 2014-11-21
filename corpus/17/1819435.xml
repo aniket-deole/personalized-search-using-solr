@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ADDENDA</title>
+    <meta content="17addes" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819435"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Super Bowl</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <person class="indexing_service">Kramer, Louise</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Super Bowl</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E0D61030F934A25752C0A9619C8B63" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ADDENDA</hl1>
+      </hedline>
+      <abstract>
+        <p>Nielsen Media Research announces plans to change methods of measuring viewers of television commercials; will begin reporting six types of viewing data; more marketers are disclosing plans to buy commercial time during Super Bowl XLI (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nielsen Media Research, after months of debate, announced plans yesterday to change the way it measures viewership of television commercials. Advertisers use data from Nielsen to determine where they buy billions of dollars worth of TV commercial time each year.</p>
+        <p>As of May 31, Nielsen, part of the VNU Group, will begin to report six types of viewing data. In addition to the usual results from watching shows live, the data will measure viewership of shows played back on digital video recorders the same day they run; within a day of running; and within two, three and seven days.</p>
+      </block>
+      <block class="full_text">
+        <p>Nielsen Media Research, after months of debate, announced plans yesterday to change the way it measures viewership of television commercials. Advertisers use data from Nielsen to determine where they buy billions of dollars worth of TV commercial time each year.</p>
+        <p>As of May 31, Nielsen, part of the VNU Group, will begin to report six types of viewing data. In addition to the usual results from watching shows live, the data will measure viewership of shows played back on digital video recorders the same day they run; within a day of running; and within two, three and seven days.</p>
+        <p>In the past, advertisers have wanted to pay only for viewers who watch shows live. As DVR use rises, networks have sought to play up the value of commercials in shows watched after they are telecast, citing high DVR use for series like ''Grey's Anatomy'' and ''The Office.''</p>
+        <p>More marketers are disclosing plans to buy commercial time during Super Bowl XLI, to be broadcast Feb. 4 by CBS.</p>
+        <p>They include the American Honda Motor Company, with three commercials, all in the fourth quarter; Garmin, maker of G.P.S. navigation devices; Nationwide Insurance, with a humorous spot punctuated by a surprise ending playing upon the marital and career woes of the rapper Kevin Federline; and the Snickers candy bar sold by Mars.</p>
+        <p>The marketers join companies like Anheuser-Busch, CareerBuilder, GoDaddy and PepsiCo, which were previously announced as sponsors.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

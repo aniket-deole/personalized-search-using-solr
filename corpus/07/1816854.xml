@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SCHOOL SPIRIT; Rah, Rah, Rah (It's Protected)</title>
+    <meta content="colors" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/education/edlife/07colors.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816854"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BLACKBOARD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Trademarks and Trade Names</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <org class="indexing_service">University of Alabama</org>
+        <person class="indexing_service">Kahn, Jeremy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Trademarks and Trade Names</classifier>
+        <classifier class="online_producer" type="descriptor">Color</classifier>
+        <classifier class="online_producer" type="general_descriptor">Color</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trademarks and Trade Names</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E2DC1F31F934A35752C0A9619C8B63" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SCHOOL SPIRIT; Rah, Rah, Rah (It's Protected)</hl1>
+        <hl2 class="online_headline">School Spirit: Rah, Rah, Rah (It’s Protected)</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY KAHN</byline>
+      <byline class="normalized_byline">Kahn, Jeremy</byline>
+      <abstract>
+        <p>Colleges and universities are going to great lengths to protect their school colors; in one pending suit, Alabama has sued artist who, school claims, violated trademark, including its color scheme; other suits noted; photos (special section, Education Life) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THERE'S something about school colors -- that signature combination of greens, oranges, blues not to be found in nature -- that makes an alumnus tingle. Universities earn millions marketing school spirit, and they have become more vigilant, and litigious, about protecting what inspires it. That includes what is known in legal circles as ''trade dress,'' the distinctive combination of colors, abstract symbols and significant numbers -- founding years or even well-known win-loss records -- affiliated with a brand.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>School colors are now proprietary. If they’re so famous, can you name them? (A brief quiz)</p>
+      </block>
+      <block class="full_text">
+        <p>THERE'S something about school colors -- that signature combination of greens, oranges, blues not to be found in nature -- that makes an alumnus tingle. Universities earn millions marketing school spirit, and they have become more vigilant, and litigious, about protecting what inspires it. That includes what is known in legal circles as ''trade dress,'' the distinctive combination of colors, abstract symbols and significant numbers -- founding years or even well-known win-loss records -- affiliated with a brand.</p>
+        <p>Consider a shirt in scarlet and gray, the colors of Ohio State University, with the phrase ''Got Seven?'' on the front and, on the back, ''We do! 7 Time National Champs.'' Last summer, a federal court found the shirt's maker, Smack Apparel, responsible for trademark infringement and unfair competition. Smack was also held liable for co-opting lettering, phrases and color schemes associated with Louisiana State University, the University of Oklahoma and the University of Southern California.</p>
+        <p>''I think this is the first case of its kind where a court actually said school color combinations were protectable as trade dress,'' says Michael Drucker, vice president and associate general counsel at the Collegiate Licensing Company, which filed the case with the universities.</p>
+        <p>In one pending case, the University of Alabama shocked alumni by suing Daniel A. Moore, an artist who captures Alabama's storied gridiron greatness on canvas and reproduces the images on souvenirs. Alabama claims he violates the university's trademarks, including its famous color scheme.</p>
+        <p>Steven J. Wadyka Jr., an intellectual property lawyer at Greenberg Traurig in Virginia, expects more suits like this. ''Schools are becoming more proactive at protecting rights that are broader and more abstract than what was enforceable before,'' he says. Decades of promotion, marketing and television exposure, he notes, have made school colors an instantly recognizable trademark. School colors may be as varied as the rainbow, but to university marketing reps and lawyers, they all look the same: like the color of money.</p>
+        <p>JEREMY KAHN</p>
+        <p>BLACKBOARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

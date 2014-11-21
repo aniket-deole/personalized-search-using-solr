@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="22addes-3" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820716"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Interpublic Group of Cos</org>
+        <org class="indexing_service">Red Brick Road (Ad Agency)</org>
+        <org class="indexing_service">Tesco Plc</org>
+        <org class="indexing_service">Lowe &amp; Partners Worldwide</org>
+        <person class="indexing_service">Lowe, Frank</person>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DC1F30F931A15752C0A9619C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <abstract>
+        <p>Frank Lowe settles legal dispute with Interpublic Group of Companies; suit involved Lowe's opening of London agency Red Brick Road, whose first account was retail giant Tesco; Lowe is retired founder of Interpublic's Lowe &amp; Partners Worldwide (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frank Lowe, the retired founder of Lowe &amp; Partners Worldwide, part of the Interpublic Group of Companies, and Interpublic settled a legal dispute between them stemming from his opening a London agency, Red Brick Road, whose first account was a large Lowe client, the Tesco retail chain. Interpublic withdrew a claim against Mr. Lowe filed with the American Arbitration Association and he withdrew a lawsuit for defamation against Interpublic filed in New York State Supreme Court. Further terms of the settlement were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>Frank Lowe, the retired founder of Lowe &amp; Partners Worldwide, part of the Interpublic Group of Companies, and Interpublic settled a legal dispute between them stemming from his opening a London agency, Red Brick Road, whose first account was a large Lowe client, the Tesco retail chain. Interpublic withdrew a claim against Mr. Lowe filed with the American Arbitration Association and he withdrew a lawsuit for defamation against Interpublic filed in New York State Supreme Court. Further terms of the settlement were not disclosed.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

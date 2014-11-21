@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Popular Demand</title>
+    <meta content="01mostpopular" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815815"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MOST WANTED"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Encyclopedias</classifier>
+        <classifier class="indexing_service" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Wikipedia</org>
+        <person class="indexing_service">Freierman, Shelly</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6D71630F932A35752C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Popular Demand</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+      <byline class="normalized_byline">Freierman, Shelly</byline>
+      <abstract>
+        <p>Popular Demand column discusses links by bloggers to Wikipedia entries; some are sparked by new events while others are for Web-related topics; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some of the links by bloggers to entries in Wikipedia, an online encyclopedia, were sparked by news events, like the death of Steve Irwin and the ethics scandal involving former Representative Mark Foley, Republican of Florida, shown above in 2003.</p>
+        <p>Others, from a blogosphere of about 38 million blogs tracked by Nielsen BuzzMetrics, are for Web-related topics like Wiki, which refers to sites where visitors can edit content, and Web 2.0, second-generation Internet phenomena like social-networking sites.</p>
+        <p>SHELLY FREIERMAN</p>
+      </block>
+      <block class="full_text">
+        <p>Some of the links by bloggers to entries in Wikipedia, an online encyclopedia, were sparked by news events, like the death of Steve Irwin and the ethics scandal involving former Representative Mark Foley, Republican of Florida, shown above in 2003.</p>
+        <p>Others, from a blogosphere of about 38 million blogs tracked by Nielsen BuzzMetrics, are for Web-related topics like Wiki, which refers to sites where visitors can edit content, and Web 2.0, second-generation Internet phenomena like social-networking sites.</p>
+        <p>SHELLY FREIERMAN</p>
+        <p>MOST WANTED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

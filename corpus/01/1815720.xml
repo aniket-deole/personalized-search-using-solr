@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   CRAWFORD, PERRY JR.</title>
+    <meta content="dn010107" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815720"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">CRAWFORD, PERRY JR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E1DE1E3AF932A35752C0A9619C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   CRAWFORD, PERRY JR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CRAWFORD--Perry Jr., died at 89 on December 13th, 2006 after a brief illness. Beloved husband of the late Marguerite (Peggy) Murtagh, beloved father of Perry III, Betsey, Susan, Connie, and Ann. A founding member of the computer industry, his ''fearless and imaginative jumps into the future'' established the foundations for digital computing in 1942, contributed to Project Whirlwind, designed the SABRE System for American Airlines , foresaw danger as the industry deviated from ''accounting and engineering principles,'' and envisioned ''a whole new way of understanding'' for us all. Memorial services in Milwaukee in January (for family), and for friends and family in Croton-on-Hudson in the spring.</p>
+      </block>
+      <block class="full_text">
+        <p>CRAWFORD--Perry Jr., died at 89 on December 13th, 2006 after a brief illness. Beloved husband of the late Marguerite (Peggy) Murtagh, beloved father of Perry III, Betsey, Susan, Connie, and Ann. A founding member of the computer industry, his ''fearless and imaginative jumps into the future'' established the foundations for digital computing in 1942, contributed to Project Whirlwind, designed the SABRE System for American Airlines , foresaw danger as the industry deviated from ''accounting and engineering principles,'' and envisioned ''a whole new way of understanding'' for us all. Memorial services in Milwaukee in January (for family), and for friends and family in Croton-on-Hudson in the spring.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

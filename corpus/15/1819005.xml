@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   RING, MONIS M. ''MORRIS''</title>
+    <meta content="dn011507" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819005"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">RING, MONIS M. ''MORRIS''</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E1DF1F3AF936A25752C0A9619C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   RING, MONIS M. ''MORRIS''</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RING--Monis M. ''Morris''. Age 71, of San Diego, formerly of New Jersey and Massachusetts. Entered into rest January 12, 2007. Beloved son of the late Samuel and Helen(Poresky) Ring. Dear cousin of Betty Ravelson, Steven Ring, the late Louis and David Bedrick. Also survived by the Majeski family and his caregiver Troy Hollins. Graveside services will be held at Sharon Memorial Park, 120 Canton St., Sharon, MA, Friday, January 19 at 1:45pm. In lieu of flowers donations in memory of Morris may be made to a Charity of One's Choice.</p>
+      </block>
+      <block class="full_text">
+        <p>RING--Monis M. ''Morris''. Age 71, of San Diego, formerly of New Jersey and Massachusetts. Entered into rest January 12, 2007. Beloved son of the late Samuel and Helen(Poresky) Ring. Dear cousin of Betty Ravelson, Steven Ring, the late Louis and David Bedrick. Also survived by the Majeski family and his caregiver Troy Hollins. Graveside services will be held at Sharon Memorial Park, 120 Canton St., Sharon, MA, Friday, January 19 at 1:45pm. In lieu of flowers donations in memory of Morris may be made to a Charity of One's Choice.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Rogue Wave Hits Nissan</title>
+    <meta content="07NUGGETrogue" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817690"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E2DD1130F93AA35752C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Rogue Wave Hits Nissan</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE ULRICH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Sunday: 2008 Nissan Rogue</p>
+        <p>Is it real? Indisputably.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Sunday: 2008 Nissan Rogue</p>
+        <p>Is it real? Indisputably.</p>
+        <p>What's the point? It seems as if every brand but Nissan has a small crossover utility wagon. Enter the Rogue, Nissan's first appearance at a crowded party where the Honda CR-V, Ford Escape and Hyundai Santa Fe are already guests.</p>
+        <p>What they said: Taking a page from the VW Jetta playbook, Nissan will pitch the Rogue</p>
+        <p>to younger singles and recently married couples who are sliding down that slippery slope down from their partying days to responsible adulthood.</p>
+        <p>What they didn't say: While the Rogue looks like a strong contender in all other respects, it won't offer a V-6 engine, an option available in many competitors.</p>
+        <p>How much, how soon? It goes on sale in September as a 2008 model, starting around $20,000.</p>
+        <p>What makes it tick? The 2.5-liter four-cylinder engine produces 170 horsepower, which is directed to the wheels through a continuously variable transmission.</p>
+        <p>How's it look? With a family resemblance to the larger Infiniti FX and Nissan Murano, the Rogue seems to have more of a cute-ute appeal than a rebel streak.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

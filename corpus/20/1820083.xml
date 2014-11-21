@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CAMPUS PLAYBOOK</title>
+    <meta content="20tech" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820083"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COLLEGES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <person class="indexing_service">Litsky, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E4D81E30F933A15752C0A9619C8B63" item-length="428" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CAMPUS PLAYBOOK</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+      <abstract>
+        <p>Developments in college basketball discussed; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hokies' Ups and Downs</p>
+        <p>Virginia Tech can handle the highly ranked teams. It is the others that make life difficult.</p>
+      </block>
+      <block class="full_text">
+        <p>Hokies' Ups and Downs</p>
+        <p>Virginia Tech can handle the highly ranked teams. It is the others that make life difficult.</p>
+        <p>Two weekends ago, the Hokies defeated Duke, then ranked No. 5. Last weekend, they surprised North Carolina, then No. 1. But it has not all been easy; Virginia Tech lost, 82-73, at Florida State in an Atlantic Coast Conference game Wednesday.</p>
+        <p>''We have a good team,'' Seth Greenberg, the Virginia Tech coach, said in a telephone interview. ''But in this league everyone has a good team. You have to play at a very high level every night.''</p>
+        <p>The 23rd-ranked Hokies have experience, with five seniors and a junior who played regularly last season. Their record is 13-5 over all, 3-1 in the A.C.C. Their remaining games, starting against Maryland at home tomorrow, are all against conference opponents.</p>
+        <p>Virginia Tech's top scorer is Zabian Dowdell, who is averaging 18.4 points a game. Jamon Gordon, like Dowdell a 6-foot-3 senior guard, is averaging 12.8. Greenberg said of Gordon: ''He has started for four years. Sometimes you have to play freshmen, and you get them to play through their mistakes.''</p>
+        <p>Greenberg sees a tough road ahead.</p>
+        <p>''We're playing well now,'' he said. ''We're starting to figure it out.''</p>
+        <p>Closing In on a Record</p>
+        <p>For 40 years, Herb Magee has been coaching the men's basketball team at Division II Philadelphia University. Now, with an 826-322 record, he is days away from history.</p>
+        <p>The Division II record for coaching victories is held by Clarence Gaines, known as Big House, who won 828 games over 47 seasons at Winston-Salem State. Magee could surpass that total in the next week; Philadelphia (13-4) plays Felician today, Holy Family on Wednesday and Post next Saturday.</p>
+        <p>Philadelphia University is a private school with about 3,200 students. Magee comes from Philadelphia, where his high school backcourt mate was Jim Lynam, later the head coach of three N.B.A. teams.</p>
+        <p>Magee has coached his teams to 21 N.C.A.A. tournament appearances and a national championship in 1970. In addition, he has tutored N.B.A. players like Charles Barkley on shooting.</p>
+        <p>''It's a milestone and all that kinds of stuff,'' Magee said by telephone, ''but I'm focused on the season and trying to get us into the N.C.A.A. playoffs again. I'm going to get the record sooner or later. I think I can win three more games by the time I retire.''</p>
+        <p>When will that be?</p>
+        <p>''I'm 65,'' he said. ''I have no thoughts about retiring. You'll know when it's time. When the thrill is gone, it's time.''</p>
+        <p>FRANK LITSKY</p>
+        <p>COLLEGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

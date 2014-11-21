@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="28QNA" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1822286"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E4DA1F30F93BA15752C0A9619C8B63" item-length="376" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By ROGER COLLIS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I am planning a trip this May from Detroit to Nuuk in Greenland. Air Greenland serves Nuuk, via Copenhagen, but I hear that the carrier will start direct flights from Baltimore in May. I am unable to get confirmation of this from any source, including Air Greenland. If it is true, how do I book a flight? --Elsa M. Shartsis, Huntington Woods, Mich.</p>
+        <p>Air Greenland (www.airgreenland.com), Greenland's national airline, announced last summer plans for a new direct route from Baltimore-Washington International Airport to Kangerlussuaq, on Greenland's west coast. Updated information is now on the Web site.</p>
+      </block>
+      <block class="full_text">
+        <p>I am planning a trip this May from Detroit to Nuuk in Greenland. Air Greenland serves Nuuk, via Copenhagen, but I hear that the carrier will start direct flights from Baltimore in May. I am unable to get confirmation of this from any source, including Air Greenland. If it is true, how do I book a flight? --Elsa M. Shartsis, Huntington Woods, Mich.</p>
+        <p>Air Greenland (www.airgreenland.com), Greenland's national airline, announced last summer plans for a new direct route from Baltimore-Washington International Airport to Kangerlussuaq, on Greenland's west coast. Updated information is now on the Web site.</p>
+        <p>The flights will be offered in each direction every Friday beginning May 25; during the summer, June 11 to Aug. 20, flights are on Mondays as well. The restricted round-trip economy fare is $1,100; flexible economy, $1,600; and flexible business class, $2,600. Flights may be booked by sending an e-mail message to airgreenlandres@aviareps.com, or by calling (877) 245-0739 in North America.</p>
+        <p>You may want to consider a five-day package from Baltimore called ''Arctic Capital: Nuuk,'' with departures every Monday from June 11 to Aug. 20. The tour may be booked on the Air Greenland Web site or through other tour operators in the United States and Canada (see the Web site for contact information). Price per person in a double room is $3,075 (single room, $3,285). This includes round-trip economy fare from Baltimore to Nuuk (via Kangerlussuaq); one night at the Hotel Kangerlussuaq, with a welcome dinner and breakfast; three nights at Hotel Hans Egede in Nuuk, in a standard room, with breakfast; guide service; and all local taxes. Excursion options include a cruise to an ice fjord and a helicopter tour.</p>
+        <p>Other Air Greenland tours include five days based in Ilulissat, with a boat excursion through iceberg-filled waters and a four-day trip based in Kangerlussuaq to see a herd of musk ox, a glacier and the ice cap.</p>
+        <p>Alternatively, Air Greenland flies from Copenhagen to Kangerlussuaq or Narsarsuaq. Air Iceland (www.airiceland.is) flies from Reykjavik (Keflavik International Airport) in Iceland to Kulusuk, on the east coast (round-trip fare for dates in May are about $465) and on to Nuuk.</p>
+        <p>Icelandair (www.icelandair.com) flies from Baltimore-Washington to Reykjavik. Expect to pay about $930 for a round trip.</p>
+        <p>ROGER COLLIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

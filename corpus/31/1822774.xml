@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vista Arrives With Limited Fanfare</title>
+    <meta content="31vista" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/31/technology/31vista.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822774"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Peters, Jeremy W</person>
+        <person class="indexing_service">Crampton, Thomas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+        <person class="online_producer">Gates, Bill</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E7DF153FF932A05752C0A9619C8B63" item-length="816" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vista Arrives With Limited Fanfare</hl1>
+        <hl2 class="online_headline">Vista Arrives With Limited Fanfare</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS and THOMAS CRAMPTON; Cassi Feldman contributed reporting.</byline>
+      <byline class="normalized_byline">Peters, Jeremy W; Crampton, Thomas</byline>
+      <abstract>
+        <p>Microsoft launches Vista operating system with limited fanfare, signaling company's fading influence in computer technology marketplace; software may be last debut of its kind as customers shift to online applications; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Twelve years ago, Microsoft introduced a new operating system, Windows 95, in a frenzied global marketing blitz that was unlike anything the industry had ever seen.</p>
+        <p>But shortly after midnight yesterday, when Microsoft put its latest Windows successor, Vista, on sale, there was considerably less hoopla. The lights on the Empire State Building were not changed to hues of Microsoft red, yellow and green. The lines at stores were much shorter.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The quiet debut for Microsoft’s latest version of the Windows operating system reflects how the company’s influence has faded as the nature of computer software has changed.</p>
+      </block>
+      <block class="full_text">
+        <p>Twelve years ago, Microsoft introduced a new operating system, Windows 95, in a frenzied global marketing blitz that was unlike anything the industry had ever seen.</p>
+        <p>But shortly after midnight yesterday, when Microsoft put its latest Windows successor, Vista, on sale, there was considerably less hoopla. The lights on the Empire State Building were not changed to hues of Microsoft red, yellow and green. The lines at stores were much shorter.</p>
+        <p>In many ways, the change reflects how much Microsoft's influence in the computer technology marketplace has faded as the fortunes of rivals like Google and Apple have grown. In 1995, Google's founders, Larry Page and Sergey Brin, were barely out of college. Apple, meanwhile, was on the verge of thousands of job cuts amid rumors that it was a takeover target. Microsoft was the industry's feared and seemingly invincible top dog.</p>
+        <p>Few doubt that Vista will help drive sales of PCs and make Microsoft and others in the business of selling high-tech products tens of billions of dollars this year. But analysts say that the changing nature of computer software could make Vista the last big software debut of its kind.</p>
+        <p>That is because customers are shifting from buying programs out of the box to paying for updates online and using free programs like Gmail over the Internet.</p>
+        <p>''If there were a line, I would have been on there,'' said Joe Torres Jr., 54, a security guard who bought a Vista operating system for himself yesterday morning at a Best Buy store in Midtown Manhattan, along with a Hewlett-Packard laptop fitted with Vista as a Valentine's Day gift for a friend.</p>
+        <p>In Europe, where concerns about whether Vista violates antitrust rules have cast a pall over the software's debut, Microsoft's co-founder and chairman, Bill Gates, attended a low-key event in London at the British Library.</p>
+        <p>The legal problems that Microsoft faces in Europe pose perhaps an even greater challenge than Gmail or the iPod. The company faces fines of millions of dollars a day if the European Commission determines, in essence, that Microsoft has impeded rivals by making it difficult for them to design programs that work smoothly with Windows.</p>
+        <p>Mr. Gates's appearance began a four-day European tour that was to include stops in France, Hungary and Scotland. But his presentation before 100 journalists was a sharp contrast with the British release of Windows XP in 2001 at the Royal Festival Hall in London and a guest list that topped 1,000.</p>
+        <p>Despite the lack of excitement comparable to what Microsoft generated in 1995 and again in 2001, the company has said it expects sales of Vista to far surpass those of previous Windows products. With sales of PCs stronger than ever, there will be no lack of computers in need of a software upgrade.</p>
+        <p>But the growing pool of computer owners is actually one of Microsoft's biggest impediments. The company no longer enjoys the dominance it once did. And computer users are shifting to Internet-based versions of spreadsheet and e-mail programs that have been Microsoft staples.</p>
+        <p>If the diehard technophiles who lined up in Manhattan late Monday night were aware of Microsoft's troubles, they hardly showed it. Some started gathering at a CompUSA store on Fifth Avenue, which stayed open until 2 a.m. so it could start selling Vista and the companion upgrade of Microsoft's main suite of applications, Office 2007, at midnight. By the time the clock struck 12, about a hundred people were on hand.</p>
+        <p>The store's first Vista customer, Sable Fields, a 20-year-old broadcast journalism student at the New School, said she had not heard of the new operating system until Saturday, when she stopped at the store to shop for a computer. She decided to wait so she could get one with Vista installed -- and take advantage of a discount offered for the event.</p>
+        <p>As she made her purchase, she smiled politely, surrounded by photographers, reporters and bunches of blue and green balloons. ''I'll be up till 5 a.m. playing with it,'' she said.</p>
+        <p>By 12:40 a.m., most of the customers had gone.</p>
+        <p>About nine hours later at the Best Buy in Midtown, several Microsoft employees, store clerks and journalists on hand heavily outnumbered actual customers at a promotional event featuring Microsoft's chief executive, Steven A. Ballmer, who appeared with two Vista beta testers.</p>
+        <p>One customer from Long Island, 22-year-old Roberta Mayer, said she just happened to be in the store and had been unaware of the event. She and her brother, Rodolfo, 23, came to buy two Hewlett-Packard laptops with Vista but were not expecting to talk to CNN reporters and others about why they were shopping.</p>
+        <p>''I guess it's too much for a new computer program,'' Ms. Mayer said of the commotion around her. ''But it makes sense. People get a new thing, and they're excited about it.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Face, My Frizz</title>
+    <meta content="l23frizz" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820884"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hair</classifier>
+        <person class="indexing_service">Shovers, Barbara Goodman</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hair</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E0D91F30F930A15752C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Face, My Frizz</hl1>
+      </hedline>
+      <abstract>
+        <p>Barbara Goodman Shovers letter comments on Jan 18 article about frizzy and curly hair</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Taming Frizz and Setting Curls Free'' (Thursday Styles, Jan. 18):</p>
+        <p>For an awful lot of us in the frizzy hair club, my guess is the issue isn't our hair per se, but our facial features and complexions. For some aesthetic reason, angles (that is, straight hair) against a bulbous nose or blemished face draw attention away from the ''problem area'' while curls amplify it.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Taming Frizz and Setting Curls Free'' (Thursday Styles, Jan. 18):</p>
+        <p>For an awful lot of us in the frizzy hair club, my guess is the issue isn't our hair per se, but our facial features and complexions. For some aesthetic reason, angles (that is, straight hair) against a bulbous nose or blemished face draw attention away from the ''problem area'' while curls amplify it.</p>
+        <p>My suggestion, after years of trying to straighten a whole head of hair, is to just pay attention to the part that frames your face and be done with it.</p>
+        <p>Barbara Goodman Shovers  Toledo, Ohio, Jan. 18, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

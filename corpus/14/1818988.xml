@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tomlinson Seen in New Light</title>
+    <meta content="14inbox-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818988"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <org class="indexing_service">San Diego Chargers</org>
+        <person class="indexing_service">Zell, Ed</person>
+        <person class="indexing_service">Tomlinson, Ladainian</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EFDE1030F937A25752C0A9619C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tomlinson Seen in New Light</hl1>
+      </hedline>
+      <abstract>
+        <p>Ed Zell letter commends San Diego Chargers running back LaDainian Tomlinson (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''Links to Slavery and N.F.L. Star on a Hill in Texas,'' Dec. 7: The article was a unique look at the roots of the most refreshing professional football player to gain notice in many years, LaDainian Tomlinson.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''Links to Slavery and N.F.L. Star on a Hill in Texas,'' Dec. 7: The article was a unique look at the roots of the most refreshing professional football player to gain notice in many years, LaDainian Tomlinson.</p>
+        <p>San Diego residents know what he can do on the field as well as with his many charitable pursuits off the field. We didn't know about his early life, but we do now, and we're even more proud of our adopted son.</p>
+        <p>Ed Zell  San Diego</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

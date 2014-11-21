@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Addiction Treatment For Prisoners</title>
+    <meta content="l28conn-1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822226"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2DF143FF93BA15752C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Addiction Treatment For Prisoners</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I read your Jan. 14 editorial ''Anything but More Prisons,'' and while I wholeheartedly support your position, I question your statement that the ''Department of Correction gives addiction treatment to the vast majority of inmates.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I read your Jan. 14 editorial ''Anything but More Prisons,'' and while I wholeheartedly support your position, I question your statement that the ''Department of Correction gives addiction treatment to the vast majority of inmates.''</p>
+        <p>Before my retirement in 2003 after almost 30 years of service, I was a program manager for the Addiction Services Unit of the Connecticut Department of Correction. We need to be clear as to what constitutes addiction treatment.</p>
+        <p>While the Health and Addiction Services Unit indicates in its fiscal year 2005-06 report that some 20,000 inmates received services in a new Assessment and Orientation Program, this program consisted of only two sessions. That can hardly be called ''addiction treatment.''</p>
+        <p>Another level of services (Tier 1), which consists of nine sessions, served 2,700 offenders. The core treatment services, which last from 10 to 24 weeks (which can be considered ''addiction treatment''), served almost 3,600 sentenced offenders. Hardly a ''vast majority.''</p>
+        <p>Also, the 19,000 figure is a snapshot of the inmate population at any given time, and as such it fails to reflect the constant turnover of the pre-trial inmate population. A more accurate number would be annual admissions to the Department of Correction, which is probably at least 30,000 unofficially.</p>
+        <p>Frank B. Hall  Essex</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

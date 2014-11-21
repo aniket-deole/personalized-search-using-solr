@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | South: Tennessee: Man Killed In Building Collapse</title>
+    <meta content="27brfs-6" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/27/us/27brfs-collapse.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821840"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Building (Construction)</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <location class="indexing_service">Nashville (Tenn)</location>
+        <person class="indexing_service">Emery, Theo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Construction and Maintenance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee/Nashville</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E0D8173FF934A15752C0A9619C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | South: Tennessee: Man Killed In Building Collapse</hl1>
+        <hl2 class="online_headline">Tennessee: Man Killed in Building Collapse</hl2>
+      </hedline>
+      <byline class="print_byline">By THEO EMERY</byline>
+      <byline class="normalized_byline">Emery, Theo</byline>
+      <abstract>
+        <p>One construction worker is killed and another is injured when one-story building collapses in Nashville, Tenn (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One construction worker was killed and another injured when a one-story brick building collapsed in Nashville, the police said. The workers -- Richard Whiteshield, 57, of Clewiston, Fla., who was killed, and John Kemper of Hendersonville, Tenn., who was injured -- were part of a crew that was using a jackhammer to dig up a gas main to the building, which was being demolished, said Kristin Mumford, a spokeswoman for the Metropolitan Police Department. The building, in the city's Berry Hill neighborhood, had been closed for some time, said Kim Lawson, the deputy fire chief.</p>
+        <p>THEO EMERY</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One construction worker was killed and another injured when a one-story brick building collapsed in Nashville, the police said. The workers  Richard Whiteshield, 57, of Clewiston, Fla., who was killed, and John Kemper of Hendersonville, Tenn., who was injured  were part of a crew that was using a jackhammer to dig up a gas main to the building, which was being demolished, said Kristin Mumford, a spokeswoman for the Metropolitan Police Department. The building, in the city’s Berry Hill neighborhood, had been closed for some time, said Kim Lawson, the deputy fire chief.</p>
+      </block>
+      <block class="full_text">
+        <p>One construction worker was killed and another injured when a one-story brick building collapsed in Nashville, the police said. The workers -- Richard Whiteshield, 57, of Clewiston, Fla., who was killed, and John Kemper of Hendersonville, Tenn., who was injured -- were part of a crew that was using a jackhammer to dig up a gas main to the building, which was being demolished, said Kristin Mumford, a spokeswoman for the Metropolitan Police Department. The building, in the city's Berry Hill neighborhood, had been closed for some time, said Kim Lawson, the deputy fire chief.</p>
+        <p>THEO EMERY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

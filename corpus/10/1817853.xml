@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Bowl Game Delivers for Fox</title>
+    <meta content="10arts-5" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817853"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Fox Entertainment Group</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFDD1230F933A25752C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Bowl Game Delivers for Fox</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>Fox wins ratings for Monday night with broadcast of Bowl Championship Series title game (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bowl Championship Series title game ended badly for the top-ranked Ohio State Buckeyes on Monday, but it was a huge success for the Fox television network. According to Nielsen's time-zone-adjusted estimates, the football game dominated in every half-hour of the night, attracting 28.7 million viewers. Among adults 18 to 49, Fox posted its highest-rated Monday in three years. CBS ranked second for the night, aided by ''CSI: Miami'' at 10 (15.9 million) and its comedies in the 9 p.m. hour, ''Two and a Half Men'' (14.8 million) and ''The New Adventures of Old Christine'' (12.2 million). NBC was No. 2 in the 8 o'clock hour with ''Deal or No Deal'' (14 million), but its two repeats of ''Heroes'' finished last at 9 (5.7 million) and 10 (4.1 million). ABC's line-up of ''Wife Swap'' at 8 (8 million), ''Supernanny'' at 9 (8.1 million) and ''What About Brian'' at 10 (4.7 million) once again put the network in fourth place for the night in total viewers, but among adults 18 to 49, NBC lagged slightly behind it.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>The Bowl Championship Series title game ended badly for the top-ranked Ohio State Buckeyes on Monday, but it was a huge success for the Fox television network. According to Nielsen's time-zone-adjusted estimates, the football game dominated in every half-hour of the night, attracting 28.7 million viewers. Among adults 18 to 49, Fox posted its highest-rated Monday in three years. CBS ranked second for the night, aided by ''CSI: Miami'' at 10 (15.9 million) and its comedies in the 9 p.m. hour, ''Two and a Half Men'' (14.8 million) and ''The New Adventures of Old Christine'' (12.2 million). NBC was No. 2 in the 8 o'clock hour with ''Deal or No Deal'' (14 million), but its two repeats of ''Heroes'' finished last at 9 (5.7 million) and 10 (4.1 million). ABC's line-up of ''Wife Swap'' at 8 (8 million), ''Supernanny'' at 9 (8.1 million) and ''What About Brian'' at 10 (4.7 million) once again put the network in fourth place for the night in total viewers, but among adults 18 to 49, NBC lagged slightly behind it.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

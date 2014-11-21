@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Group Formed To Support Linux as Rival To Windows</title>
+    <meta content="22linux" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/technology/22linux.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820622"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Linux (Computer Operating System)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Linux</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Ibm Inc</org>
+        <org class="indexing_service">Intel Corp</org>
+        <org class="indexing_service">Hewlett-Packard Co</org>
+        <person class="indexing_service">Torvalds, Linus</person>
+        <person class="indexing_service">Lohr, Steve</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Linux (Computer Operating System)</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Linux (Computer Operating System)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E0DE1F30F931A15752C0A9619C8B63" item-length="620" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Group Formed To Support Linux as Rival To Windows</hl1>
+        <hl2 class="online_headline">Group Formed to Support Linux as Rival to Windows</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+      <abstract>
+        <p>Linux Foundation will help open-source software model leader Linux to compete more effectively against Microsoft; group backed by major technology companies like IBM, Intel and Hewlett-Packard will work to promote, protect and standardize freely-distributed software; Linux creator Linus Torvalds and other key programmers will receive salaries from foundation; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Linux, the free operating system, has gone from an intriguing experiment to a mainstream technology in corporate data centers, helped by the backing of major technology companies like I.B.M., Intel and Hewlett-Packard, which sponsored industry consortiums to promote its adoption.</p>
+        <p>Those same companies have decided that the time has come to consolidate their collaborative support into a new group, the Linux Foundation, which is being announced today. And the mission of the new organization is help Linux, the leading example of the open-source model of software development, to compete more effectively against Microsoft, the world's largest software company.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Major technology companies are consolidating their support into the Linux Foundation to help the operating system compete more effectively against Microsoft.</p>
+      </block>
+      <block class="full_text">
+        <p>Linux, the free operating system, has gone from an intriguing experiment to a mainstream technology in corporate data centers, helped by the backing of major technology companies like I.B.M., Intel and Hewlett-Packard, which sponsored industry consortiums to promote its adoption.</p>
+        <p>Those same companies have decided that the time has come to consolidate their collaborative support into a new group, the Linux Foundation, which is being announced today. And the mission of the new organization is help Linux, the leading example of the open-source model of software development, to compete more effectively against Microsoft, the world's largest software company.</p>
+        <p>''It's really a two-horse race now, with computing dominated by two operating-system platforms, Linux and Windows,'' said James Zemlin, executive director of the Linux Foundation. ''There are things that Microsoft does well in terms of promoting Windows, providing legal protection and standardizing Windows.''</p>
+        <p>He added that ''the things that Microsoft does well are things we need to do well -- to promote, protect and standardize Linux.''</p>
+        <p>In data centers, both Linux and Microsoft have benefited from the shift to data-serving computers powered by lower-cost microprocessors and other industry-standard hardware using personal computer technology. These machines, running Linux or Windows, have increasingly replaced more costly, proprietary hardware, typically running Unix operating systems.</p>
+        <p>That shift to industry-standard hardware has helped makers of personal computer chips like Intel and Advanced Micro Devices, and makers of PC-technology machines including Hewlett-Packard, I.B.M., Dell, NEC and Fujitsu.</p>
+        <p>Traditional rivals of Microsoft in the software business, including Oracle and I.B.M., have championed Linux to undermine an adversary and have tweaked their database and other software programs to run on Linux. Companies like Red Hat and Novell distribute Linux and charge companies for technical support and maintenance.</p>
+        <p>So while Linux is distributed free, a sizable market has grown up around it. The yearly sales of Linux-related hardware, software and services is more than $14.5 billion, according to estimates by IDC, a research firm.</p>
+        <p>The new Linux organization is ''a clear sign that we are going to continue to work together,'' said Daniel D. Frye, vice president for open systems development at I.B.M.</p>
+        <p>There is vigorous competition among companies in the market for hardware, software and services that work with Linux, Mr. Frye said. But collaboration is also essential to move Linux technology forward, he said, and avoid the kind of splintering of the marketplace that occurred in the 1980s, when different companies supported different versions of the Unix operating system.</p>
+        <p>The work of two other groups -- the Open Source Development Labs and the Free Standards Group -- will be folded into the Linux Foundation, and those organizations will no longer exist. Mr. Zemlin had been the head of the Free Standards Group.</p>
+        <p>Stuart F. Cohen, the chief executive of the Open Source Development Labs, said he was starting a new venture that would use the open-source development model to build software applications tailored for individual industries like financial services.</p>
+        <p>The Linux Foundation will pay salaries to Linus Torvalds, the creator of Linux, and a few other key Linux programmers. That support had previously come from the Open Source Development Labs.</p>
+        <p>In an e-mail message, Mr. Torvalds noted that some of the original reasons for forming the Open Source Development Labs six years ago, like ''helping companies come to grips with Linux and open source in general,'' had in large part been addressed.</p>
+        <p>Referring to the new organization, he said, ''The technical, legal and standards issues do seem to be part of a bigger whole.''</p>
+        <p>Mr. Torvalds said his role would not change. ''I work on the technology itself, not any of the other issues,'' he wrote. ''I literally just sit in my basement and do technical management. Nothing else.''</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

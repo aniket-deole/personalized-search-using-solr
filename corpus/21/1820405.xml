@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laurie Sternberg, Joshua Sherwin</title>
+    <meta content="21Sternberg" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/fashion/weddings/21Sternberg.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820405"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Sternberg, Laurie Jane</person>
+        <person class="indexing_service">Sherwin, Joshua Manning</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4DB1E30F932A15752C0A9619C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laurie Sternberg, Joshua Sherwin</hl1>
+        <hl2 class="online_headline">Laurie Sternberg, Joshua Sherwin</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Laurie Jane Sternberg and Joshua Manning Sherwin were married last evening at Max of Eastman Place, a restaurant in Rochester. Rabbi Harold Kudan, a cousin of the bride, officiated.</p>
+        <p>The bride, 36, is an associate at Kaye Scholer, the New York law firm. She graduated from Swarthmore and received a law degree from the University of Michigan.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Laurie Jane Sternberg and Joshua Manning Sherwin were married last evening at Max of Eastman Place, a restaurant in Rochester. Rabbi Harold Kudan, a cousin of the bride, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Laurie Jane Sternberg and Joshua Manning Sherwin were married last evening at Max of Eastman Place, a restaurant in Rochester. Rabbi Harold Kudan, a cousin of the bride, officiated.</p>
+        <p>The bride, 36, is an associate at Kaye Scholer, the New York law firm. She graduated from Swarthmore and received a law degree from the University of Michigan.</p>
+        <p>Her father, Dr. Lawrence B. Sternberg of Victor, N.Y., is an obstetrician and gynecologist who retired from Walsh, Robischon, Sternberg, a group practice in Rochester. He now works as a medical director in Victor for Maximus Federal Services, an organization that handles appeals made to the government's Medicare program. Her mother, Ellen S. Bevan of Pittsford, N.Y., is the director of advancement for the fund-raising arm of the Fairport Baptist Homes Caring Ministries, which operates a long-term elder care center in Fairport, N.Y.</p>
+        <p>The bridegroom, 37, is a senior financial analyst with the Federal Reserve Bank of New York, where he deals with mergers and acquisitions between banks and bank holding companies. He graduated from George Mason University and received a master's degree in international affairs from Columbia.</p>
+        <p>His mother, Anita Manning of Wilmington, Del., is a reporter there specializing in medical issues for USA Today. His father, Barry Sherwin of Media, Pa., is an independent computer programmer there.</p>
+        <p>The bridegroom's previous marriage ended in divorce.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

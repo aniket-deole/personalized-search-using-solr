@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PATH and NJ Transit to Test Debit-Card Payment System</title>
+    <meta content="07njweekNJ-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817253"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit and Money Cards</classifier>
+        <org class="indexing_service">Port Authority of New York and New Jersey</org>
+        <org class="indexing_service">New Jersey Transit</org>
+        <org class="indexing_service">Port Authority Trans-Hudson Corp</org>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E2DD1530F934A35752C0A9619C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PATH and NJ Transit to Test Debit-Card Payment System</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>Port Authority of New York and New Jersey and New Jersey Transit will begin reviewing bids from contractors interested in installing smart debit card payment systems in trains and buses (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In an effort to ease the commute for thousands who use PATH trains and New Jersey Transit buses, the agencies that run them will test a new payment system that automatically debits the fare with the wave of a credit card or a cellphone.</p>
+        <p>The Port Authority of New York and New Jersey and New Jersey Transit will begin reviewing bids this month from contractors interested in installing the smart card systems on trains and buses in Jersey City. A smart card works like an E-ZPass and functions like a regular credit or debit card but is embedded with a microchip that allows commuters to pass through turnstiles without inserting the card. The fare is debited from a bank account. The same system can be installed in cellphones, officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>In an effort to ease the commute for thousands who use PATH trains and New Jersey Transit buses, the agencies that run them will test a new payment system that automatically debits the fare with the wave of a credit card or a cellphone.</p>
+        <p>The Port Authority of New York and New Jersey and New Jersey Transit will begin reviewing bids this month from contractors interested in installing the smart card systems on trains and buses in Jersey City. A smart card works like an E-ZPass and functions like a regular credit or debit card but is embedded with a microchip that allows commuters to pass through turnstiles without inserting the card. The fare is debited from a bank account. The same system can be installed in cellphones, officials said.</p>
+        <p>If the program works in Hudson County, officials said, it could be expanded to other regions.</p>
+        <p>The system makes sense for transit lines that take a flat fare, but it is unlikely that it will be unveiled on New Jersey Transit train lines in the near future, said H. Charles Wedel, the chief financial officer. He said the logistics of using the system on a multizone or sliding-fare line needed to be worked out.</p>
+        <p>About 40 companies have expressed interest in bidding on the system, said Jeff Linton, the director of fare collection systems for New Jersey Transit. After the agencies pick a contractor, the system could be operational by this summer.</p>
+        <p>JOHN HOLL</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

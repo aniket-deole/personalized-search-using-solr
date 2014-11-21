@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tracking Outsourced Bonanzas</title>
+    <meta content="16tue2" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819253"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Privatization</classifier>
+        <classifier class="indexing_service" type="descriptor">Defense Contracts</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Halliburton Co</org>
+        <person class="indexing_service">Cheney, Dick (Vice Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privatization</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Defense Contracts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E4D91030F935A25752C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tracking Outsourced Bonanzas</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial calls on new Congress to investigate outsourcing of government programs to private contractors, highly lucrative practice that quietly ballooned by 86 percent, to $377 billion, during first five years of Bush administration; cites fantastic good fortune of Halliburton, Vice Pres Cheney's former company, whose contracts have increased 600 percent since Iraq war began</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The new Congress is promising far tighter oversight of Bush administration spending programs, and few targets are more in need of scrutiny and daylight than the outsourcing of government programs to private contractors. This highly lucrative world quietly ballooned by 86 percent -- to $377 billion annually -- during the first five years of the Bush administration, according to Congressional estimates. Outsourced spending, on Iraq, Katrina and other bonanzas, has grown twice as fast as other discretionary spending, according to Representative Henry Waxman, the California Democrat who is chairman of the oversight and reform committee.</p>
+        <p>Mr. Waxman is fairly itching to finally map the waste, fraud and abuse in private contracting that went largely ignored by the previous Republican Congress. Taxpayers should wish him well.</p>
+      </block>
+      <block class="full_text">
+        <p>The new Congress is promising far tighter oversight of Bush administration spending programs, and few targets are more in need of scrutiny and daylight than the outsourcing of government programs to private contractors. This highly lucrative world quietly ballooned by 86 percent -- to $377 billion annually -- during the first five years of the Bush administration, according to Congressional estimates. Outsourced spending, on Iraq, Katrina and other bonanzas, has grown twice as fast as other discretionary spending, according to Representative Henry Waxman, the California Democrat who is chairman of the oversight and reform committee.</p>
+        <p>Mr. Waxman is fairly itching to finally map the waste, fraud and abuse in private contracting that went largely ignored by the previous Republican Congress. Taxpayers should wish him well.</p>
+        <p>In a preliminary glimpse, 118 contracts worth $745 billion were found by government auditors to be rife with questionable award procedures, mismanagement, overcharging and skimpy to nonexistent oversight. Full inquiries and public hearings are vital if the rich and shadowy world of privatization is ever to be plumbed for the scandal it is nurturing. Taxpayers have only a vague notion of what's gone on, mainly through reporting on the fantastic good fortune of Halliburton, Vice President Dick Cheney's former company, whose contracts increased a whopping 600 percent across five years as the Iraq war costs cascaded. Not incidentally, privatization has been a cash cow in stirring campaign donations from successful contractors.</p>
+        <p>According to one recent audit reported in The Washington Post, among 49 privatized contracts, three out of five were awarded noncompetitively, lacked oversight, and raised questions of legality. What's been going on out there? This question cries out for an answer from the new Congress.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

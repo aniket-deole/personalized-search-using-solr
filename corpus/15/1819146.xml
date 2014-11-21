@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>London 'Rings' Cast Is Announced</title>
+    <meta content="16rings" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/theater/16rings.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819146"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <location class="indexing_service">London (England)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England/London</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <location class="online_producer">London (England)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E6DC1130F936A25752C0A9619C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>London 'Rings' Cast Is Announced</hl1>
+        <hl2 class="online_headline">London ‘Rings’ Cast Is Announced</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Shakespearean actor Malcolm Storry will play the role of the wizard Gandalf in the London production of the $25 million musical "The Lord of the Rings," the BBC reported.</p>
+        <p>Laura Michelle Kelly, an Olivier Award winner for her performance in the title role of "Mary Poppins" in London, has been cast as the powerful elf queen Galadriel.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Shakespearean actor Malcolm Storry will play the role of the wizard Gandalf in the London production of “The Lord of the Rings.”</p>
+      </block>
+      <block class="full_text">
+        <p>The Shakespearean actor Malcolm Storry will play the role of the wizard Gandalf in the London production of the $25 million musical "The Lord of the Rings," the BBC reported.</p>
+        <p>Laura Michelle Kelly, an Olivier Award winner for her performance in the title role of "Mary Poppins" in London, has been cast as the powerful elf queen Galadriel.</p>
+        <p>The show opened last year to unenthusiastic reviews in Toronto and is expected to be revised before it makes its London debut on June 19 at the Theater Royal, Drury Lane.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

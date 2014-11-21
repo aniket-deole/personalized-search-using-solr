@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Most Viewed Movie Reviews of 2006</title>
+    <meta content="2006mv-movies" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816623"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DC1130F936A35752C0A9619C8B63" item-length="33" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Most Viewed Movie Reviews of 2006</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>1. Borat  2. The DaVinci Code  3. Marie Antoinette  4. Superman Returns  5. Casino Royale  6. Basic Instinct 2  7. Apocalypto  8. Flags of Our Fathers  9. The Departed  10. Talladega Nights</p>
+      </block>
+      <block class="full_text">
+        <p>1. Borat  2. The DaVinci Code  3. Marie Antoinette  4. Superman Returns  5. Casino Royale  6. Basic Instinct 2  7. Apocalypto  8. Flags of Our Fathers  9. The Departed  10. Talladega Nights</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

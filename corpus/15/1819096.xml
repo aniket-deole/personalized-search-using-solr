@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>24-Hour Newspaper People</title>
+    <meta content="15carr" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/business/media/15carr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819096"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MEDIA EQUATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <person class="indexing_service">Klein, Mark MD</person>
+        <person class="indexing_service">Carr, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">New York Times</org>
+        <person class="online_producer">Carr, David</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E1DC1030F936A25752C0A9619C8B63" item-length="1129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>24-Hour Newspaper People</hl1>
+        <hl2 class="online_headline">24-Hour Newspaper People</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID CARR</byline>
+      <byline class="normalized_byline">Carr, David</byline>
+      <abstract>
+        <p>David Carr Media Equation column discusses role of blogs in changing media; Carr misses serial commenter Mark Klein, MD when he goes on vacation; finds that newspaper writers are more in touch with readers because of intimate nature of blogs and blog comments; notes obsessive quality of instant feedback; new form of media requires restraint to maintain journalistic integrity (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Like a lot of modern newspaper people, I have a blog.</p>
+        <p>For those of you who don't have a blog yet, think of one as a large yellow Labrador: friendly, fun, not all that bright, but constantly demanding your attention.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Having a blog makes me approachable, reader-friendly and engaged. Perhaps too engaged.</p>
+      </block>
+      <block class="full_text">
+        <p>Like a lot of modern newspaper people, I have a blog.</p>
+        <p>For those of you who don't have a blog yet, think of one as a large yellow Labrador: friendly, fun, not all that bright, but constantly demanding your attention.</p>
+        <p>Having a blog (mine, which happens to be about the Oscar race, is at carpetbagger.blogs.nytimes.com) makes me approachable, reader-friendly and engaged. Perhaps too engaged.</p>
+        <p>There is a serial commenter on my blog and others at The New York Times, ''Mark Klein, M.D.,'' an older, accomplished gentleman with a lot of opinions and time on his hands. He can be a bit of a crank, politically incorrect to the point of provocation, and yet he always writes as though we are friends.</p>
+        <p>And maybe we are. A week ago, he posted a note saying that he was traveling to Israel and that I wasn't to interpret his sudden silence as a sign that he'd lost interest in me. As if I cared.</p>
+        <p>Except that I did. I sort of missed him. I dropped him a note and then called him in Israel about being off the grid (in particular, my grid).</p>
+        <p>''It's nice to hear from you. I missed you too,'' he said, as if it were the most natural thing in the world.</p>
+        <p>''There is an intimacy to the exchange of electrons -- almost like an online romance -- that means you are a real person to me,'' he said. ''We were already having a conversation of sorts.''</p>
+        <p>Independent bloggers can laugh all they want about the imperious posture of the mainstream media, but I and others at The Times have never been more in touch with readers' every robustly communicated whim than we are today. Not only do I hear what people are saying, but I also care.</p>
+        <p>Sometimes I wonder whether I care to the point that I neglect other things, like, oh, my job. Tweaking the blog is seductive in a way that a print deadline never is. By the time I am done posting entries, moderating comments and making links, my, has the time flown. I probably should have made some phone calls about next week's column, but maybe I'll write about, ah, blogging instead.</p>
+        <p>''We are living through the largest expansion of expressive capability in the history of the human race,'' said Clay Shirky, an adjunct professor in the graduate interactive telecommunications program at New York University. ''And it wouldn't be a revolution if there were no losers. The speed of conversation is a part of what is good about it, but then some of the reflectiveness, the ability for careful summation and expression, is lost.''</p>
+        <p>Even as Mr. Shirky is saying this, I peek at the comments section of my blog, and he goes on, ''There is an obsessive, dollhouse pleasure in configuring and looking at it, a constant measure of social capital.''</p>
+        <p>There has always been a feedback loop in journalism -- letters to the editor, the phone and more recently e-mail messages. But a blog provides feedback through a fire hose. The nice thing about putting out a newspaper was that, at some point, the story was set and the writer got to go home. Now I have become a day trader, jacked in to my computer and trading by the second in my most precious commodity: me. How do they like me now? What about  now? Hmmmm  Now?</p>
+        <p>Josh Quittner, editor of Business 2.0 magazine, recently asked his writers to come up with blogs, and he writes his own. He decided to encourage them with (small) bonuses based on the number of visitors to their blogs, after one of his star reporters, Om Malik, left the magazine to tend to his own immensely popular blog. (Mr. Malik still contributes a column to the magazine.) ''I don't want that to happen here again,'' Mr. Quittner explained.</p>
+        <p>''We are having an amazing good time,'' he said, in the midst of a week when chatter about the new Apple phone was driving page views. ''It is like Pinocchio when they are caught in the belly of the whale and very hungry. They finally figure out they should drop a fishing line in and start hauling in all sorts of tuna.''</p>
+        <p>''One of the wrong turns that we have taken in journalism is that to give people information they want and need is somehow pandering,'' he said.</p>
+        <p>The desire to connect is a pure impulse, but it can lead to bad behavior on the part of writers. Sometimes, I feel a little lonely on my Oscar blog. The solution: I take a rhetorical baseball bat to a fan favorite, ''Borat,'' and hundreds of rabid commentators appear. Hey, I've got readers.</p>
+        <p>Web analytics -- that ugly term of art -- is changing newspapers, too. Here at The Times, the Most E-Mailed list on our Web site has gone from being an in-house curiosity to a measure of salience, as much as getting an article on the front page. The list can be wonderfully idiosyncratic -- last Friday, a six-month-old goof on using animal training on husbands (''What Shamu Taught Me About a Happy Marriage'') reappeared alongside Thomas Friedman's meditation on the president's plan to send more troops to Iraq.</p>
+        <p>But at some point, ratings (which print journalists, unlike their television counterparts, have never had to contend with) will start to impinge on news judgment. ''You can bemoan the crass decision-making driving by ratings, but you can't really avoid the fact that page views are increasingly the coin of the realm,'' said Jim Warren, co-managing editor of The Chicago Tribune.</p>
+        <p>So when that's the case, what happens to those other qualities, ''the reflectiveness, the ability for careful summation and expression,'' in Mr. Shirky's lovely phrase?</p>
+        <p>''The best thing about the Web -- you have so much information about how people use it -- is also the worst thing,'' said Jim Brady, executive editor of Washingtonpost.com. ''You can drive yourself crazy with that stuff. News judgment has to rule the day, and the home page cannot become a popularity contest.''</p>
+        <p>My personal referendum continues, albeit without Dr. Klein for the time being. When he returns home, he plans to test the waters for a presidential run on a platform of improved rights for noncustodial parents. That sounds like the kind of hobby that could cut into his time spent commenting on my blog. ''No, I don't think I'll stop,'' he said. ''I think if I am successful in running for the White House, I would continue to blog and comment.''</p>
+        <p>I can't help feeling a little pride. I could go on, but the results of the awards by the Broadcast Film Critics just came in at 1:17 a.m., and I need to update my blog. No time like the present.</p>
+        <p>THE MEDIA EQUATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

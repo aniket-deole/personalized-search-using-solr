@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Summers for Teenagers That Enhance Résumés</title>
+    <meta content="28transabroad" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel; Education" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/travel/28transabroad.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822278"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <org class="indexing_service">China Institute</org>
+        <org class="indexing_service">Global Leadership Institute</org>
+        <org class="indexing_service">Summer Advantage (Co)</org>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E5DA1F30F93BA15752C0A9619C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Summers for Teenagers That Enhance Résumés</hl1>
+        <hl2 class="online_headline">Summers for Teenagers That Enhance Résumés</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>New York-based China Institute, Global Leadership Adventures and Summer Advantage are offering tour packages this summer that give high school students chance to polish their resumes and leadership skills; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There was a time when teenagers could spend the summer doing nothing more challenging than working at a camp or filing papers at Dad's office and still get into Harvard. No more. Now they had better be polishing their résumés. Luckily, they can do it in places that give them a taste of adventure and offer a break from home.</p>
+        <p>The New York-based China Institute is offering high school students the chance to take intensive language classes this summer (July 10 to Aug. 13) while living with a host family in Beijing. Weekday four-hour Mandarin classes are complemented by after-class workshops (mask painting, calligraphy, martial arts), trips to heritage sites (the Forbidden City, the Great Wall and the Temple of Heaven) and community service projects. The cost of the trip is $6,000, including air fare; scholarships are available. The deadline for applications is March 2; www.chinasummerstudy.org.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Students can polish their résumés in places that give them a taste of adventure and offer a break from home.</p>
+      </block>
+      <block class="full_text">
+        <p>There was a time when teenagers could spend the summer doing nothing more challenging than working at a camp or filing papers at Dad's office and still get into Harvard. No more. Now they had better be polishing their résumés. Luckily, they can do it in places that give them a taste of adventure and offer a break from home.</p>
+        <p>The New York-based China Institute is offering high school students the chance to take intensive language classes this summer (July 10 to Aug. 13) while living with a host family in Beijing. Weekday four-hour Mandarin classes are complemented by after-class workshops (mask painting, calligraphy, martial arts), trips to heritage sites (the Forbidden City, the Great Wall and the Temple of Heaven) and community service projects. The cost of the trip is $6,000, including air fare; scholarships are available. The deadline for applications is March 2; www.chinasummerstudy.org.</p>
+        <p>Global Leadership Adventures is taking a group of teenagers to Fortaleza, in northern Brazil, from July 15 to Aug. 4, where they will learn Portuguese, experience cultural activities (capoeira dancing) and volunteer on projects like working in schools and day care centers. The application deadline is Feb. 28, and the trip costs $4,395, not including air fare; www.experiencegla.com.</p>
+        <p>In St. Petersburg, Russia, Summer Advantage is giving teenagers early college credit for Russian language classes. During the five-week trip (June 21 to July 29), students live mostly with a Russian family, take in local sights and visit Moscow for a weekend. The application deadline is April 1, and the cost is $5,995, including round-trip air fare from New York; www.summeradvantage.com.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

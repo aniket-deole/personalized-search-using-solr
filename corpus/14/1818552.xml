@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   RIZZO, FRANK A. M.D.</title>
+    <meta content="dn011407.1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818552"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">RIZZO, FRANK A. M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E7DF1F3AF937A25752C0A9619C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   RIZZO, FRANK A. M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RIZZO--Frank A. M.D. The Department of Neurology at the Mount Sinai School of Medicine regrets to announce the death of its esteemed colleague, Frank A. Rizzo, M.D. Dr. Rizzo received his undergraduate and medical degrees from the University of Michigan. After completing an internship at Henry Ford Hospital, he came to Mount Sinai Medical Center in 1965. He completed his Neurology residency in 1968 followed by a two-year neuro-endocrine fellowship. Dr. Rizzo served as Chief of Neurology at Jersey City Medical Center for two years (1969-1971) and then entered private practice, in affiliation with Mount Sinai, until his retirement in 2004. He was a great teacher and will be sorely missed.</p>
+      </block>
+      <block class="full_text">
+        <p>RIZZO--Frank A. M.D. The Department of Neurology at the Mount Sinai School of Medicine regrets to announce the death of its esteemed colleague, Frank A. Rizzo, M.D. Dr. Rizzo received his undergraduate and medical degrees from the University of Michigan. After completing an internship at Henry Ford Hospital, he came to Mount Sinai Medical Center in 1965. He completed his Neurology residency in 1968 followed by a two-year neuro-endocrine fellowship. Dr. Rizzo served as Chief of Neurology at Jersey City Medical Center for two years (1969-1971) and then entered private practice, in affiliation with Mount Sinai, until his retirement in 2004. He was a great teacher and will be sorely missed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

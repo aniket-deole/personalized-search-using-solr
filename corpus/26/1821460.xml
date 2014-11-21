@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trying to Get Inside the Lives Of Children in Urban Poverty</title>
+    <meta content="26wait" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/arts/television/26wait.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821460"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Genzlinger, Neil</person>
+        <person class="indexing_service">Sawyer, Diane</person>
+        <object.title class="indexing_service">20/20 (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <person class="online_producer">Sawyer, Diane</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFD7163FF935A15752C0A9619C8B63" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trying to Get Inside the Lives Of Children in Urban Poverty</hl1>
+        <hl2 class="online_headline">Trying to Get Inside the Lives of Children in Urban Poverty</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+      <abstract>
+        <p>Neil Genzlinger reviews segment Waiting on the World to Change, reported by Diane Sawyer on ABC News program 20/20 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's virtually impossible for a mainstream journalist, in print or on film, to explore poverty without sounding condescending, and it's certainly impossible for Diane Sawyer. Her treacliness works against the good intentions of ''Waiting on the World to Change,'' a ''20/20'' segment tonight on ABC that looks at some particularly impoverished young lives in Camden, N.J., one of the country's most distressed cities.</p>
+        <p>To the program's credit, it does discuss straightforwardly what makes Camden's plight particularly obscene: it's in an especially wealthy state and not far from a comfortable community called Moorestown that in 2005 was ranked by Money magazine as the nation's best place to live. But no feet are held to the fire over this discrepancy; Ms. Sawyer's contribution is to bring some Moorestown children together with the ones her crew has been following in Camden for an awkward-looking meet and greet.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“20/20” offers a respectable effort to get inside the lives of three young people in Camden, N.J., one of the country’s most distressed cities.</p>
+      </block>
+      <block class="full_text">
+        <p>It's virtually impossible for a mainstream journalist, in print or on film, to explore poverty without sounding condescending, and it's certainly impossible for Diane Sawyer. Her treacliness works against the good intentions of ''Waiting on the World to Change,'' a ''20/20'' segment tonight on ABC that looks at some particularly impoverished young lives in Camden, N.J., one of the country's most distressed cities.</p>
+        <p>To the program's credit, it does discuss straightforwardly what makes Camden's plight particularly obscene: it's in an especially wealthy state and not far from a comfortable community called Moorestown that in 2005 was ranked by Money magazine as the nation's best place to live. But no feet are held to the fire over this discrepancy; Ms. Sawyer's contribution is to bring some Moorestown children together with the ones her crew has been following in Camden for an awkward-looking meet and greet.</p>
+        <p>Such staged feel-good moments detract from a respectable effort to get inside the lives of three Camden young people. Ivan is a 4-year-old whose cheery personality contrasts sharply with his family's homelessness. Moochie is a slightly older girl whose home life is full of fighting and alcoholism. And Billy Joe, the most compelling of the three, is a driven young man trying to graduate from high school.</p>
+        <p>A documentary filmmaker could have applied some subtlety and told these stories with stark power. ''20/20'' instead chooses overkill, but a few vignettes that are allowed to speak for themselves carry considerable punch nonetheless. Moochie has to go to another town to trick-or-treat on Halloween; her own is too dangerous. Ivan, though he can count to three, is stumped at kindergarten by a question that is supposed to elicit that number as the answer: how many meals do you eat a day?</p>
+        <p>20/20  Waiting on the World to Change</p>
+        <p>ABC, tonight at 10, Eastern and Pacific times; 9, Central time.</p>
+        <p>David Sloan, executive producer; Diane Sawyer reports.</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

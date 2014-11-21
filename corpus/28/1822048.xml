@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alexandra Ostrow, Richard Bruskoff</title>
+    <meta content="28Ostrow" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822048"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Ostrow, Alexandra Hille (Alexandra Hille Bruskoff)</person>
+        <person class="indexing_service">Bruskoff, Richard Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E4DC173FF93BA15752C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alexandra Ostrow, Richard Bruskoff</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alexandra Hille Ostrow, the daughter of Marjorie Grossman and Eric B. Ostrow, both of New York, was married last evening to Richard Michael Bruskoff, the son of Ilene D. Helfand of Boca Raton, Fla., and Dr. Bruce Larry Bruskoff of Gladwyne, Pa. Rabbi Peter Rubinstein performed the ceremony at Central Synagogue in New York.</p>
+        <p>Mrs. Bruskoff, 30, is an early-childhood teacher at the Abraham Joshua Heschel School, a Jewish school in New York. She graduated from the University of Michigan and has an associate's degree in fashion design from the Fashion Institute of Technology and a master's in education from New York University.</p>
+      </block>
+      <block class="full_text">
+        <p>Alexandra Hille Ostrow, the daughter of Marjorie Grossman and Eric B. Ostrow, both of New York, was married last evening to Richard Michael Bruskoff, the son of Ilene D. Helfand of Boca Raton, Fla., and Dr. Bruce Larry Bruskoff of Gladwyne, Pa. Rabbi Peter Rubinstein performed the ceremony at Central Synagogue in New York.</p>
+        <p>Mrs. Bruskoff, 30, is an early-childhood teacher at the Abraham Joshua Heschel School, a Jewish school in New York. She graduated from the University of Michigan and has an associate's degree in fashion design from the Fashion Institute of Technology and a master's in education from New York University.</p>
+        <p>Her father retired as the president of Olde Dominion Textiles, fabric converters in Rock Hill, S.C. The bride's stepfather, Alan R. Grossman, is the president of ARG Realty Consultants, an real estate advisory and consulting firm in New York.</p>
+        <p>Mr. Bruskoff, 26, is an independent trader of natural gas, crude oil and other commodities on the New York Mercantile Exchange. He graduated from the University of Michigan.</p>
+        <p>His father, a podiatrist, is a partner in Pennsylvania Foot and Ankle Associates, a group practice which has four offices in Pennsylvania. He works in the Philadelphia office and is also the chief of foot and ankle surgery at Jeanes Hospital there, a part of the Temple University Health System.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

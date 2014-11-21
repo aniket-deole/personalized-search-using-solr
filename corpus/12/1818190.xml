@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nuclear Past and Present</title>
+    <meta content="12letters" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818190"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <person class="indexing_service">Porter, Jeff</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E4D61230F931A25752C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nuclear Past and Present</hl1>
+      </hedline>
+      <abstract>
+        <p>Jeff Porter letter on January 5 article about visiting Atomic Age sites</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: If you lack time for the atomic tourism described in ''Strange Love'' (Jan. 5), you can use Google to see satellite photos of decommissioned B-52s at the Boneyard at Davis-Monthan Air Force Base in Tucson. Like Roman ruins, the once formidable planes are a shell of their former selves, their sawed-off fuselages lying sadly in the dust. What used to be terrifying has somehow become poignant, as if a great epoch had ended. I suppose we can find cathartic relief in the mummification of a Titan II missile, but this may be cold comfort. The United States has spent more than $5 trillion on nuclear weapons since 1940, and judging from the current administration's Nuclear Posture Review, which was made public in 2002 and calls for a complete revitalization of the country's nuclear infrastructure, this spending is far from done. Don't be fooled by moth balls. Old nukes are like old rock stars -- they never go away.</p>
+        <p>Jeff Porter  Iowa City</p>
+        <p>The writer's book, ''Oppenheimer Is Watching Me,'' is to be published this year by the University of Iowa Press.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: If you lack time for the atomic tourism described in ''Strange Love'' (Jan. 5), you can use Google to see satellite photos of decommissioned B-52s at the Boneyard at Davis-Monthan Air Force Base in Tucson. Like Roman ruins, the once formidable planes are a shell of their former selves, their sawed-off fuselages lying sadly in the dust. What used to be terrifying has somehow become poignant, as if a great epoch had ended. I suppose we can find cathartic relief in the mummification of a Titan II missile, but this may be cold comfort. The United States has spent more than $5 trillion on nuclear weapons since 1940, and judging from the current administration's Nuclear Posture Review, which was made public in 2002 and calls for a complete revitalization of the country's nuclear infrastructure, this spending is far from done. Don't be fooled by moth balls. Old nukes are like old rock stars -- they never go away.</p>
+        <p>Jeff Porter  Iowa City</p>
+        <p>The writer's book, ''Oppenheimer Is Watching Me,'' is to be published this year by the University of Iowa Press.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

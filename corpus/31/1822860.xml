@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MUSSINA'S ADVICE FOR PAVANO</title>
+    <meta content="31base-1" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822860"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Schmidt, Michael S</person>
+        <person class="indexing_service">Pavano, Carl</person>
+        <person class="indexing_service">Mussina, Mike</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EFDE153FF932A05752C0A9619C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MUSSINA'S ADVICE FOR PAVANO</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+      <byline class="normalized_byline">Schmidt, Michael S</byline>
+      <abstract>
+        <p>New York Yankees pitcher Mike Mussina says that fellow pitcher Carl Pavano needed to earn trust of organization after not pitching for more than one year (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mike Mussina had stern advice for a fellow Yankees pitcher yesterday while also offering some armchair psychological analysis for a teammate who had just left New York.</p>
+        <p>Speaking with reporters at the Thurman Munson Awards Dinner in Manhattan, Mussina said that Carl Pavano, who has not pitched in more than a year because of injuries, needed to re-earn the ''trust'' of the organization.</p>
+      </block>
+      <block class="full_text">
+        <p>Mike Mussina had stern advice for a fellow Yankees pitcher yesterday while also offering some armchair psychological analysis for a teammate who had just left New York.</p>
+        <p>Speaking with reporters at the Thurman Munson Awards Dinner in Manhattan, Mussina said that Carl Pavano, who has not pitched in more than a year because of injuries, needed to re-earn the ''trust'' of the organization.</p>
+        <p>''I think he has to pitch and do his job and be the guy again,'' Mussina said. ''He needs to earn the trust from the players, the coaches, the manager and the organization.''</p>
+        <p>Pavano has been criticized for not taking his rehabilitation from various injuries seriously, and for lacking the drive to pitch after signing a four-year, $40 million contract before the 2005 season.</p>
+        <p>Mussina added, ''We know he can pitch.''</p>
+        <p>Mussina said that Randy Johnson, whom the Yankees traded to Arizona this off-season after two uneven years in New York, let the scrutiny of the city's news media affect his play. Johnson, Mussina said, ''didn't seem to like pitching in New York a whole lot and wore it on his sleeve.''</p>
+        <p>''He got a bad taste in his mouth and didn't adjust to it,'' Mussina said. ''He had two tough years with what he thought was O.K. and everyone else didn't.</p>
+        <p>''As poorly as he pitched, he still won 17 games.''</p>
+        <p>MICHAEL S. SCHMIDT</p>
+        <p>BASEBALL: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

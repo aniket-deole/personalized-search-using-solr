@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TODAY IN BUSINESS</title>
+    <meta content="22biztoday" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820628"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EFDE1F30F931A15752C0A9619C8B63" item-length="421" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TODAY IN BUSINESS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DRUG ADS UNDER SCRUTINY -- Drug advertising aimed at consumers is likely to face hard scrutiny in the new Congress as it considers renewal of a law renewing the fees that manufacturers pay to speed reviews of new drugs. The pharmaceutical industry wants to add new fees to pay for federal evaluation of consumer drug ads before they are shown on television. [Page C1.]</p>
+        <p>NOT READY FOR THE CLOSE-UP -- Pornographic movie studios, trying to stay ahead of the technology curve by releasing high-definition DVDs, have found that the format accentuates physical imperfections in the actors, which is not so sexy. [C1.]</p>
+        <p>OUTCRY OVER MIXTAPES -- A raid last week on the studio of DJ Drama, a prominent producer of rap music mixtapes, and his arrest on racketeering charges highlight the recording industry's awkward relationship with mixtapes, long an integral element of rap culture. [C1.]</p>
+        <p>LOWEST FARE, GUARANTEED -- Farecast, the Internet start-up that predicts ticket prices for air travelers, is preparing to introduce a service that guarantees that an airfare listed on the site will remain valid for a week, according to its chief executive, Hugh Crean, above. E-Commerce Report. [C10.]</p>
+        <p>MY EDITOR RECOMMENDS  Advertising specialists say that journalists' reputations for accuracy and honesty recommend them as product endorsers -- at least for campaigns aimed at an audience of a certain age. Advertising: Stuart Elliott. [C5.]</p>
+        <p>ENHANCED BY ITUNES -- Ry Cooder has recorded with groups ranging from from the Rolling Stones to the Buena Vista Social Club, but he hasn't been prolific as a solo artist since the '80s, mostly because he has had trouble capturing the sound he wanted on a compact disc. On his new album, due March 6, he achieved that sound with a little help from Apple's iTunes program. [C4.]</p>
+        <p>FREE MUSIC TO STUDENTS -- Major music labels have agreed to support a service from Ruckus Networks that will offer free music downloads -- with some substantial restrictions -- to any college student. [C10.]</p>
+        <p>A LINUX FOUNDATION -- Major technology companies have decided that the time has come to consolidate their collaborative support for Linux, the free operating system, into a new group, the Linux Foundation. The mission of the organization is help Linux compete more effectively against Microsoft. [C10.]</p>
+        <p>CORPORATE SOCIAL NETWORKING -- I.B.M. plans to announce a set of social software tools that will bring to the corporate world the kind of blogging, idea sharing and war-story swapping typically associated with MySpace and Facebook. [C10.]</p>
+      </block>
+      <block class="full_text">
+        <p>DRUG ADS UNDER SCRUTINY -- Drug advertising aimed at consumers is likely to face hard scrutiny in the new Congress as it considers renewal of a law renewing the fees that manufacturers pay to speed reviews of new drugs. The pharmaceutical industry wants to add new fees to pay for federal evaluation of consumer drug ads before they are shown on television. [Page C1.]</p>
+        <p>NOT READY FOR THE CLOSE-UP -- Pornographic movie studios, trying to stay ahead of the technology curve by releasing high-definition DVDs, have found that the format accentuates physical imperfections in the actors, which is not so sexy. [C1.]</p>
+        <p>OUTCRY OVER MIXTAPES -- A raid last week on the studio of DJ Drama, a prominent producer of rap music mixtapes, and his arrest on racketeering charges highlight the recording industry's awkward relationship with mixtapes, long an integral element of rap culture. [C1.]</p>
+        <p>LOWEST FARE, GUARANTEED -- Farecast, the Internet start-up that predicts ticket prices for air travelers, is preparing to introduce a service that guarantees that an airfare listed on the site will remain valid for a week, according to its chief executive, Hugh Crean, above. E-Commerce Report. [C10.]</p>
+        <p>MY EDITOR RECOMMENDS  Advertising specialists say that journalists' reputations for accuracy and honesty recommend them as product endorsers -- at least for campaigns aimed at an audience of a certain age. Advertising: Stuart Elliott. [C5.]</p>
+        <p>ENHANCED BY ITUNES -- Ry Cooder has recorded with groups ranging from from the Rolling Stones to the Buena Vista Social Club, but he hasn't been prolific as a solo artist since the '80s, mostly because he has had trouble capturing the sound he wanted on a compact disc. On his new album, due March 6, he achieved that sound with a little help from Apple's iTunes program. [C4.]</p>
+        <p>FREE MUSIC TO STUDENTS -- Major music labels have agreed to support a service from Ruckus Networks that will offer free music downloads -- with some substantial restrictions -- to any college student. [C10.]</p>
+        <p>A LINUX FOUNDATION -- Major technology companies have decided that the time has come to consolidate their collaborative support for Linux, the free operating system, into a new group, the Linux Foundation. The mission of the organization is help Linux compete more effectively against Microsoft. [C10.]</p>
+        <p>CORPORATE SOCIAL NETWORKING -- I.B.M. plans to announce a set of social software tools that will bring to the corporate world the kind of blogging, idea sharing and war-story swapping typically associated with MySpace and Facebook. [C10.]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

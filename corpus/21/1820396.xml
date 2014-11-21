@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kristina Daugirdas, Nicholas Bagley</title>
+    <meta content="21DAUGIRDAS" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820396"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Daugirdas, Kristina Binderis</person>
+        <person class="indexing_service">Bagley, Nicholas John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E5DB1E30F932A15752C0A9619C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kristina Daugirdas, Nicholas Bagley</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kristina Binderis Daugirdas, a lawyer for the State Department, was married last evening to Nicholas John Bagley, a clerk at the United States Supreme Court. Judge Stephen F. Williams of the United States Court of Appeals for the District of Columbia Circuit, for whom the bride was a law clerk, officiated at the Newberry Library in Chicago.</p>
+        <p>The couple met at New York University, where each received a law degree, she magna cum laude and he summa cum laude.</p>
+      </block>
+      <block class="full_text">
+        <p>Kristina Binderis Daugirdas, a lawyer for the State Department, was married last evening to Nicholas John Bagley, a clerk at the United States Supreme Court. Judge Stephen F. Williams of the United States Court of Appeals for the District of Columbia Circuit, for whom the bride was a law clerk, officiated at the Newberry Library in Chicago.</p>
+        <p>The couple met at New York University, where each received a law degree, she magna cum laude and he summa cum laude.</p>
+        <p>The bride, 29, is keeping her name. She is a lawyer with the State Department Office of Diplomatic Law and Litigation in Washington. She graduated from Brown and received a postgraduate diploma in economics with distinction from the London School of Economics.</p>
+        <p>She is a daughter of Therese N. Daugirdas and Thomas C. Daugirdas of Wilmette, Ill. Her father, now retired, is a founder of the Stuart Thomas Consulting Group, a firm in Wilmette specializing in human resource and organizational consultation. Her mother, also retired, was an assistant superintendent at the Kenilworth School District in Kenilworth, Ill.</p>
+        <p>The bridegroom, 28, is a law clerk to Justice John Paul Stevens. He graduated from Yale.</p>
+        <p>He is a son of Patricia M. Bagley and Kevin M. Bagley of San Diego. His mother retired as an accountant there for KPMG, the international accounting firm. His father is of counsel to Duckor Spradling Metzger &amp; Wynne, a law firm, also in San Diego.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

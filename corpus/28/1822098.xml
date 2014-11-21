@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stocks Decline as Hopes for a Rate Cut Fade</title>
+    <meta content="28data" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/business/yourmoney/28data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822098"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DataBank"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <person class="indexing_service">Sommer, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E4DB173FF93BA15752C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stocks Decline as Hopes for a Rate Cut Fade</hl1>
+        <hl2 class="online_headline">Stocks Decline as Hopes for a Rate Cut Fade</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+      <abstract>
+        <p>Round up of past week's stock market results; graphs (M)5</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market retreated last week as investors calculated that interest rates won't be dropping when Federal Reserve policy makers meet on Wednesday.</p>
+        <p>Several government reports suggested that the economy remains robust -- perhaps too much so to justify a cut in the Fed funds rate, the Fed's benchmark short-term rate, which has remained at 5.25 percent since June. On Friday, for example, the Commerce Department said that new-home sales in December jumped to an annual rate of 1.12 million units, and durable-goods orders in December rose 3.1 percent. Both were more than Wall Street had expected.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The stock market retreated last week as investors calculated that interest rates won’t be dropping.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market retreated last week as investors calculated that interest rates won't be dropping when Federal Reserve policy makers meet on Wednesday.</p>
+        <p>Several government reports suggested that the economy remains robust -- perhaps too much so to justify a cut in the Fed funds rate, the Fed's benchmark short-term rate, which has remained at 5.25 percent since June. On Friday, for example, the Commerce Department said that new-home sales in December jumped to an annual rate of 1.12 million units, and durable-goods orders in December rose 3.1 percent. Both were more than Wall Street had expected.</p>
+        <p>Shares of General Motors gained 4.4 percent for the week, the most among the Dow industrials. The company said it would report a profit for the fourth quarter, although its 2006 financial results would be delayed.</p>
+        <p>For the week, the Dow Jones industrial average fell 78.51 points, or 0.6 percent, to close at 12,487.02. The Standard &amp; Poor's 500-stock index lost 8.32 points, or 0.6 percent, to close at 1,422.18. The Nasdaq composite index lost 15.82 points, or about 0.7 percent, to close at 2,435.49.</p>
+        <p>The yield on the benchmark 10-year Treasury bond climbed to 4.87 percent from 4.78 percent the previous week.</p>
+        <p>JEFF SOMMER</p>
+        <p>DataBank</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

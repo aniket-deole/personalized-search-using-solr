@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Devon Beddard, Scott Caraher</title>
+    <meta content="28beddard--" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/fashion/weddings/28beddard_.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822049"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Beddard, Devon Elizabeth (Devon Elizabeth Caraher)</person>
+        <person class="indexing_service">Caraher, Scott Clinton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E4DC173FF93BA15752C0A9619C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Devon Beddard, Scott Caraher</hl1>
+        <hl2 class="online_headline">Devon Beddard and Scott Caraher</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Devon Elizabeth Beddard, the daughter of Michael J. Beddard of Watch Hill, R.I., and the late Anita P. Beddard, was married yesterday to Scott Clinton Caraher, a son of Judith K. Caraher and James C. Caraher of Chicago. The Rev. Philippa A. Turner, an Episcopal priest, performed the ceremony at the Church of the Heavenly Rest in New York.</p>
+        <p>Mrs. Caraher, 28, is the promotions manager at Tiffany &amp; Company in New York. She graduated from Trinity College in Hartford. Her father, who is retired, was a vice president and a stockbroker at Smith Barney in New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married Saturday at the Church of the Heavenly Rest in New York. The Rev. Philippa A. Turner, an Episcopal priest, performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Devon Elizabeth Beddard, the daughter of Michael J. Beddard of Watch Hill, R.I., and the late Anita P. Beddard, was married yesterday to Scott Clinton Caraher, a son of Judith K. Caraher and James C. Caraher of Chicago. The Rev. Philippa A. Turner, an Episcopal priest, performed the ceremony at the Church of the Heavenly Rest in New York.</p>
+        <p>Mrs. Caraher, 28, is the promotions manager at Tiffany &amp; Company in New York. She graduated from Trinity College in Hartford. Her father, who is retired, was a vice president and a stockbroker at Smith Barney in New York.</p>
+        <p>Mr. Caraher, 30, is an associate portfolio manager working in New York and San Francisco for Symphony Asset Management, a hedge fund unit of Nuveen Instruments. He graduated from Georgetown. His parents own Windsor Outdoor, a billboard company in Chicago. The bridegroom's mother is also an assistant headmistress and a teacher at St. Chrysostom's Day School, a preschool in Chicago.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

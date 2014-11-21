@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Amanda Howerton, Nathan Fox</title>
+    <meta content="07howerton" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/fashion/weddings/07howerton.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817092"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Howerton, Amanda Leigh (Amanda Leigh Fox)</person>
+        <person class="indexing_service">Fox, Nathan William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EFDA1430F934A35752C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Amanda Howerton, Nathan Fox</hl1>
+        <hl2 class="online_headline">Amanda Howerton, Nathan Fox</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Amanda Leigh Howerton was married yesterday to Nathan William Fox. Anne Delude, a notary public, officiated at the Plaza Resort and Spa in Daytona Beach, Fla.</p>
+        <p>Mrs. Fox, 30, is a candidate for a doctorate in physical disabilities at Teachers College of Columbia University, specializing in education for deaf students and applied linguistics. She received a master's degree in hearing impairment from Columbia. She graduated from Amherst and also received a master's degree in education from Vanderbilt.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Amanda Leigh Howerton was married yesterday to Nathan William Fox. Anne Delude, a notary public, officiated at the Plaza Resort and Spa in Daytona Beach, Fla.</p>
+      </block>
+      <block class="full_text">
+        <p>Amanda Leigh Howerton was married yesterday to Nathan William Fox. Anne Delude, a notary public, officiated at the Plaza Resort and Spa in Daytona Beach, Fla.</p>
+        <p>Mrs. Fox, 30, is a candidate for a doctorate in physical disabilities at Teachers College of Columbia University, specializing in education for deaf students and applied linguistics. She received a master's degree in hearing impairment from Columbia. She graduated from Amherst and also received a master's degree in education from Vanderbilt.</p>
+        <p>She is a daughter of Joan L. Howerton and James B. Howerton of Daytona Beach. Her father owns a HobbyTown USA franchise in Ormond Beach, Fla. Her mother is a real estate agent at GHI Realty in Daytona Beach.</p>
+        <p>Mr. Fox, 31, is a telecommunications consultant in Brooklyn, working on business strategies. He graduated from Brown.</p>
+        <p>He is a son of Ann Fox and Dr. Arthur W. Fox of Chicago. His mother is a certified public accountant in the Ernst &amp; Young office there. His father, a pulmonologist, is a staff physician at Suburban Pulmonary and Sleep Associates, a group practice in Westmont, Ill.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

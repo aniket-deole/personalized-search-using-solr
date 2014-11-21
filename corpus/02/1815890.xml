@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vitamin Does Not Prevent Death by Heart Disease</title>
+    <meta content="02hear" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815890"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: HEART HEALTH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Stroke</classifier>
+        <classifier class="indexing_service" type="descriptor">Vitamins</classifier>
+        <classifier class="indexing_service" type="descriptor">Life Styles</classifier>
+        <classifier class="indexing_service" type="descriptor">Death and Dying</classifier>
+        <org class="indexing_service">Tulane University School of Public Health and Tropical Medicine</org>
+        <org class="indexing_service">Journal of the American Medical Assn</org>
+        <person class="indexing_service">Bakalar, Nicholas</person>
+        <person class="indexing_service">Bazzano, Lydia A (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Vitamins</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Death and Dying</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Stroke</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vitamins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life Styles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stroke</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E7D61630F931A35752C0A9619C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vitamin Does Not Prevent Death by Heart Disease</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+      <abstract>
+        <p>Dr Lydia A Bazzano, Tulane University School of Public Health and Tropical Medicine assistant epidemiology professor, leads study that finds vitamin B12 supplements do not help prevent strokes, heart attacks or death in people with vascular disease; suggests that life style changes do more to promote survival than B12; research is published in Journal of the American Medical Assn; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Vitamin B12 supplements are not effective in preventing strokes, heart attacks or death in people with a history of vascular disease, a new review of studies concludes. Vitamin B12 reduces the blood levels of homocysteine, a risk factor for cardiovascular disease, but the reduction apparently has no effect on survival.</p>
+        <p>The review covered 12 studies with 16,598 participants who had pre-existing illness. All of the studies showed a reduction in homocysteine levels in people who took folate supplements, but there was no correlation between the amount of reduction in blood levels of homocysteine and the risk of heart attacks, coronary heart disease, stroke or mortality from any cause, and no difference between those who took folate supplements and the participants in control groups who took none.</p>
+      </block>
+      <block class="full_text">
+        <p>Vitamin B12 supplements are not effective in preventing strokes, heart attacks or death in people with a history of vascular disease, a new review of studies concludes. Vitamin B12 reduces the blood levels of homocysteine, a risk factor for cardiovascular disease, but the reduction apparently has no effect on survival.</p>
+        <p>The review covered 12 studies with 16,598 participants who had pre-existing illness. All of the studies showed a reduction in homocysteine levels in people who took folate supplements, but there was no correlation between the amount of reduction in blood levels of homocysteine and the risk of heart attacks, coronary heart disease, stroke or mortality from any cause, and no difference between those who took folate supplements and the participants in control groups who took none.</p>
+        <p>''We haven't found any magical supplement pills to prevent cardiovascular disease,'' said Dr. Lydia A. Bazzano, the lead author and an assistant professor of epidemiology at the Tulane University School of Public Health and Tropical Medicine.</p>
+        <p>''The things people have to do are hard; they have to quit smoking, exercise, lose weight, eat properly,'' Dr. Bazzano continued. ''This means getting omega-3 fatty acids and a well-balanced diet in terms of carbohydrates and proteins. And eating fruits and vegetables is always good. No one has been able to contradict that yet.''</p>
+        <p>The study, published in the Dec. 13 issue of the Journal of the American Medical Association, covered only people who were already ill with vascular disease, but the authors wrote that no randomized, controlled trials have shown a beneficial effect of B12 supplements in preventing vascular disease in healthy people, either.</p>
+        <p>VITAL SIGNS: HEART HEALTH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

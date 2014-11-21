@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Long Road to Energy Independence</title>
+    <meta content="28basic" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/weekinreview/28basic.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822127"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Basics"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethanol</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">State of the Union Message (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">State of the Union Message (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethanol</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Energy Information Administration</org>
+        <org class="online_producer">American Petroleum Institute</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EFD9173FF93BA15752C0A9619C8B63" item-length="387" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Long Road to Energy Independence</hl1>
+        <hl2 class="online_headline">The Long Road to Energy Independence</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <abstract>
+        <p>Experts say Pres Bush's program for cutting gasoline demand is ambitious in scope but modest in effect; US imported 60 percent of oil it consumed in 2006; if, as Bush proposes, gasoline consumption is cut by 20 percent by 2017 share of oil imported will fall only by four or five percentage points; integrating ethanol into fuel supply also poses challenges; charts (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush never used the phrase ''energy independence'' in his State of the Union address last week, and it is just as well. His program for cutting gasoline demand is ambitious in scope, but modest in effect, according to experts.</p>
+        <p>The reason is that the United States has fallen down a very deep well, and it's hard to get out. Last year, the United States imported 60 percent of the oil it consumed. If, as Mr. Bush proposes, we cut gasoline consumption 20 percent by 2017 -- about 2.1 million barrels a day -- then the share of oil imported will fall only by 4 or 5 percentage points.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush’s call for cutting gasoline demand during his State of the Union address last week is ambitious in scope, but it will likely be modest in effect.</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush never used the phrase ''energy independence'' in his State of the Union address last week, and it is just as well. His program for cutting gasoline demand is ambitious in scope, but modest in effect, according to experts.</p>
+        <p>The reason is that the United States has fallen down a very deep well, and it's hard to get out. Last year, the United States imported 60 percent of the oil it consumed. If, as Mr. Bush proposes, we cut gasoline consumption 20 percent by 2017 -- about 2.1 million barrels a day -- then the share of oil imported will fall only by 4 or 5 percentage points.</p>
+        <p>In fact, the government expects the share of imported oil to fall anyway, to less than 56 percent, because of a rise in domestic production, mostly from the Gulf Coast.</p>
+        <p>Domestic production has fallen sharply since the mid-1970s, but the Energy Information Administration, which is part of the Energy Department, expects production to rise to almost six million barrels a day by 2017, up from a little over five million barrels a day now.</p>
+        <p>Mr. Bush is also proposing an increase in fuel-economy standards and an increase in the production of ethanol and other gasoline substitutes, hoping to keep oil consumption relatively steady. Without such intervention, oil consumption is forecast to rise to just over 23 million barrels a day in 2017, from nearly 21 million barrels a day today.</p>
+        <p>''It's an enormous challenge,'' said John Felmy, the chief economist of the American Petroleum Institute, the industry's main trade association.</p>
+        <p>Production of ethanol from corn has already put pressure on food prices, according to some agriculture experts, but Mr. Bush's plan involves tripling the production of corn ethanol, and making huge amounts of ethanol from cellulose, which is not now done commercially.</p>
+        <p>Integrating that much ethanol into the fuel supply will involve many more rail-tanker cars or trucks, because ethanol cannot be shipped in conventional pipelines. In addition, the gasoline formula with which it is mixed has to be changed, or the mixture evaporates too easily, causing air pollution.</p>
+        <p>The actual amount of ethanol produced will depend on what is technically feasible and on the price of oil. But at the rate of change suggested by the Bush plan, energy independence is about a century away.</p>
+        <p>The Basics</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

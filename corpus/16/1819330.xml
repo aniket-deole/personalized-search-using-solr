@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MARATHON IS IN HALL'S PLANS</title>
+    <meta content="16sportsbriefs-2" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819330"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: TRACK AND FIELD"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EED81030F935A25752C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MARATHON IS IN HALL'S PLANS</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ryan Hall ran the longest race of his career Sunday in the national half-marathon championship in Houston, setting an American record of 59 minutes 43 seconds. In a conference call yesterday from his home in Big Bear Lake, Calif., he said he planned to run his first marathon, perhaps in Boston in the spring.</p>
+        <p>Hall, a 23-year-old Stanford graduate, said he was running 100 miles a week in training and hoped to raise that to 120 or 130. His plans include two races in Central Park in New York: the national 8-kilometer championship March 17 and the Olympic marathon trials Nov. 3. He may be a spectator at the Feb. 2 Millrose Games at Madison Square Garden, where his wife, Sara, will run in the 3,000 meters.</p>
+      </block>
+      <block class="full_text">
+        <p>Ryan Hall ran the longest race of his career Sunday in the national half-marathon championship in Houston, setting an American record of 59 minutes 43 seconds. In a conference call yesterday from his home in Big Bear Lake, Calif., he said he planned to run his first marathon, perhaps in Boston in the spring.</p>
+        <p>Hall, a 23-year-old Stanford graduate, said he was running 100 miles a week in training and hoped to raise that to 120 or 130. His plans include two races in Central Park in New York: the national 8-kilometer championship March 17 and the Olympic marathon trials Nov. 3. He may be a spectator at the Feb. 2 Millrose Games at Madison Square Garden, where his wife, Sara, will run in the 3,000 meters.</p>
+        <p>Last fall, Hall won the national cross-country championship in Van Cortlandt Park in the Bronx.</p>
+        <p>FRANK LITSKY</p>
+        <p>SPORTS BRIEFING: TRACK AND FIELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

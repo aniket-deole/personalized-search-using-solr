@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="22addes-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820715"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising (Times Column)</classifier>
+        <person class="indexing_service">Elliot, Stuart</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE1DC1F30F931A15752C0A9619C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <abstract>
+        <p>Round up of past week's advertising account changes (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>La-Z-Boy, Monroe, Mich., placed its account in review after working since November 1994 with Doner, Southfield, Mich. Spending was estimated at $35 million a year. Doner said it would accept an invitation to take part in the review.</p>
+        <p>20th Century Fox Filmed Entertainment, Los Angeles, part of the News Corporation, selected Zenith Media, New York, part of the Publicis Groupe, to handle most of its North American media planning and buying account, with spending estimated at $1 billion. Some of those duties had been handled internally and some had been handled by MindShare, New York, part of the WPP Group.</p>
+      </block>
+      <block class="full_text">
+        <p>La-Z-Boy, Monroe, Mich., placed its account in review after working since November 1994 with Doner, Southfield, Mich. Spending was estimated at $35 million a year. Doner said it would accept an invitation to take part in the review.</p>
+        <p>20th Century Fox Filmed Entertainment, Los Angeles, part of the News Corporation, selected Zenith Media, New York, part of the Publicis Groupe, to handle most of its North American media planning and buying account, with spending estimated at $1 billion. Some of those duties had been handled internally and some had been handled by MindShare, New York, part of the WPP Group.</p>
+        <p>The Macy's corporate marketing division of Federated Department Stores shifted the duties for its national media planning and buying to Mediaedge:cia, part of the WPP Group, after 11 months at Starcom, part of the Starcom MediaVest Group division of the Publicis Groupe. Spending was estimated at $200 million. Local media duties are handled internally. Another WPP agency, JWT, is among the Macy's creative agencies.</p>
+        <p>Olympus Imaging America, Center Valley, Pa., chose Deutsch, New York, part of the Interpublic Group of Companies, to handle its creative and media accounts, with spending estimated at $15 million. The incumbent, the Martin Agency, Richmond, Va., also part of Interpublic, did not take part in a review for the assignments.</p>
+        <p>Shine Advertising, Madison, Wis., resigned the account of GoDaddy, Scottsdale, Ariz., a month after being named agency of record. Shine cited creative differences over the commercials that GoDaddy, which registers Web site names, plans to run during Super Bowl XLI on Feb. 4. GoDaddy will now create the spots internally.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

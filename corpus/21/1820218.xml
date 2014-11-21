@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Evangelical Violence</title>
+    <meta content="Letters.t-3" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820218"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Morgan, Robin</person>
+        <person class="indexing_service">Perlstein, Rick</person>
+        <person class="indexing_service">Hedges, Chris</person>
+        <object.title class="indexing_service">American Fascists (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E2D91330F932A15752C0A9619C8B63" item-length="291" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Evangelical Violence</hl1>
+      </hedline>
+      <abstract>
+        <p>Robin Morgan letter comments on Rick Perlstein Jan 7 review of Chris Hedges book American Fascists: The Christian Right and the War on America</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Reviewing Chris Hedges' ''American Fascists: The Christian Right and the War on America'' (Jan. 7), Rick Perlstein dismisses fears of right-wing evangelical violence, claiming ''one notable thing about today's Christian dominionists is how little recent violence they have unleashed,'' compared with vigilante militants in the 1960s. He adds: ''Virtually none'' -- meaning acts of violence -- ''have occurred in years,'' though ''there may now indeed be millions ... who fantasize about the purgation of their spiritual-cum-political enemies.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Reviewing Chris Hedges' ''American Fascists: The Christian Right and the War on America'' (Jan. 7), Rick Perlstein dismisses fears of right-wing evangelical violence, claiming ''one notable thing about today's Christian dominionists is how little recent violence they have unleashed,'' compared with vigilante militants in the 1960s. He adds: ''Virtually none'' -- meaning acts of violence -- ''have occurred in years,'' though ''there may now indeed be millions ... who fantasize about the purgation of their spiritual-cum-political enemies.''</p>
+        <p>Fantasize? The decade 1991-2001 witnessed multiple self-identified Christian-terrorist attacks on clinics and medical personnel providing contraception and abortion services, leaving 8 dead and 33 seriously wounded; in addition, there were 20 cases of arson and attempted arson, 10 bombings and attempted bombings, and multiple threats of anthrax or chemical attacks on clinics in 23 states.</p>
+        <p>In 2001, 10 days after 9/11, Clayton Lee Waagner joined Osama bin Laden on the F.B.I.'s most wanted list, having escaped federal custody while awaiting sentencing (a possible 15 years to life) on federal weapons and stolen vehicle charges. At his trial, he admitted stalking doctors and regretted he hadn't killed one yet. ''They're right,'' he crowed in a statement posted on the Army of God Web site, ''I am a terrorist. ... God freed me [from jail] to make war on his enemy. ... It doesn't matter to me if you're a nurse, receptionist, bookkeeper or janitor, if you work for the murderous abortionist I'm going to kill you.''</p>
+        <p>We could also examine the history of Operation Rescue, the militant Lambs of Christ, the Christian Reconstructionist Movement or numerous other sectors of the American Taliban. Fantasize?</p>
+        <p>Robin Morgan  New York</p>
+        <p>The writer is author of ''Fighting Words: A Toolkit for Combating the Religious Right.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

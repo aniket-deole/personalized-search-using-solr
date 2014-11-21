@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Con Ed Seeking Approval To Sell Electricity in State</title>
+    <meta content="28ctweekCN-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822218"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E3DF143FF93BA15752C0A9619C8B63" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Con Ed Seeking Approval To Sell Electricity in State</hl1>
+      </hedline>
+      <byline class="print_byline">By JEFF HOLTZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Consolidated Edison, which has provided power to New York City for almost two centuries, may soon be looking for residential customers in Connecticut.</p>
+        <p>On Jan. 16, ConEdison Solutions, a subsidiary, applied to the Connecticut Department of Public Utility Control to sell electricity to homeowners in the state, said Beryl Lyons, a spokeswoman for the department. She said a decision would take a few months.</p>
+      </block>
+      <block class="full_text">
+        <p>Consolidated Edison, which has provided power to New York City for almost two centuries, may soon be looking for residential customers in Connecticut.</p>
+        <p>On Jan. 16, ConEdison Solutions, a subsidiary, applied to the Connecticut Department of Public Utility Control to sell electricity to homeowners in the state, said Beryl Lyons, a spokeswoman for the department. She said a decision would take a few months.</p>
+        <p>ConEdison Solutions has been selling power to commercial and industrial customers in the state since the beginning of the year. It would not say how many customers it has.</p>
+        <p>Ms. Lyons said the department would consider several factors before granting the residential license.</p>
+        <p>''They would look at whether or not they had the technical, managerial and financial wherewithal to provide the service, and whether or not they are being penalized in other states for customer service violations,'' she said.</p>
+        <p>Jorge J. Lopez, the president and chief executive of ConEdison Solutions, said that because the company was already selling electricity to residential customers in New York and Massachusetts, it had the infrastructure to do so in Connecticut. He said it would try to sell to homeowners through a distributor that is already in the state.</p>
+        <p>''That would bring us clusters of customers, which would reduce the costs of going after them,'' Mr. Lopez said. ''We would also actively use our own Web site to enroll customers, which has been successful for us in other markets.''</p>
+        <p>Mr. Lopez said the company would be ready to sell power as soon as the license was approved.</p>
+        <p>ConEdison Solutions would be competing with the companies that sell electricity through either United Illuminating or Connecticut Light and Power, and Dominion, which sells electricity through its distributor, Levco Energy.</p>
+        <p>JEFF HOLTZ</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

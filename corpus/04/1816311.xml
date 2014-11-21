@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Out With the Old</title>
+    <meta content="04thur3" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/opinion/04thur3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816311"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <org class="indexing_service">Home Depot Inc</org>
+        <person class="indexing_service">Nardelli, Robert L</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <org class="online_producer">Home Depot Inc</org>
+        <person class="online_producer">Nardelli, Robert L</person>
+        <person class="online_producer">Nocera, Joseph</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2D81730F937A35752C0A9619C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Out With the Old</hl1>
+        <hl2 class="online_headline">Out With the Old</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says it is galling that departing Home Depot chief executive Robert Nardelli will receive $210 million in compensation; expresses hope that Nardelli's departure is start of new era of accountable management for companies with executives whose compensation is unrelated to their performance</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There was good news and bad news yesterday for shareholders of Home Depot. The good news is that Robert Nardelli, the imperious chief executive who had presided over a difficult, stagnant period for the company, has resigned. The bad news is that he'll be taking $210 million worth of compensation with him, one of the highest severance packages ever, which is saying a lot in this era of runaway executive pay.</p>
+        <p>Mr. Nardelli may be best known for his shocking performance at the company's annual meeting in May, which has become a symbol of the arrogance of overpaid, out-of-touch, and unresponsive executives.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>We hope the departure of Robert Nardelli, Home Depot’s imperious chief executive, will mark the beginning of a new era of accountable management at the company.</p>
+      </block>
+      <block class="full_text">
+        <p>There was good news and bad news yesterday for shareholders of Home Depot. The good news is that Robert Nardelli, the imperious chief executive who had presided over a difficult, stagnant period for the company, has resigned. The bad news is that he'll be taking $210 million worth of compensation with him, one of the highest severance packages ever, which is saying a lot in this era of runaway executive pay.</p>
+        <p>Mr. Nardelli may be best known for his shocking performance at the company's annual meeting in May, which has become a symbol of the arrogance of overpaid, out-of-touch, and unresponsive executives.</p>
+        <p>As Joe Nocera reported in The Times after attending the meeting, Mr. Nardelli restricted shareholder comments to one minute and one question each -- enforced with large digital timers. When one shareholder asked about perceived conflicts of interest for the board of directors, Mr. Nardelli refused to answer, declaring, ''This is not the forum in which to address these comments.''</p>
+        <p>The meeting, of course, was exactly the forum for shareholders to voice concerns about the board of directors they were being asked to elect.</p>
+        <p>Top executives, like Mr. Nardelli, have been coddled to the point that they expect and receive ''golden hellos'' worth millions on their way in, golden parachutes worth even more on their way out, and the equivalent of golden seat cushions to park on comfortably throughout their tenure -- often largely unrelated to their actual performance.</p>
+        <p>While the fortune Mr. Nardelli is taking with him -- including a $20 million cash severance payment -- sticks in the craw, we hope this will be the beginning of a new era of accountable management for Home Depot. Robert Monks, the longtime corporate governance advocate, calls it ''the scars of progress.'' There is no question that Mr. Nardelli's departure is a victory for the activist groups that attacked the status quo at Home Depot, and all those who would follow in their footsteps.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Bit of Bidding Subterfuge From the Inner Poker Player</title>
+    <meta content="18card" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/crosswords/bridge/18card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819592"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Alder, Phillip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE7DB1130F93BA25752C0A9619C8B63" item-length="463" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Bit of Bidding Subterfuge From the Inner Poker Player</hl1>
+        <hl2 class="online_headline">A Bit of Bidding Subterfuge From the Inner Poker Player</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+      <abstract>
+        <p>Phillip Alder bridge column on bluffing; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When is bridge like poker?</p>
+        <p>When bluffing is involved. In poker you are permitted to behave like a third-string actor, appearing to wish to fold but then reluctantly deciding to stay in the pot for one more round of betting. Of course those theatrics work only against the most naïve of opponents. But if you are to win at poker, your adversaries must believe that you might be bluffing. If you never bluff, you will surely lose.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When is bridge like poker? When bluffing is involved.</p>
+      </block>
+      <block class="full_text">
+        <p>When is bridge like poker?</p>
+        <p>When bluffing is involved. In poker you are permitted to behave like a third-string actor, appearing to wish to fold but then reluctantly deciding to stay in the pot for one more round of betting. Of course those theatrics work only against the most naïve of opponents. But if you are to win at poker, your adversaries must believe that you might be bluffing. If you never bluff, you will surely lose.</p>
+        <p>In bridge acting is not allowed, and bluff bids occur rarely. We have the out-and-out psych, when a player misrepresents both the high-card content of his hand and the length of the suit that he has bid. For example, he opens one spade with eight high-card points and a doubleton spade. A psych is a gamble because partner might have a strong hand with support for the suit opened and drive the bidding far too high.</p>
+        <p>There are other bluff bids -- for example, the imaginative one made in the diagramed deal. This took place last Friday during the two-session Open Pairs at the District 3 Winter Regional in Rye Brook, N.Y. It was won by Jay Borker of Greenwich, Conn., and Michael Kamil of Holmdel, N.J. The runners-up were Warren Rosner of White Plains and Allan Stauber of Palm Beach Gardens, Fla. Third were William Ehlers of West Orange, N.J., and Gregory Rosoff of Franklin Lakes, N.J.</p>
+        <p>This was Borker's third consecutive victory in the event, each with a different partner, which is surely less likely to happen than getting four of a kind in five-card-draw poker.</p>
+        <p>After a pass by East, Kamil passed with his solid nine-card heart suit -- as would we all.</p>
+        <p>Many years ago, playing rubber-bridge for high stakes at a club in London, John Collings passed as dealer with a solid 10-card heart suit. The auction continued Pass-Pass-Pass. Collings asked his partner what he held.</p>
+        <p>''Just three bare aces,'' was the reply. ''What did you have?''</p>
+        <p>''Only a 10-count.''</p>
+        <p>Borker opened one spade in the fourth position. Now South had to respond two hearts. Three hearts would have been a fit-showing jump by a passed hand, promising four spades and five hearts. And four hearts would have been a splinter bid, showing at least four spades with a singleton or void in hearts.</p>
+        <p>North rebid two no-trump, South mentally heaving a huge sigh of relief before leaping to four hearts.</p>
+        <p>West guessed well to lead the club jack. But South, after ruffing the second club, immediately played a spade. West understandably ducked this. Who would have guessed what would happen next? Declarer won with the spade king on the board and discarded his remaining spades on the ace-king of diamonds to take 12 tricks and score a near top.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

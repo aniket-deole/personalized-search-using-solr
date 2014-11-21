@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="18botcorrex-2" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819701"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">New York Times Neediest Cases Fund</org>
+        <org class="indexing_service">Federation of Protestant Welfare Agencies</org>
+        <person class="indexing_service">Pryce, Delores</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D81130F93BA25752C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 4 article about Delores Pryce, who has received assistance through New York Times Neediest Cases Fund, incorrectly referred to donor program that is member of Federation of Protestant Welfare Agencies</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Jan. 4 about Delores Pryce, a Queens woman whose youngest daughter has health problems and who received help from The New York Times Neediest Cases Fund to help pay an electricity bill, referred incorrectly to New Alternatives for Children, a program that helps families with medically fragile children. (The error was repeated in an article on Jan. 5 about Dorcas Acheampong, a Bronx woman who received help from the fund to help pay her rent.) Although it is a member agency of the Federation of Protestant Welfare Agencies, it is not run by the federation.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Jan. 4 about Delores Pryce, a Queens woman whose youngest daughter has health problems and who received help from The New York Times Neediest Cases Fund to help pay an electricity bill, referred incorrectly to New Alternatives for Children, a program that helps families with medically fragile children. (The error was repeated in an article on Jan. 5 about Dorcas Acheampong, a Bronx woman who received help from the fund to help pay her rent.) Although it is a member agency of the Federation of Protestant Welfare Agencies, it is not run by the federation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

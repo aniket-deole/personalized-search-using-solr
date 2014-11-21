@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trends on Social Issues</title>
+    <meta content="l22dems" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820689"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Marriages</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <org class="indexing_service">Gay City News</org>
+        <person class="indexing_service">Schindler, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDD1F30F931A15752C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trends on Social Issues</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Paul Schindler, editor of Gay City News, prompted by Jan 16 article about Democrats' intention to govern from center, contends attitudes toward same-sex marriage are softening</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''In This Turn at the Top, Democrats Seek the Middle on Social Issues'' (front page, Jan. 16):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''In This Turn at the Top, Democrats Seek the Middle on Social Issues'' (front page, Jan. 16):</p>
+        <p>Expanding access to birth control, family planning and sex education is not clear evidence of a Democratic Party shift to the middle on social issues; those have all been contentious questions during the Bush presidency.</p>
+        <p>Nor is the focus on employment nondiscrimination and hate crimes a retreat on gay rights. Representative Barney Frank, Democrat of Massachusetts, may or may not be right that those measures are achievable now, but the gay marriage issue is off the table in Congress because Republicans are no longer in a position to raise it as a wedge issue.</p>
+        <p>For a decade now the battle for marriage equality by gay advocates has been a state-focused, not federal, effort. And despite the article's suggestion that the country has moved right on social issues, demographic trends, particularly young people's attitudes toward gay rights and marriage, indicate otherwise.</p>
+        <p>Paul Schindler  Editor in Chief, Gay City News  New York, Jan. 16, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

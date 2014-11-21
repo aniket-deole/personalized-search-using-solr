@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Roz Chast -- Theories of Everything</title>
+    <meta content="26gall-6" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821608"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Genocchio, Benjamin</person>
+        <person class="indexing_service">Chast, Roz</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFDD173FF935A15752C0A9619C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Roz Chast -- Theories of Everything</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN GENOCCHI</byline>
+      <abstract>
+        <p>Benjamin Genocchio reviews drawings by Roz Chast at Julie Saul gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Julie Saul  535 West 22nd Street, Chelsea,  Through Feb. 10</p>
+        <p>To coincide with the publication of a book, Roz Chast, the popular cartoonist of The New Yorker, is presenting a miniature retrospective of her drawings from the 1970s to the present. It is always instructive to view Ms. Chast's captivating pen-and-ink drawings in the original rather than in a magazine reproduction because you can better appreciate the deftness of her short, squiggly lines; the marvelously abbreviated detail; and the luminosity of her colors. You might also witness mistakes and modifications; a few drawings here are stained with correction fluid, and others are patched with slivers of paper where the artist wanted to change bigger things.</p>
+      </block>
+      <block class="full_text">
+        <p>Julie Saul  535 West 22nd Street, Chelsea,  Through Feb. 10</p>
+        <p>To coincide with the publication of a book, Roz Chast, the popular cartoonist of The New Yorker, is presenting a miniature retrospective of her drawings from the 1970s to the present. It is always instructive to view Ms. Chast's captivating pen-and-ink drawings in the original rather than in a magazine reproduction because you can better appreciate the deftness of her short, squiggly lines; the marvelously abbreviated detail; and the luminosity of her colors. You might also witness mistakes and modifications; a few drawings here are stained with correction fluid, and others are patched with slivers of paper where the artist wanted to change bigger things.</p>
+        <p>The range usefully marshals a sense of how her drawings have changed stylistically; the early designs are usually minimal, black and white, and with an indefinite, conceptual link between the drawing and language elements. They tax the brain more than the eyes. By contrast, more recent drawings tend to confront, often very precisely, the humdrum trials of ordinary Americans coping with parenthood, work and growing old.</p>
+        <p>In a cartoon from 1998 titled ''Nancy Drew Mysteries: The Later Years,'' a confused elderly woman appears on a mock book cover asking herself: ''How did I gain eight pounds? I eat nothing!'' On another book cover, as she looks for keys, she says, ''I know I left them right there.'' This is droll, but it is also deeply touching because it encapsulates the lapses and petty indignities of aging.</p>
+        <p>BENJAMIN GENOCCHI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

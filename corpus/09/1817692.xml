@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At Jaguar, Out With the Old, In With the Bold</title>
+    <meta content="08NUGGETjaguar" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817692"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E2DD1130F93AA35752C0A9619C8B63" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At Jaguar, Out With the Old, In With the Bold</hl1>
+      </hedline>
+      <byline class="print_byline">By JERRY GARRETT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Sunday: Jaguar C-XF design study</p>
+        <p>Is it real? Sadly, no. Jaguar says the C-XF is a ''harbinger'' of things to come when the tired S-Type is finally redesigned for 2008, but the production model won't be nearly as sleek and sexy.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Sunday: Jaguar C-XF design study</p>
+        <p>Is it real? Sadly, no. Jaguar says the C-XF is a ''harbinger'' of things to come when the tired S-Type is finally redesigned for 2008, but the production model won't be nearly as sleek and sexy.</p>
+        <p>What's the point? Ford, desperate to either unload Jaguar or make it profitable, has finally relaxed its rigid retro styling expectations. The strikingly new XF concept is exactly what the patient needs, but is it too late for a cure?</p>
+        <p>What they said: ''Great Jaguars are design showcases. That's our mantle, and we're taking it back,'' said an emotional Ian Callum, the chief designer, when he introduced the car. ''Our future is even more exciting than this car.''</p>
+        <p>What they didn't say: Ford really doesn't have the money to let Jaguar take big risks with styling, so expect a less captivating production version.</p>
+        <p>What makes it tick? The concept gets the supercharged 4.2-liter V-8, which is rated at 400 horsepower, from the Jaguar S-Type R. Production models will get less firepower.</p>
+        <p>How much, how soon? The S-Type replacement is due sometime in the next year as a 2008 model. As you would expect among polite company, price was not mentioned.</p>
+        <p>How's it look? A lot like last year's Aston Martin Rapide concept, which, in turn, had more than a passing resemblance to a Mercedes-Benz CLS. Gorgeous, in any regard.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

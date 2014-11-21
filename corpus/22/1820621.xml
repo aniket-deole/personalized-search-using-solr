@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. to Introduce Workers' Networking Software</title>
+    <meta content="22ibm" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/technology/22ibm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820621"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <org class="indexing_service">Myspace.com</org>
+        <org class="indexing_service">Facebook</org>
+        <person class="indexing_service">Flynn, Laurie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">International Business Machines Corporation</org>
+        <org class="online_producer">MySpace.com</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E0DE1F30F931A15752C0A9619C8B63" item-length="457" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. to Introduce Workers' Networking Software</hl1>
+        <hl2 class="online_headline">I.B.M. to Introduce Workers’ Networking Software</hl2>
+      </hedline>
+      <byline class="print_byline">By LAURIE J. FLYNN</byline>
+      <byline class="normalized_byline">Flynn, Laurie</byline>
+      <abstract>
+        <p>I.B.M will introduce social networking tools for business applications; software will be similar to technology made popular by sites such as MySpace and Facebook; Lotus Connections is aimed at helping company experts connect and build new relationships )M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>And you thought social networking was all about text-messaging among bored teenagers.</p>
+        <p>I.B.M. has another take on it. Today the company plans to announce a set of social software tools that will bring the kind of blogging, idea sharing and war-story swapping typically associated with MySpace and Facebook, the social networking sites popular among teenagers and college students, to the corporate world.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I.B.M. plans to announce a set of social software tools typically associated with sites like MySpace and Facebook to the corporate world.</p>
+      </block>
+      <block class="full_text">
+        <p>And you thought social networking was all about text-messaging among bored teenagers.</p>
+        <p>I.B.M. has another take on it. Today the company plans to announce a set of social software tools that will bring the kind of blogging, idea sharing and war-story swapping typically associated with MySpace and Facebook, the social networking sites popular among teenagers and college students, to the corporate world.</p>
+        <p>Called Lotus Connections, the new software, expected later this year, will let employees set up virtual worlds in which they can meet like-minded colleagues within the company and exchange ideas with them, all in the name of improving productivity. And that's just for starters.</p>
+        <p>The idea, said I.B.M.'s vice president for social software, Jeff Schick, is to ''unlock the latent expertise in an organization.''</p>
+        <p>I.B.M. plans to show the software today in Orlando, Fla., at an annual conference for developers who work with the company's Lotus group, which produces Lotus Notes. An early leader in collaboration software, or ''groupware,'' Lotus Notes has been under attack in recent years from Microsoft's Exchange software.</p>
+        <p>''Microsoft has been a tough challenge for the Lotus Group,'' said Erica Driver, an analyst with Forrester Research, a market analysis and consulting company. ''Focusing on new technologies is a good approach.''</p>
+        <p>Last week I.B.M. reported that strong software sales helped lift the company's profits and revenue last quarter, slightly surpassing Wall Street's estimates. The performance provided some encouragement that I.B.M.'s push to revamp its software strategy, including projects like Connections, is gaining ground.</p>
+        <p>Many companies have already discovered the benefits of bringing social networking into their businesses, but so far most of the tools available to them have focused on a specific element of social networking, like blogging.</p>
+        <p>''I talk to corporate clients every day, and I'm finding the topic of social networking comes up all the time,'' Ms. Driver said. ''What I.B.M. has done validates the use of social computing tools for businesses.''</p>
+        <p>Lotus Connections has five components -- activities, communities, dogear (a bookmarking system), profiles and blogs -- aimed at helping experts within a company connect and build new relationships based on their individual needs.</p>
+        <p>The profiles component, for example, lets users search for people by name, expertise or keyword. The program then not only provides contact information and reporting structure details, but also lists blogs, communities, activities and bookmarks associated with the person.</p>
+        <p>Inside I.B.M., employees have been using a prototype of the profiles feature for the last few years, and today 450,000 profiles of I.B.M. employees are stored there.</p>
+        <p>I.B.M. Research, the company's research arm, has long had an interest in social networking, and has several projects under way within Second Life, for example, the virtual world that allows people to communicate in a three-dimensional universe.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

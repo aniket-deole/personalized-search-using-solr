@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Culture of Consumerism</title>
+    <meta content="08ubn001" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817466"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SHOPPING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE1DD1130F93BA35752C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Culture of Consumerism</hl1>
+      </hedline>
+      <byline class="print_byline">By MELENA RYZIK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A slew of new boutiques that double as art galleries are giving good ol' mindless consumerism a bit of cultural heft. At Leontine, in the (brace yourself) South Street Seaport, murals by the Brooklyn artist Virginia Loughnan compete for attention with her handmade lingerie (and the store's weekly knitting circle). Meanwhile the owners of No. 6 Store have started a series of books in collaboration with performers and poets like Devendra Banhart (whose illustrations fill their windows) and Dana Kline; also on offer are vintage finds and leather boots. And Groupe 16Sur20, a cousin of the NoLiTa store Seize sur Vingt that is perhaps New York's only gallery/clothing emporium/used car lot, even has its own curator, who's put together shows by the likes of Nan Goldin and Larry Clark. They share space with the stock of men's polo shirts, soccer jerseys and a Lamborghini.</p>
+        <p>Leontine, 226 Front Street, (212) 766-1066. No. 6 Store, 6 Centre Market Place, (212) 226-5759. Groupe 16Sur20, 267 Elizabeth Street, (212) 343-0007.</p>
+      </block>
+      <block class="full_text">
+        <p>A slew of new boutiques that double as art galleries are giving good ol' mindless consumerism a bit of cultural heft. At Leontine, in the (brace yourself) South Street Seaport, murals by the Brooklyn artist Virginia Loughnan compete for attention with her handmade lingerie (and the store's weekly knitting circle). Meanwhile the owners of No. 6 Store have started a series of books in collaboration with performers and poets like Devendra Banhart (whose illustrations fill their windows) and Dana Kline; also on offer are vintage finds and leather boots. And Groupe 16Sur20, a cousin of the NoLiTa store Seize sur Vingt that is perhaps New York's only gallery/clothing emporium/used car lot, even has its own curator, who's put together shows by the likes of Nan Goldin and Larry Clark. They share space with the stock of men's polo shirts, soccer jerseys and a Lamborghini.</p>
+        <p>Leontine, 226 Front Street, (212) 766-1066. No. 6 Store, 6 Centre Market Place, (212) 226-5759. Groupe 16Sur20, 267 Elizabeth Street, (212) 343-0007.  SHOPPING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

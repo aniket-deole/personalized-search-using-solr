@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The History Of Crunchy, Revisited</title>
+    <meta content="10mini" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817751"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MINIMALIST"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cereals</classifier>
+        <person class="indexing_service">Bittman, Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/The Minimalist</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6DF1230F933A25752C0A9619C8B63" item-length="445" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The History Of Crunchy, Revisited</hl1>
+      </hedline>
+      <byline class="print_byline">By Mark Bittman</byline>
+      <byline class="normalized_byline">Bittman, Mark</byline>
+      <abstract>
+        <p>Mark Bittman The Minimalist columns offers recipe for crunchy granola (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN the first mass-produced granola came on the market in the 1970's, it was greeted with a touch of disbelief by many of us, as in, ''how dare they?'' If ever there was a homegrown food it was granola. Yet nostalgia isn't the only reason we should honor its roots.</p>
+        <p>In fact, there are two good reasons for making your own granola. One: it tastes better. Two: it contains better ingredients.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN the first mass-produced granola came on the market in the 1970's, it was greeted with a touch of disbelief by many of us, as in, ''how dare they?'' If ever there was a homegrown food it was granola. Yet nostalgia isn't the only reason we should honor its roots.</p>
+        <p>In fact, there are two good reasons for making your own granola. One: it tastes better. Two: it contains better ingredients.</p>
+        <p>I won't argue that it's faster than grabbing a bag off a store shelf. In fact it requires some attention, because to make oats crunchy you must toast them, carefully and for a while. Not that this is a big deal, but it can't be done in your sleep.</p>
+        <p>Into this base of rolled oats you can stir just about any dry ingredient imaginable: other grains, like flakes of rye or wheat; dried fruit (raisins are the fallback, but neither the only nor best choice); spices, from cinnamon to vanilla to nutmeg to cardamom; orange zest, crystallized ginger, peanut butter  even, dare I say it, chocolate chips. And of course, any nut or seed you can think of: I favor a combination of cashews, sunflower seeds, sesame seeds and pecans.</p>
+        <p>I always add coconut, a flavor I adore. And I insist that there is no better sweetener than grade B maple syrup. Honey is good too.</p>
+        <p>Look at the ingredient list here, then compare it to one on the side of a box of commercially made stuff. See if that isn't enough to get you to take a trip back in time, to when all granola was made at home.</p>
+        <p>Crunchy Granola  Time: 40 minutes</p>
+        <p>6 cups rolled oats (not quick-cooking or instant)  2 cups mixed nuts and seeds: sunflower seeds, sesame seeds, chopped walnuts, pecans, almonds or cashews.  1 cup dried unsweetened shredded coconut, optional  1 teaspoon ground cinnamon, or to taste  Dash salt</p>
+        <p>1/2 to 1 cup honey or maple syrup, or to taste  1 cup raisins or chopped dried fruit, optional.</p>
+        <p>1.  Preheat oven to 350 degrees. In a bowl, combine oats, nuts and seeds, coconut, cinnamon, salt and sweetener. Place on a sheet pan and put in oven. Bake for 30 minutes or a little longer, stirring occasionally. Mixture should brown evenly; the browner it gets without burning, the crunchier the granola will be.  2.  Remove pan from oven and add raisins or dried fruit. Cool on a rack, stirring once in a while until granola reaches room temperature. Transfer to a sealed container and store in refrigerator; it will keep indefinitely.</p>
+        <p>Yield: About 8 cups (at least 16 servings).</p>
+        <p>THE MINIMALIST</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

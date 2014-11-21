@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="30transaxe" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822592"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E2D9143FF933A05752C0A9619C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  BALTIMORE ORIOLES--Claimed RHP Jeremy Guthrie off waivers from Cleveland. Designated RHP Marino Salas for assignment. Agreed to terms with OF Nick Markakis, LHP Kurt Birkins, RHP Ryan Keefer and OF Adam Stern.  SEATTLE MARINERS--Agreed to terms with RHP Jeff Weaver on a one-year contract.</p>
+        <p>National League  LOS ANGELES DODGERS--Agreed to terms with RHP Chin-hui Tsao.  MILWAUKEE BREWERS--Agreed to terms with RHP Claudio Vargas on a one-year contract.  ST. LOUIS CARDINALS--Agreed to terms with OF Preston Wilson on a one-year contract.  SAN FRANCISCO GIANTS--Agreed to terms with OF Barry Bonds on a one-year contract.</p>
+        <p>N.F.L.</p>
+        <p>CLEVELAND BROWNS--Named Steve Marshall offensive line coach, Tom Myslinski strength and conditioning coach and Alan DeGennaro assistant strength and conditioning coach.  DENVER BRONCOS--Named Joe Baker linebackers coach and Scott O'Brien special teams coach.  DETROIT LIONS--Named Jim Colletto offensive line coach.  OAKLAND RAIDERS--Named Greg Knapp offensive coordinator.</p>
+        <p>N.H.L.</p>
+        <p>LOS ANGELES KINGS--Traded C Craig Conroy to Calgary for C Jamie Lundmark.  PHOENIX COYOTES--Placed C Kevyn Adams and C Dave Scatchard on injured reserve.  PITTSBURGH PENGUINS--Assigned D Noah Welch to Wilkes-Barre/Scranton of the AHL.  ST. LOUIS BLUES--Recalled D Jeff Woywitka from Peoria of the AHL.  TAMPA BAY LIGHTNING--Recalled C Blair Jones from Springfield of the AHL.  TORONTO MAPLE LEAFS--Recalled F Kris Newbury from Toronto of the AHL.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  BALTIMORE ORIOLES--Claimed RHP Jeremy Guthrie off waivers from Cleveland. Designated RHP Marino Salas for assignment. Agreed to terms with OF Nick Markakis, LHP Kurt Birkins, RHP Ryan Keefer and OF Adam Stern.  SEATTLE MARINERS--Agreed to terms with RHP Jeff Weaver on a one-year contract.</p>
+        <p>National League  LOS ANGELES DODGERS--Agreed to terms with RHP Chin-hui Tsao.  MILWAUKEE BREWERS--Agreed to terms with RHP Claudio Vargas on a one-year contract.  ST. LOUIS CARDINALS--Agreed to terms with OF Preston Wilson on a one-year contract.  SAN FRANCISCO GIANTS--Agreed to terms with OF Barry Bonds on a one-year contract.</p>
+        <p>N.F.L.</p>
+        <p>CLEVELAND BROWNS--Named Steve Marshall offensive line coach, Tom Myslinski strength and conditioning coach and Alan DeGennaro assistant strength and conditioning coach.  DENVER BRONCOS--Named Joe Baker linebackers coach and Scott O'Brien special teams coach.  DETROIT LIONS--Named Jim Colletto offensive line coach.  OAKLAND RAIDERS--Named Greg Knapp offensive coordinator.</p>
+        <p>N.H.L.</p>
+        <p>LOS ANGELES KINGS--Traded C Craig Conroy to Calgary for C Jamie Lundmark.  PHOENIX COYOTES--Placed C Kevyn Adams and C Dave Scatchard on injured reserve.  PITTSBURGH PENGUINS--Assigned D Noah Welch to Wilkes-Barre/Scranton of the AHL.  ST. LOUIS BLUES--Recalled D Jeff Woywitka from Peoria of the AHL.  TAMPA BAY LIGHTNING--Recalled C Blair Jones from Springfield of the AHL.  TORONTO MAPLE LEAFS--Recalled F Kris Newbury from Toronto of the AHL.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

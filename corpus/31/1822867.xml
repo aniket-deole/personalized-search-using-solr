@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Fire Department Relents On Locker Policy</title>
+    <meta content="31mbrfs-7" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822867"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="indexing_service" type="descriptor">Pornography and Obscenity</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Sexual Harassment</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Flags, Emblems and Insignia</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Uniformed Firefighters Assn</org>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Rivera, Ray</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pornography and Obscenity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flags, Emblems and Insignia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sexual Harassment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EEDE153FF932A05752C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Fire Department Relents On Locker Policy</hl1>
+      </hedline>
+      <byline class="print_byline">By RAY RIVERA; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Rivera, Ray</byline>
+      <abstract>
+        <p>New York City Fire Dept amends policy prohibiting firefighters from placing anything on outside of their lockers other than name and locker number; Uniformed Firefighters Assn complained that department was clearing locker doors of flags and Mass cards commerating fallen colleagues and threatened to sue; ban is now limited to sexually explicit, discriminatory or obscene materials; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Fire Department bowed to its largest union yesterday by amending a policy that prohibited firefighters from having anything but their names and locker numbers on the outside of their lockers. The policy was intended to keep racist and pornographic material out of the city's firehouses after a string of complaints. But the Uniformed Firefighters Association said the ban had been carried too far when unit commanders began clearing locker doors of flag stickers, Mass cards commemorating fallen colleagues, and other items. The union threatened to sue if the policy was not changed by today. Late yesterday, Fire Commissioner Nicholas Scoppetta, above, issued new regulations spelling out prohibited material, including sexually explicit photographs and any discriminatory or obscene material.</p>
+        <p>RAY RIVERA</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Fire Department bowed to its largest union yesterday by amending a policy that prohibited firefighters from having anything but their names and locker numbers on the outside of their lockers. The policy was intended to keep racist and pornographic material out of the city's firehouses after a string of complaints. But the Uniformed Firefighters Association said the ban had been carried too far when unit commanders began clearing locker doors of flag stickers, Mass cards commemorating fallen colleagues, and other items. The union threatened to sue if the policy was not changed by today. Late yesterday, Fire Commissioner Nicholas Scoppetta, above, issued new regulations spelling out prohibited material, including sexually explicit photographs and any discriminatory or obscene material.</p>
+        <p>RAY RIVERA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Speaking in Tongues</title>
+    <meta content="30q&amp;a" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822622"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Language and Languages</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EED9143FF933A05752C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Speaking in Tongues</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column describes research on ancient languages; drawings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. How do researchers know the pronunciation of the languages of long-gone peoples?</p>
+        <p>A. Scholars do not so much know the pronunciation of ancient languages as they extrapolate and guess. They have had more success with some languages than with others, said Emily Teeter, spokeswoman for the Oriental Institute of the University of Chicago, a major center for the study of the ancient Near East. For example, she said, Semitic languages like Babylonian and Akkadian are closely related to ancient Hebrew, providing solid clues about how the other ancient Semitic languages were vocalized.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. How do researchers know the pronunciation of the languages of long-gone peoples?</p>
+        <p>A. Scholars do not so much know the pronunciation of ancient languages as they extrapolate and guess. They have had more success with some languages than with others, said Emily Teeter, spokeswoman for the Oriental Institute of the University of Chicago, a major center for the study of the ancient Near East. For example, she said, Semitic languages like Babylonian and Akkadian are closely related to ancient Hebrew, providing solid clues about how the other ancient Semitic languages were vocalized.</p>
+        <p>For ancient Egyptian, the clues are sparser, primarily bilingual inscriptions like the Rosetta Stone. A name may appear in Egyptian and in another writing in pronounceable script, helping in recovering the sounds of certain words. However, the hieroglyphs on the Rosetta Stone lack indications for vowel sounds.</p>
+        <p>Another set of clues comes from Coptic, still used in Egyptian Christian churches. Coptic is the latest form of ancient Egyptian, Ms. Teeter said, and is believed to preserve many of the ancient sounds. ''It is written in Greek letters, with vowels,'' she said, ''except that it was necessary to import a few signs from Egyptian for sounds that Greek didn't have.''</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="10corrections-6" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817862"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Electronics Show</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <org class="indexing_service">Apple Inc</org>
+        <org class="indexing_service">Disney, Walt, Co</org>
+        <person class="indexing_service">Iger, Robert A</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E7DC1230F933A25752C0A9619C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 1 article about plans by Walt Disney Company to introduce revamped Web site at Consumer Electronics Show referred incorrectly to relationship between Disney and Pixar; Apple never owned Pixar</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article in Business Day on Jan. 1 about plans by the Walt Disney Company to introduce a revamped Web site at the Consumer Electronics Show referred incorrectly to the business relationship between Apple and Pixar Animation Studios. While Apple's chief executive, Steven P. Jobs, was once the majority shareholder in Pixar, Apple never owned the animation studio.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article in Business Day on Jan. 1 about plans by the Walt Disney Company to introduce a revamped Web site at the Consumer Electronics Show referred incorrectly to the business relationship between Apple and Pixar Animation Studios. While Apple's chief executive, Steven P. Jobs, was once the majority shareholder in Pixar, Apple never owned the animation studio.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

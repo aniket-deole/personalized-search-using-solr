@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heidi Pechter, Monte Sichelman</title>
+    <meta content="21Pechter" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/fashion/weddings/21Pechter.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820403"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Pechter, Dr. Heidi Rochelle</person>
+        <person class="indexing_service">Sichelman, Dr. Monte Reid</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E4DB1E30F932A15752C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heidi Pechter, Monte Sichelman</hl1>
+        <hl2 class="online_headline">Heidi Pechter, Monte Sichelman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Heidi Rochelle Pechter, a daughter of Phyllis Yantz Pechter and Marc S. Pechter of Weston, Fla., was married last evening to Dr. Monte Reid Sichelman, a son of Janet L. Sichelman and Dr. Alan K. Sichelman of Tarpon Springs, Fla. Rabbi Norman S. Lipson performed the ceremony at the Aventura Turnberry Jewish Center in Aventura, Fla.</p>
+        <p>The bride, 29, is a dentist with the Dental Health Group in Tampa, Fla. She graduated cum laude from the University of Pennsylvania and received her dental degree from Tufts University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Heidi Rochelle Pechter, a daughter of Phyllis Yantz Pechter and Marc S. Pechter of Weston, Fla., was married last evening to Dr. Monte Reid Sichelman, a son of Janet L. Sichelman and Dr. Alan K. Sichelman of Tarpon Springs, Fla. Rabbi Norman S. Lipson performed the ceremony at the Aventura Turnberry Jewish Center in Aventura, Fla.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Heidi Rochelle Pechter, a daughter of Phyllis Yantz Pechter and Marc S. Pechter of Weston, Fla., was married last evening to Dr. Monte Reid Sichelman, a son of Janet L. Sichelman and Dr. Alan K. Sichelman of Tarpon Springs, Fla. Rabbi Norman S. Lipson performed the ceremony at the Aventura Turnberry Jewish Center in Aventura, Fla.</p>
+        <p>The bride, 29, is a dentist with the Dental Health Group in Tampa, Fla. She graduated cum laude from the University of Pennsylvania and received her dental degree from Tufts University.</p>
+        <p>Her father is a commercial real estate developer working from Weston on projects in South Florida. Her mother retired as a Spanish teacher at Cypress Bay High School in Weston.</p>
+        <p>The bride is a great-great-granddaughter of Moses and Anne Pechter, who founded the Pechter Baking Company in New York in 1888.</p>
+        <p>The bridegroom, 32, is an ophthalmologist and cornea fellow at the University of South Florida in Tampa. He graduated from Stanford and received both his M.D. and an M.B.A. from the University of South Florida.</p>
+        <p>His father is an internist and pediatrician in private practice in New Port Richey, Fla. The bridegroom's mother retired as the manager of her husband's office.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

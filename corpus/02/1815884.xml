@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALLY?</title>
+    <meta content="02real" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/02/health/02real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815884"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Really?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EED71630F931A35752C0A9619C8B63" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALLY?</hl1>
+        <hl2 class="online_headline">The Claim: You Can Predict the Sex of a Baby by the Way the Mother Is Carrying</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM  -- You can predict the sex of a baby by the way the mother is carrying.</p>
+        <p>THE FACTS -- If a pregnant woman is carrying low, it's a boy. If she's carrying high, it's a girl. And if she's carrying all the weight out front in the shape of a basketball, then it's probably a boy.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The claim has its origins in Hippocratic times, when it was believed that male fetuses were conceived on the right and girls on the left.</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM  -- You can predict the sex of a baby by the way the mother is carrying.</p>
+        <p>THE FACTS -- If a pregnant woman is carrying low, it's a boy. If she's carrying high, it's a girl. And if she's carrying all the weight out front in the shape of a basketball, then it's probably a boy.</p>
+        <p>This refrain has been around for centuries, repeated in various forms and used by some women to decide whether to go with pink or blue for the baby's room. The claim has its origins in Hippocratic times, when it was believed that male fetuses were conceived on the right and girls on the left, said Dr. Jonathan Schaffir, an assistant professor of obstetrics and gynecology at Ohio State University.</p>
+        <p>But revered as it may be, the method has no scientific basis. Most experts say the only reason it has persisted for so long is that, much like flipping a coin, there is a 50/50 chance of its being right.</p>
+        <p>In a large 1999 study, researchers at Johns Hopkins recruited 104 pregnant women who did not know the sex of their babies and put the maxim to the test: They found that the shape of the abdomen was a poor predictor of a baby's sex.</p>
+        <p>But some findings were unexpected. Women with more than 12 years of education correctly predicted the sex of their babies about 70 percent of the time, compared with 43 percent of the time for less educated women. And predictions that were based on dreams and feelings, it turned out, were more accurate than those based on the way a woman carried.</p>
+        <p>THE BOTTOM LINE -- The shape of a pregnant woman's belly is a poor predictor of a baby's sex.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>Really?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

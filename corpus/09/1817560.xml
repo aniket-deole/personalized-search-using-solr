@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yahoo Introduces Mobile Service Software</title>
+    <meta content="09yahoo" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/technology/09yahoo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817560"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Software</classifier>
+        <org class="indexing_service">Yahoo Inc</org>
+        <person class="indexing_service">Helft, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Yahoo Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E3D81530F93AA35752C0A9619C8B63" item-length="658" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yahoo Introduces Mobile Service Software</hl1>
+        <hl2 class="online_headline">Yahoo Introduces Mobile Service Software</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <dateline>SAN FRANCISCO, Jan. 8</dateline>
+      <abstract>
+        <p>Yahoo, seeking to remain in top spot in delivery of information and online services to mobile phones, introduces Go for Mobile 2.0, software that lets cellphone users find information like weather, news, stock quotes and sports scores more quickly; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After falling behind Google in Internet search and advertising, Yahoo is trying to remain No. 1 in the battle to deliver information and online services to mobile phones.</p>
+        <p>Yahoo's latest weapon is software that will let users find information like weather, news, stock quotes and sports scores more quickly on their cellphones. The software, called Go for Mobile 2.0, was unveiled Monday at the Consumer Electronics Show in Las Vegas, just as Google announced a partnership to put its own mobile software on Samsung cellphones.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Yahoo’s Go for Mobile 2.0 will let users find information like news, stock quotes and sports scores more quickly on their cellphones.</p>
+      </block>
+      <block class="full_text">
+        <p>After falling behind Google in Internet search and advertising, Yahoo is trying to remain No. 1 in the battle to deliver information and online services to mobile phones.</p>
+        <p>Yahoo's latest weapon is software that will let users find information like weather, news, stock quotes and sports scores more quickly on their cellphones. The software, called Go for Mobile 2.0, was unveiled Monday at the Consumer Electronics Show in Las Vegas, just as Google announced a partnership to put its own mobile software on Samsung cellphones.</p>
+        <p>Internet services on mobile phones remain a tiny market today, especially in the United States. But industry analysts and Internet companies believe they will eventually outgrow the market for computer-based Internet services as the capabilities of cellphones and the bandwidth of wireless networks improve rapidly.</p>
+        <p>''We view the mobile Internet today as entering an era where the PC-based Internet was in '96 or '97,'' said Steve Boom, Yahoo's senior vice president for broadband and mobile. ''It is just on the cusp of taking off.''</p>
+        <p>For Yahoo, securing a leading position in that market is especially important. The company has struggled over the last year, as Google solidified its lead in search and leaped ahead in online video by acquiring YouTube. Yahoo has also been criticized as lacking initiative and being slow to capitalize on Internet trends like social networking, now dominated by MySpace and Facebook.</p>
+        <p>Yahoo's introduction of mobile software was reported Monday in The Wall Street Journal. The software, a revamped version of technology that the company introduced last year, makes it easy to move among various online services providing news, sports scores, maps, weather, movies, photos and e-mail. The free ad-supported services will be tailored to match a user's settings, like ZIP code and stock preferences, on Yahoo's existing online services.</p>
+        <p>The software will also be equipped with a search service, oneSearch, that will interpret a user's intent and deliver results accordingly. For instance, when a user searches for a sports team, the service will make a bet that the user is interested in the latest scores, a team profile and news related to the team, and return those first. More general Web links, like those returned in typical Internet searches, will be de-emphasized.</p>
+        <p>''It's the kind of thing that Yahoo very much needs to extend further onto the mobile platform,'' said Gary Arlen, president of Arlen Communications, a research firm based in Bethesda, Md.</p>
+        <p>The service is already available on about 70 handset models and is expected to be on some 400 devices by the end of the year, Mr. Boom said. Yahoo has signed agreements with handset makers to preload or distribute the software. Yahoo is also encouraging users to download the software directly onto their devices.</p>
+        <p>Yahoo's mobile services were used by 6.8 percent of cellphone users in the United States in October, according to Telephia, a research firm. That made Yahoo, whose most popular wireless service is e-mail, the No. 1 mobile Internet company. But in mobile search, Google already tops Yahoo, according to Telephia.</p>
+        <p>Google said its cellphone search, e-mail and map products would be preloaded on Samsung phones. Deep Nishar, Google's director of wireless products and strategy, said the company's mobile search service already emphasized results that users typically want, like sports scores and movie times and locations.</p>
+        <p>To succeed, both companies will need to secure cooperation from wireless carriers, which could prove a challenge for some time as several offer competing services, said Julie Ask, an analyst at Jupiter Research.</p>
+        <p>Yahoo said some overseas carriers had agreed to support its services. Mr. Boom said it was ''a matter of time'' before American carriers followed suit. As an incentive, Yahoo is offering to share revenue from any advertising on the system, he said.</p>
+        <p>Ms. Ask noted that, for now, most cellphone advertising consists of text messages sent directly to users, and that ad revenues from mobile search and Web browsing are minuscule.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

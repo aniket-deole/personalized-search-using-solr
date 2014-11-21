@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooklyn Man Is Fatally Shot</title>
+    <meta content="14murder" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818936"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Santos, Fernanda</person>
+        <person class="indexing_service">Drayton, Odell</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEFDF1030F937A25752C0A9619C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooklyn Man Is Fatally Shot</hl1>
+      </hedline>
+      <byline class="print_byline">By FERNANDA SANTOS; Ann Farmer contributed reporting.</byline>
+      <byline class="normalized_byline">Santos, Fernanda</byline>
+      <abstract>
+        <p>Odell Drayton is fatally shot in court yard of building complex where he lived in East New York section of Brooklyn; no motive is found (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man was fatally shot in Brooklyn late Friday while walking along a courtyard behind one of the buildings in the apartment complex where he lived, the police said yesterday.</p>
+        <p>The man, Odell Drayton, 23, was shot at least once in the back of the head about 10 p.m. at the rear of 675 Lincoln Avenue in the Lincoln Plaza complex in East New York, the police said. Seven .380-caliber shell casings were found at the scene.</p>
+      </block>
+      <block class="full_text">
+        <p>A man was fatally shot in Brooklyn late Friday while walking along a courtyard behind one of the buildings in the apartment complex where he lived, the police said yesterday.</p>
+        <p>The man, Odell Drayton, 23, was shot at least once in the back of the head about 10 p.m. at the rear of 675 Lincoln Avenue in the Lincoln Plaza complex in East New York, the police said. Seven .380-caliber shell casings were found at the scene.</p>
+        <p>Mr. Drayton lived with his grandmother and had an 18-month-old son who lives with Mr. Drayton's girlfriend at a public housing development nearby, neighbors said.</p>
+        <p>Officers who responded to the shooting found Mr. Drayton sprawled on his back at the courtyard. He was pronounced dead at the scene at 10:15 p.m.</p>
+        <p>The police said yesterday that they did not yet know the motive or have a description of the killer or killers. Mr. Drayton had an arrest record that included charges of assaulting a police officer, possession of marijuana, criminal contempt and disorderly conduct, according to the police. The dispositions of those cases were not immediately known.</p>
+        <p>Neighbors set up a memorial where Mr. Drayton died, with candles and a teddy bear with the words, ''We Love You, O,'' on its chest.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

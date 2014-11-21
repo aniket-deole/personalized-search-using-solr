@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lauren Cutson, Andrew Janian</title>
+    <meta content="07cutson" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/fashion/weddings/07cutson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817091"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Cutson, Lauren Beth (Lauren Beth Janian)</person>
+        <person class="indexing_service">Janian, Andrew Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EFDA1430F934A35752C0A9619C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lauren Cutson, Andrew Janian</hl1>
+        <hl2 class="online_headline">Lauren Cutson, Andrew Janian</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lauren Beth Cutson, a daughter of Linda Rothfarb Cutson and Gary A. Cutson of New York, was married yesterday to Andrew Michael Janian, a son of Roberta S. Janian and Keith R. Janian of Danvers, Mass. Rabbi Randy C. Fleisher performed the ceremony in the Graham Chapel at Washington University in St. Louis, from which the bride and bridegroom graduated and where they met.</p>
+        <p>Mrs. Janian, 24, is a third-year law student at the university. Her father is a partner in PricewaterhouseCoopers, the New York accounting and consulting firm.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Lauren Beth Cutson, a daughter of Linda Rothfarb Cutson and Gary A. Cutson of New York, was married yesterday to Andrew Michael Janian, a son of Roberta S. Janian and Keith R. Janian of Danvers, Mass. Rabbi Randy C. Fleisher performed the ceremony in the Graham Chapel at Washington University in St. Louis, from which the bride and bridegroom graduated and where they met.</p>
+      </block>
+      <block class="full_text">
+        <p>Lauren Beth Cutson, a daughter of Linda Rothfarb Cutson and Gary A. Cutson of New York, was married yesterday to Andrew Michael Janian, a son of Roberta S. Janian and Keith R. Janian of Danvers, Mass. Rabbi Randy C. Fleisher performed the ceremony in the Graham Chapel at Washington University in St. Louis, from which the bride and bridegroom graduated and where they met.</p>
+        <p>Mrs. Janian, 24, is a third-year law student at the university. Her father is a partner in PricewaterhouseCoopers, the New York accounting and consulting firm.</p>
+        <p>Mr. Janian, also 24, is a software designer at Scottrade, the online securities brokerage firm in St. Louis. His mother is an agent in the Boston office of Garber Travel. His father is an information technology consultant.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

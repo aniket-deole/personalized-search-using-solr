@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fed Up in San Francisco: Tales From the Parking Wars</title>
+    <meta content="l15sanfran" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819088"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Parking</classifier>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">San Francisco (Calif)</location>
+        <person class="indexing_service">Marks, Robin</person>
+        <person class="indexing_service">Chrysanthe, Eva</person>
+        <person class="indexing_service">Anderson, Addison</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/San Francisco</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E3DC1030F936A25752C0A9619C8B63" item-length="400" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fed Up in San Francisco: Tales From the Parking Wars</hl1>
+      </hedline>
+      <abstract>
+        <p>Letters from Robin Marks, Eva Chrysanthe and Addison Anderson respond to Jan 6 article about 'parking rage' in San Francisco</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''San Franciscans Hurl Their Rage at Parking Patrol'' (front page, Jan. 6):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''San Franciscans Hurl Their Rage at Parking Patrol'' (front page, Jan. 6):</p>
+        <p>I take issue with the notion that San Francisco isn't dense enough to support an effective public transportation system.</p>
+        <p>The success of such a system depends somewhat on ridership: the more people use public transportation, the more money, routes and runs there are for buses and trains.</p>
+        <p>Higher prices at meters would deter those looking for parking downtown and encourage them to take public transit. This happens on weekdays, when the region relies on public transportation.</p>
+        <p>Case in point: this morning's traffic report included the usual five or six accidents with injuries and multicar crashes that snarl the Bay Area freeways twice a day. ''The bright spot in this morning's traffic,'' the announcer reported, ''is BART, with 59 trains -- running on time.'' Sounds like effective public transportation to me.</p>
+        <p>Robin Marks  San Francisco, Jan. 8, 2007</p>
+        <p>To the Editor:</p>
+        <p>As a native San Franciscan cyclist and runner who refuses to drive, I actually sympathize with fed-up San Francisco drivers.</p>
+        <p>The pathetic low quality of our public transport system essentially forces all but the most stubbornly athletic San Franciscans to drive, and yet the city refuses to provide sufficient parking for those cars.</p>
+        <p>This constitutes a two-tiered system of transport: those who can afford parking, and those who must make do with unbelievably low-quality public transportation.</p>
+        <p>A decade in New York taught me that public transportation can provide much more to a city than simply destination and departures. The subways constituted their own vibrant, humming democracy, ferrying every income level and ethnic group, all with incredible efficiency.</p>
+        <p>The small silver lining in San Francisco is our bicycle lanes, which puts New York to shame.</p>
+        <p>Eva Chrysanthe  San Francisco, Jan. 6, 2007</p>
+        <p>To the Editor:</p>
+        <p>I have a problem. Sometimes I wonder whether to tell people I'm from San Francisco, where I was born, or New York, where I live.</p>
+        <p>Your article terrified me with news that my hometown is full of ''parking rage,'' oppressed meter maids and people getting killed trying to save a space.</p>
+        <p>But, thankfully, ''a public service announcement warning against violence against ticket writers is to start appearing on buses this month.'' What better place to post a warning to drivers than on buses?</p>
+        <p>Problem solved.</p>
+        <p>Addison Anderson  New York, Jan. 8, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

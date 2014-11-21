@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critics' Choice: New CDs; Sonic Haze All in Their Noise (Hurts So Indie)</title>
+    <meta content="29choi-1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822408"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <org class="indexing_service">Clap Your Hands Say Yeah (Music Group)</org>
+        <person class="indexing_service">Pareles, Jon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE4DD143FF93AA15752C0A9619C8B63" item-length="333" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critics' Choice: New CDs; Sonic Haze All in Their Noise (Hurts So Indie)</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+      <abstract>
+        <p>Jon Pareles reviews new CD by Clap Your Hands Say Yeah; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Clap Your Hands Say Yeah is so insistently indie rock that it releases its own albums on a label with no name. Even more indie is the way its music shuns ingratiation. Where mainstream rock offers its pleasures upfront, indie puts up obstacles -- eccentricities, obscurities, clutter, noise -- to deter all but diehards. Perhaps that's why the first and title song of ''Some Loud Thunder'' is distorted to become nearly unlistenable, and the next track, ''Emily Jean Stock,'' is wrecked by overmodulated drums.</p>
+        <p>''Some Loud Thunder'' is the band's second album, following a self-titled 2005 debut lauded by newly influential, indie-er-than-thou music blogs. (New lyrics like ''Yes that was me digging holes for all the world to see'' may be responses to the cult adulation.)</p>
+      </block>
+      <block class="full_text">
+        <p>Clap Your Hands Say Yeah is so insistently indie rock that it releases its own albums on a label with no name. Even more indie is the way its music shuns ingratiation. Where mainstream rock offers its pleasures upfront, indie puts up obstacles -- eccentricities, obscurities, clutter, noise -- to deter all but diehards. Perhaps that's why the first and title song of ''Some Loud Thunder'' is distorted to become nearly unlistenable, and the next track, ''Emily Jean Stock,'' is wrecked by overmodulated drums.</p>
+        <p>''Some Loud Thunder'' is the band's second album, following a self-titled 2005 debut lauded by newly influential, indie-er-than-thou music blogs. (New lyrics like ''Yes that was me digging holes for all the world to see'' may be responses to the cult adulation.)</p>
+        <p>The questions for the sequel were whether this five-member band could move beyond its obvious sources -- folk-rock, New Order and mostly Talking Heads, particularly the album ''Little Creatures'' -- and whether Alec Ounsworth's scrawny yammer of a voice would stay tolerable.</p>
+        <p>After the sonic hazing that begins the album, it does. As on the first album Mr. Ounsworth's songs circled through two- and three-chord vamps. But now the producer Dave Fridmann, who's behind the majestic psychedelia of the Flaming Lips and Mercury Rev, opens them up: with chimes, synthesizers, contrapuntal guitars, instrumental swells and backup vocals that turn into mass singalongs.</p>
+        <p>''Satan Said Dance'' pulsates and blips like 1970s German rock (and some Talking Heads funk); ''Goodbye to Mother and the Cove'' builds like a scene from a Philip Glass opera. Throughout the album Mr. Ounsworth ponders everything from his insecurities to America's image in the world. The jubilant ''Underwater (You and Me),'' with layers of bell tones and guitars, peals its way toward an indie-rock refuge: ''We'll design a clever disguise/Or retreat to the bottom of the sea.''</p>
+        <p>Clap Your Hands Say Yeah demands a new, irksome level of indulgence on ''Some Loud Thunder.'' But it finds a new richness in the songs it doesn't sabotage.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

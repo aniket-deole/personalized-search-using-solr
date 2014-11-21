@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Good Call in New York</title>
+    <meta content="10wed4" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/opinion/10wed4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817788"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <location class="online_producer">New York State</location>
+        <person class="online_producer">Spitzer, Eliot L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E6DE1230F933A25752C0A9619C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Good Call in New York</hl1>
+        <hl2 class="online_headline">A Good Call in New York</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial supports New York Gov Eliot Spitzer's plan to reduce exorbitant collect call rates for prison inmates and their families; says better solution would be cheaper, debit calling system like one used in federal prisons</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer of New York set an important national example this week when he announced that the state corrections department would back away from a long-standing policy of charging prison inmates and their families more than six times the going rate for collect calls made from prison.</p>
+        <p>Prisons all over the country began gouging inmates and their families when telephone companies started paying legalized kickbacks -- called ''commissions'' -- to the state prison systems in return for a monopoly on the service. These schemes place a huge financial burden on inmate families, who tend to be among the poorest in the nation, and who must often choose between paying phone bills and putting food on the table.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gov. Eliot Spitzer set an important national example by backing away from a longstanding policy of charging prison inmates and their families more than six times the going rate for collect calls made from prison.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer of New York set an important national example this week when he announced that the state corrections department would back away from a long-standing policy of charging prison inmates and their families more than six times the going rate for collect calls made from prison.</p>
+        <p>Prisons all over the country began gouging inmates and their families when telephone companies started paying legalized kickbacks -- called ''commissions'' -- to the state prison systems in return for a monopoly on the service. These schemes place a huge financial burden on inmate families, who tend to be among the poorest in the nation, and who must often choose between paying phone bills and putting food on the table.</p>
+        <p>The Spitzer administration, which plans to waive its commission and renegotiate the current contract with its prison telephone carrier, estimates that the cost of a collect call from prison will drop by about half once the program goes into effect. That's good as far as it goes. But the better solution would be to introduce a cheaper, debit calling system like the one used in federal prisons, where inmates use computer-controlled accounts to pay for calls.</p>
+        <p>The governor's announcement didn't come out of nowhere. Arguments against New York's collect-call-only system were heard yesterday in the state's highest court. At the same time, laws that would make the system fairer for inmates and their families are pending in the State Legislature.</p>
+        <p>Whatever the source, fair pricing for prison telephone service is important. In addition to unburdening poor families, it would encourage sustained contact between inmates and their relations. And that would make it more likely that the inmates would forge crime-free lives once they got out.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

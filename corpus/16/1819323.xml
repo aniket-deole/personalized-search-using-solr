@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Shortcut Through Airport Screening</title>
+    <meta content="16mbrfs-2" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819323"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Kennedy International Airport (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <classifier class="indexing_service" type="descriptor">Shoes and Boots</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Identification Devices</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Clear Registered Traveler</org>
+        <person class="indexing_service">Mcgeehan, Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shoes and Boots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identification Devices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E0D81030F935A25752C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Shortcut Through Airport Screening</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN; Compiled by Andy Newman</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+      <abstract>
+        <p>Clear Registered Traveler, private airport screening service, is set to open operations at Kennedy International Airport in New York City; passengers who pay $100 annual fee can bypass security, but must still remove their shoes for security procedure (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the first time in the New York area, starting today some passengers will be able to pay to bypass an airport security screening line through a program that has come to Kennedy International Airport. But for now, they will still have to take off their shoes. Clear Registered Traveler, a private service that prescreens travelers for a $100 annual fee, will open a kiosk at Terminal 7 today, making Kennedy the second American airport -- after Orlando International Airport in Florida -- to provide an express lane through security, said Steven Brill, the chief executive of Clear. The kiosk at Kennedy is equipped with a device that scans travelers' shoes on their feet, but so far the Transportation Security Administration has not given final approval for its use at Kennedy, Mr. Brill said.</p>
+        <p>PATRICK McGEEHAN</p>
+      </block>
+      <block class="full_text">
+        <p>For the first time in the New York area, starting today some passengers will be able to pay to bypass an airport security screening line through a program that has come to Kennedy International Airport. But for now, they will still have to take off their shoes. Clear Registered Traveler, a private service that prescreens travelers for a $100 annual fee, will open a kiosk at Terminal 7 today, making Kennedy the second American airport -- after Orlando International Airport in Florida -- to provide an express lane through security, said Steven Brill, the chief executive of Clear. The kiosk at Kennedy is equipped with a device that scans travelers' shoes on their feet, but so far the Transportation Security Administration has not given final approval for its use at Kennedy, Mr. Brill said.</p>
+        <p>PATRICK McGEEHAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

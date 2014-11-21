@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GARDEN Q. &amp; A.</title>
+    <meta content="04qna" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/garden/04qna.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816246"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="indexing_service" type="descriptor">Pittosporum Tobira (Plant)</classifier>
+        <classifier class="indexing_service" type="descriptor">Crown of Thorns (Plant)</classifier>
+        <person class="indexing_service">Land, Leslie</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EEDA1730F937A35752C0A9619C8B63" item-length="373" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GARDEN Q. &amp; A.</hl1>
+        <hl2 class="online_headline">Garden Q.&amp;A.</hl2>
+      </hedline>
+      <byline class="print_byline">By Leslie Land</byline>
+      <byline class="normalized_byline">Land, Leslie</byline>
+      <abstract>
+        <p>Garden Q&amp;A on Pittosporum tobira and crown of thorns as houseplants; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. We have heard that Australian laurel is a great houseplant: pretty, fragrant and easy to grow. But our local nursery doesn't have it and it isn't in our houseplant book. Can you help?</p>
+        <p>A. Try looking for Pittosporum tobira, a multistemmed evergreen shrub that is widely planted outdoors in warm climates.</p>
+        <p>Its other name is Japanese mock orange, but it would be better to call it sweet Toby and thus describe both its perfume and its disposition. Indoors and out, this Oriental ( not Australian) import is drought tolerant, not fussy about soil and willing to bloom almost everywhere except in deep shade.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>We have heard that Australian laurel is a great houseplant: pretty, fragrant and easy to grow. But our local nursery doesn’t have it and it isn’t in our houseplant book. Can you help?</p>
+      </block>
+      <block class="full_text">
+        <p>Q. We have heard that Australian laurel is a great houseplant: pretty, fragrant and easy to grow. But our local nursery doesn't have it and it isn't in our houseplant book. Can you help?</p>
+        <p>A. Try looking for Pittosporum tobira, a multistemmed evergreen shrub that is widely planted outdoors in warm climates.</p>
+        <p>Its other name is Japanese mock orange, but it would be better to call it sweet Toby and thus describe both its perfume and its disposition. Indoors and out, this Oriental ( not Australian) import is drought tolerant, not fussy about soil and willing to bloom almost everywhere except in deep shade.</p>
+        <p>P. tobira's whorls of leathery leaves stay attractive year-round. Bloom lasts for about a month in spring, when clusters of small cream-colored flowers send out the scent of orange blossoms.</p>
+        <p>The plant can have a lanky growth habit and is often improved by pruning. But flowers form mostly on the branch ends, so be sure to prune right after bloom and leave some older growth for insurance.</p>
+        <p>And consider a variety that makes up for fewer flowers with splashier foliage. Choices include the green and white Variegata, from Woodlanders (803-648-7522 or woodlanders.net); gold-tinged Kansai Sunburst, from Asiatica Nursery (asiaticanursery.com); and the silvery Platinum, from Cistus Nursery (503-621-2233 or cistus.com).</p>
+        <p>Give your indoor P. tobira bright filtered light; an east or west window is fine. Feed once a month between February and September, using flowering-plant fertilizer diluted to half strength. And let the soil dry down an inch or so between waterings. Wet roots are the only stress it cannot overcome.</p>
+        <p>Q. Do you have any suggestions on how to get my crown of thorns to flower in an apartment with poor natural light?</p>
+        <p>A. Although you do not say so, I have the feeling you would rather avoid using grow lights. But when indoor plants need light, the only solution to ''poor natural'' is ''good artificial.'' If a thorough window cleaning does not improve the situation, your best bet might be fancy-leaf begonias. They grow well in dim apartments and although their flowers are seldom showy, they can bloom in what a crown of thorns would call the pitch dark.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

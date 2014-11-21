@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BIASSOU, WESNER, M.D.</title>
+    <meta content="dn010907" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817469"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BIASSOU, WESNER, M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E2D91E3AF93AA35752C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BIASSOU, WESNER, M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BIASSOU--Wesner, M.D. The entire Beth Israel Medical Center family joins with the physicians and staff of the Department of Anesthesiology in acknowledging with sadness the passing of our dear and beloved friend and former colleague, Wesner Biassou, M.D., a wonderful doctor, friend and teacher, and a member of the anesthesiology faculty for over 30 years until his retirement in 1999. Our deepest to the entire Biassou family and all of Dr. Biassou's loved ones. David J. Shulkin, M.D. President and CEO Robert G. Newman, M.D. President Emeritus Sundar Koppolu, M.D. Chairman, Dept. of Anesthesiology</p>
+      </block>
+      <block class="full_text">
+        <p>BIASSOU--Wesner, M.D. The entire Beth Israel Medical Center family joins with the physicians and staff of the Department of Anesthesiology in acknowledging with sadness the passing of our dear and beloved friend and former colleague, Wesner Biassou, M.D., a wonderful doctor, friend and teacher, and a member of the anesthesiology faculty for over 30 years until his retirement in 1999. Our deepest to the entire Biassou family and all of Dr. Biassou's loved ones. David J. Shulkin, M.D. President and CEO Robert G. Newman, M.D. President Emeritus Sundar Koppolu, M.D. Chairman, Dept. of Anesthesiology</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

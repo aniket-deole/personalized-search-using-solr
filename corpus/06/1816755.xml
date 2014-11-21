@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | South: Georgia: Storms Hit Atlanta Area</title>
+    <meta content="06brfs-2" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816755"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Hartsfield-Jackson Atlanta International Airport</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <location class="indexing_service">Atlanta (Ga)</location>
+        <person class="indexing_service">Pomerance, Rachel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia/Atlanta</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E2D61430F935A35752C0A9619C8B63" item-length="55" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | South: Georgia: Storms Hit Atlanta Area</hl1>
+      </hedline>
+      <byline class="print_byline">By RACHEL POMERANCE</byline>
+      <byline class="normalized_byline">Pomerance, Rachel</byline>
+      <abstract>
+        <p>Severe storms sweep through Atlanta, Ga, grounding planes scheduled to leave Hartsfield-Jackson Atlanta International Airport and diverting inbound flights (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Severe storms swept through Atlanta, grounding planes scheduled to leave Hartsfield-Jackson Atlanta International Airport and diverting and delaying inbound flights. Hartsfield halted all departures for a half-hour, the F.A.A. said, and blocked arrivals for several hours. The storms knocked down trees and power lines, but no deaths or injuries were reported.</p>
+        <p>RACHEL POMERANCE</p>
+      </block>
+      <block class="full_text">
+        <p>Severe storms swept through Atlanta, grounding planes scheduled to leave Hartsfield-Jackson Atlanta International Airport and diverting and delaying inbound flights. Hartsfield halted all departures for a half-hour, the F.A.A. said, and blocked arrivals for several hours. The storms knocked down trees and power lines, but no deaths or injuries were reported.</p>
+        <p>RACHEL POMERANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

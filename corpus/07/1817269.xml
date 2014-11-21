@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gas Pipeline Takes a Detour, And Opponents Applaud</title>
+    <meta content="07weweekWC-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817269"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pipelines</classifier>
+        <location class="indexing_service">Canada</location>
+        <location class="indexing_service">Hudson River</location>
+        <location class="indexing_service">Haverstraw (NY)</location>
+        <location class="indexing_service">Mount Vernon (NY)</location>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Federal Energy Regulatory Commission</org>
+        <org class="indexing_service">Millennium Pipeline Co</org>
+        <person class="indexing_service">Scharfenberg, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pipelines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0DD1530F934A35752C0A9619C8B63" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gas Pipeline Takes a Detour, And Opponents Applaud</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID SCHARFENBERG</byline>
+      <byline class="normalized_byline">Scharfenberg, David</byline>
+      <abstract>
+        <p>Activists in Westchester County laud Federal Energy Regulatory Commission's approval of new, scaled-down version of Millennium natural gas pipeline running from Canadian border across Hudson River at Haverstraw Bay and into Mount Vernon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Federal Energy Regulatory Commission has approved a new, scaled-down version of the long-planned Millennium natural gas pipeline, to the approval of Westchester activists who fought the original plan for years.</p>
+        <p>The Millennium Pipeline Company, a consortium of several energy companies, initially proposed a pipeline running from the Canadian border, across the Hudson River at Haverstraw Bay and into Mount Vernon, where it would connect to existing pipelines feeding the New York City region.</p>
+      </block>
+      <block class="full_text">
+        <p>The Federal Energy Regulatory Commission has approved a new, scaled-down version of the long-planned Millennium natural gas pipeline, to the approval of Westchester activists who fought the original plan for years.</p>
+        <p>The Millennium Pipeline Company, a consortium of several energy companies, initially proposed a pipeline running from the Canadian border, across the Hudson River at Haverstraw Bay and into Mount Vernon, where it would connect to existing pipelines feeding the New York City region.</p>
+        <p>The commission approved the original route in 2002. But Millennium faced sharp opposition from county officials and environmentalists concerned about potential threats to fish and wildlife in Haverstraw Bay and damage to parks and woodlands in Westchester County. A series of regulatory and court decisions effectively killed the original plan last year.</p>
+        <p>The new route, approved by the commission on Dec. 21, would terminate in Ramapo in Rockland County and connect to an existing, cross-Hudson pipeline that passes by the Indian Point nuclear plant in northern Westchester.</p>
+        <p>The $1.04 billion system, which still requires local, state and federal approvals, would have less capacity than the system approved in 2002. And Joseph T. Kelliher, chairman of the commission, has warned that the diminished supply could mean higher prices for consumers.</p>
+        <p>But Dani Glaser, an organizer with United Communities of Westchester, which opposed the initial route, said she was pleased that the companies in the consortium were now pursuing a scaled-down alternative.</p>
+        <p>''In the end, they were forced to do the right thing,'' she said.</p>
+        <p>DAVID SCHARFENBERG</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

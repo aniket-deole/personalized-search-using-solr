@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="15correx-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819115"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Southern Methodist University</org>
+        <org class="indexing_service">Bush, George W, Presidential Library</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Cheves, Brad</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DB1030F936A25752C0A9619C8B63" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction on Jan 10 article about faculty opposition to proposal to make Southern Methodist University site of Pres Bush's presidential library concerns venue in which university vice pres Brad Cheves was interviewed</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Wednesday about faculty opposition to a proposal to make Southern Methodist University the site of President Bush's presidential library misstated the venue in which Brad Cheves, the university's vice president for development and external affairs, commented on the debate. He was interviewed after leaving a campus meeting, but not the faculty meeting where objections were raised.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Wednesday about faculty opposition to a proposal to make Southern Methodist University the site of President Bush's presidential library misstated the venue in which Brad Cheves, the university's vice president for development and external affairs, commented on the debate. He was interviewed after leaving a campus meeting, but not the faculty meeting where objections were raised.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

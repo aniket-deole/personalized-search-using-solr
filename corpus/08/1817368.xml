@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Balms for Sadness: Salt, Grease, Sugar</title>
+    <meta content="08drill" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/business/08drill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817368"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DRILLING DOWN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Foods</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="descriptor">Health Foods</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Foods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFDC1530F93BA35752C0A9619C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Balms for Sadness: Salt, Grease, Sugar</hl1>
+        <hl2 class="online_headline">Balms for Sadness: Salt, Grease, Sugar ...</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Test subjects watching ''Love Story,'' the lachrymose 1970 romance, ate on average almost 125 grams of buttered, salty popcorn (the amount found in a medium-size bag at the movies) -- about 28 percent more than did those watching ''Sweet Home Alabama,'' the 2002 fish-out-of-water comedy about a fashion designer going home to the rural South. The experiment, which involved 30 subjects watching each film over two days, was described in a paper in the January issue of the Journal of Marketing about the connection between people's moods and the type and quantity of food they eat. The studies found that compared with happy people, people who are feeling unhappy eat larger amounts of foods they consider tasty, but unhealthy.</p>
+        <p>In another study described in the same paper, college students reading about the deaths of seven children in a fire ate more than four times as many M&amp;M's as raisins from nearby bowls of snacks. The effect was opposite among subjects reading about four old friends having an evening together after a chance reunion.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Studies found unhappy eat larger amounts of foods they consider tasty, but unhealthy.</p>
+      </block>
+      <block class="full_text">
+        <p>Test subjects watching ''Love Story,'' the lachrymose 1970 romance, ate on average almost 125 grams of buttered, salty popcorn (the amount found in a medium-size bag at the movies) -- about 28 percent more than did those watching ''Sweet Home Alabama,'' the 2002 fish-out-of-water comedy about a fashion designer going home to the rural South. The experiment, which involved 30 subjects watching each film over two days, was described in a paper in the January issue of the Journal of Marketing about the connection between people's moods and the type and quantity of food they eat. The studies found that compared with happy people, people who are feeling unhappy eat larger amounts of foods they consider tasty, but unhealthy.</p>
+        <p>In another study described in the same paper, college students reading about the deaths of seven children in a fire ate more than four times as many M&amp;M's as raisins from nearby bowls of snacks. The effect was opposite among subjects reading about four old friends having an evening together after a chance reunion.</p>
+        <p>''When people are sad, they have this need to seek a reward, and it's very easy to pick up on unhealthy, but tasty, food,'' said Nitika Garg, an assistant professor of marketing at the University of Mississippi and one of the paper's three authors.</p>
+        <p>DRILLING DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Atlanta Symphony's Second Amphitheater</title>
+    <meta content="26arts-3" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821557"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Atlanta Symphony Orchestra</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7DD173FF935A15752C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Atlanta Symphony's Second Amphitheater</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO; Compiled by Lawrence Van Gelder</byline>
+      <abstract>
+        <p>Atlanta Symphony Orchestra will open $35 million, 12,000-seat amphitheare Encore Park for the Arts (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Atlanta Symphony Orchestra will open a $35 million, 12,000-seat amphitheater on 45 acres in Alpharetta, Ga., about 25 miles north of Atlanta, the orchestra announced. The new amphitheater, the Encore Park for the Arts, is to open in summer 2008. It will be owned by the Woodruff Arts Center, where the orchestra performs in Atlanta, and is to eventually include a visual arts complex and education center. The orchestra will present summer concerts at its current home, the Chastain Park Amphitheater in Atlanta, as well as at the new site.</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>The Atlanta Symphony Orchestra will open a $35 million, 12,000-seat amphitheater on 45 acres in Alpharetta, Ga., about 25 miles north of Atlanta, the orchestra announced. The new amphitheater, the Encore Park for the Arts, is to open in summer 2008. It will be owned by the Woodruff Arts Center, where the orchestra performs in Atlanta, and is to eventually include a visual arts complex and education center. The orchestra will present summer concerts at its current home, the Chastain Park Amphitheater in Atlanta, as well as at the new site.</p>
+        <p>BEN SISARIO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

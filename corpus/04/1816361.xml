@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; NBC's Happy New Year</title>
+    <meta content="04arts-2" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816361"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nbc Universal</org>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <object.title class="indexing_service">Law &amp; Order: Criminal Intent (TV Program)</object.title>
+        <object.title class="indexing_service">Law &amp; Order: Special Victims Unit (TV Program)</object.title>
+        <object.title class="indexing_service">Dateline (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6D61730F937A35752C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; NBC's Happy New Year</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>NBC wins ratings for Tuesday night with shows Law &amp; Order: Criminal Intent, Law &amp; Order: Special Victims Unit and Dateline (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the holiday season ended, NBC returned to original programming on Tuesday, winning the night in total viewers for the first time this season. According to Nielsen's estimate, NBC's ''Law &amp; Order: Criminal Intent'' garnered 13.4 million viewers at 9 p.m., the show's largest audience in more than a year. NBC also dominated the 10 p.m. hour with ''Law &amp; Order: Special Victims Unit'' (15.1 million), which drew the night's highest ratings. NBC's ''Dateline'' (9.5 million) ranked second in the 8 p.m. hour. Meanwhile Orange Bowl coverage of Louisville's win over Wake Forest appeared to give Fox an edge over CBS for No. 2 for the night. The game averaged 10.6 million viewers according to time-zone adjusted estimates. CBS received relatively strong ratings for repeats of ''NCIS'' at 8 (13 million) and ''The Unit'' at 9 (9.1 million), but a rerun of ''Numb3rs,'' which is usually broadcast on Fridays, earned 6.7 million viewers at 10. ABC finished fourth with repeats of ''America's Funniest Home Videos'' at 8 (8.1 million) and ''Boston Legal'' at 10 (5 million), as well as two new episodes of ''Big Day'' at 9 (5.2 million) and 9:30 (4.8 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>With the holiday season ended, NBC returned to original programming on Tuesday, winning the night in total viewers for the first time this season. According to Nielsen's estimate, NBC's ''Law &amp; Order: Criminal Intent'' garnered 13.4 million viewers at 9 p.m., the show's largest audience in more than a year. NBC also dominated the 10 p.m. hour with ''Law &amp; Order: Special Victims Unit'' (15.1 million), which drew the night's highest ratings. NBC's ''Dateline'' (9.5 million) ranked second in the 8 p.m. hour. Meanwhile Orange Bowl coverage of Louisville's win over Wake Forest appeared to give Fox an edge over CBS for No. 2 for the night. The game averaged 10.6 million viewers according to time-zone adjusted estimates. CBS received relatively strong ratings for repeats of ''NCIS'' at 8 (13 million) and ''The Unit'' at 9 (9.1 million), but a rerun of ''Numb3rs,'' which is usually broadcast on Fridays, earned 6.7 million viewers at 10. ABC finished fourth with repeats of ''America's Funniest Home Videos'' at 8 (8.1 million) and ''Boston Legal'' at 10 (5 million), as well as two new episodes of ''Big Day'' at 9 (5.2 million) and 9:30 (4.8 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

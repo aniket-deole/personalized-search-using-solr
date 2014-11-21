@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lessons at Princeton</title>
+    <meta content="l26princeton" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821533"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Asian-Americans</classifier>
+        <org class="indexing_service">Princeton University</org>
+        <person class="indexing_service">Esaki, Nina</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asian-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E2DE173FF935A15752C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lessons at Princeton</hl1>
+      </hedline>
+      <abstract>
+        <p>Nina Esaki letter comments on Jan 23 article about broken-English parody of Asian-American student who filed civil rights complaint against Princeton University</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Perhaps one of the additional lessons that might be culled from ''At Princeton, a Parody Raises Questions of Bias'' (news article, Jan. 23), about a broken-English parody in the student daily of an Asian-American student who had filed a civil rights complaint against Princeton, is the importance of fostering not only academic intelligence, but social intelligence as well.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Perhaps one of the additional lessons that might be culled from ''At Princeton, a Parody Raises Questions of Bias'' (news article, Jan. 23), about a broken-English parody in the student daily of an Asian-American student who had filed a civil rights complaint against Princeton, is the importance of fostering not only academic intelligence, but social intelligence as well.</p>
+        <p>Social intelligence is perhaps what our nation needs now more than ever.</p>
+        <p>Let's hope that the academic institutions that produce some of our country's future leaders will pay more attention to attracting and developing social intelligence abilities within the student body, so that these types of incidents can be avoided in the campus environment and later in the world at large.</p>
+        <p>Nina Esaki  East Greenbush, N.Y., Jan. 23, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

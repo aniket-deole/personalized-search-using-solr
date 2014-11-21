@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Michael Fullerton</title>
+    <meta content="12gall-2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818295"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Smith, Roberta</person>
+        <person class="indexing_service">Fullerton, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EFDD1330F931A25752C0A9619C8B63" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Michael Fullerton</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+      <abstract>
+        <p>Roberta Smith reviews solo show of works by Michael Fullerton at Greene Naftali gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Get Over Yourself  Greene Naftali  526 West 26th Street, Chelsea  Through tomorrow</p>
+        <p>There is a lot going on in the work, and the New York solo debut, of Michael Fullerton, a young Scottish artist, but unfortunately not all at once in a single work of art. As with so many solo shows these days, this one functions as a fragmented rebus that delves into themes that supposedly transcend art. If you follow the news release, and then go home and Google a few names, it all points rather feebly to issues concerning information, fame, power and the formulation of public identity, through both the news and the portraiture.</p>
+      </block>
+      <block class="full_text">
+        <p>Get Over Yourself  Greene Naftali  526 West 26th Street, Chelsea  Through tomorrow</p>
+        <p>There is a lot going on in the work, and the New York solo debut, of Michael Fullerton, a young Scottish artist, but unfortunately not all at once in a single work of art. As with so many solo shows these days, this one functions as a fragmented rebus that delves into themes that supposedly transcend art. If you follow the news release, and then go home and Google a few names, it all points rather feebly to issues concerning information, fame, power and the formulation of public identity, through both the news and the portraiture.</p>
+        <p>Meanwhile, back at the gallery, Mr. Fullerton has a well-trained if so far unoriginal way with paint, as evidenced by several dark, washy portraits that hover between academic tradition and popular illustration. (Subjects include Mark Rothko, the young Carl Jung, a British defector and Margaret Burr, who was painted by Thomas Gainsborough shortly before marrying him.)</p>
+        <p>There are also two intriguing photo-based works in silkscreen on newsprint, one an enormous triptych showing a woman giving birth; a cryptic text piece; a sculpture made of gleaming hard-drive disks; and an 8-by-16-foot expanse of mirror splashed with a corrosive brown goop that the checklist identifies as ferrous oxide.</p>
+        <p>A large installation piece involves more ferrous oxide, as well as a white horizontal beam running wall-to-wall at eye level and the name of Jürgen Hambrech, the chairman of BASF, the world's largest producer of chemicals. Like the mirror piece, the installation has a sense of glamour, scale and materiality that has not yet affected Mr. Fullerton's painting, but should.</p>
+        <p>In the meantime, solo shows that resemble group shows are becoming generic. Once a tactic to avoid mastery of a single medium, they now can also be read as the equally limiting, perhaps male fear of commitment and tendency to colonize. Mr. Fullteron is, in bits and pieces, quite interesting, but he might consider more synthesis.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SEDERBAUM, ARTHUR D.</title>
+    <meta content="dn012207" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820608"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SEDERBAUM, ARTHUR D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E1DB1F3AF931A15752C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SEDERBAUM, ARTHUR D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SEDERBAUM--Arthur D. died peacefully at his home in New York City on January 19, surrounded by his beloved wife, Jayne M. Kurzman, daughters, Rebecca and Elizabeth, son David and his wife, Phoenix, sister Caroline Sederbaum and stepchildren, Anthony and Pamela Rykowski. He is also survived by his father, William Sederbaum, of Jacksonville, Florida. A nationally respected trusts and estates attorney, an avid patron of the arts and devoted father and husband, his wisdom, generosity and sense of humor will be greatly missed. Visitation at Frank E. Campbell Funeral Chapel, 81st Street and Madison Avenue, Monday, January 22, 2-5pm and 7-9pm. Funeral at St. Paul's Chapel at Columbia University, 118th Street and Amsterdam Avenue, Tuesday, January 23, 10:30 am. In lieu of flowers, the family asks that donations be made to The Rockefeller University or Memorial Sloan-Kettering Cancer Center.</p>
+      </block>
+      <block class="full_text">
+        <p>SEDERBAUM--Arthur D. died peacefully at his home in New York City on January 19, surrounded by his beloved wife, Jayne M. Kurzman, daughters, Rebecca and Elizabeth, son David and his wife, Phoenix, sister Caroline Sederbaum and stepchildren, Anthony and Pamela Rykowski. He is also survived by his father, William Sederbaum, of Jacksonville, Florida. A nationally respected trusts and estates attorney, an avid patron of the arts and devoted father and husband, his wisdom, generosity and sense of humor will be greatly missed. Visitation at Frank E. Campbell Funeral Chapel, 81st Street and Madison Avenue, Monday, January 22, 2-5pm and 7-9pm. Funeral at St. Paul's Chapel at Columbia University, 118th Street and Amsterdam Avenue, Tuesday, January 23, 10:30 am. In lieu of flowers, the family asks that donations be made to The Rockefeller University or Memorial Sloan-Kettering Cancer Center.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

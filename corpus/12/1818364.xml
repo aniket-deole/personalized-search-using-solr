@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Is There an Actor in the House?</title>
+    <meta content="12voys" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/theater/12voys.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818364"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EEDD1130F931A25752C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Is There an Actor in the House?</hl1>
+        <hl2 class="online_headline">Is There an Actor in the House?</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Todd Weeks, who plays Hugh Voysey in the Atlantic Theater Company's production of ''The Voysey Inheritance,'' left the show for a few days this week after his father died suddenly on Monday. There were no understudies; either performances would have to be canceled or someone familiar with the play would have to jump into the role.</p>
+        <p>Someone like Neil Pepe, the artistic director of the company.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Neil Pepe, the artistic director of the Atlantic Theater Company, temporarily stepped into the role of Hugh in "The Voysey Inheritance."</p>
+      </block>
+      <block class="full_text">
+        <p>Todd Weeks, who plays Hugh Voysey in the Atlantic Theater Company's production of ''The Voysey Inheritance,'' left the show for a few days this week after his father died suddenly on Monday. There were no understudies; either performances would have to be canceled or someone familiar with the play would have to jump into the role.</p>
+        <p>Someone like Neil Pepe, the artistic director of the company.</p>
+        <p>''It was terrifying, but I had a great time,'' said Mr. Pepe, who hasn't acted much lately but performed on Wednesday night in costume and in British accent (though, it should be said, while holding a script).</p>
+        <p>Mr. Weeks will return on Tuesday to the play, which, incidentally, is extending its run through March 25. Mr. Pepe, who will continue in the role until Mr. Weeks returns, is something of an Alfred Hitchcock of the company, as he also appeared as a guitarist for a couple of performances of ''Spring Awakening'' last summer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Beach Access And Property Taxes</title>
+    <meta content="l07newjersey-3" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817265"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Beaches</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">Long Beach Island (NJ)</location>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">DeRogatis, Mary</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beaches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E0DD1530F934A35752C0A9619C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Beach Access And Property Taxes</hl1>
+      </hedline>
+      <abstract>
+        <p>Save LBI Beaches Advocacy Group officer Mary DeRogatis letter on December 10 editorial on broadening beach access on Long Beach Island, NJ</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Broadening Beach Access'' (editorial, Dec. 10): You describe some residents of Long Beach Island as ''vehemently opposed'' to proposed regulations for beach access. I am one of those residents, and my opposition is based on how these regulations would affect property taxes.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Broadening Beach Access'' (editorial, Dec. 10): You describe some residents of Long Beach Island as ''vehemently opposed'' to proposed regulations for beach access. I am one of those residents, and my opposition is based on how these regulations would affect property taxes.</p>
+        <p>The accessways, restrooms and parking mandated by the state would strain local coffers. Any progress legislators made in reducing taxes would be offset by executive branch regulations.</p>
+        <p>Mary DeRogatis  Long Beach Township</p>
+        <p>The writer is an officer of Save LBI Beaches Advocacy Group.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

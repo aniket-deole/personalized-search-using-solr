@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reyes Appears In Commercial</title>
+    <meta content="30base-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822674"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Schmidt, Michael S</person>
+        <person class="indexing_service">Reyes, Jose</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EED8143FF933A05752C0A9619C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reyes Appears In Commercial</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+      <byline class="normalized_byline">Schmidt, Michael S</byline>
+      <abstract>
+        <p>New York Mets infielder Jose Reyes will appear in commercial with other Major League stars for new baseball cap; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At 8:45 a.m. yesterday, Mets shortstop José Reyes sat shivering on a sidewalk in Greenwich Village.</p>
+        <p>Next to him was Twins starting pitcher Johan Santana, who was grilling a hamburger. It was about 20 degrees outside, and the wind chill made it seem like the low teens.</p>
+      </block>
+      <block class="full_text">
+        <p>At 8:45 a.m. yesterday, Mets shortstop José Reyes sat shivering on a sidewalk in Greenwich Village.</p>
+        <p>Next to him was Twins starting pitcher Johan Santana, who was grilling a hamburger. It was about 20 degrees outside, and the wind chill made it seem like the low teens.</p>
+        <p>So what were Reyes and Santana doing there?</p>
+        <p>Along with five other players -- Minnesota's Justin Morneau, Detroit's Justin Verlander, Boston's Jonathan Papelbon, St. Louis's David Eckstein and the Yankees' Robinson Canó -- they were filming a commercial for new baseball caps under the direction of Spike Lee.</p>
+        <p>The hats, manufactured by New Era, are designed to absorb sweat more efficiently, and they have a new black underside to the bill intended to reduce glare. Over and over, from 7 a.m. till noon, the players filmed the ad with 10-minute breaks from the cold.</p>
+        <p>''I got an idea about how to stay warm,'' said Morneau, the 2006 American League most valuable player, as he shuffled between the street and a dressing room at the back of the store. ''I could find all the White Sox hats and light them on fire.''</p>
+        <p>MICHAEL S. SCHMIDT</p>
+        <p>BASEBALL: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

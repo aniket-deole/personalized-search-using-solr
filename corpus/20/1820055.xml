@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="20qod" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820055"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE1D91E30F933A15752C0A9619C8B63" item-length="47" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''A bullet was fired at freedom of thought and democratic life in Turkey. Once again, dark hands have chosen our country and spilled blood in Istanbul to achieve their dark goals.''</p>
+        <p>RECEP TAYYIP ERDOGAN, Turkey's prime minister, on the killing of an outspoken newspaper editor. [A3]</p>
+      </block>
+      <block class="full_text">
+        <p>''A bullet was fired at freedom of thought and democratic life in Turkey. Once again, dark hands have chosen our country and spilled blood in Istanbul to achieve their dark goals.''</p>
+        <p>RECEP TAYYIP ERDOGAN, Turkey's prime minister, on the killing of an outspoken newspaper editor. [A3]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -57,7 +57,7 @@ public class SaxParserNytHandler extends DefaultHandler{
 	
 	@Override
 	public void startDocument() throws SAXException {
-          System.out.println("\nStart document");
+//          System.out.println("\nStart document");
 	}
 	
 	@Override

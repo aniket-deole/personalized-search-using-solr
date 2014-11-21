@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Police Dog Is Seriously Injured During Pursuit</title>
+    <meta content="12dog" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/nyregion/12dog.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818244"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Vasquez, Emily</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <location class="online_producer">New York State</location>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E1DE1330F931A25752C0A9619C8B63" item-length="463" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Police Dog Is Seriously Injured During Pursuit</hl1>
+        <hl2 class="online_headline">Police Dog Is Seriously Injured During Pursuit</hl2>
+      </hedline>
+      <byline class="print_byline">By EMILY VASQUEZ; Kate Hammer contributed reporting.</byline>
+      <byline class="normalized_byline">Vasquez, Emily</byline>
+      <abstract>
+        <p>New York City police dog Ranger is injured while cornering criminal at apartment in Brooklyn; is expected to recover; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After the life, or at least the career, of one of New York's finest was imperiled in the line of duty yesterday, police officials and reporters gathered inside a Manhattan hospital, awaiting news from doctors.</p>
+        <p>''The dog should be able to make a full recovery in a month,'' Dr. Jason Fusco finally assured the crowd. But an operation expected to last about an hour had taken three, said Dr. Fusco, a veterinarian dressed in green scrubs. ''The laceration went all the way to the bone,'' he said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After the life, or at least the career, of one of New York’s finest was imperiled in the line of duty yesterday, police officials and reporters gathered inside a Manhattan hospital, awaiting news from doctors.</p>
+      </block>
+      <block class="full_text">
+        <p>After the life, or at least the career, of one of New York's finest was imperiled in the line of duty yesterday, police officials and reporters gathered inside a Manhattan hospital, awaiting news from doctors.</p>
+        <p>''The dog should be able to make a full recovery in a month,'' Dr. Jason Fusco finally assured the crowd. But an operation expected to last about an hour had taken three, said Dr. Fusco, a veterinarian dressed in green scrubs. ''The laceration went all the way to the bone,'' he said.</p>
+        <p>The dog, a 3-year-old German shepherd named Ranger, has been a member of the city's canine unit for more than two years. Yesterday, as he and his handler, Officer Neal Campbell, searched for a man accused of violating his parole, Ranger was injured, severing three major muscles and cutting a major vein.</p>
+        <p>With an arrest warrant, Officer Campbell and Ranger entered the suspect's basement apartment in the Bedford-Stuyvesant section of Brooklyn yesterday around 11:45 a.m. The apartment was littered with broken plates and shattered glass, the police said.</p>
+        <p>The police said Ranger ducked beneath a dingy bed, where the suspect was hiding. In the darkness a shard of broken mirror cut a gash in the dog's left front leg.</p>
+        <p>The cut was deep, doctors later said, and his loss of blood sizable. Officers rushed Ranger to the Animal Medical Center on East 62nd Street in Manhattan, blood trailing behind them as they carried him inside.</p>
+        <p>''He was awake, despite the pain,'' Dr. Fusco said. ''He was incredibly nice, despite everything.''</p>
+        <p>Earlier in the day, when Ranger's condition was still unknown, the police speculated over whether he might be forced to retire, probably to be adopted by Officer Campbell.</p>
+        <p>But Ranger, who earned praise for his unit in 2005 when he cornered a burglar at a Brooklyn public school, should be able to return to the job after physical therapy, Dr. Fusco said.</p>
+        <p>At the school in Brooklyn, The Daily News reported, Ranger was the first to find a man who the police say was trying to steal computers. Ranger leaped at the man, allowing the police to subdue him and make the arrest.</p>
+        <p>Yesterday, although Ranger could barely walk, an arrest was also made in the case in Bedford-Stuyvesant, the police said.</p>
+        <p>For now, a splint will hold Ranger's paw in the flexed position so his sutures can heal. Later, he will probably have to do stretching exercises, run on an underwater treadmill and undergo electrical stimulation until his muscles recover, Dr. Fusco said.</p>
+        <p>Groggy from anesthesia, Ranger did not make an appearance at the news conference yesterday. He remained under observation last night, on pain medication and antibiotics, Dr. Fusco said, and was expected to go home today.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

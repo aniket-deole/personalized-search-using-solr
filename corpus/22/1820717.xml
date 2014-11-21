@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Miscellany</title>
+    <meta content="22addes-4" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820717"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">At&amp;t Inc</org>
+        <org class="indexing_service">Bbdo Worldwide</org>
+        <org class="indexing_service">Bellsouth Corp</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E0DC1F30F931A15752C0A9619C8B63" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Miscellany</hl1>
+      </hedline>
+      <abstract>
+        <p>AT&amp;T launches advertising campaign to promote Unity calling plan aimed at connecting wireless and land line customers; ads are BBDO Worldwide's first work for company since AT&amp;T's acquisition of BellSouth (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT&amp;T is starting a campaign to promote a new Unity calling plan intended to forge closer ties between its wireless and land line customers. The ads are the first work for AT&amp;T from BBDO Worldwide, part of the Omnicom Group, which was the agency for Cingular Wireless. BBDO became an AT&amp;T agency after the AT&amp;T acquisition of BellSouth, which shared ownership of Cingular with AT&amp;T.</p>
+      </block>
+      <block class="full_text">
+        <p>AT&amp;T is starting a campaign to promote a new Unity calling plan intended to forge closer ties between its wireless and land line customers. The ads are the first work for AT&amp;T from BBDO Worldwide, part of the Omnicom Group, which was the agency for Cingular Wireless. BBDO became an AT&amp;T agency after the AT&amp;T acquisition of BellSouth, which shared ownership of Cingular with AT&amp;T.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

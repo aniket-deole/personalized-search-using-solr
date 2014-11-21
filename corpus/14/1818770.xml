@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When a Co-op Has a King</title>
+    <meta content="14qa" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818770"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Q and A</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E4DF1330F937A25752C0A9619C8B63" item-length="538" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When a Co-op Has a King</hl1>
+      </hedline>
+      <byline class="print_byline">By JAY ROMANO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I have lived in a small Manhattan co-op for the last 15 years, and we have never had an election for a board of directors. Every time a board member leaves, the president appoints someone to the post without getting approval from the other board members.</p>
+        <p>He has also held meetings without notifying some board members and has hired contractors without getting multiple bids or even showing the contract to the board for a vote. Should I be concerned?</p>
+        <p>A. ''What's going on here is highly irregular,'' said Dennis H. Greenstein, a Manhattan co-op and condominium lawyer. Mr. Greenstein said that the board president should not be appointing board members, scheduling meetings and approving contracts on his own.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I have lived in a small Manhattan co-op for the last 15 years, and we have never had an election for a board of directors. Every time a board member leaves, the president appoints someone to the post without getting approval from the other board members.</p>
+        <p>He has also held meetings without notifying some board members and has hired contractors without getting multiple bids or even showing the contract to the board for a vote. Should I be concerned?</p>
+        <p>A. ''What's going on here is highly irregular,'' said Dennis H. Greenstein, a Manhattan co-op and condominium lawyer. Mr. Greenstein said that the board president should not be appointing board members, scheduling meetings and approving contracts on his own.</p>
+        <p>More important, he said, the state's Business Corporation Law requires corporations to hold an annual meeting to elect directors. And under most co-op bylaws, Mr. Greenstein said, if such a meeting has not been held, shareholders holding 25 percent of the shares can demand a special meeting to elect directors.</p>
+        <p>In addition, Mr. Greenstein said, if the co-op no longer has enough properly elected directors to conduct the business of the board, and there has been no election of directors one month after the date specified in the bylaws -- or if no date is specified, for more than 13 months after the last annual meeting -- the board must schedule an election within two weeks.</p>
+        <p>If it does not, shareholders holding 10 percent of the shares can demand a meeting to elect directors. That meeting must be held within 60 to 90 days, and the co-op's secretary must give notice of the meeting date within five business days.</p>
+        <p>If the secretary does not do so, any shareholder who signed the demand can issue notice of the meeting.</p>
+        <p>Can a Garage Space Be Rent-Stabilized?</p>
+        <p>Q. When a tenant living in a rent-stabilized apartment rents a parking space in the building's garage, is the garage rent subject to stabilization, too?</p>
+        <p>A. David A. Kaminsky, a Manhattan landlord-tenant lawyer, said a parking space in the garage of a rent-stabilized building is an ''ancillary service'' that may be provided pursuant to the lease for the apartment or pursuant to a separate rental agreement.</p>
+        <p>Whether the garage rent is subject to stabilization is typically influenced by three factors: whether there is a separate charge for the apartment and for the space; whether the building owner was providing the space to the tenant when the building became subject to regulation; and whether the building and garage are owned and operated, directly or indirectly, by the same person or company.</p>
+        <p>If the building owner was providing the space when the building became subject to regulation, and the rent for the space was included in the lease, Mr. Kaminsky said, then the charge for the space is probably subject to stabilization.</p>
+        <p>On the other hand, he said, if there were initially separate leases for the space and for the apartment, and the building and garage are or were owned or operated by different companies -- whether at the time the building became subject to regulation or afterward -- then the parking space would probably not be subject to rent stabilization.</p>
+        <p>JAY ROMANO</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

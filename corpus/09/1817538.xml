@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Decisions on the Horizon</title>
+    <meta content="09pintro" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/us/politics/09pintro.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817538"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="POLITICAL ACTION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <person class="indexing_service">Obama, Barack (Sen)</person>
+        <person class="indexing_service">Clinton, Hillary Rodham (Sen)</person>
+        <person class="indexing_service">Zeleny, Jeff</person>
+        <person class="indexing_service">Healy, Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Obama, Barack</person>
+        <person class="online_producer">Clinton, Hillary Rodham</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD91530F93AA35752C0A9619C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Decisions on the Horizon</hl1>
+        <hl2 class="online_headline">Decisions on the Horizon</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF ZELENY and PATRICK HEALY</byline>
+      <byline class="normalized_byline">Zeleny, Jeff; Healy, Patrick</byline>
+      <abstract>
+        <p>Sens Barack Obama and Hillary Rodham Clinton have yet to set dates when they will officially announce their intentions to run for Democratic presidential nomination (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Don't look for presidential announcements from Senators Barack Obama and Hillary Rodham Clinton anytime soon, but stay tuned.</p>
+        <p>At least that is the word from their associates. Mr. Obama, Democrat of Illinois, is not likely to say whether he intends to seek the party's presidential nomination until after President Bush's State of the Union address on Jan. 23. As he walked out of the Capitol on a recent afternoon, Mr. Obama only smiled when asked about his timing. Then, he rushed to change the subject.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Don’t look for presidential announcements from Senators Barack Obama and Hillary Rodham Clinton anytime soon, but stay tuned.</p>
+      </block>
+      <block class="full_text">
+        <p>Don't look for presidential announcements from Senators Barack Obama and Hillary Rodham Clinton anytime soon, but stay tuned.</p>
+        <p>At least that is the word from their associates. Mr. Obama, Democrat of Illinois, is not likely to say whether he intends to seek the party's presidential nomination until after President Bush's State of the Union address on Jan. 23. As he walked out of the Capitol on a recent afternoon, Mr. Obama only smiled when asked about his timing. Then, he rushed to change the subject.</p>
+        <p>Initially, Mr. Obama said he intended to announce his decision after returning from a holiday vacation in Hawaii, where he was visiting his grandmother and other relatives. Now, several people close to the senator say, he needs a little more time to make up his mind.</p>
+        <p>Still, Mr. Obama has been busy telephoning crucial Democrats in Iowa, New Hampshire and other states. There is, of course, only one reason for him to be making such inquiries.</p>
+        <p>Last week on Capitol Hill, Mr. Obama bumped into Ethel Kennedy, who has been a big admirer. When asked about him, she said, ''He can't run soon enough.''</p>
+        <p>Mrs. Clinton, meanwhile, plans to announce her decision in the next several weeks, her advisers say. According to several Democrats who have spoken to her, as well as advisers, Mrs. Clinton has given every indication that she is running, short of saying so, and no signals that she is not.</p>
+        <p>She is making phone calls to Democratic officials, labor leaders and supporters in early nominating states. And she continues to talk to possible consultants and donors, yet she has not made any travel plans to kick off a campaign.</p>
+        <p>JEFF ZELENY and PATRICK HEALY</p>
+        <p>POLITICAL ACTION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

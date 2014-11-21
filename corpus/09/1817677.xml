@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MILLROSE SHOT-PUT FIELD SET</title>
+    <meta content="09sportsbriefs-4" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817677"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: TRACK AND FIELD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Track and Field</classifier>
+        <classifier class="indexing_service" type="descriptor">Millrose Games</classifier>
+        <person class="indexing_service">Litsky, Frank</person>
+        <person class="indexing_service">Cantwell, Christian</person>
+        <person class="indexing_service">Taylor, Dan</person>
+        <person class="indexing_service">Hoffa, Reese</person>
+        <person class="indexing_service">Godina, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Millrose Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D61530F93AA35752C0A9619C8B63" item-length="57" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MILLROSE SHOT-PUT FIELD SET</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+      <abstract>
+        <p>Reese Hoffa, John Godina, Christian Cantwell and Dan Taylor are named to men's shot-put team at Millrose Games (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Reese Hoffa, John Godina, Christian Cantwell and Dan Taylor were named yesterday as the four-man field for the men's shot-put at the 100th annual Millrose Games on Feb. 2 at Madison Square Garden. Hoffa, ranked first in the world last year, will be seeking his third straight victory at the Millrose Games.</p>
+        <p>FRANK LITSKY</p>
+      </block>
+      <block class="full_text">
+        <p>Reese Hoffa, John Godina, Christian Cantwell and Dan Taylor were named yesterday as the four-man field for the men's shot-put at the 100th annual Millrose Games on Feb. 2 at Madison Square Garden. Hoffa, ranked first in the world last year, will be seeking his third straight victory at the Millrose Games.</p>
+        <p>FRANK LITSKY</p>
+        <p>SPORTS BRIEFING: TRACK AND FIELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

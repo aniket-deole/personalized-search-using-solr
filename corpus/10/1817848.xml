@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Texas Speaker Wins Challenge And Keeps Post</title>
+    <meta content="10texas" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817848"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Legislatures and Parliaments</classifier>
+        <location class="indexing_service">Texas</location>
+        <person class="indexing_service">Evans, Thayer</person>
+        <person class="indexing_service">Craddick, Tom (Speaker)</person>
+        <person class="indexing_service">Delay, Tom (Rep)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EFDD1230F933A25752C0A9619C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Texas Speaker Wins Challenge And Keeps Post</hl1>
+      </hedline>
+      <byline class="print_byline">By THAYER EVANS</byline>
+      <byline class="normalized_byline">Evans, Thayer</byline>
+      <dateline>AUSTIN, Tex., Jan. 9</dateline>
+      <abstract>
+        <p>Texas House Speaker Tom Craddick, ally of former US House majority leader Tom DeLay, survives strong challenge from fellow Republican to win his third term in leadership position of Legislature (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Speaker Tom Craddick of the Texas House, an ally of the former United States House majority leader Tom DeLay, survived a strong challenge on Tuesday from a fellow Republican to win his third term in the leadership position on the first day of the 80th session of the Legislature.</p>
+        <p>After more than five hours of haggling about making public the votes for speaker, Representative Jim Pitts withdrew.</p>
+      </block>
+      <block class="full_text">
+        <p>Speaker Tom Craddick of the Texas House, an ally of the former United States House majority leader Tom DeLay, survived a strong challenge on Tuesday from a fellow Republican to win his third term in the leadership position on the first day of the 80th session of the Legislature.</p>
+        <p>After more than five hours of haggling about making public the votes for speaker, Representative Jim Pitts withdrew.</p>
+        <p>Slightly more than 30 minutes later, Mr. Craddick was elected, 121 to 27, to close the first floor effort to defeat an incumbent speaker since 1959.</p>
+        <p>Mr. Pitts, of Waxahachie, whom Mr. Craddick appointed chairman of the Appropriations Committee, has been in the House since 1992. He has at times disagreed with Mr. Craddick's leadership, which is often compared with Mr. DeLay's.</p>
+        <p>''It's time to heal,'' Mr. Pitts said in a speech before the House after his withdrawal and before he voted for Mr. Craddick. ''It's time to go on with Texas's business.''</p>
+        <p>The victory of Mr. Craddick, of Midland, who has been in the Legislature since 1968, ended a fight that has dominated the political landscape here for three weeks. The House elects a speaker on the first day of each regular session every two years.</p>
+        <p>The speaker's duties include overseeing floor debates, appointing members to standing committees and referring measures to committees.</p>
+        <p>Bills on immigration and campaign finance overhaul have been filed for the session, which lasts until May 28.</p>
+        <p>Mr. Craddick, who has been speaker since January 2003, when he became the first Republican to hold the post in 130 years, was investigated along with Mr. DeLay over fund-raising in the 2002 legislative races but was not indicted by a grand jury in Travis County.</p>
+        <p>Mr. DeLay was indicted in September 2005 on charges of violating the campaign finance law. He worked closely with Mr. Craddick in redrawing district maps in 2003 that benefited Republicans.</p>
+        <p>In his acceptance speech, Mr. Craddick promised to work with Republicans and Democrats.</p>
+        <p>''I want to assure each and every one of you today,'' Mr. Craddick said, ''that I believe my primary responsibility as your elected speaker is to fulfill your elected purpose, not mine.''</p>
+        <p>Gov. Rick Perry, also a Republican, expressed optimism for the session, mentioning a desire to improve health care, education and border security.</p>
+        <p>''The success of this session will not be judged by what has happened over the last few hours,'' Mr. Perry said, ''but by what we do in the end.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some Bling for Your Blog</title>
+    <meta content="18basics" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/technology/18basics.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819612"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASICS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <person class="indexing_service">Kirsner, Scott</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">YouTube.com</org>
+        <org class="online_producer">Digg.com</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E1DB1130F93BA25752C0A9619C8B63" item-length="1275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some Bling for Your Blog</hl1>
+        <hl2 class="online_headline">Some Bling for Your Blog</hl2>
+      </hedline>
+      <byline class="print_byline">By SCOTT KIRSNER</byline>
+      <byline class="normalized_byline">Kirsner, Scott</byline>
+      <abstract>
+        <p>Widgets enhance usefulness or aesthetic appeal of blog pages for their readers; temptation to add too many may make blog too 'busy' and turn readers off; most are available free, without clear indication as to revenue potential for market; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PASTOR BOB HYATT acknowledges that his widget fixation may be getting a little out of control.</p>
+        <p>On his Web log, Pastor Hyatt, the leader of the Evergreen Community in Portland, Ore., has woven in widgets, or mini-applications, that show a selection of book covers from his personal library, present the most recent posts from some of his favorite blogs, and serve up random quotes from the television show ''Arrested Development.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Widgets offer peripheral information and fun at the side of sites.</p>
+      </block>
+      <block class="full_text">
+        <p>PASTOR BOB HYATT acknowledges that his widget fixation may be getting a little out of control.</p>
+        <p>On his Web log, Pastor Hyatt, the leader of the Evergreen Community in Portland, Ore., has woven in widgets, or mini-applications, that show a selection of book covers from his personal library, present the most recent posts from some of his favorite blogs, and serve up random quotes from the television show ''Arrested Development.''</p>
+        <p>''You start small, and it's kind of like an addiction,'' said Pastor Hyatt (his blog is at bobhyatt.typepad.com). ''TypePad has a whole section of widgets, and they're adding more all the time,'' he continued, referring to a popular blog-hosting service.</p>
+        <p>According to the Pew Internet and American Life Project, about 12 million Americans now maintain a blog. Widgets are elements, often in the left or right columns of a blog, that enhance its usefulness or aesthetic appeal. (The term ''widgets,'' confusingly, can also refer to compact applications that operate on a computer's desktop.)</p>
+        <p>''Widgets pull content or services from some other place on the Web, and put it into your personal page,'' said Fred Wilson, a venture capitalist at Union Square Ventures in Manhattan.</p>
+        <p>Typically, they're built with Flash software from Adobe, or the JavaScript programming language, which ensures that they work with most Web browsers. Mr. Wilson's blog, A VC (avc.blogs.com), displays one of the Web's largest widget collections, including a photo album from the site Flickr and others that highlight his music collection.</p>
+        <p>But while widgets are growing in popularity -- the first major conference dedicated to ''the emerging widget economy'' was held in November in San Francisco -- they can still be perplexing to bloggers and readers. And some are wondering whether a blog can become weighed down by too many widgets.</p>
+        <p>Ed Anuff, a co-founder of Widgetbox.com, divides widgets into three categories. ''One is self-expression widgets, like photo galleries, games or YouTube videos that you like,'' he said. The second category includes widgets that generate revenue for a blogger, like a box that displays auctions from a particular eBay category, or a blogger's favorite DVDs from Amazon.com.</p>
+        <p>The third category, Mr. Anuff said, encompasses ''site-enhancement widgets, like discussion forums, news feeds or a guest book, which provide better utility for your Web site.'' Widgetbox is a site begun in September that collects widgets, spotlighting the newest and most popular ones; it offers more than 500 widgets.</p>
+        <p>According to Widgetbox, its most popular widget allows bloggers to incorporate an updated feed of news items from the site Digg into their blogs. Matt Mullenweg, creator of the WordPress blogging software, says the widgets that his users have been incorporating into their sites lately include Meebo, an instant-messaging application that allows blog authors to chat with their visitors.</p>
+        <p>''One of my favorites,'' Mr. Mullenweg said, ''is the Sphere It widget, which pops up a window to show you articles and other blog posts related to what you're reading.''</p>
+        <p>Widgets don't benefit only blog visitors; some exist primarily for the benefit of blog publishers, showing, for instance, which other blogs are linking to their posts. Veronica Perez, who maintains Veronica's Test Kitchen from her home in Richmond, Va., uses widgets from SiteMeter and BlogTopSites to monitor how much traffic her blog is getting, and where it ranks among other food-related blogs.</p>
+        <p>Just before Thanksgiving, ''I noticed that my blog hits increased by 200 percent, and it was because of a turkey post I had just put on my blog,'' she said by e-mail. ''It's nice to have a summary of the numbers.''</p>
+        <p>Most widgets are available free, though they usually carry links or logos that promote the site that supplies them, and they sometimes have advertising.</p>
+        <p>As with other phenomena that make up the wave known as Web 2.0, blog widgets don't always have clear revenue potential. ''As a widget user, it's not my problem to worry about how they're going to make money,'' said Guy Kawasaki, an author, blogger and venture capitalist. ''But as an investor, would I invest in a widget company giving things away for free? It's hard to see a business model for it, other than to hope that Google buys you.''</p>
+        <p>(This month, Yahoo bought the widget developer MyBlogLog, which uses photos to help bloggers highlight the people who make up their readership.)</p>
+        <p>Mr. Anuff predicted, however, that ''by the second half of 2007, some widgets will shift to a subscription basis.''</p>
+        <p>For some sites that offer fee-based services, widgets can act as roadside billboards that help lure traffic. LibraryThing, based in Portland, Me., is a Web site that allows users to catalog the books they own. For a library of more than 200 books, a user is asked to pay $10 a year.</p>
+        <p>The site's widget, which Pastor Hyatt has included in his blog, allows users to show books they've recently added to their collections, or simply display random book covers; it also includes a link to LibraryThing. ''Our widget is basically an advertisement sitting on someone's blog,'' said Tim Spalding, founder of LibraryThing.</p>
+        <p>Adding widgets to a blog can be as simple as changing a water filter attached to a faucet; rarely does it require delving too deeply into a site's plumbing. Some blog hosting services, like WordPress.com, make it easy to incorporate widgets into a blog, by selecting one from a list and simply dragging it into the desired place on the page.</p>
+        <p>Others require that a snippet of HTML or JavaScript code be pasted into the proper spot on a blog's template, which can be challenging for novices. (The template is the page, written in HTML code, that specifies the design elements that will be used on all other blog pages.)</p>
+        <p>Widgetbox tries to reduce the complexity of adding and subtracting widgets by allowing users to insert a bit of code in their blogs once, and then they can configure and manage individual widgets from the Widgetbox site. Some sites, like MySpace, make it difficult to add widgets from outside providers, fearing security breaches and performance problems.</p>
+        <p>''If you're a serious blogger, you'll teach yourself any of the tech stuff needed to make your site better,'' Stephen Kirkwood, a blogger in Brighton, England, wrote by e-mail. Mr. Kirkwood's blog, The Seagull Has Landed, chronicles his world travels. One widget he has incorporated, from ClustrMaps, puts dots on a map of the world to show where visitors to Mr. Kirkwood's site are located.</p>
+        <p>To blog visitors, widgets can sometimes seem opaque, with few instructions. ''Widget creators are trying to work with limited screen real estate, and the net result is that the visitor sometimes winds up asking, 'What is this, and what should I be doing with it?' '' Mr. Wilson said</p>
+        <p>Mr. Anuff suggests that bloggers create a blog entry that introduces readers to each new widget they add.</p>
+        <p>Since most widgets rely on distant Web servers to supply fresh information, they can cause a blog to behave sluggishly.</p>
+        <p>Pastor Hyatt says he has fielded some complaints that the collection of widgets on his blog causes the page to appear too slowly. ''I probably need to institute a blog spring cleaning, maybe go through once a year and clean some stuff out,'' he said.</p>
+        <p>Mr. Kawasaki refers to widgets as ''digital bling.'' (Mr. Kawasaki's blog, How to Change the World, is among the 50 most popular blogs, according to the ranking site Technorati.) He says he enjoys experimenting with new widgets on his blog, but is wary of getting carried away. ''I don't intend to be Mr. T, but I don't want to be Audrey Hepburn, either, with just a string of pearls,'' he said.</p>
+        <p>BASICS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

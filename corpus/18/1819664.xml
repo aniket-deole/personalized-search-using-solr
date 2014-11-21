@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Way to Lose the Headset And Still Make Cheap Skype Calls</title>
+    <meta content="18netgear" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/technology/18netgear.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819664"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Netgear (Co)</org>
+        <org class="indexing_service">Skype (Co)</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Skype Technologies</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E2DA1130F93BA25752C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Way to Lose the Headset And Still Make Cheap Skype Calls</hl1>
+        <hl2 class="online_headline">A Way to Lose the Headset and Still Make Cheap Skype Calls</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>Netgear's Dual-Mode C</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Netgear's Dual-Mode Cordless Phone with Skype -- or the SPH200D for short -- mixes plain old landline communications with cutting-edge Internet calling.</p>
+        <p>The SPH200D connects to your standard phone line and allows traditional calls. It also hooks into your Internet router and works with Skype, the popular online calling service owned by eBay that allows free calls to other Skype users, who typically talk using headsets at their computers. You can talk to anyone on your Skype buddy list or make inexpensive national and international calls over Skype's network without having to use your own computer.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Netgear’s Dual-Mode Cordless Phone with Skype mixes plain old landline communications with cutting-edge Internet calling.</p>
+      </block>
+      <block class="full_text">
+        <p>Netgear's Dual-Mode Cordless Phone with Skype -- or the SPH200D for short -- mixes plain old landline communications with cutting-edge Internet calling.</p>
+        <p>The SPH200D connects to your standard phone line and allows traditional calls. It also hooks into your Internet router and works with Skype, the popular online calling service owned by eBay that allows free calls to other Skype users, who typically talk using headsets at their computers. You can talk to anyone on your Skype buddy list or make inexpensive national and international calls over Skype's network without having to use your own computer.</p>
+        <p>The phone includes a cordless handset that uses D.E.C.T. (digital enhanced cordless telecommunications) technology to reduce interference from other wireless networks and improve call quality. It also has a small color screen that shows a list of Skype contacts or caller ID information, depending on the network being used.</p>
+        <p>The phone is priced at $199 and is available now at major online and retail stores. Additional handsets are extra and will be available later this year.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

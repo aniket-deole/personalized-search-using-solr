@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bears' Coach Notes a Milestone</title>
+    <meta content="16lovie" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819250"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <org class="indexing_service">Chicago Bears</org>
+        <person class="indexing_service">Smith, Lovie</person>
+        <person class="indexing_service">King, Martin Luther Jr (1929-68)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Chicago Bears</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E5D91030F935A25752C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bears' Coach Notes a Milestone</hl1>
+      </hedline>
+      <dateline>LAKE FOREST, Ill., Jan. 15</dateline>
+      <abstract>
+        <p>Chicago Bears coach Lovie Smith discusses importance of Martin Luther King Day (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three years ago Monday, Lovie Smith was named to succeed Dick Jauron as the Chicago Bears' head coach. This year, the anniversary of his hiring coincided with the day set aside to remember the Rev. Dr. Martin Luther King Jr.</p>
+        <p>The confluence of the two events on the calendar seemed fitting considering Smith is one of two African-American coaches whose teams are among the four left in the N.F.L. playoffs. The Indianapolis Colts' Tony Dungy is the other. ''I hope for a day when it is unnoticed,'' said Smith, referring to his skin color. ''That day isn't here. This is the first time that two black men have led their teams to the final four. You have to acknowledge that.''</p>
+      </block>
+      <block class="full_text">
+        <p>Three years ago Monday, Lovie Smith was named to succeed Dick Jauron as the Chicago Bears' head coach. This year, the anniversary of his hiring coincided with the day set aside to remember the Rev. Dr. Martin Luther King Jr.</p>
+        <p>The confluence of the two events on the calendar seemed fitting considering Smith is one of two African-American coaches whose teams are among the four left in the N.F.L. playoffs. The Indianapolis Colts' Tony Dungy is the other. ''I hope for a day when it is unnoticed,'' said Smith, referring to his skin color. ''That day isn't here. This is the first time that two black men have led their teams to the final four. You have to acknowledge that.''</p>
+        <p>Smith, the first man to lead the Bears to the postseason in two of the first three seasons of a coaching reign, and Mike Ditka are the only coaches in team history to repeat as division winners. At 13-3, the Bears finished with the best record in the National Football Conference.</p>
+        <p>Smith came to Chicago from St. Louis, where he was the defensive coordinator for three seasons.</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

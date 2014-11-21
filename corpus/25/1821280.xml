@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Incomes and Inequality: What the Numbers Don't Tell Us</title>
+    <meta content="25scene" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/business/25scene.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821280"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ECONOMIC SCENE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Income</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Scene (Times Column)</classifier>
+        <person class="indexing_service">Cowen, Tyler</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Economic Scene</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Income</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE3DB163FF936A15752C0A9619C8B63" item-length="893" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Incomes and Inequality: What the Numbers Don't Tell Us</hl1>
+        <hl2 class="online_headline">Incomes and Inequality: What the Numbers Don’t Tell Us</hl2>
+      </hedline>
+      <byline class="print_byline">By TYLER COWEN</byline>
+      <byline class="normalized_byline">Cowen, Tyler</byline>
+      <abstract>
+        <p>Economic Scene column discusses United States economy's growing inequality in wealth and income; holds that situation is not as unfair as numbers may suggest (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The growing inequality in wealth and income has led many people to question whether the contemporary American economy is rigged in favor of the rich. While there is little doubt that the gap between the wealthy and everybody else has widened in recent years, the situation is not as unfair as some of the numbers seem to imply.</p>
+        <p>Much of the measured growth in income inequality has resulted from natural demographic trends. In general, there is more income inequality among older populations than among younger populations, if only because older people have had more time to experience rising or falling fortunes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While there is little doubt that the income gap has widened in recent years, the situation is not as unfair as some of the numbers seem to imply.</p>
+      </block>
+      <block class="full_text">
+        <p>The growing inequality in wealth and income has led many people to question whether the contemporary American economy is rigged in favor of the rich. While there is little doubt that the gap between the wealthy and everybody else has widened in recent years, the situation is not as unfair as some of the numbers seem to imply.</p>
+        <p>Much of the measured growth in income inequality has resulted from natural demographic trends. In general, there is more income inequality among older populations than among younger populations, if only because older people have had more time to experience rising or falling fortunes.</p>
+        <p>Furthermore, more-educated groups show greater income inequality than less-educated groups. Uneducated people are more likely to be clustered in a tight range of relatively low incomes. But the educated will include a greater range of highly motivated breadwinners and relaxed bohemians, and a greater range of winning and losing investors. A result is a greater variety of incomes. Since the United States is growing older and also more educated, income inequality will naturally rise.</p>
+        <p>Thomas Lemieux, professor of economics at the University of British Columbia, estimates that these demographic effects account for about three-quarters of the observed rise in income inequality for men and 69 to 95 percent of the observed rise in income inequality for women (''Increasing Residual Wage Inequality: Composition Effects, Noisy Data, or Rising Demand for Skill?'' The American Economic Review, June 2006). In other words, rising income inequality is not just a result of unfairness or bad public policy.</p>
+        <p>Alan Reynolds, senior fellow at the Cato Institute, goes further in his recent book ''Income and Wealth.'' Mr. Reynolds argues that many measures of income inequality do not adequately account for government aid to lower-income groups. Furthermore, he says, the rich appear to be getting so much richer because of the tax-induced shifting of income from the corporate sector to the personal sector in the wake of the 1980s tax changes.</p>
+        <p>He describes the observed rise in income inequality as a statistical illusion. The consensus of professional economists is that Mr. Reynolds goes too far. The long-term trend of rising income inequality is evident in many different studies, including those of executive compensation, even if some estimates are exaggerated.</p>
+        <p>In any case, as Mr. Reynolds and others point out, income is not the only -- or even the most -- important measure of inequality. For instance, inequality of consumption -- the difference between what the poor consume and what the rich consume -- does not show a significant upward trend (Dirk Krueger and Fabrizio Perri, ''Does Income Inequality Lead to Consumption Inequality?'' The Review of Economic Studies, January 2006). Consumption, of course, is not an ideal indicator of well-being; a high or steady level of purchases may reflect growing debt, and the ease of buying a big-screen TV does not reflect a comparable ease in buying good health care.</p>
+        <p>Happiness, possibly the most relevant variable for a study of inequality, is also the hardest to measure. Nonetheless, inequality of happiness is usually less marked than inequality of income, at least in wealthy societies. A man earning $500,000 a year is not usually 10 times as happy as a man earning $50,000 a year. The $50,000 earner still enjoys most of the conveniences of the modern world. Even if more money makes people happier, it appears to do so at a declining rate, which places a natural check on the inequality of happiness.</p>
+        <p>Studies of personal happiness, based on questionnaires and self-reporting, indicate that the inequality of happiness is not growing over time in the United States. Furthermore, the United States has an inequality of happiness roughly comparable to that of Sweden or Denmark, two nations with strongly egalitarian reputations. (See the symposium in Journal of Happiness Studies, December 2005.) American society offers good opportunities for people to be happy, even if not everyone becomes rich.</p>
+        <p>If we look at leisure, from 1965 to 2003, less-educated groups experienced a bigger boost in free time than more-educated groups (Mark Aguiar and Erik Hurst, ''Measuring Trends in Leisure: The Allocation of Time Over Five Decades,'' Federal Reserve Bank of Boston Working Paper). In other words, the high earners are working hard for their money and perhaps they are having less fun.</p>
+        <p>So matters are not as bad as the critics have suggested. The dollars in our bank accounts are one measure of societal value, and it hardly seems fair that the very wealthy should receive more and more. But for the rest of us, life on the ground is not so terrible. Income and wealth inequality measures, taken alone, provide a misleadingly pessimistic picture.</p>
+        <p>The broader philosophical question is why we should worry about inequality -- of any kind -- much at all. Life is not a race against fellow human beings, and we should discourage people from treating it as such. Many of the rich have made the mistake of viewing their lives as a game of relative status. So why should economists promote this same zero-sum worldview? Yes, there are corporate scandals, but it remains the case that most American wealth today is produced rather than taken from other people.</p>
+        <p>What matters most is how well people are doing in absolute terms. We should continue to improve opportunities for lower-income people, but inequality as a major and chronic American problem has been overstated.</p>
+        <p>ECONOMIC SCENE Tyler Cowen is a professor of economics at George Mason University and co-author of a blog at www.marginalrevolution.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Tyler Cowen is a professor of economics at George Mason University and co-author of a blog at www.marginalrevolution.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

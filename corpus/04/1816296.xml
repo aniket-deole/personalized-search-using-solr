@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="04askk" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/technology/04askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816296"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6D81730F937A35752C0A9619C8B63" item-length="723" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Importing Contacts From Eudora</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Importing Contacts From Eudora</p>
+        <p>Q. Is there a way to transfer a large address book from Eudora to another e-mail program?</p>
+        <p>A. Relocating your Eudora e-mail address book is possible in most situations. The exact steps will vary based on the version of Eudora you have, the operating system you have and the new e-mail program you want to use.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Is there a way to transfer a large address book from Eudora to another e-mail program?</p>
+      </block>
+      <block class="full_text">
+        <p>Importing Contacts From Eudora</p>
+        <p>Q. Is there a way to transfer a large address book from Eudora to another e-mail program?</p>
+        <p>A. Relocating your Eudora e-mail address book is possible in most situations. The exact steps will vary based on the version of Eudora you have, the operating system you have and the new e-mail program you want to use.</p>
+        <p>In many cases, you can simply use an importing tool from your new e-mail software to pull in the address book from your Eudora program. Microsoft Outlook Express and Mozilla Thunderbird are two programs with such an option.</p>
+        <p>Some versions of Eudora use a full-feature address book that can hold more information than just a name and an e-mail address, offering fields for notes, photos and multiple mailing addresses as well. If your Eudora address book is fairly detailed, you may want to consider getting conversion software that can move all of this information more accurately between mail programs.</p>
+        <p>Address Magic by Connected Software (www.connectedsw.com/AddressMagic.php) is one such utility for Windows. The eMailman Web site, which devotes itself to all things e-mail, has a page of links to other address-book conversion programs for Mac and Windows systems at www.emailman.com/conversion.</p>
+        <p>Untangling A Mess of Cables</p>
+        <p>Q. What can I do about the tangle of computer cables on and behind the desk?</p>
+        <p>A. If you find your desk area has become knotted with snaking cables, there are a couple of approaches to untangling the problem.</p>
+        <p>One way to cut down on cables is to use wireless peripherals. For example, many mice, keyboards, speakers and other computer hardware items now come in Bluetooth versions that use radio signals to transmit data between devices instead of a cable. This option, however, can be expensive, and you may not be able to find wireless products for all of your hardware needs.</p>
+        <p>A cable-management system is a cheaper option. Companies like Cable-Safe (www.cable-safe.com) offer several products for tying down (or tying up) the power cords and wires coming out of the computer.</p>
+        <p>Office supply stores like Staples (www.staples.com) and Office Depot (www.officedepot.com) also sell a variety of inexpensive cable ties, clips and sleeves to keep cords neatly bound and under control. Threading your cables through plastic tubing (like the kind sold for aquariums) is another option, and is sometimes favored by those with pets who like to nibble on computer cables.</p>
+        <p>Adding Titles To Songs in iTunes</p>
+        <p>Q. Sometimes when I try to import music from a CD into iTunes, the computer lists the songs as ''Track 01, Track 02,'' etc. Is there any way I can manually add the information for each song?</p>
+        <p>A. The iTunes program pulls down album information over the Internet from the Gracenote CD Database (also known as the CDDB). If you are not online when you import the songs from the CD, iTunes cannot download the titles. You may also see the ''Track 01'' listing if you are connected to the Internet but there is no information about that particular album in the database.</p>
+        <p>If you imported the tracks when you were offline, you can go back and look for the song information the next time you fire up your Internet connection. Once you are online, go to iTunes and click on the nameless tracks you want to identify.</p>
+        <p>On the Windows version of the program, holding down the Shift key lets you select multiple tracks listed next to each other, and holding down the Control key while you click lets you select nonadjacent songs in a list. (On the Mac, the Shift and Command keys provide the same functions.)</p>
+        <p>Once you have selected your tracks, go to the Advanced menu and select ''Get CD Track Names.'' If iTunes can find the album, it should apply the song information to your selected tracks.</p>
+        <p>If all else fails, you can manually type in the information for each song. One way to do this is to select the song or album you want to change and choose Get Info from the File menu. Click the Info tab and make your changes. If you are editing a whole album's worth of tracks, click the next button to go to the next track and click the O.K. button when finished.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

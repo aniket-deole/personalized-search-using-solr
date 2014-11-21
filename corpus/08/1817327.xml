@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SIRKIN, ABRAHAM M</title>
+    <meta content="dn010807" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817327"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SIRKIN, ABRAHAM M</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E6D91E3AF93BA35752C0A9619C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SIRKIN, ABRAHAM M</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SIRKIN--Abraham M, died January 7, at 92, in Rockville, MD. A graduate of Townsend Harris HS and Columbia, he had a career in public relations for the US government, serving in Tokyo, London, Madras, and Athens. He was a champion for a free press and human rights while in Greece under the junta and on the State Depts Policy Planning Staff. He is survived by his wife of 55 years, Helen Ball, and their four children and six grandchildren. Services at Adas Israel Congregation, Washington, DC, January 9th at 10 am. Donations can be made to the American Friends of Neve Shalom/Wahat al-Salam.</p>
+      </block>
+      <block class="full_text">
+        <p>SIRKIN--Abraham M, died January 7, at 92, in Rockville, MD. A graduate of Townsend Harris HS and Columbia, he had a career in public relations for the US government, serving in Tokyo, London, Madras, and Athens. He was a champion for a free press and human rights while in Greece under the junta and on the State Depts Policy Planning Staff. He is survived by his wife of 55 years, Helen Ball, and their four children and six grandchildren. Services at Adas Israel Congregation, Washington, DC, January 9th at 10 am. Donations can be made to the American Friends of Neve Shalom/Wahat al-Salam.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

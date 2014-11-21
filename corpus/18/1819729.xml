@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Publisher Drops Novel About Mantle</title>
+    <meta content="18mantle" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819729"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <org class="indexing_service">Harpercollins</org>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <person class="indexing_service">Golenbock, Peter</person>
+        <person class="indexing_service">Regan, Judith</person>
+        <person class="indexing_service">Mantle, Mickey (1931-95)</person>
+        <object.title class="indexing_service">7: The Mickey Mantle Novel (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E1D81130F93BA25752C0A9619C8B63" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Publisher Drops Novel About Mantle</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+      <abstract>
+        <p>HarperCollins cancels Peter Golenbock's new book 7: The Mickey Mantle Novel after editor Judith Regan is fired (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''7: The Mickey Mantle Novel,'' a frequently salacious fictional account of the late Yankee's life, was canceled yesterday by its publisher, HarperCollins, slightly more than a month before it was to be released.</p>
+        <p>The cancellation of the book, written by the veteran sports author Peter Golenbock, came on the day HarperCollins shuttered its ReganBooks imprint. Judith Regan, the editor who ran the imprint, was fired last month.</p>
+      </block>
+      <block class="full_text">
+        <p>''7: The Mickey Mantle Novel,'' a frequently salacious fictional account of the late Yankee's life, was canceled yesterday by its publisher, HarperCollins, slightly more than a month before it was to be released.</p>
+        <p>The cancellation of the book, written by the veteran sports author Peter Golenbock, came on the day HarperCollins shuttered its ReganBooks imprint. Judith Regan, the editor who ran the imprint, was fired last month.</p>
+        <p>''I'm disappointed,'' Golenbock said by telephone last night. ''But I certainly have prospects. There is serious interest out there for it.''</p>
+        <p>The disclosure last month that ReganBooks was planning to publish ''7'' came soon after HarperCollins canceled ''If I Did It,'' by O. J. Simpson, about the murders of his ex-wife, Nicole, and her friend Ron Goldman. A companion television interview with Simpson on the Fox network was also canceled. Fox and HarperCollins are owned by the News Corporation.</p>
+        <p>Michael Morrison, president and group publisher of Harper/Morrow, said in a telephone interview that ''it was best for Peter to have a fresh start with the book. There was so much unfair attention paid to the book based on what happened with Judith. People were lumping the two books together.''</p>
+        <p>Golenbock said he had no regrets about writing the book. ''I love this book,'' he said. ''And Mickey would have loved it, too. A lot of the people who've said nasty things about it haven't read it. But if you read it, I guarantee you'll find humor and pathos and a real human being.'' One of the scenes in the book depicts a sexual encounter between Mantle and Marilyn Monroe.</p>
+        <p>Morrison said that he had read ''7'' twice and that ''I enjoyed it.''</p>
+        <p>He added, ''It's hard to say how well it would have done, but a subset of Mickey Mantle devotees would have bought it because they were interested in the hype around it.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

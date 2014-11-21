@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clinton Opens Her Campaign With Health Insurance Plan</title>
+    <meta content="22clinton" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/us/politics/22clinton.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820736"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <person class="indexing_service">Clinton, Hillary Rodham (Sen)</person>
+        <person class="indexing_service">Healy, Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Health Care Policy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicaid</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Clinton, Hillary Rodham</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6DB1F30F931A15752C0A9619C8B63" item-length="426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clinton Opens Her Campaign With Health Insurance Plan</hl1>
+        <hl2 class="online_headline">Clinton Opens Her Campaign With Health Insurance Plan</hl2>
+      </hedline>
+      <byline class="print_byline">By PATRICK HEALY</byline>
+      <byline class="normalized_byline">Healy, Patrick</byline>
+      <abstract>
+        <p>Sen Hillary Rodham Clinton starts presidential campaign at Manhattan health care clinic, announcing legislation that would significantly expand federal health insurance for Americans under 18; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With a 4-year-old girl clutching her hand, Senator Hillary Rodham Clinton began her newborn presidential campaign yesterday at a Manhattan health care clinic, announcing legislation that would significantly expand federal health insurance for Americans under age 18.</p>
+        <p>Mrs. Clinton said her husband, Bill, and their daughter, Chelsea, would play ''support system'' roles for her, and she pledged to continue protecting New York's interests in Washington even as she campaigns in Iowa and New Hampshire.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Senator Hillary Rodham Clinton said her husband, Bill, and their daughter, Chelsea, would play “support system” roles for her.</p>
+      </block>
+      <block class="full_text">
+        <p>With a 4-year-old girl clutching her hand, Senator Hillary Rodham Clinton began her newborn presidential campaign yesterday at a Manhattan health care clinic, announcing legislation that would significantly expand federal health insurance for Americans under age 18.</p>
+        <p>Mrs. Clinton said her husband, Bill, and their daughter, Chelsea, would play ''support system'' roles for her, and she pledged to continue protecting New York's interests in Washington even as she campaigns in Iowa and New Hampshire.</p>
+        <p>She said she wanted to be president because she was ''worried about our country'' and wanted to ''put it back on the right course.''</p>
+        <p>She made no reference to the other seven Democratic candidates, other than to say the race would be a great contest and that ''a lot of talented people'' were running.</p>
+        <p>The visit to Ryan/Chelsea-Clinton Community Health Center, which is just blocks west of Broadway (and is named after two neighborhoods it serves), was highly scripted political theater.</p>
+        <p>Reminiscent of the scene this month when Representative Nancy Pelosi became the first woman to be speaker of the House, children surrounded Mrs. Clinton and climbed over their parents in the audience. The event was intended to convey both her policy smarts and her warmer maternal side -- a combination new to presidential primaries.</p>
+        <p>During most of the half-hour event, a 4-year-old girl named Camilla Harden, a beneficiary of the program, clutched Mrs. Clinton's left hand. Eventually Camilla began scampering around with her sister, Olivia, 2. Every time Mrs. Clinton patted or tickled the girls, the photographers' cameras clicked madly.</p>
+        <p>Mrs. Clinton's proposed legislation would renew the Children's Health Insurance Program, which provides money to states to cover Americans under age 18 whose families earn too much money to qualify for Medicaid. The 10-year-old program, which now covers four million children, is to expire this fall. Representative John D. Dingell, Democrat of Michigan, plans to introduce a similar bill.</p>
+        <p>Mrs. Clinton's legislation would raise the income eligibility limit so that more children could enroll; in New York, a family of four earning $75,000 would qualify. And the bill would allow any family, as well as employers, to buy insurance.</p>
+        <p>''They're trapped between the rising costs and the broken system, and we can help them get out of that trap,'' Mrs. Clinton said.</p>
+        <p>Members of the senator's staff said they were still working out the cost of the proposal. About 8.3 million Americans under 18 do not have health care, but about 70 percent of them are already eligible for Medicaid or for the program Mrs. Clinton seeks to expand.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

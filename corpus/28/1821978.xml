@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Connecticut's Gambling Habit</title>
+    <meta content="CTgambling" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/opinion/nyregionopinions/CTgambling.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821978"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Casinos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Casinos</classifier>
+        <location class="online_producer">Connecticut</location>
+        <org class="online_producer">Mohegan Sun Casino</org>
+        <org class="online_producer">National Gambling Impact Study Commission</org>
+        <org class="online_producer">foxwoods resort casino</org>
+        <person class="online_producer">Rowland, John G</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5D7163FF93BA15752C0A9619C8B63" item-length="453" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Connecticut's Gambling Habit</hl1>
+        <hl2 class="online_headline">Connecticut’s Gambling Habit</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Connecticut does not need the neon flash of the Las Vegas Strip to make money from gambling. Consider: Nevada, with its scores of casinos, took in tax revenue of about $1 billion last year. But Connecticut's State Treasury took in $718 million from the lottery and just two Indian casinos.</p>
+        <p>There was once a time when Connecticut had a healthy caution about the negative impact of legal gambling. That is one reason that the General Assembly passed a law in 1991 requiring a statewide gambling study every five years. But just two studies were completed. Reports on the impact of gambling, which were supposed to be done regularly, have been delayed for years by a state government reluctant to examine this issue too closely.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If the state is going to take in nearly $2 million a day from gambling, the least it should do is spend a few hours of revenue in seeking the unvarnished truth about its impact.</p>
+      </block>
+      <block class="full_text">
+        <p>Connecticut does not need the neon flash of the Las Vegas Strip to make money from gambling. Consider: Nevada, with its scores of casinos, took in tax revenue of about $1 billion last year. But Connecticut's State Treasury took in $718 million from the lottery and just two Indian casinos.</p>
+        <p>There was once a time when Connecticut had a healthy caution about the negative impact of legal gambling. That is one reason that the General Assembly passed a law in 1991 requiring a statewide gambling study every five years. But just two studies were completed. Reports on the impact of gambling, which were supposed to be done regularly, have been delayed for years by a state government reluctant to examine this issue too closely.</p>
+        <p>The last gambling study was completed in 1996, when Foxwoods Resort Casino had been open less than five years and the Mohegan Sun Casino had just opened its doors, in October of that year. The research asserted that the number of problem gamblers in the state was anywhere from 33,000 to 76,000.</p>
+        <p>Both casinos have expanded significantly since. Furthermore, in 1998, the National Gambling Impact Study Commission found that pathological gambling doubles within 50 miles of a casino. So the state is overdue for a report that asks tough questions about the social cost of gambling. A relevant investigation will not stop at the impact of the casinos, of course. State lottery games, which have existed since 1972, have proliferated in recent years.</p>
+        <p>This year the state is finally prepared to pay for a study on the impact of gambling on Connecticut. But the $350,000 it plans to spend falls far short of the amount needed. It's even less than the $500,000 the state initially earmarked in 2001, before former Gov. John Rowland took money for the research out of the budget. Connecticut needs to do more than go through the motions. A price tag closer to $1 million is needed to do an adequate survey of the prevalence of problem gambling and a cost-benefit analysis of gambling.</p>
+        <p>Other gambling studies have shown it is much easier to measure the short-term impacts of gambling -- like the number of jobs, tax revenue and increases in tourism -- than the long-term impacts that Connecticut needs to measure. Gambling addiction takes years to develop, but a minority of people who cannot seem to stop gambling without intervention are at higher risk for bankruptcy, depression and committing crimes like embezzlement, and even have a greater risk of committing suicide.</p>
+        <p>If the state is going to take in nearly $2 million a day from gambling, the least it should do is spend a few hours of revenue in seeking the unvarnished truth about its impact.</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

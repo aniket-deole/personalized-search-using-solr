@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Readers Call Newspapers. These Are Their Stories.</title>
+    <meta content="29gate" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/business/media/29gate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822367"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">San Francisco Chronicle</org>
+        <person class="indexing_service">Bronstein, Phil</person>
+        <person class="indexing_service">Levine, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">San Francisco Chronicle</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E7DE143FF93AA15752C0A9619C8B63" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Readers Call Newspapers. These Are Their Stories.</hl1>
+        <hl2 class="online_headline">Readers Call Newspapers. These Are Their Stories.</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT LEVINE</byline>
+      <byline class="normalized_byline">Levine, Robert</byline>
+      <abstract>
+        <p>San Francisco Chronicle is posting voice mail messages readers have left for reporters and editors on its Web site; vice president and editor Phil Bronstein says it is way to listen to readers and bring life back into newspapers (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To respond to the challenge posed by digital media, newspaper executives are being told to listen to their readers. The San Francisco Chronicle is doing just that: It is posting some of the voice mail messages left for reporters and editors as audio files on its Web site, SFGate.com.</p>
+        <p>The first such voice mail message, posted Wednesday under the rubric ''Correct Me If I'm Wrong '' is about an error the reader says appeared in the Aug. 29 Chronicle, on page B6. ''The subhead is a tautology -- it says 'Forest service begins testing pilotless drones,' '' the increasingly agitated caller says. ''Is there any other kind of drone? You tell me right now, is there any other kind of drone other than a pilotless drone? Isn't that what a drone is, an unmanned aircraft?''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The San Francisco Chronicle is posting voice mail messages left for reporters and editors as audio files on its Web site, SFGate.com.</p>
+      </block>
+      <block class="full_text">
+        <p>To respond to the challenge posed by digital media, newspaper executives are being told to listen to their readers. The San Francisco Chronicle is doing just that: It is posting some of the voice mail messages left for reporters and editors as audio files on its Web site, SFGate.com.</p>
+        <p>The first such voice mail message, posted Wednesday under the rubric ''Correct Me If I'm Wrong '' is about an error the reader says appeared in the Aug. 29 Chronicle, on page B6. ''The subhead is a tautology -- it says 'Forest service begins testing pilotless drones,' '' the increasingly agitated caller says. ''Is there any other kind of drone? You tell me right now, is there any other kind of drone other than a pilotless drone? Isn't that what a drone is, an unmanned aircraft?''</p>
+        <p>Putting voice mail messages from readers online was the idea of Phil Bronstein, the vice president and editor of The Chronicle. ''This is about listening to your readers,'' he said. ''Newspapers used to be a lot more lively than they are now, and they could definitely stand some of that.'' If readers respond well, he added, the paper might add ''dramatic readings'' of some of the letters that come in.</p>
+        <p>Judging from posted comments, listeners find it amusing. ''Some people have said it's pretty strange and others have thought it was hysterically funny,'' Mr. Bronstein said.</p>
+        <p>And, as perhaps is inevitable, somebody always wants the last word. ''Remotely piloted vehicles do have pilots,'' said a reader, whose call was also posted online. ''It's just that the pilot is sitting elsewhere doing his piloting by radio.''</p>
+        <p>ROBERT LEVINE</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

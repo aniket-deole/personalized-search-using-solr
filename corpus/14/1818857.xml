@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LEAVING THE BOARD</title>
+    <meta content="14suits-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818857"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Boards of Directors</classifier>
+        <org class="indexing_service">Shutterfly (Co)</org>
+        <person class="indexing_service">Clark, Jim</person>
+        <person class="indexing_service">Olson, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E3DA1330F937A25752C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LEAVING THE BOARD</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+      <abstract>
+        <p>Jim Clark resigns from board of directors of Shutterfly online photo processing service saying that it is no longer fun (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Moguldom is not what it used to be. Just ask Jim Clark, who ignited the dot-com boom by taking Netscape public a decade ago.</p>
+        <p>He recently resigned from the board of Shutterfly, the online photo processing service, saying that the Sarbanes-Oxley corporate-governance law had taken all the fun out of being a director. Congress enacted the law and President Bush signed it in 2002 in response to the Enron, WorldCom and other scandals.</p>
+      </block>
+      <block class="full_text">
+        <p>Moguldom is not what it used to be. Just ask Jim Clark, who ignited the dot-com boom by taking Netscape public a decade ago.</p>
+        <p>He recently resigned from the board of Shutterfly, the online photo processing service, saying that the Sarbanes-Oxley corporate-governance law had taken all the fun out of being a director. Congress enacted the law and President Bush signed it in 2002 in response to the Enron, WorldCom and other scandals.</p>
+        <p>Mr. Clark, who founded Shutterfly and owned about 30 percent when it went public last September, complained in his resignation letter that he believed that the law forbids him to be chairman or to run any of the board's committees.</p>
+        <p>''What's left,'' he added tartly, ''is liability and constraints on stock transactions, neither of which excite me.''</p>
+        <p>So Mr. Clark went home, taking some solace, one presumes, in his 292-foot yacht, Athena, the world's largest three-masted schooner when it was launched in 2004.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

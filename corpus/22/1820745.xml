@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Friendly Rivals, Part II</title>
+    <meta content="22albany-1" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820745"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ALBANY NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Comptrollers</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Confessore, Nicholas</person>
+        <person class="indexing_service">O'Connell, Maureen</person>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <person class="indexing_service">Dinapoli, Thomas P (Assemblyman)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E4DB1F30F931A15752C0A9619C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Friendly Rivals, Part II</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS CONFESSORE</byline>
+      <byline class="normalized_byline">Confessore, Nicholas</byline>
+      <abstract>
+        <p>Nassau County, NY, Republican State Senate candidate Maureen O'Connell urges Gov Eliot Spitzer to support Nassau County Democratic Assemblyman Thomas P DiNapoli for state comptroller; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The political odd couples are not only on the Democratic side of the Nassau State Senate race.</p>
+        <p>The Republican candidate, Maureen O'Connell, recently wrote a letter to Governor Spitzer urging him to support a Nassau County Democrat, Assemblyman Thomas P. DiNapoli, below, for state comptroller.</p>
+      </block>
+      <block class="full_text">
+        <p>The political odd couples are not only on the Democratic side of the Nassau State Senate race.</p>
+        <p>The Republican candidate, Maureen O'Connell, recently wrote a letter to Governor Spitzer urging him to support a Nassau County Democrat, Assemblyman Thomas P. DiNapoli, below, for state comptroller.</p>
+        <p>''As the taxpayers' advocate, the state comptroller must possess independence and integrity,'' Ms. O'Connell wrote in the letter, which was also published in a local newspaper. ''Assemblyman DiNapoli personifies these traits and, through his lifetime of public service, he has earned the public's trust.''</p>
+        <p>Mr. DiNapoli is one of at least 18 people -- lawmakers, current or former officials and businessmen -- seeking to replace the former comptroller, Alan G. Hevesi, who resigned after pleading guilty to a felony for using a state worker to chauffeur his wife.</p>
+        <p>Ms. O'Connell, who is running in a district where registered Democrats now outnumber registered Republicans, said in an interview that she had not yet run into any Republicans who were miffed that she would back a Democrat for the high-profile office.</p>
+        <p>Since Democrats will have the upper hand in choosing the next comptroller, few Republicans expressed any interest in the race -- with one exception being Andrew S. Eristoff, a commissioner of tax and finance in the Pataki administration.</p>
+        <p>''The reason I wrote the letter is because I've known Tom DiNapoli for a long time,'' Ms. O'Connell, herself a former assemblywoman from the area, said in an interview. ''I think he's the right person for the job. He's a man of character and integrity and honesty.''</p>
+        <p>NICHOLAS CONFESSORE</p>
+        <p>ALBANY NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

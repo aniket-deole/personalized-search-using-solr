@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mama Was a Rolling Stone</title>
+    <meta content="26whip" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/theater/reviews/26whip.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821457"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THEATER REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Bellafante, Ginia</person>
+        <person class="indexing_service">Hopkins, Cynthia</person>
+        <object.title class="indexing_service">Must Don't Whip 'Um (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <person class="online_producer">Hopkins, Cynthia</person>
+        <object.title class="online_producer">Must Don't Whip 'Um (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E0D7163FF935A15752C0A9619C8B63" item-length="370" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mama Was a Rolling Stone</hl1>
+        <hl2 class="online_headline">Mama Was a Rolling Stone</hl2>
+      </hedline>
+      <byline class="print_byline">By GINIA BELLAFANTE</byline>
+      <byline class="normalized_byline">Bellafante, Ginia</byline>
+      <abstract>
+        <p>Ginia Bellafante reviews performance art piece Must Don't Whip 'Um, performed by Cynthia Hopkins; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To a certain kind of aesthetic traditionalist there is certainly no more alienating set of words in the artist's vocabulary than the phrase ''mixed-media performance.'' Such an individual hears those words and fears, more often than not justifiably, the very worst -- indulgence, discord, facile earnestness. The mixed-media performer can be prone to masquerading platitude (war is trying; love, unattainable; materialism, rampant) as position. And in delivering the masquerade in several formats --with instruments, computer monitors, acrobats -- the performer is suggesting that a mere barrage of images will compensate for all crimes of intellectual ambition committed.</p>
+        <p>Cynthia Hopkins, however, holds herself to a higher standard. Her latest piece, ''Must Don't Whip 'Um,'' which made its debut at St. Ann's Warehouse earlier this week after a staging in Minneapolis, is a triumph of disciplined thinking, narrative fluidity and musical accomplishment.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Cynthia Hopkins’s latest piece is a triumph of disciplined thinking, narrative fluidity and musical accomplishment.</p>
+      </block>
+      <block class="full_text">
+        <p>To a certain kind of aesthetic traditionalist there is certainly no more alienating set of words in the artist's vocabulary than the phrase ''mixed-media performance.'' Such an individual hears those words and fears, more often than not justifiably, the very worst -- indulgence, discord, facile earnestness. The mixed-media performer can be prone to masquerading platitude (war is trying; love, unattainable; materialism, rampant) as position. And in delivering the masquerade in several formats --with instruments, computer monitors, acrobats -- the performer is suggesting that a mere barrage of images will compensate for all crimes of intellectual ambition committed.</p>
+        <p>Cynthia Hopkins, however, holds herself to a higher standard. Her latest piece, ''Must Don't Whip 'Um,'' which made its debut at St. Ann's Warehouse earlier this week after a staging in Minneapolis, is a triumph of disciplined thinking, narrative fluidity and musical accomplishment.</p>
+        <p>Ms. Hopkins tells the story of a failed and missing fictitious 1970s rock singer, Cameron Seymour, through the pieced-together reminiscences of her daughter, Mary, who is making a documentary about her in hopes of figuring out exactly who and what she was. The conceit allows for the use of projected images from live cameras and the presentation of hilarious mock documentary footage -- witnesses to the era who inform Mary in interviews that her mother wasn't quite the Janis Joplin genius she had imagined.</p>
+        <p>Ms. Hopkins nimbly plays both mother and daughter. As Cameron, she sings a series of haunting and sometimes quite funny songs that she composed herself, accompanied by Ms. Hopkins's band, Gloria Deluxe, which moves in and out of view on the upper level of a stage, a scrim serving to hide and reveal it. Ms. Hopkins's voice is both so delicate and emotionally forceful -- part Natalie Merchant, part Madeline Peyroux -- that it leaves you wondering why she has ever bothered to do anything else but deploy it.</p>
+        <p>But she has done much else, and at the heart of the production's magic is her soulful exploration of maternal abandonment, the conflicts an artist's life presents, and the solipsism of spiritual quest. All the rest is wonderful confetti.</p>
+        <p>''Must Don't Whip 'Um'' continues through Feb. 4 at St. Ann's Warehouse, 38 Water Street, Dumbo, Brooklyn; (718) 254-8779.</p>
+        <p>THEATER REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

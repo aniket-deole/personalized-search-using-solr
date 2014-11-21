@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Lexus Gets an F, and That's a Good Thing</title>
+    <meta content="08NUGGETlexus" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/automobiles/autoshow/08NUGGETlexus.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817909"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <org class="online_producer">Lexus Division of Toyota Motor Sales USA</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E1DD1130F933A25752C0A9619C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Lexus Gets an F, and That's a Good Thing</hl1>
+        <hl2 class="online_headline">This Lexus Gets an F, and That’s a Good Thing</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE ULRICH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Monday: 2008 Lexus IS-F</p>
+        <p>Is it real? Oh, yes -- real enough to draw envious looks from the BMW M3 and the</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Introduced on Monday: 2008 Lexus IS-F.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Monday: 2008 Lexus IS-F</p>
+        <p>Is it real? Oh, yes -- real enough to draw envious looks from the BMW M3 and the</p>
+        <p>Audi RS4, high-performance sport sedans the Lexus will compete against.</p>
+        <p>What's the point? The first car to wear Lexus' new high-performance ''F'' designation, the IS-F gets V-8 power and sharper handling in an effort to put the car on equal footing with European factory-tuner models.</p>
+        <p>What they said: ''We think the IS was a really stout foundation, but it hasn't gotten the respect it could,'' said Paul Williamsen, production education manager of University of Toyota, the company's dealer-training arm.</p>
+        <p>What they didn't say: The fastidious Lexus has always erred on the side of caution. But enthusiasts can rejoice: the IS will be among the first Lexus models to allow the stability control system to be shut off completely for full-bore performance driving.</p>
+        <p>What makes it tick? A 5.0-liter V-8 with 400-plus horsepower and the world's first</p>
+        <p>eight-speed sport-shifting automatic will slingshot the IS to 60 m.p.h. in less than five seconds, Lexus says. The electric steering is retuned and the suspension is stiffened and lowered; this IS features custom 19-inch BBS wheels, enormous six-piston front brake calipers and a quartet of stacked exhaust outlets.</p>
+        <p>How much, how soon? The IS 350 can soar past $45,000 with options, so $55,000-$60,000 is a safe guess when the IS-F hits showrooms next January.</p>
+        <p>How's it look? Like a street-fighting Japanese tuner. The show car features a delirious shade of blue that seemingly shouldn't survive outside a Petri dish.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

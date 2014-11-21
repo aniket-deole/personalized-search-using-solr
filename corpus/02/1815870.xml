@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MANHEIMER, ROBERT H., M.D.</title>
+    <meta content="dn010207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815870"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MANHEIMER, ROBERT H., M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E4DD1E3AF931A35752C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MANHEIMER, ROBERT H., M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MANHEIMER -- Robert H., M.D., 88. The President and Trustees of Montefiore Medical Center are deeply saddened by the passing of Robert H. Manheimer, M.D., an esteemed colleague and friend. Doctor Manheimer's career as a rheumatologist at Montefiore spanned over 60 years, having just recently retired from his practice. He is predeceased by his loving wife, May Rosner Manheimer, an archivist at the Medical Center. Our heartfelt condolences are extended to his children and entire family. Spencer Foreman, M.D., President Jay B. Langner, Chairman Board of Trustees Montefiore Medical Center</p>
+        <p>$(6$)MANHEIMER -- Robert H., M.D. The Department of Medicine mourns the passing of Robert H. Mannheimer, M.D. Dr. Manheimer was a respected faculty member with us for nearly 60 years, lovingly caring for his patients in our practice and masterfully teaching rheumatology to our students, residents, and fellows. We will miss him. Victor L. Schuster, MD and The Department of Medicine Montefiore Medical Center and Albert Einstein College of Medicine</p>
+      </block>
+      <block class="full_text">
+        <p>MANHEIMER -- Robert H., M.D., 88. The President and Trustees of Montefiore Medical Center are deeply saddened by the passing of Robert H. Manheimer, M.D., an esteemed colleague and friend. Doctor Manheimer's career as a rheumatologist at Montefiore spanned over 60 years, having just recently retired from his practice. He is predeceased by his loving wife, May Rosner Manheimer, an archivist at the Medical Center. Our heartfelt condolences are extended to his children and entire family. Spencer Foreman, M.D., President Jay B. Langner, Chairman Board of Trustees Montefiore Medical Center</p>
+        <p>$(6$)MANHEIMER -- Robert H., M.D. The Department of Medicine mourns the passing of Robert H. Mannheimer, M.D. Dr. Manheimer was a respected faculty member with us for nearly 60 years, lovingly caring for his patients in our practice and masterfully teaching rheumatology to our students, residents, and fellows. We will miss him. Victor L. Schuster, MD and The Department of Medicine Montefiore Medical Center and Albert Einstein College of Medicine</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

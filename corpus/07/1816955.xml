@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Awkward Dance</title>
+    <meta content="07letters.t-3" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816955"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <person class="indexing_service">Cohen, Randy</person>
+        <person class="indexing_service">Troiano, Emily V</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E2DA1730F934A35752C0A9619C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Awkward Dance</hl1>
+      </hedline>
+      <abstract>
+        <p>Emily V Troiano letter commends Dec 17, 2006, query to Randy Cohen ethics column about reaction to black dancers in the Nutcracker, suggesting it shows self-awareness</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The writer to The Ethicist (Dec. 17) who asked if she was a racist because black dancers disturbed her viewing of ''The Nutcracker'' at least showed self-awareness. It's never too late to realize that, yes, you are a racist, and to try to ensure you aren't passing on those ideas to your grandchildren. It's talent and potential that are vital, not the color of one's skin.</p>
+        <p>Emily V. Troiano</p>
+        <p>Tucson</p>
+      </block>
+      <block class="full_text">
+        <p>The writer to The Ethicist (Dec. 17) who asked if she was a racist because black dancers disturbed her viewing of ''The Nutcracker'' at least showed self-awareness. It's never too late to realize that, yes, you are a racist, and to try to ensure you aren't passing on those ideas to your grandchildren. It's talent and potential that are vital, not the color of one's skin.</p>
+        <p>Emily V. Troiano</p>
+        <p>Tucson</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

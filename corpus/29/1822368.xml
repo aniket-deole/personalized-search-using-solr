@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Google Halts 'Miserable Failure' Link to President Bush</title>
+    <meta content="29google" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/technology/29google.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822368"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <org class="indexing_service">Google Inc</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Cohen, Noam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Google Inc</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E7DE143FF93AA15752C0A9619C8B63" item-length="493" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Google Halts 'Miserable Failure' Link to President Bush</hl1>
+        <hl2 class="online_headline">Google Halts ‘Miserable Failure’ Link to President Bush</hl2>
+      </hedline>
+      <byline class="print_byline">By NOAM COHEN</byline>
+      <byline class="normalized_byline">Cohen, Noam</byline>
+      <abstract>
+        <p>Google corrects search engine so that typing 'miserable failure' does not lead to President Bush's White House home page; search result was example of 'Google bombing' where users manipulate search technology to make political or social point; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It has been a bad month for anti-Bush snarkiness.</p>
+        <p>First, the anodyne impressionist Rich Little was selected to address the White House correspondents' dinner as a follow-up to the scathing routine last year by Comedy Central's Stephen Colbert. Now a favored online tactic to mock the president -- altering the Google search engine so the words ''miserable failure'' lead to President Bush's home page at the White House -- has been neutralized.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A favored online tactic to mock the president  altering the Google search engine so the words “miserable failure” lead to President Bush’s home page  has been neutralized.</p>
+      </block>
+      <block class="full_text">
+        <p>It has been a bad month for anti-Bush snarkiness.</p>
+        <p>First, the anodyne impressionist Rich Little was selected to address the White House correspondents' dinner as a follow-up to the scathing routine last year by Comedy Central's Stephen Colbert. Now a favored online tactic to mock the president -- altering the Google search engine so the words ''miserable failure'' lead to President Bush's home page at the White House -- has been neutralized.</p>
+        <p>Google announced on Thursday on its official blog that ''by improving our analysis of the link structure of the Web'' such mischief would instead ''typically return commentary, discussions, and articles'' about the tactic itself.</p>
+        <p>Indeed, a search on Saturday of ''miserable failure'' on Google leads to a now-outdated BBC News article from 2003 about the ''miserable failure'' search, rather than the previous first result, President Bush's portal at whitehouse.gov/president.</p>
+        <p>Such gamesmanship has been termed ''Google bombing,'' and is not unique to President Bush, or even politics. John F. Kerry, the Democratic presidential candidate in 2004, was linked to the search ''waffles,'' while other Google bombs have been elaborate jokes or personal vendettas.</p>
+        <p>Writing on the Google blog, Matt Cutts, the head of the Google's Webspam team, said that Google bombs had not ''been a very high priority for us.'' But he added: ''Over time, we've seen more people assume that they are Google's opinion, or that Google has hand-coded the results for these Google-bombed queries. That's not true, and it seemed like it was worth trying to correct that misperception.''</p>
+        <p>Mr. Cutts was not available on Friday to expand on his blog, a Google spokeswoman said. A White House spokesman had no comment on the issue.</p>
+        <p>Despite the changes by Google, some other Google bombs are still operative. A search for ''French military victories'' still produces a first result that says, ''Your search -- French military victories -- did not match any documents.'' Click there and your find a mockup of a Google search page asking the question ''Did you mean: French military defeats.''</p>
+        <p>The organizer of the ''miserable failure'' Google bomb was George Johnston, a political activist and software programmer in Bellevue, Wash.</p>
+        <p>What began as a prank become something more after Hurricane Katrina, Mr. Johnston said. In September 2005, he said he noticed a renewed interest in the ''miserable failure'' prank; he believes ''people were in shock over New Orleans'' and began typing ''failure'' into their searches. Mr. Johnston said he considered Google's decision politically motivated, even if was not done by hand, and noted that the company had agreed to censor results in China. ''I believe them that they tweaked the algorithm, but it is such weasel words,'' he said. ''The fact that some Google bombs still work makes me think they have a blacklist essentially of ways of tweaking results.''</p>
+        <p>He hasn't given up the fight, he said, and remains unhappy with Google's tweak. ''They say they fixed it. I think they broke it,'' he said.</p>
+        <p>NOAM COHEN</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

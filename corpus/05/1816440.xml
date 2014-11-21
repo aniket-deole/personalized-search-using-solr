@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ROBINSON, L. DONALD</title>
+    <meta content="dn010508" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816440"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ROBINSON, L. DONALD</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E0D91F3AF936A35752C0A9619C8B63" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ROBINSON, L. DONALD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROBINSON--L. Donald. The Board of Directors of 190 East 72nd Corp. mourns the passing of Don Robinson, a valued Board member and resident of Tower East. His wise counsel and concern for our building will be sorely missed. We express our condolences to his wife Ellen and family. Jay G. Axelrod, President</p>
+      </block>
+      <block class="full_text">
+        <p>ROBINSON--L. Donald. The Board of Directors of 190 East 72nd Corp. mourns the passing of Don Robinson, a valued Board member and resident of Tower East. His wise counsel and concern for our building will be sorely missed. We express our condolences to his wife Ellen and family. Jay G. Axelrod, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

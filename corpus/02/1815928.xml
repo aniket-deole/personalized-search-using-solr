@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When Teachers Choose Their Schools</title>
+    <meta content="l02teach" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815928"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Teachers and School Employees</classifier>
+        <classifier class="indexing_service" type="descriptor">Hiring and Promotion</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <org class="indexing_service">Mercy College</org>
+        <person class="indexing_service">Baird, Matthew</person>
+        <person class="indexing_service">Miller, Howard (Assoc Prof)</person>
+        <person class="indexing_service">Jaros, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E2D61630F931A35752C0A9619C8B63" item-length="365" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When Teachers Choose Their Schools</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters respond to Dec 27 editorial about bumping teachers out of jobs; Matthew C Baird praises alternatives to seniority-based systems in some school districts; Howard Miller, associate professor of literacy education at Mercy College, calls for higher level of support for teachers in neediest districts; John Jaros describes how seniority rules work</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Bumping in Schools'' (editorial, Dec. 27):</p>
+        <p>As a veteran teacher in private schools, I was delighted when the school district in Philadelphia negotiated to allow some schools to practice on-site selection of teachers instead of the seniority placement system described in your editorial.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Bumping in Schools'' (editorial, Dec. 27):</p>
+        <p>As a veteran teacher in private schools, I was delighted when the school district in Philadelphia negotiated to allow some schools to practice on-site selection of teachers instead of the seniority placement system described in your editorial.</p>
+        <p>What had kept me out of public urban education was the prospect of teaching at a school whose faculty and administration were not reform-minded. I wanted my efforts to be supported, but under the seniority-based system of placement, my desire to be part of positive change was irrelevant.</p>
+        <p>Why would a well-meaning principal try to be a reformer? He or she would have no hand in selecting the faculty.</p>
+        <p>I now work with like-minded colleagues and administrators in a Philadelphia public school, but it was possible only when an alternative to the seniority-based placement system was created.</p>
+        <p>Matthew C. Baird  Philadelphia, Dec. 27, 2006</p>
+        <p>To the Editor:</p>
+        <p>Finding teachers for the neediest classrooms is a challenge for many school districts.</p>
+        <p>Regrettably, and all too often, assignments to these positions are seen as the ''dues'' new teachers must pay before they can work their way through the system and transfer to schools considered to be more desirable.</p>
+        <p>One way to curb this trend would be to limit the percentage of novice teachers that can be assigned to high-needs schools and to provide a higher level of support for beginning teachers in these positions.</p>
+        <p>It would also help if schools serving the neediest children were directed by experienced and highly qualified administrators.</p>
+        <p>Howard Miller  Dobbs Ferry, N.Y., Dec. 27, 2006</p>
+        <p>The writer is an associate professor of literacy education at Mercy College.</p>
+        <p>To the Editor:</p>
+        <p>The ''bumping'' process that you describe is bogus.</p>
+        <p>The seniority rule regarding assignment to a school is: if a vacancy occurs, it is filled by seniority. Even this procedure has been watered down by the site-selection process, in which teachers must interview for a vacant position and seniority plays no part.</p>
+        <p>The idea that teachers change schools willy-nilly at their own choice is a myth.</p>
+        <p>John Jaros  Philadelphia, Dec. 27, 2006</p>
+        <p>The writer is a teacher.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

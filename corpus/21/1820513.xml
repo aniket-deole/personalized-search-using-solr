@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Site Calculates Risk Factors For Travelers</title>
+    <meta content="21risk" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/us/21risk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820513"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <org class="indexing_service">Carnegie Mellon University</org>
+        <org class="indexing_service">Aaa Foundation for Traffic Safety</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <org class="online_producer">Carnegie Mellon University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E2D61E30F932A15752C0A9619C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Site Calculates Risk Factors For Travelers</hl1>
+        <hl2 class="online_headline">Site Calculates Risk Factors for Travelers</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, Jan. 20</dateline>
+      <abstract>
+        <p>New interactive Web site put together by researchers at Carnegie Mellon University with support from AAA Foundation for Traffic Safety allows travelers to assess dangers of driving, walking, and riding bicycle or motorcycle by season, region and personal characteristics; site links federal databases on traffic fatalities and travel habits to calculate probability of death per mile traveled, or per trip or minute of travel (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A middle-aged male pedestrian is four times as likely, on any given trip, to be killed by a car as is an elementary school student, according to a new interactive Web site that lets people compare travel risks.</p>
+        <p>The site allows users to assess the dangers of driving, walking, and riding a motorcycle or a bicycle, by season, region and personal characteristics of the traveler. It links two federal databases, one of traffic fatalities and the other of travel habits, to put the number of deaths into context by comparing them with what statisticians call exposure, or the extent to which people are in situations where there is a chance of a crash.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The site allows users to assess the dangers of driving, walking, and riding a motorcycle or a bicycle, by season, region and personal characteristics of the traveler.</p>
+      </block>
+      <block class="full_text">
+        <p>A middle-aged male pedestrian is four times as likely, on any given trip, to be killed by a car as is an elementary school student, according to a new interactive Web site that lets people compare travel risks.</p>
+        <p>The site allows users to assess the dangers of driving, walking, and riding a motorcycle or a bicycle, by season, region and personal characteristics of the traveler. It links two federal databases, one of traffic fatalities and the other of travel habits, to put the number of deaths into context by comparing them with what statisticians call exposure, or the extent to which people are in situations where there is a chance of a crash.</p>
+        <p>The site was put together by researchers at Carnegie Mellon University, with support from the AAA Foundation for Traffic Safety. It is being presented at the Transportation Research Board's annual meeting, which begins Sunday, and is going public then, at hope.hss.cmu.edu.</p>
+        <p>Risk, the researchers emphasize, is not the number of people who die, but the probability of death per mile traveled, or per trip or minute of travel.</p>
+        <p>Linking the databases produces results that vary considerably from common perception, the Web site's creators said. For example, the risk of death for an 18-year-old male driver is about the same as that for an 80-year-old female driver, but both are safer than the operator of a motorcycle. And counterintuitively, risk is higher in the mountains in summer than in winter.</p>
+        <p>''What surprised me most is that there were lots of surprises,'' said Paul S. Fischbeck, the director of the Center for the Study and Improvement of Regulation at Carnegie Mellon and a professor of engineering and public policy.</p>
+        <p>For instance, Dr. Fischbeck said, ''I knew that 80-year-olds and 18-year-olds were at high risks, but to have them at the same level of risk, it's a very stark contrast.''</p>
+        <p>He said the original idea behind the Web site was to educate consumers. ''But when you find things that are counterintuitive that you cannot explain,'' he said, ''that's not good for education.'' He said he planned to assign his students to try to find explanations.</p>
+        <p>The Web site allows a variety of comparisons. For example, the risk of death for vehicle occupants who are 16 to 20 years old, on weekdays, is 13.86 per 100 million trips between 8 a.m. and noon. But between 8 p.m. and midnight it is 30.51 per 100 million trips, more than twice as high.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

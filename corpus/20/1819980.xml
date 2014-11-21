@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  TUMKOVSKY, ANTONINA</title>
+    <meta content="dn012007" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819980"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">TUMKOVSKY, ANTONINA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6DC1F3AF933A15752C0A9619C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  TUMKOVSKY, ANTONINA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TUMKOVSKY--Antonina. The entire School of American Ballet family deeply mourns the death of Antonina Tumkovsky; we shall all miss her indomitable spirit. Tumey was a favorite teacher at the School for more than fifty years. Her daily classes were exacting and exhausting, speedy and precise, whether for eight-yearold beginners or for advanced women. Never one to overanalyze, she simply demanded that her students ''do, do, do.'' Peter Martins, Chairman of Faculty Kay Mazzo, Co-Chairman Marjorie Van Dercook, Executive Director</p>
+      </block>
+      <block class="full_text">
+        <p>TUMKOVSKY--Antonina. The entire School of American Ballet family deeply mourns the death of Antonina Tumkovsky; we shall all miss her indomitable spirit. Tumey was a favorite teacher at the School for more than fifty years. Her daily classes were exacting and exhausting, speedy and precise, whether for eight-yearold beginners or for advanced women. Never one to overanalyze, she simply demanded that her students ''do, do, do.'' Peter Martins, Chairman of Faculty Kay Mazzo, Co-Chairman Marjorie Van Dercook, Executive Director</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

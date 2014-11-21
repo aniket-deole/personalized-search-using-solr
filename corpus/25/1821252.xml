@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="25askk" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/technology/25askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821252"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Linux (Computer Operating System)</classifier>
+        <classifier class="online_producer" type="descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Linux (Computer Operating System)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6DB163FF936A15752C0A9619C8B63" item-length="715" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Moving It All to Vista</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Moving It All To Vista</p>
+        <p>Q. When the time comes, how can I move all of my bookmarks, music and other files from my old computer to a new Windows Vista PC?</p>
+        <p>A. Windows Vista, scheduled for its debut to the general public next week, includes a free tool called Windows Easy Transfer. Like the Files and Settings Transfer Wizard that came with Windows XP, it is designed to move most of your personal stuff by means of a cable connection between old and new machines. Moving files over a network or with recordable discs and drives are other methods for transferring your files to the Vista PC as well.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When the time comes, how can I move all of my bookmarks, music and other files from my old computer to a new Windows Vista PC?</p>
+      </block>
+      <block class="full_text">
+        <p>Moving It All To Vista</p>
+        <p>Q. When the time comes, how can I move all of my bookmarks, music and other files from my old computer to a new Windows Vista PC?</p>
+        <p>A. Windows Vista, scheduled for its debut to the general public next week, includes a free tool called Windows Easy Transfer. Like the Files and Settings Transfer Wizard that came with Windows XP, it is designed to move most of your personal stuff by means of a cable connection between old and new machines. Moving files over a network or with recordable discs and drives are other methods for transferring your files to the Vista PC as well.</p>
+        <p>According to Microsoft's own description of Windows Easy Transfer (found at support.microsoft.com/kb/928635), the tool can move your user accounts and settings, personal files and folders, e-mail settings, messages and contacts, Internet settings and bookmarks and all your digital music, picture and video files.</p>
+        <p>It won't move system files like fonts and drivers, however, so you will need to reinstall any custom fonts and Vista-compatible drivers on the new machine yourself.</p>
+        <p>While Windows Easy Transfer will move program settings and preferences if you have the same programs installed on the new computer, it won't move the programs themselves. (Some types of software, like security programs designed for older versions of Windows, will probably not work on Vista anyway.)</p>
+        <p>Unfortunately for those with older computers, Windows Easy Transfer is designed to transfer files and settings from older machines running Windows 2000 or later. For Windows 95, Windows 98, Windows Me and Windows NT users who don't want to move data and reconfigure all their program settings manually, separate software can be a much easier solution.</p>
+        <p>Several data-migration programs can be found around the Web or in computer stores. For example, Laplink PCmover (www.laplink.com) works with most older versions of Windows, costs less than $60 and is designed to move your files and settings between machines. Laplink PCmover even promises to move your programs as well.</p>
+        <p>Leaping To Linux</p>
+        <p>Q. What type of computers can run the Ubuntu Linux system?</p>
+        <p>A. Ubuntu, a free and flexible version of the Linux operating system, can work on many kinds of computers, including PCs and Macintosh machines with Intel processors. PC hardware with A.M.D. processors and Macs with the older PowerPC chips can also run Ubuntu, as can some high-end workstations and servers used by computer professionals. ''Ubuntu,'' a Zulu and Xhosa word from South Africa, roughly translates to ''humanity to others.''</p>
+        <p>Because it often has less-demanding hardware requirements than the latest versions of Windows or the Mac operating system, many people have found installing Linux on an older computer can give it a few more years of usefulness.</p>
+        <p>The standard desktop version of Ubuntu Linux includes a point-and-click graphical interface and programs for word processing, e-mail, Web browsing and other typical tasks. The system can be downloaded free at www.ubuntu.com, where there is much more information on installing and using it.</p>
+        <p>The Longevity Of Mail Accounts</p>
+        <p>Q. How long can you go without logging into Yahoo Mail before your account is shut down?</p>
+        <p>A. Free Web-based e-mail services like Yahoo Mail, MSN Hotmail and Google Gmail now offer at least a gigabyte of mail storage, but you do need to log in every once in awhile to keep the account active. The exact length of time may vary by company, and you should check with your particular mail service for specific details.</p>
+        <p>In the case of Yahoo, its Web site states that you need to check in at least once every four months before your free account expires. People who pay $20 a year for the premium service, Yahoo Mail Plus, do not have to worry about their accounts expiring. (Yahoo Mail Plus subscribers get more mailbox space, no advertisements on their messages, better spam filters and other perks.)</p>
+        <p>An account with Microsoft's MSN Hotmail service may expire if not checked at least every 30 days. If you do not log into a Gmail account for an extended period of time, Google will mark your account as dormant and may delete the entire thing after nine months if you have not used it.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

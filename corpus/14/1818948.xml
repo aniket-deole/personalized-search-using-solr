@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Steel Pier Will Be Host To Rides One More Time</title>
+    <meta content="14njweekNJ-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818948"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Amusement and Theme Parks</classifier>
+        <classifier class="indexing_service" type="descriptor">Casinos</classifier>
+        <classifier class="indexing_service" type="descriptor">Gambling</classifier>
+        <classifier class="indexing_service" type="descriptor">Steel Pier (Atlantic City)</classifier>
+        <location class="indexing_service">Atlantic City (NJ)</location>
+        <org class="indexing_service">Trump Entertainment Resorts</org>
+        <org class="indexing_service">Trump Taj Mahal (Atlantic City, NJ)</org>
+        <org class="indexing_service">Atlantic Pier Amusements (Co)</org>
+        <person class="indexing_service">Strauss, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey/Atlantic City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Casinos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amusement and Theme Parks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gambling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E5DE1030F937A25752C0A9619C8B63" item-length="327" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Steel Pier Will Be Host To Rides One More Time</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT STRAUSS</byline>
+      <byline class="normalized_byline">Strauss, Robert</byline>
+      <abstract>
+        <p>Atlantic Pier Amusements, which operates rides on Steel Pier in Atlantic City, will be allowed to do so again for one more summer because Trump Entertainment Resorts has delayed plans for expanding Trump Taj Mahal onto pier; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Steel Pier in Atlantic City has arisen phoenixlike from potential demise several times, and the announcement last week that its amusement park has gotten a reprieve means it will do so again, at least for one more summer.</p>
+        <p>Atlantic Pier Amusements, which has operated from 12 to 24 rides on the pier for the last 14 years, will be on Steel Pier again starting in April because Trump Entertainment Resorts is not ready to build housing and possible casino and shopping space on the pier. Last summer, Trump announced an expansion of the Trump Taj Mahal onto the pier, which it had rebuilt after a fire in 1982 virtually destroyed it.</p>
+      </block>
+      <block class="full_text">
+        <p>Steel Pier in Atlantic City has arisen phoenixlike from potential demise several times, and the announcement last week that its amusement park has gotten a reprieve means it will do so again, at least for one more summer.</p>
+        <p>Atlantic Pier Amusements, which has operated from 12 to 24 rides on the pier for the last 14 years, will be on Steel Pier again starting in April because Trump Entertainment Resorts is not ready to build housing and possible casino and shopping space on the pier. Last summer, Trump announced an expansion of the Trump Taj Mahal onto the pier, which it had rebuilt after a fire in 1982 virtually destroyed it.</p>
+        <p>A spokesman for Trump Entertainment Resorts, Tom Hickey, said that Trump had originally not renewed the lease with Atlantic Pier Amusements after last summer because it intended to move quickly to revamp the pier.</p>
+        <p>''But we are looking for something unique in Atlantic City, a mixture of housing, entertainment and retail, and the planning process is complex,'' he said. ''The result is that we will not be doing anything structural to Steel Pier this summer, so we felt it a good idea to let the amusements come back for one last year.''</p>
+        <p>Steel Pier was built in 1898 and became a showcase of entertainment. At its height from the 1920s through the 1960s, it had several theaters for both movies and stage shows, restaurants, amusements, games and arcades.</p>
+        <p>It was host to the most popular acts of the day, including Charlie Chaplin, Frank Sinatra, the Three Stooges and the Temptations. Its signature act was the Diving Horses, which more or less slid down a chute into the water carrying young women wearing bathing suits.</p>
+        <p>Like much of the rest of Atlantic City, the pier's luster had faded by the late 1960s. After the fire, the pier closed for a decade before reopening in 1993 with the small Atlantic Pier Amusements park.</p>
+        <p>ROBERT STRAUSS</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

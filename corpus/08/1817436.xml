@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="08choi-5" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817436"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <org class="indexing_service">Animal Collective (Music Group)</org>
+        <person class="indexing_service">Sanneh, Kelefa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E1DA1530F93BA35752C0A9619C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+      <byline class="normalized_byline">Sanneh, Kelefa</byline>
+      <abstract>
+        <p>Kelefa Sanneh reviews new CD by Animal Collective (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Animal Collective</p>
+        <p>''People'' (FatCat)</p>
+        <p>In their own cryptic, low-key way, the members of Animal Collective have had a triumphant few years. In 2005 they released a glorious album called ''Feels''; its flickering experiments and lightheaded love songs (were they love songs?) unfolded without ever quite giving up their secrets. The album eventually sold about 40,000 copies in the United States; that's an impressive number for a band like this. And late last year Animal Collective signed with Domino Records, one of the country's leading indie-rock labels.</p>
+      </block>
+      <block class="full_text">
+        <p>Animal Collective</p>
+        <p>''People'' (FatCat)</p>
+        <p>In their own cryptic, low-key way, the members of Animal Collective have had a triumphant few years. In 2005 they released a glorious album called ''Feels''; its flickering experiments and lightheaded love songs (were they love songs?) unfolded without ever quite giving up their secrets. The album eventually sold about 40,000 copies in the United States; that's an impressive number for a band like this. And late last year Animal Collective signed with Domino Records, one of the country's leading indie-rock labels.</p>
+        <p>Maybe that's why this little CD sounds so exuberant. ''People,'' the new Animal Collective mini-album, was available for sale on the band's recent tour, and some stores have been selling an import version; now FatCat is issuing a domestic pressing. The disc, which lasts about 19 minutes, is dominated by two versions of the title track. The studio version, a typically lush and detailed outtake from the ''Feels'' sessions, uses a simple bass line and a simpler lyric (''Yeah, ye-ah'') to build up momentum; eventually it explodes into a scream: ''People! People!'' And in the live version, you can hear some of those people screaming back.</p>
+        <p>KELEFA SANNEH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

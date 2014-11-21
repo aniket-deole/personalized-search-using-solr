@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Less Shoplifting in Health and Beauty Aisle</title>
+    <meta content="01drill" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/01/business/01drill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815755"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DRILLING DOWN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Shoplifting</classifier>
+        <org class="indexing_service">Food Marketing Institute</org>
+        <person class="indexing_service">Mindlin, Alex</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Pain-Relieving Drugs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pain-Relieving Drugs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="descriptor">Shoplifting</classifier>
+        <classifier class="online_producer" type="descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="descriptor">Meat</classifier>
+        <classifier class="online_producer" type="descriptor">Pain-Relieving Drugs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pain-Relieving Drugs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E0D91630F932A35752C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Less Shoplifting in Health and Beauty Aisle</hl1>
+        <hl2 class="online_headline">Less Shoplifting in Health and Beauty Aisle</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX MINDLIN</byline>
+      <byline class="normalized_byline">Mindlin, Alex</byline>
+      <abstract>
+        <p>Drilling Down column discusses Food Marketing Institute report that shows decline in shoplifting in cosmetics and health-care products; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cosmetics and health-care products were the items most likely to be shoplifted in 2000, according to a report on supermarket theft recently issued by the Food Marketing Institute, a trade group. Last year, they were the third most shoplifted category, after meat and analgesics.</p>
+        <p>The decline partly reflects increased security for pseudoephedrine, a decongestant that can be used to make the drug methamphetamine. By the end of 2005, 34 states had passed laws restricting sales of medicines with the chemical, and often requiring stores to keep them under lock and key.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Cosmetics and health-care products were the items most likely to be shoplifted in 2000. They fell to third in 2006, after meat and analgesics.</p>
+      </block>
+      <block class="full_text">
+        <p>Cosmetics and health-care products were the items most likely to be shoplifted in 2000, according to a report on supermarket theft recently issued by the Food Marketing Institute, a trade group. Last year, they were the third most shoplifted category, after meat and analgesics.</p>
+        <p>The decline partly reflects increased security for pseudoephedrine, a decongestant that can be used to make the drug methamphetamine. By the end of 2005, 34 states had passed laws restricting sales of medicines with the chemical, and often requiring stores to keep them under lock and key.</p>
+        <p>The report also suggested that self-service checkout lanes, where customers scan and pay for their purchases themselves, are surprisingly theft-free. Of the roughly 5,400 stores in the survey with self-checkout lanes, 63.6 percent reported no increase in theft rates.</p>
+        <p>''Individuals in the self-checkout lane, they think they're being watched more than ever before, and they probably are,'' said Wayne Breckenridge, director of education for the Food Marketing Institute.</p>
+        <p>ALEX MINDLIN</p>
+        <p>DRILLING DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A DIFFERENT TACK</title>
+    <meta content="07suits-3" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817163"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Bonuses</classifier>
+        <org class="indexing_service">Shaw Group Inc</org>
+        <org class="indexing_service">California Public Employees Retirement System</org>
+        <person class="indexing_service">Bernhard, James M Jr</person>
+        <person class="indexing_service">Olson, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE0D71430F934A35752C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A DIFFERENT TACK</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+      <abstract>
+        <p>Shaw G</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Abject capitulation or tactical retreat? How to interpret the Shaw Group's reaction to shareholder complaints over the potential severance package for its founder and chief executive, James M. Bernhard Jr.?</p>
+        <p>After protests by the California Public Employees' Retirement System, which estimated that Mr. Bernhard's 10-year employment contract committed the company to giving him a golden parachute worth as much as $100 million, the company shortened the pact to just three years.</p>
+      </block>
+      <block class="full_text">
+        <p>Abject capitulation or tactical retreat? How to interpret the Shaw Group's reaction to shareholder complaints over the potential severance package for its founder and chief executive, James M. Bernhard Jr.?</p>
+        <p>After protests by the California Public Employees' Retirement System, which estimated that Mr. Bernhard's 10-year employment contract committed the company to giving him a golden parachute worth as much as $100 million, the company shortened the pact to just three years.</p>
+        <p>Calpers had blasted Shaw, a construction and engineering company in Baton Rouge, La., saying it had ''some of the most egregious severance and change-of-control provisions ever,'' and urged fellow shareholders to cap severance packages at three times an employee's salary and bonus without explicit shareholder approval.</p>
+        <p>While Shaw's board opposes the proposal, which will be put to a vote of shareholders on Jan. 30, its move to shorten Mr. Bernhard's contract effectively cut his severance pay to three times his salary and bonus.</p>
+        <p>A Shaw spokesman, Christopher D. Sammons, declined to provide figures, but Calpers estimated that the exit pay could drop below $10 million.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

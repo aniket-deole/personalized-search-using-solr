@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Counting Votes: For an Open System</title>
+    <meta content="l14vote" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818876"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Voting Machines</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Lowden, James K</person>
+        <person class="indexing_service">Sacks, Bob</person>
+        <person class="indexing_service">Strand, Nan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E2D71330F937A25752C0A9619C8B63" item-length="487" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Counting Votes: For an Open System</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on Jan 8 editorial on legislation for testing voting machines; James K Lowden says source code for all voting machines should be available to public; Bob Sacks says it should be common sense to track electronic votes; Nan Strand opposes electronic voting</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Testing the Testers'' (editorial, Jan. 8):</p>
+        <p>Only in the United States could we decide to entrust to private enterprise something as fundamental to the Republic as the vote. I can think of no better symbol of misplaced faith.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Testing the Testers'' (editorial, Jan. 8):</p>
+        <p>Only in the United States could we decide to entrust to private enterprise something as fundamental to the Republic as the vote. I can think of no better symbol of misplaced faith.</p>
+        <p>You call for ''strong transparency rules'' through better legislation. But perfect transparency is available to us, if only we will seize it: the source code for all voting machines should be available to the public.</p>
+        <p>Thousands of computer scientists will happily inspect and criticize the code free of charge, obviating the need for certification. And there's no tonic like public inspection to motivate companies -- and programmers -- to clean up their act.</p>
+        <p>It looks as if it will be a long time before it's generally understood that the counting of votes should be a public process, not a private one, however vouchsafed.</p>
+        <p>Until then, we'll have crooked elections. Or not.</p>
+        <p>Sadly, we won't know which.</p>
+        <p>James K. Lowden  New York, Jan. 8, 2007</p>
+        <p>To the Editor:</p>
+        <p>Like most Americans, I vote electronically every day. I get a paper receipt and a follow-up written record in the mail. I can accurately vote in thousands of voting machines across the country and for that matter across the world.</p>
+        <p>Each week I vote to move my funds from savings to checking, or I can vote to take my money from one account and to convert it to cash. The technology already exists to record the simplicity of the democratic will of the people.</p>
+        <p>So it is clear that where it counts, as in money, there is no problem. But where there is an opportunity for duplicity and political agendas, there is no end to subterfuge and exploitation.</p>
+        <p>If we can accurately track billions of dollars a day in complicated electronic transactions, why can't we track millions of yes or no votes?</p>
+        <p>Clearly common sense is not all that common.</p>
+        <p>Bob Sacks  Copake, N.Y., Jan. 8, 2007</p>
+        <p>To the Editor:</p>
+        <p>From the questionable manufacturers of voting machines, to the testers, to the questionable security of having a paper trail (that may or may not actually reflect the internal vote cast), any electronic system seems to run counter to our needs.</p>
+        <p>The only legislation Congress should be enacting is the complete ban of electronic voting for any and all United States elections. How many election cycles must we go through where the end results are questionable, before our entire system becomes a travesty?</p>
+        <p>I for one feel that it's time to stand up and shout to our representatives that enough is enough.</p>
+        <p>This is our democracy, and it's up to us to speak out loudly and firmly against the use of such a flawed system, and for the protection of our voting rights, for as long as it takes for Congress to get the message.</p>
+        <p>Nan Strano  Florence, Mass., Jan. 8, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Shock of College</title>
+    <meta content="l13educ" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818426"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <org class="indexing_service">Yale University</org>
+        <person class="indexing_service">Rounds, Phoebe</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDA1330F930A25752C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Shock of College</hl1>
+      </hedline>
+      <abstract>
+        <p>Phoebe Rounds letter holds that Advanced Placement courses she took at her comprehensive public high school required more work than most of classes she has taken at Yale; says difference between high-powered high schools mentioned in Jan 7 Education Life article and her school is not academic, it is social</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Incredibles'' (Education Life, Jan. 7):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Incredibles'' (Education Life, Jan. 7):</p>
+        <p>All of the 13 Advanced Placement courses I took at my comprehensive public high school required more work than most of the classes I have experienced in four years at Yale, and there were plenty of primary documents to go around.</p>
+        <p>The difference between high-powered high schools like those mentioned in the article (merely 68 schools supplied over 20 percent of Yale's 2006 freshman class) and mine, where the college counselor had not heard of the top-ranked liberal arts colleges where I applied, is not academic; it's social.</p>
+        <p>Many classmates from schools like Andover and Dalton arrive at college fighting to get into the most selective major and singing group and, later, the best law school and investment bank -- realms that preserve the ''I'll take you down'' moral certitude they learned in high school. That the viability of this culture of competitiveness is limited to these few domains comes as a surprise to some of them.</p>
+        <p>Phoebe Rounds  Rochester, Jan. 8, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

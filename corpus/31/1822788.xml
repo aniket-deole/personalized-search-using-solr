@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Expert Parking</title>
+    <meta content="l31park" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822788"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Parking</classifier>
+        <person class="indexing_service">Trillin, Calvin</person>
+        <person class="indexing_service">Samton, Noah</person>
+        <person class="indexing_service">Moss, Kevin</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E4DF153FF932A05752C0A9619C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Expert Parking</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters comment on Jan 26 Calvin Trillin Op-Ed article about new self-parking device; Noah Samton shares advice for parallel parking; Kevin Moss warns against possibility of violence between drivers vying for rare New York parking spot</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As one who has ''sliced the bread'' and ''broken the matzo'' many times, I applaud Calvin Trillin's brilliant ''Park, He Said'' (Op-Ed, Jan. 26), about parallel parking.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As one who has ''sliced the bread'' and ''broken the matzo'' many times, I applaud Calvin Trillin's brilliant ''Park, He Said'' (Op-Ed, Jan. 26), about parallel parking.</p>
+        <p>I've been obsessed with the subject since I first learned to park behind the wheel of a 1979 manual-shift Dodge Aspen station wagon.</p>
+        <p>I'd like to share with Mr. Trillin another uniquely New York maneuver that I've termed -- ''rocking the baby to sleep.'' In this case, once parked, the car's bumpers are pressed directly against both the vehicle in front and behind, leaving not even enough space to slide a piece of paper between.</p>
+        <p>It requires a gentle push, and a back and forth rocking motion that when executed properly does not leave a scratch on either bumper.</p>
+        <p>It's not, however, for the faint of heart and should be exercised only under extreme duress -- say 45 minutes into looking for a free space.</p>
+        <p>Noah Samton  New York, Jan. 26, 2007</p>
+        <p>To the Editor:</p>
+        <p>If, as Calvin Trillin suspects, Lexus's Advanced Parking Guidance System spawns a generation of self-parking one-upmanship among competing manufacturers, let's just hope that it never gets to the point where an antagonistic vehicle activates its own auto defense system and mimics the driver's baser nature by resorting to violence to secure that all-too-rare spot.</p>
+        <p>Kevin Moss  Lafayette, Calif., Jan. 26, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

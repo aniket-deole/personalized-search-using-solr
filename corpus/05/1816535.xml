@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Civil Liberties Board</title>
+    <meta content="l05privacy" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816535"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="indexing_service" type="descriptor">Surveillance of Citizens by Government</classifier>
+        <org class="indexing_service">Privacy and Civil Liberties Oversight Board</org>
+        <person class="indexing_service">Davis, Lanny J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surveillance of Citizens by Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2DC1430F936A35752C0A9619C8B63" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Civil Liberties Board</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Lanny J Davis, member of Privacy and Civil Liberties Oversight Board, says he hopes White House will require that all executive departments consult with board more than they have done on developing or existing antiterrorist programs that affect privacy and civil liberties; says oversight is most important responsibility of board (Dec 29, 2006, editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A Dec. 29 editorial correctly stated that at the first public hearing of the president's Privacy and Civil Liberties Oversight Board last month, members made the point that ''the board is no more than Congress created it to be.''</p>
+        <p>It was Congress's decision to place the board in the Office of the President, which at least to some people seems inconsistent with the concept of an ''independent'' board providing ''oversight.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A Dec. 29 editorial correctly stated that at the first public hearing of the president's Privacy and Civil Liberties Oversight Board last month, members made the point that ''the board is no more than Congress created it to be.''</p>
+        <p>It was Congress's decision to place the board in the Office of the President, which at least to some people seems inconsistent with the concept of an ''independent'' board providing ''oversight.''</p>
+        <p>Speaking for myself (I am a board member), I hope that the White House will require that all executive departments, including intelligence agencies, consult with the board more than they have done on developing or existing critical antiterrorist programs that affect privacy and civil liberties, rather than allowing board members to learn about many of these programs for the first time in the newspapers.</p>
+        <p>There should be no inconsistency between protecting privacy rights and civil liberties, which are the heart of our democratic system, and waging an effective war on terrorism -- including using appropriate methods to prevent terrorist attacks on our homeland. I believe that the White House and all board members agree with me -- as do the American people.</p>
+        <p>But oversight and vigilance by the legislative and judicial branches are required to help the executive branch maintain this delicate and sometimes difficult balance. I believe there is no disagreement on that point either.</p>
+        <p>Providing oversight regarding this balance is, in my judgment, the most important responsibility of the board.</p>
+        <p>Lanny J. Davis  Washington, Jan. 4, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

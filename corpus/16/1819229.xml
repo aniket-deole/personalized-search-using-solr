@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gadgets as Tyrants</title>
+    <meta content="16jardin" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819229"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Electronics Show</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Inventions and Patents</classifier>
+        <person class="indexing_service">Jardin, Xeni</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Copyright</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3DA1030F935A25752C0A9619C8B63" item-length="522" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gadgets as Tyrants</hl1>
+      </hedline>
+      <byline class="print_byline">By Xeni Jardin</byline>
+      <byline class="normalized_byline">Jardin, Xeni</byline>
+      <dateline>LOS ANGELES</dateline>
+      <abstract>
+        <p>Xeni Jardin Op-Ed article on 40th annual Consumer Electronics Show in Las Vegas; wonders if next year's show will have anything new at all, given intense pressure from entertainment companies to limit copying; quotes Consumer Electronics Assn president Gary Shapiro's argument that tech companies should not need Hollywood's permission when they design new product</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE 40th annual Consumer Electronics Show in Las Vegas last week was packed, as usual, with cool new technology. New devices included ultra-thin/ultrawide TV displays, networked entertainment systems and innumerable gadgets that bring music, movies and television to our hands and homes in new ways.</p>
+        <p>But many of these new products limit our freedom to use and share the music, movies and other content they are intended for.</p>
+      </block>
+      <block class="full_text">
+        <p>THE 40th annual Consumer Electronics Show in Las Vegas last week was packed, as usual, with cool new technology. New devices included ultra-thin/ultrawide TV displays, networked entertainment systems and innumerable gadgets that bring music, movies and television to our hands and homes in new ways.</p>
+        <p>But many of these new products limit our freedom to use and share the music, movies and other content they are intended for.</p>
+        <p>It wasn't always like this. Decades ago, audiocassette and videocassette recorders gave consumers the power to copy audiotapes and videotapes -- a power previously reserved for a locked world of retailers and distributors.</p>
+        <p>The 1984 Betamax case, in which the United States Supreme Court ruled that technology companies aren't liable for copyright infringement when people misuse their products, encouraged still more innovation. There was a flood of gadgets that enabled us to copy things, including personal computers, CD burners and TiVo.</p>
+        <p>Since then, the entertainment industry has put pressure on electronics manufacturers to limit the consumer's ability to make copies. And as a result, many of the tens of thousands of products displayed last week on the Vegas expo floor, as attractive and innovative as they are, are designed to restrict our use.</p>
+        <p>DVDs are not so easily copied as videotapes. And the two rival formats for high-definition video on disc -- HD-DVD and Blu-ray -- are equipped with even more sophisticated copy-prevention technology.</p>
+        <p>Americans pay significant monthly fees to enjoy cable television, but cable companies also tightly control all of their content. They have been at war with electronics companies over the CableCard, a device that allows cable subscribers to record shows without having to buy a special set-top recording box. Cable companies want to make sure that the only way for consumers to get their hands on CableCards is to buy them directly from cable companies.</p>
+        <p>Even children are bothered by the increasing restrictions. One electronics show attendee told me his 12-year-old recently asked him, ''Why do I have to buy my favorite game five times?'' Because the company that made the game wants to profit from each device the user plays it on: Wii, Xbox, PlayStation, Game Boy or phone.</p>
+        <p>At this year's show, the president of the Consumer Electronics Association, Gary Shapiro, spoke up for ''digital freedom,'' arguing that tech companies shouldn't need Hollywood's permission when they design a new product. Consumers, he said, should have the right to enjoy the content they buy at whatever time and on whichever device they like. They should also enjoy ''fair use'' to the extent that they can, without asking, copy movies for themselves, or copy a few seconds of a song and post it on a personal Web page.</p>
+        <p>If consumer electronics companies won't give us these freedoms, there is a good chance we will find a way to take them for ourselves. Every form of digital rights management ever invented has proved vulnerable. Just weeks ago, a hacker unlocked the supposedly perfect HD-DVD encryption scheme.</p>
+        <p>The question is whether, in the face of economic and legal pressure from entertainment companies, next year's Consumer Electronics Show will have anything new at all.</p>
+        <p>Xeni Jardin is a co-editor of the Web site Boing Boing and a technology contributor for the NPR news program ''Day to Day.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Xeni Jardin is a co-editor of the Web site Boing Boing and a technology contributor for the NPR news program ''Day to Day.''</tagline>
+    </body.end>
+  </body>
+</nitf>

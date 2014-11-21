@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Winning Equals Big Money</title>
+    <meta content="14inbox-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818986"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <person class="indexing_service">Dunn, Jay</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EFDE1030F937A25752C0A9619C8B63" item-length="297" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Winning Equals Big Money</hl1>
+      </hedline>
+      <abstract>
+        <p>Jay Dunn letter defends universities offering football coaches large salaries, claiming that winning brings school larger revenue (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''Looks Like a Business; Should Be Taxed Like One,'' Jan. 7: A successful football coach will generate far more revenue for a university than what appears in the athletic budget.</p>
+        <p>Alumni are proud of a winner and, consequently, can become motivated to make generous donations after their team has won a conference championship or a bowl game. Corporations want to be associated with winners and are much more likely to sponsor an academic program within a university whose football team has been successful.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''Looks Like a Business; Should Be Taxed Like One,'' Jan. 7: A successful football coach will generate far more revenue for a university than what appears in the athletic budget.</p>
+        <p>Alumni are proud of a winner and, consequently, can become motivated to make generous donations after their team has won a conference championship or a bowl game. Corporations want to be associated with winners and are much more likely to sponsor an academic program within a university whose football team has been successful.</p>
+        <p>As long as these are the facts, few universities will be willing to tolerate a losing coach, and many of them will offer outlandish salaries in an effort to hire one who will win.</p>
+        <p>Jay Dunn  Hamilton Township, N.J.</p>
+        <p>To the Sports Editor:</p>
+        <p>Money from boosters or the National Collegiate Athletic Association could be used for insurance policies for the players. If a player incurs a career-ending injury while serving a university, he could receive some kind of annuity that recognizes the sacrifice. Figuring this out should be relatively easy for the insurance folks.</p>
+        <p>L. John Miller  Aurora, N.Y.</p>
+        <p>To the Sports Editor:</p>
+        <p>The market set Nick Saban's price, and the University of Alabama was willing to pay it. Most of his salary is not derived from taxpayer money. A top-quality coach brings added value to the university. One must consider not only direct athletic department revenues, but also ancillary benefits. For example, a winning team benefits the university's student recruitment efforts by providing a tremendous amount of national publicity.</p>
+        <p>Players should receive some compensation (beyond a free college education) for their contributions. That's the only thing wrong with this picture. And the N.C.A.A. is to blame.</p>
+        <p>Sean Michael  Birmingham, Ala.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

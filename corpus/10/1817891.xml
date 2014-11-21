@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Green, Not Greenwashed</title>
+    <meta content="10lett-5" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817891"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <org class="indexing_service">Nature's Path Foods</org>
+        <person class="indexing_service">Emmer-Aanes, Maria</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E1DC1230F933A25752C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Green, Not Greenwashed</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Maria Emmer-Aanes, director of marketing for Nature's Path Foods, says company is environmentally committed (Jan 3 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Kim Severson accuses Nature's Path's EnviroKidz cereal of ''greenwashing.'' For more than 22 years, Nature's Path has produced certified organic breakfast and snack foods. Arran Stephens, our founder and president, was born and raised on one of the very early sustainable organic farms, and has been involved in changing the way food is grown and processed long before there was an ''organic industry.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Kim Severson accuses Nature's Path's EnviroKidz cereal of ''greenwashing.'' For more than 22 years, Nature's Path has produced certified organic breakfast and snack foods. Arran Stephens, our founder and president, was born and raised on one of the very early sustainable organic farms, and has been involved in changing the way food is grown and processed long before there was an ''organic industry.''</p>
+        <p>Giving 1 percent of EnviroKidz sales to help protect endangered environments and species is something we all feel good about. What does this have to do with ''greenwashing?'' We are ''green'' (environmentally committed) from the inside out!</p>
+        <p>Maria Emmer-Aanes  Blaine, Wash.</p>
+        <p>The writer is the director of marketing for Nature's Path Foods.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

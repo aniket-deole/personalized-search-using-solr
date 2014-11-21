@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Transportation Chief Takes a CUNY Post</title>
+    <meta content="30iris" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822542"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Transportation Department (NYC)</org>
+        <org class="indexing_service">City University of New York</org>
+        <person class="indexing_service">Cardwell, Diane</person>
+        <person class="indexing_service">Weinshall, Iris (Comr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE7DA143FF933A05752C0A9619C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Transportation Chief Takes a CUNY Post</hl1>
+      </hedline>
+      <byline class="print_byline">By DIANE CARDWELL</byline>
+      <byline class="normalized_byline">Cardwell, Diane</byline>
+      <abstract>
+        <p>New York City Transportation Comr Iris Weinshall will be leaving post to become vice chancellor of City University of New York (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York City's transportation commissioner, Iris Weinshall, is leaving her post to become a vice chancellor of the City University of New York, officials said yesterday.</p>
+        <p>Ms. Weinshall, who is married to Senator Charles E. Schumer, is the rare commissioner to straddle mayoral administrations. In her new job, she will oversee the planning, building, maintenance and operation of physical structures as vice chancellor for facilities planning, construction and management, said Chancellor Matthew Goldstein.</p>
+      </block>
+      <block class="full_text">
+        <p>New York City's transportation commissioner, Iris Weinshall, is leaving her post to become a vice chancellor of the City University of New York, officials said yesterday.</p>
+        <p>Ms. Weinshall, who is married to Senator Charles E. Schumer, is the rare commissioner to straddle mayoral administrations. In her new job, she will oversee the planning, building, maintenance and operation of physical structures as vice chancellor for facilities planning, construction and management, said Chancellor Matthew Goldstein.</p>
+        <p>Mr. Goldstein recommended Ms. Weinshall's appointment, which was approved by the City University board last night, and she will report to him. But she will also be supervised by the university's executive vice chancellor and chief operating officer, Allan H. Dobrin, who was the city's technology commissioner under former Mayor Rudolph W. Giuliani.</p>
+        <p>Ms. Weinshall, who lives in Brooklyn, was appointed to her current post by Mr. Giuliani in 2000 after holding senior positions in the Department of Citywide Administrative Services and the Department of Environmental Protection. An honors graduate of Brooklyn College, which is part of the City University system, Ms. Weinshall, 53, has a master's degree in public administration from the Wagner School of Public Service at New York University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

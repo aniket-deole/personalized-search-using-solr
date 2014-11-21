@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editor's Note; About the Tables</title>
+    <meta content="07suntablenote" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Corrections; Editors' Notes; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817158"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">New York Times</org>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E0D71430F934A35752C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editor's Note; About the Tables</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Times editorial note says Sunday Business section will make financial tables more concise to reflect growing use of online listings and increasing newsprint costs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beginning today, Sunday Business is making its financial tables more concise, reflecting the growing use of listings online and the increasing cost of newsprint.</p>
+        <p>The tables for the New York Stock Exchange, the Nasdaq stock market and the American Stock Exchange will continue to show the 52-week high and low for each stock but will no longer show the weekly high and low, volume, dividend, yield or price-to-earnings ratio. The table for preferred stocks will no longer show the volume, dividend or yield.</p>
+      </block>
+      <block class="full_text">
+        <p>Beginning today, Sunday Business is making its financial tables more concise, reflecting the growing use of listings online and the increasing cost of newsprint.</p>
+        <p>The tables for the New York Stock Exchange, the Nasdaq stock market and the American Stock Exchange will continue to show the 52-week high and low for each stock but will no longer show the weekly high and low, volume, dividend, yield or price-to-earnings ratio. The table for preferred stocks will no longer show the volume, dividend or yield.</p>
+        <p>The mutual funds table will continue to list those with assets of $200 million or more. It will no longer show the four-week percentage return but will have a rotating column that shows returns over three months, one year and three years.</p>
+        <p>The table for money market mutual funds is being eliminated. Instead, two smaller tables, one listing the 10 largest funds and the other showing the top 10 funds by seven-day yield, will appear on the DataBank page.</p>
+        <p>The table for closed-end funds and funds traded on the stock exchanges will now show only the last price and the weekly change.</p>
+        <p>Comprehensive information on stocks, mutual funds and other investments is online at www.nytimes.com/business.</p>
+        <p>Comments about the changes may be e-mailed to tables@nytimes.com or telephoned to (212) 556-3715.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

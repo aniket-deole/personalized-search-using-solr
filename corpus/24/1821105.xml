@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lisa E. Goldberg, 54, Foundation President</title>
+    <meta content="24goldberg" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821105"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Goldberg, Lisa E</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E0DD163FF937A15752C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lisa E. Goldberg, 54, Foundation President</hl1>
+      </hedline>
+      <abstract>
+        <p>Lisa E Goldberg, 54,</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lisa E. Goldberg, president of the Charles H. Revson Foundation, died on Monday in Manhattan. She was 54.</p>
+        <p>The cause was a brain aneurysm, said a spokesman for New York University, of which her husband, John Sexton, is president.</p>
+      </block>
+      <block class="full_text">
+        <p>Lisa E. Goldberg, president of the Charles H. Revson Foundation, died on Monday in Manhattan. She was 54.</p>
+        <p>The cause was a brain aneurysm, said a spokesman for New York University, of which her husband, John Sexton, is president.</p>
+        <p>In 1982, Ms. Goldberg started as a program officer at the foundation, which has an endowment of $180 million and makes grants in fields including urban affairs and education. Under her leadership, the foundation financed two Public Broadcasting System series, ''Genesis: A Living Conversation,'' with Bill Moyers, and ''Eyes on the Prize.''</p>
+        <p>Lisa Ellen Goldberg was born in Brookline, Mass., on May 1, 1952, and graduated from Radcliffe and Harvard Law School. Past jobs included being a senior staff member and legal counsel of the President's Commission for a National Agenda for the '80s in the Carter administration.</p>
+        <p>In addition to her husband, Ms. Goldberg is survived by their daughter, Katherine Lodgen Sexton, and their son, Jed Sexton, both of Manhattan; three granddaughters; her sister, Donna Eskind of Nashville; and her brother, Philip S. Goldberg, the United States ambassador to Bolivia.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

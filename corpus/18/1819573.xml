@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hard, Easy or Just Right?</title>
+    <meta content="18classNFL" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Health; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/fashion/18classNFL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819573"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASS IS IN SESSION: N.F.L. TRAINING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Exercise</classifier>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Clay (Health Club)</org>
+        <person class="indexing_service">Ellin, Abby</person>
+        <person class="indexing_service">Cardiello, Jay</person>
+        <classifier class="online_producer" type="types_of_material">Series</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Health Clubs</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Clubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE0DC1130F93BA25752C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hard, Easy or Just Right?</hl1>
+        <hl2 class="online_headline">Hard, Easy or Just Right?</hl2>
+      </hedline>
+      <byline class="print_byline">By ABBY ELLIN</byline>
+      <byline class="normalized_byline">Ellin, Abby</byline>
+      <abstract>
+        <p>Review of Jay Cardiello's NFL-based exercise class at Clay, Manhattan health club; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Clay, 25 West 14th Street, (212) 206-9200. www.insideclay.com.  Day pass, $35.</p>
+        <p>JAY CARDIELLO likes to boast that N.F.L. Training is one of the ''toughest classes in New York.'' It's a bold statement (not to mention a cliché), but Mr. Cardiello, left, who created this high-energy workout to bring football to sideliners, isn't afraid to be bold: he is a private trainer for N.F.L. players and former conditioning coach in the Arena Football League.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>These articles are additions in a series of group fitness class reviews.</p>
+      </block>
+      <block class="full_text">
+        <p>Clay, 25 West 14th Street, (212) 206-9200. www.insideclay.com.  Day pass, $35.</p>
+        <p>JAY CARDIELLO likes to boast that N.F.L. Training is one of the ''toughest classes in New York.'' It's a bold statement (not to mention a cliché), but Mr. Cardiello, left, who created this high-energy workout to bring football to sideliners, isn't afraid to be bold: he is a private trainer for N.F.L. players and former conditioning coach in the Arena Football League.</p>
+        <p>The routine varies but it's often a nonstop mélange of 100 push-ups and jumping jacks, 20 squats and lunges, a series of hydrants, and 10 minutes of drills (like ''blocking'' someone with a body bar, or kicking an invisible ball à la Charlie Brown). It's tough, though I have certainly survived harder full-body workouts. The sweltering 83-degree heat heightens the intensity, but this football practice is really just a variation on a boot camp with some ''Hut huts!'' thrown in.</p>
+        <p>Mr. Cardiello may fancy himself a younger, less volatile Joe Paterno, but he is still prone to theatrics. At the beginning of the hour he yanks a curtain to seal off the room, so the group becomes an insulated unit. The music blasts --''We Will Rock You'' (surprise!) -- and for two minutes the team claps its hands and thumps its thighs. Why? Because ''I'm trying to bring out the beast within you,'' he explained. Oh.</p>
+        <p>During the cool-down, Mr. Cardiello utters profundities like, ''If you can do this class, then why the heck can't you make it in life?'' Then he whips open the curtain with a flourish.</p>
+        <p>ABBY ELLIN</p>
+        <p>This is another in a series of group fitness class reviews.</p>
+        <p>CLASS IS IN SESSION: N.F.L. TRAINING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

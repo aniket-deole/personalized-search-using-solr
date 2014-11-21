@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wake Up Your Computer</title>
+    <meta content="12fri3" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/opinion/12fri3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818266"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <person class="online_producer">Markoff, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E7DD1330F931A25752C0A9619C8B63" item-length="373" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wake Up Your Computer</hl1>
+        <hl2 class="online_headline">Wake Up Your Computer</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says computer users must update their computers, upgrade out-of-date software, use firewalls that come with their computers, and install antivirus programs; says every computer user has personal responsibility for collective security, no matter how much of hassle updates, firewalls and security patches may be</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With great computing power comes great responsibility. Unsecured computers hurt their owners by exposing them to identity theft and stolen passwords. But they can also be conscripted as foot soldiers in a destructive online army: At best, it inconveniences all users by spewing noisome spam. At worst, it generates large-scale attacks on the Web sites of companies and even governments that can shut down networks at enormous cost.</p>
+        <p>These botnet programs represent a growing scourge, especially since so many Internet users won't take the fairly simple steps needed to combat them. Users need to update their computers regularly, bite the bullet and upgrade when out-of-date software is no longer supported by its maker, use the firewalls that come with their computers, and install antivirus programs. Most states require car owners to buy liability insurance. Asking users to make a minimal effort to keep their computers from damaging others is not beyond the pale.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Every user has a personal responsibility for our collective security on the Internet, no matter how much of a hassle updates, firewalls and security patches may be.</p>
+      </block>
+      <block class="full_text">
+        <p>With great computing power comes great responsibility. Unsecured computers hurt their owners by exposing them to identity theft and stolen passwords. But they can also be conscripted as foot soldiers in a destructive online army: At best, it inconveniences all users by spewing noisome spam. At worst, it generates large-scale attacks on the Web sites of companies and even governments that can shut down networks at enormous cost.</p>
+        <p>These botnet programs represent a growing scourge, especially since so many Internet users won't take the fairly simple steps needed to combat them. Users need to update their computers regularly, bite the bullet and upgrade when out-of-date software is no longer supported by its maker, use the firewalls that come with their computers, and install antivirus programs. Most states require car owners to buy liability insurance. Asking users to make a minimal effort to keep their computers from damaging others is not beyond the pale.</p>
+        <p>Affected computers are commonly referred to as zombies because they go through active motions unaware that they are even doing anything. First a virus or worm program compromises the computer. Then the criminal behind the attack can control it remotely. As John Markoff reported recently in The Times, a consensus estimate among experts is that 11 percent of the more than 650 million computers connected to the Internet are infected.</p>
+        <p>In the early days of the Internet, there was an optimistic vision of a virtual global village through which everyone around the world would be connected, leading to greater understanding and even peace. In this day of jihadi Web sites, that sounds about as realistic as the world adopting Esperanto as its official language.</p>
+        <p>There was a crucial difference between early adopters and the bulk of the Internet users of today. At the dawn of networked computing, the hobbyists and professionals online expected to have to learn and do a little work. As the Internet became the mainstream, the dedication of technology companies to creating easy plug-and-play products has made the Internet seem as though it requires less understanding and care among users than it does. Every user has a personal responsibility for our collective security, no matter how much of a hassle updates, firewalls and security patches may be.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

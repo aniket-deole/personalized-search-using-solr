@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Indulgence Times Two: A Chocolatier and a Chandelier</title>
+    <meta content="18light" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819584"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: LIGHTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chandeliers</classifier>
+        <person class="indexing_service">Trico, Michel</person>
+        <person class="indexing_service">Arnold, Liz</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EEDC1130F93BA25752C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Indulgence Times Two: A Chocolatier and a Chandelier</hl1>
+      </hedline>
+      <byline class="print_byline">By LIZ ARNOLD</byline>
+      <byline class="normalized_byline">Arnold, Liz</byline>
+      <abstract>
+        <p>Michel Trico's chandelier designs are now available to public; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Living next door to a chocolate shop has obvious benefits, but for Michel Trico, a self-taught chandelier designer, it has provided something unexpected: the opportunity to start a business. Ms. Trico, above, has been selling chandeliers to friends for years, but since one of her fixtures -- a five-foot frame decorated with gilded cutlery and 500 teardrop crystals -- was installed in the Cacao Bar at MarieBelle in SoHo two months ago, her work has been generating public interest. ''Customers are constantly asking about it,'' said Maribel Lieberman, the store's owner. ''It's really a conversation starter.'' Ms. Trico's chandeliers, which combine elements like Swarovski crystal, Art Deco frames, strings of natural pearls and jade disks the size of dinner plates, start at $5,000; maisondelumiere@yahoo.com or (347) 393-9725.</p>
+        <p>LIZ ARNOLD</p>
+      </block>
+      <block class="full_text">
+        <p>Living next door to a chocolate shop has obvious benefits, but for Michel Trico, a self-taught chandelier designer, it has provided something unexpected: the opportunity to start a business. Ms. Trico, above, has been selling chandeliers to friends for years, but since one of her fixtures -- a five-foot frame decorated with gilded cutlery and 500 teardrop crystals -- was installed in the Cacao Bar at MarieBelle in SoHo two months ago, her work has been generating public interest. ''Customers are constantly asking about it,'' said Maribel Lieberman, the store's owner. ''It's really a conversation starter.'' Ms. Trico's chandeliers, which combine elements like Swarovski crystal, Art Deco frames, strings of natural pearls and jade disks the size of dinner plates, start at $5,000; maisondelumiere@yahoo.com or (347) 393-9725.</p>
+        <p>LIZ ARNOLD  CURRENTS: LIGHTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

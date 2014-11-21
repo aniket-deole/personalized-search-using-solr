@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Murcer Says Tests Reveal Brain Tumor Is Malignant</title>
+    <meta content="11murcer" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818023"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <person class="indexing_service">Murcer, Bobby</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DA1230F932A25752C0A9619C8B63" item-length="336" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Murcer Says Tests Reveal Brain Tumor Is Malignant</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+      <abstract>
+        <p>Former New York Yankees player Bobby Murcer says tumor removed from his brain was malignant; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bobby Murcer, a former Yankees outfielder and their longest-serving current announcer, said yesterday that a tumor removed from his brain during surgery on Dec. 28 was malignant. He did not describe his prognosis.</p>
+        <p>''As we begin a new year, I find myself facing a new challenge -- the biggest of my life so far,'' he said in a statement released by the Yankees in which he revealed the findings of pathology tests on the tumor.</p>
+      </block>
+      <block class="full_text">
+        <p>Bobby Murcer, a former Yankees outfielder and their longest-serving current announcer, said yesterday that a tumor removed from his brain during surgery on Dec. 28 was malignant. He did not describe his prognosis.</p>
+        <p>''As we begin a new year, I find myself facing a new challenge -- the biggest of my life so far,'' he said in a statement released by the Yankees in which he revealed the findings of pathology tests on the tumor.</p>
+        <p>''I'm not having to battle this alone,'' said Murcer, 60, ''but I am fortified with the most loving family, an overabundance of wonderful friends and fans and the very best class of physicians.''</p>
+        <p>He added, ''I'm gaining confidence that with God and my faith leading the way, we will as a team put up an incredible fight.''</p>
+        <p>His wife, Kay, did not return a call seeking comment.</p>
+        <p>A magnetic resonance imaging scan detected the tumor on Dec. 24 after Murcer had been experiencing headaches and fatigue. The tumor was removed during a five-hour operation at M. D. Anderson Cancer Center in Houston. Later that day, Murcer watched the Independence Bowl, and Kay Murcer said that he ''came through it beautifully.''</p>
+        <p>George Steinbrenner, the Yankees' principal owner, said in a statement yesterday that Murcer ''has true grit, is a fighter and our entire Yankee organization offers our prayers to him and his family for a big win in this battle.''</p>
+        <p>Since 1987, at least three prominent baseball figures have died of brain cancer: Dick Howser, the former Yankees and Kansas City Royals manager; Dan Quisenberry, the star closer for the Royals; and Tug McGraw, the exuberant Mets and Philadelphia Phillies reliever. In Quisenberry's case, one operation removed 80 percent to 90 percent of the tumor, and he needed a second one when the cancer spread.</p>
+        <p>Murcer, a five-time All-Star, played in the majors from 1965 to 1983. He batted .277 with 252 home runs and 1,043 runs batted in with the Yankees, the San Francisco Giants and the Chicago Cubs.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

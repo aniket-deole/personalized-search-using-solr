@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CALENDAR</title>
+    <meta content="31fcal" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/31/dining/31fcal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822713"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E5D7143FF932A05752C0A9619C8B63" item-length="367" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CALENDAR</hl1>
+        <hl2 class="online_headline">Food Calendar</hl2>
+      </hedline>
+      <byline class="print_byline">By FLORENCE FABRICANT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beer and Tapas</p>
+        <p>A tasting of four beers from Sixpoint Craft Ales in Brooklyn with tapas-style food will be held tonight from 6 to 10 p.m. at Against the Grain, 620 East 6th Street (Avenue B). The cost is $25.</p>
+        <p>Visiting Chefs</p>
+        <p>Michel Roth, the executive chef at L'Espadon, the restaurant in the Ritz in Paris, will be at the Carlyle from Feb. 5 through 10 to prepare a special truffle menu, $180, and other dishes on the à la carte menu. Colin Field, the cocktail chef at the Hemingway Bar at the Ritz, will also be there; 35 East 76th Street, (212) 744-1600.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Beer and Tapas.</p>
+      </block>
+      <block class="full_text">
+        <p>Beer and Tapas</p>
+        <p>A tasting of four beers from Sixpoint Craft Ales in Brooklyn with tapas-style food will be held tonight from 6 to 10 p.m. at Against the Grain, 620 East 6th Street (Avenue B). The cost is $25.</p>
+        <p>Visiting Chefs</p>
+        <p>Michel Roth, the executive chef at L'Espadon, the restaurant in the Ritz in Paris, will be at the Carlyle from Feb. 5 through 10 to prepare a special truffle menu, $180, and other dishes on the à la carte menu. Colin Field, the cocktail chef at the Hemingway Bar at the Ritz, will also be there; 35 East 76th Street, (212) 744-1600.</p>
+        <p>Melek Boz, who was the chef and owner of restaurants in Istanbul and Bodrum, Turkey, will prepare special dishes from Feb. 8 through 18 at Pasha, 70 West 71st Street: (212) 579-8751.</p>
+        <p>Indian chefs from Chicago, Washington, Palo Alto, Calif., and Mumbai will join Floyd Cardoz, the executive chef at Tabla, 11 Madison Avenue (25th Street), and his pastry chef, Melissa Walnock, in preparing a six-course dinner on Feb. 11 at 6 p.m. It will benefit Kids with Cameras, an organization that teaches photography to children in underprivileged areas around the world. Tickets are $375: tablany.com or (212) 889-0667.</p>
+        <p>Chocolate: A History</p>
+        <p>The Culinary Historians of New York will present a slide lecture by Alexandra Leaf, a food historian, about the cultural history of chocolate on Feb. 7 at 6:30 p.m. at the Institute of Culinary Education, 50 West 23rd Street. A tasting will follow. The fee is $25 for members, $22 for students and those over 65 and $40 for non-members: culinaryhistoriansny.org.</p>
+        <p>The Red and the White</p>
+        <p>A five-course Châteauneuf-du-Pape dinner starting with several whites and featuring 11 reds from six producers, from 1990 to 2001, will be held on Feb. 7 at 7 p.m. at 7Square, 224 West 49th Street. The cost is $175: (212) 333-7749.</p>
+        <p>Food, Wine and Germany</p>
+        <p>A tasting of dry German wines led by Arina and Willie Glückstern, wine importer and expert, respectively, with German food, will be held on Feb. 8 at 6:30 at Goethe-Institut, 1014 Fifth Avenue (83rd Street). The cost is $25: rsvp@germanyinnyc.org.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

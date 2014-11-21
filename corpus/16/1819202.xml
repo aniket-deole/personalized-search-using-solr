@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It Might Pay to Remember That Folate Pill</title>
+    <meta content="16risk" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819202"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: RISK REDUCTION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alzheimer's Disease</classifier>
+        <classifier class="indexing_service" type="descriptor">Folate (Vitamin)</classifier>
+        <classifier class="indexing_service" type="descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Men</classifier>
+        <classifier class="indexing_service" type="descriptor">Vitamins</classifier>
+        <org class="indexing_service">Columbia University</org>
+        <org class="indexing_service">Archives of Neurology</org>
+        <person class="indexing_service">Bakalar, Nicholas</person>
+        <person class="indexing_service">Luchsinger, Jose A (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Vitamins</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Alzheimer's</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vitamins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alzheimer's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7DA1030F935A25752C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It Might Pay to Remember That Folate Pill</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+      <abstract>
+        <p>Dr Jose A Luchsinger, Columbia University epidemiology professor, leads study that suggests folate intake may be linked with Alzheimer's disease; research, which is published in journal Archives of Neurology, finds that men with high folate intake were least likely to develop disease; cautions, however, that study is observational and more research is needed to investigate link; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Higher folate intake from food and supplements may decrease the risk of Alzheimer's disease, a new study suggests.</p>
+        <p>Researchers followed 965 Medicare recipients 65 or older for an average of six years, administering diet questionnaires to estimate their intake of folate, vitamin B6 and vitamin B12, and performing medical examinations at about 18-month intervals. Members of the study group lived in northern Manhattan, were largely Hispanic and black, and had high levels of diabetes, hypertension and other vascular risk factors. Alzheimer's developed in 192 of them.</p>
+      </block>
+      <block class="full_text">
+        <p>Higher folate intake from food and supplements may decrease the risk of Alzheimer's disease, a new study suggests.</p>
+        <p>Researchers followed 965 Medicare recipients 65 or older for an average of six years, administering diet questionnaires to estimate their intake of folate, vitamin B6 and vitamin B12, and performing medical examinations at about 18-month intervals. Members of the study group lived in northern Manhattan, were largely Hispanic and black, and had high levels of diabetes, hypertension and other vascular risk factors. Alzheimer's developed in 192 of them.</p>
+        <p>After adjusting for age, hypertension, current smoking and other variables, those in the highest one-quarter in total folate intake, from both diet and supplements, were 50 percent less likely to develop Alzheimer's than those in the lowest one-quarter. There was no significant association of Alzheimer's risk with dietary folate alone, or with vitamin B12 or vitamin B6 intake.</p>
+        <p>Dr. José A. Luchsinger, the lead author and an assistant professor of medicine and epidemiology at Columbia, said there was nothing definitive in these results.</p>
+        <p>''This study is observational, not a clinical trial,'' he said. ''It builds evidence and suggests hypotheses, but should not be used to recommend treatment.''</p>
+        <p>The authors, writing in the January issue of The Archives of Neurology, suggest that folate lowers blood levels of homocysteine, which may decrease the risk of brain atrophy. It may also be that folate reduces the risk for cerebrovascular disease, which is another potential pathway for Alzheimer's.</p>
+        <p>VITAL SIGNS: RISK REDUCTION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

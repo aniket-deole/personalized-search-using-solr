@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unsafe at Any Level</title>
+    <meta content="28siegel" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/opinion/28siegel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822124"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="indexing_service" type="descriptor">Nicotine</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <person class="indexing_service">Siegel, Michael (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Smoking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Harvard School of Public Health</org>
+        <org class="online_producer">Philip Morris Companies Inc</org>
+        <org class="online_producer">Campaign for Tobacco-Free Kids</org>
+        <org class="online_producer">Food and Drug Administration</org>
+        <person class="online_producer">Kennedy, Edward M</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFD9173FF93BA15752C0A9619C8B63" item-length="628" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unsafe at Any Level</hl1>
+        <hl2 class="online_headline">Unsafe at Any Level</hl2>
+      </hedline>
+      <byline class="print_byline">By Michael Siegel</byline>
+      <byline class="normalized_byline">Siegel, Michael (Prof)</byline>
+      <dateline>BOSTON</dateline>
+      <abstract>
+        <p>Prof Michael Siegel Op-Ed article argues that anti-smoking groups have drawn wrong conclusion from report that cigarette companies have been steadily increasing nicotine yield of their cigarettes; says groups cite this as evidence that Food and Drug Admn must begin regulating tobacco products; contends that it is not enough to regulate nicotine, says FDA should be granted authority to completely eliminate nicotine from cigarettes (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ACCORDING to a report released last week by the Harvard School of Public Health, cigarette companies have been steadily increasing the nicotine yield of their cigarettes -- the report describes an average total increase of 11 percent from 1998 to 2005.</p>
+        <p>Anti-smoking groups have seized on the report as evidence that the Food and Drug Administration must begin regulating tobacco products.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The problem isn’t whether or not nicotine levels are increasing; it’s that this deadly, addictive product is available in the first place.</p>
+      </block>
+      <block class="full_text">
+        <p>ACCORDING to a report released last week by the Harvard School of Public Health, cigarette companies have been steadily increasing the nicotine yield of their cigarettes -- the report describes an average total increase of 11 percent from 1998 to 2005.</p>
+        <p>Anti-smoking groups have seized on the report as evidence that the Food and Drug Administration must begin regulating tobacco products.</p>
+        <p>A steady and significant increase in nicotine in cigarettes over the past eight years or so certainly seems worrisome. It sounds as though companies like Philip Morris, which makes Marlboros, are secretly and deceptively increasing the nicotine in their cigarettes and, apparently, lying about it (since they deny the assertions of the report), all in an effort to increase the addictive potential of their cigarettes and harm the public's health.</p>
+        <p>There are, however, a number of problems here.</p>
+        <p>First, though I don't dispute the report's assertion that overall nicotine yields in cigarettes have increased, this does not appear to be the case for Marlboro, the leading cigarette brand that commands over 40 percent of the market.</p>
+        <p>Using the data on nicotine yields of Marlboro cigarettes provided by Philip Morris to the Massachusetts Department of Public Health for 1997 through 2006, I conducted my own analysis of the trends in Marlboro nicotine yields.</p>
+        <p>The average nicotine yield of 16 Marlboro brands consistently reported for the entire time period was 1.81 milligrams in 1997; in 2006, it was also 1.81 milligrams. Thus, the average nicotine yield of these cigarettes in 2006 was exactly the same as in 1997, nine years earlier.</p>
+        <p>Second, an increase in nicotine yields does not necessarily mean an increase in the harm to smokers. It is well documented that smokers compensate for changes in nicotine levels to get a relatively constant nicotine dose.</p>
+        <p>This is why ''light'' cigarettes are not safer products. The nicotine levels in each cigarette may be lower, but smokers simply smoke more of them, negating the potential benefits of reduced nicotine levels. Indeed, smoking many ''light'' cigarettes is every bit as dangerous, if not more so, because of the increased exposure to other pollutants in cigarettes, than smoking fewer ''regular'' cigarettes.</p>
+        <p>Similarly, if nicotine yields increase, smokers might be expected to compensate by smoking slightly less. This could actually have a marginally positive health benefit if it reduces overall cigarette consumption.</p>
+        <p>Third, tobacco companies are not necessarily doing anything wrong if they are, in fact, increasing nicotine yields. The paradox of ''light'' cigarettes demonstrates that reducing nicotine yields is actually the last thing we would want -- it would, again, result only in people smoking more, and thus increasing tar delivery and the resulting carcinogenic health effects.</p>
+        <p>The nicotine in cigarettes is indeed a public health problem. But anti-smoking groups have drawn the wrong conclusion from the Harvard report: the problem isn't whether or not nicotine levels are increasing; it's that this deadly, addictive product is available in the first place.</p>
+        <p>For the past two years, public health groups -- led by the Campaign for Tobacco-Free Kids -- have lobbied for passage of legislation that would grant the F.D.A. the authority to regulate tobacco products; shockingly, this bill, which Senator Edward Kennedy is preparing to re-introduce in the next few weeks, would expressly preclude the F.D.A. from simply removing nicotine from cigarettes.</p>
+        <p>It remains unclear why public health groups would support such a provision, though presumably it's their attempt to appease Philip Morris, whose support is deemed necessary to get the proposed legislation through Congress.</p>
+        <p>It's not enough to regulate the varying degrees of nicotine in cigarettes. Ultimately, there's only one way to deal with the addictive effects of nicotine, especially on children: grant the F.D.A. the authority to get nicotine out of cigarettes altogether. Anti-smoking groups shouldn't settle for anything less.</p>
+        <p>Op-Ed Contributor Michael Siegel is a professor of social and behavioral sciences at Boston University.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Michael Siegel is a professor of social and behavioral sciences at Boston University.</tagline>
+    </body.end>
+  </body>
+</nitf>

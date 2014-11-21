@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KAPLAN, GERTRUDE</title>
+    <meta content="dn011207" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818146"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KAPLAN, GERTRUDE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E1D71E3AF931A25752C0A9619C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KAPLAN, GERTRUDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KAPLAN--Gertrude. Died peacefully on January 9, 2007. Loving and beloved wife for almost 65 years of the late Simon; cherished mother of Lawrence, Joseph and Sharon, and Rena and Bruce Spinowitz; adored grandmother of Zvi and Alisa, Yaffa and Ed, Pearl, Micole, Daniele, Gila and Israel, Moshe and Tovah, Raquel and Jason, Naomi, and Gabrielle; devoted sister and sister-inlaw of Alex and Goldie Gross, Eli, Sarah Katzman, and Lillian; doting great-grandmother of eight; respected aunt, relative and friend. Shiva at 1144 Sage St., Far Rockaway through Tuesday morning.</p>
+      </block>
+      <block class="full_text">
+        <p>KAPLAN--Gertrude. Died peacefully on January 9, 2007. Loving and beloved wife for almost 65 years of the late Simon; cherished mother of Lawrence, Joseph and Sharon, and Rena and Bruce Spinowitz; adored grandmother of Zvi and Alisa, Yaffa and Ed, Pearl, Micole, Daniele, Gila and Israel, Moshe and Tovah, Raquel and Jason, Naomi, and Gabrielle; devoted sister and sister-inlaw of Alex and Goldie Gross, Eli, Sarah Katzman, and Lillian; doting great-grandmother of eight; respected aunt, relative and friend. Shiva at 1144 Sage St., Far Rockaway through Tuesday morning.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

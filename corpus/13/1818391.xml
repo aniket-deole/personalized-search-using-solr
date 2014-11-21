@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sounds to Accompany an Outdoors of the Imagination</title>
+    <meta content="13blac" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/13/arts/music/13blac.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818391"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Eighth Blackbird (Music Group)</org>
+        <person class="indexing_service">Schweitzer, Vivien</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Folk Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Folk Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Eighth Blackbird</org>
+        <person class="online_producer">Sendak, Maurice</person>
+        <person class="online_producer">Mackey, Steven</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E5DA1330F930A25752C0A9619C8B63" item-length="381" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sounds to Accompany an Outdoors of the Imagination</hl1>
+        <hl2 class="online_headline">Sounds to Accompany an Outdoors of the Imagination</hl2>
+      </hedline>
+      <byline class="print_byline">By VIVIEN SCHWEITZER</byline>
+      <byline class="normalized_byline">Schweitzer, Vivien</byline>
+      <abstract>
+        <p>Vivien Schweitzer reviews performance by Eighth Blackbird at The Kitchen; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Kitchen was where the wild things were on Thursday night. Eighth Blackbird, the new music sextet based in Chicago, offered an aural feast for the imagination with works from ''Strange Imaginary Animals,'' their new disc on the Cedille label.</p>
+        <p>The title of this recording of visceral music was inspired by the composer Steven Mackey, who in his three-movement ''Indigenous Instruments'' (1989) instructed that the violin's G string be tuned down by more than an octave to sound ''like the moaning of some strange imaginary animal.'' He uses microtonal tunings and unusual textures to create quirky folk melodies from an imagined culture.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Eighth Blackbird, the new music sextet based in Chicago, offered an aural feast for the imagination at The Kitchen on Thursday night.</p>
+      </block>
+      <block class="full_text">
+        <p>The Kitchen was where the wild things were on Thursday night. Eighth Blackbird, the new music sextet based in Chicago, offered an aural feast for the imagination with works from ''Strange Imaginary Animals,'' their new disc on the Cedille label.</p>
+        <p>The title of this recording of visceral music was inspired by the composer Steven Mackey, who in his three-movement ''Indigenous Instruments'' (1989) instructed that the violin's G string be tuned down by more than an octave to sound ''like the moaning of some strange imaginary animal.'' He uses microtonal tunings and unusual textures to create quirky folk melodies from an imagined culture.</p>
+        <p>The whimsical CD title is also apt for the other works on the disc, like Jennifer Higdon's irresistibly fun and colorful ''Zaka'' (2003), which opened the program at the Kitchen. The composer's definition of the imaginary word ''Zaka'' is ''to do the following almost simultaneously and with great speed: zap, sock, race, turn, drop, sprint. See also Eighth Blackbird.''</p>
+        <p>Or perhaps imagine Maurice Sendak creatures in flight across a rhythmically jagged, fantastical terrain. The start line is a pounded aggressive bass line on the piano. Spiky, stabbing strings; colorful percussion; woodwind whistles, whooshes and racing melodies; and string glissandos all eventually melt into a lyrical hibernation, before another explosion of breathless, propulsive force.</p>
+        <p>The strange imaginary animals in Gordon Fitzell's ''Evanescence'' (2006), which followed ''Zaka'' on the program, seemed to be from outer space. Mr. Fitzell uses electronic and avant-garde techniques, like running a wet finger around the edge of a glass, to create an eerie, throbbing, trancelike canvas, through which at one point a raspy cello line penetrates like the moan of an angry Martian.</p>
+        <p>A recording of Dennis DeSantis's ''Strange Imaginary Remix'' (2006), a funky techno synopsis of the CD, was played while Eighth Blackbird members set up for David M. Gordon's relentless ''Friction Systems'' (2002, revised 2005). This work uses extensively prepared piano, microtonal tunings, brake drums, toy piano and other avant-garde elements to create a rhythmically conflicting, tense and unstable musical tapestry.</p>
+        <p>Eighth Blackbird often performs from memory, although here the group used scores for everything except ''Evanescence.'' There wasn't the theatrical element sometimes included in its concerts, but there was nothing static about the performances, which bristled with energy and conviction.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

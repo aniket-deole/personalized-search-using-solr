@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Play It Again</title>
+    <meta content="14alsmail-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818690"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LYRICISTS AND THEIR ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Marks, Walter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E0DA1230F937A25752C0A9619C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Play It Again</hl1>
+      </hedline>
+      <abstract>
+        <p>Walter Marks letter about Jan 7 article on craft of writing song lyrics</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Music Is Sweet, the Words Are True'' by Dinitia Smith [Jan. 7]: I found the comment that good lyricists try to avoid near rhymes like ''home'' and ''alone'' very interesting. As a young songwriter in the '60s I was riding in a car on the San Diego Freeway with my friend and mentor Johnny Mercer. He turned on the radio, and we heard ''Blues in the Night.'' As Frank Sinatra sang: ''Hear that lonesome whistle, blowin' 'cross the trestle,'' John turned off the radio and grimaced. He said that he couldn't believe he had rhymed ''trestle'' and ''whistle'' and that he was so embarrassed he couldn't listen to the song.</p>
+        <p>Walter Marks  Manhattan</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Music Is Sweet, the Words Are True'' by Dinitia Smith [Jan. 7]: I found the comment that good lyricists try to avoid near rhymes like ''home'' and ''alone'' very interesting. As a young songwriter in the '60s I was riding in a car on the San Diego Freeway with my friend and mentor Johnny Mercer. He turned on the radio, and we heard ''Blues in the Night.'' As Frank Sinatra sang: ''Hear that lonesome whistle, blowin' 'cross the trestle,'' John turned off the radio and grimaced. He said that he couldn't believe he had rhymed ''trestle'' and ''whistle'' and that he was so embarrassed he couldn't listen to the song.</p>
+        <p>Walter Marks  Manhattan</p>
+        <p>LYRICISTS AND THEIR ART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Blair Lawson, Brett Holleman</title>
+    <meta content="28Lawson" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/fashion/weddings/28Lawson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822040"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Lawson, Frances Blair (Frances Blair Holleman)</person>
+        <person class="indexing_service">Holleman, Brett Christopher</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E5DC173FF93BA15752C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Blair Lawson, Brett Holleman</hl1>
+        <hl2 class="online_headline">Blair Lawson, Brett Holleman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frances Blair Lawson, the daughter of Anna Logan Lawson and Thomas T. Lawson of Daleville, Va., was married yesterday at her family's home on St. John, in the Virgin Islands, to Brett Christopher Holleman, the son of Barbara H. Haase of Blairstown, N.J., and Craig D. Holleman of New York. The Rev. Anne Marie Porter, an interfaith minister, officiated.</p>
+        <p>The bride, 33, works in New York as the director of leather goods merchandising in North America for Louis Vuitton. She graduated from Stanford and received an M.B.A. from Northwestern.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Frances Blair Lawson, the daughter of Anna Logan Lawson and Thomas T. Lawson of Daleville, Va., was married yesterday at her family’s home on St. John, in the Virgin Islands, to Brett Christopher Holleman, the son of Barbara H. Haase of Blairstown, N.J., and Craig D. Holleman of New York. The Rev. Anne Marie Porter, an interfaith minister, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Frances Blair Lawson, the daughter of Anna Logan Lawson and Thomas T. Lawson of Daleville, Va., was married yesterday at her family's home on St. John, in the Virgin Islands, to Brett Christopher Holleman, the son of Barbara H. Haase of Blairstown, N.J., and Craig D. Holleman of New York. The Rev. Anne Marie Porter, an interfaith minister, officiated.</p>
+        <p>The bride, 33, works in New York as the director of leather goods merchandising in North America for Louis Vuitton. She graduated from Stanford and received an M.B.A. from Northwestern.</p>
+        <p>Her father retired as a partner in Woods Rogers, a law firm in Roanoke, Va. Her mother is the chairwoman of the board of the Virginia chapter of the Nature Conservancy.</p>
+        <p>The bridegroom, also 33, is a managing director and a currency trader at the Fortress Investment Group in New York. He graduated from Yale.</p>
+        <p>His mother is the dean of admissions at Blair Academy, a boarding school in Blairstown. His father is a partner in Sabin, Bermant &amp; Gould, a law firm in New York. The bridegroom's stepmother, Vicki Z. Holleman, is an arbitrator for the National Association of Securities Dealers in New York. His stepfather, Martin T. Haase, is the director of development at the Browning School, also in New York.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

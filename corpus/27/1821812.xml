@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Cops Vs. Docs</title>
+    <meta content="27arts-5" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821812"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Cbs Broadcasting Inc</org>
+        <org class="indexing_service">Abc Inc</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <object.title class="indexing_service">Csi (TV Program)</object.title>
+        <object.title class="indexing_service">Grey's Anatomy (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D8173FF934A15752C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Cops Vs. Docs</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>CBS wins ratings for Sunday night with series CSI; ABC in No 1 among adults age 18 to 49 with drama Grey's Anatomy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''CSI,'' on CBS, came within a half million viewers of ABC's ''Grey's Anatomy'' on Thursday night at 9. According to Nielsen's estimates, ''CSI'' drew just under 21 million viewers, to 21.4 million for ''Grey's Anatomy.'' CBS finished No. 1 for the night in total viewers, but ABC dominated among adults 18 to 49. At 8, a rebroadcast of CBS's ''CSI: Miami'' (12.4 million) finished first ahead of ABC's ''Ugly Betty'' (9.8 million), which posted its best ratings for a rerun. A rerun of CBS's ''Shark'' (14 million) led at 10 in total viewers, while ABC's ''Men in Trees'' (11 million) edged it out among adults 18 to 49, posting a series high in that demographic. NBC was third for the night with a lineup of comedy reruns from 8 to 11. ''My Name Is Earl'' at 8 (8.4 million) and ''The Office'' at 8:30 (7.8 million), led at 8 among adults 18 to 49.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>''CSI,'' on CBS, came within a half million viewers of ABC's ''Grey's Anatomy'' on Thursday night at 9. According to Nielsen's estimates, ''CSI'' drew just under 21 million viewers, to 21.4 million for ''Grey's Anatomy.'' CBS finished No. 1 for the night in total viewers, but ABC dominated among adults 18 to 49. At 8, a rebroadcast of CBS's ''CSI: Miami'' (12.4 million) finished first ahead of ABC's ''Ugly Betty'' (9.8 million), which posted its best ratings for a rerun. A rerun of CBS's ''Shark'' (14 million) led at 10 in total viewers, while ABC's ''Men in Trees'' (11 million) edged it out among adults 18 to 49, posting a series high in that demographic. NBC was third for the night with a lineup of comedy reruns from 8 to 11. ''My Name Is Earl'' at 8 (8.4 million) and ''The Office'' at 8:30 (7.8 million), led at 8 among adults 18 to 49.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

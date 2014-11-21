@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Strewing Riches At Your Feet</title>
+    <meta content="14sneaker" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818791"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Shoes and Boots</classifier>
+        <classifier class="indexing_service" type="descriptor">Jewels and Jewelry</classifier>
+        <person class="indexing_service">Ryzik, Melena</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shoes and Boots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jewels and Jewelry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6DB1330F937A25752C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Strewing Riches At Your Feet</hl1>
+      </hedline>
+      <byline class="print_byline">By MELENA RYZIK</byline>
+      <byline class="normalized_byline">Ryzik, Melena</byline>
+      <abstract>
+        <p>Sneaker jewelry is latest in accessorizing; lace locks and cuff clips add bling to common running shoe; photos (Pulse column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Now you can have bling down to your toes with sneaker jewelry, the latest in accessorizing accessories. Lace locks, which help keep shoes snug, have been popping up at specialty shops. (The pair here, below right, are $10 at Goliath RF in New York, 212-360-7683.) True aficionados look for limited-edition designs, left, like the Sneakka line by Antonio Gardoni, an Italian architect. They're available in silver ($100) and gold ($330 to $500) from Colette in Paris and at www.antoniogardoni.com.</p>
+        <p>Even newer are Carter's Cuff Clips, above right, clasps that keep the hem of your pants from dragging too far over your shoe. Invented (and patented) by Bobby Carter, 24, of Charlotte, N.C., they come in sterling silver with cubic zirconia ($165 at www.cuffclip.com).</p>
+      </block>
+      <block class="full_text">
+        <p>Now you can have bling down to your toes with sneaker jewelry, the latest in accessorizing accessories. Lace locks, which help keep shoes snug, have been popping up at specialty shops. (The pair here, below right, are $10 at Goliath RF in New York, 212-360-7683.) True aficionados look for limited-edition designs, left, like the Sneakka line by Antonio Gardoni, an Italian architect. They're available in silver ($100) and gold ($330 to $500) from Colette in Paris and at www.antoniogardoni.com.</p>
+        <p>Even newer are Carter's Cuff Clips, above right, clasps that keep the hem of your pants from dragging too far over your shoe. Invented (and patented) by Bobby Carter, 24, of Charlotte, N.C., they come in sterling silver with cubic zirconia ($165 at www.cuffclip.com).</p>
+        <p>And the karats don't end there. In the spring, the New York sneaker mecca Alife Rivington Club (212-375-8128) will introduce gold-tip shoelaces. Eat your heart out, Christian Louboutin.</p>
+        <p>MELENA RYZIK</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

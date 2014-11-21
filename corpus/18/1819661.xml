@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="18askk" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/technology/18askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819661"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE3DA1130F93BA25752C0A9619C8B63" item-length="740" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Offline Options for Backup</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Offline Options For Backup</p>
+        <p>Q. What are the alternatives for backing up a computer's data if you don't want to use an online service?</p>
+        <p>A. Online services that let you back up your computer's files to a remote server can put your mind at ease, but they are just one option for stashing copies of your valuable files and folders. Because computer hard drives can be quite large, many people still use the traditional backup method of copying files onto an even larger external hard drive.</p>
+        <p>Many hard-drive makers include basic backup software with their drives, and you can also buy your own preferred program for Windows or Macintosh at most computer stores. Maxtor, LaCie, Western Digital and Iomega are among the many makers of external drives designed for home users. Prices vary, but it is possible to find a 250-gigabyte external drive for $150 or less on the Web.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What are the alternatives for backing up a computer’s data if you don’t want to use an online service?</p>
+      </block>
+      <block class="full_text">
+        <p>Offline Options For Backup</p>
+        <p>Q. What are the alternatives for backing up a computer's data if you don't want to use an online service?</p>
+        <p>A. Online services that let you back up your computer's files to a remote server can put your mind at ease, but they are just one option for stashing copies of your valuable files and folders. Because computer hard drives can be quite large, many people still use the traditional backup method of copying files onto an even larger external hard drive.</p>
+        <p>Many hard-drive makers include basic backup software with their drives, and you can also buy your own preferred program for Windows or Macintosh at most computer stores. Maxtor, LaCie, Western Digital and Iomega are among the many makers of external drives designed for home users. Prices vary, but it is possible to find a 250-gigabyte external drive for $150 or less on the Web.</p>
+        <p>Most drives now use the U.S.B. 2.0 connection to copy data between drives at a relatively fast clip. You can usually use a U.S.B. 2.0 drive with an older computer that just has U.S.B. 1.1 ports, but the data-transfer speeds will be much slower. Some backup drives also have FireWire connections, which are found on many Macintosh computers.</p>
+        <p>Although it is usually not included in the default installation, Windows XP has its own backup software that you can install from your Windows XP system discs. Mac OS X users with .Mac accounts can use Apple's free backup software.</p>
+        <p>Once you select a drive and install your backup software, you can set it up to back up your files, songs, pictures, videos and other data at regularly scheduled intervals, so if you accidentally delete a file or your computer dies, you have a copy of everything. Depending on how much data you have, most backup programs let you back up your files to a recordable CD or DVD instead of a hard drive.</p>
+        <p>Smartphones And the Mac</p>
+        <p>Q. Many of the best new smartphones run Windows Mobile or seem to be otherwise PC-only for synching data. Is there any way to use one with Mac OS X?</p>
+        <p>A. Smartphones, the Internet-connected hand-helds that combine voice calling with e-mail and other functions, typically allow you to transfer contact and calendar information between Mac and phone. If the smartphone you seek doesn't come with Mac OS X software, you can often find a third-party program that will sync up the phone and your Mac. (Apple's recently announced smartphone, the iPhone, will certainly be compatible with the Mac, but its price, exclusive arrangement with Cingular Wireless and lack of availability until midyear may put it out of contention for many people.)</p>
+        <p>PocketMac (pocketmac.com) and the Missing Sync (markspace.com) are two families of synchronization programs that let Macs communicate with smartphones and other devices designed for Windows. Both offer software for use with Windows Mobile smartphones, although PocketMac is still working on support for Windows Mobile 5.0; both also have programs, or soon will, designed to sync a Mac to some versions of the BlackBerry hand-held. Expect to pay $20 to $40 for the software, depending on what device you use.</p>
+        <p>Owners of newer Macs running Intel processors also have the more expensive option of installing Apple's free Boot Camp software and buying a copy of Windows XP to use the system on their Macs. Programs like Parallels Desktop for Mac ($80 at parallels.com) also let you run many Windows programs on a Mac.</p>
+        <p>Gatekeeping For Pop-Ups</p>
+        <p>Q. Is there a way to temporarily override the function that blocks pop-up windows in my Web browser to browse sites that legitimately use pop-ups?</p>
+        <p>A. Most Web browsers -- including Internet Explorer, Firefox and Safari -- now include a function that blocks the pesky pop-up and pop-under windows favored by advertisers. This feature can cause problems, however, with sites like banks that sometimes use the extra windows for certain functions.</p>
+        <p>Check your browser's settings or preferences area for the pop-up blocker function. On many versions of Internet Explorer or Firefox, you can choose to allow pop-ups only from certain sites -- and have the browser block the rest. In the Safari browser for Mac OS X, you can quickly turn pop-up blocking off or on with a keyboard shortcut (Command-K) when you get to a site that uses pop-ups you want to see.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

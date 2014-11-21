@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crossroads</title>
+    <meta content="03lens" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816148"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LENS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Times Square and 42nd Street (NYC)</location>
+        <org class="indexing_service">New York Times</org>
+        <person class="indexing_service">Romero, Librado</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Lens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E0DB1730F930A35752C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crossroads</hl1>
+      </hedline>
+      <byline class="print_byline">By LIBRADO ROMERO</byline>
+      <byline class="normalized_byline">Romero, Librado</byline>
+      <abstract>
+        <p>Introduction of Lens column that will feature photographs by New York Times photographer Librado Romero of Times Square in New York City from 1969 to present; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Librado Romero used to run through the kitchen of his home in Calexico, Calif., his mother would shout, ''What do you think this is, Grand Central?'' But if he was lounging around listening to the radio, she'd say: ''What do you think this is, Times Square?'' She'd never been to New York, but she knew this: Times Square was where you hung out.</p>
+        <p>Today, and every Wednesday for the next three months, Mr. Romero, now a photographer for The New York Times, will reveal a photographic love affair with Times Square that began in 1969. That's the year he captured these troubadours playing on West 42nd Street along the south wall of what was then the Allied Chemical Building -- and is still the building where the ball drops on New Year's Eve. Their jazz and blues attracted a crowd, and a friend encouraged donations.</p>
+      </block>
+      <block class="full_text">
+        <p>When Librado Romero used to run through the kitchen of his home in Calexico, Calif., his mother would shout, ''What do you think this is, Grand Central?'' But if he was lounging around listening to the radio, she'd say: ''What do you think this is, Times Square?'' She'd never been to New York, but she knew this: Times Square was where you hung out.</p>
+        <p>Today, and every Wednesday for the next three months, Mr. Romero, now a photographer for The New York Times, will reveal a photographic love affair with Times Square that began in 1969. That's the year he captured these troubadours playing on West 42nd Street along the south wall of what was then the Allied Chemical Building -- and is still the building where the ball drops on New Year's Eve. Their jazz and blues attracted a crowd, and a friend encouraged donations.</p>
+        <p>Today Times Square is transformed, the pace more frantic, the asphalt harder to find beneath all the feet. In Crossroads, Mr. Romero will mix vintage photographs with more current images.</p>
+        <p>LENS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

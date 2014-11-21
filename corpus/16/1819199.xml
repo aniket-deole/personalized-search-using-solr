@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Education May Not Mean More Vaccination</title>
+    <meta content="16immu" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819199"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: IMMUNIZATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Vaccination and Immunization</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Families and Family Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Arizona State University</org>
+        <org class="indexing_service">American Journal of Public Health</org>
+        <person class="indexing_service">Bakalar, Nicholas</person>
+        <person class="indexing_service">Kronenfeld, Jennie J (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pediatrics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEEDB1030F935A25752C0A9619C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Education May Not Mean More Vaccination</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+      <abstract>
+        <p>Dr Jennie J Kronenfeld, Arizona State University School of Social and Family Dynamics sociology professor, leads study that finds college educated parents are less likely to have children who have received all their vaccinations on time than less educated parents; research is published in American Journal of Public Health (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Children of women with less than a high school education are more likely to have received timely childhood vaccinations than the children of college graduates, according to a new study.</p>
+        <p>The paper, published online Dec. 28, will appear in the February issue of The American Journal of Public Health. Scientists studied data on 11,860 families from the National Immunization Survey, a nationwide survey of vaccination among children 19 to 35 months old that includes information on race, ethnicity and socioeconomic status.</p>
+      </block>
+      <block class="full_text">
+        <p>Children of women with less than a high school education are more likely to have received timely childhood vaccinations than the children of college graduates, according to a new study.</p>
+        <p>The paper, published online Dec. 28, will appear in the February issue of The American Journal of Public Health. Scientists studied data on 11,860 families from the National Immunization Survey, a nationwide survey of vaccination among children 19 to 35 months old that includes information on race, ethnicity and socioeconomic status.</p>
+        <p>Children of mothers who had not completed high school were 16 percent more likely to have up-to-date vaccinations than children of college graduates. While black children were 11 percent less likely to be up to date than white children, Hispanic children were 11 percent more likely. The poorest children, without considering race or ethnicity, were just as likely as the richest to have completed their vaccination schedule.</p>
+        <p>''The way the health care system is organized for immunization services may account for the variations,'' said Jennie J. Kronenfeld, the senior author of the study. ''Or cultural differences may overcome the barriers to immunization that they don't in other kinds of health care.''</p>
+        <p>Dr. Kronenfeld, a professor of sociology in the School of Social and Family Dynamics at Arizona State University, offered a possible explanation for the difference between the children of college graduates and those of mothers who had not graduated from high school. ''There is a controversy among more educated mothers about the safety of certain kinds of immunization,'' she said. ''That may be part of what is going on here, but we don't know for sure.''</p>
+        <p>VITAL SIGNS: IMMUNIZATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

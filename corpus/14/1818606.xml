@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thriller</title>
+    <meta content="Letters.t-5" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818606"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Caldwell, Laura</person>
+        <person class="indexing_service">Anastas, Benjamin</person>
+        <person class="indexing_service">Braffet, Kelly</person>
+        <object.title class="indexing_service">Last Seen Leaving (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DA1430F937A25752C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thriller</hl1>
+      </hedline>
+      <abstract>
+        <p>Laura Caldwell letter comments on Benjamin Anastas Dec 24 review of Kelly Braffet book Last Seen Leaving</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Boy, oh boy, did I feel a profound sense of déjà vu reading Benjamin Anastas's review of ''Last Seen Leaving,'' by Kelly Braffet (Dec. 24). According to Anastas, thrillers are ''the concession food of literature'' and ''a thrill only for readers with a taste for the expected.'' His highbrow snub of an entire genre (not to mention all of its writers and readers) reminded me of the literary dismissal of chick-lit novels.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Boy, oh boy, did I feel a profound sense of déjà vu reading Benjamin Anastas's review of ''Last Seen Leaving,'' by Kelly Braffet (Dec. 24). According to Anastas, thrillers are ''the concession food of literature'' and ''a thrill only for readers with a taste for the expected.'' His highbrow snub of an entire genre (not to mention all of its writers and readers) reminded me of the literary dismissal of chick-lit novels.</p>
+        <p>As an author of both, I'm growing weary. There are many gorgeously written thrillers with exceptional character development that leave their readers wondering and waiting and wanting until the very end. I pine for the day when we all simply acknowledge that while there are some frivolous chick-lit novels and formulaic thrillers (and narcissistic autobiographies and tedious literary novels), not every book in a class is the same.</p>
+        <p>Laura Caldwell  Chicago</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

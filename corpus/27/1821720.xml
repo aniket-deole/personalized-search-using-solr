@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Permits for Mass Bike Rides</title>
+    <meta content="27parade" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/27/nyregion/27parade.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821720"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Bicycles and Bicycling</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Critical Mass (Orgn)</org>
+        <person class="indexing_service">Baker, Al</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Biking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Civil Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bicycles and Bicycling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <org class="online_producer">Critical Mass</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E4DB173FF934A15752C0A9619C8B63" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Permits for Mass Bike Rides</hl1>
+        <hl2 class="online_headline">New Permits for Mass Bike Rides</hl2>
+      </hedline>
+      <byline class="print_byline">By AL BAKER</byline>
+      <byline class="normalized_byline">Baker, Al</byline>
+      <abstract>
+        <p>New York City Police Department adopts rules that require parade permits for bicyclists and others who take to streets in groups of 50 or more for processions, races and protests; critics see move as attempt to stifle monthly Critical Mass bicycle rides in support of nonpolluting forms of transportation (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Police Department has adopted rules that require parade permits for bicyclists and others who take to the streets in groups of 50 or more for processions, races and protests.</p>
+        <p>A final version of the rules, unveiled in a public notice filed yesterday with the city, follows months of debate over the department's attempts to clarify a regulation that court rulings had described as too vague. The rules take effect after 30 days, said Paul J. Browne, the department's chief spokesman.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The New York Police Department has adopted rules that require parade permits for bicyclists and others who take to the streets in groups of 50 or more for processions, races and protests.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Police Department has adopted rules that require parade permits for bicyclists and others who take to the streets in groups of 50 or more for processions, races and protests.</p>
+        <p>A final version of the rules, unveiled in a public notice filed yesterday with the city, follows months of debate over the department's attempts to clarify a regulation that court rulings had described as too vague. The rules take effect after 30 days, said Paul J. Browne, the department's chief spokesman.</p>
+        <p>Police officials had originally sought to define a parade more narrowly. But they abandoned proposals that would have required permits when pedestrians gathered on the sidewalk or when as few as two bicyclists or walkers traveled more than two city blocks without complying with traffic laws.</p>
+        <p>''These final rules mark a substantial improvement over the department's original proposal from last summer,'' said Christopher Dunn, associate legal director of the New York Civil Liberties Union. ''But we still do not believe that lawful rides, with as few as 50 bikes, should require police permits.''</p>
+        <p>Critics of the proposals said the revisions were an attempt to stifle the monthly Critical Mass bike rides, which attract crowds of cyclists riding to support nonpolluting forms of transportation.</p>
+        <p>Norman Siegel, a civil rights lawyer whose clients include bicyclists, said he still had problems with the final rules. ''Cars and bicycles don't need permission by the government to be in the street, and people need permission to be in the street but not on the sidewalk,'' he said. ''The question is: What is a public street?''</p>
+        <p>In response, Mr. Browne said, ''Some critics will find fault no matter how reasonably the rules are drawn.'' Christine C. Quinn, the City Council speaker, embraced the new rules and vowed to monitor them ''to ensure we strike the proper balance between protection of civil liberties with the need for public order.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

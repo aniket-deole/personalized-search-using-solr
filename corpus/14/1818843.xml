@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Want an iPhone? Beware the iHandcuffs</title>
+    <meta content="14digi" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/business/yourmoney/14digi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818843"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DIGITAL DOMAIN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <org class="indexing_service">Apple Inc</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Tucker, Melanie</person>
+        <person class="indexing_service">Stross, Randall</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Digital Domain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="online_producer" type="descriptor">Trademarks and Trade Names</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trademarks and Trade Names</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Apple Computer Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7DA1330F937A25752C0A9619C8B63" item-length="1319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Want an iPhone? Beware the iHandcuffs</hl1>
+        <hl2 class="online_headline">Want an iPhone? Beware the iHandcuffs</hl2>
+      </hedline>
+      <byline class="print_byline">By RANDALL STROSS</byline>
+      <byline class="normalized_byline">Stross, Randall</byline>
+      <abstract>
+        <p>Digital Domain column discusses FairPlay copy protection software used in Apple Inc's entire line of music player devices; term 'crippleware' comes from class-action lawsuit, Melanie Tucker v Apple Computer Inc, that contends Apple unfairly restricts consumer choice by not including software using Microsoft's own copy protection standard; article suggests consumers should support music labels that use MP3 formats without restrictive digital rights management; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STEVE JOBS, Apple's showman nonpareil, provided the first public glimpse of the iPhone last week -- gorgeous, feature-laden and pricey. While following the master magician's gestures, it was easy to overlook a most disappointing aspect: like its slimmer iPod siblings, the iPhone's music-playing function will be limited by factory-installed ''crippleware.''</p>
+        <p>If ''crippleware'' seems an unduly harsh description, it balances the euphemistic names that the industry uses for copy protection. Apple officially calls its own standard ''FairPlay,'' but fair it is not.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Like its slimmer iPod siblings, the iPhone’s music-playing function will be limited by factory-installed “crippleware.”</p>
+      </block>
+      <block class="full_text">
+        <p>STEVE JOBS, Apple's showman nonpareil, provided the first public glimpse of the iPhone last week -- gorgeous, feature-laden and pricey. While following the master magician's gestures, it was easy to overlook a most disappointing aspect: like its slimmer iPod siblings, the iPhone's music-playing function will be limited by factory-installed ''crippleware.''</p>
+        <p>If ''crippleware'' seems an unduly harsh description, it balances the euphemistic names that the industry uses for copy protection. Apple officially calls its own standard ''FairPlay,'' but fair it is not.</p>
+        <p>The term ''crippleware'' comes from the plaintiff in a class-action lawsuit, Melanie Tucker v. Apple Computer Inc., that is making its way through Federal District Court in Northern California. The suit contends that Apple unfairly restricts consumer choice because it does not load onto the iPod the software needed to play music that uses Microsoft's copy-protection standard, in addition to Apple's own.</p>
+        <p>Ms. Tucker's core argument is that the absence of another company's software on the iPod constitutes ''crippleware.'' I disagree. It is Apple's own copy-protection software itself that cripples the device.</p>
+        <p>Here is how FairPlay works: When you buy songs at the iTunes Music Store, you can play them on one -- and only one -- line of portable player, the iPod. And when you buy an iPod, you can play copy-protected songs bought from one -- and only one -- online music store, the iTunes Music Store.</p>
+        <p>The only legal way around this built-in limitation is to strip out the copy protection by burning a CD with the tracks, then uploading the music back to the computer. If you're willing to go to that trouble, you can play the music where and how you choose -- the equivalent to rights that would have been granted automatically at the cash register if you had bought the same music on a CD in the first place.</p>
+        <p>Even if you are ready to pledge a lifetime commitment to the iPod as your only brand of portable music player or to the iPhone as your only cellphone once it is released, you may find that FairPlay copy protection will, sooner or later, cause you grief. You are always going to have to buy Apple stuff. Forever and ever. Because your iTunes will not play on anyone else's hardware.</p>
+        <p>Unlike Apple, Microsoft has been willing to license its copy-protection software to third-party hardware vendors. But copy protection is copy protection: a headache only for the law-abiding.</p>
+        <p>Microsoft used to promote its PlaysForSure copy-protection standard, but there must have been some difficulty with the ''for sure'' because the company has dropped it in favor of an entirely new copy-protection standard for its new Zune player, which, incidentally, is incompatible with the old one.</p>
+        <p>Pity the overly trusting customers who invested earlier in music collections before the Zune arrived. Their music cannot be played on the new Zune because it is locked up by software enforcing the earlier copy-protection standard: PlaysFor(Pretty)Sure -- ButNotTheNewStuff.</p>
+        <p>The name for the umbrella category for copy-protection software is itself an indefensible euphemism: Digital Rights Management. As consumers, the ''rights'' enjoyed are few. As some wags have said, the initials D.R.M. should really stand for ''Digital Restrictions Management.''</p>
+        <p>As consumers become more aware of how copy protection limits perfectly lawful behavior, they should throw their support behind the music labels that offer digital music for sale in plain-vanilla MP3 format, without copy protection.</p>
+        <p>Apple pretends that the decision to use copy protection is out of its hands. In defending itself against Ms. Tucker's lawsuit, Apple's lawyers noted in passing that digital-rights-management software is required by the major record companies as a condition of permitting their music to be sold online: ''Without D.R.M., legal online music stores would not exist.''</p>
+        <p>In other words, however irksome customers may find the limitations imposed by copy protection, the fault is the music companies', not Apple's.</p>
+        <p>This claim requires willful blindness to the presence of online music stores that eschew copy protection. For example, one online store, eMusic, offers two million tracks from independent labels that represent about 30 percent of worldwide music sales.</p>
+        <p>Unlike the four major labels -- Universal, Warner Music Group, EMI and Sony BMG -- the independents provide eMusic with permission to distribute the music in plain MP3 format. There is no copy protection, no customer lock-in, no restrictions on what kind of music player or media center a customer chooses to use -- the MP3 standard is accommodated by all players.</p>
+        <p>EMusic recently celebrated the sale of its 100 millionth download; it trails only iTunes as the largest online seller of digital music. (Of course, iTunes, with 2 billion downloads, has a substantial lead.)</p>
+        <p>Among the artists who can be found at eMusic are Barenaked Ladies, Sarah McLachlan and Avril Lavigne, who are represented by Nettwerk Music Group, based in Vancouver, British Columbia. All Nettwerk releases are available at eMusic without copy protection.</p>
+        <p>But when the same tracks are sold by the iTunes Music Store, Apple insists on attaching FairPlay copy protection that limits their use to only one portable player, the iPod. Terry McBride, Nettwerk's chief executive, said that the artists initially required Apple to use copy protection, but that this was no longer the case. At this point, he said, copy protection serves only Apple's interests .</p>
+        <p>Josh Bernoff, a principal analyst at Forrester Research, agreed, saying copy protection ''just locks people into Apple.'' He said he had recently asked Apple when the company would remove copy protection and was told, ''We see no need to do so.''</p>
+        <p>Apple's statement is a detailed treatise on the subject, compared with what I received when I asked the company last week whether it would offer tracks without copy protection if the publisher did not insist on it: the Apple spokesman took my query and never got back to me.</p>
+        <p>David Pakman, the C.E.O. of eMusic, said the major labels have watched their revenues decline about $10 billion since a 2001 peak; meanwhile, revenue earned by the independents has held steady. He said his service offers music from 9,800 labels, each of which has embraced downloads in MP3 format. Only four labels still cling to copy protection, even though piracy has not declined, and those are the four major labels.</p>
+        <p>Mr. McBride, of Nettwerk, predicted that in 2007 the major labels would finally move to drop copy protection in order to provide iPod owners the option of shopping at online music stores other than iTunes; by doing so, he added, they would ''break the monopoly of Apple'' that dictates terms and conditions for music industry suppliers and customers. Some encouraging signs have appeared recently. Dave Goldberg, the head of Yahoo Music, persuaded EMI to try some experiments last month with MP3 downloads -- a Norah Jones single here, a Reliant K single there.</p>
+        <p>With sales of physical CDs falling faster than digital music sales are growing, he said, the major labels ''have got to make it easier for people to do the right thing'' -- that is, to buy recorded music unencumbered with copy protection rather than to engage in illegal file-sharing.</p>
+        <p>IN the long view, Mr. Goldberg said he believes that today's copy-protection battles will prove short-lived. Eventually, perhaps in 5 or 10 years, he predicts, all portable players will have wireless broadband capability and will provide direct access, anytime, anywhere, to every song ever released for a low monthly subscription fee.</p>
+        <p>It's a prediction that has a high probability of realization because such a system is already found in South Korea, where three million subscribers enjoy direct, wireless access to a virtually limitless music catalog for only $5 a month. He noted, however, that music companies in South Korea did not agree to such a radically different business model until sales of physical CDs had collapsed.</p>
+        <p>Pointing to South Korea, where copy protection has disappeared, Mr. Goldberg invoked the pithy aphorism attributed to the author William Gibson: ''The future is here; it's just not widely distributed yet.''</p>
+        <p>DIGITAL DOMAIN Randall Stross is the author of ''The Wizard of Menlo Park: How Thomas Alva Edison Invented the Modern World,'' which will be published in March by Crown.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Randall Stross is the author of ''The Wizard of Menlo Park: How Thomas Alva Edison Invented the Modern World,'' which will be published in March by Crown.</tagline>
+    </body.end>
+  </body>
+</nitf>

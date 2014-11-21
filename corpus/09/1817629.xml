@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Debate Over Diagnoses</title>
+    <meta content="09lett-1" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817629"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Doctors</classifier>
+        <person class="indexing_service">Katz, David L (Dr)</person>
+        <person class="indexing_service">Levine, Stephen J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E7D61530F93AA35752C0A9619C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Debate Over Diagnoses</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr David L Katz letter on January 2 article about alleged epidemic of medical diagnoses in America suggests that early discoveries of illness and rigorous testing has saved lives; Stephen J Levine letter holds that doctors often suggest early treatment to make more money and not always because it is in best interest of patient</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''What's Making Us Sick Is an Epidemic of Diagnoses http://www.nytimes.com/2007/01/02/health/02essa.html Read the Article. '' (Jan. 2): The assertion by Dr. H. Gilbert Welch and colleagues that epidemic overdiagnosis is ''making us sick'' is thoughtful, provocative and mostly wrong.</p>
+        <p>To be sure, we overmedicalize at times. A salient example is the ever-more-common A.D.H.D. in children invited toward hyperactivity by school days devoid of physical recreation, and goaded toward tenuous attention by a daily multimedia barrage. Rambunctiousness is not a disease, and the remedy is recess, not Ritalin.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''What's Making Us Sick Is an Epidemic of Diagnoses http://www.nytimes.com/2007/01/02/health/02essa.html Read the Article. '' (Jan. 2): The assertion by Dr. H. Gilbert Welch and colleagues that epidemic overdiagnosis is ''making us sick'' is thoughtful, provocative and mostly wrong.</p>
+        <p>To be sure, we overmedicalize at times. A salient example is the ever-more-common A.D.H.D. in children invited toward hyperactivity by school days devoid of physical recreation, and goaded toward tenuous attention by a daily multimedia barrage. Rambunctiousness is not a disease, and the remedy is recess, not Ritalin.</p>
+        <p>Dr. Welch and colleagues assert ''overdiagnosis'' more generally but offer no evidence. They blame medicalization and early testing, but ignore the countless lives saved outright by early testing (think Pap smear), the effects of a toxic environment (think obesity), and that longer lives tend to pick up more ailments along the way.</p>
+        <p>Like my colleagues, I learned in medical school that too much of a good thing is not a good thing. But I also recall advice against throwing out the baby with the bath water.</p>
+        <p>David L. Katz, M.D.  New Haven</p>
+        <p>The writer is the director of the Prevention Research Center at the Yale University School of Medicine.</p>
+        <p>To the Editor:</p>
+        <p>Re ''What's Making Us Sick'': Frequently, what purports to be a ''practice management'' course is in actuality more aptly described as ''how to make more money in less time'' and more to the benefit of the doctor than to the patient.</p>
+        <p>At these seminars, a subtle message comes across that essentially instructs practitioners to quickly engage a patient in a treatment modality before their discomfiture or chief complaint goes away on its own. This is especially insidious in dentistry, which most frequently involves an irreversible treatment process.</p>
+        <p>A term mostly unknown to the public and to all too many health care practitioners is ''iatrogenesis,'' which can be simply defined as ''the treatment is worse than the disease'' -- provided a disease was involved in the first place.</p>
+        <p>Stephen J. Levine, D.D.S.  River Edge, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

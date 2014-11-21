@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Regulating Supplements</title>
+    <meta content="23lett-2" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820932"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="indexing_service" type="descriptor">Vitamins</classifier>
+        <classifier class="indexing_service" type="descriptor">Herbs</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <person class="indexing_service">Boskovic, Helena</person>
+        <person class="indexing_service">Wurtman, Richard (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vitamins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Herbs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EED81F30F930A15752C0A9619C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Regulating Supplements</hl1>
+      </hedline>
+      <abstract>
+        <p>Helena Boskovic letter on January 16 article about regulation of dietary supplements and herbs says that article failed to mention all harmful aspects of regulated prescription drugs in US; Dr Richard Wurtman letter supports more regulation of supplements; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Diet Supplements and Safety: Some Disquieting Data'' (Jan. 16): Dan Hurley's essay stacks statistics to underplay the fact that federally approved drugs produce far greater injuries and deaths than do supplements.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Diet Supplements and Safety: Some Disquieting Data'' (Jan. 16): Dan Hurley's essay stacks statistics to underplay the fact that federally approved drugs produce far greater injuries and deaths than do supplements.</p>
+        <p>While he acknowledges that the F.D.A. receives criticism for favoring drug companies' profits over the health needs of patients, he nonetheless keeps out of his essay the profound costs in medical expenses, permanent organ damage and deaths that are caused by ostensibly regulated medications in this country. Supplements help millions in the United States. Educated consumers are aware that supplements provide much milder, healthier means to healing than do federally approved drugs.</p>
+        <p>Helena Boskovic  Brooklyn</p>
+        <p>To the Editor:</p>
+        <p>It's disheartening to read in Dan Hurley's article about the frequency with which melatonin preparations sold as dietary supplements produce adverse reactions. In all likelihood, very few of these reactions would have occurred had the F.D.A. been allowed to regulate melatonin, as it does all other hormones.</p>
+        <p>Without such regulation, melatonin supplements often contain 10 or more times the dosages actually needed for sleep, as well as a variety of impurities that could easily have been removed. Moreover, without the F.D.A.'s seal of approval, the consumer is unable to identify which, if any, melatonin preparations really are pure. All he or she can do is to stick to products marketed by known, reputable manufacturers and hope for the best.</p>
+        <p>Richard Wurtman, M.D.  Cambridge, Mass.</p>
+        <p>The writer is a professor of neuropharmacology at the Massachusetts Institute of Technology.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Preventing Drowning Deaths</title>
+    <meta content="CTswimming" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/opinion/nyregionopinions/CTswimming.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821979"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Swimming</classifier>
+        <classifier class="online_producer" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Swimming</classifier>
+        <location class="online_producer">Connecticut</location>
+        <org class="online_producer">Department of Environmental Protection</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E5D7163FF93BA15752C0A9619C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Preventing Drowning Deaths</hl1>
+        <hl2 class="online_headline">Preventing Drowning Deaths</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This past Wednesday, a task force appointed by the Department of Environmental Protection met for the first time to draw up a plan for reducing drowning deaths in state parks. This is a serious problem in this state: in the last eight years, 21 people have drowned while swimming in Connecticut state parks. A strategy for dealing with it should be put in place by Memorial Day.</p>
+        <p>The department's newly reappointed commissioner, Gina McCarthy, said she expected the committee to develop a plan that would, among other things, encourage people to learn how to swim. That seems basic enough. Yet the task force needs to do much more.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A task force appointed by the Department of Environmental Protection met for the first time to draw up a plan for reducing drowning deaths, which have become a serious problem in Connecticut.</p>
+      </block>
+      <block class="full_text">
+        <p>This past Wednesday, a task force appointed by the Department of Environmental Protection met for the first time to draw up a plan for reducing drowning deaths in state parks. This is a serious problem in this state: in the last eight years, 21 people have drowned while swimming in Connecticut state parks. A strategy for dealing with it should be put in place by Memorial Day.</p>
+        <p>The department's newly reappointed commissioner, Gina McCarthy, said she expected the committee to develop a plan that would, among other things, encourage people to learn how to swim. That seems basic enough. Yet the task force needs to do much more.</p>
+        <p>Many of those who died came to Connecticut parks from out of state, notably New York City, which means that a prevention campaign aimed at Connecticut residents alone will not fix the problem. A more specific plan aimed at specific parks, based on an examination of where the drownings happened and what factors led to the deaths, would seem to make the most sense.</p>
+        <p>For example, eight deaths occurred at one state park: Squantz Pond in New Fairfield. They occurred because people swam outside the designated swimming area, which John Hodge, the New Fairfield first selectman, says is too small and fills up fast on a hot summer day. Most victims were from out of state and out of town. Mr. Hodge believes that if the Department of Environmental Protection hires more lifeguards and arranges for a boat patrol, Squantz Pond will be far safer, regardless of the abilities of people who take a dip.</p>
+        <p>A public relations campaign cannot by itself prevent drowning deaths. Sometimes, nothing can substitute for more people on the job.</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Men Are Found Dead in Brooklyn Garage Where Fire Broke Out</title>
+    <meta content="20blaze" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/20/nyregion/20blaze.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820071"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firefighters</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">O'Connor, Anahad</person>
+        <person class="indexing_service">Moynihan, Colin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6D81E30F933A15752C0A9619C8B63" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Men Are Found Dead in Brooklyn Garage Where Fire Broke Out</hl1>
+        <hl2 class="online_headline">2 Men Are Found Dead in Brooklyn Garage Where Fire Broke Out</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR and COLIN MOYNIHAN</byline>
+      <byline class="normalized_byline">O'Connor, Anahad; Moynihan, Colin</byline>
+      <abstract>
+        <p>Two men are found dead by firefighters battling Brooklyn garage fire; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two men were found dead yesterday evening in a garage in Brooklyn that was damaged by a fire, officials said.</p>
+        <p>The bodies of the men, who had not been identified as of late last night, were discovered after firefighters put out a fire in a one-story garage at 1695 East 21st Street near Kings Highway in Midwood, a neighborhood of well-kept two-story homes and brick buildings.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two men were found dead yesterday evening in a garage in Brooklyn that was damaged by a fire, officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>Two men were found dead yesterday evening in a garage in Brooklyn that was damaged by a fire, officials said.</p>
+        <p>The bodies of the men, who had not been identified as of late last night, were discovered after firefighters put out a fire in a one-story garage at 1695 East 21st Street near Kings Highway in Midwood, a neighborhood of well-kept two-story homes and brick buildings.</p>
+        <p>The blaze began just after 5 p.m. and was brought under control at 5:50 p.m. after 12 fire trucks and 60 firefighters responded, a Fire Department spokesman said.</p>
+        <p>Last night, police tape was set up around the garage as police and fire investigators tried to learn the cause of the fire and how the two men died.</p>
+        <p>According to residents, the garage belonged to a medical office next door but was rarely used. It was often left unlocked or open, the neighbors said.</p>
+        <p>Ismael Rivera, 52, a parole officer who lives nearby, said two friendly homeless men in the area who were often seen in a park on Kings Highway had been using the garage for shelter in the past week.</p>
+        <p>On a few occasions, he said, the two men were seen in the garage burning debris to stay warm.</p>
+        <p>It was unclear, however, whether they were the men who were found dead after the fire. Other residents said that on Thursday night, firefighters put out a small blaze in the garage.</p>
+        <p>Ben Shalamov, 30, a dental technician, said that the two homeless men were last seen in the garage around 4 p.m. yesterday afternoon. He described one of the men as Armenian, and said he had told people he had an ex-wife and two children in Russia.</p>
+        <p>Often the man, who looked to be in his 50s, would sit on benches in the neighborhood, smiling and reciting poetry as people walked by, Mr. Shalamov said.</p>
+        <p>He said that in the past few weeks, the man had been seen hobbling around on crutches.</p>
+        <p>''It's sad,'' Mr. Shalamov said. ''They were harmless. They were nice guys who never bothered you.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

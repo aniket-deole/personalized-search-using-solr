@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | South: Georgia: Illegal Workers Found At Military Sites</title>
+    <meta content="20brfs-4" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/20/us/20brfs-ILLEGALWORKE_BRF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820125"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Immigrants</classifier>
+        <classifier class="indexing_service" type="descriptor">Fort Benning (Ga)</classifier>
+        <person class="indexing_service">Preston, Julia</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Military Bases and Installations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E3D71E30F933A15752C0A9619C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | South: Georgia: Illegal Workers Found At Military Sites</hl1>
+        <hl2 class="online_headline">Georgia: Illegal Workers Found at Military Sites</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIA PRESTON</byline>
+      <byline class="normalized_byline">Preston, Julia</byline>
+      <abstract>
+        <p>Twenty-four illegal immigrants are arrested after trying to enter Fort Benning, Ga, to do construction work (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Twenty-four illegal immigrants were arrested on Wednesday after trying to enter Fort Benning to do construction work, Immigration and Customs Enforcement officials said. All but three are facing federal charges of identity theft, use of fraudulent documents or re-entering the United States after deportation. In Nevada, the authorities said, two illegal immigrants employed as masons were arrested on Thursday at Creech Air Force Base in Indian Springs. In Virginia, immigration agents on Thursday arrested Richard Eversole, 58, an American citizen, and Juan Martínez, 24, a Mexican, on federal harboring charges, accusing them of hiring illegal immigrants to work on a construction project at the Quantico Marine Corps Base, and leasing apartments for the men.</p>
+        <p>JULIA PRESTON</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Twenty-four illegal immigrants were arrested on Wednesday after trying to enter Fort Benning to do construction work, Immigration and Customs Enforcement officials said. All but three are facing federal charges of identity theft, use of fraudulent documents or re-entering the United States after deportation. In Nevada, the authorities said, two illegal immigrants employed as masons were arrested on Thursday at Creech Air Force Base in Indian Springs. In Virginia, immigration agents on Thursday arrested Richard Eversole, 58, an American citizen, and Juan Martínez, 24, a Mexican, on federal harboring charges, accusing them of hiring illegal immigrants to work on a construction project at the Quantico Marine Corps Base, and leasing apartments for the men.</p>
+      </block>
+      <block class="full_text">
+        <p>Twenty-four illegal immigrants were arrested on Wednesday after trying to enter Fort Benning to do construction work, Immigration and Customs Enforcement officials said. All but three are facing federal charges of identity theft, use of fraudulent documents or re-entering the United States after deportation. In Nevada, the authorities said, two illegal immigrants employed as masons were arrested on Thursday at Creech Air Force Base in Indian Springs. In Virginia, immigration agents on Thursday arrested Richard Eversole, 58, an American citizen, and Juan Martínez, 24, a Mexican, on federal harboring charges, accusing them of hiring illegal immigrants to work on a construction project at the Quantico Marine Corps Base, and leasing apartments for the men.</p>
+        <p>JULIA PRESTON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   CUNNIFFE, EDWARD R. JR.</title>
+    <meta content="dn011807" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819550"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">CUNNIFFE, EDWARD R. JR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5DD1F3AF93BA25752C0A9619C8B63" item-length="52" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   CUNNIFFE, EDWARD R. JR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CUNNIFFE--Edward R. Jr. The Society of the Friendly Sons of St. Patrick in the City of New York records with profound sorrow the death of Edward R. Cunniffe Jr., a Veteran member of the Society, and extends sincere sympathy to his family. Alfred E. Smith, IV, President Brian G. Andersson, Historian</p>
+      </block>
+      <block class="full_text">
+        <p>CUNNIFFE--Edward R. Jr. The Society of the Friendly Sons of St. Patrick in the City of New York records with profound sorrow the death of Edward R. Cunniffe Jr., a Veteran member of the Society, and extends sincere sympathy to his family. Alfred E. Smith, IV, President Brian G. Andersson, Historian</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

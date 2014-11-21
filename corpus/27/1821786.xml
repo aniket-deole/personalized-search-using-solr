@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Driving the Precious Little Darlings</title>
+    <meta content="l27driver" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821786"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Parking</classifier>
+        <classifier class="indexing_service" type="descriptor">Education (Preschool)</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Parks, Bill</person>
+        <person class="indexing_service">Uhry, Amanda</person>
+        <person class="indexing_service">Spencer, Ruth Albert</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E6D9173FF934A15752C0A9619C8B63" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Driving the Precious Little Darlings</hl1>
+      </hedline>
+      <abstract>
+        <p>Letters from Bill Parks, Amanda Uhry and Ruth Albert Spencer respond to Jan 24 article about 92nd Street Y's nursery school and letter sent to parents by Y's director telling them that failure to observe no-parking rule could hinder their children's chances of getting into kindergarten of their choice; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Once Around the Block, James, and Pick Me Up After My Nap'' (news article, Jan. 24):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Once Around the Block, James, and Pick Me Up After My Nap'' (news article, Jan. 24):</p>
+        <p>These parents scramble to give their kids the best opportunities and the most protected environment, yet with one-upmanship, they teach their children the value of image, class consciousness and materialism.</p>
+        <p>These are not the traits necessary to get us through the challenges of the 21st century. What about compassion, honesty, humility, selflessness and curiosity about the world around them? I'm ever thankful my parents were less shallow and pretentious.</p>
+        <p>Bill Parks  Christchurch, New Zealand  Jan. 24, 2007</p>
+        <p>To the Editor:</p>
+        <p>If the director of one of New York's most sought after nursery schools -- the 92nd Street Y -- tells you to move your car, or else it may negatively affect your child's kindergarten admissions process, I'd move that S.U.V. in about two seconds flat.</p>
+        <p>It's no secret that entitlement and a true lack of accountability go hand in hand in New York's upper echelon.</p>
+        <p>This is a case where that tasteless combination can and will lead to genuinely compromising one's child's academic future, and failing your child is something no parent from any walk of life wants to even contemplate.</p>
+        <p>Amanda Uhry  New York, Jan. 25, 2007</p>
+        <p>The writer is the owner of Manhattan Private School Advisors.</p>
+        <p>To the Editor:</p>
+        <p>Talk about a Catch-22. The director of the 92nd Street Y nursery school, you report, suggests that drivers take their cars for a few spins around the block, while President Bush is suggesting a 20 percent reduction in gasoline consumption!</p>
+        <p>Ruth Albert Spencer  New York, Jan. 24, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

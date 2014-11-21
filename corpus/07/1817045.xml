@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUICK BITE/Belleville; Spanish Cuisine (From Scratch)</title>
+    <meta content="07njqbiteNJ" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/nyregion/nyregionspecial2/07njqbite.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817045"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New Jersey"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <org class="indexing_service">Ole Ole Foods (Belleville, NJ)</org>
+        <person class="indexing_service">Feeney, Kelly</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E5DE1430F934A35752C0A9619C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUICK BITE/Belleville; Spanish Cuisine (From Scratch)</hl1>
+        <hl2 class="online_headline">Spanish Cuisine (From Scratch)</hl2>
+      </hedline>
+      <byline class="print_byline">By KELLY FEENEY</byline>
+      <byline class="normalized_byline">Feeney, Kelly</byline>
+      <abstract>
+        <p>Article on Ole Ole Foods, Spanish foods importer in Belleville, NJ, that opens its doors to public once a month (Quick Bite column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the second Saturday of every month, the importer Olé Olé Foods in Belleville opens its warehouse doors to the public and puts its stock of spices, artisanal olive oils and vinegars, sweets and other goods from Spain on sale. What ensues is a food fiesta.</p>
+        <p>Although this warehouse sale is small -- it's more of a boutique sale -- you will find everything to make a meal from start to finish. For instance, if you pick up some creamy fava beans, spicy chorizo and morcilla (blood) sausages and saffron, you will be on your way to making fabada asturiana, a rich Spanish stew. To make the perfect paella, buy some Bomba rice and a paella pan, which Olé Olé sells in several styles. The piquillo peppers from Navarra are good stuffed with goat cheese or with bonito tuna, both of which are sold here.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>On the second Saturday of every month, the importer Olé Olé Foods in Belleville opens its warehouse doors to the public and puts its stock of spices, artisanal olive oils and vinegars, sweets and other goods from Spain on sale. What ensues is a food fiesta.</p>
+      </block>
+      <block class="full_text">
+        <p>On the second Saturday of every month, the importer Olé Olé Foods in Belleville opens its warehouse doors to the public and puts its stock of spices, artisanal olive oils and vinegars, sweets and other goods from Spain on sale. What ensues is a food fiesta.</p>
+        <p>Although this warehouse sale is small -- it's more of a boutique sale -- you will find everything to make a meal from start to finish. For instance, if you pick up some creamy fava beans, spicy chorizo and morcilla (blood) sausages and saffron, you will be on your way to making fabada asturiana, a rich Spanish stew. To make the perfect paella, buy some Bomba rice and a paella pan, which Olé Olé sells in several styles. The piquillo peppers from Navarra are good stuffed with goat cheese or with bonito tuna, both of which are sold here.</p>
+        <p>But the stars of this sale -- as with Spanish cuisine in general -- are the foods you can serve as tapas. Conrad Adillon, who owns the business, even serves tapas for customers to sample as they shop and socialize. He started the warehouse sales in 2001 because he wanted to introduce his friends and neighbors to the foods of his native Catalonia and all of Spain. The atmosphere is convivial, and Mr. Adillon is always eager to share recipes.</p>
+        <p>There is usually Serrano ham, lomo (dry-cured pork loin), stuffed olives, white asparagus, boquerones (anchovies) and an assortment of cheeses, including the popular Manchego cheese, which pairs nicely with membrillo, or quince paste. Prices for all of the foods vary according to brand, but are moderate and sometimes even cheaper than wholesale. Products are also sold on Olé Olé's Web site.</p>
+        <p>Olé Olé Foods, 54 Schuyler Street, Belleville; (973) 759-0333 or www.oleolefoods.com. Open the second Saturday of the month from 10 a.m. to 2 p.m. The next warehouse sale is Jan. 13.</p>
+        <p>KELLY FEENEY</p>
+        <p>New Jersey</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

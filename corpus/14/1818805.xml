@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kara Nortman, Jake Blumenthal</title>
+    <meta content="14nortman" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/weddings/14nortman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818805"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Nortman, Kara Elyse (Kara Elyse Blumenthal)</person>
+        <person class="indexing_service">Blumenthal, Jake Elliot</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E4DB1330F937A25752C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kara Nortman, Jake Blumenthal</hl1>
+        <hl2 class="online_headline">Kara Nortman, Jake Blumenthal</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kara Elyse Nortman and Jake Elliot Blumenthal were married on Monday at the New York City Municipal Building. Blanca Martinez, an employee of the Office of the City Clerk, officiated. Tonight the couple is to hold a religious ceremony, which will incorporate Jewish traditions, at Casa del Mar Resort, in San José del Cabo, Mexico. Rabbi Eli Herscher is to officiate.</p>
+        <p>The bride, 30, is the vice president for mergers and acquisitions at IAC/InterActiveCorp, a consumer Internet company in New York. She graduated from Princeton and received an M.B.A. from Stanford.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kara Elyse Nortman and Jake Elliot Blumenthal were married on Monday at the New York City Municipal Building. Blanca Martinez, an employee of the Office of the City Clerk, officiated. Tonight the couple is to hold a religious ceremony, which will incorporate Jewish traditions, at Casa del Mar Resort, in San José del Cabo, Mexico. Rabbi Eli Herscher is to officiate.</p>
+      </block>
+      <block class="full_text">
+        <p>Kara Elyse Nortman and Jake Elliot Blumenthal were married on Monday at the New York City Municipal Building. Blanca Martinez, an employee of the Office of the City Clerk, officiated. Tonight the couple is to hold a religious ceremony, which will incorporate Jewish traditions, at Casa del Mar Resort, in San José del Cabo, Mexico. Rabbi Eli Herscher is to officiate.</p>
+        <p>The bride, 30, is the vice president for mergers and acquisitions at IAC/InterActiveCorp, a consumer Internet company in New York. She graduated from Princeton and received an M.B.A. from Stanford.</p>
+        <p>She is a daughter of Doreen Nortman and Donald Nortman of Encino, Calif. Her father is a nephrologist with a practice in Los Angeles, and her mother is his office manager.</p>
+        <p>The bridegroom, 31, is a vice president specializing in consumer health care services and business services investments at Charterhouse Group, a private equity firm in Manhattan. He graduated cum laude from Washington and Lee University.</p>
+        <p>He is a son of Elizabeth Blumenthal of Wildwood, Mo., and Donald Blumenthal of Ballwin, Mo. His mother is a speech-language pathologist in Wildwood. His father is a marketing consultant to the food industry in Ballwin. The bridegroom is a stepson of Helissa Blumenthal.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

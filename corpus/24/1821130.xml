@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PROPERTY VALUES: What You Get for ... $700,000</title>
+    <meta content="24gh-what" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/24/realestate/greathomes/24gh-what.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821130"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Property Values"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Property Values</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E6DC163FF937A15752C0A9619C8B63" item-length="471" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PROPERTY VALUES: What You Get for ... $700,000</hl1>
+        <hl2 class="online_headline">What You Get for ... $700,000</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNA BAHNEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Southern Shores, N.C.</p>
+        <p>WHAT: Five-bedroom house</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Homes on the market in Minneapolis, Lopez Island, Wash., and Southern Shores, N.C.</p>
+      </block>
+      <block class="full_text">
+        <p>Southern Shores, N.C.</p>
+        <p>WHAT: Five-bedroom house</p>
+        <p>HOW MUCH: $699,000</p>
+        <p>PER SQUARE FOOT: $349.50</p>
+        <p>This 2,500-square-foot house was built in 2001 on one of the islands that make up the Outer Bans region of North Carolina. About four and a half hours from Washington, D.C., and four hours from the Raleigh/Durham area, this house is in a residential community just north of Kitty Hawk that swells from 2,600 in the winter to 10,000 in the summer. The house is in the center of the island and has ocean views, access to a beach, the sound, the marina and paths for biking, running or walking. There is a full bedroom and recreation room on the ground floor. It has four full baths, one half bath, a gas fireplace, a pool and a hot tub. It is sold furnished. The annual taxes are $1,822. Potential annual income could be $30,000. Joann Hanks, Four Seasons Realty, (252) 261-6664; www.realestateobx.com</p>
+        <p>Minneapolis</p>
+        <p>WHAT: Three-bedroom condominium</p>
+        <p>HOW MUCH: $699,900</p>
+        <p>PER SQUARE FOOT: $297.82</p>
+        <p>This 2,350-square-foot condominium, unit number 412, is on the fourth floor and has views of the new Gold Medal Park that runs along the Mississippi River, as well as the Stone Arch Bridge. The building, called the Bridgewater, is scheduled for completion this fall. Located near the light rail line, the condominium is also a block away from the Guthrie Theater and it is two blocks from the Hubert H. Humphrey Metrodome. The apartment has 10-foot-high ceilings, a home office and a balcony facing the river. The kitchen has granite countertops and stainless steel appliances and a laundry room. There are two full baths, one half bath, an optional fireplace and one parking place. The building will have a rooftop swimming pool and hot tub, an exercise room, a community room and a cellar for wine storage. Annual taxes are $9,098 and the monthly condo association fee is $658.00. Luke Kleckner, The Place for Lofts, (612) 310-8616; www.theplaceforelofts.com</p>
+        <p>Lopez Island, Wash.</p>
+        <p>WHAT: Two-bedroom house</p>
+        <p>HOW MUCH: $695,000</p>
+        <p>PER SQUARE FOOT: $434</p>
+        <p>Sitting on two acres, this 1,600-square-foot house has western views of MacKaye Harbor. The house is on the southern end of the island, which is 20 miles long and 8 miles wide with 2,200 year-round residents. Lopez Island is the first stop on the ferry from Anacortes, Wash., and offers opportunities for biking, kayaking, whale watching, hiking and fishing. Built in 1991, this house has an attached mother-in-law suite with kitchen. It is separated from the main living area by 800 square feet of unfinished space, which could be converted into a studio or living area. The house has two full baths, one fireplace, a wood-burning stove, a deck facing the harbor and a registered boat buoy. The taxes are $2,369 annually. Dianne Pressenda, Windermere Real Estate/Lopez Island, (866) 468-33344; www.wrelopez.com</p>
+        <p>Property Values</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

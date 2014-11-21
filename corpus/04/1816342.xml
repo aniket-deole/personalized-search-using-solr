@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fewer Excuses For Not Doing A PC Backup</title>
+    <meta content="04pogue" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816342"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Apple Computer Inc</org>
+        <org class="indexing_service">Xdrive (Co)</org>
+        <org class="indexing_service">MediaMax</org>
+        <org class="indexing_service">Mozy (Co)</org>
+        <org class="indexing_service">Carbonite (Co)</org>
+        <person class="indexing_service">Pogue, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1D71730F937A35752C0A9619C8B63" item-length="1366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fewer Excuses For Not Doing A PC Backup</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+      <byline class="normalized_byline">Pogue, David</byline>
+      <abstract>
+        <p>David Pogue column on computer backup systems; says Microsoft and Apple have built automated backup software into latest versions of their operating systems, both to be introduced this year; holds Xdrive and MediaMax offers as much as 25 gigabytes of free backups; Mozy and Carbonite offer unlimited storage for less than $55 per year; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If there's one New Year's resolution even more likely to fail than ''I vow to lose weight,'' it's ''I vow to start backing up my computer.''</p>
+        <p>After all, setting up and remembering to use a backup system is a huge hassle. The odds are good that you don't have an up-to-date backup at this very moment.</p>
+      </block>
+      <block class="full_text">
+        <p>If there's one New Year's resolution even more likely to fail than ''I vow to lose weight,'' it's ''I vow to start backing up my computer.''</p>
+        <p>After all, setting up and remembering to use a backup system is a huge hassle. The odds are good that you don't have an up-to-date backup at this very moment.</p>
+        <p>Fortunately, 2007 may turn out to be the Year of the Backup. Both Microsoft and Apple have built automated backup software into the latest versions of their operating systems, both to be introduced this year.</p>
+        <p>At the same time, an option that was once complex, limited and expensive is suddenly becoming effortless, capacious and even free: online backups, where files are shuttled off to the Internet for safekeeping.</p>
+        <p>Online backup means never having to buy or manage backup disks. You can have access to your files from any computer anywhere. And above all, your files are safe even if disaster should befall your office -- like fire, flood, burglary or marauding children.</p>
+        <p>As it turns out, the Web is brimming with backup services. Most of them, however, offer only 1 or 2 gigabytes' worth of free storage.</p>
+        <p>That may be plenty if all you keep on your PC is recipes and a few letters to the editor. But if you have even a fledgling photo or music collection, 2 gigs is peanuts. You can pay for more storage, of course, but the prices have been outrageous; at Data Deposit Box, for example, backing up 50 gigabytes of data will cost you $1,200 a year.</p>
+        <p>Nobody offers unlimited free storage, but lately, they've gotten a lot closer. Two companies, Xdrive and MediaMax, offer as much as 25 gigabytes of free backups; two others, Mozy and Carbonite, offer unlimited storage for less than $55 a year.</p>
+        <p>(Note that this roundup doesn't include Web sites that are exclusively dedicated to sharing photos or videos, like Flickr and MediaFire. It also omits the services intended for sending huge files to other people, like YouSendIt and SendThisFile; such sites delete your files after a couple of weeks -- not a great feature in a backup system.)</p>
+        <p>XDRIVE This service, owned by AOL, offers 5 gigabytes of free storage. It's polished, easy to use, and as fully fledged as they come. Right on the Web site, you can back up entire lists of folders at a time, a method that works on Macintosh, Windows or Unix.</p>
+        <p>If you use Windows, however, an even better backup system awaits. You can download Xdrive Desktop, a full-blown, unattended backup program. It quietly backs up your computer on a schedule that you specify, without any additional thought or input from you.</p>
+        <p>Better yet, a new disk icon appears on your PC (labeled X), that represents your files on the Web. You can open and use its contents as though it's an ordinary, if slowish, hard drive. A Mac version of Xdrive Desktop is in the works.</p>
+        <p>As a bonus, you can share certain backed-up folders, so that other people can have access to them from their Macs or PCs. (This requires, however, that they sign up for their own free Xdrive accounts.) You can view your backed-up photos as an online slideshow, or organize and play your backed-up music files on the Web page.</p>
+        <p>Upgrading your storage to 50 gigabytes costs $100 a year, which isn't such a good deal. But if your Documents folder fits in 5 gigabytes, then congratulations; you've got yourself a free, effortless, automatic backup system. Happy New Year.</p>
+        <p>CARBONITE This one's as pure a backup play as you'll find; there's no folder sharing, photo viewing or music organizing. The Windows-only backup software is completely automatic and stays entirely out of your way, quietly backing up whenever you're not working. You get no free storage -- the service costs $50 a year -- but you do get something else few others offer: an unlimited amount of backup storage.</p>
+        <p>Carbonite is aimed at nontechnical audiences. It's sold in computer and office-supply stores, for example, and it's the easiest online backup software to use -- in fact, to not use, since it's completely automatic. The only change you'll see are small colored dots on files and folders that have been backed up -- and a Carbonite disk icon in your My Computer window that ''contains'' all the backed-up folders and files.</p>
+        <p>At the moment, Carbonite doesn't back up individual files that are larger than 2 gigabytes. It also doesn't back up pieces of files, so if your 500-megabyte Outlook e-mail database changes, the whole database must be backed up again. And, of course, there's no Macintosh version. The company says that a new version, due in April, will wipe out all three of these drawbacks.</p>
+        <p>MOZY In many regards, the recently introduced Mozy is a Carbonite copycat. The price is $55 a year, storage is unlimited, an automated background Windows program keeps your PC continuously backed up and a Mac version is planned.</p>
+        <p>Mozy offers 2 gigabytes of backup at no charge. If you're willing to do the company's marketing for it, you can nab another free gig for every four people you persuade to sign up.</p>
+        <p>Mozy is more flexible, too -- and more technical. It can back up only changed portions of files. You can specify times and dates for backups (instead of offering only the Continuous option, like Carbonite). You can view 30 days' worth of backups, too -- a feature that prevents you from deleting a file from your PC accidentally and then finding its deletion mirrored in your latest backup. And Mozy offers dozens of novice-hostile options like ''Enable Bandwidth Throttle'' and ''Don't back up if the CPU is over this % busy.''</p>
+        <p>MEDIAMAX Talk about value. How does 25 gigabytes of free storage strike you?</p>
+        <p>The service began life with an emphasis on organizing and sharing photos, video and music -- which it still does well. But its new Windows backup program, now in beta testing, adds automated unattended backups of any kind of computer files, just like its rivals.</p>
+        <p>It's pretty bare-bones; for example, it offers no continuous real-time backup, no choice of weekdays -- only an option to back up every day, every three days, or whatever. And you can back up only folders, not individual files or file types.</p>
+        <p>In times of disaster, MediaMax will give you your files back, but won't put them in their original folders. More important, the free account lets you download or share only one gigabyte of data a month. That pretty much means that to restore your hard drive after a crash, you'll have to upgrade to a paid account. Still, when you're standing there, sobbing over the smoking remains of your dead hard drive, you probably won't mind paying $10 or $25 to get your stuff back.</p>
+        <p>SUMMING UP Now, there are some disadvantages to all of these services. One of them is time: even with a high-speed Internet connection, the first backup can take days to complete. Maintaining your backup is much faster, of course, because only new or changed files are uploaded to the Web. But if disaster ever strikes, retrieving your files can also take days. (Mozy offers a solution that gets you your files faster: a DVD of your files, shipped overnight for an added fee. For example, to FedEx a 50-gigabyte backup to you on DVDs, Mozy charges about $90.)</p>
+        <p>Then there's the security thing. All four companies insist that your files are encrypted before they even leave your computer. But if you still can't shake the image of backup-company employees rooting through your files and laughing their heads off, then this may not be the backup method for you.</p>
+        <p>Corporate longevity may be a more realistic worry. Since the Internet itself is very young, no Web-based outfit has a particularly long track record.Any of these services could be discontinued or sold at any time, which makes it wise to make the occasional on-site backup, too.</p>
+        <p>In any case, the main thing is to have some kind of backup. After all, there are only two kinds of people: Those who back up their computers, and those who will.</p>
+        <p>STATE OF THE ART E-mail: Pogue@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Pogue@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

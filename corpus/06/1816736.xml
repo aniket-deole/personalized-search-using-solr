@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Verizon to Announce Plan For TV Shows on Cellphones</title>
+    <meta content="06phone" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/06/technology/06phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816736"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Verizon Wireless Inc</org>
+        <org class="indexing_service">Nbc Universal</org>
+        <org class="indexing_service">Cbs Broadcasting Inc</org>
+        <org class="indexing_service">Espn</org>
+        <org class="indexing_service">Fox Network</org>
+        <org class="indexing_service">Mtv Networks</org>
+        <person class="indexing_service">Holson, Laura M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Verizon Communications</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E7D61430F935A35752C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Verizon to Announce Plan For TV Shows on Cellphones</hl1>
+        <hl2 class="online_headline">Verizon to Announce Plan for TV Shows on Cellphones</hl2>
+      </hedline>
+      <byline class="print_byline">By LAURA M. HOLSON</byline>
+      <byline class="normalized_byline">Holson, Laura M</byline>
+      <dateline>LOS ANGELES, Jan. 5</dateline>
+      <abstract>
+        <p>Verizon Wireless will offer full-length programming on cellular telephones from several major television networks; will include popular shows from NBC, CBS, Fox, ESPN and MTV, which will receive fees based on consumer subscriptions (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Verizon Wireless is expected to announce on Sunday that it will offer full-length programming to its cellular subscribers from several major television networks, according to people apprised of the deal.</p>
+        <p>The service, which should be in operation by the end of March, will consist of eight channels and will include popular shows from NBC, CBS, Fox and MTV, they said. ESPN is reportedly also in negotiations to offer programs, which will be offered for the cellphone screen soon after they appear on television.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Verizon is expected to announce full-length programming to its cellular subscribers from several major television networks.</p>
+      </block>
+      <block class="full_text">
+        <p>Verizon Wireless is expected to announce on Sunday that it will offer full-length programming to its cellular subscribers from several major television networks, according to people apprised of the deal.</p>
+        <p>The service, which should be in operation by the end of March, will consist of eight channels and will include popular shows from NBC, CBS, Fox and MTV, they said. ESPN is reportedly also in negotiations to offer programs, which will be offered for the cellphone screen soon after they appear on television.</p>
+        <p>What is significant is that the programs will be among the first full-length television shows to be offered to cellular subscribers in the United States. In Europe, where mobile phone technology is more advanced, such programming is more widely available.</p>
+        <p>It will also make the mobile phone more competitive with devices like the iPod from Apple Computer. In 2005, Apple announced that it would offer shows from the Walt Disney Company's ABC network for sale through its iTunes Store. Other entertainment companies quickly followed suit.</p>
+        <p>Media companies will receive a fee based on consumer subscriptions. A spokesman for Verizon Wireless could not be reached for comment on Friday evening.</p>
+        <p>In the deal, Verizon is joining with MediaFLO U.S.A., a subsidiary of Qualcomm, which has created technology to transmit high-resolution video through its own dedicated network. MediaFLO's quality rivals European and Asian standards, media executives say.</p>
+        <p>Verizon Wireless and Qualcomm have been partners for some time; they first announced an agreement to work together in 2005. MediaFLO was reported by those apprised of the Verizon deal to be in talks to offer television shows through other wireless phone companies as well.</p>
+        <p>Samsung and LG are two phone makers whose equipment is compatible with the MediaFLO network.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

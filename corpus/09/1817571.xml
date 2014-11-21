@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Worried About Jobs</title>
+    <meta content="l09pay" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817571"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <org class="indexing_service">Newsweek (Magazine)</org>
+        <org class="indexing_service">Fortune (Magazine)</org>
+        <person class="indexing_service">Sloan, Allan</person>
+        <person class="indexing_service">Gilman, Hank</person>
+        <person class="indexing_service">Leonhardt, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1D81530F93AA35752C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Worried About Jobs</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Allan Sloan and Hank Gilman says their 1996 Newsweek article, which David Leonhardt criticized in Jan 3 column, was not alarmist but sought to explain why--like today--many people are feeling insecure about their jobs despite strong economy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''It's the Year to Keep an Eye on Paychecks'' (Economix column, Business Day, Jan. 3):</p>
+        <p>We're the writer and editor of Newsweek's 1996 ''Corporate Killers'' cover story that David Leonhardt criticized.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''It's the Year to Keep an Eye on Paychecks'' (Economix column, Business Day, Jan. 3):</p>
+        <p>We're the writer and editor of Newsweek's 1996 ''Corporate Killers'' cover story that David Leonhardt criticized.</p>
+        <p>That story wasn't ''alarmist.'' It sought to explain why -- like today -- many people are feeling insecure about their jobs despite a strong economy.</p>
+        <p>A major reason, we said, was that chief executives were cutting workers right and left to suck up to Wall Street, then rewarding themselves and gloating over the fallen.</p>
+        <p>That thesis proved correct.</p>
+        <p>If Mr. Leonhardt was looking for alarmist stories, he could have found some in The Times's ''Downsizing of America'' series, which ran a month after our story did.</p>
+        <p>Allan Sloan  Hank Gilman  New York, Jan. 3, 2007</p>
+        <p>The writers are, respectively, Wall Street editor of Newsweek and deputy managing editor of Fortune magazine.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

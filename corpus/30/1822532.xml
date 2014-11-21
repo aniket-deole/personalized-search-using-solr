@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deborah Orin-Eilbeck, 59, Political Reporter</title>
+    <meta content="30orin" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/obituaries/30orin.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070306T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1822532"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Orin-Eilbeck, Deborah</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <org class="online_producer">New York Post</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFDB143FF933A05752C0A9619C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deborah Orin-Eilbeck, 59, Political Reporter</hl1>
+        <hl2 class="online_headline">Deborah Orin-Eilbeck, 59, Political Reporter, Dies</hl2>
+      </hedline>
+      <abstract>
+        <p>Deborah Orin-Eilbeck, Washington bureau chief and columnist for New York Post, dies at age 59 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Deborah Orin-Eilbeck, the Washington bureau chief and a columnist for The New York Post, died on Sunday at a hospital near her home in Manhattan. She was 59.</p>
+        <p>The cause was gastric cancer, said her husband, Neville Eilbeck.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Deborah Orin-Eilbeck was the Washington bureau chief and a columnist for The New York Post.</p>
+      </block>
+      <block class="full_text">
+        <p>Deborah Orin-Eilbeck, the Washington bureau chief and a columnist for The New York Post, died on Sunday at a hospital near her home in Manhattan. She was 59.</p>
+        <p>The cause was gastric cancer, said her husband, Neville Eilbeck.</p>
+        <p>Better known by her byline Deborah Orin, Ms. Orin-Eilbeck was named Washington bureau chief in 1988, but had covered four administrations since first being assigned there in 1980. She married Mr. Eilbeck, an Englishman, last August and added his name to her byline.</p>
+        <p>Ms. Orin-Eilbeck, who joined The Post in 1977, was known for her conservative viewpoint. She wrote a column called Inside Washington, and frequently appeared as a commentator on Fox News and MSNBC. However, asked yesterday if Ms. Orin-Eilbeck took a conservative view in her columns, The Post's managing editor, Jesse Angelo, said she was ''an equal opportunity offender.''</p>
+        <p>Deborah Clare Slotkin was born in Manhattan on April 3, 1947, the daughter of Aaron and Sarah Slotkin; both were teachers. Besides her husband, she is survived by her father; her brother, Mark; and two stepsons, all of Manhattan. Her first marriage, to Pierre Orin, ended in divorce.</p>
+        <p>After graduating from Harvard in 1968 with a bachelor's degree in French and English literature, Ms. Orin-Eilbeck received a master's in journalism in 1969 from Northwestern University. Before joining The Post, she worked at The Chicago Press and The Long Island Press.</p>
+        <p>Correction:  March 6, 2007, Tuesday  An obituary on Jan. 30 about Deborah Orin-Eilbeck, the Washington bureau chief of The New York Post, misstated the year she graduated from journalism school and the name of an earlier employer. The year was 1973, not 1969, and the employer was The Chicago Daily News, not The Chicago Press. A reader pointed out the errors in an e-mail message on Feb. 23, and this correction was delayed for research.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 6, 2007, Tuesday</p>
+        <p>An obituary on Jan. 30 about Deborah Orin-Eilbeck, the Washington bureau chief of The New York Post, misstated the year she graduated from journalism school and the name of an earlier employer. The year was 1973, not 1969, and the employer was The Chicago Daily News, not The Chicago Press. A reader pointed out the errors in an e-mail message on Feb. 23, and this correction was delayed for research.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

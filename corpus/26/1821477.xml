@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Rocket Is Progressing, NASA Reports</title>
+    <meta content="26rocket" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/science/space/26rocket.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821477"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">International Space Station</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Shuttle</classifier>
+        <classifier class="indexing_service" type="descriptor">Rockets and Rocket Propulsion</classifier>
+        <classifier class="indexing_service" type="descriptor">Ares I (Rocket)</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Leary, Warren E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rockets and Rocket Propulsion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E4DF173FF935A15752C0A9619C8B63" item-length="376" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Rocket Is Progressing, NASA Reports</hl1>
+        <hl2 class="online_headline">New Rocket Is Progressing, NASA Reports</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY</byline>
+      <byline class="normalized_byline">Leary, Warren E</byline>
+      <dateline>WASHINGTON, Jan. 25</dateline>
+      <abstract>
+        <p>NASA officials report that new rocket that will replace space shuttle for carrying crews to International Space Station is on schedule and within weight guidelines; new rocket, Ares I, will reportedly be ready for its first test flight on schedule in 2009 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The new rocket that will replace the space shuttle for carrying crews to the International Space Station is on schedule and within weight guidelines, NASA officials said Thursday.</p>
+        <p>The National Aeronautics and Space Administration's associate administrator for exploration, Scott Horowitz, said that the design of the rocket, the Ares I, was progressing well and that the rocket should be ready for its first test flight on schedule in 2009.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>NASA’s associate administrator for exploration said that the design of the rocket, the Ares I, was progressing well and that the rocket should be ready for its first test flight on schedule in 2009.</p>
+      </block>
+      <block class="full_text">
+        <p>The new rocket that will replace the space shuttle for carrying crews to the International Space Station is on schedule and within weight guidelines, NASA officials said Thursday.</p>
+        <p>The National Aeronautics and Space Administration's associate administrator for exploration, Scott Horowitz, said that the design of the rocket, the Ares I, was progressing well and that the rocket should be ready for its first test flight on schedule in 2009.</p>
+        <p>Mr. Horowitz acknowledged that the design had had an increase in weight, a subject of speculation in the aerospace industry, but said that was not unexpected in the early stages of rocket development.</p>
+        <p>Mr. Horowitz said the rocket, derived from the solid-rocket boosters that lift the shuttles at the starts of their flights, was well within performance limits to lift the 25-ton Orion crew exploration vehicle into orbit. The Orion is to carry crews of six to the space station starting in 2014 and also serve as a crew vehicle for later flights to the Moon under President Bush's expanded exploration plans for NASA.</p>
+        <p>''Ares I has more than sufficient performance,'' he told reporters at a briefing in NASA headquarters.</p>
+        <p>The planned lifting capacity of a rocket includes not only the basic maximum payload but also a reserve for contingencies. The preliminary designs now indicate that the rocket can lift its 50,000-pound primary payload, the Orion capsule, but that excess weight is eating into an 8,000-pound-to-10,000-pound reserve, Mr. Horowitz said.</p>
+        <p>As the design progresses and is refined, he added, the expected weight savings should allow the recovery of most of the reserve. The two-stage Ares I will stand taller than 300 feet and use a more powerful version of a space shuttle booster as the first stage. The shuttle booster uses four segments of solid rocket fuel. The Ares I is to use five.</p>
+        <p>The second stage is to be powered by a liquid-hydrogen and liquid-oxygen updated version of the J-2 engine that propelled upper stages of the Saturn V rocket that sent men to the Moon more than 30 years ago.</p>
+        <p>The current plans call for a test flight of Ares I with a dummy second stage in April 2009, with the first full scale test of the entire rocket in 2012.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

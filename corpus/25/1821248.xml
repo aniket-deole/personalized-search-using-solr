@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ABC TV Star Is Seeking Counseling After Epithet</title>
+    <meta content="25grey" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/arts/television/25grey.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821248"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <org class="indexing_service">Abc Inc</org>
+        <org class="indexing_service">Touchstone Television</org>
+        <person class="indexing_service">Wyatt, Edward</person>
+        <person class="indexing_service">Washington, Isaiah</person>
+        <object.title class="indexing_service">Grey's Anatomy (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">ABC Inc</org>
+        <org class="online_producer">Gay and Lesbian Alliance Against Defamation</org>
+        <org class="online_producer">Touchstone Television</org>
+        <org class="online_producer">Disney, Walt, Co</org>
+        <person class="online_producer">Washington, Isaiah</person>
+        <person class="online_producer">Knight, T R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE0DC163FF936A15752C0A9619C8B63" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ABC TV Star Is Seeking Counseling After Epithet</hl1>
+        <hl2 class="online_headline">ABC TV Star Is Seeking Counseling After Epithet</hl2>
+      </hedline>
+      <byline class="print_byline">By EDWARD WYATT</byline>
+      <byline class="normalized_byline">Wyatt, Edward</byline>
+      <dateline>LOS ANGELES, Jan. 24</dateline>
+      <abstract>
+        <p>Isaiah Washington, Grey's Anatomy star who twice used anti-homosexual slur against one of show's costars, is seeking counseling at suggestion of ABC television network and Touchstone Television; although Washington is not immediately being dismissed from show, his continued employment depends on outcome of treatment (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Isaiah Washington, the ''Grey's Anatomy'' star who twice used an anti-homosexual slur against one of that show's co-stars, is seeking counseling for behavioral issues at the suggestion of his employers, the ABC television network and Touchstone Television, both part of the Walt Disney Company.</p>
+        <p>Though it appears that Mr. Washington will not be dismissed from the ABC series, his status remains ''precarious,'' and his continued employment depends on the outcome of the treatment, according to two people close to the situation who would speak only on the condition of anonymity because they were not authorized to go beyond the official statements.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Isaiah Washington, the “Grey’s Anatomy” star who twice used an anti-homosexual slur against one of that show’s co-stars, is seeking counseling for behavioral issues.</p>
+      </block>
+      <block class="full_text">
+        <p>Isaiah Washington, the ''Grey's Anatomy'' star who twice used an anti-homosexual slur against one of that show's co-stars, is seeking counseling for behavioral issues at the suggestion of his employers, the ABC television network and Touchstone Television, both part of the Walt Disney Company.</p>
+        <p>Though it appears that Mr. Washington will not be dismissed from the ABC series, his status remains ''precarious,'' and his continued employment depends on the outcome of the treatment, according to two people close to the situation who would speak only on the condition of anonymity because they were not authorized to go beyond the official statements.</p>
+        <p>Mr. Washington, who shot several scenes for the show on Monday, is expected to be absent from the set for the rest of this week, returning on Tuesday.</p>
+        <p>Mr. Washington issued a statement on Wednesday saying that he considered counseling ''a necessary step toward understanding why I did what I did and making sure it never happens again.''</p>
+        <p>''I appreciate the fact that I have been given this opportunity and I remain committed to transforming my negative actions into positive results, personally and professionally,'' Mr. Washington said.</p>
+        <p>Shonda Rhimes, an executive producer and the creator of ''Grey's Anatomy,'' said in a statement on Wednesday that the show's producers ''applaud and encourage Isaiah's realization that he needs help and his subsequent choice to seek immediate treatment for his behavioral issues.''</p>
+        <p>The announcement of Mr. Washington's treatment plan follows by two days his meeting with leaders of two gay-rights organizations. One, Neil G. Giuliano, president of the Gay and Lesbian Alliance Against Defamation, said after the meeting that Mr. Washington had acknowledged that his statements had caused harm and that he ''understands that he is going to be judged by more than just his apology.''</p>
+        <p>At the Golden Globes awards ceremony last week and during a scuffle on the set of ''Grey's Anatomy'' in October, Mr. Washington used an anti-gay epithet to describe T. R. Knight, a fellow actor on the show. After the first incident, Mr. Knight publicly acknowledged that he was homosexual.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

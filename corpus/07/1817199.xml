@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE DRIBBLE</title>
+    <meta content="07nbarail" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817199"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="N.B.A."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <person class="indexing_service">Bierman, Fred</person>
+        <person class="indexing_service">Hoffman, Benjamin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E3DF1530F934A35752C0A9619C8B63" item-length="443" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE DRIBBLE</hl1>
+      </hedline>
+      <byline class="print_byline">By FRED BIERMAN and BENJAMIN HOFFMAN</byline>
+      <byline class="normalized_byline">Hoffman, Benjamin; Bierman, Fred</byline>
+      <abstract>
+        <p>NBA developments discussed; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rebranding the Clippers</p>
+        <p>With the owner Donald Sterling putting quite a bit of money into the Clippers over the past few years, they were coming off a 47-35 season and were expected to be among the league's best teams this season. But they have struggled to a 15-18 record and endured five- and six-game losing streaks.</p>
+        <p>One of the biggest factors has been the decline in production from ELTON BRAND, above, an All-Star power forward. Brand averaged 24.7 points and 10 rebounds last season, but he entered the Dec. 27 game against the Celtics averaging 18.9 points and 9.2 rebounds.</p>
+      </block>
+      <block class="full_text">
+        <p>Rebranding the Clippers</p>
+        <p>With the owner Donald Sterling putting quite a bit of money into the Clippers over the past few years, they were coming off a 47-35 season and were expected to be among the league's best teams this season. But they have struggled to a 15-18 record and endured five- and six-game losing streaks.</p>
+        <p>One of the biggest factors has been the decline in production from ELTON BRAND, above, an All-Star power forward. Brand averaged 24.7 points and 10 rebounds last season, but he entered the Dec. 27 game against the Celtics averaging 18.9 points and 9.2 rebounds.</p>
+        <p>Brand scored 25 and grabbed 10 rebounds that night, starting a 4-2 run for the Clippers in which he averaged 25.2 points. If Brand continues to score, the Clippers should be fine. They were 7-2 in games in which he had more than 25 points entering last night's game in Atlanta.</p>
+        <p>Another Take for Artest</p>
+        <p>On Oct. 31, Sacramento forward Ron Artest released a rap album entitled ''My World,'' which was hardly a commercial or critical success. Artest, who had not said much about this project, wrote a wide-ranging online journal for hiphopgame.com in which he discussed the album. ''I've already spent $3 million and it's like I threw that in the ocean,'' he wrote. He also mentioned some of the new talent he had signed to his record label, Tru Warier. ''Foul Monday's delivery is so crazy,'' he wrote. ''I think he's really going to contribute to hip hop. That's why I signed him.'' And finally: ''My holidays have been great so far. I had a Christmas party with my wife. I bought her a Nascar racecar. I didn't get nothing for Christmas, but I never really want anything.'' No mention of whether that was a life-size racecar or a scale model.</p>
+        <p>3 Stripes, You're In</p>
+        <p>With its trademark shell-toe design, the Adidas Superstar is one of the most recognizable basketball shoes ever made. Worn by legends like Jerry West, Wilt Chamberlain and Oscar Robertson, the shoe was popular among players in the 1970s. In the 1980s it was reborn as a fashion statement thanks to the rappers Run DMC, who not only wore the shoes, but also recorded the track ''My Adidas.'' Now, 37 years after the initial release, Adidas has created a special version of the Superstar for each N.B.A. team. They can be found on the Web site adidas.com/us/basketball, where each shoe is paired with a track composed by the hip-hop producer Dan Nakamura, known as the Automator. The Knicks and Cavaliers editions are pictured above.</p>
+        <p>FRED BIERMAN and BENJAMIN HOFFMAN</p>
+        <p>N.B.A.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

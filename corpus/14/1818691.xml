@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Hammerstein's Words</title>
+    <meta content="14alsmail-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818691"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LYRICISTS AND THEIR ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Magee, Jeffrey</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E0DA1230F937A25752C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Hammerstein's Words</hl1>
+      </hedline>
+      <abstract>
+        <p>Jeffrey Magee letter about Jan 7 article on craft of writing song lyrics</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Far from criticizing his lyrics for ''What's the Use of Wond'rin' '' in ''Carousel'' for the ''technical fault'' of ending on a hard consonant, Oscar Hammerstein II explained in his book ''Lyrics'' that he chose the word ''talk'' because that ''is exactly what I wanted the character to say.'' He then goes on for a full page to explain the choice. He does acknowledge that the word may have ''handicapped'' the song's popularity, but as he wrote in another song echoed in the article's headline, ''The words are true.''</p>
+        <p>Jeffrey Magee  Urbana, Ill.</p>
+        <p>The writer is an associate professor of musicology at the University of Illinois, Urbana-Champaign.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Far from criticizing his lyrics for ''What's the Use of Wond'rin' '' in ''Carousel'' for the ''technical fault'' of ending on a hard consonant, Oscar Hammerstein II explained in his book ''Lyrics'' that he chose the word ''talk'' because that ''is exactly what I wanted the character to say.'' He then goes on for a full page to explain the choice. He does acknowledge that the word may have ''handicapped'' the song's popularity, but as he wrote in another song echoed in the article's headline, ''The words are true.''</p>
+        <p>Jeffrey Magee  Urbana, Ill.</p>
+        <p>The writer is an associate professor of musicology at the University of Illinois, Urbana-Champaign.</p>
+        <p>LYRICISTS AND THEIR ART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

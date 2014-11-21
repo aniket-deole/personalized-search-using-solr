@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'A Mania for Hegel'</title>
+    <meta content="Letters.t-3" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816888"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Holt, Jim</person>
+        <person class="indexing_service">Kramer, Peter D</person>
+        <person class="indexing_service">Prochnik, George</person>
+        <object.title class="indexing_service">Putnam Camp (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E3DF1630F934A35752C0A9619C8B63" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'A Mania for Hegel'</hl1>
+      </hedline>
+      <abstract>
+        <p>Jim Holt letter comments on Peter D Kramer Dec 24 review of George Prochnik book Putnam Camp</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Peter D. Kramer, in his review of ''Putnam Camp,'' by George Prochnik (Dec. 24), observes that ''a mania for Hegel had swept St. Louis in the 1860s.'' A similar Hegelian mania, it should perhaps be noted, also swept through the upper Bronx and large swaths of Westchester, Putnam and Dutchess counties, as attest the many vestigial Dialektischenpfosten (''dialectical posts'') that still dot the landscape there.</p>
+        <p>Jim Holt  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Peter D. Kramer, in his review of ''Putnam Camp,'' by George Prochnik (Dec. 24), observes that ''a mania for Hegel had swept St. Louis in the 1860s.'' A similar Hegelian mania, it should perhaps be noted, also swept through the upper Bronx and large swaths of Westchester, Putnam and Dutchess counties, as attest the many vestigial Dialektischenpfosten (''dialectical posts'') that still dot the landscape there.</p>
+        <p>Jim Holt  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

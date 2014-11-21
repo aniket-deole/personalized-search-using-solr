@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Award Validates Pennington</title>
+    <meta content="05chad" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/05/sports/football/05chad.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816570"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <org class="indexing_service">New York Jets</org>
+        <org class="indexing_service">Associated Press</org>
+        <person class="indexing_service">Crouse, Karen</person>
+        <person class="indexing_service">Pennington, Chad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Jets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <org class="online_producer">New York Jets</org>
+        <person class="online_producer">Pennington, Chad</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E3DB1430F936A35752C0A9619C8B63" item-length="400" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Award Validates Pennington</hl1>
+        <hl2 class="online_headline">Comeback Player Award Validates Pennington</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREN CROUSE</byline>
+      <byline class="normalized_byline">Crouse, Karen</byline>
+      <dateline>HEMPSTEAD, N.Y., Jan. 4</dateline>
+      <abstract>
+        <p>New York Jets quarterback Chad Pennington is named Associated Press comeback player of year (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chad Pennington does not have to be standing in the pocket to draw attention. Pennington, the Jets' quarterback, faced a dogged rush last Sunday when he and a few teammates gathered at a Japanese restaurant near the team's practice facility to celebrate receiver Laveranues Coles's 29th birthday. Pennington was attracting so much attention, Coles said he finally stepped in and said, ''Hey, it's my day!''</p>
+        <p>That is the way the spotlight shines in the N.F.L., where the quarterback tends to receive an inordinate amount of credit when a team is successful and too much blame when it is not.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After coming back from two career-threatening rotator-cuff surgeries on his throwing shoulder, the Jets' Chad Pennington was honored as the Associated Press’s N.F.L. comeback player of the year.</p>
+      </block>
+      <block class="full_text">
+        <p>Chad Pennington does not have to be standing in the pocket to draw attention. Pennington, the Jets' quarterback, faced a dogged rush last Sunday when he and a few teammates gathered at a Japanese restaurant near the team's practice facility to celebrate receiver Laveranues Coles's 29th birthday. Pennington was attracting so much attention, Coles said he finally stepped in and said, ''Hey, it's my day!''</p>
+        <p>That is the way the spotlight shines in the N.F.L., where the quarterback tends to receive an inordinate amount of credit when a team is successful and too much blame when it is not.</p>
+        <p>Pennington, whose arm strength and ability has been widely questioned throughout his seven-year pro career, saw the strength of his character validated Thursday. After coming back from two career-threatening rotator-cuff surgeries on his throwing shoulder to start all 16 games for the 10-6 Jets, Pennington was honored as the Associated Press's N.F.L. comeback player of the year.</p>
+        <p>''Understanding the journey that I've been through thus far makes it special,'' Pennington said, referring to the award. ''Knowing that hard work does pay off and that having the right attitude and believing in working hard and treating people right and doing your business the right way actually matters.''</p>
+        <p>Pennington completed 64.5 percent of his throws during the regular season while passing for a career-high 3,352 yards. After his second surgery, in October 2005, it was by no means a given that he would play another down, much less 16 games.</p>
+        <p>The 30-year-old Pennington spent much of the winter and spring in the trainer's room having his shoulder treated while he pored over the playbook with his good (nonthrowing) arm. In training camp, Pennington, who started 37 regular-season games in his first six years with the Jets, had to win back his starting job.</p>
+        <p>He absorbed that blow to his ego as well as a financial hit -- the Jets restructured his contract so that his salary was tied to his performance.</p>
+        <p>''Sometimes during the rehab and sometimes during the competition I think I had to look at it as if the slate was wiped clean and what I had done in the past doesn't matter anymore,'' Pennington said. ''If this situation did anything for me, it showed me how important staying in the present, staying in the now, is. Because that's the only part of your life that you can control.''</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

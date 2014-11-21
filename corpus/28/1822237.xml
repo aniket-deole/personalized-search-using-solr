@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grim Harvest</title>
+    <meta content="Postrel.t" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Health; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/books/review/Postrel.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822237"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Postrel, Virginia</person>
+        <person class="indexing_service">Healy, Kieran</person>
+        <object.title class="indexing_service">Last Best Gifts (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Transplants</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transplants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <object.title class="online_producer">Last Best Gifts: Altruism and the Market for Human Blood and Organs (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1D71130F93BA15752C0A9619C8B63" item-length="928" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grim Harvest</hl1>
+        <hl2 class="online_headline">Grim Harvest</hl2>
+      </hedline>
+      <byline class="print_byline">By VIRGINIA POSTREL</byline>
+      <byline class="normalized_byline">Postrel, Virginia</byline>
+      <abstract>
+        <p>Virginia Postrel reviews book Last Best Gifts: Altruism and the Market for Human Blood and Organs by Kieran Healy (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LAST BEST GIFTS</p>
+        <p>Altruism and the Market</p>
+        <p>for Human Blood and Organs.</p>
+        <p>By Kieran Healy.</p>
+        <p>193 pp. University of Chicago Press.</p>
+        <p>Cloth, $50; paper, $20.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A sociologist joins the debate on financial incentives for organ procurement.</p>
+      </block>
+      <block class="full_text">
+        <p>LAST BEST GIFTS</p>
+        <p>Altruism and the Market</p>
+        <p>for Human Blood and Organs.</p>
+        <p>By Kieran Healy.</p>
+        <p>193 pp. University of Chicago Press.</p>
+        <p>Cloth, $50; paper, $20.</p>
+        <p>Organ transplants are at once the most amazing and frustrating of medical miracles. A new kidney or heart can cure someone who would otherwise die or, even in less than ideal circumstances, extend life and improve well-</p>
+        <p>being. The surgical skill and pharmaceutical innovation required to make transplantation work are wonders of human ingenuity.</p>
+        <p>But there is still no such thing as a truly new organ. Unlike insulin or artificial hips, organs so far cannot be successfully manufactured. They come only pre-owned, usually from young, healthy people who have died suddenly in traumatic accidents that destroyed their brains. Rainy weekends increase the organ supply. Helmet laws reduce it. The more than 94,000 Americans on the waiting list for organs are, in effect, waiting for someone else to die so that they can live.</p>
+        <p>This grisly calculus posed enormous cultural problems for early transplant advocates, as Kieran Healy, a sociologist at the University of Arizona and a contributor to the blog Crooked Timber, notes in ''Last Best Gifts.'' ''Public ambivalence about transplantation was overcome, in part, by arguing that donation was the 'gift of life,' '' he writes. ''The success of this idea now makes it more difficult to garner support for a market for organs.'' By emphasizing altruism, transplant advocates gave comfort to the bereaved, conferring meaning on a tragic event and justifying what might otherwise seem like desecration. This early success helps explain why, even in the face of a critical shortage of organs, many leaders in the transplant field oppose any financial incentives for organ donors, including tax credits or payment toward funeral expenses.</p>
+        <p>The ''gift of life'' story is useful but, according to Healy, oversimplified. Shaped by a strongly anticommercial ideology, it places too much emphasis on the division between giving and selling. It doesn't acknowledge the diverse ways in which people define the social meanings of exchange, regardless of whether money is involved. The fable of heroic altruists also misleadingly emphasizes the motives of the donor (or the donor's family) over the system in which the decision to give or not takes place. ''The voluntary donation of human goods is an organizational accomplishment,'' Healy argues.</p>
+        <p>Just as businesses in the same industry may have different rates of profit, organ procurement organizations -- the regional groups charged with managing cadaver organs -- have different rates of success in persuading families to part with the organs of their loved ones. Some of those results depend on regional characteristics, from population density (which makes it easier to get organs to recipients quickly) to race (blacks, for example, are somewhat less likely to donate organs or support the idea of donation more generally). But along with such basic organizational differences as budget and number of referring hospitals, environmental differences like these account for only about half of the variation. Clearly something more -- call it ''management'' -- is at work.</p>
+        <p>Consider the South Carolina Organ Procurement Agency, which has increased its donation rate by 83 percent since 1997. The agency not only expanded its field staff from eight to 21, it changed its methods. ''The person who explained to families that their loved one was brain dead, and who spent a considerable amount of time (perhaps a whole day) helping them with this realization, was no longer the person who requested consent for donation,'' Healy writes. This separation of roles may sound like common sense, but it requires organizational insight into the emotional state of donor families.</p>
+        <p>As an economic sociologist, Healy adds important dimensions to the intensifying debate over organ procurement. He reminds both advocates and opponents of markets that commercial transactions are embedded in social structures and as likely as any other exchanges to have social meaning. To succeed, incentives must show sensitivity to those meanings. A direct payment to a funeral home, for example, could honor a donor family's decision without making them seem to profit from their loved one's death. Or healthy adults could make binding contracts to be organ donors if they die in the right circumstances, with life insurance paid for by transplant centers, the government or a private foundation going to their heirs.</p>
+        <p>The book's major shortcoming is its failure to address the fastest growing source of organs: living donors. More than two-thirds of the people on the national waiting list -- about 68,000 -- need kidneys. There are nowhere near enough brain-dead accident victims to fill that demand, regardless of family beneficence or organizational efficiency. Fortunately, nobody has to die to supply a kidney. They can come from living donors, who can live perfectly normal lives with a single kidney and who now account for nearly 40 percent of all kidney transplants. With the kidney shortage at crisis proportions, the debate over financial incentives is really a debate over whether living adults should be allowed to sell their own organs or, at the least, receive a tax credit or some other indirect compensation.</p>
+        <p>Although he barely mentions living donors, Healy's sociological message resonates through that debate. Financial incentives would operate within complex organizational structures, as well as contract and liability law. Bureaucratic institutions, notably hospitals and insurers, would shape the environment in which transplants take place. Many kidney sellers would still have humanitarian motives. ''The idea that markets inevitably corrupt,'' Healy writes, ''is not tenable precisely because they are embedded within social relations, cultural categories and institutional routines.'' Commerce isn't</p>
+        <p>antithetical to culture; it is part of it.</p>
+        <p>A sociologist joins the debate on financial incentives for organ procurement.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Virginia Postrel is a contributing editor and columnist for The Atlantic Monthly and the author of ''The Substance of Style'' and ''The Future and Its Enemies.''</tagline>
+    </body.end>
+  </body>
+</nitf>

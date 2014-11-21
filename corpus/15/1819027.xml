@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BP's Chief To Join Apax, A Private Firm</title>
+    <meta content="15bp" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/business/worldbusiness/15bp.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819027"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <org class="indexing_service">Apax Partners &amp; Co</org>
+        <org class="indexing_service">Bp Plc</org>
+        <person class="indexing_service">Brown, John</person>
+        <person class="indexing_service">Timmons, Heather</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <org class="online_producer">Apax Partners</org>
+        <org class="online_producer">BP Plc</org>
+        <person class="online_producer">Browne, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E7DD1030F936A25752C0A9619C8B63" item-length="359" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BP's Chief To Join Apax, A Private Firm</hl1>
+        <hl2 class="online_headline">BP’s Chief to Join Apax, a Private Firm</hl2>
+      </hedline>
+      <byline class="print_byline">By HEATHER TIMMONS</byline>
+      <byline class="normalized_byline">Timmons, Heather</byline>
+      <dateline>LONDON, Jan. 14</dateline>
+      <abstract>
+        <p>BP chief executive John Brown will become chairman of private equity firm Apax Partners when he leaves oil company in July; will preside over firm as it participates in trend of globalism sweeping industry (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John Browne, chief executive of BP, will become chairman of the advisory board of the private equity firm Apax Partners when he leaves the oil company in July.</p>
+        <p>Mr. Browne told BP executives on Friday of his plans, which would make him one of the biggest names in a new trend of globalism sweeping the private equity industry. His years presiding over an international company are likely to give a big boost to Apax's expansion plans.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>John Browne will become chairman of the advisory board of the private equity firm Apax Partners when he leaves BP in July.</p>
+      </block>
+      <block class="full_text">
+        <p>John Browne, chief executive of BP, will become chairman of the advisory board of the private equity firm Apax Partners when he leaves the oil company in July.</p>
+        <p>Mr. Browne told BP executives on Friday of his plans, which would make him one of the biggest names in a new trend of globalism sweeping the private equity industry. His years presiding over an international company are likely to give a big boost to Apax's expansion plans.</p>
+        <p>American and European private equity companies have raised record amounts of money in recent years, and are increasingly looking overseas to areas like Asia and Latin America for new investments.</p>
+        <p>Apax, which has invested more than $19 billion in its 30-year history, traditionally focused on the United States and Britain, and has expanded to include the rest of Europe in recent years. But the company's aspirations are much more ambitious -- it opened an office in Hong Kong in 2005 and in Mumbai last year.</p>
+        <p>''As the private equity market matures, we believe that the best-performing firms will be those with genuine global reach and financial scale,'' Apax says on its Web site. In a report that the company put out in May, entitled ''Unlocking Global Value,'' Apax reviewed the private equity environment in 33 countries, and found that countries like Russia and Brazil had ''huge potential'' as they overcame complex regulatory structures and operating environments.</p>
+        <p>BP has exploration projects in 26 countries from Angola to Canada, and production in 22. Mr. Browne was instrumental in expanding the company's global reach through a series of mergers, and setting up its Russian joint venture, TNK-BP. He is considered extremely well connected politically in a number of fast-growing developing nations.</p>
+        <p>Apax's rivals are also going global. Kohlberg, Kravis &amp; Roberts Company made its first acquisition in India in April of last year. The Blackstone Group on Friday hired Hong Kong's former financial secretary, Antony Leung, as chairman of its China business. A group of Western private equity investors have lined up to bid for Hutchinson's Indian telecommunications operations, Hutchinson Essar, which, if successful, would be one of the largest deals ever in India.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

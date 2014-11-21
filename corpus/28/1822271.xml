@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Air Support</title>
+    <meta content="28WWLN--IdeaLab.t" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/magazine/28WWLN_IdeaLab.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822271"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WAY WE LIVE NOW: 1-28-07: IDEA LAB"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Disasters</classifier>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <person class="indexing_service">Klinenberg, Eric (Prof)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Disasters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Clear Channel Communications Inc</org>
+        <org class="online_producer">Homeland Security Department</org>
+        <person class="online_producer">Newhouse, S I Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E1DB1F30F93BA15752C0A9619C8B63" item-length="720" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Air Support</hl1>
+        <hl2 class="online_headline">Air Support</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Klinenberg</byline>
+      <byline class="normalized_byline">Klinenberg, Eric (Prof)</byline>
+      <abstract>
+        <p>Eric Klinenberg article contends America's emergency-communications system is woefully inadequate; says radio is most reliable way to broadcast emergency information; cites Emergency Alert System, which enables federal authorities to override programming and issue warnings without intervention from stations; says states do not have similar authority; says most resources for improving nation's emergency communications are devoted to developing new technologies, but experts say none are as reliable as radio; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the early morning of Jan. 18, 2002, a Canadian Pacific Railway train carrying hazardous chemicals derailed just outside Minot, N.D., spilling roughly 240,000 gallons of anhydrous ammonia into a woodsy neighborhood on the outskirts of town. The resulting toxic cloud grew to some five miles long, two and a half miles wide and 350 feet high, enveloping the homes of approximately 15,000 people. Confused and afraid, thousands of Minot residents turned on their radios to get public warnings and instructions on how to stay safe.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It’s hardly a cutting-edge technology, but radio is still themost reliable way to broadcast emergency information.</p>
+      </block>
+      <block class="full_text">
+        <p>In the early morning of Jan. 18, 2002, a Canadian Pacific Railway train carrying hazardous chemicals derailed just outside Minot, N.D., spilling roughly 240,000 gallons of anhydrous ammonia into a woodsy neighborhood on the outskirts of town. The resulting toxic cloud grew to some five miles long, two and a half miles wide and 350 feet high, enveloping the homes of approximately 15,000 people. Confused and afraid, thousands of Minot residents turned on their radios to get public warnings and instructions on how to stay safe.</p>
+        <p>Yet no such information was available. Minot's six nonreligious commercial stations, all of which were owned and operated by the nation's largest radio company, Clear Channel Communications, were broadcasting prerecorded programs engineered in remote studios. Police dispatchers couldn't reach anyone in Clear Channel's local offices: the town's new emergency-communications system failed to automatically issue an alert, and no one answered the phones at the stations. What ensued was horrific: as one man died and hundreds became ill from inhaling the poisonous gas, the airwaves were filled with canned music and smooth-talking D.J.'s.</p>
+        <p>Five years later, America's emergency-communications system remains woefully inadequate. Consider, for instance, the basic question of where you would turn for information if disaster struck your hometown. The Internet puts up-to-the-minute information at your fingertips, but not if you can't turn on your computer or your local network is down. Mobile phones allow for voice conversations and text messaging, but not when the system is jammed from overuse. Cable television offers hundreds of channels, but not one of them works when the power is out. Radio, when accessed by battery-powered receivers, provides the optimum combination of reliability and accessibility -- but not if local stations have no one in the studios to report the news.</p>
+        <p>Radio companies have long provided the nation's emergency-communications infrastructure. But they were not formally integrated until 1951, when Harry Truman implemented the Control of Electromagnetic Radiation system. Conelrad later evolved into the Emergency Broadcasting System, which required all licensed broadcast systems to air its famous weekly message: ''This station is conducting a test of the Emergency Broadcast System. This is only a test. . . . '' The E.B.S. in turn was upgraded into the Emergency Alert System in 1997.</p>
+        <p>Today, the E.A.S. enables federal authorities to override programming and issue warnings without intervention from stations. State and local authorities may also override programming during crises -- but only if they have the prior consent of broadcasters, which are not legally obligated to cede control of their content, and only if they have installed E.A.S.-compatible equipment, which is voluntary, too. Predictably, the loose local standards leave some officials confused about how to issue an alert and some broadcasters ill equipped to help.</p>
+        <p>The problem is hardly limited to small cities like Minot. On Aug. 14, 2003, as a sweeping blackout affected 50 million people across the Northeast, David Rubin, dean of the S. I. Newhouse School of Communications at Syracuse University, was listening to the primary local news station (also owned by Clear Channel) on the drive home. Instead of reporting on conditions in Syracuse, the station was broadcasting information about the subways in New York City. ''I only heard one local reporter on the air, and she was on the air only once,'' Rubin says.</p>
+        <p>There are signs of improvement. In June 2006, President Bush, whose administration did not activate the E.A.S. on Sept. 11 or during Hurricane Katrina, issued an executive order instructing the Department of Homeland Security (which administers FEMA) to overhaul the system so that it is ''effective, reliable, integrated, flexible and comprehensive.'' In Congress, a bill under consideration would establish an All Hazards Alert System that ''will be coordinated with and supplement existing federal, state, tribal and local emergency-warning and alert systems.''</p>
+        <p>Today most resources for improving the nation's emergency communications are devoted to developing new technologies for personalized notification, like reverse 911 calling programs and S.M.S. alerts sent to mobile telephones. ''These things ought to be part of the system for the future,'' says C. Patrick Roberts, president of the Florida Association of Broadcasters. ''But right now none of them work well when the power is out and demand is high. Radio may be old-fashioned, but it works.'' Assuming, that is, that there is someone who can broadcast useful information.</p>
+        <p>THE WAY WE LIVE NOW: 1-28-07: IDEA LAB Eric Klinenberg is an associate professor of sociology at New York University and the author of ''Fighting for Air: The Battle to Control America's Media.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Eric Klinenberg is an associate professor of sociology at New York University and the author of ''Fighting for Air: The Battle to Control America's Media.''</tagline>
+    </body.end>
+  </body>
+</nitf>

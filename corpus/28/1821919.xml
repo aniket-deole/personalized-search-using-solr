@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Real-World AIDS Vaccine?</title>
+    <meta content="28letters.t-3" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821919"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="indexing_service" type="descriptor">Circumcision</classifier>
+        <location class="indexing_service">Africa</location>
+        <person class="indexing_service">Cohen, Marla</person>
+        <person class="indexing_service">Hannestad, Jonas (Dr)</person>
+        <person class="indexing_service">Schoen, Edgar J (Dr)</person>
+        <person class="indexing_service">Gualtieri, Tom</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E6DC163FF93BA15752C0A9619C8B63" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Real-World AIDS Vaccine?</hl1>
+      </hedline>
+      <abstract>
+        <p>Four letters comment on Jan 14 article about use of circumcision in AIDS prevention in Africa; Marla Cohen offers suggestion about training medical circumcisers; Dr Jonas Hannestad, citing statistical comparison of HIV in American and British men, says numbers do not support notion that circumcision has significant impact on HIV transmission; Dr Edgar J Schoen notes other benefits of circumcision on men's health; Thomas Gualtieri says circumcision is not panacea and should not be substituted for protection from HIV transmission</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In her Jan. 14 article about the use of circumcision in AIDS prevention in Africa, Tina Rosenberg writes that countries opting to use the procedure will need to train medical circumcisers, ''who don't have to be doctors.'' Perhaps it's time to start ''Mohels Without Borders.''</p>
+      </block>
+      <block class="full_text">
+        <p>In her Jan. 14 article about the use of circumcision in AIDS prevention in Africa, Tina Rosenberg writes that countries opting to use the procedure will need to train medical circumcisers, ''who don't have to be doctors.'' Perhaps it's time to start ''Mohels Without Borders.''</p>
+        <p>Marla Cohen</p>
+        <p>New City, N.Y.</p>
+        <p>While the data from the studies showing lower H.I.V. transmission in circumcised males in African countries are interesting, we should not lose sight of the following: About 80 percent of men in the United States are circumcised, whereas only 15 percent are in Britain. In the United States, the prevalence of H.I.V. is 0.33 percent, compared with about 0.14 percent in Britain. Part of this difference may be attributed to a higher rate of intravenous drug use in the U.S.; however, other factors are likely to play a role. In any case, these numbers do not support the notion that circumcision can have a significant impact on H.I.V. transmission.</p>
+        <p>Jonas Hannestad, M.D.</p>
+        <p>New Haven</p>
+        <p>Rosenberg points out that circumcision helps protect men from AIDS. There are multiple benefits of circumcision, identified since I was chairman of the American Academy of Pediatrics 1987 Task Force on Circumcision. Uncircumcised males are at greater risk of acquiring infant urinary-tract infection, penile cancer, human papilloma virus, chlamydia infection and penile skin disorders.</p>
+        <p>Edgar J. Schoen, M.D.</p>
+        <p>Richmond, Calif.</p>
+        <p>The foreskin is a vital part of the male sexual mechanism, and it seems inappropriately easy for a woman to suggest that a man cut off part of his genitals when the opposite suggestion would be greeted with outrage. For centuries, circumcision has been said to cure everything from demonic possession to madness. This study is another in a long line of witch-doctoring. I foresee men failing to protect themselves (or their partners) during intercourse by reasoning, Don't worry, I'm circumcised.</p>
+        <p>Thomas Gualtieri</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

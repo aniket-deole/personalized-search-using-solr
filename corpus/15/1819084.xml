@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Light-Touch Tax Audit</title>
+    <meta content="15mon3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/opinion/15mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819084"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <org class="indexing_service">Internal Revenue Service</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <org class="online_producer">Internal Revenue Service</org>
+        <person class="online_producer">Johnston, David Cay</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3DC1030F936A25752C0A9619C8B63" item-length="328" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Light-Touch Tax Audit</hl1>
+        <hl2 class="online_headline">The Light-Touch Tax Audit</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial notes that Internal Revenue Service auditors are being pushed by agency's top officials to prematurely close audits of some large corporations with agreements that they pay only fraction of additional taxes that could be collected; holds that Congress must ensure that IRS justifies its policy or changes it</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With corporations posting record profits amid nonstop accounting scandals, one would assume that the Internal Revenue Service is looking long and hard at big companies' tax returns. Unfortunately, the opposite is true.</p>
+        <p>Since 2003, I.R.S policy has called for spending less time on any one large corporate audit, with the purported aim of auditing more big businesses. But as The Times's David Cay Johnston reported last week, I.R.S. auditors are being pushed by the agency's top officials to prematurely close audits of large corporations with agreements that they pay only a fraction of the additional taxes that could be collected. Dozens of auditors said they were instructed to limit their examinations to issues that the I.R.S. and the companies agreed to in advance, even if suspicious deductions or other questionable tax tactics emerged during the audit.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With corporations posting record profits amid nonstop accounting scandals, one would assume that the Internal Revenue Service is looking hard at big companies’ tax returns. Unfortunately, the opposite is true.</p>
+      </block>
+      <block class="full_text">
+        <p>With corporations posting record profits amid nonstop accounting scandals, one would assume that the Internal Revenue Service is looking long and hard at big companies' tax returns. Unfortunately, the opposite is true.</p>
+        <p>Since 2003, I.R.S policy has called for spending less time on any one large corporate audit, with the purported aim of auditing more big businesses. But as The Times's David Cay Johnston reported last week, I.R.S. auditors are being pushed by the agency's top officials to prematurely close audits of large corporations with agreements that they pay only a fraction of the additional taxes that could be collected. Dozens of auditors said they were instructed to limit their examinations to issues that the I.R.S. and the companies agreed to in advance, even if suspicious deductions or other questionable tax tactics emerged during the audit.</p>
+        <p>Recently released I.R.S statistics -- which the agency is required to disclose, but which it had long withheld -- underscore Mr. Johnston's report. In 2006, the time devoted to each large-company audit was nearly 21 percent below what it was in 2002. From 2003 through 2005, an ever larger share of companies was audited; but in 2006, the share declined from a high of 44 percent in 2005, to 34 percent, about where it was in 2002.</p>
+        <p>The I.R.S. says its light-touch approach is successful because auditors are finding much more tax owed for each hour they work than they did in 2002. But auditors interviewed by Mr. Johnston dispute that claim. They say that abusive and illegal tax shelters have become so pervasive that it's easy to find additional taxes due. So the overall figure rises, even though companies are being allowed to pay far less than they owe. Economists and tax experts who have looked at the I.R.S. statistics have also raised the possibility that an increase in corporate noncompliance is behind the increased tax-due amounts, not more effective auditing.</p>
+        <p>Congress must ensure that the agency justifies its policy or changes it.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

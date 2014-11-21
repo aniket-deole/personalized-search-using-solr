@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Insurgents Attack Palace In Somalia</title>
+    <meta content="20somalia" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/20/world/africa/20somalia.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820021"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="indexing_service" type="descriptor">Islam</classifier>
+        <location class="indexing_service">Somalia</location>
+        <location class="indexing_service">Mogadishu (Somalia)</location>
+        <person class="indexing_service">Gettleman, Jeffrey</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Somalia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Somalia</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Islam</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Somalia</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E0DA1E30F933A15752C0A9619C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Insurgents Attack Palace In Somalia</hl1>
+        <hl2 class="online_headline">Insurgents Attack Palace in Somalia</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFFREY GETTLEMAN; Yuusuf Maxamuud contributed reporting from Mogadishu, Somalia.</byline>
+      <byline class="normalized_byline">Gettleman, Jeffrey</byline>
+      <dateline>NAIROBI, Kenya, Jan. 19</dateline>
+      <abstract>
+        <p>Insurgents blast Somalia's presidential palace in Mogadishu with heavy explosives, but it appears that no one was hurt (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Insurgents blasted Somalia's presidential palace with heavy explosives on Friday night, Somali officials said, but it appeared that no one was hurt.</p>
+        <p>It was the first time since Somalia's transitional government took control of Mogadishu, the capital, three weeks ago that the palace had come under attack.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Insurgents blasted Somalia’s presidential palace with heavy explosives on Friday, but it appeared that no one was hurt.</p>
+      </block>
+      <block class="full_text">
+        <p>Insurgents blasted Somalia's presidential palace with heavy explosives on Friday night, Somali officials said, but it appeared that no one was hurt.</p>
+        <p>It was the first time since Somalia's transitional government took control of Mogadishu, the capital, three weeks ago that the palace had come under attack.</p>
+        <p>Abdirizak Adam Hassan, chief of staff for President Abdullahi Yusuf Ahmed, said 5 to 10 insurgents had detonated the explosives, possibly mortars, near the palace walls and then ran away.</p>
+        <p>''We don't know who they were,'' Mr. Hassan said. ''But I think it is safe to say they were people not satisfied with the government.''</p>
+        <p>The explosions set off an intense gun battle, witnesses said, with government troops spraying machine-gun fire into the dark streets around the palace, which is perched on a hill overlooking much of Mogadishu.</p>
+        <p>Insurgent attacks on Somalia's government forces seem to be intensifying. Last month, the transitional government, with the help of several thousand Ethiopian troops, routed Islamist forces that had controlled much of Somalia. The Islamists have vowed to regroup, and many members of the larger clans in Mogadishu still support them.</p>
+        <p>Somalia's government concedes that it does not have the resources to maintain security in the capital, and Somali officials are urging international peacekeepers to arrive soon.</p>
+        <p>Ethiopia's prime minister, Meles Zenawi, told the BBC on Friday that he would withdraw the first Ethiopian troops ''in the next few days.''</p>
+        <p>African Union diplomats on Friday discussed a plan to send 7,700 African peacekeepers to Somalia for a six-month mission that would eventually be taken over by the United Nations. So far, only Uganda has stepped forward. Lawmakers from Uganda's governing party on Thursday approved the deployment of 1,500 troops and now Uganda's full Parliament must approve the decision.</p>
+        <p>''As Africans, we feel it is our duty to run to the rescue of any of our brothers in trouble,'' said Harry Bakowa, a governing party member, according to The Associated Press.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

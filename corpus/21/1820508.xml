@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>City Hires Coordinator Of Food Policy</title>
+    <meta content="21food" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/nyregion/21food.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820508"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Cardwell, Diane</person>
+        <person class="indexing_service">Thomases, Benjamin</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Administration for Children's Services</org>
+        <org class="online_producer">Department of Homeless Services</org>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE4D61E30F932A15752C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>City Hires Coordinator Of Food Policy</hl1>
+        <hl2 class="online_headline">City Hires Coordinator of Food Policy</hl2>
+      </hedline>
+      <byline class="print_byline">By DIANE CARDWELL</byline>
+      <byline class="normalized_byline">Cardwell, Diane</byline>
+      <abstract>
+        <p>Benjamin Thomases is appointed New York City's first food policy coordinator by Mayor Michael R Bloomberg; will oversee task force that will help agencies develop and coordinate range of programs and ensure that those serving meals buy nutritious food (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The city has hired Benjamin Thomases, an advocate for the poor, as its first food policy coordinator, officials confirmed Friday.</p>
+        <p>Mr. Thomases, 31, is a graduate of Columbia Business School and has worked for nonprofit organizations focused on helping low-income people.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The city has hired Benjamin Thomases, an advocate for the poor, as its first food policy coordinator, officials confirmed Friday.</p>
+      </block>
+      <block class="full_text">
+        <p>The city has hired Benjamin Thomases, an advocate for the poor, as its first food policy coordinator, officials confirmed Friday.</p>
+        <p>Mr. Thomases, 31, is a graduate of Columbia Business School and has worked for nonprofit organizations focused on helping low-income people.</p>
+        <p>Officials announced the creation of the food coordinator job in November, as part of an aggressive campaign to combat hunger and unhealthy eating. Although Mayor Michael R. Bloomberg has made the battle against poverty a high-profile focus of his second term, it was not until City Council Speaker Christine C. Quinn began pushing for such a position that the administration responded.</p>
+        <p>In his new role, Mr. Thomases is to oversee a task force that will not only help agencies develop and coordinate a range of programs, but also ensure that those agencies serving meals -- like the Department for the Aging, the Administration for Children's Services and the Department of Homeless Services -- buy nutritious food.</p>
+        <p>The panel is to include representatives of Ms. Quinn's office along with officials from the education and health departments.</p>
+        <p>Mr. Thomases' duties will also include figuring out ways to ensure that those eligible for food stamps are able to get them and overseeing a plan to expand to 1,000 stores a program to encourage bodegas in low-income areas to offer healthier products like low-fat milk and fresh vegetables.</p>
+        <p>Mr. Thomases attended the social enterprise program at Columbia Business School and completed a summer internship in the real estate division of the Greyston Foundation, a nonprofit group devoted to community development in Yonkers.</p>
+        <p>After graduating in 2003, he became president of FirstSource Staffing, which, as part of the Fifth Avenue Committee in Brooklyn, helps find jobs for unemployed people with difficulties entering the work force.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

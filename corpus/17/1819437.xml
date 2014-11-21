@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A DVD Copy Protection Is Overcome by Hackers</title>
+    <meta content="17movie" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/17/technology/17movie.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819437"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Dvd (Digital Versatile Disk)</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <org class="indexing_service">Hd Dvd Group</org>
+        <org class="indexing_service">Blu-Ray Disc Association</org>
+        <person class="indexing_service">Stone, Brad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE0D61030F934A25752C0A9619C8B63" item-length="663" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A DVD Copy Protection Is Overcome by Hackers</hl1>
+        <hl2 class="online_headline">A DVD Copy Protection Is Overcome by Hackers</hl2>
+      </hedline>
+      <byline class="print_byline">By BRAD STONE</byline>
+      <byline class="normalized_byline">Stone, Brad</byline>
+      <dateline>SAN FRANCISCO, Jan. 16</dateline>
+      <abstract>
+        <p>Hackers defeat anti-piracy software protecting high-resolution movies in HD DVD format and begin to distribute copies online; move may prompt companies to improve copy protection and may prompt studios to rethink alliances in war between HD DVD and Blu-ray formats (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 2005 science fiction film ''Serenity'' portrayed a ragtag crew of space pirates fighting to unravel the mysteries of their galaxy.</p>
+        <p>Reality may now be mimicking fiction.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A loose-knit coalition of hackers around the world defeated the antipiracy software protecting several high-resolution movies in the HD DVD format and began distributing copies of the films.</p>
+      </block>
+      <block class="full_text">
+        <p>The 2005 science fiction film ''Serenity'' portrayed a ragtag crew of space pirates fighting to unravel the mysteries of their galaxy.</p>
+        <p>Reality may now be mimicking fiction.</p>
+        <p>Last weekend, a loose-knit coalition of hackers around the world defeated the antipiracy software protecting several high-resolution movies in the HD DVD format. They then began distributing copies of the films -- starting with Universal Pictures' ''Serenity'' -- using BitTorrent, a popular file-sharing tool.</p>
+        <p>The move could send the technology companies behind the new wave of advanced DVDs scrambling back to the drawing board to improve their copy protection, and prompt Hollywood studios to rethink their alliances in the war between the HD DVD and Blu-ray formats.</p>
+        <p>The HD DVD standard is backed by Toshiba, Microsoft and Intel and uses copy protection technology known as the Advanced Access Content System. The rival Blu-ray format, supported by Sony, Hewlett-Packard and Dell, uses the same system but adds a level of software that acts as a backup when the first level is compromised, so it is considered to be slightly more secure.</p>
+        <p>A spokeswoman for Universal, the only film studio to back the HD DVD format exclusively, said no executives were available to discuss the HD DVD issue.</p>
+        <p>The new intrusions came less than a month after a programmer calling himself Muslix64 announced in a Web forum that he had unraveled at least part of the HD DVD protection system. Muslix64 released free software that allows users to insert HD DVDs into their computers and make copies of those films without the original encryption. However, to make it work, users still needed a special title key, generated by the A.A.C.S. software, for each movie they were trying to copy.</p>
+        <p>Muslix did not provide any title keys -- in a sense challenging others to finish his work. On Saturday, the response came in the form of dozens of keys for movies like ''King Kong,'' ''Mission Impossible: 3'' and ''Superman Returns,'' posted on Web forums like those at Doom9.net. At least two Web sites were created to provide lists of the keys.</p>
+        <p>Security experts said that the hackers appeared to have discovered the secret keys on their own computers -- stashed there by WinDVD, a commercial program for playing DVDs.</p>
+        <p>Michael Ayers, a lawyer for Toshiba who is chairman of the business group of the trade organization that administers A.A.C.S., acknowledged that the intrusion was serious, but said he viewed it as an attack on DVD-playing software and not the overall protection system for HD DVD.</p>
+        <p>''It's like somebody picked the lock on an individual house, but he has not discovered the secrets to lock-making at the master padlock company,'' Mr. Ayers said.</p>
+        <p>He added that A.A.C.S. was explicitly designed so that compromised players and programs like WinDVD can be disabled remotely by revoking their licenses. He said the A.A.C.S. group might take that approach after an investigation.</p>
+        <p>Bill Rosenblatt, president of the consulting firm GiantSteps which specializes in content protection issues, said the intrusion was less of a crisis than the 1999 defeat of the encryption that protects standard DVDs, which allowed movie files to be freely copied and shared online.</p>
+        <p>''It's a pretty nice victory for hackers, but this newer scheme was designed to fail more gracefully and not be as brittle as the DVD scheme,'' Mr. Rosenblatt said.</p>
+        <p>However, some security experts said the intrusions were more serious. Bruce Schneier, the chief technology officer of the security company BT Counterpane, said it was unclear what effect revoking licenses would have. If new discs of the movies are updated with new title codes, the old discs in stores will still be vulnerable. And hackers will surely redouble efforts to crack the new discs.</p>
+        <p>Mr. Schneier said the new DVDs would inevitably be vulnerable to hacking. ''Data is inherently copyable, just as water is inherently wet,'' he said. ''All the technology companies are doing is putting in tricks to make it harder to copy. But all they are is tricks.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

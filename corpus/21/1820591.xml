@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Good Story in Green Bay</title>
+    <meta content="21inbox-3" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820591"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <location class="indexing_service">Green Bay (Wis)</location>
+        <org class="indexing_service">Green Bay Packers</org>
+        <org class="indexing_service">New York Giants</org>
+        <person class="indexing_service">Zimmerman, Louann</person>
+        <person class="indexing_service">Ruegamer, Grey</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E1DE1F30F932A15752C0A9619C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Good Story in Green Bay</hl1>
+      </hedline>
+      <abstract>
+        <p>Louann Zimmerman letter commends New York Giants receiver Grey Ruegamer, a former Green Bay Packer, continues to support Green Bay (Wis) community despite new team (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''A Giant Receives a Second Chance, Twice,'' Jan. 6: The former Packer Grey Ruegamer, a backup offensive lineman for the Giants, still continues to give chances. On his way back from New York to California for the off-season, he and his wife, Lori, will be checking in at our school, Elmore Elementary in Green Bay, Wis., to see if students are still following criteria to become Ruegy Readers.</p>
+        <p>Grey and Lori have donated several thousand dollars in books for the library in our school in a program that promotes participation, attendance, good behavior and reading. He began this program as a Packer and continued it this season.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''A Giant Receives a Second Chance, Twice,'' Jan. 6: The former Packer Grey Ruegamer, a backup offensive lineman for the Giants, still continues to give chances. On his way back from New York to California for the off-season, he and his wife, Lori, will be checking in at our school, Elmore Elementary in Green Bay, Wis., to see if students are still following criteria to become Ruegy Readers.</p>
+        <p>Grey and Lori have donated several thousand dollars in books for the library in our school in a program that promotes participation, attendance, good behavior and reading. He began this program as a Packer and continued it this season.</p>
+        <p>Elmore celebrates his second chances and the chances he continues to give. The N.F.L. needs players like Grey Ruegamer.</p>
+        <p>LouAnn Zimmerman  Green Bay, Wis.</p>
+        <p>The writer is a library media specialist at Elmore Elementary School.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

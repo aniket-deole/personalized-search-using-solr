@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gun Ownership Linked to Higher Homicide Rates</title>
+    <meta content="23cons" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/health/23cons.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820813"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: CONSEQUENCES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Firearms</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <org class="indexing_service">Harvard University</org>
+        <org class="indexing_service">Social Science and Medicine (Journal)</org>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <person class="indexing_service">Miller, Matthew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EEDB1F30F930A15752C0A9619C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gun Ownership Linked to Higher Homicide Rates</hl1>
+        <hl2 class="online_headline">Consequences: Gun Ownership Linked to Higher Homicide Rates</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Matthew Miller of Harvard University School of Public Health leads study that finds states with highest rates of homicide are also states with greatest number of guns in home; research is published in journal Social Science and Medicine; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>States with the greatest number of guns in the home also have the highest rates of homicide, a new study finds.</p>
+        <p>The study, in the February issue of Social Science and Medicine, looked at gun ownership in all 50 states and then compared the results with the number of people killed over a three-year period.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>States with the greatest number of guns in the home also have the highest rates of homicide, a new study finds.</p>
+      </block>
+      <block class="full_text">
+        <p>States with the greatest number of guns in the home also have the highest rates of homicide, a new study finds.</p>
+        <p>The study, in the February issue of Social Science and Medicine, looked at gun ownership in all 50 states and then compared the results with the number of people killed over a three-year period.</p>
+        <p>The research, the authors said, ''suggests that household firearms are a direct and an indirect source of firearms used to kill Americans both in their homes and on the streets.''</p>
+        <p>The researchers, led by Matthew Miller of the Harvard School of Public Health, drew on data gathered by the federal Centers for Disease Control and Prevention. In 2001, the agency surveyed more than 200,000 people and asked them, among other questions, whether they had a gun in or near the home.</p>
+        <p>In states in the highest quarter of gun ownership, the study found, the overall homicide rate was 60 percent higher than in states in the lowest quarter. The rate of homicides involving guns was more than twice as high.</p>
+        <p>Among the possible explanations for the higher homicide rates, the study said, is that states with high gun ownership tend to make it easier to buy guns. There are also more guns that can be stolen. And the presence of a gun may allow arguments and fights to turn fatal.</p>
+        <p>The researchers said they could not prove that the guns caused the increase in homicides, only that there was a link. It may be, they said, that people are more likely to buy guns in states where violence is already high. But they said that explanation did not appear to be supported by their findings.</p>
+        <p>VITAL SIGNS: CONSEQUENCES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

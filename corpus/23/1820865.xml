@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Veteran of Lebanon Campaigns Is Set to Lead Israeli Army</title>
+    <meta content="23israel" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/world/middleeast/23israel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820865"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <location class="indexing_service">Israel</location>
+        <location class="indexing_service">Lebanon</location>
+        <org class="indexing_service">Hezbollah</org>
+        <person class="indexing_service">Myre, Greg</person>
+        <person class="indexing_service">Olmert, Ehud (Prime Min)</person>
+        <person class="indexing_service">Peretz, Amir (Min)</person>
+        <person class="indexing_service">Ashkenazi, Gabi (Gen)</person>
+        <person class="indexing_service">Halutz, Dan (Lt Gen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Lebanon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Lebanon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <location class="online_producer">Israel</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E3D91F30F930A15752C0A9619C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Veteran of Lebanon Campaigns Is Set to Lead Israeli Army</hl1>
+        <hl2 class="online_headline">Veteran of Lebanon Campaigns Is Set to Lead Israeli Army</hl2>
+      </hedline>
+      <byline class="print_byline">By GREG MYRE</byline>
+      <byline class="normalized_byline">Myre, Greg</byline>
+      <dateline>JERUSALEM, Jan. 22</dateline>
+      <abstract>
+        <p>Israeli Prime Min Ehud Olmert and Defense Min Amir Peretz decide to appoint Gen Gabi Ashkenazi as Israeli military's new chief of staff; he will replace Lt Gen Dan Halutz, who resigned after heavy criticism of his handling of war in Lebanon last summer; in Israel, where security is paramount issue, army chief is one of country's most important and closely scrutinized positions (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A former infantry officer who commanded Israeli troops against Hezbollah in southern Lebanon for many years was appointed Monday as the Israeli military's new chief of staff.</p>
+        <p>Gabi Ashkenazi, 52, a former general and currently the director general of the Defense Ministry, was chosen to replace Lt. Gen. Dan Halutz, who resigned last week after heavy criticism of his handling of the war in Lebanon last summer.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A former infantry officer who commanded Israeli troops against Hezbollah in southern Lebanon for many years was appointed as the military’s new chief of staff.</p>
+      </block>
+      <block class="full_text">
+        <p>A former infantry officer who commanded Israeli troops against Hezbollah in southern Lebanon for many years was appointed Monday as the Israeli military's new chief of staff.</p>
+        <p>Gabi Ashkenazi, 52, a former general and currently the director general of the Defense Ministry, was chosen to replace Lt. Gen. Dan Halutz, who resigned last week after heavy criticism of his handling of the war in Lebanon last summer.</p>
+        <p>Prime Minister Ehud Olmert and Defense Minister Amir Peretz agreed on the appointment at a meeting on Monday evening, the prime minister's office said. The nomination must still be approved by the cabinet and a government committee.</p>
+        <p>In a country where security is the paramount issue, the army chief is one of the country's most important and closely scrutinized positions. A vast majority of Israelis were disappointed with the inconclusive outcome of the one-month war last year with Hezbollah, the radical Islamic group.</p>
+        <p>Since then, the Israeli news media have engaged in almost daily speculation over possible shake-ups in the military. Two senior officers resigned before General Halutz announced last week that he also was stepping down.</p>
+        <p>Mr. Olmert has also faced intense criticism and has seen his poll ratings crash. In addition, Mr. Peretz has come under pressure to resign, but insists that he will not.</p>
+        <p>The prime minister has appointed a committee to examine how the war was handled. In response to a petition by a private group, the High Court of Justice on Monday ordered Mr. Olmert's government to explain why appointing a new chief of staff should not be delayed until the committee presents its report. But the nomination indicated that Mr. Olmert plans to press ahead.</p>
+        <p>General Ashkenazi began his military service in 1972. Last July, he was appointed the Defense Ministry's director general.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

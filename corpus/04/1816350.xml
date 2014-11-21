@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="04btmcxns-2" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816350"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Company and Organization Profiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Private and Sectarian Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Scholarships and Fellowships</classifier>
+        <org class="indexing_service">Better Chance (Orgn)</org>
+        <person class="indexing_service">Timmons, Sandra E</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company and Organization Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Private and Sectarian Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E7D61730F937A35752C0A9619C8B63" item-length="45" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 3 column about nonprofit group A Better Chance misstated surname of its president; she is Sandra E Timmons</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The On Education column yesterday, about A Better Chance, a nonprofit group that helps minority children apply to private day and boarding high schools, misstated the surname of the president of the group and omitted her middle initial. She is Sandra E. Timmons, not Simmons.</p>
+      </block>
+      <block class="full_text">
+        <p>The On Education column yesterday, about A Better Chance, a nonprofit group that helps minority children apply to private day and boarding high schools, misstated the surname of the president of the group and omitted her middle initial. She is Sandra E. Timmons, not Simmons.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

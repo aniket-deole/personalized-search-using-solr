@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Shifting Business of Renting Movies, by the Disc or the Click</title>
+    <meta content="16netflix" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819217"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Dvd (Digital Versatile Disk)</classifier>
+        <org class="indexing_service">Netflix Inc</org>
+        <org class="indexing_service">Blockbuster Inc</org>
+        <person class="indexing_service">Hastings, Reed</person>
+        <person class="indexing_service">Helft, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E5DA1030F935A25752C0A9619C8B63" item-length="1492" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Shifting Business of Renting Movies, by the Disc or the Click</hl1>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <dateline>SAN FRANCISCO, Jan. 15</dateline>
+      <abstract>
+        <p>Netflix will introduce streaming video service free to subscribers as answer to growing number of download services; increased competition from online retailers as well as movie rental leader Blockbuster worries investors about Netflix's future; chief executive Reed Hastings believes DVD market will continue to be strong; photos; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wikipedia, the online encyclopedia, lists more than five dozen personalities whose obituaries were published prematurely. Someone may want to add Netflix to that list.</p>
+        <p>The impending death of the company, with its online system for renting DVDs delivered by mail, was predicted late in 2002, when Wal-Mart said it would enter the business; again last year, when Apple and Amazon announced movie-downloading services; and again last week, after the introduction of a series of products and services intended to bring Internet video to television sets.</p>
+      </block>
+      <block class="full_text">
+        <p>Wikipedia, the online encyclopedia, lists more than five dozen personalities whose obituaries were published prematurely. Someone may want to add Netflix to that list.</p>
+        <p>The impending death of the company, with its online system for renting DVDs delivered by mail, was predicted late in 2002, when Wal-Mart said it would enter the business; again last year, when Apple and Amazon announced movie-downloading services; and again last week, after the introduction of a series of products and services intended to bring Internet video to television sets.</p>
+        <p>But Wal-Mart left the online rental business in 2005 and now refers customers to Netflix. Meanwhile, none of the movie-downloading services have gained much traction with consumers, the notion of taking Internet video content to TV sets remains a work in progress, and Netflix keeps signing up new customers at a fast clip. It was expected to end 2006 with 6.3 million subscribers and nearly $1 billion in revenue, or about 12 percent of the $8.4 billion annual DVD rental market.</p>
+        <p>''We've gotten used to it,'' Netflix's chief executive, Reed Hastings, said of the doomsday predictions. But Mr. Hastings also said he understood why questions about his business kept coming up. ''Because DVD is not a hundred-year format, people wonder what will Netflix's second act be.''</p>
+        <p>On Tuesday, Mr. Hastings will begin to answer that question. Netflix is introducing a service to deliver movies and television shows directly to users' PCs, not as downloads but as streaming video, which is not retained in computer memory. The service, which is free to Netflix subscribers, is meant to give the company a toehold in the embryonic world of Internet movie distribution.</p>
+        <p>But having a second act to talk about is not likely to end questions about Netflix's future. Netflix shares dropped 6.3 percent on Friday to $22.71 after a JPMorgan Securities analyst downgraded the stock, citing increased competition. They are down more than 12 percent since Jan. 1. And the company said last year that the service would cost it about $40 million in 2007, an outlook that has not sat well with some investors.</p>
+        <p>''There's clearly a strong demand for watching movies,'' said Brian Pitz, an analyst with Banc of America Securities. ''But the company's earnings are going to be more negatively impacted,'' said Mr. Pitz, who has a sell recommendation on Netflix shares.</p>
+        <p>Netflix is also entering a more crowded market that includes not only the likes of Apple and Amazon, but also MovieLink, CinemaNow and video-on-demand services offered by cable companies. And while Netflix's DVD rental business has thrived in part because of the company's superior logistics, that competitive edge will not mean much in the world of digital distribution.</p>
+        <p>Still, Mr. Hastings said Netflix has a product that compares well with those of his competitors. He particularly emphasized Netflix's business model -- free to subscribers -- and its focus on instant gratification.</p>
+        <p>Last week, Mr. Hastings demonstrated the system at Netflix's headquarters in Los Gatos, Calif. On a laptop PC, he pulled up a Netflix Web page where some titles displayed a ''Play'' button in addition to the company's familiar ''Add'' button, which adds movies to a subscriber's queue for mailing. Within a few seconds of hitting the ''Play'' button, the opening credits of ''The World's Fastest Indian'' began rolling. The service uses streaming technology that Netflix built on top of Microsoft software.</p>
+        <p>First-time users of the service must download a special piece of software, which, if all goes well, also takes only a few seconds. (When a reporter tried the system at home, however, the process stalled because of a mismatch between the version of Microsoft's antipiracy software expected by the Netflix viewer and the one loaded in the PC, and it took about 15 minutes to fix the problem with the help of a customer-support specialist. A Netflix spokesman said the problem was known, but occurred only rarely.)</p>
+        <p>Like most other electronic distribution services, Netflix's system will work initially only with a limited catalog -- about 1,000 movies and television shows, only a tiny fraction of the more than 70,000 titles that Netflix offers for rent. It offers titles from NBC Universal, Sony Pictures, MGM, 20th Century Fox, Paramount Pictures, Warner Brothers and others.</p>
+        <p>The service, which will be introduced over six months, works only on recent versions of Windows and Internet Explorer. Over time, Mr. Hastings hopes to expand the catalog of titles and make the service available on other hardware and software combinations, including set-top boxes, television screens and portable devices.</p>
+        <p>The bulk of Netflix's subscribers, who pay $18 a month and are allowed to keep three movies at home at all times, will receive 18 hours of free watching every month. Those with cheaper plans will have fewer free hours and those with premium services will receive more.</p>
+        <p>By comparison, typical movie rentals cost $3 to $4 on Amazon, and $3 to $5 on MovieLink, though special promotions are available. Mr. Hastings said he chose the instant delivery afforded by streaming technology over downloads, which can take a while, because it would encourage subscribers to use the system to browse the catalog and discover new movies. If they do not like a movie, they can stop it and will be charged only for the minutes they actually watched.</p>
+        <p>Yet even as he touts the benefits of his own service, Mr. Hastings does not believe that electronic distribution, be it through downloads or streaming services, is ready for prime time.</p>
+        <p>''The market is microscopic,'' Mr. Hastings said. ''DVD is going to be a very big market for a very long time.''</p>
+        <p>In the case of online movies, two forces, one technological and one commercial, are keeping the market from developing more quickly. On the technological front, it is still difficult to deliver various Internet video formats to a TV screen. And on the commercial front, movie studios are leery of piracy and, more important, are fearful of cannibalizing their existing distribution businesses.</p>
+        <p>Frances Manfredi, senior vice president for cable distribution at NBC Universal, said her company wanted to provide video content ''where consumers want it, when they want it, how they want it.'' But, she added, ''we really recognize that the traditional distribution businesses of cable and syndication are our primary businesses, certainly with respect to revenue generation.''</p>
+        <p>Ms. Manfredi said the agreement with Netflix, which includes classic TV shows like ''Kojak'' and ''Columbo,'' as well as more recent ones like ''The Office,'' and ''Law &amp; Order Special Victims Unit,'' and some 350 movies including ''The Motorcycle Diaries,'' would deliver new revenue without hurting existing businesses.</p>
+        <p>Some analysts believe the hurdles to mass digital distribution will not disappear any time soon. And if Mr. Hastings is right about the staying power of DVDs, his biggest challenge in the short term is likely to come from a business that appeared to be in freefall until recently: Blockbuster.</p>
+        <p>Facing competition from Netflix, and from growing DVD sales at big-box retailers, Blockbuster shares began a steady slide in late 2003, from more than $22 to a low of $3.20 in March last year. In 2005, the company eliminated late fees -- an irritant to many customers, and the issue that had prompted Mr. Hastings to found Netflix. The move cost Blockbuster hundreds of millions in revenue.</p>
+        <p>But Blockbuster's own online rental service, introduced in 2004, has finally taken off.</p>
+        <p>With aggressive promotion of a new service called Total Access, which costs the same as Netflix's service for three movies, and allows subscribers to exchange movies in stores, Blockbuster has added a staggering 700,000 subscribers since Nov. 1. After the company announced that it ended 2006 with 2.2 million subscribers, Blockbuster shares now stand at $6.43, up from $5.48 at the beginning of the year.</p>
+        <p>''I wouldn't be surprised to see our online subscribers double by the end of 2007,'' John F. Antioco, the chief executive of Blockbuster, said. Mr. Antioco said Blockbuster was planning to offer a digital distribution service later this year. ''We have everything that Netflix has, plus the immediate gratification of never having to wait for a movie.''</p>
+        <p>It is unclear whether Blockbuster's growth has been at the expense of Netflix, though a first glimpse into that may be offered next week, when Netflix reports fourth-quarter earnings.</p>
+        <p>The two companies are fighting not just in the marketplace. Netflix has sued Blockbuster, accusing it of patent infringement, and Blockbuster has countersued Netflix, alleging antitrust violations.</p>
+        <p>Mr. Hastings played down the competition. ''We have a lot of room to grow,'' he said, adding that he expects Blockbuster's online business to grow as well. ''Our relative execution will determine what the share split is'' between Netflix and Blockbuster, he added.</p>
+        <p>In the meantime, he said, Netflix's digital delivery service represents insurance against technological obsolescence, and against more predictions of Netflix's demise.</p>
+        <p>''We have seen so many Silicon Valley companies follow a single generation of computing,'' Mr. Hastings said. ''Investors are rightfully scared of single-model companies.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Renewed Call to Protect Driver's License Data</title>
+    <meta content="28njweekNJ-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822190"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Driver's Licenses</classifier>
+        <classifier class="indexing_service" type="descriptor">Nightclubs and Cabarets</classifier>
+        <classifier class="indexing_service" type="descriptor">Scanning Devices</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Greenstein, Linda</person>
+        <person class="indexing_service">Randall, David K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nightclubs and Cabarets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E7DF143FF93BA15752C0A9619C8B63" item-length="352" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Renewed Call to Protect Driver's License Data</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID K. RANDALL</byline>
+      <byline class="normalized_byline">Randall, David K</byline>
+      <abstract>
+        <p>New Jersey Assemblywoman Linda Greenstein, in wake of revelation that Trenton nightclub used electronic scanners to collect and store personal information embedded in driver's licenses of almost 15,000 customers, plans to introduce legislation that would prohibit businesses from doing so without consent (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The revelation that a Trenton nightclub called Kat Man Du used electronic scanners to collect and store personal information embedded in the driver's licenses of almost 15,000 customers has spurred calls for stronger consumer privacy laws.</p>
+        <p>Assemblywoman Linda R. Greenstein, a Democrat from Monroe, plans to introduce legislation within two weeks that would prohibit businesses from collecting a customer's personal information from a driver's license without consent.</p>
+      </block>
+      <block class="full_text">
+        <p>The revelation that a Trenton nightclub called Kat Man Du used electronic scanners to collect and store personal information embedded in the driver's licenses of almost 15,000 customers has spurred calls for stronger consumer privacy laws.</p>
+        <p>Assemblywoman Linda R. Greenstein, a Democrat from Monroe, plans to introduce legislation within two weeks that would prohibit businesses from collecting a customer's personal information from a driver's license without consent.</p>
+        <p>''In our technological world, all our data is out there and up for grabs,'' Ms. Greenstein said.</p>
+        <p>The legislation would clarify the state's Driver's Privacy Protection Act to exclude collecting information for marketing as a permissible purpose, she said. The bill follows a hearing before the Assembly Judiciary Committee, which Ms. Greenstein heads, that focused on privacy.</p>
+        <p>Ronald K. Chen, the state's public advocate, said in an interview that ''it's not quite clear to me why a bar would ever need to do this other than to look at age.''</p>
+        <p>''We all know that once something is in the system,'' he said, ''the chances of it ever being completely eliminated is remote.''</p>
+        <p>In 2004, New Jersey updated its licenses to include a digital strip that, when swiped, displays the holder's name, address and identifying characteristics, said Michael P. Horan, a spokesman for the New Jersey Motor Vehicle Commission. This information is useful to marketers for creating, among other things, mailing lists for promotions and a demographic profile of their customer base.</p>
+        <p>While it is against federal law to share or sell information from driver's licenses, nothing prevents New Jersey businesses from storing such information.</p>
+        <p>Some businesses see nothing wrong with it. ''It's a very competitive market,'' said Lew Rothbart, the executive director of the New Jersey Licensed Beverage Association, a trade group representing bars and nightclubs. ''If you have a database of potential customers who have been in your establishment to market to, that's helpful.''</p>
+        <p>Mr. Horan said that preventing commercial access to data gleaned from driver's licenses will be one focus of a meeting scheduled for Wednesday of the former Fix DMV Commission, which is being reconvened.</p>
+        <p>DAVID K. RANDALL</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

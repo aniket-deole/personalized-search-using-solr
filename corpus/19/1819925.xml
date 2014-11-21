@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Primitivism Revisited -- After the End of an Idea</title>
+    <meta content="19gall-2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819925"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Cotter, Holland</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E4DC1E30F93AA25752C0A9619C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Primitivism Revisited -- After the End of an Idea</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+      <byline class="normalized_byline">Cotter, Holland</byline>
+      <abstract>
+        <p>Holland Cotter reviews group show at Sean Kelly gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sean Kelly  528 West 29th Street, Chelsea  Through Jan. 27</p>
+        <p>In 1984 '' 'Primitivism' in 20th-Century Art'' at the Museum of Modern Art caused a hullabaloo, not because the show was good, but because it was perceived to be so wrong. In tracing the relationships between Western Modernism and the arts of Africa, Oceania and the Americas, the curators took a universalist approach. They gave short shrift to context and cultural meaning and assigned non-Western art a supporting role in the story of Western Modernism.</p>
+      </block>
+      <block class="full_text">
+        <p>Sean Kelly  528 West 29th Street, Chelsea  Through Jan. 27</p>
+        <p>In 1984 '' 'Primitivism' in 20th-Century Art'' at the Museum of Modern Art caused a hullabaloo, not because the show was good, but because it was perceived to be so wrong. In tracing the relationships between Western Modernism and the arts of Africa, Oceania and the Americas, the curators took a universalist approach. They gave short shrift to context and cultural meaning and assigned non-Western art a supporting role in the story of Western Modernism.</p>
+        <p>By the early 1980s this perspective was badly out of date. Multiculturalist thinking was redefining the most basic terms: ''art,'' ''African, ''Modernism,'' ''universal.'' Today these terms and ideas continue to be tested, revised and expanded. ''Primitivism Revisited'' gives some sense of those developments.</p>
+        <p>Organized by 18 graduate students from a class taught by Susan Vogel, professor of African art and architecture at Columbia University, and coordinated by Olivia Powell and Dan Leers, the show breaks down into several thematic sections, with two students in charge of each. Mixing contemporary art by Western and African-born artists with examples of -- these labels are up for grabs -- traditional and tourist art, the show asks telling questions about authenticity, spiritual utility and cross-cultural perception.</p>
+        <p>If the themes aren't new, a certain 21st-century way of approaching them, in a balanced back-and-forth between Western and non-Western cultures, feels fresh. Not coincidentally, all the art looks invigorated and somehow added-to.</p>
+        <p>A vampy Elizabeth Peyton male beauty matched with a carved Baule spirit spouse suggest different, but not necessarily polar, embodiments of desire. Seeing a documentary video of a traditional masquerade in Burkina Faso next to a film of a masked performance organized by the artist Pedro Lasch in Jackson Heights, Queens, is a reminder that Africa had performance art, conceptual art, installation art, body art and sound art long before the modern West cooked up such labels.</p>
+        <p>HOLLAND COTTER</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'Idol' Sets Fox Record</title>
+    <meta content="18arts-4" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819722"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Fox Entertainment Group</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <object.title class="indexing_service">American Idol (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E3D81130F93BA25752C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'Idol' Sets Fox Record</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>Fox wins ratings for Tuesday night with return of hit reality series American Idol (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The return of ''American Idol'' on Tuesday delivered record ratings for Fox, as 37.3 million viewers watched the series' sixth season premiere from 8 to 10 p.m., according to Nielsen's estimates. No other Fox premiere has ever garnered more total viewers; among adults 18 to 49, it tied the 1997 ''X-Files'' season debut. For the night, Fox outdrew CBS, NBC, ABC, and the CW combined by 78 percent in the 18-to-49 demographic. CBS was second over all, buoyed by ''NCIS'' at 8 (15.9 million). NBC ranked third as ''Law and Order: Special Victims Unit'' led at 10 (14.1 million). On Friday, the Disney Channel posted its second-most-watched day on record as ''Jump In!'' with Corbin Bleu (''High School Musical'') and Keke Palmer (''Akeelah and the Bee''), drew 8.2 million viewers, the most for a Disney Channel original movie. Following it, 7.6 million viewers tuned in for the premiere of ''Cory in the House,'' the best start for a Disney series.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>The return of ''American Idol'' on Tuesday delivered record ratings for Fox, as 37.3 million viewers watched the series' sixth season premiere from 8 to 10 p.m., according to Nielsen's estimates. No other Fox premiere has ever garnered more total viewers; among adults 18 to 49, it tied the 1997 ''X-Files'' season debut. For the night, Fox outdrew CBS, NBC, ABC, and the CW combined by 78 percent in the 18-to-49 demographic. CBS was second over all, buoyed by ''NCIS'' at 8 (15.9 million). NBC ranked third as ''Law and Order: Special Victims Unit'' led at 10 (14.1 million). On Friday, the Disney Channel posted its second-most-watched day on record as ''Jump In!'' with Corbin Bleu (''High School Musical'') and Keke Palmer (''Akeelah and the Bee''), drew 8.2 million viewers, the most for a Disney Channel original movie. Following it, 7.6 million viewers tuned in for the premiere of ''Cory in the House,'' the best start for a Disney series.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

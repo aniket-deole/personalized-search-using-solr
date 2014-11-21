@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mr. Noodle</title>
+    <meta content="09tue3" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/opinion/09tue3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817568"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="APPRECIATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pasta</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <org class="indexing_service">Nissin Food Products Ltd</org>
+        <person class="indexing_service">Downes, Lawrence</person>
+        <person class="indexing_service">Ando, Momofuku</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan/Osaka</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pasta</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <location class="online_producer">Japan</location>
+        <location class="online_producer">Osaka (Japan)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E1D81530F93AA35752C0A9619C8B63" item-length="495" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mr. Noodle</hl1>
+        <hl2 class="online_headline">Mr. Noodle</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE DOWNES</byline>
+      <byline class="normalized_byline">Downes, Lawrence</byline>
+      <abstract>
+        <p>Editorial appreciation by Lawrence Downes of Momofuku Ando, who invented ramen noodles to provide cheap, decent food for working class; notes his company, Nissin Foods, claims instant ramen satsifies more than 100 million people a day, for as little as 20 cents a serving</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The news last Friday of the death of the ramen noodle guy surprised those of us who had never suspected that there was  such an individual. It was easy to assume that instant noodle soup was a team invention, one of those depersonalized corporate miracles, like the Honda Civic, the Sony Walkman and Hello Kitty, that sprang from that ingenious consumer-product collective known as postwar Japan.</p>
+        <p>But no. Momofuku Ando, who died in Ikeda, near Osaka, at 96, was looking for cheap, decent food for the working class when he invented ramen noodles all by himself in 1958. His product -- fried, dried and sold in little plastic-wrapped bricks or foam cups -- turned the company he founded, Nissin Foods, into a global giant. According to the company's Web site, instant ramen satisfies more than 100 million people a day. Aggregate servings of the company's signature brand, Cup Noodles, reached 25 billion worldwide in 2006.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The news on Friday of the death of the ramen noodle guy surprised those of us who had never suspected that there was such an individual.</p>
+      </block>
+      <block class="full_text">
+        <p>The news last Friday of the death of the ramen noodle guy surprised those of us who had never suspected that there was  such an individual. It was easy to assume that instant noodle soup was a team invention, one of those depersonalized corporate miracles, like the Honda Civic, the Sony Walkman and Hello Kitty, that sprang from that ingenious consumer-product collective known as postwar Japan.</p>
+        <p>But no. Momofuku Ando, who died in Ikeda, near Osaka, at 96, was looking for cheap, decent food for the working class when he invented ramen noodles all by himself in 1958. His product -- fried, dried and sold in little plastic-wrapped bricks or foam cups -- turned the company he founded, Nissin Foods, into a global giant. According to the company's Web site, instant ramen satisfies more than 100 million people a day. Aggregate servings of the company's signature brand, Cup Noodles, reached 25 billion worldwide in 2006.</p>
+        <p>There are other versions of fast noodles. There is spaghetti in a can. It is sweetish and gloppy and a first cousin of dog food. Macaroni and cheese in a box is a convenience product requiring several inconvenient steps. You have to boil the macaroni, stir it to prevent sticking and determine through some previously obtained expertise when it is ''done.'' You must separate water from noodles using a specialized tool, a colander, and to complete the dish -- such an insult -- you have to measure and add the fatty deliciousness yourself, in the form of butter and milk that Kraft assumes you already have on hand. All that effort, plus the cleanup, is hardly worth it.</p>
+        <p>Ramen noodles, by contrast, are a dish of effortless purity. Like the egg, or tea, they attain a state of grace through a marriage with nothing but hot water. After three minutes in a yellow bath, the noodles soften. The pebbly peas and carrot chips turn practically lifelike. A near-weightless assemblage of plastic and foam is transformed into something any college student will recognize as food, for as little as 20 cents a serving.</p>
+        <p>There are some imperfections. The fragile cellophane around the ramen brick tends to open in a rush, spilling broken noodle bits around. The silver seasoning packet does not always tear open evenly, and bits of sodium essence can be trapped in the foil hollows, leaving you always to wonder whether the broth, rich and salty as it is, is as rich and salty as it could have been. The aggressively kinked noodles form an aesthetically pleasing nest in cup or bowl, but when slurped, their sharp bends spray droplets of broth that settle uncomfortably about the lips and leave dots on your computer screen.</p>
+        <p>But those are minor quibbles. Ramen noodles have earned Mr. Ando an eternal place in the pantheon of human progress. Teach a man to fish, and you feed him for a lifetime. Give him ramen noodles, and you don't have to teach him anything.</p>
+        <p>LAWRENCE DOWNES</p>
+        <p>APPRECIATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

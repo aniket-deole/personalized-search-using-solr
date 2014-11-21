@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>French National Library Recovers Stolen Manuscript</title>
+    <meta content="10manu" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817916"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EFDD1130F933A25752C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>French National Library Recovers Stolen Manuscript</hl1>
+      </hedline>
+      <byline class="print_byline">By ALAN RIDING</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 13th-century Hebrew Bible, stolen from the French National Library in the late 1990s, has been recovered after complex negotiations between French officials, Christie's and a Brooklyn antiquities dealer, Yosef Goldman, who bought the leatherbound book from the auction house in 2000 for $368,000. Library officials said Mr. Goldman purchased the manuscript in good faith and had already resold it when its theft was discovered. France sued Mr. Goldman for the return of the book, but the case was later settled, with France reportedly agreeing to cover some of Mr. Goldman's legal expenses. Michel Garel, the former chief curator of manuscripts at the library, was convicted last March of stealing the Bible and sentenced to a two-year suspended prison term and a fine of 400,000 euros ($520,000). He has appealed the verdict, and a ruling is expected this month.</p>
+      </block>
+      <block class="full_text">
+        <p>A 13th-century Hebrew Bible, stolen from the French National Library in the late 1990s, has been recovered after complex negotiations between French officials, Christie's and a Brooklyn antiquities dealer, Yosef Goldman, who bought the leatherbound book from the auction house in 2000 for $368,000. Library officials said Mr. Goldman purchased the manuscript in good faith and had already resold it when its theft was discovered. France sued Mr. Goldman for the return of the book, but the case was later settled, with France reportedly agreeing to cover some of Mr. Goldman's legal expenses. Michel Garel, the former chief curator of manuscripts at the library, was convicted last March of stealing the Bible and sentenced to a two-year suspended prison term and a fine of 400,000 euros ($520,000). He has appealed the verdict, and a ruling is expected this month.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

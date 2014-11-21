@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Newark: Shooting Leaves Man Dead And Woman Hurt</title>
+    <meta content="25mbrfs-9" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821382"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">Newark (NJ)</location>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E5D8163FF936A15752C0A9619C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Newark: Shooting Leaves Man Dead And Woman Hurt</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>Man is fatally shot and woman wounded in Newark, NJ; neither is identified (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man was killed and a woman seriously injured yesterday afternoon in a shooting in the South Ward, the authorities said. Police officers responding to a report of shots fired around 3:15 p.m. on Shaw Avenue near Route 78 found a 23-year-old man dead near a tan sport utility vehicle, said Judy Gagliano, an assistant prosecutor with the Essex County prosecutor's office. A woman nearby, who had been shot several times, was taken to University Hospital, where she was in critical condition last night. Neither was identified yesterday. The homicide was Newark's 10th this year.</p>
+        <p>JOHN HOLL</p>
+      </block>
+      <block class="full_text">
+        <p>A man was killed and a woman seriously injured yesterday afternoon in a shooting in the South Ward, the authorities said. Police officers responding to a report of shots fired around 3:15 p.m. on Shaw Avenue near Route 78 found a 23-year-old man dead near a tan sport utility vehicle, said Judy Gagliano, an assistant prosecutor with the Essex County prosecutor's office. A woman nearby, who had been shot several times, was taken to University Hospital, where she was in critical condition last night. Neither was identified yesterday. The homicide was Newark's 10th this year.</p>
+        <p>JOHN HOLL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taking Control Of Electric Bill, Hour by Hour</title>
+    <meta content="08power" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/business/08power.html" name="alternate_url"/>
+    <meta content="POWER PLAY: Putting Consumers in Charge" name="series_name"/>
+    <docdata>
+      <doc-id id-string="1817423"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Surveys and Series</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Conservation of Resources</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Chicago (Ill)</location>
+        <person class="indexing_service">Johnston, David Cay</person>
+        <classifier class="online_producer" type="types_of_material">Series</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surveys and Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Chicago (Ill)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E4DA1530F93BA35752C0A9619C8B63" item-length="1455" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taking Control Of Electric Bill, Hour by Hour</hl1>
+        <hl2 class="online_headline">Taking Control of Electric Bill, Hour by Hour</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID CAY JOHNSTON</byline>
+      <byline class="normalized_byline">Johnston, David Cay</byline>
+      <abstract>
+        <p>Article in series Power Play, examining decade-long effort to overhaul nation's electricity system, describes pilot project in Chicago to encourage energy conservation; electricity prices fluctuate widely throughout day; residents belonging to Community Energy Cooperative are able to shift their use of power through e-mail messages telling them when rates are highest and lowest; this allows them to cut back when prices are high and use more when prices are low; participants in program can check Web site that tells them, hour by hour, how much their electricity costs; research at Carnegie Mellon University indicates that all Americn consumers could save nearly $23 billion a year if they shift just 7 percent of their usage during peak periods to less costly times; meters that can read prices every hour are widely used in factories, but found in only tiny number of homes, where most meters are read monthly; photo; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ten times last year, Judi Kinch, a geologist, got e-mail messages telling her that the next afternoon any electricity used at her Chicago apartment would be particularly expensive because hot, steamy weather was increasing demand for power.</p>
+        <p>Each time, she and her husband would turn down the air-conditioners -- sometimes shutting one of them off -- and let the dinner dishes sit in the washer until prices fell back late at night.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A pilot project in Chicago allows residents to save money by shifting their use of power.</p>
+      </block>
+      <block class="full_text">
+        <p>Ten times last year, Judi Kinch, a geologist, got e-mail messages telling her that the next afternoon any electricity used at her Chicago apartment would be particularly expensive because hot, steamy weather was increasing demand for power.</p>
+        <p>Each time, she and her husband would turn down the air-conditioners -- sometimes shutting one of them off -- and let the dinner dishes sit in the washer until prices fell back late at night.</p>
+        <p>Most people are not aware that electricity prices fluctuate widely throughout the day, let alone exactly how much they pay at the moment they flip a switch. But Ms. Kinch and her husband are among the 1,100 Chicago residents who belong to the Community Energy Cooperative, a pilot project to encourage energy conservation, and this puts them among the rare few who are able to save money by shifting their use of power.</p>
+        <p>Just as cellphone customers delay personal calls until they become free at night and on weekends, and just as millions of people fly at less popular times because air fares are lower, people who know the price of electricity at any given moment can cut back when prices are high and use more when prices are low. Participants in the Community Energy Cooperative program, for example, can check a Web site that tells them, hour by hour, how much their electricity costs; they get e-mail alerts when the price is set to rise above 20 cents a kilowatt-hour.</p>
+        <p>If just a fraction of all Americans had this information and could adjust their power use accordingly, the savings would be huge. Consumers would save nearly $23 billion a year if they shifted just 7 percent of their usage during peak periods to less costly times, research at Carnegie Mellon University indicates. That is the equivalent of the entire nation getting a free month of power every year.</p>
+        <p>Meters that can read prices every hour or less are widely used in factories, but are found in only a tiny number of homes, where most meters are read monthly.</p>
+        <p>The handful of people who do use hourly meters not only cut their own bills, but also help everyone else by reducing the need for expensive generating stations that run just a few days, or hours, each year. Over the long run, such savings could mean less pollution, because the dirtiest plants could be used less or not at all.</p>
+        <p>The vast majority of utility customers know only the average price of the electricity they used in any given month. But wholesale prices for electricity are set a day in advance, usually on an hour-by-hour or quarter-hour basis. Power companies and utilities are keenly aware of the pricing roller coaster, but they typically blend the numbers into a single monthly bill for their customers.</p>
+        <p>For most Chicagoans, the average summer price last year was 8.25 cents a kilowatt-hour. Although Ms. Kinch and her husband at times paid as much as 36.5 cents a kilowatt-hour -- the peak price on the humid afternoon of Aug. 2 -- they paid less than their neighbors over all. On 38 days, some of their power cost less than a penny a kilowatt-hour.</p>
+        <p>Other consumers who know the hourly price of their electricity have actually been able to get paid by utilities for power they did not use. In New York City last July, for instance, when there was a blackout in Queens, residents of one building on Central Park West voluntarily cut their demand as much as 42 percent and sold the capacity back into the electricity market so that it could be used where it was more needed.</p>
+        <p>Certainly, such situations are a big exception. The fact that most people have no idea how much their power costs has emerged as a sticking point in the ongoing effort to restructure the nation's electricity business, which the federal government is moving from a system in which legal monopolies charge rates set by state regulators, toward a competitive system where the market sets the price.</p>
+        <p>But how does efficient pricing emerge in a business where access to information is so lopsided? A market, as defined by the courts, is a place where willing buyers and sellers who both have reasonable knowledge agree on a price; in the electricity markets, the advantage lies distinctly with those who make and distribute power.</p>
+        <p>Under either the traditional system of utility regulation, with prices set by government, or in the competitive business now in half the states, companies that generate and distribute power have little or no incentive to supply customers with hourly meters, which can cut into their profits.</p>
+        <p>Meters that encourage people to reduce demand at peak hours will translate to less need for power plants -- particularly ones that are only called into service during streaks of hot or cold weather.</p>
+        <p>In states where rates are still regulated, utilities earn a virtually guaranteed profit on their generating stations. Even if a power plant runs only one hour a year, the utility earns a healthy return on its cost.</p>
+        <p>In a competitive market, it is the spikes in demand that cause prices to soar for brief periods. Flattening out the peaks would be disastrous for some power plant owners, which could go bankrupt if the profit they get from peak prices were to ebb significantly.</p>
+        <p>But as awareness of ''smart meters'' grows, so does demand for them, not only from consumers and environmental groups but also from government bodies responding to public anger over rising power prices. In Illinois, for example, the legislature passed a law in December requiring the program Ms. Kinch joined four years ago to be expanded from 1,100 customers to 110,000.</p>
+        <p>The law also required that Commonwealth Edison, the Chicago utility, hire a third party to run the program. It chose Comverge Inc., the largest provider of peak-load energy management systems in North America.</p>
+        <p>The smart metering programs are not new, but their continued rarity speaks in part to the success of power-generating companies in protecting their profit models. Some utilities did install meters in a small number of homes as early as three decades ago, pushed by the environmental movement and a spike in energy prices.</p>
+        <p>Today, the same set of circumstances seems to be prompting a revival of interest, and even the utility companies seem resigned to the eventuality of such programs. Anne R. Pramaggiore, the senior vice president for regulatory affairs at Commonwealth Edison of Chicago, said that in the past, interest in hourly meter was transitory.</p>
+        <p>''We really haven't dealt with these issues for 30 years,'' she said.</p>
+        <p>But a sustained effort to install more meters is likely now because of what Ms. Pramaggiore called a ''fundamental change'' in the energy markets. Rising fuel costs and environmental concerns are -- once again -- front and center.</p>
+        <p>When consumers know the price of their electricity in advance and can tailor their use, even minor changes in behavior can lead to lower home utility bills and less reliance on marginal power plants, said Kathleen Spees, a graduate student in engineering and public policy at Carnegie Mellon.</p>
+        <p>''Small reductions in demand can produce very large savings,'' said Ms. Spees, who analyzed prices charged within the PJM Interconnection grid, which coordinates the movement of wholesale electricity for 51 million people from New Jersey to Illinois.</p>
+        <p>Consumers who cut back on power use at peak times can do more than just avoid high prices. They can make money, as people in the building on Central Park West learned last summer.</p>
+        <p>Peter Funk Jr., an energy partner at the law firm Duane Morris who lives in the 48-unit co-op, persuaded his neighbors three years ago to install a single meter to the Consolidated Edison system and then to operate their own internal metering system. That made the building big enough to qualify for hour-by-hour pricing.</p>
+        <p>When the next day's prices are scheduled to soar, the building superintendent and a few residents get e-mail messages or phone calls. ''We have an orderly plan all worked out to notify people'' so they can reduce their power use during the designated times, Mr. Funk said.</p>
+        <p>The residents save more than just the money on power not used during peak periods, when pricing has been as high as almost 50 cents a kilowatt-hour. During the blackout in July, when parts of Queens were without electricity for up to nine days, the building cut demand as much as 42 percent and sold the unused capacity for about $3,000.</p>
+        <p>That money helps the building offer a valuable benefit: On most weekend mornings, electricity for residents is free.</p>
+        <p>Articles in this series are examining the decade-long effort to overhaul the nation's electricity system. Previous articles are at:  nytimes.com/business</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

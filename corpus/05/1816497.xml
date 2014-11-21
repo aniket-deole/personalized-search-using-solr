@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Car Seats for Infants Often Fail In Broadside Crashes, Tests Find</title>
+    <meta content="05infant" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/05/us/05infant.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816497"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Car Seats (Children)</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobile Safety Features and Defects</classifier>
+        <org class="indexing_service">Consumer Reports (Magazine)</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Motoring</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <org class="online_producer">National Highway Traffic Safety Administration</org>
+        <org class="online_producer">Consumer Reports</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E2DD1430F936A35752C0A9619C8B63" item-length="417" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Car Seats for Infants Often Fail In Broadside Crashes, Tests Find</hl1>
+        <hl2 class="online_headline">Car Seats for Infants Often Fail in Broadside Crashes, Tests Find</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, Jan. 4</dateline>
+      <abstract>
+        <p>Consumer Reports laboratory tests find that car seats for infants often fail to withstand impact when vehicle is struck by another from the side; seats tested are rear-facing models of kind intended for infants up to 1 year old; government requires manufacturers to test seats for head-on collisions, but not for broadside crashes, which kill about 30 infants a year in United States; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Car seats for infants often fail to withstand the impact when a vehicle is struck by another from the side, according to laboratory tests conducted by Consumer Reports.</p>
+        <p>Of a dozen models tested in simulations of such impacts, 10 failed, some ''disastrously,'' the magazine reports in its February issue.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Of a dozen models tested in simulations of side impacts, 10 failed, some “disastrously,” Consumer Reports found.</p>
+      </block>
+      <block class="full_text">
+        <p>Car seats for infants often fail to withstand the impact when a vehicle is struck by another from the side, according to laboratory tests conducted by Consumer Reports.</p>
+        <p>Of a dozen models tested in simulations of such impacts, 10 failed, some ''disastrously,'' the magazine reports in its February issue.</p>
+        <p>The seats have a base that is installed in the car, and a detachable carrier in which the baby is strapped. In the simulations, the seats often separated from the base and skidded across the laboratory, Consumer Reports said.</p>
+        <p>The seats are rear-facing models of the kind intended for infants up to 1 year old, or about 22 pounds. The government requires manufacturers to test such seats for head-on collisions, but not for broadside crashes, which kill about 30 infants a year in the United States.</p>
+        <p>It is not clear from the tests how many of those deaths could be avoided with better seats: the magazine tested the seats at 38 miles an hour, the speed at which the government tests cars for protection of adults.</p>
+        <p>Nicole R. Nason, administrator of the government's National Highway Traffic Safety Administration, said the agency was working to develop its own infant-seat tests for broadside crashes. ''We need to move faster,'' Ms. Nason said, though adding, ''I do not want parents to be misled into thinking their children are safer in mommy's arms.''</p>
+        <p>The magazine also found flaws in a much acclaimed system, required by the government in all new cars since 2002, that helps anchor baby seats to cars. Indeed, some child seats performed worse with this Latch hardware than when held in place by seat belts. The traffic safety agency said it would hold a public meeting next month to discuss how to improve the Latch system.</p>
+        <p>One seat that failed the magazine's test was the Companion model made by Britax, a product that Consumer Reports, on the basis of frontal impact tests, had previously listed as top-rated. Britax, of Andover, England, sells a better seat in Europe, the magazine said.</p>
+        <p>Another model, the Evenflo Discovery, even failed a head-on test, the magazine said, and should be recalled. But both the Evenflo Company and the traffic safety agency said the Discovery had passed the government's head-on test.</p>
+        <p>Robert S. Matteucci, the chief executive of Evenflo, said in a telephone interview that Consumer Reports had so far refused to describe the test method it had used and that small changes in the test could invalidate the results.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

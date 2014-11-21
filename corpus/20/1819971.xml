@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BUXBAUM, ROBERT (BUX)</title>
+    <meta content="dn012007" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819971"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BUXBAUM, ROBERT (BUX)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E7DC1F3AF933A15752C0A9619C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BUXBAUM, ROBERT (BUX)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BUXBAUM--Robert (Bux), 67, sculptor and gourmand, died on Thursday of cancer. He is survived by his wife of 43 years, Esilda; daughter, Rica Allannic; son-in-law, Cyrille; grandson, Adrian; sister, Elaine Cousins; and niece, Monica Noraian. Born in Brooklyn, he studied architecture at Cornell University and was a sculpture assistant to Frederick Kiesler. Buxbaum's minimalist sculptures and drawings were exhibited at OK Harris, Warren Benedek and 55 Mercer and are owned by collections including Chase Manhattan Bank, Xerox and Owens Corning. An original founder of the food forum egullet.com, he wrote about food, wine and travel on his website, worldtable.com. A memorial service is planned for Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>BUXBAUM--Robert (Bux), 67, sculptor and gourmand, died on Thursday of cancer. He is survived by his wife of 43 years, Esilda; daughter, Rica Allannic; son-in-law, Cyrille; grandson, Adrian; sister, Elaine Cousins; and niece, Monica Noraian. Born in Brooklyn, he studied architecture at Cornell University and was a sculpture assistant to Frederick Kiesler. Buxbaum's minimalist sculptures and drawings were exhibited at OK Harris, Warren Benedek and 55 Mercer and are owned by collections including Chase Manhattan Bank, Xerox and Owens Corning. An original founder of the food forum egullet.com, he wrote about food, wine and travel on his website, worldtable.com. A memorial service is planned for Sunday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

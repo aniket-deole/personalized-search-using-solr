@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Red Warmer For Winter</title>
+    <meta content="07wine" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/nyregion/thecity/07wine.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817108"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WINE UNDER $20"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <classifier class="indexing_service" type="descriptor">Port (Wine)</classifier>
+        <person class="indexing_service">Goldberg, Howard G</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Wine Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7D91430F934A35752C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Red Warmer For Winter</hl1>
+        <hl2 class="online_headline">A Red Warmer for Winter</hl2>
+      </hedline>
+      <byline class="print_byline">By HOWARD G. GOLDBERG</byline>
+      <byline class="normalized_byline">Goldberg, Howard G</byline>
+      <abstract>
+        <p>Howard goldberg reviews Fonseca Bin No 27 non-vintage port wine (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Old-timers love to pass a January evening with a good book, an armchair, fresh walnuts and a warming glass or two of Fonseca Bin No. 27 nonvintage port.</p>
+        <p>Sipped slowly, this smooth, sweet red yields lingering flavors of prunes, raisins and spicy fruitcake. It hints at the spectrum of subtler flavors awaiting buyers of vintage-dated ports, which can be expensive.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Old-timers love to pass a January evening with a good book, an armchair, fresh walnuts and a warming glass or two of Fonseca Bin No. 27 nonvintage port.</p>
+      </block>
+      <block class="full_text">
+        <p>Old-timers love to pass a January evening with a good book, an armchair, fresh walnuts and a warming glass or two of Fonseca Bin No. 27 nonvintage port.</p>
+        <p>Sipped slowly, this smooth, sweet red yields lingering flavors of prunes, raisins and spicy fruitcake. It hints at the spectrum of subtler flavors awaiting buyers of vintage-dated ports, which can be expensive.</p>
+        <p>A popular Portuguese staple, it costs $16.99 at 67 Wine, 179 Columbus Avenue (68th Street).</p>
+        <p>HOWARD G. GOLDBERG</p>
+        <p>WINE UNDER $20</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

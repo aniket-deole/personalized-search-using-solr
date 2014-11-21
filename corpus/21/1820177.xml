@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SEIDMAN, DAVID</title>
+    <meta content="dn012107.1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820177"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SEIDMAN, DAVID</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E6DB1F3AF932A15752C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SEIDMAN, DAVID</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SEIDMAN--David, 86, died January 19, 2007. Devoted husband of Joyce for 64 years. Beloved father of Andrew, Patricia, and Deborah. Cherished father-in-law of David and Roberta. Adored grandfather of Douglas, Richard, Lauren, Elena and Matthew. United States Navy World War II veteran. Former member of the Board of Directors of Temple Israel, Lawrence, New York. He will be deeply missed by us all. Services will be held Sunday, January 21, at 1:30pm Temple Israel Lawrence, New York.</p>
+      </block>
+      <block class="full_text">
+        <p>SEIDMAN--David, 86, died January 19, 2007. Devoted husband of Joyce for 64 years. Beloved father of Andrew, Patricia, and Deborah. Cherished father-in-law of David and Roberta. Adored grandfather of Douglas, Richard, Lauren, Elena and Matthew. United States Navy World War II veteran. Former member of the Board of Directors of Temple Israel, Lawrence, New York. He will be deeply missed by us all. Services will be held Sunday, January 21, at 1:30pm Temple Israel Lawrence, New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

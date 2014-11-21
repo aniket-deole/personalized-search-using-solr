@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   FISCH, HERBERT J., M.D.</title>
+    <meta content="dn010707.1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816828"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">FISCH, HERBERT J., M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E1DA1E3AF934A35752C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   FISCH, HERBERT J., M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FISCH--Herbert J., M.D. The entire Peninsula Hospital Center family is deeply saddened by the passing of Dr. Herbert J. Fisch, Director Emeritus, Department of Anesthesiology and an active member of the Medical staff for many years. Retired for the past several years, Dr. Fisch will long be remembered for his professionalism and dedication to the Hospital Center's mission and will be missed by all. Joel A. Miele Sr. P.E. Chairman, Board of Directors Robert V. Levine President and Chief Executive Officer David Schwartz, M.D. President, Medical Board</p>
+        <p>$(6$)FISCH--Dr. Herbert. The partners, counsel, associates and staff of the firm of Paul, Weiss, Rifkind, Wharton &amp; Garrison LLP express profound sorrow at the death on January 3rd of Dr. Herbert Fisch, beloved father of our friend and partner, Peter E. Fisch. We express our deepest sympathies to Peter and to all other members of the family.</p>
+      </block>
+      <block class="full_text">
+        <p>FISCH--Herbert J., M.D. The entire Peninsula Hospital Center family is deeply saddened by the passing of Dr. Herbert J. Fisch, Director Emeritus, Department of Anesthesiology and an active member of the Medical staff for many years. Retired for the past several years, Dr. Fisch will long be remembered for his professionalism and dedication to the Hospital Center's mission and will be missed by all. Joel A. Miele Sr. P.E. Chairman, Board of Directors Robert V. Levine President and Chief Executive Officer David Schwartz, M.D. President, Medical Board</p>
+        <p>$(6$)FISCH--Dr. Herbert. The partners, counsel, associates and staff of the firm of Paul, Weiss, Rifkind, Wharton &amp; Garrison LLP express profound sorrow at the death on January 3rd of Dr. Herbert Fisch, beloved father of our friend and partner, Peter E. Fisch. We express our deepest sympathies to Peter and to all other members of the family.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mets Reward Randolph With Contract Extension</title>
+    <meta content="25mets" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/sports/baseball/25mets.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821353"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Shpigel, Ben</person>
+        <person class="indexing_service">Randolph, Willie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Mets</org>
+        <person class="online_producer">Randolph, Willie</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E0D9163FF936A15752C0A9619C8B63" item-length="462" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mets Reward Randolph With Contract Extension</hl1>
+        <hl2 class="online_headline">Mets Reward Randolph With $5.65 Million Extension</hl2>
+      </hedline>
+      <byline class="print_byline">By BEN SHPIGEL</byline>
+      <byline class="normalized_byline">Shpigel, Ben</byline>
+      <abstract>
+        <p>New York Mets sign manager Willie Randolph to contract extension (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There was once a time when no one wanted to hire Willie Randolph. He was interviewed 12 times for managerial openings, and 12 times he was turned down. One team, however, took a calculated chance, and now the Mets will not let Randolph go.</p>
+        <p>The Mets rewarded Randolph for guiding the team to its first division title since 1988 by extending his contract through 2009 with an option for 2010. Randolph agreed to the deal in principle last night and an announcement is expected today.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Willie Randolph was handed a two-year contract extension, with a club option for a third year, that assures he will remain manager of the Mets through at least the 2009 season.</p>
+      </block>
+      <block class="full_text">
+        <p>There was once a time when no one wanted to hire Willie Randolph. He was interviewed 12 times for managerial openings, and 12 times he was turned down. One team, however, took a calculated chance, and now the Mets will not let Randolph go.</p>
+        <p>The Mets rewarded Randolph for guiding the team to its first division title since 1988 by extending his contract through 2009 with an option for 2010. Randolph agreed to the deal in principle last night and an announcement is expected today.</p>
+        <p>Randolph, who had one year remaining on the three-year deal he signed before the 2005 season, will receive a significant raise from the $700,000 he was due to make next season. He will earn $1.5 million to $2 million annually over the next three seasons, according to a club official who was granted anonymity because he was not authorized to discuss a deal that had not been made public. The new contract places Randolph among the 10 highest-paid managers in baseball, a reward for the team's turnaround.</p>
+        <p>After taking over a franchise that had finished a combined 60 games under .500 over the previous three seasons, Randolph swiftly changed the clubhouse culture. He implemented a series of rules -- a ban on facial hair, for one -- that left no doubt among the players who was in charge. Randolph loosened up a little during spring training, but he still had the same passion for teaching and desire for winning.</p>
+        <p>The players responded to Randolph's cool confidence, winning 11 of the final 14 games in 2005 to finish with 83 victories and stomping all over the National League last season on the way to a 97-65 record, the N.L. East championship and Game 7 of the N.L. Championship Series.</p>
+        <p>Although the Mets had essentially locked up the division title in early summer, Randolph earned valuable experience for the postseason by deftly handling a patchwork rotation and by not overworking the Mets' stellar bullpen. He did not panic when Pedro Martínez missed two months and, eventually, the playoffs, or when Orlando Hernández tore a calf muscle the day before he was supposed to start Game 1 of the division series against the Los Angeles Dodgers.</p>
+        <p>General Manager Omar Minaya took notice and repeatedly said as the season wound down that Randolph would be in line for an extension. There was no rush to reach one; Randolph still had another season remaining on his $1.875 million deal. But it was almost certain that there would be an agreement before opening day.</p>
+        <p>For Randolph, who grew up as a Mets fan in the Brownsville section of Brooklyn, this is the closest thing to his dream job. And now that he has it, he does not intend to leave anytime soon.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

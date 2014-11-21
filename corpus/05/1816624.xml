@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Most Viewed Theater Articles of 2006</title>
+    <meta content="2006mv-theater" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816624"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E5DC1130F936A35752C0A9619C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Most Viewed Theater Articles of 2006</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Topping the list is the review of Julia Roberts on Broadway in "Three Days of Rain," followed by a profile of Kristin Chenoweth and a look at the 2006 Tony Award nominees.</p>
+        <p>1) Enough Said About 'Three Days of Rain.' Let's Talk Julia Roberts!</p>
+      </block>
+      <block class="full_text">
+        <p>Topping the list is the review of Julia Roberts on Broadway in "Three Days of Rain," followed by a profile of Kristin Chenoweth and a look at the 2006 Tony Award nominees.</p>
+        <p>1) Enough Said About 'Three Days of Rain.' Let's Talk Julia Roberts!</p>
+        <p>2) She Sings! She Acts! She Prays!</p>
+        <p>3) 'The Drowsy Chaperone' Leads Tony Nominations</p>
+        <p>4) Wendy Wasserstein Dies at 55; Her Plays Spoke to a Generation</p>
+        <p>5) College Life 101: Dramatically Stark Orientation</p>
+        <p>6) Anti-Gay Slurs: The Latest In Hilarity</p>
+        <p>7) Actress's Dark Secret Remains Secure in 'Barbie Live in Fairytopia'</p>
+        <p>8) Mourning a Child in a Silence That's Unbearably Loud</p>
+        <p>9) Not Everybody Loves Patricia</p>
+        <p>10) 'The Caine Mutiny' Returns to Broadway</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

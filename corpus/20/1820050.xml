@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elderly Organ Donors</title>
+    <meta content="l20donor" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820050"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Transplants</classifier>
+        <classifier class="indexing_service" type="descriptor">Aged</classifier>
+        <person class="indexing_service">Loving, Anne LaGrange</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transplants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E2D91E30F933A15752C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elderly Organ Donors</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Anne LaGrange Loving notes that some organs of elderly can be used for variety of donor procedures after they die</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Turning the Grief-Stricken Toward Organ Donation'' (news article, Jan. 16): It is important to note that young healthy people who die from accidents are not the only candidates for organ donation.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Turning the Grief-Stricken Toward Organ Donation'' (news article, Jan. 16): It is important to note that young healthy people who die from accidents are not the only candidates for organ donation.</p>
+        <p>When my 85-year-old mother passed away after a miserable decline involving multiple medical conditions, I was shocked that within minutes of her death, I was approached about offering her body for organ donation.</p>
+        <p>After I was informed that the whites of her eyes, parts of her bones and parts of her skin could be used for a variety of donor procedures, I immediately consented.</p>
+        <p>Those who would like to be organ donors but fear they are too old should make their wishes known to their families, and keep their organ-donor cards with them.</p>
+        <p>Anne LaGrange Loving  Ridgewood, N.J., Jan. 16, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crossroads</title>
+    <meta content="17lens" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Theater; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819438"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LENS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Pornography</classifier>
+        <location class="indexing_service">Times Square and 42nd Street (NYC)</location>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Lens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFD61030F934A25752C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crossroads</hl1>
+      </hedline>
+      <byline class="print_byline">By LIBRADO ROMERO</byline>
+      <abstract>
+        <p>Photos taken in 1970 and recently show theater in Times Square that once was home to pornography is now mainstream theater</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Theater marquees herald the story of Times Square's transformation from a nexus of sex and sleaze in the 1970s to a spoonful of sugar and a cup of capitalism three decades later. In 1970, when the top photo was taken, seedy movie theaters ruled a stretch of West 42nd Street. But Disney's pixie dust, buttressed by state and city intervention, helped renovate the area, including the New Amsterdam, where a stage version of ''Mary Poppins'' opened in November. The theater in the top photo, which was on the other side of the street, is gone.</p>
+      </block>
+      <block class="full_text">
+        <p>Theater marquees herald the story of Times Square's transformation from a nexus of sex and sleaze in the 1970s to a spoonful of sugar and a cup of capitalism three decades later. In 1970, when the top photo was taken, seedy movie theaters ruled a stretch of West 42nd Street. But Disney's pixie dust, buttressed by state and city intervention, helped renovate the area, including the New Amsterdam, where a stage version of ''Mary Poppins'' opened in November. The theater in the top photo, which was on the other side of the street, is gone.  LENS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

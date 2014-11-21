@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Swarming on the Corner</title>
+    <meta content="09q&amp;a" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817627"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Insects</classifier>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEED71530F93AA35752C0A9619C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Swarming on the Corner</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column discusses insects that swarm and how behavior is related to reproduction; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Why do tiny flying insects form hovering masses in spring and summer?</p>
+        <p>A. Think of the swarms as college mixers in miniature, with a highly condensed timeline from introduction to reproduction, entomologists suggest. Like the more familiar swarms of social insects, including termites and bees, swarms of smaller flying insects provide a convenient and efficient mating ground for short-lived young adults.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Why do tiny flying insects form hovering masses in spring and summer?</p>
+        <p>A. Think of the swarms as college mixers in miniature, with a highly condensed timeline from introduction to reproduction, entomologists suggest. Like the more familiar swarms of social insects, including termites and bees, swarms of smaller flying insects provide a convenient and efficient mating ground for short-lived young adults.</p>
+        <p>In most such swarms, the males wait in a compact mass for receptive females, but in at least one species, the roles are reversed. A 2004 Swedish study in the Journal of Insect Behavior described the mating habits of the species Empis borealis.</p>
+        <p>From 1 to 40 females ''gather at landmarks called swarm markers, like trees and bushes, and males carrying an insect prey visit these swarms for mating,'' the researchers wrote.</p>
+        <p>''We noticed earlier that some swarm sites were used for several years and that they appeared to be frequented by a similar number of swarming females in each year,'' the report continued.</p>
+        <p>Some of the swarm sites were used for 18 years. The swarm sites with the largest number of flies had a high sun exposure during the day and were found at coniferous trees in a mixed forest habitat.</p>
+        <p>In general, swarming off the premises of the nest or home territory offers the best chance both for genetic mixing and for finding an appropriate mate in a brief life span.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

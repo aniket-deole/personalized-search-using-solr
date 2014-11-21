@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Trenton: Couple Accused Of Money Laundering</title>
+    <meta content="18mbrfs-7" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819755"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gambling</classifier>
+        <classifier class="indexing_service" type="descriptor">Money Laundering</classifier>
+        <classifier class="indexing_service" type="descriptor">Embezzlement</classifier>
+        <classifier class="indexing_service" type="descriptor">Casinos</classifier>
+        <classifier class="indexing_service" type="descriptor">Slot Machines</classifier>
+        <location class="indexing_service">Atlantic City (NJ)</location>
+        <person class="indexing_service">Kelley, Tina</person>
+        <person class="indexing_service">Alabre, Jamine</person>
+        <person class="indexing_service">Ambroise, Mathurin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey/Atlantic City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Slot Machines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embezzlement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Casinos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gambling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7D71130F93BA25752C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Trenton: Couple Accused Of Money Laundering</hl1>
+      </hedline>
+      <byline class="print_byline">By TINA KELLEY; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Kelley, Tina</byline>
+      <abstract>
+        <p>Jamine Alabre and Mathurin Ambroise are charged with money laundering and receiving stolen property for using slot machines in Atlantic City, NJ, to launder embezzled money (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A New York couple were arrested yesterday and charged with money laundering and receiving stolen property for using slot machines in Atlantic City to launder embezzled money, said Stuart Rabner, the New Jersey attorney general. The woman, Jamine Alabre, 26, of Westbury, and her companion, Mathurin Ambroise, 33, of Queens were indicted by a New Jersey grand jury this week. The couple are charged with laundering $500,000 in stolen cash through Atlantic City casinos from January to October 2005, prosecutors said.</p>
+        <p>TINA KELLEY</p>
+      </block>
+      <block class="full_text">
+        <p>A New York couple were arrested yesterday and charged with money laundering and receiving stolen property for using slot machines in Atlantic City to launder embezzled money, said Stuart Rabner, the New Jersey attorney general. The woman, Jamine Alabre, 26, of Westbury, and her companion, Mathurin Ambroise, 33, of Queens were indicted by a New Jersey grand jury this week. The couple are charged with laundering $500,000 in stolen cash through Atlantic City casinos from January to October 2005, prosecutors said.</p>
+        <p>TINA KELLEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

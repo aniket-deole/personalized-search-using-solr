@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TJX Says Customer Data Was Stolen</title>
+    <meta content="18secure" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/business/18secure.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819667"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Identity Fraud</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Tjx Companies</org>
+        <person class="indexing_service">Dash, Eric</person>
+        <person class="indexing_service">Stone, Brad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Identity Fraud</classifier>
+        <classifier class="online_producer" type="descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identity Fraud</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">TJX Companies Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE2DA1130F93BA25752C0A9619C8B63" item-length="493" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TJX Says Customer Data Was Stolen</hl1>
+        <hl2 class="online_headline">TJX Says Customer Data Was Stolen</hl2>
+      </hedline>
+      <byline class="print_byline">By BRAD STONE and ERIC DASH</byline>
+      <byline class="normalized_byline">Stone, Brad; Dash, Eric</byline>
+      <abstract>
+        <p>TJX Companies, retailer that operates T J Maxx and Marshalls chains, says private customer records were stolen after intruder gained access to computer system; precise number of customers put at risk is not disclosed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The TJX Companies, the retailer that operates the T. J. Maxx and Marshalls discount clothing chains, has joined the ignominious list of companies that have had sensitive customer financial data pilfered by identity thieves.</p>
+        <p>Yesterday the company, based in Framingham, Mass., said that as early as 2003 and during most of last year, an intruder had gained access to a computer system containing the private records of customers, including credit and debit cards, checks and driver's license numbers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The retailer that operates T. J. Maxx said that sensitive customer financial data was pilfered by identity thieves.</p>
+      </block>
+      <block class="full_text">
+        <p>The TJX Companies, the retailer that operates the T. J. Maxx and Marshalls discount clothing chains, has joined the ignominious list of companies that have had sensitive customer financial data pilfered by identity thieves.</p>
+        <p>Yesterday the company, based in Framingham, Mass., said that as early as 2003 and during most of last year, an intruder had gained access to a computer system containing the private records of customers, including credit and debit cards, checks and driver's license numbers.</p>
+        <p>Both its flagship chains were affected, as well as HomeGoods and A. J. Wright stores in the United States, and its Winners and HomeSense chains in Canada. The company said it was still trying to determine whether data from its 36 Bob's Stores locations in the United States had also been compromised.</p>
+        <p>''We are deeply concerned about this event and the difficulties it may cause our customers,'' Ben Cammarata, the chief executive of the TJX Companies, said in a news release posted on the company's Web site.</p>
+        <p>The company did not specify precisely how many customers were put at risk. Sherry Lang, vice president for investor and public relations, said that the intruder had taken the credit and debit card records of ''a limited number of people, substantially less than millions of people,'' as well as a small number of driver's license numbers. Ms. Lang said the company did not know whether other account information was also stolen, and declined to be more specific.</p>
+        <p>The major credit card companies said yesterday that they were aware of the breach and had notified the banks that issue their cards to monitor for suspicious account activity.</p>
+        <p>The TJX Companies detected the break-in last month, when an outside consultant noted suspicious activity on its network, Ms. Lang said.</p>
+        <p>The company said it was working with the Secret Service, the Justice Department and the Royal Canadian Mounted Police. Darrin Blackford, a spokesman for the Secret Service, would not disclose any details about the investigation but said the agency was actively involved.</p>
+        <p>Avivah Litan, a data security analyst at Gartner Inc., said that TJX most likely suffered an attack on its centralized processing center, which holds customer account data. Ms. Litan said the company appeared to be storing information from its point-of-sale control terminals, which would include data from the magnetic stripes of credit cards and other sensitive information that most data security experts advise companies not to keep.</p>
+        <p>Privacy experts said the disclosure of the breach indicated that the data had not been encrypted, though TJX declined to address that question.</p>
+        <p>Beth Givens at the Privacy Rights Clearinghouse, a nonprofit consumer-advocacy project based in San Diego, said that leaving customer data exposed on networked computers was a mistake many companies still make. ''Given not only the financial hit but the public relations black eye, you would think that companies would be taking security far more seriously than they appear to be,'' Ms. Givens said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

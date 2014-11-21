@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Preserving Landmarks For All New Yorkers</title>
+    <meta content="l14city-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818869"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Historic Buildings and Sites</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Sunnyside Gardens (NYC)</location>
+        <person class="indexing_service">Bankoff, Simeon</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E5D71330F937A25752C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Preserving Landmarks For All New Yorkers</hl1>
+      </hedline>
+      <abstract>
+        <p>Historic Districts Council executive director Simeon Bankoff letter on letter responding to January 7 article on fight for landmark designation in Sunnyside, Queens</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a professional preservationist, I take offense at the implicit charge of racial exclusion in a letter that states, ''Emphasizing bricks and mortar can come at the expense of economic and ethnic diversity'' (''Battle Lines in the Fight to Protect Sunnyside,'' Jan. 7).</p>
+        <p>Landmark designation does not have a racial agenda. New York City's administrative code states clearly that ''the protection, enhancement, perpetuation and use'' of buildings and ''landscape features of special character or historical or aesthetic interest is a public necessity and is required in the interest of the health, prosperity, safety and welfare of the people.'' The people, not ''some'' people.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a professional preservationist, I take offense at the implicit charge of racial exclusion in a letter that states, ''Emphasizing bricks and mortar can come at the expense of economic and ethnic diversity'' (''Battle Lines in the Fight to Protect Sunnyside,'' Jan. 7).</p>
+        <p>Landmark designation does not have a racial agenda. New York City's administrative code states clearly that ''the protection, enhancement, perpetuation and use'' of buildings and ''landscape features of special character or historical or aesthetic interest is a public necessity and is required in the interest of the health, prosperity, safety and welfare of the people.'' The people, not ''some'' people.</p>
+        <p>Forty years of urban experience has shown that landmark designation works to forward this worthwhile municipal goal. Landmarking does not cause population exclusion or displacement, and to place it along with redlining, urban renewal and other racially charged planning practices is both incorrect and inappropriate.</p>
+        <p>Simeon Bankoff  Executive Director  Historic Districts Council  East Village</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

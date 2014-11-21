@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Britain: New Restaurant On Radiation Trail</title>
+    <meta content="06briefs-6" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816778"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Islam</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="indexing_service" type="descriptor">Cartoons and Cartoonists</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <location class="indexing_service">Denmark</location>
+        <location class="indexing_service">London (Eng)</location>
+        <person class="indexing_service">Cowell, Alan</person>
+        <person class="indexing_service">Javed, Umran</person>
+        <person class="indexing_service">Muhammad (Prophet) (C570-632)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Denmark</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England/London</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cartoons and Cartoonists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Islam</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E7DF1530F935A35752C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Britain: New Restaurant On Radiation Trail</hl1>
+      </hedline>
+      <byline class="print_byline">By ALAN COWELL</byline>
+      <byline class="normalized_byline">Cowell, Alan</byline>
+      <abstract>
+        <p>Jury convicts Umran Javed, British Muslim, of soliciting murder and inciting racial hatred after he spoke at rally outside Danish Embassy in London last February against Danish cartoons about Prophet Muhammad (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The authorities investigating the killing of Alexander V. Litvinenko, the former K.G.B. officer who died in London in November of a high dose of the radioactive isotope polonium 210, said they had detected radiation contamination at a restaurant in the Mayfair district of London. The Health Protection Agency said the restaurant, Pescatori, had been closed, decontaminated and reopened for business. The authorities have found traces of radiation in several other restaurants and hotels visited by Mr. Litvinenko and his associates just before he fell ill. This week, a staff member at the Best Western Shaftesbury Hotel in central London reportedly tested positive for low levels of polonium 210, bringing to 12 the number of people said by the authorities to have been contaminated in Britain. The others are nine staff members at two other London hotels and Mr. Litvinenko's widow, Marina.</p>
+        <p>ALAN COWELL</p>
+      </block>
+      <block class="full_text">
+        <p>The authorities investigating the killing of Alexander V. Litvinenko, the former K.G.B. officer who died in London in November of a high dose of the radioactive isotope polonium 210, said they had detected radiation contamination at a restaurant in the Mayfair district of London. The Health Protection Agency said the restaurant, Pescatori, had been closed, decontaminated and reopened for business. The authorities have found traces of radiation in several other restaurants and hotels visited by Mr. Litvinenko and his associates just before he fell ill. This week, a staff member at the Best Western Shaftesbury Hotel in central London reportedly tested positive for low levels of polonium 210, bringing to 12 the number of people said by the authorities to have been contaminated in Britain. The others are nine staff members at two other London hotels and Mr. Litvinenko's widow, Marina.</p>
+        <p>ALAN COWELL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

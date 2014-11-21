@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="14nfl--refer" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818966"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E2DE1030F937A25752C0A9619C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Saints and Colts Move On  The New Orleans Saints will play for their first N.F.C. title after defeating the Philadelphia Eagles. The Indianapolis Colts advanced to the A.F.C. title game by beating the Baltimore Ravens.</p>
+        <p>SPORTSSUNDAY</p>
+        <p>Elation at Recovery of 2 Boys  Two kidnapped boys, one missing for more than four years, smiled but did not speak at news conferences with their parents a day after they were found near St. Louis.</p>
+        <p>PAGE 19</p>
+        <p>Coal's Dominion  ''This Land,'' a column by Dan Barry, begins today, taking readers behind news articles and into obscure and well-known corners of the United States. Today: surviving the coal dust of West Virginia with miners like Chuck Gunnoe.</p>
+        <p>PAGE 18</p>
+        <p>Faces Behind the Donations  For every person helped by The New York Times Neediest Cases Fund, there is someone else who helped through a donation.</p>
+        <p>PAGE 34</p>
+      </block>
+      <block class="full_text">
+        <p>Saints and Colts Move On  The New Orleans Saints will play for their first N.F.C. title after defeating the Philadelphia Eagles. The Indianapolis Colts advanced to the A.F.C. title game by beating the Baltimore Ravens.</p>
+        <p>SPORTSSUNDAY</p>
+        <p>Elation at Recovery of 2 Boys  Two kidnapped boys, one missing for more than four years, smiled but did not speak at news conferences with their parents a day after they were found near St. Louis.</p>
+        <p>PAGE 19</p>
+        <p>Coal's Dominion  ''This Land,'' a column by Dan Barry, begins today, taking readers behind news articles and into obscure and well-known corners of the United States. Today: surviving the coal dust of West Virginia with miners like Chuck Gunnoe.</p>
+        <p>PAGE 18</p>
+        <p>Faces Behind the Donations  For every person helped by The New York Times Neediest Cases Fund, there is someone else who helped through a donation.</p>
+        <p>PAGE 34</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

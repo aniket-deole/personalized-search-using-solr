@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vegans Can Have It All</title>
+    <meta content="31dinlett-2" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822821"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="indexing_service" type="descriptor">Vegetarianism</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <person class="indexing_service">Doleman, Devery</person>
+        <person class="indexing_service">Moskowitz, Isa Chandra</person>
+        <person class="indexing_service">Iannelli, Janice</person>
+        <person class="indexing_service">Lauria, Karin J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vegetarianism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE6DE153FF932A05752C0A9619C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vegans Can Have It All</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on Jan 24 article about vegan chef and cookbook author Isa Chandra Moskowitz; Devery Doleman contends there is no deprivation in vegan diet and that, in fact, it provides wide variety of foods and is healthier way to eat; Janice Iannelli is frustrated by criticism of vegan food; Karin J Lauria praises veganism as compassionate way to eat</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I thoroughly enjoyed ''Strict Vegan Ethics, Frosted With Hedonism'' (Jan. 24) but take issue with the characterization of an animal-free diet as ascetic. The article stated that Isa Chandra Moskowitz ''makes even the deprivations of veganism and the rage of punk seem like fun.''</p>
+        <p>Deprivations? Since adopting a vegan diet one year ago, I lost 20 pounds while eating whatever I wanted, have clearer skin at age 34 than at age 10, and went up a bra size while shaving 30 points from my cholesterol count. My husband and I enjoy Thai, Korean, Japanese, Caribbean, Chinese, Mexican, Italian and Ethiopian cuisine, and cook at home more often and more creatively than before.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I thoroughly enjoyed ''Strict Vegan Ethics, Frosted With Hedonism'' (Jan. 24) but take issue with the characterization of an animal-free diet as ascetic. The article stated that Isa Chandra Moskowitz ''makes even the deprivations of veganism and the rage of punk seem like fun.''</p>
+        <p>Deprivations? Since adopting a vegan diet one year ago, I lost 20 pounds while eating whatever I wanted, have clearer skin at age 34 than at age 10, and went up a bra size while shaving 30 points from my cholesterol count. My husband and I enjoy Thai, Korean, Japanese, Caribbean, Chinese, Mexican, Italian and Ethiopian cuisine, and cook at home more often and more creatively than before.</p>
+        <p>I am, however, depriving myself of the growth hormones, antibiotics, pesticides, arsenic, prions and fecal matter present in factory-farmed meat.</p>
+        <p>Devery Doleman  Brooklyn</p>
+        <p>To the Editor:</p>
+        <p>It is frustrating when people say that a lot of vegan food is awful. It's not because it's vegan that it tastes awful, but because it's a bad recipe or because the person can't cook. I have no shortage of memories from my omnivorous days of terrible meals made with animal products.</p>
+        <p>Fine vegan food is filled with not only rich, vibrant flavor, but also with a peacefulness that comes from its cruelty-free, compassionate foundation.</p>
+        <p>Janice Iannelli  Lincoln Park, N.J.</p>
+        <p>To the Editor:</p>
+        <p>Your writer states that omnivores are ''meat-and-dairy eaters,'' but this obscures the fact that vegans, too, are omnivores by nature. The article underemphasized what we should most admire about vegans, namely, that their eating habits reflect a moral choice to minimize harm to the world around them, particularly to animals. Furthermore, Ms. Moskowitz states that omnivores ''can't imagine baking without eggs and butter.'' I, however, am a conscientious omnivore who simply can't imagine baking.</p>
+        <p>Karin J. Lauria  Marlborough, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

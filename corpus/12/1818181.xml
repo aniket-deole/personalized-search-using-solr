@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Psychedelic Boat Trip Down a Sea of Ambiguity</title>
+    <meta content="12fluk" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/theater/reviews/12fluk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818181"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Theater Review | 'Fluke'"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Text</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <org class="online_producer">Performance Space 122</org>
+        <person class="online_producer">Hoffman, Maggie</person>
+        <object.title class="online_producer">Fluke (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6D61230F931A25752C0A9619C8B63" item-length="342" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Psychedelic Boat Trip Down a Sea of Ambiguity</hl1>
+        <hl2 class="online_headline">A Psychedelic Boat Trip Down a Sea of Ambiguity</hl2>
+      </hedline>
+      <byline class="print_byline">By Jason Zinoman</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Fluke,'' which ran at Performance Space 122 in April, reopened yesterday and continues through Jan. 28 at Collapsable Hole, 146 Metropolitan Avenue, at Berry Street, Williamsburg, Brooklyn; (718) 388-2251. Following are excerpts from Jason Zinoman's review, which appeared in The New York Times on April 29; the full text is at nytimes.com/theater.</p>
+        <p>Listen closely at ''Fluke,'' a collage of enigmatic riffs on ''Moby-Dick'' presented by the rambunctious experimental company Radiohole, and you'll hear the gurgling sound of the deep. There's even a collection of electric fish flapping their fins on the cluttered stage. It has always been easier to like a show by this Brooklyn troupe than to understand it. But while past pieces have featured elaborate minispectacles or brief flourishes of chaos, ''Fluke'' is a more modest and meditative work, although what is being pondered is anyone's guess.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Listen closely at "Fluke," a collage of enigmatic riffs on "Moby-Dick" presented by the rambunctious experimental company Radiohole, and you’ll hear the gurgling sound of the deep.</p>
+      </block>
+      <block class="full_text">
+        <p>''Fluke,'' which ran at Performance Space 122 in April, reopened yesterday and continues through Jan. 28 at Collapsable Hole, 146 Metropolitan Avenue, at Berry Street, Williamsburg, Brooklyn; (718) 388-2251. Following are excerpts from Jason Zinoman's review, which appeared in The New York Times on April 29; the full text is at nytimes.com/theater.</p>
+        <p>Listen closely at ''Fluke,'' a collage of enigmatic riffs on ''Moby-Dick'' presented by the rambunctious experimental company Radiohole, and you'll hear the gurgling sound of the deep. There's even a collection of electric fish flapping their fins on the cluttered stage. It has always been easier to like a show by this Brooklyn troupe than to understand it. But while past pieces have featured elaborate minispectacles or brief flourishes of chaos, ''Fluke'' is a more modest and meditative work, although what is being pondered is anyone's guess.</p>
+        <p>There are a few snippets of oddball dialogue (''I've the need of needs. I'm going to get the score of scores'') and a screaming punk rock song delivered by the always intense Eric Dyer, whose bald head and crooked features make him look like an overgrown and slightly sinister baby. At his sides are the alluring divas of Radiohole: Maggie Hoffman, wearing a pompadour and a glamorously bored expression, and Erin Douglass, whose corset interrupts an otherwise normal -- relatively -- look.</p>
+        <p>There are of course a few avant-garde clichés, like shining a spotlight in the audience's faces. But as with every Radiohole show, there are also some vivid theatrical ideas. Early on, each performer paints an eyeball on an eyelid, and they spend much of the show with their eyes closed. (They put on sunglasses when they need to see.)</p>
+        <p>It's a nicely creepy effect, making them appear like cartoon characters or dolls whose eyes have popped out of their sockets. And by performing most of the show with their eyes closed -- no mean feat -- the stars of Radiohole show how easy it is to stage an ocean: all you need to do is to close your eyes and imagine.</p>
+        <p>Theater Review | 'Fluke'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Oprah's New Reading Recommendation</title>
+    <meta content="27arts-1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821808"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Bosman, Julie</person>
+        <person class="indexing_service">Winfrey, Oprah</person>
+        <person class="indexing_service">Poitier, Sidney</person>
+        <object.title class="indexing_service">Measure of a Man, The (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E7D8173FF934A15752C0A9619C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Oprah's New Reading Recommendation</hl1>
+      </hedline>
+      <byline class="print_byline">By JULIE BOSMAN; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Bosman, Julie</byline>
+      <abstract>
+        <p>Oprah Winfrey selects Sidney Poitier autobiography The Measure of a Man for first book club choice in more than year; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Oprah Winfrey, above, has selected Sidney Poitier's autobiography, ''The Measure of a Man,'' as her first book club choice in more than a year. The selection was announced during the taping of yesterday's show, and the book instantly began climbing Amazon's sales rankings. Mark Tauber, vice president and deputy publisher of HarperSanFrancisco, the book's publisher, said copies bearing the ''Oprah's Book Club'' stamp went on sale yesterday. HarperSanFrancisco, which first published the book in 2000, printed hundreds of thousands of paperback copies in anticipation of yesterday's announcement. ''We're hoping to sell half a million copies at least,'' Mr. Tauber said yesterday. Ms. Winfrey's previous pick, Elie Wiesel's Holocaust memoir, ''Night,'' has sold more than 1.5 million copies since it was chosen. ''The Measure of a Man'' had previously sold about 75,000 copies in hardcover and 50,000 in paperback, Mr. Tauber said.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+      <block class="full_text">
+        <p>Oprah Winfrey, above, has selected Sidney Poitier's autobiography, ''The Measure of a Man,'' as her first book club choice in more than a year. The selection was announced during the taping of yesterday's show, and the book instantly began climbing Amazon's sales rankings. Mark Tauber, vice president and deputy publisher of HarperSanFrancisco, the book's publisher, said copies bearing the ''Oprah's Book Club'' stamp went on sale yesterday. HarperSanFrancisco, which first published the book in 2000, printed hundreds of thousands of paperback copies in anticipation of yesterday's announcement. ''We're hoping to sell half a million copies at least,'' Mr. Tauber said yesterday. Ms. Winfrey's previous pick, Elie Wiesel's Holocaust memoir, ''Night,'' has sold more than 1.5 million copies since it was chosen. ''The Measure of a Man'' had previously sold about 75,000 copies in hardcover and 50,000 in paperback, Mr. Tauber said.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

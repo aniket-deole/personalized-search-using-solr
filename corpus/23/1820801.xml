@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the Background, You Just May Hear the Past</title>
+    <meta content="23fran" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/arts/music/23fran.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820801"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Holden, Stephen</person>
+        <person class="indexing_service">Franks, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Lincoln Center for the Performing Arts</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0DB1F30F930A15752C0A9619C8B63" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the Background, You Just May Hear the Past</hl1>
+        <hl2 class="online_headline">In the Background, You Just May Hear the Past</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+      <byline class="normalized_byline">Holden, Stephen</byline>
+      <abstract>
+        <p>Stephen Holden reviews performance by Michael Franks at Allen Room; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When you listen to the songs of Michael Franks, a creator of impressionistic pop-jazz pastels, there is always the question of how to frame his exquisite, whimsical miniatures. On 16 albums recorded over more than three decades, the most common solution has been to present them as smooth jazz. But if you pay close attention to the lyrics of songs like ''The Cool School,'' a nostalgic ode to the jazz cats of the 50s and early 60s on his newest album, ''Rendezvous in Rio'' (Koch), you will realize that Mr. Franks's heart belongs to a purer musical era.</p>
+        <p>At the Allen Room, where he appeared on Saturday as part of Lincoln Center's American Songbook series, his nostalgia found its most pointed expression in ''Monk's New Tune,'' which describes a dream in which his vanished musical heroes reconvene to play one last gig on 52nd Street. As he sang it with a band that included his musical director, Charles Blenzig, on keyboards; Chris Hunter on saxophone and flute; Jay Anderson on bass; Willard Dyson on drums; and a Brazilian percussionist not identified in the program, the performance, which abounded with Monk quotations, came the closest to capturing the spirit of that bygone era.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For the most part, the songs at Saturday’s concert resembled anonymous radio music that undermined the intimacy of Michael Franks’s singing.</p>
+      </block>
+      <block class="full_text">
+        <p>When you listen to the songs of Michael Franks, a creator of impressionistic pop-jazz pastels, there is always the question of how to frame his exquisite, whimsical miniatures. On 16 albums recorded over more than three decades, the most common solution has been to present them as smooth jazz. But if you pay close attention to the lyrics of songs like ''The Cool School,'' a nostalgic ode to the jazz cats of the 50s and early 60s on his newest album, ''Rendezvous in Rio'' (Koch), you will realize that Mr. Franks's heart belongs to a purer musical era.</p>
+        <p>At the Allen Room, where he appeared on Saturday as part of Lincoln Center's American Songbook series, his nostalgia found its most pointed expression in ''Monk's New Tune,'' which describes a dream in which his vanished musical heroes reconvene to play one last gig on 52nd Street. As he sang it with a band that included his musical director, Charles Blenzig, on keyboards; Chris Hunter on saxophone and flute; Jay Anderson on bass; Willard Dyson on drums; and a Brazilian percussionist not identified in the program, the performance, which abounded with Monk quotations, came the closest to capturing the spirit of that bygone era.</p>
+        <p>The rest of the concert found Mr. Franks's songs packaged for the most part as anonymous radio music with mechanical instrumental solos that undermined the intimacy of his singing. His voice is so unassuming that it needs near silence for it to be distinguished from its surroundings and for the delicacy of his wordplay to be fully appreciated. This is headphone music that casts a spell when he whispers in your ear. Although the fortification of a backup singer (Veronica Nunn) doubling the melodies helped redress the balance, it was still not enough.</p>
+        <p>The best possible musical environment for Mr. Franks would be flexible jazz chamber music, with cello or viola (not the cheesy electric keyboard used on Saturday), brushed with discreet Brazilian percussion. A sensibility as refined as Mr. Franks's requires nothing less than musical textures measured out in quarter-teaspoons.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

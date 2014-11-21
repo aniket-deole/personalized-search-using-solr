@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Reform Window</title>
+    <meta content="LIreform" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820291"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DB1130F932A15752C0A9619C8B63" item-length="478" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Reform Window</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sometimes in politics, as in other vital matters, there occurs just the right combination of will, power and urgency to make real progress. Such a moment has arrived in Albany. The matter at hand is reforming the way Albany does business. All the key players are in alignment. Gov. Eliot Spitzer, still riding his electoral landslide, promises a new day in Albany. The Assembly speaker, Sheldon Silver, a Democrat like Mr. Spitzer, says that his half of the Legislature is ready, again, to vote on many desperately-needed reforms. And Senator Joseph Bruno, the Republican leader of the other half, finds himself in trouble with investigators and thus in dire need of a few positive headlines.</p>
+        <p>There is another reason Mr. Bruno might be more willing than usual to entertain real reform. His control over the State Senate threatens to narrow to 32 Republicans and 29 Democrats if a Democrat wins in a special election Feb. 6 on Long Island. And one of the top issues in that race between Craig Johnson, the Democrat, and Maureen O'Connell, the Republican, is government reform.</p>
+      </block>
+      <block class="full_text">
+        <p>Sometimes in politics, as in other vital matters, there occurs just the right combination of will, power and urgency to make real progress. Such a moment has arrived in Albany. The matter at hand is reforming the way Albany does business. All the key players are in alignment. Gov. Eliot Spitzer, still riding his electoral landslide, promises a new day in Albany. The Assembly speaker, Sheldon Silver, a Democrat like Mr. Spitzer, says that his half of the Legislature is ready, again, to vote on many desperately-needed reforms. And Senator Joseph Bruno, the Republican leader of the other half, finds himself in trouble with investigators and thus in dire need of a few positive headlines.</p>
+        <p>There is another reason Mr. Bruno might be more willing than usual to entertain real reform. His control over the State Senate threatens to narrow to 32 Republicans and 29 Democrats if a Democrat wins in a special election Feb. 6 on Long Island. And one of the top issues in that race between Craig Johnson, the Democrat, and Maureen O'Connell, the Republican, is government reform.</p>
+        <p>Thus, last week, Mr. Spitzer, Mr. Bruno and Mr. Silver stood side-by-side to announce ''sweeping reforms'' of the way the state budget is put together. Among the proposed improvements is a requirement that henceforth all lump-sum payments for pet projects in members' districts be itemized in the budget, thus exposing them to public view. Until a recent court ruling requiring disclosure, these so-called ''member items,'' amounting to hundreds of millions of dollars, have been shrouded in mystery.</p>
+        <p>The reforms would also require the Legislature to enact a balanced budget. As things stand now, only the governor's proposed budget has to be in balance; the legislators are free to throw the whole thing out of whack through amendments. The reforms would oblige the legislators to explain the budgetary impact of their amendments. It would also ask the governor to explain how his budget affects local governments.</p>
+        <p>Finally, the proposals would give the state comptroller the authority to resolve disputes over how much revenue is available to the state, which should make it a lot easier for lawmakers to adopt a budget on time by April 1.</p>
+        <p>These changes are not enough, of course. There should be an independent budget office, like New York City's. There should be a later deadline for the budget -- probably July 1 instead of April 1 to make it easier to assess tax revenues. And New York should move to the best-available budgeting system, using what are known as generally accepted accounting principles.</p>
+        <p>Still, to see state leaders standing together to announce these budget reforms is a lot better than the usual grumbling at separate news conferences. The trick will be for them to pass these changes quickly, preferably over the next two weeks while the three are all on the same happy track.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

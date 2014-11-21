@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Enron's Last Victim: American Markets</title>
+    <meta content="03niskanen" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/03/opinion/03niskanen.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816116"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Niskanen, William A</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Enron Corp</org>
+        <person class="online_producer">Sarbanes, Paul S</person>
+        <person class="online_producer">Oxley, Michael G</person>
+        <person class="online_producer">Niskanen, William A</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EEDC1730F930A35752C0A9619C8B63" item-length="703" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Enron's Last Victim: American Markets</hl1>
+        <hl2 class="online_headline">Enron's Last Victim: American Markets</hl2>
+      </hedline>
+      <byline class="print_byline">By William A. Niskanen</byline>
+      <byline class="normalized_byline">Niskanen, William A</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>William A Niskanen Op-Ed article urges Congress to repeal Sarbanes-Oxley Act and says this attack on corporate corruption has proven counterproductive; says section of law requiring companies to perform internal audits is far more costly than was projected, leading some small companies to go private; says costs associated with act have made senior managers too risk-averse; says act has also failed at primary goal: substantially increasing investor confidence and accuracy of accounting of firms listed on exchanges (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN the new Congress begins its session tomorrow, two familiar faces will not be present: Senator Paul S. Sarbanes and Representative Michael G. Oxley, who are both retiring. Mr. Sarbanes, a Maryland Democrat, has served for 30 years; Mr. Oxley, an Ohio Republican, for 26 -- and their main legacy will be their joint attack on corporate corruption, the Sarbanes-Oxley Act of 2002.</p>
+        <p>The act, which was passed hastily in the wake of the Enron scandal, was surely well intentioned. But it has proven counterproductive in the extreme, and Congress would best honor the departing lawmakers by repealing it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Sarbanes-Oxley Act has seriously harmed American corporations and financial markets without increasing investor confidence.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN the new Congress begins its session tomorrow, two familiar faces will not be present: Senator Paul S. Sarbanes and Representative Michael G. Oxley, who are both retiring. Mr. Sarbanes, a Maryland Democrat, has served for 30 years; Mr. Oxley, an Ohio Republican, for 26 -- and their main legacy will be their joint attack on corporate corruption, the Sarbanes-Oxley Act of 2002.</p>
+        <p>The act, which was passed hastily in the wake of the Enron scandal, was surely well intentioned. But it has proven counterproductive in the extreme, and Congress would best honor the departing lawmakers by repealing it.</p>
+        <p>Sarbanes-Oxley has seriously harmed American corporations and financial markets without increasing investor confidence. The section of the law requiring companies to perform internal audits has turned out to be far more costly than proponents projected, especially for smaller firms. These costs have led some small companies to go private, hardly a victory for public oversight, and some foreign firms to withdraw their stocks from American exchanges.</p>
+        <p>In addition, the average ''listing premium'' -- the benefit that companies receive by listing their stocks on American exchanges -- has declined by 19 percentage points since 2002. This explains why the percentage of worldwide initial public offerings on our exchanges dropped to 5 percent last year, from 50 percent in 2000.</p>
+        <p>Other costs associated with the act may turn out to be more important. For example, more stringent financial regulations and increased penalties for accounting errors may make senior managers too risk-averse. Most chief executives are not accountants, so the requirement that they personally affirm tax reports -- at the risk of jail time should anything be amiss -- may make them reluctant to partake in perfectly legitimate activities.</p>
+        <p>Paradoxically, Sarbanes-Oxley's strict rules on oversight by boards of directors would have been insufficient to prevent the collapse of Enron. By the act's standards, Enron had a model board; most members were distinguished professionals. The chairman of the audit committee was a former accounting professor and dean of the Stanford Business School.</p>
+        <p>Nor would the act's provisions to create a stronger Securities and Exchange Commission have made a difference. The commission had been aware of Enron's accounting techniques since 1992 and had never thought to question them.</p>
+        <p>Nor was Sarbanes-Oxley necessary in prosecuting the senior managers of Enron, WorldCom and other corporations where fraud was committed -- all have been convicted of accounting fraud under laws predating the act.</p>
+        <p>The negative repercussions of the act on businesses might have been worth it if the act had achieved its primary goal: substantially increasing the confidence of investors in the accuracy of the accounts of firms listed on the exchanges. But that does not seem to have happened.</p>
+        <p>The best measure of investor confidence is the price-earnings ratio -- the price that investors are willing to pay for each dollar of a company's reported earnings. The overall price-earnings ratio for the Standard &amp; Poor's 500-stock index, however, has declined continuously since the Sarbanes-Oxley Act was being drafted in the spring of 2002.</p>
+        <p>Several leaders of the new Democratic Congressional majority have endorsed a relaxation of the audit requirements and other parts of the act. That is encouraging, but it is not enough. The basic structure of Sarbanes-Oxley is unsound.</p>
+        <p>One big problem is that the act nationalized the rules for corporate governance, reducing the value of the competition among the states for setting such rules. In addition, the act failed to resolve the major conflict of interest created when auditing firms are paid by the companies they audit. Rather than creating a regulation to change the system, Sarbanes-Oxley created an expensive and arguably unconstitutional new regulatory agency to regulate the audit firms' activities.</p>
+        <p>And, as is too often the case, Congress has rewarded the failures of the very bureaucracies that failed to keep up with Enron -- doubling the budget of the Securities and Exchange Commission.</p>
+        <p>Tinkering is not enough. Sarbanes-Oxley continues to discourage smaller companies from trading publicly and foreign companies from listing their stocks on American exchanges. In the eyes of investors, it hasn't cleaned up any corruption, it has only forced companies to jump through hoops. As Senator Sarbanes and Representative Oxley drift into retirement, their act should retire with them.</p>
+        <p>Op-Ed Contributor William A. Niskanen, chairman of the Cato Institute, was acting chairman of the Council of Economic Advisers under President Ronald Reagan.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">William A. Niskanen, chairman of the Cato Institute, was acting chairman of the Council of Economic Advisers under President Ronald Reagan.</tagline>
+    </body.end>
+  </body>
+</nitf>

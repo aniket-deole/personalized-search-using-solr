@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rough Rides In the Big City</title>
+    <meta content="08bulls" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817448"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BULL RIDING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bull Riding</classifier>
+        <classifier class="indexing_service" type="descriptor">Madison Square Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stadiums and Arenas</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0DA1530F93BA35752C0A9619C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rough Rides In the Big City</hl1>
+      </hedline>
+      <abstract>
+        <p>Photos of Professional Bull Riding competition at Madison Square Garden</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Forty-five of the world's top professional bull riders came to Manhattan this weekend for the Versus Invitational at Madison Square Garden, hoping to stay atop some of the nation's top bulls in the Professional Bull Riders tour's first visit to New York.</p>
+        <p>J. B. Mauney of Mooresville, N.C., last year's rookie of the year on the circuit, won the first event of his career by finishing fourth in the final round yesterday after a ride on a bull named The Boogerman. He and the second-place finisher, Steven Shelley, were the only two riders to score on all four of their bulls this weekend.</p>
+      </block>
+      <block class="full_text">
+        <p>Forty-five of the world's top professional bull riders came to Manhattan this weekend for the Versus Invitational at Madison Square Garden, hoping to stay atop some of the nation's top bulls in the Professional Bull Riders tour's first visit to New York.</p>
+        <p>J. B. Mauney of Mooresville, N.C., last year's rookie of the year on the circuit, won the first event of his career by finishing fourth in the final round yesterday after a ride on a bull named The Boogerman. He and the second-place finisher, Steven Shelley, were the only two riders to score on all four of their bulls this weekend.</p>
+        <p>The three-time world champion Adriano Moraes of Brazil had won the first two rounds of competition Saturday, but he was thrown by his bull in the final round yesterday and finished third over all.</p>
+        <p>BULL RIDING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

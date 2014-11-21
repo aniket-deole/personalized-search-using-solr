@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Coeds</title>
+    <meta content="coverheds" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/education/edlife/07coverheds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816857"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DATA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Men</classifier>
+        <classifier class="indexing_service" type="descriptor">Enrollment</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="descriptor">Fraternities and Sororities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fraternities and Sororities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DC1F31F934A35752C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Coeds</hl1>
+        <hl2 class="online_headline">Coeds</hl2>
+      </hedline>
+      <abstract>
+        <p>Women were initially deemed unfit for rigors of higher education but now make up 58 percent of college enrollment; charts illustrate path of coeducation and growth over years (special section, Education Life) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the beginning, American universities admitted men only. Women were deemed unfit for the rigors of higher education -- insufficient blood to the brain, you know -- and in need of teaching more suited to their jobs as mothers and wives. The rest is history. Today, women make up 58 percent of college enrollment. Their numbers started growing in the 1980s, though men still rule at the most elite institutions. The colleges and universities below, single sex at their founding, illustrate the path of coeducation. It's a fuzzy path. A graduate school might have admitted women almost 100 years before the undergraduate program did. More recently, women's colleges have been opening their doors to the opposite sex.</p>
+        <p>As for that mainstay of the old-boy network, fraternities, they thrive sporadically. Of the institutions below, Washington &amp; Lee University rules, followed by DePauw and Sewanee: University of the South.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Colleges and universities that were single sex at their founding illustrate the path of coeducation.</p>
+      </block>
+      <block class="full_text">
+        <p>In the beginning, American universities admitted men only. Women were deemed unfit for the rigors of higher education -- insufficient blood to the brain, you know -- and in need of teaching more suited to their jobs as mothers and wives. The rest is history. Today, women make up 58 percent of college enrollment. Their numbers started growing in the 1980s, though men still rule at the most elite institutions. The colleges and universities below, single sex at their founding, illustrate the path of coeducation. It's a fuzzy path. A graduate school might have admitted women almost 100 years before the undergraduate program did. More recently, women's colleges have been opening their doors to the opposite sex.</p>
+        <p>As for that mainstay of the old-boy network, fraternities, they thrive sporadically. Of the institutions below, Washington &amp; Lee University rules, followed by DePauw and Sewanee: University of the South.  DATA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

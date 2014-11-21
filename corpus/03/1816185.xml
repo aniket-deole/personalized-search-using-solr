@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Americas: Venezuela: 16 Dead In Prison Melee</title>
+    <meta content="03briefs-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816185"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Gangs</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <location class="indexing_service">Venezuela</location>
+        <location class="indexing_service">Uribana (Venezuela)</location>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Venezuela</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE4DA1730F930A35752C0A9619C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Americas: Venezuela: 16 Dead In Prison Melee</hl1>
+      </hedline>
+      <byline class="print_byline">By SIMON ROMERO
+&lt;p&gt;</byline>
+      <abstract>
+        <p>Rival gangs clash at prison in Uribana, Venezuela, and 16 inmates are killed; authorities struggle with crowding and shortage of trained guards (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sixteen inmates were killed as rival gangs clashed at a prison in Uribana, in western Lara State. Violent deaths have plagued the country's prisons, a system with about 19,000 inmates, as the authorities struggle with crowding and a shortage of trained guards. More than 300 inmates were killed in the first nine months of 2006. Almost 50 prisoners were killed in 2006 in Uribana, a six-year-old prison considered the most violent in Venezuela.</p>
+        <p>SIMON ROMERO</p>
+      </block>
+      <block class="full_text">
+        <p>Sixteen inmates were killed as rival gangs clashed at a prison in Uribana, in western Lara State. Violent deaths have plagued the country's prisons, a system with about 19,000 inmates, as the authorities struggle with crowding and a shortage of trained guards. More than 300 inmates were killed in the first nine months of 2006. Almost 50 prisoners were killed in 2006 in Uribana, a six-year-old prison considered the most violent in Venezuela.</p>
+        <p>SIMON ROMERO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

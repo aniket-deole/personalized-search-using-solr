@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Passaic Opens Center for Day Laborers</title>
+    <meta content="07njweekNJ" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817052"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Day Laborers</classifier>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <location class="indexing_service">Passaic (NJ)</location>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E2DE1430F934A35752C0A9619C8B63" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Passaic Opens Center for Day Laborers</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>City of Passaic, NJ, opens center on Parker Avenue for those looking for day jobs; storefront, rented and renovated by workers, will be staffed and financed by them (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The City of Passaic, faced with a rising number of day laborers standing on street corners and in parking lots in hopes of landing work, opened a center last week that is to serve as a hub for those looking for a day job.</p>
+        <p>The building on Parker Avenue is across the street from a Home Depot. Mayor Samuel Rivera said the center was necessary because some of the nearly 100 people a day waiting for work were loitering on homeowners' porches when it rained and some were harassing parents dropping off children at a nearby school.</p>
+      </block>
+      <block class="full_text">
+        <p>The City of Passaic, faced with a rising number of day laborers standing on street corners and in parking lots in hopes of landing work, opened a center last week that is to serve as a hub for those looking for a day job.</p>
+        <p>The building on Parker Avenue is across the street from a Home Depot. Mayor Samuel Rivera said the center was necessary because some of the nearly 100 people a day waiting for work were loitering on homeowners' porches when it rained and some were harassing parents dropping off children at a nearby school.</p>
+        <p>''It became a menace, and they were getting fresh,'' Mr. Rivera said in a telephone interview. ''I had to send the police there, but we wanted a better solution.''</p>
+        <p>So the workers rented and renovated a rundown storefront building and will now report to the center's waiting area. Contractors looking for workers are expected to go to the center to fill out paperwork requesting laborers' services.</p>
+        <p>''Some men were not getting paid,'' Mr. Rivera said. ''This will cut down on that problem.''</p>
+        <p>The center will be staffed and financed by the workers. In exchange for the renovations, the landlord agreed to give them six months' free rent and then charge them $500 a month.</p>
+        <p>Mr. Rivera said there were logistical problems in the first few days as workers tried to figure out who among them would run the center. He has granted a one-month grace period to get the center operational before the police resume ticketing workers who loiter on the street.</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

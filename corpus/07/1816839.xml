@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nonfiction Chronicle</title>
+    <meta content="ArtBlurb.t" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1816839"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Price, Matthew</person>
+        <person class="indexing_service">Blechman, Andrew D</person>
+        <person class="indexing_service">Orbanes, Phillip E</person>
+        <person class="indexing_service">Foster, Thomas A</person>
+        <person class="indexing_service">McFeely, William S</person>
+        <person class="indexing_service">Eakins, Thomas (1844-1916)</person>
+        <person class="indexing_service">Wilson, William Julius</person>
+        <person class="indexing_service">Taub, Richard P</person>
+        <person class="indexing_service">Amidi, Amid</person>
+        <object.title class="indexing_service">Pigeons (Book)</object.title>
+        <object.title class="indexing_service">Monopoly (Book)</object.title>
+        <object.title class="indexing_service">Sex and the Eighteenth-Century Man (Book)</object.title>
+        <object.title class="indexing_service">Portrait: The Life of Thomas Eakins (Book)</object.title>
+        <object.title class="indexing_service">There Goes the Neighborhood (Book)</object.title>
+        <object.title class="indexing_service">Cartoon Modern: Style and Design in Fifties Animation (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4DC1F31F934A35752C0A9619C8B63" item-length="3" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nonfiction Chronicle</hl1>
+      </hedline>
+      <byline class="print_byline">By Matthew Price
+&lt;br&gt;</byline>
+      <abstract>
+        <p>Matthew Price Nonfiction Chronicle article notes books Pigeons: The Fascinating Saga of the World's Most Revered and Reviled Bird by Andrew D Blechman, Monopoly: The World's Most Famous Game--and How It Got That Way by Phillip E Orbanes, Sex and the Eighteenth-Century Man: Massachusetts and the History of Sexuality in America by Thomas A Foster, Portrait: The Life of Thomas Eakins by William S McFeely and There Goes the Neighborhood: Racial, Ethnic, and Class Tensions in Four Chicago Neighborhoods and Their Meaning for America by William Julius Wilson and Richard P Taub; photo from book Cartoon Modern: Style and Design in Fifties Animation by Amid Amidi (M)</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

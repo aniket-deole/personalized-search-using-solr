@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spouses Meet in School</title>
+    <meta content="l28single" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822114"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Social Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Life Styles</classifier>
+        <classifier class="indexing_service" type="descriptor">Single Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Marriages</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Graduate Schools and Students</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Peters, L David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Single Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life Styles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E0D9173FF93BA15752C0A9619C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spouses Meet in School</hl1>
+      </hedline>
+      <abstract>
+        <p>L David Peters letter, prompted by Jan 21 article on increasing number of single Americans, says one reason why college-educated men and women marry in greater numbers than their counterparts is because college and grad school are social environments conducive to finding like-minded partner</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Why Are There So Many Single Americans?'' (Week in Review, Jan. 21), you report on a variety of expert explanations as to why college-educated men and women marry in greater numbers than their non-college-educated counterparts. But the analysis leaves out one salient possibility: college or graduate school as a social space.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Why Are There So Many Single Americans?'' (Week in Review, Jan. 21), you report on a variety of expert explanations as to why college-educated men and women marry in greater numbers than their non-college-educated counterparts. But the analysis leaves out one salient possibility: college or graduate school as a social space.</p>
+        <p>I am in my 20s, and of my married, college-educated friends, the majority first met their spouses in college or graduate school. The social environment outside of college is simply less conducive to finding a like-minded spouse; the effects of college life should not be discounted.</p>
+        <p>L. David Peters  New Haven, Jan. 22, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

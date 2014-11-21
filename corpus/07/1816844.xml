@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dancing With the Stars</title>
+    <meta content="Johnson.t" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/books/review/Johnson.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816844"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Johnson, George</person>
+        <person class="indexing_service">Dyson, Freeman</person>
+        <object.title class="indexing_service">Scientist as Rebel, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Dyson, Freeman J</person>
+        <object.title class="online_producer">Scientist as Rebel, The (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3DC1F31F934A35752C0A9619C8B63" item-length="913" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dancing With the Stars</hl1>
+        <hl2 class="online_headline">Dancing With the Stars</hl2>
+      </hedline>
+      <byline class="print_byline">By GEORGE JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, George</byline>
+      <abstract>
+        <p>George Johnson reviews book The Scientist as Rebel by Freeman Dyson; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Scientist as Rebel</p>
+        <p>By Freeman Dyson.</p>
+        <p>360 pp. New York Review Books.</p>
+        <p>$27.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Freeman Dyson’s essays reflect a love of science and a long association with its leading lights.</p>
+      </block>
+      <block class="full_text">
+        <p>The Scientist as Rebel</p>
+        <p>By Freeman Dyson.</p>
+        <p>360 pp. New York Review Books.</p>
+        <p>$27.95.</p>
+        <p>In June 1948, as Jack Kerouac was recovering from another of the amphetamine-fueled joy rides immortalized in ''On the Road,'' Freeman Dyson, a young British physicist studying at Cornell, set off on a road trip of a different kind. Bound for Albuquerque with the loquacious Richard Feynman, the Neal Cassady of physics, at the wheel, the two scientists talked nonstop about the morality of nuclear weapons and, when they had exhausted that subject, how photons dance with electrons to produce the physical world. The hills and prairies that Dyson, still new to America, was admiring from the car window, the thunderstorm that stranded him and Feynman overnight in Oklahoma -- all of nature's manifestations would be understood on a deeper level once the bugs were worked out of an unproven idea called quantum electrodynamics, or QED.</p>
+        <p>Dyson recounted the journey years later in ''Disturbing the Universe,'' contrasting Feynman's Beat-like soliloquies on particles and waves with the mannered presentations (''more technique than music'') he heard later that summer from the Harvard physicist Julian Schwinger. On a Greyhound bus crossing Nebraska -- Dyson had fallen in love with the American highway -- he had an epiphany: his two colleagues were talking, in different languages, about the same thing.</p>
+        <p>It was a pivotal moment in the history of physics. With their contrasting visions joined into a single theory, Feynman, Schwinger and the Japanese scientist Sin-Itiro Tomonaga were honored in 1965 with a Nobel Prize, one that some think Dyson deserved a piece of.</p>
+        <p>In ''The Scientist as Rebel,'' a new collection of essays (many of them reviews first published in The New York Review of Books), he sounds content with his role as a bridge builder. ''Tomonaga and Schwinger had built solid foundations on one side of a river of ignorance,'' he writes. ''Feynman had built solid foundations on the other side, and my job was to design and build the cantilevers reaching out over the water until they met in the middle.''</p>
+        <p>Drawing on this instinct for unlikely connections, Dyson has become one of science's most eloquent interpreters. From his perch at the Institute for Advanced Study in Princeton, he followed ''Disturbing the Universe,'' a remembrance of physics in the making, with ''Infinite in All Directions,'' his exuberant celebration of the universe, and other books like ''Weapons and Hope,'' ''Imagined Worlds'' and ''The Sun, the Genome and the Internet'' -- speculations on how science and technology might one day ennoble humanity, eliminating war and poverty, if only we can avoid blowing ourselves up.</p>
+        <p>Science, Dyson says, is an inherently subversive act. Whether overturning a longstanding idea (Heisenberg upending causality with quantum mechanics, Gödel smashing the pure platonic notion of mathematical decidability) or marshaling the same disdain for received political wisdom (Galileo, Andrei Sakharov), the scientific ethic -- stubbornly following your nose where it leads you -- is a threat to establishments of all kinds. He quotes the biologist J. B. S. Haldane: ''Let him beware of him in whom reason has become the greatest and most terrible of the passions.''</p>
+        <p>It's debatable whether anyone's book reviews -- even those as thoughtfully discursive as Dyson's -- belong embalmed between covers, but ''The Scientist as Rebel'' can be perused for a sampling of his iconoclastic takes on a science that sometimes seems to be turning into an establishment of its own. So much has been written about the grand quest to unite quantum mechanics and general relativity into a theory of everything -- ''to reduce physics,'' as Dyson puts it, ''to a finite set of marks on paper'' -- that it's bracing to consider his minority view: that the existence of a compact set of almighty equations may be a dogma in itself.</p>
+        <p>''As a conservative, I do not agree that a division of physics into separate theories for large and small is unacceptable,'' he wrote in a review republished here of Brian Greene's book ''The Fabric of the Cosmos.'' ''I am happy with the situation in which we have lived for the last 80 years, with separate theories for the classical world of stars and planets and the quantum world of atoms and electrons.''</p>
+        <p>It's jarring at first to hear the Scientist as Rebel describing himself as a conservative. But that's Dyson: as resistant to categorization as the universe his colleagues are trying to mathematicize. ''In the history of science,'' he writes, ''there is always a tension between revolutionaries and conservatives, between those who build grand castles in the air and those who prefer to lay one brick at a time on solid ground.''</p>
+        <p>Dyson, the brick layer, comes down on the side of Baconian science, built piecemeal from scraps rather than deduced through pure Cartesian thought, a science driven more by new tools -- microscopes, particle accelerators, gene sequencers -- than new ideas. In contrast to the science of Athens, as he drew the distinction in ''Infinite in All Directions,'' he prefers the science of Manchester, where Ernest Rutherford, cobbling together a picture of the nucleus, complained of theorists who ''play games with their symbols'' while ''we turn out the real facts of Nature.''</p>
+        <p>In a science of unifiers, Dyson prides himself as a diversifier. ''I gazed at the stars as a young boy,'' he once wrote. ''That's what science means to me. It's not theories about stars; it's the actual stars that count.'' h</p>
+        <p>Science, Dyson argues, is an inherently subversive act, a threat to establishments of all kinds.</p>
+        <p>George Johnson's books include ''Strange Beauty: Murray Gell-Mann and the Revolution in 20th-Century Physics.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">George Johnson's books include ''Strange Beauty: Murray Gell-Mann and the Revolution in 20th-Century Physics.''</tagline>
+    </body.end>
+  </body>
+</nitf>

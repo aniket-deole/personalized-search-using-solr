@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Congress Toughens Pension Laws</title>
+    <meta content="23pweb" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070124T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1820898"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="POLITICAL ACTION: NEW RULES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Congress (US)</org>
+        <person class="indexing_service">Kirkpatrick, David D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retirement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5D81F30F930A15752C0A9619C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Congress Toughens Pension Laws</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID D. KIRKPATRICK</byline>
+      <byline class="normalized_byline">Kirkpatrick, David D</byline>
+      <abstract>
+        <p>House of Representatives votes this week on measure to deny federal pension to any current or future member of Congress convicted of serious crime in office; measure would not strip pensions from former members who are already collecting them; chart (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The House of Representatives plans to vote this week on a measure to deny a federal pension to any current or future member of Congress convicted of a serious crime in office. The Senate has passed a similar bill. The measure would not strip pensions from former members who are already collecting them, including Bob Ney of Ohio and Randy Cunningham of California, both of whom have been sentenced in corruption cases. According to a tally by Senator John Kerry, who sponsored the Senate version of the bill, since 1980 at least 26 lawmakers have been convicted of crimes.</p>
+        <p>DAVID D. KIRKPATRICK</p>
+      </block>
+      <block class="full_text">
+        <p>The House of Representatives plans to vote this week on a measure to deny a federal pension to any current or future member of Congress convicted of a serious crime in office. The Senate has passed a similar bill. The measure would not strip pensions from former members who are already collecting them, including Bob Ney of Ohio and Randy Cunningham of California, both of whom have been sentenced in corruption cases. According to a tally by Senator John Kerry, who sponsored the Senate version of the bill, since 1980 at least 26 lawmakers have been convicted of crimes.</p>
+        <p>DAVID D. KIRKPATRICK  POLITICAL ACTION: NEW RULES</p>
+        <p>Correction:  January 24, 2007, Wednesday  A chart with the Political Action column yesterday listing the estimated federal pensions of former lawmakers who have been convicted of crimes misstated the party affiliation of former Representative James Traficant of Ohio. He was a Democrat, not a Republican.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 24, 2007, Wednesday</p>
+        <p>A chart with the Political Action column yesterday listing the estimated federal pensions of former lawmakers who have been convicted of crimes misstated the party affiliation of former Representative James Traficant of Ohio. He was a Democrat, not a Republican.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

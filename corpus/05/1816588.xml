@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Iván Navarro</title>
+    <meta content="05gall-3" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816588"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Smith, Roberta</person>
+        <person class="indexing_service">Navarro, Ivan</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDB1430F936A35752C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Iván Navarro</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+      <abstract>
+        <p>Roberta Smith reviews sculptures by Ivan Navarro at Roebling Hall gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Concentration Camp  Roebling Hall  606 West 26th Street, Chelsea  Through Wednesday</p>
+        <p>Iván Navarro's black-light neon sculptures are on the gimmicky side; never mind their supposed concern with power and torture and, thus, the background of this Chilean-born, New York-based artist. In an uncomfortably dark gallery, this show includes actual-size outlines of Marcel Breuer's classic Wassily chair and Gerrit Rietveld's Z chair, as well as a basketball hoop. Mr. Navarro is also known for sculptures quoting well-known Modernist furniture, using fluorescent tubes. The fluorescent works are more engaging because the translation is more awkward, as suggested by a wheelbarrow made of purple-colored fluorescent tubes. But the real draw of this show is a melancholic music video that shows the wheelbarrow in action.</p>
+      </block>
+      <block class="full_text">
+        <p>Concentration Camp  Roebling Hall  606 West 26th Street, Chelsea  Through Wednesday</p>
+        <p>Iván Navarro's black-light neon sculptures are on the gimmicky side; never mind their supposed concern with power and torture and, thus, the background of this Chilean-born, New York-based artist. In an uncomfortably dark gallery, this show includes actual-size outlines of Marcel Breuer's classic Wassily chair and Gerrit Rietveld's Z chair, as well as a basketball hoop. Mr. Navarro is also known for sculptures quoting well-known Modernist furniture, using fluorescent tubes. The fluorescent works are more engaging because the translation is more awkward, as suggested by a wheelbarrow made of purple-colored fluorescent tubes. But the real draw of this show is a melancholic music video that shows the wheelbarrow in action.</p>
+        <p>In this video, titled ''Flashlight: I Am Not From Here, I Am Not From There,'' Mr. Navarro's collaborator is Christian Torres-Roje, a member of the band Nutria, from Williamsburg, Brooklyn. Dressed as a down-and-out man, Mr. Torres-Roje pushes the wheelbarrow around the urban wilds, past crumbling warehouses and along train tracks. The tubes are lighted by power from a generator riding in the wheelbarrow; the generator runs on gasoline he siphoned from a car. Periodically he stops to change the color of the fluorescent tubes -- they are violet, then yellow, then white, then red -- like a methodical laborer going about his tasks.</p>
+        <p>On the soundtrack Mr. Torres-Roje sings in Spanish, with English subtitles, his cover of the Latin ballad ''No Soy de Aquí, Ni Soy de Allá'' (the video's subtitle, in Spanish), giving an almost exquisite poignancy to its lyrics, whose mixture of memory, regret and joy seems perfectly tailored to Mr. Torres-Roje's wanderings. Dusk settles, and the wheelbarrow, a rolling flashlight, seems to proceed under its own power. There is something ineffably sad in the combination of absurdity, injustice and beauty that these maneuvers convey.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

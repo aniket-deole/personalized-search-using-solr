@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Pellicano Reconsiders Representing Himself</title>
+    <meta content="18arts-2" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819720"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <location class="indexing_service">Los Angeles (Calif)</location>
+        <person class="indexing_service">Weiner, Allison Hope</person>
+        <person class="indexing_service">Halbfinger, David M</person>
+        <person class="indexing_service">Pellicano, Anthony</person>
+        <person class="indexing_service">Gruel, Steven F</person>
+        <person class="indexing_service">Artan, Michael H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E3D81130F93BA25752C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Pellicano Reconsiders Representing Himself</hl1>
+      </hedline>
+      <byline class="print_byline">By ALLISON HOPE WEINER and DAVID M. HALBFINGER; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Weiner, Allison Hope; Halbfinger, David M</byline>
+      <abstract>
+        <p>Hollywood private eye Anthony Pellicano, days after saying he would represent himself at his trial on wiretapping, racketeering and conspiracy charges, asks federal court to allow him to rehire Steven F Gruel and add Michael H Artan; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Days after saying he would represent himself at his trial on wiretapping, racketeering and conspiracy charges, Anthony Pellicano, below, the Hollywood private eye, has changed his mind. Mr. Pellicano is asking a federal judge to allow him to rehire Steven F. Gruel of San Francisco and to add a Los Angeles lawyer, Michael H. Artan. The request was first reported by The Los Angeles Daily Journal, which covers the courts. ''It's easier for two lawyers to handle a matter than one, and that's not a fact that would have escaped Mr. Pellicano,'' Mr. Artan said in a telephone interview yesterday. Mr. Gruel could not be reached for comment.</p>
+        <p>ALLISON HOPE WEINER and DAVID M. HALBFINGER</p>
+      </block>
+      <block class="full_text">
+        <p>Days after saying he would represent himself at his trial on wiretapping, racketeering and conspiracy charges, Anthony Pellicano, below, the Hollywood private eye, has changed his mind. Mr. Pellicano is asking a federal judge to allow him to rehire Steven F. Gruel of San Francisco and to add a Los Angeles lawyer, Michael H. Artan. The request was first reported by The Los Angeles Daily Journal, which covers the courts. ''It's easier for two lawyers to handle a matter than one, and that's not a fact that would have escaped Mr. Pellicano,'' Mr. Artan said in a telephone interview yesterday. Mr. Gruel could not be reached for comment.</p>
+        <p>ALLISON HOPE WEINER and DAVID M. HALBFINGER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

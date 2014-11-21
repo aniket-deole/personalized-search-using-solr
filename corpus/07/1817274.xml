@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Our Hometowns Pay For Charter Schools</title>
+    <meta content="l07conn-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817274"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Property Taxes</classifier>
+        <classifier class="indexing_service" type="descriptor">Enrollment</classifier>
+        <classifier class="indexing_service" type="descriptor">Charter Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <person class="indexing_service">Yrchik, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Charter Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEFDD1530F934A35752C0A9619C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Our Hometowns Pay For Charter Schools</hl1>
+      </hedline>
+      <abstract>
+        <p>Connecticut Education Assn executive director John Yrchik letter disputes suggestion in December 31 editorial that removing cap on enrollment at charter schools would reduce local tax burdens</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Legislature: Learn to Say No'' (editorial, Dec. 31):</p>
+        <p>You suggest that removing the cap on the number of seats allowed for students in state charter schools would reduce neighborhood school costs for local taxpayers. This isn't necessarily true.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Legislature: Learn to Say No'' (editorial, Dec. 31):</p>
+        <p>You suggest that removing the cap on the number of seats allowed for students in state charter schools would reduce neighborhood school costs for local taxpayers. This isn't necessarily true.</p>
+        <p>When students choose to go to state charter schools, their towns may suffer the loss of state Education Cost Sharing grants for those students.</p>
+        <p>At the same time, the students' hometown school districts are responsible for the students' transportation to the charter schools and also some special education costs at the state schools. So there is a net loss to these children's hometown school budgets -- a shortfall that local taxpayers have to make up.</p>
+        <p>In Stamford, for example, traditional public schools in the city lose roughly $90,000 in state E.C.S. aid and must pay an additional $350,000 for transportation and special education costs for state charter schools -- a net loss of $440,000. This must be borne by Stamford taxpayers.</p>
+        <p>The State Legislature needs to examine school financing in the 2007 session for all Connecticut schools. In the 2006-7 school year, state E.C.S. grant aid for all schools went up less than 1 percent, while charter school financing went up about 48 percent.</p>
+        <p>John Yrchik  Executive Director  Connecticut Education Association  Hartford</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

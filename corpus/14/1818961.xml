@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Rochelle Offers New Dog-Walking Rules</title>
+    <meta content="14weweekWC-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818961"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Identification Devices</classifier>
+        <location class="indexing_service">New Rochelle (NY)</location>
+        <location class="indexing_service">Ward Acres Park (New Rochelle, NY)</location>
+        <person class="indexing_service">Gruen, Abby</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identification Devices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E3DE1030F937A25752C0A9619C8B63" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Rochelle Offers New Dog-Walking Rules</hl1>
+      </hedline>
+      <byline class="print_byline">By ABBY GRUEN</byline>
+      <byline class="normalized_byline">Gruen, Abby</byline>
+      <abstract>
+        <p>City Council in New Rochelle, NY, released proposed regulations for Ward Acres park that will require dog walkers to carry photo ID cards and permits for each dog; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New Rochelle City Council released new proposed regulations for Ward Acres Park last week that will require dog walkers to carry photo identification cards, renewed annually, as well as permits for each dog. Walkers will also be limited to two dogs at a time, and off-leash hours will be restricted to before 10 a.m. and after 5 p.m. during the week, with evening weekend hours only in the winter.</p>
+        <p>The proposed rules are stricter than those discussed in December, which included a fenced-in dog run.</p>
+      </block>
+      <block class="full_text">
+        <p>The New Rochelle City Council released new proposed regulations for Ward Acres Park last week that will require dog walkers to carry photo identification cards, renewed annually, as well as permits for each dog. Walkers will also be limited to two dogs at a time, and off-leash hours will be restricted to before 10 a.m. and after 5 p.m. during the week, with evening weekend hours only in the winter.</p>
+        <p>The proposed rules are stricter than those discussed in December, which included a fenced-in dog run.</p>
+        <p>''I was feeling pretty good after the Dec. 5 meeting; I thought the City Council was listening,'' said Gloria Weil, 76, a retired schoolteacher who lives near the park. ''But they paid very little attention to anything that was said by the public. We don't know why they have added the limit of two dogs and the charging of fees. This seems to have come out of left field.''</p>
+        <p>Mayor Noam Bramson, in a phone interview the day after the meeting, called the proposed rules ''the most generous in our region by far.''</p>
+        <p>''They have evolved over time in response to input from the community,'' he said.</p>
+        <p>The council is expected to discuss the proposed regulations at Tuesday's meeting and could vote on them later in the week.</p>
+        <p>After four decades of neglect, the city developed a long-range plan for Ward Acres Park in July 2006 with the goal of opening up the 62-acre wooded preserve so it could be put to more use. The plan called for restoring the natural habitat, creating interpretive trails with seating and ultimately turning an existing horse barn into a multi-use park. The plan also called for placing restrictions on the dog walkers from New Rochelle and neighboring towns who have let their dogs run off the leash in Ward Acres for years, despite a code prohibiting dogs in city parks.</p>
+        <p>ABBY GRUEN</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Second-Home Appliances</title>
+    <meta content="26letters" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821440"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Appliances</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Repair Services</classifier>
+        <person class="indexing_service">Pevear, David</person>
+        <person class="indexing_service">White, Dick</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Service Industries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E6D7163FF935A15752C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Second-Home Appliances</hl1>
+      </hedline>
+      <abstract>
+        <p>David Pevear and Dick White letters on January 19 article about problems with appliance repair services at rural second homes</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Gadzooks! ''Ordeal by Appliance: Weekend Home Tales'' (Jan. 19) implies that only the wealthy with remote second homes have problems with appliance repair. Remember, lots of Americans with only one home live in equally remote areas. The problems you nicely detail are common to all of us: appliances don't last as long as they once did, hi-tech features exacerbate the problem, service is slow and decidedly low-tech. The rich, at least, are able to return home to their maids and housekeepers for solace.</p>
+        <p>David Pevear  Houston</p>
+        <p>To the Editor: It is hard to work up any sympathy for someone distressed about the lack of high-end appliance repair experts out in the country. If you must have city amenities, stay in the city. My home in the Washington suburbs has a state-of-the-art kitchen. When I needed a new cook top and dishwasher for my Southern Maryland weekend retreat, I went to Lowe's. If, as in the article, an igniter is the issue, that means it is a gas range. A good old kitchen match like grandma used will get the soup started.</p>
+        <p>Dick White  Fort Washington, Md.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Gadzooks! ''Ordeal by Appliance: Weekend Home Tales'' (Jan. 19) implies that only the wealthy with remote second homes have problems with appliance repair. Remember, lots of Americans with only one home live in equally remote areas. The problems you nicely detail are common to all of us: appliances don't last as long as they once did, hi-tech features exacerbate the problem, service is slow and decidedly low-tech. The rich, at least, are able to return home to their maids and housekeepers for solace.</p>
+        <p>David Pevear  Houston</p>
+        <p>To the Editor: It is hard to work up any sympathy for someone distressed about the lack of high-end appliance repair experts out in the country. If you must have city amenities, stay in the city. My home in the Washington suburbs has a state-of-the-art kitchen. When I needed a new cook top and dishwasher for my Southern Maryland weekend retreat, I went to Lowe's. If, as in the article, an igniter is the issue, that means it is a gas range. A good old kitchen match like grandma used will get the soup started.</p>
+        <p>Dick White  Fort Washington, Md.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

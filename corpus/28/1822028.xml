@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Mechanic's Laptop Makes Manuals All But Obsolete</title>
+    <meta content="28SHOPS" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/automobiles/28SHOPS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822028"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Garages and Service Stations</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Seyfer, Donny</person>
+        <person class="indexing_service">Sturgis, Scott</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E1D6163FF93BA15752C0A9619C8B63" item-length="1256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Mechanic's Laptop Makes Manuals All But Obsolete</hl1>
+        <hl2 class="online_headline">A Mechanic’s Laptop Makes Manuals All but Obsolete</hl2>
+      </hedline>
+      <byline class="print_byline">By SCOTT STURGIS</byline>
+      <byline class="normalized_byline">Sturgis, Scott</byline>
+      <abstract>
+        <p>Auto mechanics like Donny Seyfer rely heavily on laptops to assess problems with today's computer-controlled cars; he notes that information needed to fix a car, once covered by comprehensive factory shop manual, is now available only on manufacturer's Web site, which independent shops must pay to access; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN Donny Seyfer started fixing cars a couple of decades ago, a mechanic could still count on his internal database -- a well-developed blend of observation, experience and instinct -- to diagnose most breakdowns. The worn-out brushes in a dead starter or a short circuit in a sparkless ignition distributor would eventually be revealed to a mechanic who carefully dug through the clues.</p>
+        <p>But as carburetors became extinct and electrical systems evolved from bundles of color-coded wires to inscrutable digital networks, the ability to determine where faults lay demanded new skills and savvy. No longer would basic tools like a test light and a compression gauge be enough.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>To make a living fixing the new generation of computer-controlled cars, independent mechanics must keep up with a range of complexities.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN Donny Seyfer started fixing cars a couple of decades ago, a mechanic could still count on his internal database -- a well-developed blend of observation, experience and instinct -- to diagnose most breakdowns. The worn-out brushes in a dead starter or a short circuit in a sparkless ignition distributor would eventually be revealed to a mechanic who carefully dug through the clues.</p>
+        <p>But as carburetors became extinct and electrical systems evolved from bundles of color-coded wires to inscrutable digital networks, the ability to determine where faults lay demanded new skills and savvy. No longer would basic tools like a test light and a compression gauge be enough.</p>
+        <p>To make a living fixing the new generation of computer-controlled cars, a general practitioner like Mr. Seyfer, 43, had to become something of a technical wizard, reaching for a laptop -- not a wrench -- when a customer drove in with problems.</p>
+        <p>He has also become a booster of technology, as a teacher of shop technicians and as education director of the Automotive Service Association. An early adopter who dug into the changes sweeping auto technology in the '80s and never looked back, Mr. Seyfer (pronounced SIGH-fer) manages the computer systems at his family's repair shop in Wheat Ridge, Colo., a western suburb of Denver. He also spreads the word as the co-host of a local radio show, taking questions from owners baffled by misbehaving vehicles.</p>
+        <p>That does not mean he has all the answers. In a recent struggle, Mr. Seyfer matched wits with the onboard computer of a 2006 Lincoln Zephyr.</p>
+        <p>When the car was parked with its doors locked, the sunroof would start opening and closing. Beyond solving the obvious problem, Mr. Seyfer wanted to complete the repair by clearing the fault message, or trouble code, recorded in the car's computer and turning off the check-engine light. He researched a repair Web site operated by the Ford Motor Company. He checked independent information services used by mechanics like Alldata, Identifix and the International Automotive Technician's Network; none answered the question.</p>
+        <p>As it turned out, the solution was tucked away in his memory. ''I remembered a similar model that you had to tell the computer whether it was front-wheel drive or all-wheel drive,'' Mr. Seyfer said. ''I punched in that information, and it cleared the codes.''</p>
+        <p>The sources of repair information that today's mechanics must be familiar with -- diagnostic codes, Web-based data-sharing, online forums -- raise the question of how an independent shop, working on many brands of vehicles, can possibly keep up with the technology.</p>
+        <p>As information goes from printed repair manuals to the Web, are manufacturers sharing the information the way they should? More important, who is going to fix that sophisticated new Mercedes-Benz 10 years from now, when the factory warranty has expired?</p>
+        <p>Patricia Serratore, group vice president for industry relations for the National Institute for Automotive Service Excellence, said that the future should be bright for independent shops.</p>
+        <p>She said there had always been a gap between the introduction of new technology and getting repair information to mechanics.</p>
+        <p>''Years ago, when disc brakes came out, when fuel injection came out, there was the same kind of lag,'' Ms. Serratore said.</p>
+        <p>Mr. Seyfer told a similar story. He started his career in 1983, just as devices like computer-controlled carburetors arrived. ''It was doom and gloom. 'Independent shops aren't going to be able to fix anything.' ''</p>
+        <p>Although he said he found the new technology ''kind of fun,'' he also discovered that getting the information to fix a car could be a problem because it was no longer covered by a comprehensive factory shop manual. It is now on a manufacturer's Web site, so access becomes more critical and more dependent on the manufacturer.</p>
+        <p>Manufacturers charge independent shops for access to their Web sites. Charles Territo, director of communications for the Alliance of Automobile Manufacturers, an industry trade group, said that most automakers made access for a 24-hour period available for about $25. Subscriptions are also available for longer use.</p>
+        <p>While the information is not free, Mr. Seyfer does not begrudge the automakers the money. He said he would rather have thorough and accurate information available on the automaker sites, rather than encounter a reluctance on the part of the manufacturers to provide repair information because they are losing money.</p>
+        <p>Mr. Territo said manufacturers wanted independent shops to have access to the information as well.</p>
+        <p>''Seventy to 80 percent of post-warranty repairs are performed by independent repairers,'' Mr. Territo said.</p>
+        <p>It does add to the mechanics' overhead. Mike Brewster, owner of Gil's Garage in Burnt Hills, N.Y., pays subscription fees for independent services like Alldata, Mitchell's and Identifix; such services typically cost $150 a month. Mr. Brewster will buy 24-hour access to a manufacturer's site only as needed.</p>
+        <p>''It's just a part of the cost of doing business,'' Mr. Brewster said. ''But having current information available is such a pleasure.''</p>
+        <p>Mr. Seyfer said he barely spent $100 a month for the few times he buys access to automakers' sites. He also subscribes to Alldata and Identifix.</p>
+        <p>In New Jersey, a right-to-repair act began working its way through the state Legislature last year. The bill would set up a state agency and require manufacturers to provide diagnostic, service and repair information free to vehicle owners and repair facilities.</p>
+        <p>The Automotive Service Association opposes passage of this bill, which the organization said would jeopardize relations between the association and automakers and limit the information available to what the government requires. The bill remains in the Legislature.</p>
+        <p>One free service is from the National Automotive Service Task Force, a clearinghouse that provides help on specific repair issues to independent mechanics. Starting in 2000 and modeled on a pilot program in Arizona, the task force's members include independent mechanics, information providers and virtually every automobile manufacturer producing cars for the North American market.</p>
+        <p>While Mr. Seyfer was not able to resolve the problem he had with the Lincoln sunroof when he posted an inquiry on the task force site, he said information was easy to get most of the time.</p>
+        <p>''A tech gets in trouble, gets angry because he can't fix the car and submits a complaint,'' Mr. Seyfer said, adding that the manufacturer usually calls the next day and tells the technician where to find the solution.</p>
+        <p>Mr. Brewster knows all about keeping up with technology. He entered Chrysler's training program after high school in the late 1970s. Within four years, onboard computers made much of what he knew obsolete.</p>
+        <p>But after almost 30 years in the business, he said getting information from manufacturers had actually gotten easier.</p>
+        <p>''We struggled a lot more in the early '80s trying to get current information than I believe we do today,'' Mr. Brewster said.</p>
+        <p>Mr. Seyfer said that as the technology evolved, so had the skills of aspiring repair technicians. ''The trend toward students who are adept at computers, math and reading has been going on for a number of years,'' he said. His technicians attend traning and online classes, too.</p>
+        <p>And the printed shop manual? Ancient history. ''Manuals? I think they're still available,'' Mr. Brewster said. ''But I don't know any shop that actually utilizes them.''</p>
+        <p>Mr. Seyfer said his shop of eight employees had nine computers aroundthe repair area for the technicians to use. Mr. Seyfer and Mr. Brewster keep libraries of manuals for repairing older cars.</p>
+        <p>''Who would have thought you could use a laptop as a diagnostic tool?'' he said. ''Now it's the first thing we whip out.''</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

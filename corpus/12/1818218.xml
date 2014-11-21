@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CHURN</title>
+    <meta content="12churn" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/business/12churn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818218"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Churn"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Corporations</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E7DE1330F931A25752C0A9619C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CHURN</hl1>
+        <hl2 class="online_headline">People</hl2>
+      </hedline>
+      <abstract>
+        <p>The Churn column on some recent executive appointments (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People</p>
+        <p>The Carlyle Group has promoted 16 professionals to managing director, including 8 in the United States: David Daniel, Eliot Merrill, Charlie Moore, Stephen Owens, Thomas Ray, Lori Sabet, Michael Stewart and  Brent Whisenant.</p>
+        <p>Joel Press is joining Morgan Stanley's prime brokerage division as a managing director. Mr. Press headed the global hedge fund practice at Ernst &amp; Young.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People.</p>
+      </block>
+      <block class="full_text">
+        <p>People</p>
+        <p>The Carlyle Group has promoted 16 professionals to managing director, including 8 in the United States: David Daniel, Eliot Merrill, Charlie Moore, Stephen Owens, Thomas Ray, Lori Sabet, Michael Stewart and  Brent Whisenant.</p>
+        <p>Joel Press is joining Morgan Stanley's prime brokerage division as a managing director. Mr. Press headed the global hedge fund practice at Ernst &amp; Young.</p>
+        <p>Credit Suisse has hired David Livingstone, formerly of HSBC, as a managing director and head of European mergers and acquisitions. Steven Pierson and Joseph Hershberger are joining as managing directors in Credit Suisse's financial institutions group. Both come from Putnam Lovell NBF Securities.</p>
+        <p>The Quadrangle Group has promoted Jeffrey Nordhaus to managing principal and David Crosby, Andrew Frey and Henry Ormond to principal.</p>
+        <p>UBS has appointed Teresa Mullett Ressel chief executive of UBS Securities, UBS's United States broker-dealer unit.</p>
+        <p>Charles Phippen and Rich Steiner have joined BNP Paribas as directors and salesmen in its equity finance business in New York. Mr. Phippen was previously with UBS, while Mr. Steiner was with the Investment Technology Group.</p>
+        <p>Carl Klein, David Lorber and Zachary George, formerly of the hedge fund Pirate Capital, have joined FrontFour Capital Group. Andrew Stotland, also formerly of Pirate Capital, formed FrontFour last year.</p>
+        <p>White &amp; Case has elected 37 partners, 8 in New York:  Alan W. Avery, Colin J. Diamond, Matthew J. Kautz, Someera F. Khokhar, Jack E. Pace III, Tomer Pinkusiewicz, Jonathan A. Schechter and John R. Vetterli.</p>
+        <p>DLA Piper has announced Thomas R. Califano has been named co-chairman of the financial restructuring and bankruptcy practice group. Peter S. Pantaleo  has been named managing partner of the New York office.</p>
+        <p>Robert J. Leonard, a former chief counsel of the House Ways and Means Committee and former chief majority tax counsel of the committee, has joined Akin Gump Strauss Hauer &amp; Feld as a partner.</p>
+        <p>The Churn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

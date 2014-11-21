@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Offense, but</title>
+    <meta content="30pbush" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/us/30pbush.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822555"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="POLITICAL ACTION: THE PRESIDENT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">State of the Union Message (US)</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Congress (US)</org>
+        <person class="indexing_service">Rutenberg, Jim</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">State of the Union Message (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Democratic Party</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E3DA143FF933A05752C0A9619C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Offense, but</hl1>
+        <hl2 class="online_headline">No Offense, but ...</hl2>
+      </hedline>
+      <byline class="print_byline">By JIM RUTENBERG</byline>
+      <byline class="normalized_byline">Rutenberg, Jim</byline>
+      <abstract>
+        <p>Pres Bush says he had no intention of offending Democratic party members when he said in his State of Union address, 'I congratulate the Democrat majority,' instead of 'Democratic' (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush says he had no intention of offending members of the other party when he said in his State of the Union address, ''I congratulate the Democrat majority.'' In an interview yesterday, Juan Williams of NPR asked Mr. Bush about dropping the ''ic,'' something the president does regularly, to the intense annoyance of many Democrats.</p>
+        <p>''The idea that somehow I was trying to needle the Democrats, it's just -- gosh -- it's probably Texas,'' he said. ''Who knows what it is. But I'm not that good at pronouncing words anyway.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush said that he wasn’t trying to offend members of the other party when he called them the “Democrat majority.”</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush says he had no intention of offending members of the other party when he said in his State of the Union address, ''I congratulate the Democrat majority.'' In an interview yesterday, Juan Williams of NPR asked Mr. Bush about dropping the ''ic,'' something the president does regularly, to the intense annoyance of many Democrats.</p>
+        <p>''The idea that somehow I was trying to needle the Democrats, it's just -- gosh -- it's probably Texas,'' he said. ''Who knows what it is. But I'm not that good at pronouncing words anyway.''</p>
+        <p>Last weekend, Mr. Bush put his bipartisan spirit on display, right there on the schedule distributed by the White House: ''The president makes remarks to the House Democrat Conference.''</p>
+        <p>But late yesterday a new version of the schedule was released. ''Democratic conference,'' it said.</p>
+        <p>JIM RUTENBERG</p>
+        <p>POLITICAL ACTION: THE PRESIDENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

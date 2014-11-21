@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="31corrections-4" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822831"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">New York Post</org>
+        <org class="indexing_service">News Corp</org>
+        <org class="indexing_service">Newsday</org>
+        <org class="indexing_service">Tribune Co</org>
+        <person class="indexing_service">Broad, Eli</person>
+        <person class="indexing_service">Burkle, Ronald W</person>
+        <person class="indexing_service">Chandler Family</person>
+        <person class="indexing_service">Murdoch, Rupert</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E3DE153FF932A05752C0A9619C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 24 article about possibility of Rupert Murdoch bidding for Tribune Company misstated source of one comment</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day last Wednesday about the possibility of Rupert Murdoch joining the Chandler family's bid for the Tribune Company misstated the source of a comment by Alfonse D'Amato, the former Republican senator from New York, about the merits of such a move by Mr. Murdoch. Mr. D'Amato's comment was from a column in The Long Island Business News, not Newsday.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day last Wednesday about the possibility of Rupert Murdoch joining the Chandler family's bid for the Tribune Company misstated the source of a comment by Alfonse D'Amato, the former Republican senator from New York, about the merits of such a move by Mr. Murdoch. Mr. D'Amato's comment was from a column in The Long Island Business News, not Newsday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

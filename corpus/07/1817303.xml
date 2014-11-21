@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the MKR, Just a Hint of Lincoln's Past</title>
+    <meta content="07NUGGETlincoln" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817303"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">Horbury, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E3DD1130F934A35752C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the MKR, Just a Hint of Lincoln's Past</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE ULRICH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Sunday: Lincoln MKR design study</p>
+        <p>Is it real?: This car isn't, but its design themes and powertrains are</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Sunday: Lincoln MKR design study</p>
+        <p>Is it real?: This car isn't, but its design themes and powertrains are</p>
+        <p>destined for future Lincolns.</p>
+        <p>What's the point? Lincoln has fallen desperately behind the luxury leaders,</p>
+        <p>and this dramatic chrome-face concept shows Lincoln reasserting its American roots.</p>
+        <p>What they said: ''We're referring to the past without repeating it,'' Peter Horbury, Ford's director of design for the Americas, said.</p>
+        <p>What they didn't say: In following the lead of the Mercedes-Benz CLS by styling a four-door sedan to look like a sexy coupe, Lincoln is also distancing itself from retro designs that lacked new ideas.</p>
+        <p>What makes it tick? Behind its grinning mug -- a nod to the '41 Lincoln Continental Cabriolet -- there's a 415-horsepower 3.5-liter V-6 with direct fuel injection and two turbochargers. The engine is E85 ethanol-ready, and Ford claims better fuel economy than a comparably powerful V-8.</p>
+        <p>How much, how soon?: The engine is part of a new ''TwinForce'' family that should begin powering Ford and Lincoln models by about 2009.</p>
+        <p>How's it look?: A shot of design adrenaline that -- if actually administered</p>
+        <p>to showroom models -- could wake Lincoln from its long coma.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

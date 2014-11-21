@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Extension Granted To Hurricane Victims</title>
+    <meta content="20brfs-6" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820127"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="indexing_service" type="descriptor">Trailers</classifier>
+        <classifier class="indexing_service" type="descriptor">Katrina (Storm)</classifier>
+        <classifier class="indexing_service" type="descriptor">Rita (Storm)</classifier>
+        <location class="indexing_service">Louisiana</location>
+        <location class="indexing_service">New Orleans (La)</location>
+        <location class="indexing_service">Mississippi</location>
+        <org class="indexing_service">Federal Emergency Management Agency</org>
+        <person class="indexing_service">Eaton, Leslie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana/New Orleans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricane Katrina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mobile Homes and Trailers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E3D71E30F933A15752C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Extension Granted To Hurricane Victims</hl1>
+      </hedline>
+      <byline class="print_byline">By LESLIE EATON</byline>
+      <byline class="normalized_byline">Eaton, Leslie</byline>
+      <abstract>
+        <p>Federal Emergency Management Agency will allow 110,000 families still living in trailers because of Hurricanes Katrina and Rita to stay through August (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The federal government will allow the 110,000 families still living in trailers because of Hurricanes Katrina and Rita to stay through August, a spokesman for the Federal Emergency Management Agency said. The housing program had been scheduled to expire at the end of February, and some community groups had been expecting FEMA to start issuing eviction notices as early as next week. The six-month extension, announced by Senator Mary L. Landrieu, Democrat of Louisiana, also applies to displaced families living in apartments paid for by FEMA.</p>
+        <p>LESLIE EATON</p>
+      </block>
+      <block class="full_text">
+        <p>The federal government will allow the 110,000 families still living in trailers because of Hurricanes Katrina and Rita to stay through August, a spokesman for the Federal Emergency Management Agency said. The housing program had been scheduled to expire at the end of February, and some community groups had been expecting FEMA to start issuing eviction notices as early as next week. The six-month extension, announced by Senator Mary L. Landrieu, Democrat of Louisiana, also applies to displaced families living in apartments paid for by FEMA.</p>
+        <p>LESLIE EATON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

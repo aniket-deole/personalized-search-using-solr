@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After All That Turmoil, the Giants Now Seem Likely to Stay the Course</title>
+    <meta content="14giants" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818916"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <org class="indexing_service">New York Giants</org>
+        <person class="indexing_service">Branch, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E2DF1030F937A25752C0A9619C8B63" item-length="540" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After All That Turmoil, the Giants Now Seem Likely to Stay the Course</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN BRANCH</byline>
+      <byline class="normalized_byline">Branch, John</byline>
+      <abstract>
+        <p>New York Giants front office will remain largely in tact next year, with few minor adjustments (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The much-speculated overhaul of the Giants' football operations, after a disappointing 8-8 season and a first-round playoff loss last Sunday to the Philadelphia Eagles, did not occur.</p>
+        <p>As the season collapsed in December, rumors swirled that Coach Tom Coughlin could lose his job, and that the search to replace the retiring general manager, Ernie Accorsi, would expand far beyond the four internal candidates.</p>
+      </block>
+      <block class="full_text">
+        <p>The much-speculated overhaul of the Giants' football operations, after a disappointing 8-8 season and a first-round playoff loss last Sunday to the Philadelphia Eagles, did not occur.</p>
+        <p>As the season collapsed in December, rumors swirled that Coach Tom Coughlin could lose his job, and that the search to replace the retiring general manager, Ernie Accorsi, would expand far beyond the four internal candidates.</p>
+        <p>But the Giants of 2007 will, in many ways, stay the course, with the only shake-up probably coming among assistant coaches, mostly on defense.</p>
+        <p>Coughlin retained his job and was given a one-year extension, through 2008, lending a slight air of stability to the organization. And it appears the Giants will keep some continuity in the front office, too, by replacing Accorsi with one of his assistants, probably Jerry Reese, whose primary role as director of player personnel is to oversee the college draft. Barring the entry of a late candidate, an announcement could come as early as tomorrow.</p>
+        <p>Coughlin fired his defensive coordinator, Tim Lewis, on Thursday, and a replacement has not been named. The defense ranked 25th among 32 N.F.L. teams in yards allowed. For now, the defensive position coaches have their jobs, but a new coordinator would probably build a new staff.</p>
+        <p>The week before the final regular-season game, Coughlin's offensive coordinator, John Hufnagel, was stripped of his duties. Kevin Gilbride, the quarterbacks coach, assumed Hufnagel's responsibilities. Coughlin has not said how he might shift his offensive coaches, but players expect Gilbride to become the full-time offensive coordinator. Gilbride served as Coughlin's offensive coordinator for two seasons (1995-96) with the Jacksonville Jaguars.</p>
+        <p>If Coughlin promotes Gilbride, the Giants will need a quarterbacks coach, a vital position since they are pinning much of their hopes for the next couple of seasons on Eli Manning, who showed little progress in 2006, his third season. It would also mean that Hufnagel, not Gilbride, will have taken the fall for Manning's struggles.</p>
+        <p>The Giants' disappointing season could lead to some roster changes, though the only major unsigned free agents are center Shaun O'Hara and kicker Jay Feely. Running back Tiki Barber retired, and the season exposed several other needs for the Giants, particularly at cornerback and at outside linebacker.</p>
+        <p>Filling the holes will be the immediate responsibility of the new general manager.</p>
+        <p>The four internal candidates the Giants interviewed to replace Accorsi were Reese, who received the recommendation of Accorsi; Chris Mara, vice president of player evaluation and a brother of the team president, John Mara; the assistant general manager, Kevin Abrams; and the director of pro personnel, Dave Gettleman.</p>
+        <p>The Giants also interviewed the former Redskins and Texans general manager Charley Casserly. Last week, they received permission to interview the Patriots personnel director, Scott Pioli, but Pioli surprised the Giants by declining an interview, citing personal reasons.</p>
+        <p>EXTRA POINTS</p>
+        <p>As part of its plan to expand its reach globally, the National Football League plans to play one regular-season game overseas each year. The Giants could be one of the participants next season, with reports that the game between the Giants and the Dolphins, scheduled for South Florida, may be moved to London's Wembley Stadium. Dates for next season's games have not been set.</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

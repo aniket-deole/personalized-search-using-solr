@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KELLMAN, CLAIRE</title>
+    <meta content="dn011407.1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818541"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KELLMAN, CLAIRE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EED61E3AF937A25752C0A9619C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KELLMAN, CLAIRE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KELLMAN--Claire, on January 12th, 2007. Beloved wife of the late Richard (Bubala). Loving mother of Sandra Cohen, David and Janet. Dear sister of Elly Bernstein. Adoring grandmother of Ali and Reyna. She will always live in our hearts. Service Sunday 11:45am at ''The Riverside'', 76th St. and Amsterdam Ave.</p>
+      </block>
+      <block class="full_text">
+        <p>KELLMAN--Claire, on January 12th, 2007. Beloved wife of the late Richard (Bubala). Loving mother of Sandra Cohen, David and Janet. Dear sister of Elly Bernstein. Adoring grandmother of Ali and Reyna. She will always live in our hearts. Service Sunday 11:45am at ''The Riverside'', 76th St. and Amsterdam Ave.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

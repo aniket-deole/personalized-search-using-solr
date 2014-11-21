@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Tale Spins Toward Peril, Steps by Subtle Steps</title>
+    <meta content="08danc" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/arts/dance/08danc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817339"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Donovan, Kelley, &amp; Dancers</org>
+        <person class="indexing_service">Dunning, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="descriptor">Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3DC1530F93BA35752C0A9619C8B63" item-length="328" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Tale Spins Toward Peril, Steps by Subtle Steps</hl1>
+        <hl2 class="online_headline">A Tale Spins Toward Peril, Steps by Subtle Steps</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+      <abstract>
+        <p>Jennifer Dunning reviews performance by Kelley Donovan &amp; Dancers at Merce Cunninghoam Studio; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kelley Donovan's ''It's All Forgotten Now'' stood out from its first moments for its precise and subtle shifts in dynamics. And this new work, presented by the Boston-based Kelley Donovan &amp; Dancers on Friday and Saturday night at the Merce Cunningham Studio, steadily built to a quiet climax by means of those shifts alone.</p>
+        <p>Program notes described the 45-minute piece as an exploration of transformation, decay and memory. Those large themes could well have been present. But the great pleasure of ''It's All Forgotten Now'' was the way it used movement not merely to fill space but to create an organic narrative with its own inherent linearity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kelley Donovan's "It's All Forgotten Now" stood out from its first moments for its precise and subtle shifts in dynamics.</p>
+      </block>
+      <block class="full_text">
+        <p>Kelley Donovan's ''It's All Forgotten Now'' stood out from its first moments for its precise and subtle shifts in dynamics. And this new work, presented by the Boston-based Kelley Donovan &amp; Dancers on Friday and Saturday night at the Merce Cunningham Studio, steadily built to a quiet climax by means of those shifts alone.</p>
+        <p>Program notes described the 45-minute piece as an exploration of transformation, decay and memory. Those large themes could well have been present. But the great pleasure of ''It's All Forgotten Now'' was the way it used movement not merely to fill space but to create an organic narrative with its own inherent linearity.</p>
+        <p>Ms. Donovan, whose work has not been seen much in New York City, appears to trust the expressive power of movement alone. Every element of the new dance highlighted the dynamic shifts that told its story, from the fluid atmospheres created by the delicate power of the score, by Stephen Cooper and Punck, to the lighting, by Brian Jones. The cast of 17 women inhabited the stage simply as sentient, supple bodies, dressed in costumes that they designed with Sarah Chapman. Their earth tones and simplicity gave them the look of a community.</p>
+        <p>But the best part of ''It's All Forgotten Now'' was the confidence with which Ms. Donovan plotted the piece, sending the dancers on and off stage and spinning them into unexpected clusters, solo moments and enclosing circles. Subtle variations in speed in the pushing, driving choreography helped to create the sense of an approaching climax.</p>
+        <p>Toward the end the dancers' bodies arched back a little as they fell, rose and fell again, giving them a look of near-ecstasy at moments. Faint sounds of thunder, rain and sea surge, tucked into the muted clicks and rumbles of the score, added to the feeling of unarticulated perils to come. The orderly choreographing of disorder is no small feat, but Ms. Donovan and her collaborators pulled it off.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

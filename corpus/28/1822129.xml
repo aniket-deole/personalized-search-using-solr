@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="28laugh" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822129"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEFD9173FF93BA15752C0A9619C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Borowitzreport.com</p>
+        <p>Headline:</p>
+        <p>Candidates to Outnumber Voters in '08</p>
+        <p>One in Two Americans Running for President, Experts Say</p>
+      </block>
+      <block class="full_text">
+        <p>Borowitzreport.com</p>
+        <p>Headline:</p>
+        <p>Candidates to Outnumber Voters in '08</p>
+        <p>One in Two Americans Running for President, Experts Say</p>
+        <p>Headline:</p>
+        <p>Bin Laden's State of the Jihad Address Short on Specifics</p>
+        <p>Critics Blast Laundry List of Vague Threats</p>
+        <p>Theonion.com</p>
+        <p>Headline: Northeast Stunned</p>
+        <p>By Freak January Snowfall</p>
+        <p>In a rare instance of icy-cold January weather, much of the Northeast awoke Tuesday morning to find itself buried under nearly 1.5 inches of snowfall.</p>
+        <p>''This is really bizarre,'' said Syracuse resident Mary Baloh, who noted that her garden was doing very well until the unexpected weather struck. ''I've seen some freak weather in my lifetime, but this definitely tops them all.''</p>
+        <p>''It's like Christmas in January,'' Baloh added.</p>
+        <p>Jay Leno</p>
+        <p>The Democrats now have a woman, an African-American and a Hispanic running for president. Of course, the other side also has minorities running: Republicans.</p>
+        <p>President Bush gave his State of the Union speech earlier tonight. Or, as they call it on ABC, ''Dancing with the Issues.''</p>
+        <p>President Bush also told Congress, ''each of us is guided by our own convictions.'' Then the Republicans said ''don't mention 'convictions'!''</p>
+        <p>David Letterman</p>
+        <p>Now this is kind of shocking: President Bush now has the lowest presidential approval rating since President Nixon. Yeah, now here's another coincidence: Nixon had a dog named Checkers. Bush plays checkers with his dog.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

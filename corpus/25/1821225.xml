@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Tough for the Opposition When a Player Is in the Zone</title>
+    <meta content="25card" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/crosswords/bridge/25card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821225"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Alder, Phillip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E4DC163FF936A15752C0A9619C8B63" item-length="488" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Tough for the Opposition When a Player Is in the Zone</hl1>
+        <hl2 class="online_headline">It’s Tough for the Opposition When a Player Is in the Zone</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+      <abstract>
+        <p>Phillip Alder bridge column on deal played at Thebridgeplace in Lake Park, Fla; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you would like to start with a test, look only at the West hand in the diagramed deal and the auction. What would you lead against six hearts?</p>
+        <p>After you have decided, study all four hands and see if you can guess how South failed to make six hearts without doing anything unreasonable.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If you would like to start with a test, look only at the West hand in the diagramed deal and the auction. What would you lead against six hearts?</p>
+      </block>
+      <block class="full_text">
+        <p>If you would like to start with a test, look only at the West hand in the diagramed deal and the auction. What would you lead against six hearts?</p>
+        <p>After you have decided, study all four hands and see if you can guess how South failed to make six hearts without doing anything unreasonable.</p>
+        <p>There are days when we can seem to do no wrong. Athletes say that they are in the zone. Zia Mahmood calls it being in Heat 1 (out of 3) at the bridge table. It happens rarely, but when it does, it is thrilling.</p>
+        <p>This deal was played six days ago at Thebridgeplace in Lake Park, Fla., and was sent in by the ''victim,'' Claire Tornay (South) of Palm Beach Gardens. She opened two clubs, strong, artificial and forcing. North responded two diamonds, which normally shows 0-7 points but might be stronger when having no good long suit to bid. North's four-heart rebid was incorrect. Her hand should contain at least four-card heart support but no first- or second-round control -- no ace, void, king or singleton. (North should have bid three hearts.) South, hoping her partner would table a black-suit queen or doubleton, jumped to six hearts.</p>
+        <p>Sitting West was Harold Rosenson of West Palm Beach, who was at least momentarily in Heat 1. His opening lead was the heart five; what adjective would you apply?</p>
+        <p>South won East's ten with her king and cashed the heart ace, being shocked to see the queen fall on her left. To make the contract now, declarer had to guess that East held the queen and ten of spades. Being in Heat 2, though, she did not do that, playing off the ace and king of spades. When West discarded, South played a heart to dummy's jack and ran the club nine through East. West won with his queen and returned a club, leaving declarer with a spade loser. Down one gave East-West 11 match points out of 12.</p>
+        <p>Rosenson was unlucky that declarer had no fast dummy entry; otherwise he surely would have taken a trump trick. But he had avoided giving away a trick. Notice that South would have had an easy time after any other lead. She would ruff the diamond ace and have a discard for her spade loser on dummy's diamond king. A club would be away from the queen, and South would lose only one spade. And if West selected his singleton spade, declarer would pick up that suit successfully.</p>
+        <p>Rosenson and his partner, Ellen Kaye Miller of Highland Park, Ill., had a creditable 61.2 percent game, but that was good enough only for second, 11.4 percentage points behind Deborah Drury of Vero Beach and Gail Nye of Palm City.</p>
+        <p>The Allendale Unit 106 Sectional takes place tomorrow, Saturday and Sunday at the Guardian Angel Auditorium, East Allendale Avenue, Allendale, N.J. Full details can be found at bridge-njba.org/Sectional/jan07.pdf.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

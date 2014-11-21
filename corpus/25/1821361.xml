@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Stephen King's Midnight Madness</title>
+    <meta content="25arts-5" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/books/25king.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821361"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Comic Books and Strips</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <org class="indexing_service">Marvel Entertainment Inc</org>
+        <person class="indexing_service">Gustines, George Gene</person>
+        <person class="indexing_service">King, Stephen</person>
+        <object.title class="indexing_service">Dark Tower, The (Book Series)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Comic Books and Strips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Comic Books and Strips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFD9163FF936A15752C0A9619C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Stephen King's Midnight Madness</hl1>
+        <hl2 class="online_headline">Stephen King’s Midnight Madness</hl2>
+      </hedline>
+      <byline class="print_byline">By GEORGE GENE GUSTINES; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Gustines, George Gene</byline>
+      <abstract>
+        <p>First issue of new seven-part Marvel Entertainment series based on Stephen King novel The Dark Tower will go on sale at almost 150 retailers at stroke of midnight on Feb 7; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Every week comic book fans look forward to Wednesdays, the day new issues go on sale. On Feb. 7, one of those comics will be the first issue of a new seven-part series based on the Stephen King novel ''The Dark Tower,'' above, from Marvel Entertainment. To commemorate the event, almost 150 comic book retailers across the country will begin selling the issue at the stroke of midnight. A list of participating stores can be found at www.marvel.com/news/comicstories. Fans who flock to Midtown Comics in Manhattan will see a couple of special guests: Peter David, who writes the dialogue for the series, and Jae Lee, the book's artist. The store will open for one hour.</p>
+        <p>GEORGE GENE GUSTINES</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At the stroke of midnight on Feb. 7, stores will begin selling the first issue of a new seven-part comic book series based on the Stephen King novel “The Dark Tower.”</p>
+      </block>
+      <block class="full_text">
+        <p>Every week comic book fans look forward to Wednesdays, the day new issues go on sale. On Feb. 7, one of those comics will be the first issue of a new seven-part series based on the Stephen King novel ''The Dark Tower,'' above, from Marvel Entertainment. To commemorate the event, almost 150 comic book retailers across the country will begin selling the issue at the stroke of midnight. A list of participating stores can be found at www.marvel.com/news/comicstories. Fans who flock to Midtown Comics in Manhattan will see a couple of special guests: Peter David, who writes the dialogue for the series, and Jae Lee, the book's artist. The store will open for one hour.</p>
+        <p>GEORGE GENE GUSTINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

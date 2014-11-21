@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="06transaxe" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816689"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EFD81430F935A35752C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  CLEVELAND INDIANS--Named Tim Laker manager for Mahoning Valley of the New York-Penn League, Chris Tremie manager for Lake County of the South Atlantic League and Dave Hudgens field coordinator, Bruce Fields hitting coordinator and Gary Varsho outfield and baserunning coordinator for their player development system.  SEATTLE MARINERS--Agreed to terms with RHP Chris Reitsma on a one-year contract.  TORONTO BLUE JAYS--Named Steve Miller scout for the upper midwest region of the United States, Carlos Rodriguez scout for the South Florida region, and Tim Rooney central California area scout.</p>
+        <p>National League  PHILADELPHIA PHILLIES--Claimed RHP Anderson Garcia off waivers from Baltimore.</p>
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  N.B.A.--Suspended Phoenix G Raja Bell for one game for kicking Toronto F Andrea Bargnani in a Jan. 3 game.  GOLDEN STATE WARRIORS--Waived G Anthony Roberson.  SEATTLE SUPERSONICS--Signed F Andre Brown to a 10-day contract.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  KANSAS CITY CHIEFS--Signed DB Michael Bragg from the practice squad.  PITTSBURGH STEELERS--Announced the resignation of Bill Cowher, coach.  TENNESSEE TITANS--Announced the resignation of Floyd Reese, general manager.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  ATLANTA THRASHERS--Activated F Steve Rucchin from injured reserve.  BOSTON BRUINS--Assigned F Phil Kessel to Providence of the AHL.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  CLEVELAND INDIANS--Named Tim Laker manager for Mahoning Valley of the New York-Penn League, Chris Tremie manager for Lake County of the South Atlantic League and Dave Hudgens field coordinator, Bruce Fields hitting coordinator and Gary Varsho outfield and baserunning coordinator for their player development system.  SEATTLE MARINERS--Agreed to terms with RHP Chris Reitsma on a one-year contract.  TORONTO BLUE JAYS--Named Steve Miller scout for the upper midwest region of the United States, Carlos Rodriguez scout for the South Florida region, and Tim Rooney central California area scout.</p>
+        <p>National League  PHILADELPHIA PHILLIES--Claimed RHP Anderson Garcia off waivers from Baltimore.</p>
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  N.B.A.--Suspended Phoenix G Raja Bell for one game for kicking Toronto F Andrea Bargnani in a Jan. 3 game.  GOLDEN STATE WARRIORS--Waived G Anthony Roberson.  SEATTLE SUPERSONICS--Signed F Andre Brown to a 10-day contract.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  KANSAS CITY CHIEFS--Signed DB Michael Bragg from the practice squad.  PITTSBURGH STEELERS--Announced the resignation of Bill Cowher, coach.  TENNESSEE TITANS--Announced the resignation of Floyd Reese, general manager.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  ATLANTA THRASHERS--Activated F Steve Rucchin from injured reserve.  BOSTON BRUINS--Assigned F Phil Kessel to Providence of the AHL.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

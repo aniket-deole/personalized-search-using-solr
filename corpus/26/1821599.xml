@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Community Center Audit</title>
+    <meta content="26mbrfs-4" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821599"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Nepotism</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <org class="indexing_service">Pomonok Neighborhood Center (NYC)</org>
+        <person class="indexing_service">Rivera, Ray</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E0DD173FF935A15752C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Community Center Audit</hl1>
+      </hedline>
+      <byline class="print_byline">By RAY RIVERA; Compiled by Thomas J. Lueck</byline>
+      <byline class="normalized_byline">Rivera, Ray</byline>
+      <abstract>
+        <p>City is considering legal action against Pomonok Neighborhood Center in Flushing, Queens, after financial audit released by Comptroller Williams C Thompson Jr reveals $178,530 in questionable salary payments and other violations (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The city is considering legal action against employees of a Queens community center after an audit revealed that they received $178,530 in questionable payments, officials said. The audit, released yesterday by Comptroller William C. Thompson Jr., was ordered after suspicions of financial irregularities at the center, the Pomonok Neighborhood Center in Flushing, surfaced in 2005. The center has city and state contracts to provide after-school programs, housing assistance and other services. According to the audit, the center's youth program director may have padded the time sheets for himself, his daughter, his live-in companion and her son, who were hired in violation of rules against nepotism. The audit also questioned salary payments to 27 other people.</p>
+        <p>RAY RIVERA</p>
+      </block>
+      <block class="full_text">
+        <p>The city is considering legal action against employees of a Queens community center after an audit revealed that they received $178,530 in questionable payments, officials said. The audit, released yesterday by Comptroller William C. Thompson Jr., was ordered after suspicions of financial irregularities at the center, the Pomonok Neighborhood Center in Flushing, surfaced in 2005. The center has city and state contracts to provide after-school programs, housing assistance and other services. According to the audit, the center's youth program director may have padded the time sheets for himself, his daughter, his live-in companion and her son, who were hired in violation of rules against nepotism. The audit also questioned salary payments to 27 other people.</p>
+        <p>RAY RIVERA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

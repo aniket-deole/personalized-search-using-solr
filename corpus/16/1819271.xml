@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Panel Urges 'Marshall Plan' To Improve Middle Schools</title>
+    <meta content="16middle" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819271"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Teachers and School Employees</classifier>
+        <classifier class="indexing_service" type="descriptor">Principals (School)</classifier>
+        <org class="indexing_service">New York City Coalition for Education Justice</org>
+        <org class="indexing_service">Education Department</org>
+        <person class="indexing_service">Gootman, Elissa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Principals (School)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E0D91030F935A25752C0A9619C8B63" item-length="302" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Panel Urges 'Marshall Plan' To Improve Middle Schools</hl1>
+      </hedline>
+      <byline class="print_byline">By ELISSA GOOTMAN</byline>
+      <byline class="normalized_byline">Gootman, Elissa</byline>
+      <abstract>
+        <p>New York City Coalition for Education Justice seeks to end 'pathway to failure' in middle schools by calling for rigorous curriculum, smaller classes and new deputy chancellor position within Education Dept; wants better trained teachers and principals for middle schools; holds that middle schools have been relatively ignored; Education Dept says department has put in serious and lasting reform efforts (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A coalition of community groups is calling for the city Department of Education to develop a ''Marshall Plan for middle-grade schools,'' saying that all too often, the sixth through eighth grades become ''pathways to failure.''</p>
+        <p>In a report scheduled to be released at a news conference today, the coalition calls for a rigorous curriculum with advanced course offerings in all middle schools, classes of no more than 20 students each, and the creation of a new position within the department: a deputy chancellor who would focus on ''ensuring proper coordination and alignment'' among middle schools, high schools, college and the working world.</p>
+      </block>
+      <block class="full_text">
+        <p>A coalition of community groups is calling for the city Department of Education to develop a ''Marshall Plan for middle-grade schools,'' saying that all too often, the sixth through eighth grades become ''pathways to failure.''</p>
+        <p>In a report scheduled to be released at a news conference today, the coalition calls for a rigorous curriculum with advanced course offerings in all middle schools, classes of no more than 20 students each, and the creation of a new position within the department: a deputy chancellor who would focus on ''ensuring proper coordination and alignment'' among middle schools, high schools, college and the working world.</p>
+        <p>Noting that city middle school teachers tend to be less experienced than their elementary and high school counterparts, and are more likely to teach outside their license area, the report also calls for more teacher mentoring programs, as well as ''new incentive strategies'' to attract and retain qualified middle school teachers and principals.</p>
+        <p>The report was prepared by the community involvement program of the Annenberg Institute for School Reform, at Brown University, for an assortment of parent and community groups calling themselves the New York City Coalition for Educational Justice.</p>
+        <p>''Middle schools have been relatively ignored in reform efforts in the city, but they're crucial,'' said Norm Fruchter, director of the community involvement program. ''You're not going to get good high school outcomes without paying attention to middle schools.''</p>
+        <p>David Cantor, a spokesman for the Education Department, said in a statement that the department considered the middle school years ''of critical importance.''</p>
+        <p>He said the department had put in place ''serious and lasting'' reform efforts, including the addition of $40 million yearly for struggling middle school students, closing failing middle schools, creating K-8 and 6th- through 12th-grade schools, and carving large middle schools into ''small learning communities.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

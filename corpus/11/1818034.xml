@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="11trans" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818034"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E4D91230F932A25752C0A9619C8B63" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  LOS ANGELES ANGELS--Sent RHP Chris Bootcheck outright to Salt Lake of the PCL.</p>
+        <p>National League  CINCINNATI REDS--Designated OF Ray Olmedo for assignment. Acquired INF Jeff Keppinger from Kansas City for RHP Russ Haltiwanger.  ST. LOUIS CARDINALS--Agreed to terms with LHP Mark Mulder on a two-year contract, RHP Ryan Franklin on a one-year contract, and Rick Ankiel and INF Jolbert Cabrera on minor league contracts.  SAN FRANCISCO GIANTS--Announced the retirement of RHP Tim Worrell.</p>
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  SEATTLE SUPERSONICS--Assigned C Mouhamed Sene to Idaho of the NBADL.</p>
+        <p>N.B.A. Development League  FORT WORTH FLYERS--Agreed to terms with C Badou Gaye.  SIOUX FALLS SKYFORCE--Agreed to terms with G Stephen Graham. Waived G DeSean Hadley.  TULSA 66ERS--Agreed to terms with G Desmon Farmer. Waived F Mustafa Al-Sayaad.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  CLEVELAND BROWNS--Signed OL Andrew Hoffman, OL Pete Lougheed, DB Antonio Perkins, S Justin Sandy and DL Alvin Smith as reserve/future free agents.  DENVER BRONCOS--Fired Andre Patterson, defensive line/tackles coach.  GIANTS--Signed Tom Coughlin, coach, to a one-year contract extension, through 2008.  JETS--Signed WR Frisman Jackson to a reserve/future contract.  SEATTLE SEAHAWKS--Waived S John Howell. Signed DB Guss Scott to the practice squad.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  BOSTON BRUINS--Assigned D Jonathan Sigalet to Providence of the AHL.  MINNESOTA WILD--Recalled RW Joel Ward from Houston of the AHL.  MONTREAL CANADIENS--Assigned F Mikhail Grabovski to Hamilton of the AHL.  TORONTO MAPLE LEAFS--Claimed C Travis Green off waivers from Anaheim.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  LOS ANGELES ANGELS--Sent RHP Chris Bootcheck outright to Salt Lake of the PCL.</p>
+        <p>National League  CINCINNATI REDS--Designated OF Ray Olmedo for assignment. Acquired INF Jeff Keppinger from Kansas City for RHP Russ Haltiwanger.  ST. LOUIS CARDINALS--Agreed to terms with LHP Mark Mulder on a two-year contract, RHP Ryan Franklin on a one-year contract, and Rick Ankiel and INF Jolbert Cabrera on minor league contracts.  SAN FRANCISCO GIANTS--Announced the retirement of RHP Tim Worrell.</p>
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  SEATTLE SUPERSONICS--Assigned C Mouhamed Sene to Idaho of the NBADL.</p>
+        <p>N.B.A. Development League  FORT WORTH FLYERS--Agreed to terms with C Badou Gaye.  SIOUX FALLS SKYFORCE--Agreed to terms with G Stephen Graham. Waived G DeSean Hadley.  TULSA 66ERS--Agreed to terms with G Desmon Farmer. Waived F Mustafa Al-Sayaad.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  CLEVELAND BROWNS--Signed OL Andrew Hoffman, OL Pete Lougheed, DB Antonio Perkins, S Justin Sandy and DL Alvin Smith as reserve/future free agents.  DENVER BRONCOS--Fired Andre Patterson, defensive line/tackles coach.  GIANTS--Signed Tom Coughlin, coach, to a one-year contract extension, through 2008.  JETS--Signed WR Frisman Jackson to a reserve/future contract.  SEATTLE SEAHAWKS--Waived S John Howell. Signed DB Guss Scott to the practice squad.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  BOSTON BRUINS--Assigned D Jonathan Sigalet to Providence of the AHL.  MINNESOTA WILD--Recalled RW Joel Ward from Houston of the AHL.  MONTREAL CANADIENS--Assigned F Mikhail Grabovski to Hamilton of the AHL.  TORONTO MAPLE LEAFS--Claimed C Travis Green off waivers from Anaheim.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Andrew Moore</title>
+    <meta content="12gall-7" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818300"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Schwendener, Martha</person>
+        <person class="indexing_service">Moore, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDD1330F931A25752C0A9619C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Andrew Moore</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+      <byline class="normalized_byline">Schwendener, Martha</byline>
+      <abstract>
+        <p>Martha Schwendener reviews photographs by Andrew Moore at Yancey Richardson gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yancey Richardson  535 West 22nd Street, Chelsea  Through Jan. 27</p>
+        <p>Andrew Moore, a midcareer artist, makes work that merges variant strains of photography. Mr. Moore is a journalist-documentarian adept at gaining access to restricted locales like Governors Island in New York Harbor. In the last decade he's also photographed his way across Russia, Bosnia and Cuba.</p>
+      </block>
+      <block class="full_text">
+        <p>Yancey Richardson  535 West 22nd Street, Chelsea  Through Jan. 27</p>
+        <p>Andrew Moore, a midcareer artist, makes work that merges variant strains of photography. Mr. Moore is a journalist-documentarian adept at gaining access to restricted locales like Governors Island in New York Harbor. In the last decade he's also photographed his way across Russia, Bosnia and Cuba.</p>
+        <p>At the same time, Mr. Moore borrows heavily from the bag of tricks employed by conceptual photographers like Andreas Gursky and Jeff Wall. His chromogenic prints mimic the scale of easel painting and the color saturation of commercial photography. He is also not averse to digitally manipulating his images.</p>
+        <p>This selection of seven photographs from various projects, dating from 2002 to 2006, showcases Mr. Moore's aesthetic pyrotechnics. It also tries to reposition him as a photographer of the physical landscape rather than of what Lee Friedlander called the ''social landscape.''</p>
+        <p>''Sea of Fog, Sweden'' stretches out below an ancient Viking ruin and refers to an 1818 painting by Casper David Friedrich. Rustic waterfront houses in ''Fishing Village, White Sea'' are sandwiched between low hanging clouds and a harbor at ebb tide. ''Tay Ho, Hanoi'' captures the Vietnamese city against a moody, dramatic sunset, while ''Round Up II, Keene, North Dakota'' is a crystalline image of a verdant Western range under sunny, cloud-flecked skies. Several images, like ''Casino Rooftop, Asbury Park,'' play a trompe l'oeil game, looking more like paintings than photographs.</p>
+        <p>Presenting photographs as digressive fragments or self-contained objects rather than as parts of a larger cohesive series is a strategy gaining in popularity among younger practitioners. Yet knowing that these works come from longer, essaylike series makes the display here disorienting rather than illuminating. As the show hops from one continent and vista to another, nothing substantial is registered about landscape per se, although the pictures are extraordinarily beautiful.</p>
+        <p>MARTHA SCHWENDENER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

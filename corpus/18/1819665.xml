@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Take an Internet Call and Some Notes, or Just Doodle</title>
+    <meta content="18nokia" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/technology/18nokia.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819665"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Bluetooth Wireless Technology</classifier>
+        <org class="indexing_service">Nokia</org>
+        <person class="indexing_service">Berger, Ivan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Nokia Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E2DA1130F93BA25752C0A9619C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Take an Internet Call and Some Notes, or Just Doodle</hl1>
+        <hl2 class="online_headline">Take an Internet Call and Some Notes, or Just Doodle</hl2>
+      </hedline>
+      <byline class="print_byline">By IVAN BERGER</byline>
+      <byline class="normalized_byline">Berger, Ivan</byline>
+      <abstract>
+        <p>Nokia's N800 Internet Tablet allowse</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You can't put the world in your pocket, but you can put the Web there, with Nokia's N800 Internet tablet, which is about the size of a paperback (3 by 6 by  1/2 inch). Like the earlier N770, it lets you browse the Internet, send and receive e-mail and instant messages, download audio and video and get R.S.S. feeds. The N800 adds a Web cam for videoconferencing and a microphone for Internet phone calls.</p>
+        <p>As a media player, the N800 handles MP3 and Windows Media files and other common audio and video formats, displaying images on a 4.1-inch color screen and playing audio through built-in stereo speakers or a headphone. Content can be loaded from SD or MMC memory cards, streamed from the Web or downloaded through a U.S.B. connection from another computer. The tablet uses Wi-Fi networking, but it can also connect to a compatible Nokia phone via Bluetooth and use it as a wireless modem.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nokia’s N800 Internet tablet lets you browse the Internet, send and receive e-mail, download audio and video and get R.S.S. feeds.</p>
+      </block>
+      <block class="full_text">
+        <p>You can't put the world in your pocket, but you can put the Web there, with Nokia's N800 Internet tablet, which is about the size of a paperback (3 by 6 by  1/2 inch). Like the earlier N770, it lets you browse the Internet, send and receive e-mail and instant messages, download audio and video and get R.S.S. feeds. The N800 adds a Web cam for videoconferencing and a microphone for Internet phone calls.</p>
+        <p>As a media player, the N800 handles MP3 and Windows Media files and other common audio and video formats, displaying images on a 4.1-inch color screen and playing audio through built-in stereo speakers or a headphone. Content can be loaded from SD or MMC memory cards, streamed from the Web or downloaded through a U.S.B. connection from another computer. The tablet uses Wi-Fi networking, but it can also connect to a compatible Nokia phone via Bluetooth and use it as a wireless modem.</p>
+        <p>The tablet, available from retailers and www.nokiausa.com for $400, has an on-screen keyboard. It will recognize text written with a stylus, which can also be used for doodling.</p>
+        <p>IVAN BERGER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

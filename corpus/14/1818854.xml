@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="14sbizcorrections-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818854"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <org class="indexing_service">New York-Presbyterian Hospital</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E4DA1330F937A25752C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction on January 7 article about New York-Presbyterian�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article last Sunday about the NewYork-Presbyterian Healthcare System referred incorrectly to the history of hospitals that was chronicled in ''The Care of Strangers: The Rise of America's Hospital System,'' by Charles E. Rosenberg. The number of hospitals in the United States grew from only two in 1800, according to the book; there were not only two in the early 1900s. And a census of hospitals in 1909, not 1920, showed more than 4,300 hospitals housing more than 420,000 beds.</p>
+      </block>
+      <block class="full_text">
+        <p>An article last Sunday about the NewYork-Presbyterian Healthcare System referred incorrectly to the history of hospitals that was chronicled in ''The Care of Strangers: The Rise of America's Hospital System,'' by Charles E. Rosenberg. The number of hospitals in the United States grew from only two in 1800, according to the book; there were not only two in the early 1900s. And a census of hospitals in 1909, not 1920, showed more than 4,300 hospitals housing more than 420,000 beds.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

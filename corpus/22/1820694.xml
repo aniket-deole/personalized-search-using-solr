@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tribune Co. May Reject Outside Bids</title>
+    <meta content="22tribune" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/business/media/22tribune.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820694"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Tribune Co</org>
+        <person class="indexing_service">Seelye, Katharine Q</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Tribune Company</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EEDD1F30F931A15752C0A9619C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tribune Co. May Reject Outside Bids</hl1>
+        <hl2 class="online_headline">Tribune Co. May Reject Outside Bids</hl2>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+      <byline class="normalized_byline">Seelye, Katharine Q</byline>
+      <abstract>
+        <p>Tribune Co, which put itself on market, indicates it might reshape its future without outside help; firm received three bids for all or part of company (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Tribune Company, which had put itself on the market, indicated over the weekend that it might reshape its future without outside help.</p>
+        <p>On the auction block since last fall, the company, which owns The Los Angeles Times, The Chicago Tribune and other media properties, received three bids last week, for all or part of the company.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Tribune Company indicated over the weekend that it might reshape its future without outside help.</p>
+      </block>
+      <block class="full_text">
+        <p>The Tribune Company, which had put itself on the market, indicated over the weekend that it might reshape its future without outside help.</p>
+        <p>On the auction block since last fall, the company, which owns The Los Angeles Times, The Chicago Tribune and other media properties, received three bids last week, for all or part of the company.</p>
+        <p>A committee of Tribune board members that met on Saturday in Chicago was weighing those bids, but the board could also take steps on its own to achieve its goal, which is to increase the price of Tribune stock, the committee chairman said.</p>
+        <p>''The committee is actively engaged in the review process,'' the chairman, William A. Osborn, the company's lead independent director, said in a statement. ''Assisted by our outside legal and financial advisers, we are carefully considering all alternatives for creating additional shareholder value. These alternatives include potential transactions involving third parties as well as actions the company may take alone.''</p>
+        <p>The committee is to make a recommendation before the end of March to the company's full board.</p>
+        <p>At stake is the future of The Times, The Tribune, The Baltimore Sun and other newspapers, as well as 23 television stations and the Chicago Cubs.</p>
+        <p>The Tribune Company was forced to put itself up for sale last year by its largest shareholders, the Chandler family, who had complained of the sagging stock price and what it said at one time was poor management.</p>
+        <p>The Chandlers made one of the bids last week. A second was submitted by two Los Angeles billionaires, Eli Broad and Ronald W. Burkle. A third bid, for the television stations only, was submitted by the Carlyle Group, a private equity firm.</p>
+        <p>The company is under no obligation to sell itself, in whole or in part.</p>
+        <p>People close to the process have said that the outside offers were perceived as inadequate and that the company could take itself private on its own, sell off its broadcast unit or undertake a stock buyback. It could also do nothing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

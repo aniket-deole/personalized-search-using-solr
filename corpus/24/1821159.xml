@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Emperor Does Have Clothes (but He Says He Doesn't)</title>
+    <meta content="24pisa" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/24/arts/dance/24pisa.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821159"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">La Rocco, Claudia</person>
+        <person class="indexing_service">Pisani, Martine</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Danspace Project</org>
+        <person class="online_producer">Pisani, Martine</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E5D61F30F937A15752C0A9619C8B63" item-length="373" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Emperor Does Have Clothes (but He Says He Doesn't)</hl1>
+        <hl2 class="online_headline">This Emperor Does Have Clothes (but He Says He Doesn’t)</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA LA ROCCO</byline>
+      <byline class="normalized_byline">La Rocco, Claudia</byline>
+      <abstract>
+        <p>Claudia La Rocco reviews performance of Martine Pisani piece at St Mark's Church (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Who would have imagined that watching a stranger undress could ever be tedious?</p>
+        <p>Well, over the past few years choreographers have managed the impossible, making every effort to yank skivvies off whenever remotely necessary, and especially when it isn't.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Who would have imagined that watching a stranger undress could ever be tedious? Well, over the past few years choreographers have managed the impossible.</p>
+      </block>
+      <block class="full_text">
+        <p>Who would have imagined that watching a stranger undress could ever be tedious?</p>
+        <p>Well, over the past few years choreographers have managed the impossible, making every effort to yank skivvies off whenever remotely necessary, and especially when it isn't.</p>
+        <p>But fear not. The French are here to save the day. Really.</p>
+        <p>On Thursday Martine Pisani's ''Bande à Part'' (''Band of Outsiders'') opened at Danspace Project. There was plenty of nudity: indeed, you could make the case that the performance hinged on it. It's just that none of it was actual.</p>
+        <p>The work began with Théo Kooijman walking the audience through his conceptual disrobing. ''O.K., I got through the first part,'' he explained after a pause in which nothing happened, and in which you realized that nothing was going to. The joke, of course, is that you felt his nakedness all the more.</p>
+        <p>Such absurd and obvious manipulation of reality lay at the heart of this hourlong solo, cleverly disguised as a quartet. Christophe Ives, Eduard Mont de Palol, Olivier Schram and Mr. Kooijman, delightful dancers all, took turns performing a simple movement monologue, which included things like losing yourself for 23 seconds and finding yourself in seven; warming up and then passing that heat on to the audience through methods like vigorous rubbing and fanning, and that old standby, disappearing.</p>
+        <p>Each man interpreted this script (the ''soloist's story'' was read early on) in his own way and seemingly off the cuff, often ceding the soloist role to another performer in midstream.</p>
+        <p>The revolving backup threesome served to enhance and frame the action; think of the peanut gallery, not a Greek chorus. They burbled and chirped when it seemed their lead was in danger of nodding off. They created sound effects through methods that give new meaning to the description ''low tech''; at one point Mr. Mont de Palol zipped and unzipped his fly to great effect. They galloped around awkwardly like men who can't quite get their minds around the concept.</p>
+        <p>And they created, through such winning and inane shenanigans, a reality that was just as forceful as the workaday version you're normally told to believe. You know, the one that says to be naked, you mustn't wear clothes.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

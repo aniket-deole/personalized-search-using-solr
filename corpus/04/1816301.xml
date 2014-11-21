@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Not an iPod, but It's Child-Friendly and Uses One AAA Battery</title>
+    <meta content="04player" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/technology/04player.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816301"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Playaway (Co)</org>
+        <person class="indexing_service">Buckleitner, Warren</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E6D81730F937A35752C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Not an iPod, but It's Child-Friendly and Uses One AAA Battery</hl1>
+        <hl2 class="online_headline">Not an iPod, but It’s Child-Friendly and Uses One AAA Battery</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN BUCKLEITNER</byline>
+      <byline class="normalized_byline">Buckleitner, Warren</byline>
+      <abstract>
+        <p>Playaway Kidz Bop to Go audio players are pre-loaded with 20 songs aimed at children; cost $30; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Playaway is known for its Ready-to-Go line of audio book players, which are about the size of an iPod and play one book each. It is a concept that seems easy to apply to music, and that's the idea behind the company's $30 Kidz Bop to Go players, each featuring 20 songs aimed at children.</p>
+        <p>The players are most notable for the features they don't have. There are no U.S.B. cables, CDs to rip or burn, downloads, online stores or batteries to recharge. Just turn them on, put in the headphones and you're ready to go.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kidz Bop to Go players are most notable for the features they don’t have -- no U.S.B. cables, CDs to rip or burn, or batteries to recharge.</p>
+      </block>
+      <block class="full_text">
+        <p>Playaway is known for its Ready-to-Go line of audio book players, which are about the size of an iPod and play one book each. It is a concept that seems easy to apply to music, and that's the idea behind the company's $30 Kidz Bop to Go players, each featuring 20 songs aimed at children.</p>
+        <p>The players are most notable for the features they don't have. There are no U.S.B. cables, CDs to rip or burn, downloads, online stores or batteries to recharge. Just turn them on, put in the headphones and you're ready to go.</p>
+        <p>There is a tiny LCD screen that displays the track number and time remaining. The device is powered by one AAA battery that lasts 12 hours.</p>
+        <p>Volumes 1 and 2 of Kidz Bop to Go (www.playawaydigital.com) feature songs from the Kidz Bop team, who perform highly engineered versions of Top 40 songs. The sound quality is good, although the volume can get uncomfortably loud.</p>
+        <p>When looking for music to keep the children entertained, consider that for the price of 30 songs from the iTunes store you can get 20 preloaded Kidz Bop selections, with the player and earbuds to boot.</p>
+        <p>WARREN BUCKLEITNER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

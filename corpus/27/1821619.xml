@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BRISTOL, HERMAN G.</title>
+    <meta content="dn012708.1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821619"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BRISTOL, HERMAN G.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E6DE173AF934A15752C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BRISTOL, HERMAN G.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BRISTOL--Herman G., 75 years young, died suddenly on January 20. He is survived by his wife, Gloria, his daughters, Elyce and Cara, four grandchildren and two stepsons. Pioneer African American salesman at IBM, lifelong horseman and lover of music, Herman was grateful every day for his life and blessings until the day of his transition. Though filled with sorrow, we are grateful for, and inspired by, his life. For funeral information, call Roy L. Gilmore Funeral Home after Monday 718-528-7765.</p>
+      </block>
+      <block class="full_text">
+        <p>BRISTOL--Herman G., 75 years young, died suddenly on January 20. He is survived by his wife, Gloria, his daughters, Elyce and Cara, four grandchildren and two stepsons. Pioneer African American salesman at IBM, lifelong horseman and lover of music, Herman was grateful every day for his life and blessings until the day of his transition. Though filled with sorrow, we are grateful for, and inspired by, his life. For funeral information, call Roy L. Gilmore Funeral Home after Monday 718-528-7765.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

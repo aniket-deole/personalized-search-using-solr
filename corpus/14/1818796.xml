@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marcia Greenblatt, Morgan Hayes</title>
+    <meta content="14greenblatt" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/weddings/14greenblatt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818796"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Greenblatt, Marcia Lynne (Marcia Lynne Hayes)</person>
+        <person class="indexing_service">Hayes, Morgan Joseph</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E5DB1330F937A25752C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marcia Greenblatt, Morgan Hayes</hl1>
+        <hl2 class="online_headline">Marcia Greenblatt, Morgan Hayes</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marcia Lynne Greenblatt, the daughter of Cynthia Greenblatt and Howard Greenblatt of Wethersfield, Conn., was married last evening to Morgan Joseph Hayes, a son of Britt M. Hayes and Dr. Joseph G. Hayes of New York. Rabbi Steven J. Mason performed the ceremony in the chapel at Trinity College in Hartford, from which the bride graduated.</p>
+        <p>Mrs. Hayes 26, is a manager of corporate events at Forbes.com, the online division of Forbes Media in New York. Her father, who is retired, was the president and an owner of Better Brands, a supplier of food and services to institutions, in Windsor, Conn. Her mother teaches history at Wethersfield High School.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Marcia Lynne Greenblatt, the daughter of Cynthia Greenblatt and Howard Greenblatt of Wethersfield, Conn., was married last evening to Morgan Joseph Hayes, a son of Britt M. Hayes and Dr. Joseph G. Hayes of New York. Rabbi Steven J. Mason performed the ceremony in the chapel at Trinity College in Hartford, from which the bride graduated.</p>
+      </block>
+      <block class="full_text">
+        <p>Marcia Lynne Greenblatt, the daughter of Cynthia Greenblatt and Howard Greenblatt of Wethersfield, Conn., was married last evening to Morgan Joseph Hayes, a son of Britt M. Hayes and Dr. Joseph G. Hayes of New York. Rabbi Steven J. Mason performed the ceremony in the chapel at Trinity College in Hartford, from which the bride graduated.</p>
+        <p>Mrs. Hayes 26, is a manager of corporate events at Forbes.com, the online division of Forbes Media in New York. Her father, who is retired, was the president and an owner of Better Brands, a supplier of food and services to institutions, in Windsor, Conn. Her mother teaches history at Wethersfield High School.</p>
+        <p>Mr. Hayes, also 26, is a third-year law student at Fordham. He graduated from Cornell. His mother is a psychotherapist in New York. His father, an internist and cardiologist, is an associate dean at Weill Medical College of Cornell University and the Herbert J. and Ann L. Siegel distinguished professor of clinical medicine.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

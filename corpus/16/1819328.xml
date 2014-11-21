@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Newark: Hospital's Use Of Helicopter Is Questioned</title>
+    <meta content="16mbrfs-8" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819328"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicaid</classifier>
+        <classifier class="indexing_service" type="descriptor">Helicopters</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Emergency Medical Treatment</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <location class="indexing_service">Newark (NJ)</location>
+        <org class="indexing_service">University of Medicine and Dentistry of New Jersey</org>
+        <person class="indexing_service">Kocieniewski, David</person>
+        <person class="indexing_service">Stern, Herbert J (Judge)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Helicopters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07EFD81030F935A25752C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Newark: Hospital's Use Of Helicopter Is Questioned</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID KOCIENIEWSKI; Compiled by Andy Newman</byline>
+      <byline class="normalized_byline">Kocieniewski, David</byline>
+      <abstract>
+        <p>Former Judge Herbert J Stern, who is federal monitor in investigation of University of Medicine and Dentistry of New Jersey, finds university might lack proper certification for its air ambulance program; says university's hospital in Newark may have improperly billed Medicaid for helicopter ambulance flights (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Jersey's state medical school may have improperly billed Medicaid for helicopter ambulance flights, according to a report released yesterday by a federal monitor. A former judge, Herbert J. Stern, who was appointed a year ago to investigate financial irregularities at the University of Medicine and Dentistry of New Jersey, noted in the report that the school had made many policy and personnel changes to address widespread problems with overbilling, nepotism and wasteful spending. But the report said that the university's hospital in Newark might lack proper certification for its air ambulance program. Anna Farneski, a school spokeswoman, said that university officials were reviewing the certification with the state police, who also participate, to ensure that the school complied with federal regulations.</p>
+        <p>DAVID KOCIENIEWSKI</p>
+      </block>
+      <block class="full_text">
+        <p>New Jersey's state medical school may have improperly billed Medicaid for helicopter ambulance flights, according to a report released yesterday by a federal monitor. A former judge, Herbert J. Stern, who was appointed a year ago to investigate financial irregularities at the University of Medicine and Dentistry of New Jersey, noted in the report that the school had made many policy and personnel changes to address widespread problems with overbilling, nepotism and wasteful spending. But the report said that the university's hospital in Newark might lack proper certification for its air ambulance program. Anna Farneski, a school spokeswoman, said that university officials were reviewing the certification with the state police, who also participate, to ensure that the school complied with federal regulations.</p>
+        <p>DAVID KOCIENIEWSKI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rutgers Calls a Hold On Season Tickets</title>
+    <meta content="21njweekNJ-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070128T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1820553"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">College Athletics</classifier>
+        <org class="indexing_service">Rutgers, the State University of New Jersey</org>
+        <person class="indexing_service">Miller, Jonathan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/College Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E6DE1F30F932A15752C0A9619C8B63" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rutgers Calls a Hold On Season Tickets</hl1>
+      </hedline>
+      <byline class="print_byline">By JONATHAN MILLER</byline>
+      <byline class="normalized_byline">Miller, Jonathan</byline>
+      <abstract>
+        <p>Rutgers University reportedly puts hold on sale of season tickets for football games and introduces waiting list; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Let's say you followed the Rutgers football team this past season -- from the highs of its nationally televised win over Louisville to the lows of its gut-wrenching overtime loss to West Virginia and then to the final, triumphant demolition of Kansas State in the Texas Bowl.</p>
+        <p>You're excited and ready to take that next step: season tickets to the eight Rutgers home games. And they are cheap -- $240 for any sideline seat.</p>
+      </block>
+      <block class="full_text">
+        <p>Let's say you followed the Rutgers football team this past season -- from the highs of its nationally televised win over Louisville to the lows of its gut-wrenching overtime loss to West Virginia and then to the final, triumphant demolition of Kansas State in the Texas Bowl.</p>
+        <p>You're excited and ready to take that next step: season tickets to the eight Rutgers home games. And they are cheap -- $240 for any sideline seat.</p>
+        <p>But you're out of luck.</p>
+        <p>''We've kind of put that on hold,'' said Kevin MacConnell, deputy director of athletics at Rutgers.</p>
+        <p>Yes, Rutgers, which four years ago struggled to put 27,000 bodies in its 41,500-seat stadium in Piscataway, now has no tickets available for the average fan. Indeed, Rutgers has introduced a waiting list, for which fans can pay $20 (nonrefundable) for the privilege of one day becoming a season-ticket holder. The $20 would go toward the season ticket.</p>
+        <p>''It's a great problem to have,'' Mr. MacConnell said. ''We'll solve it.''</p>
+        <p>For the 2006 season there were 11,600 season-ticket holders. But after the stunning success of this season, the university added 9,500 new ticket holders for 2007. Rutgers reserves 10,000 student tickets a game and 3,400 for the away team.</p>
+        <p>That would seem to leave about 7,000 tickets. But Rutgers has yet to ask current season-ticket holders whether they want to add seats to their plan; it will do so in the coming weeks.</p>
+        <p>It is unclear whether those on the waiting list will become season-ticket holders (there are 9,600 hopefuls so far), but Mr. MacConnell said he would try to accommodate everyone.</p>
+        <p>''It's nothing we could have imagined,'' he said. ''It just happened so quickly. Everything's off the charts.''</p>
+        <p>JONATHAN MILLER</p>
+        <p>THE WEEK</p>
+        <p>Correction:  January 28, 2007, Sunday  A report in The Week column last Sunday, about the availablility of season tickets for Rutgers University football games next season, carried incorrect information from the university about the number of people on a waiting list for the tickets. It is 1,600, not 9,600.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 28, 2007, Sunday</p>
+        <p>A report in The Week column last Sunday, about the availablility of season tickets for Rutgers University football games next season, carried incorrect information from the university about the number of people on a waiting list for the tickets. It is 1,600, not 9,600.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

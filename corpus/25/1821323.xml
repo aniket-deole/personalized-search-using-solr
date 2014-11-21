@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Researchers Go Molecular In Design of a Denser Chip</title>
+    <meta content="25chip" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Science; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/science/25chip.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821323"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Silicon</classifier>
+        <classifier class="indexing_service" type="descriptor">Records and Achievements</classifier>
+        <org class="indexing_service">Nature (Journal)</org>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Silicon</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE6D9163FF936A15752C0A9619C8B63" item-length="664" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Researchers Go Molecular In Design of a Denser Chip</hl1>
+        <hl2 class="online_headline">Researchers Go Molecular in Design of a Denser Chip</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>Journal Nature reports scientists have built memory chip about size of white blood cell, one-2,000th of inch per side; chip is modest in capacity with 160,000 bits of information, but bits are crammed so tightly it is densest ever made; achievement points to possible path toward continuing exponential growth of computing power even after current silicon chip-making technology hits fundamental limits in 10-20 years (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scientists have built a memory chip that is roughly the size of a white blood cell, about one-2,000th of an inch on a side.</p>
+        <p>Although the chip is modest in capacity -- with 160,000 bits of information -- the bits are crammed together so tightly that it is the densest ever made. The achievement points to a possible path toward continuing the exponential growth of computing power even after current silicon chip-making technology hits fundamental limits in 10 to 20 years.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Although the chip is modest in capacity  with 160,000 bits of information  the bits are crammed together so tightly that it is the densest ever made.</p>
+      </block>
+      <block class="full_text">
+        <p>Scientists have built a memory chip that is roughly the size of a white blood cell, about one-2,000th of an inch on a side.</p>
+        <p>Although the chip is modest in capacity -- with 160,000 bits of information -- the bits are crammed together so tightly that it is the densest ever made. The achievement points to a possible path toward continuing the exponential growth of computing power even after current silicon chip-making technology hits fundamental limits in 10 to 20 years.</p>
+        <p>The scientists, led by James R. Heath of the California Institute of Technology and J. Fraser Stoddart of the University of California, Los Angeles, will report their findings today in the journal Nature. As far back as 1999, Dr. Heath and Dr. Stoddart reported on aspects of their work , which included specially designed molecular switches and a novel technique for making ultrathin wires. The new work pulls the components into an integrated circuit.</p>
+        <p>''Our goal always was to develop a manufacturing technique that works at the molecular scale,'' said Dr. Heath, a professor of chemistry. ''It's a scientific demonstration, but it's a sort of a stake in the ground.''</p>
+        <p>The density of bits on the chip -- about 100 billion per square centimeter -- is about 40 times as much as current memory chips, Dr. Heath said. Improvements to the technique could increase the density by a factor of 10, he said.</p>
+        <p>But Dr. Heath said he did not know if this technique would be commercially useful. ''I don't know if the world needs memory like this,'' he said. ''I do know if you can manufacture at these dimensions, it's a fundamentally enabling capability.''</p>
+        <p>For example, the wires used in the chip are about the same width as proteins, and that could make possible tiny circuits that could detect cancer or other diseases. The researchers are making transistors and simple logic circuits using similar techniques, Dr. Heath said.</p>
+        <p>A crucial component of the chip is its molecular switch, designed by Dr. Stoddart. The switch, which belongs to a class of molecules known as rotaxanes, looks like a dumbbell with a ring that can slide along the central bar. Voltage pulses push the ring between two positions on the bar, which represent the zeros and ones used by computers to store data. The dumbbell shape keeps the ring from sliding off.</p>
+        <p>To build the chip, the researchers etched 400 parallel wires, each less than a millionth of an inch wide and separated by about one-750,000th of an inch from its neighbors. On top of the wires, they deposited a layer of the molecular switches, the dumbbells standing vertically, and then a second set of 400 wires turned 90 degrees to the first set.</p>
+        <p>Each crossing point between two perpendicular wires, with about 100 of the molecular switches wedged in between, is the storage location of one bit of information.</p>
+        <p>While many researchers are looking for ways to make molecular-size electronics, most are still building circuits containing only a handful of bits, compared with the 160,000 in the new chip. That suggests the new process Dr. Heath and Dr. Stoddart developed can be scaled up to a viable manufacturing process, said Vivek Subramanian, a professor of electrical engineering and computer sciences at the University of California, Berkeley.</p>
+        <p>''This is sort of the capstone in that they've pulled all this together,'' said Dr. Subramanian, who was not involved in the research.</p>
+        <p>Not everything about the chip works yet. When the researchers tested a small part of it, they found that only 30 percent of the bits actually worked. But it is possible to use only the working parts of the chip, and the researchers successfully wrote and read information to those parts, though even there the success was temporary. The switches routinely broke after being flipped about 10 times.</p>
+        <p>The researchers readily concede that their chip is merely a demonstration and is not refined enough for any applications. ''We're just happy it works,'' Dr. Heath said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

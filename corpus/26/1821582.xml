@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | South: Louisiana: Federal Officials Pledge Help On Crime</title>
+    <meta content="26brfs-3" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821582"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <location class="indexing_service">New Orleans (La)</location>
+        <org class="indexing_service">Justice Department</org>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <person class="indexing_service">Nossiter, Adam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana/New Orleans</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E2DD173FF935A15752C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | South: Louisiana: Federal Officials Pledge Help On Crime</hl1>
+      </hedline>
+      <byline class="print_byline">By ADAM NOSSITER</byline>
+      <byline class="normalized_byline">Nossiter, Adam</byline>
+      <abstract>
+        <p>Department of Justice announces it will assign FBI agents and other federal agents to police department in New Orleans in response to increase in violent crime in area to help identify cases that can be prosecuted by federal officials (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Responding to an increase in violent crime in New Orleans, the Department of Justice announced it would assign agents to the Police Department ''around the clock'' to help identify cases that could be prosecuted by federal officials. In other federal efforts to help beleaguered local law enforcement officials, the department also said it would send more agents from the Federal Bureau of Investigation and the Bureau of Alcohol, Tobacco, Firearms and Explosives, expand the authority of Drug Enforcement Administration agents and extend financing for six additional federal prosecutors temporarily posted to the city.</p>
+        <p>ADAM NOSSITER</p>
+      </block>
+      <block class="full_text">
+        <p>Responding to an increase in violent crime in New Orleans, the Department of Justice announced it would assign agents to the Police Department ''around the clock'' to help identify cases that could be prosecuted by federal officials. In other federal efforts to help beleaguered local law enforcement officials, the department also said it would send more agents from the Federal Bureau of Investigation and the Bureau of Alcohol, Tobacco, Firearms and Explosives, expand the authority of Drug Enforcement Administration agents and extend financing for six additional federal prosecutors temporarily posted to the city.</p>
+        <p>ADAM NOSSITER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

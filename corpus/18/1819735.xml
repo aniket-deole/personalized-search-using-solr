@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooklyn Artist, Held Hostage, Is Beaten to Death</title>
+    <meta content="18kill" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/nyregion/18kill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819735"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Hostages</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Vasquez, Emily</person>
+        <person class="indexing_service">Farmer, Ann</person>
+        <person class="indexing_service">Ingleton, Carlton</person>
+        <person class="indexing_service">Ingleton, Assawa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Violence</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hostages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E0D81130F93BA25752C0A9619C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooklyn Artist, Held Hostage, Is Beaten to Death</hl1>
+        <hl2 class="online_headline">Brooklyn Artist, Held Hostage, Is Beaten to Death</hl2>
+      </hedline>
+      <byline class="print_byline">By EMILY VASQUEZ and ANN FARMER</byline>
+      <byline class="normalized_byline">Farmer, Ann; Vasquez, Emily</byline>
+      <abstract>
+        <p>Brooklyn artist Carlton Ingleton is beaten to death by son Assawa Ingleton while being held hostage with other relatives in apartment by Assawa Ingleton (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Brooklyn artist was found fatally beaten in his apartment on Tuesday after his son held him and others hostage for more than six hours, the police said yesterday.</p>
+        <p>The man, Carlton Ingleton, 66, was found lying on his living room floor, with blood pooling beneath his head, when the police broke down the door to the Crown Heights apartment after being called by relatives who had been held hostage.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Carlton Ingleton was found fatally beaten in his apartment after his son held him and others hostage for more than six hours.</p>
+      </block>
+      <block class="full_text">
+        <p>A Brooklyn artist was found fatally beaten in his apartment on Tuesday after his son held him and others hostage for more than six hours, the police said yesterday.</p>
+        <p>The man, Carlton Ingleton, 66, was found lying on his living room floor, with blood pooling beneath his head, when the police broke down the door to the Crown Heights apartment after being called by relatives who had been held hostage.</p>
+        <p>Mr. Ingleton's son, Assawa Ingleton, 30, had held his mother, his pregnant wife, their two children and a friend hostage in the apartment, according to the police. He was charged with murder and weapons possession last night, the police said.</p>
+        <p>When the police arrived, Assawa Ingleton was hiding in a closet. He was taken in a straitjacket to Kings County Hospital Center for psychiatric evaluation, the police said. He was taken briefly to a precinct station for questioning yesterday, then was returned to the hospital for further evaluation.</p>
+        <p>Ellen Borakove, a spokeswoman for the medical examiner, said Carlton Ingleton had blunt impact injuries on the head and torso, a fractured rib, cuts of his liver and a brain hemorrhage.</p>
+        <p>Carlton Ingleton, a sculptor and painter with a small gallery and studio on East New York Avenue, was mourned yesterday by artists and neighbors.</p>
+        <p>They said he had worked with stone and wood and metal in his storefront studio in the building where he lived. He attended classes at the Art Students League in Manhattan, taught at Medgar Evers College and exhibited at museums and cultural centers around Brooklyn.</p>
+        <p>Constantly sketching, he drew people on subway trains, as well as neighbors who posed for him. He often had a knapsack to carry scraps he picked up around the city for sculptures.</p>
+        <p>Gary L. Sussman, an artist and longtime friend, said Carlton Ingleton's work was ''full of color and full of humanity.'' He added that he was an immigrant from Jamaica.</p>
+        <p>''When he walked into a room and smiled, it was like anybody's woes just disappeared,'' Mr. Sussman said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Floyd Is Close to Signing With the Cubs</title>
+    <meta content="22floyd" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820733"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">Chicago Cubs</org>
+        <person class="indexing_service">Floyd, Cliff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Chicago Cubs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E6DB1F30F931A15752C0A9619C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Floyd Is Close to Signing With the Cubs</hl1>
+      </hedline>
+      <abstract>
+        <p>Chicago Cubs are close to signing outfielder Cliff Floyd (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The free-agent outfielder Cliff Floyd is close to signing a one-year contract with the Chicago Cubs, a person with direct knowledge of the contract confirmed yesterday.</p>
+        <p>The Mets had made it clear that they had little interest in re-signing Floyd, 34, who is known for his powerful bat and upbeat personality. Floyd was hindered by injuries in his four years with the Mets. He played only 97 games last season, hitting .244 with 11 home runs and 44 runs batted in.</p>
+      </block>
+      <block class="full_text">
+        <p>The free-agent outfielder Cliff Floyd is close to signing a one-year contract with the Chicago Cubs, a person with direct knowledge of the contract confirmed yesterday.</p>
+        <p>The Mets had made it clear that they had little interest in re-signing Floyd, 34, who is known for his powerful bat and upbeat personality. Floyd was hindered by injuries in his four years with the Mets. He played only 97 games last season, hitting .244 with 11 home runs and 44 runs batted in.</p>
+        <p>The Chicago Sun-Times first reported the deal yesterday.</p>
+        <p>Floyd will return to his native Chicago to play for a team that struggled for the past two seasons. The Cubs, however, hired Lou Piniella as manager and signed Alfonso Soriano as a free agent this off-season. With Derrek Lee, Aramis Ramírez and Soriano, the Cubs are loaded with powerful right-handed hitters. The addition of the left-handed Floyd would give Piniella more flexibility with his lineup. Floyd would probably share time in left field with Matt Murton.</p>
+        <p>Floyd, who spent time on the disabled list last season because of ankle and Achilles' tendon injuries, returned to the Mets at the beginning of September. He caught the last out of their division-clinching game against the Florida Marlins on Sept. 18.</p>
+        <p>The Mets signed Moises Alou to a one-year contract Nov. 20. Alou, who played right field in 81 of his 98 games with San Francisco last season, will probably fill Floyd's spot in left.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

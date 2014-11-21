@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | Connecticut: Greenwich: Concession Dispute Over</title>
+    <meta content="12mbrfs-10" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818362"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E7DB1330F931A25752C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | Connecticut: Greenwich: Concession Dispute Over</hl1>
+      </hedline>
+      <byline class="print_byline">By ALISON LEIGH COWAN; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The operators of the coffee concession at the Old Greenwich train station have reached an agreement with town officials in which they will vacate that stand in exchange for an assurance that the town would try to help them keep their other stand at the Riverside station, officials said yesterday. The operators, Greg and Mary Maher, a married couple who have had the Old Greenwich stand for some years, were told in December that they had to leave after Adam Fairbanks, a 23-year-old Greenwich man who is blind, invoked laws giving the blind preference at running government-owned concessions.</p>
+        <p>ALISON LEIGH COWAN</p>
+      </block>
+      <block class="full_text">
+        <p>The operators of the coffee concession at the Old Greenwich train station have reached an agreement with town officials in which they will vacate that stand in exchange for an assurance that the town would try to help them keep their other stand at the Riverside station, officials said yesterday. The operators, Greg and Mary Maher, a married couple who have had the Old Greenwich stand for some years, were told in December that they had to leave after Adam Fairbanks, a 23-year-old Greenwich man who is blind, invoked laws giving the blind preference at running government-owned concessions.</p>
+        <p>ALISON LEIGH COWAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What's White, Fluffy and Isn't Falling Yet?</title>
+    <meta content="15yankee" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/business/media/15yankee.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819036"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <org class="indexing_service">Yankee Magazine</org>
+        <person class="indexing_service">Allen, Mel</person>
+        <person class="indexing_service">Kingson, Jennifer A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E6DD1030F936A25752C0A9619C8B63" item-length="388" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What's White, Fluffy and Isn't Falling Yet?</hl1>
+        <hl2 class="online_headline">What’s White, Fluffy and Isn’t Falling Yet?</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER A. KINGSON</byline>
+      <byline class="normalized_byline">Kingson, Jennifer A</byline>
+      <abstract>
+        <p>Yankee magazine features c�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New England's fickle weather has been the subject of many jokes, and it seemed to be playing one last week on Yankee magazine, the longtime chronicler of all things quaint and folksy in the region.</p>
+        <p>Yankee introduced a new format in its latest issue, which arrived on newsstands Jan. 9 with a big cover story about the glories of  snow. The wintry scene depicted was all the more prominent because the magazine, which shrank to digest size during World War II to conserve paper, had grown to full size.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New England’s fickle weather has been the subject of many jokes, and it seemed to be playing one last week on Yankee Magazine.</p>
+      </block>
+      <block class="full_text">
+        <p>New England's fickle weather has been the subject of many jokes, and it seemed to be playing one last week on Yankee magazine, the longtime chronicler of all things quaint and folksy in the region.</p>
+        <p>Yankee introduced a new format in its latest issue, which arrived on newsstands Jan. 9 with a big cover story about the glories of  snow. The wintry scene depicted was all the more prominent because the magazine, which shrank to digest size during World War II to conserve paper, had grown to full size.</p>
+        <p>But New England has been outright warm this winter, along with most of the Northeast. It was a record 67 degrees on Jan. 6 in Portland, Me., for example, and even the snowiest parts of northern Maine, Vermont and New Hampshire have seen relatively little of the stuff, according to the National Weather Service.</p>
+        <p>In a telephone interview Thursday, Mel Allen, the recently named editor of Yankee, pre-empted the question. ''You're going to kid with me about not having any snow,'' he said.</p>
+        <p>The cover photo and story package were selected last summer, Mr. Allen said. ''Who would have suggested Jan. 11 we wouldn't have had a significant snowfall yet?'' he said. The current Yankee was the January/February issue, he pointed out, adding that there was still time for plenty of blizzards. ''I'm betting that we're going to get socked,'' he said.</p>
+        <p>Still, at a recent planning meeting for next year's winter issue, some story ideas were rejiggered to be mindful of the fact that the winter of 2008 could be mild, too, Mr. Allen said.</p>
+        <p>As for readers, Yankee has been swamped by letters, phone calls and e-mail messages -- the vast majority of them about the publication's new format. ''Yankee has been passed down like an heirloom from generation to generation, and it's always had this idiosyncratic size,'' Mr. Allen said.</p>
+        <p>Yankee wasn't the only magazine to introduce design changes this month and trip slightly over long lead times. The Atlantic -- which, like Yankee, is placing new emphasis on photography -- ran a calendar item noting that Saddam Hussein might hang in February (it happened in late December). James Bennet, editor of The Atlantic, said by telephone Friday, ''There is a degree of prophecy that's involved in this kind of work.''</p>
+        <p>JENNIFER A. KINGSON</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

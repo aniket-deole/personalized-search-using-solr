@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="03trsale" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070104T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1816092"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E4DC1730F930A35752C0A9619C8B63" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSALIE R. RADOMSKY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Recent Sale  $7.27 million  Diplomat Centre  820 Second Avenue at 43rd Street  Manhattan</p>
+        <p>The Angolan Mission to the United Nations has moved into this 12,650-square-foot commercial condo covering the entire 12th floor of this 19-story building.</p>
+        <p>Buyer: Republic of Angola  Buyer's broker: David Rosenbloom, Cushman &amp; Wakefield  Seller: Second 820 Owner L.L.C.  Seller's broker: Scott Klau, Newmark Knight Frank</p>
+        <p>Recent Lease  $27/sq. ft.  approximate annual rent $180,500  111 John Street  Manhattan</p>
+        <p>A nonprofit Christian housing ministry has signed a 10-year lease to move its New York headquarters from Brooklyn to a 6,688-square-foot space occupying the entire 23rd floor of this 28-story office building.</p>
+        <p>Tenant: Habitat for Humanity International  Tenant brokers: Leon Manoff and Jared Freede, GVA Williams  Landlord: 111 John Street Realty Corp.  Landlord broker: Nat Braun, Brause Realty</p>
+        <p>For Lease  $131/sq. ft.  approximate annual rent $295,000  76 Madison Avenue at 28th Street  Manhattan</p>
+        <p>This 2,257-square-foot ground-floor retail space has use of a 700-square-foot basement in a 12-story condo, built in 1911 as an office building and recently converted.</p>
+        <p>Owner: LF/76 Madison, L.L.C.  Broker: Christopher Owles, Bruce Sinder and Simone Lillian, Sinvin Realty</p>
+        <p>ROSALIE R. RADOMSKY</p>
+      </block>
+      <block class="full_text">
+        <p>Recent Sale  $7.27 million  Diplomat Centre  820 Second Avenue at 43rd Street  Manhattan</p>
+        <p>The Angolan Mission to the United Nations has moved into this 12,650-square-foot commercial condo covering the entire 12th floor of this 19-story building.</p>
+        <p>Buyer: Republic of Angola  Buyer's broker: David Rosenbloom, Cushman &amp; Wakefield  Seller: Second 820 Owner L.L.C.  Seller's broker: Scott Klau, Newmark Knight Frank</p>
+        <p>Recent Lease  $27/sq. ft.  approximate annual rent $180,500  111 John Street  Manhattan</p>
+        <p>A nonprofit Christian housing ministry has signed a 10-year lease to move its New York headquarters from Brooklyn to a 6,688-square-foot space occupying the entire 23rd floor of this 28-story office building.</p>
+        <p>Tenant: Habitat for Humanity International  Tenant brokers: Leon Manoff and Jared Freede, GVA Williams  Landlord: 111 John Street Realty Corp.  Landlord broker: Nat Braun, Brause Realty</p>
+        <p>For Lease  $131/sq. ft.  approximate annual rent $295,000  76 Madison Avenue at 28th Street  Manhattan</p>
+        <p>This 2,257-square-foot ground-floor retail space has use of a 700-square-foot basement in a 12-story condo, built in 1911 as an office building and recently converted.</p>
+        <p>Owner: LF/76 Madison, L.L.C.  Broker: Christopher Owles, Bruce Sinder and Simone Lillian, Sinvin Realty</p>
+        <p>ROSALIE R. RADOMSKY  e-mail: realprop@nytimes.com</p>
+        <p>Correction:  January 4, 2007, Thursday  An entry in the Transactions column in the Square Feet pages of Business Day yesterday about a recent lease at 111 John Street, Manhattan, carried incorrect information from a broker about the new tenant. It is Habitat for Humanity-New York City, not Habitat for Humanity International. The entry also listed the rent incorrectly. It is $25 per square foot, not $27.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 4, 2007, Thursday</p>
+        <p>An entry in the Transactions column in the Square Feet pages of Business Day yesterday about a recent lease at 111 John Street, Manhattan, carried incorrect information from a broker about the new tenant. It is Habitat for Humanity-New York City, not Habitat for Humanity International. The entry also listed the rent incorrectly. It is $25 per square foot, not $27.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">e-mail: realprop@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

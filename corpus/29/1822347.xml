@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Blog Traffic Grows, and It's Mostly Male</title>
+    <meta content="29drill" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/technology/29drill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822347"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DRILLING DOWN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Men</classifier>
+        <org class="indexing_service">Nielsen/netratings</org>
+        <person class="indexing_service">Mindlin, Alex</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="descriptor">Men</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DF143FF93AA15752C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Blog Traffic Grows, and It's Mostly Male</hl1>
+        <hl2 class="online_headline">Blog Traffic Grows, and It’s Mostly Male</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX MINDLIN</byline>
+      <byline class="normalized_byline">Mindlin, Alex</byline>
+      <abstract>
+        <p>Drilling Down column on growth in newspaper blog traffic; Nielsen/NetRatings releases numbers showing traffic to newspaper blogs has tripled in last year, reaching 3.8 million in December; 66 percent of newspaper blog readers are men; photo (S)/</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Over the last few years, as newspaper Web sites have started to maintain blogs, there have been plenty of setbacks. A Washington Post blog was shut down last January after commenters flooded it with vitriol, and the author of a Los Angeles Times blog was caught commenting on his own posts under a pseudonym.</p>
+        <p>But there is no sign that newspapers are turning back: just last Wednesday, The Washington Post announced that it would be adding three new blogs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Slightly more men than women read online newspapers, and that trend is more pronounced on newspaper blogs.</p>
+      </block>
+      <block class="full_text">
+        <p>Over the last few years, as newspaper Web sites have started to maintain blogs, there have been plenty of setbacks. A Washington Post blog was shut down last January after commenters flooded it with vitriol, and the author of a Los Angeles Times blog was caught commenting on his own posts under a pseudonym.</p>
+        <p>But there is no sign that newspapers are turning back: just last Wednesday, The Washington Post announced that it would be adding three new blogs.</p>
+        <p>Numbers recently released by Nielsen/NetRatings, the Internet traffic measurement firm, suggest that such blogs are picking up readers. NetRatings said that traffic to newspaper blogs had more than tripled over the last year, reaching 3.8 million in December. (The total unique visitors to newspaper Web sites in December was 29.9 million.) Slightly more men than women read online newspapers, and that trend is more pronounced on newspaper blogs, 66 percent of whose readers are male.</p>
+        <p>''News and information is generally a male-skewing appetite,'' said Carolyn Creekmore, senior director of media analytics for NetRatings, ''and blogs are really getting a lot of the most engaged consumers.''</p>
+        <p>ALEX MINDLIN</p>
+        <p>DRILLING DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

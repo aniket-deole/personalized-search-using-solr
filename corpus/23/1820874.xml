@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Scanners For Tracking City Workers</title>
+    <meta content="23scanning" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/nyregion/23scanning.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820874"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Government Employees</classifier>
+        <classifier class="indexing_service" type="descriptor">Biometrics</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Scanning Devices</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Working Hours</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Chan, Sewell</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Identification Devices</classifier>
+        <classifier class="online_producer" type="descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Working Hours</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biometrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identification Devices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York City</location>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2D91F30F930A15752C0A9619C8B63" item-length="951" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Scanners For Tracking City Workers</hl1>
+        <hl2 class="online_headline">New Scanners for Tracking City Workers</hl2>
+      </hedline>
+      <byline class="print_byline">By SEWELL CHAN</byline>
+      <byline class="normalized_byline">Chan, Sewell</byline>
+      <abstract>
+        <p>Bloomberg administration is spending more than $180 million for state-of-the-art technology to keep track of some city employees's hours; use of tracking technology has created uproar; several unions vow to resist biometric tracking, which uses unique identifying qualities; say it is degrading, intrusive, unnecessary and could be used to keep tabs on all elements of workday; photos; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bloomberg administration is devoting more than $180 million toward state-of-the-art technology to keep track of when city employees come and go, with one agency requiring its workers to scan their hands each time they enter and leave the workplace.</p>
+        <p>The scanning, which began in August at the Department of Design and Construction, has created an uproar at a generally quiet department that focuses on major city construction projects.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Bloomberg administration is devoting more than $180 million toward state-of-the-art technology to keep track of when city employees come and go.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bloomberg administration is devoting more than $180 million toward state-of-the-art technology to keep track of when city employees come and go, with one agency requiring its workers to scan their hands each time they enter and leave the workplace.</p>
+        <p>The scanning, which began in August at the Department of Design and Construction, has created an uproar at a generally quiet department that focuses on major city construction projects.</p>
+        <p>At a City Council hearing yesterday, several unions vowed to resist the growing use of biometrics -- the unique identifying qualities associated with faces, fingers, hands, eyes and other body parts. The unions called the use of biometrics degrading, intrusive and unnecessary and said experimenting with the technology could set the stage for wider use of biometrics to keep tabs on all elements of the workday.</p>
+        <p>The use of new tracking technologies has been contentious at more and more workplaces. At Wyckoff Heights Medical Center in Brooklyn, nurses carry radio-frequency identification tags that allow their movements to be tracked, a practice the nurses protested in an arbitration proceeding. A lawyer for the hospital, David N. Hoffman, said the system was used to ensure the quality of patient care and not to keep track of nurses who are on breaks.</p>
+        <p>The town of Babylon, N.Y., installed global positioning system technology last year in most of its 250 vehicles, including snow plows and dump trucks; drivers complained that the system intruded on their privacy.</p>
+        <p>Identification devices are at the frontier of debates over workplace privacy, supplanting more traditional concerns like the use of drug tests and polygraphs, said Marc Rotenberg of the Electronic Privacy Information Center, a research and advocacy organization in Washington. ''New technologies raise questions about the control over disclosure of personal information,'' he said.</p>
+        <p>In New York City, the use of the hand scanners is part of CityTime, an ambitious effort by the city's Office of Payroll Administration to automate timekeeping. The city has a $181.1 million contract through 2009 with the Science Applications International Corporation to put CityTime in effect, according to the city's public database of contracts.</p>
+        <p>Science Applications, based in San Diego, is also a supplier of high-tech services to federal military and intelligence agencies, a fact that has rankled opponents of the use of biometric scanners.</p>
+        <p>The CityTime project has been under way for about eight years, and officials say it will eventually be able to record attendance and leave requests; collect time forms automatically; coordinate timekeeping with the city's payroll system; and allow workers and their supervisors to monitor time, attendance and leave online.</p>
+        <p>No city official appeared at the hearing yesterday, although several were invited. Stu Loeser, a spokesman for Mayor Michael R. Bloomberg, said the timekeeping project would make payroll administration far more efficient.</p>
+        <p>''Virtually every employee, including salaried employees in the mayor's office, has to file a timesheet, even those paid a flat salary,'' he said. ''Use of scanners, which are not uncommon in the private sector, makes it easier for employees to file timesheets and saves the city personnel costs.''</p>
+        <p>Mr. Loeser said the Department of Design and Construction was the biggest agency so far to use the hand scanners in conjunction with the new timekeeping system. He noted that the Law Department has used hand scanners for years to control access to offices; even Corporation Counsel Michael A. Cardozo uses them, he said.</p>
+        <p>The unions say that they support the full automation of timekeeping, including electronic submission of timesheets, and that their complaint is limited to the use of biometric scanners. They said the new devices were plagued by glitches and could even spread diseases because they are unclean. In response to a torrent of concerns about hygiene, the city installed a dispenser with Purell, a liquid hand sanitizer, over each scanner.</p>
+        <p>''Are these hand scanners the wave of the future,'' asked Councilman Joseph P. Addabbo Jr. of Queens, who conducted the hearing as chairman of the Civil Service and Labor Committee, ''or are they unnecessary, costly and a detriment to worker morale and productivity?''</p>
+        <p>The scanners were introduced in August at the department's headquarters in Long Island City, Queens. Hundreds of workers who keep daily timesheets -- generally, those who make less than $66,000 a year -- must use the scanners; those who file weekly timesheets, including many managers and supervisors, are exempt.</p>
+        <p>Also testifying at the hearing was Claude Fort, president of the Civil Service Technical Guild, Local 375 of the American Federation of State, County and Municipal Employees.</p>
+        <p>''The combination of a factory-floor mentality and installation of the degrading hand-scanner 'time clocks' has devastated morale and discouraged city employees from putting in any more than the minimal hours and effort required,'' he said. ''Not only has there been phenomenal waste and inefficiency resulting from poorly designed software, but the new system has actually cheated city employees out of pay and accrued time.''</p>
+        <p>Ed Ott, executive director of the New York City Central Labor Council of the A.F.L.-C.I.O., called the hand scanners ''a backdoor form of fingerprinting.'' He said the new system might violate city labor agreements because it was started without union consent or participation.</p>
+        <p>Cecelia McCarthy, an official in the Organization of Staff Analysts, another union representing employees at the department, said one worker complained after a colleague with an injured hand was asked to remove a bandage and place the hand -- with an open finger wound -- on the machine.</p>
+        <p>Other employees have called the scanners Orwellian. ''The body of my person, which includes my palm, belongs to me, and me alone,'' one employee, Kerry E. Carnahan, wrote on an internal department Web site last June, after plans for the hand scanners were announced. ''It is private.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

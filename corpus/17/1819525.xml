@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Immigrant Centers Inspected</title>
+    <meta content="17brfs-5" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819525"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom and Human Rights</classifier>
+        <org class="indexing_service">Homeland Security Department</org>
+        <person class="indexing_service">Swarns, Rachel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EEDE1130F934A25752C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Immigrant Centers Inspected</hl1>
+      </hedline>
+      <byline class="print_byline">By RACHEL SWARNS</byline>
+      <byline class="normalized_byline">Swarns, Rachel</byline>
+      <abstract>
+        <p>Department of Homeland Security inspects five of nation's 325 immigrant detention centers and finds most do not provide timely and responsive health care and sometimes fail to comply with government's standards of disciplining, classifying and housing detainees (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal inspection of 5 of the nation's 325 immigrant detention centers found that most did not provide timely and responsive health care and sometimes failed to comply with the government's standards of disciplining, classifying and housing detainees. The audit by the Department of Homeland Security also found a rape of a detainee in one center and a failure to provide access to legal services in another. Three centers did not translate handbooks into Spanish and other languages. Homeland security officials said the study was too small to be representative of the country's detention centers.</p>
+        <p>RACHEL SWARNS</p>
+      </block>
+      <block class="full_text">
+        <p>A federal inspection of 5 of the nation's 325 immigrant detention centers found that most did not provide timely and responsive health care and sometimes failed to comply with the government's standards of disciplining, classifying and housing detainees. The audit by the Department of Homeland Security also found a rape of a detainee in one center and a failure to provide access to legal services in another. Three centers did not translate handbooks into Spanish and other languages. Homeland security officials said the study was too small to be representative of the country's detention centers.</p>
+        <p>RACHEL SWARNS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

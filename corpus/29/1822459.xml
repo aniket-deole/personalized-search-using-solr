@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bygones</title>
+    <meta content="29empire-4" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822459"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Stadiums and Arenas</classifier>
+        <classifier class="indexing_service" type="descriptor">Yankee Stadium (NYC)</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">Poder Insurance Agency</org>
+        <person class="indexing_service">Steinbrenner, George</person>
+        <person class="indexing_service">Ferrer, Fernando</person>
+        <person class="indexing_service">Buettner, Russ</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stadiums and Arenas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E5DC143FF93AA15752C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bygones</hl1>
+      </hedline>
+      <byline class="print_byline">By RUSS BUETTNER</byline>
+      <byline class="normalized_byline">Buettner, Russ</byline>
+      <abstract>
+        <p>New York Yankees principal owner George Steinbrenner may give small portion of insurance business on construction of team's new stadium in Bronx to Poder Insurance Agency, company partly owned by Fernando Ferrer, who opposed Steinbrenner's plan to move team from Bronx to Manhattan when he was Bronx borough president (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As Bronx borough president, Fernando Ferrer often angered the New York Yankees' principal owner, George Steinbrenner, by opposing efforts to move the team to Manhattan.</p>
+        <p>Mr. Steinbrenner is not known for uttering the word ''bygones.'' But a company in which Mr. Ferrer holds an ownership stake, the Poder Insurance Agency, may receive a small portion of the insurance business on the construction of the Yankees' new stadium in the Bronx, said Howard J. Rubenstein, a spokesman for Mr. Steinbrenner.</p>
+      </block>
+      <block class="full_text">
+        <p>As Bronx borough president, Fernando Ferrer often angered the New York Yankees' principal owner, George Steinbrenner, by opposing efforts to move the team to Manhattan.</p>
+        <p>Mr. Steinbrenner is not known for uttering the word ''bygones.'' But a company in which Mr. Ferrer holds an ownership stake, the Poder Insurance Agency, may receive a small portion of the insurance business on the construction of the Yankees' new stadium in the Bronx, said Howard J. Rubenstein, a spokesman for Mr. Steinbrenner.</p>
+        <p>Though the arrangement has not been completed, the Yankees are seeking to award part of the insurance business to minority-owned firms, including E. G. Bowman, which has an alliance with Poder, Mr. Rubenstein said.</p>
+        <p>''It's a recognition of the need for diversity,'' he said.</p>
+        <p>RUSS BUETTNER</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

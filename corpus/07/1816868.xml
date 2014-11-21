@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TBR: Inside the List</title>
+    <meta content="07besthardback-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/books/review/07tbr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816868"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TBR"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7D61F31F934A35752C0A9619C8B63" item-length="516" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TBR: Inside the List</hl1>
+        <hl2 class="online_headline">Inside the list</hl2>
+      </hedline>
+      <byline class="print_byline">By DWIGHT GARNER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOLDING ON: At the start of last year -- Sunday, Jan. 1, 2006 -- the No. 1 novel here was ''Mary, Mary,'' a James Patterson production. The best-selling work of nonfiction was Frank McCourt's memoir ''Teacher Man.'' Three books from that first best-seller list of 2006 are still clinging, like snow that won't melt, to the nonfiction list in hardcover: ''Marley &amp; Me'' (62 weeks), ''The World Is Flat'' (90 weeks) and ''Freakonomics'' (85 weeks). All of last January's fiction best sellers have long vanished into the paperback aisle.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What was on the list a year ago; which literary novels made the list in 2006.</p>
+      </block>
+      <block class="full_text">
+        <p>HOLDING ON: At the start of last year -- Sunday, Jan. 1, 2006 -- the No. 1 novel here was ''Mary, Mary,'' a James Patterson production. The best-selling work of nonfiction was Frank McCourt's memoir ''Teacher Man.'' Three books from that first best-seller list of 2006 are still clinging, like snow that won't melt, to the nonfiction list in hardcover: ''Marley &amp; Me'' (62 weeks), ''The World Is Flat'' (90 weeks) and ''Freakonomics'' (85 weeks). All of last January's fiction best sellers have long vanished into the paperback aisle.</p>
+        <p>SPECIAL TOPICS: Two thousand and six, it turns out, was a sunny year for fiction, and a few literary novels sold well enough to make the list in hardcover. Among them, in order of number of weeks here, were: ''Water for Elephants,'' by Sara Gruen (12 weeks), ''Thirteen Moons,'' by Charles Frazier (10 weeks), ''Digging to America,'' by Anne Tyler (6 weeks), ''The Road,'' by Cormac McCarthy (5 weeks), ''The Emperor's Children,'' by Claire Messud (5 weeks), ''Everyman,'' by Philip Roth (5 weeks), ''Suite Française,'' by Irène Némirovsky (4 weeks), ''Terrorist,'' by John Updike (4 weeks), ''Special Topics in Calamity Physics,'' by Marisha Pessl (3 weeks), ''The Foreign Correspondent,'' by Alan Furst (3 weeks), ''The Mission Song,'' by John le Carré (3 weeks), ''Telegraph Days,'' by Larry McMurtry (3 weeks), ''Arthur &amp; George,'' by Julian Barnes (2 weeks), ''The Good Life,'' by Jay McInerney (2 weeks), and ''A Spot of Bother,'' by Mark Haddon (2 weeks).</p>
+        <p>OVERABUNDANCE: When I was in my 20s and living in Burlington, Vt., I was a volunteer at the Brautigan Library -- a nonprofit library stocked only with, well, unpublished books. Richard Brautigan dreamed up such a place in his shaggy 1971 novel ''The Abortion.'' In the real-life version, inspired by the novel, writers sent in their books and, for a small fee, the library bound them and stuck them on shelves for visitors to browse. It seemed like a good idea at the time -- up with the counterculture, down with smarty-pants New York publishing houses, etc. The Brautigan Library (1990-95) didn't survive into the Internet era, which would have rendered it irrelevant in any case. But I've been thinking about the place lately, perhaps slightly less wistfully, given the absurd overabundance of books of all sorts (the critic John Sutherland has estimated that 10,000 novels are published each year -- roughly 27 per day) and quasi-ridiculous events like National Novel Writing Month in November. This country doesn't need more writers; it needs more close readers, a point driven home in blazing high style by Christian Wiman, the editor of Poetry magazine, in an editorial, ''In Praise of Rareness,'' in that publication's December issue. Anticipating complaints that the issue includes too much prose and too little poetry, Wiman writes, ''The more respect you have for poetry, the less of it you will find adequate to your taste and needs,'' adding: ''With all the clamor in this country about the audience for poetry we shouldn't lose sight of one of poetry's chief strengths: how little of it there is.'' Read the issue.</p>
+        <p>DWIGHT GARNER</p>
+        <p>TBR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

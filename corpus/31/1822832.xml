@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="31corrections-5" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822832"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <org class="indexing_service">Blackstone Group</org>
+        <person class="indexing_service">Schwarzman, Stephen A</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E3DE153FF932A05752C0A9619C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 27 picture caption with article about 60th-birthday party for Blackstone Group founder Stephen A Schwarzman made incorrect reference about 1966 Black and White Ball</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture caption in Business Day on Saturday with an article about the extravagant 60th-birthday party planned for Stephen A. Schwarzman, a founder of the Blackstone Group, referred incorrectly to Katharine Graham's presence at Truman Capote's Black and White Ball, the New York social event of 1966. Mrs. Graham was the guest of honor; she was not simply one of Mr. Capote's guests.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture caption in Business Day on Saturday with an article about the extravagant 60th-birthday party planned for Stephen A. Schwarzman, a founder of the Blackstone Group, referred incorrectly to Katharine Graham's presence at Truman Capote's Black and White Ball, the New York social event of 1966. Mrs. Graham was the guest of honor; she was not simply one of Mr. Capote's guests.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Detects a Gene Linked to Alzheimer's</title>
+    <meta content="15newgene" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/health/15newgene.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819057"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alzheimer's Disease</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Dominican-Americans</classifier>
+        <location class="indexing_service">Dominican Republic</location>
+        <org class="indexing_service">Columbia University</org>
+        <org class="indexing_service">Nature Genetics (Journal)</org>
+        <person class="indexing_service">Wade, Nicholas</person>
+        <person class="indexing_service">Mayeux, Richard (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Dominican Republic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Alzheimer's</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Dominican Republic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Alzheimer's Disease</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alzheimer's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <location class="online_producer">Dominican Republic</location>
+        <org class="online_producer">Columbia University</org>
+        <person class="online_producer">Mayeux, Richard</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE3DD1030F936A25752C0A9619C8B63" item-length="580" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Detects a Gene Linked to Alzheimer's</hl1>
+        <hl2 class="online_headline">Study Detects a Gene Linked to Alzheimer’s</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+      <byline class="normalized_byline">Wade, Nicholas</byline>
+      <abstract>
+        <p>Variant gene involved in Alzheimer's disease has been detected through study of Dominican families living in Manhattan; families have about three times usual incidence of Alzheimer's, finding that led Dr Richard Mayeux of Columbia University in 1994 to start looking for what could be touching off disease; researchers found that in four of populations they studied, people with Alzheimer's had distinguishing genetic markers; finding is reported in journal Nature Genetics (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A variant gene involved in Alzheimer's disease has been detected through study of Dominican families living in Manhattan, scientists are reporting today.</p>
+        <p>The families have about three times the usual incidence of Alzheimer's, a finding that led Dr. Richard Mayeux of Columbia University in 1994 to start looking for anything in their environment that could be touching off the disease.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A variant gene involved in Alzheimer’s disease has been detected, scientists have reported. Dominican families with the gene were found to have about three times the usual incidence of Alzheimer’s.</p>
+      </block>
+      <block class="full_text">
+        <p>A variant gene involved in Alzheimer's disease has been detected through study of Dominican families living in Manhattan, scientists are reporting today.</p>
+        <p>The families have about three times the usual incidence of Alzheimer's, a finding that led Dr. Richard Mayeux of Columbia University in 1994 to start looking for anything in their environment that could be touching off the disease.</p>
+        <p>Finding nothing, Dr. Mayeux decided to search for a genetic cause, a task that seemed worth trying because the Dominican Republic, where the families came from, is a single, long-isolated population in which variant genes are easier to detect.</p>
+        <p>He enlisted three colleagues who were studying Alzheimer's in other populations, in a strategy of looking for mutations in a set of seven genes. The genes are known to be involved in directing the traffic of proteins inside cells, and are plausible candidates for contributing to Alzheimer's because the disease seems to result from an abnormal buildup of protein inside the nerve cell.</p>
+        <p>Having genetically screened some 6,000 people, the researchers found that in four of their populations people with Alzheimer's had distinguishing genetic markers in just one of the seven genes, known as SORL1. Patients with the variant forms of the gene produce less of that gene's protein than usual, leading to a different traffic pattern and allowing a particular protein in nerve cells, known as the amyloid precursor protein, to be converted into toxic form.</p>
+        <p>The finding is being reported today in the journal Nature Genetics by four teams led by Dr. Mayeux, Dr. Peter St. George-Hyslop of the University of Toronto, Dr. Lindsay Farrer of Boston University and Dr. Steven Younkin of the Mayo Clinic Jacksonville.</p>
+        <p>The researchers have not yet isolated the specific mutation that affects the gene, but they believe it reduces production of the gene's protein and does not harm the protein itself. That raises the possibility of developing a drug to stimulate extra production of the protein, which would be expected to have a protective effect.</p>
+        <p>Alzheimer's can be prompted by any of several errant genes. A gene that can carry a very high risk for the disease, the apolipoprotein E gene, was discovered in 1993. Hundreds of reports since then have nominated other possible genes, but many of the claims have not been confirmed.</p>
+        <p>Two geneticists at Massachusetts General Hospital, Lars Bertram and Rudolph Tanzi, have tried to bring order to this confused field by combining the data from many studies. In an article in Nature Genetics earlier this month, they presented a group of 13 genes besides apolipoprotein E that have a statistically significant association with Alzheimer's.</p>
+        <p>Dr. Tanzi said that he had run the numbers on SORL1 and that it would qualify at present for a place in his canon. ''This is another gene worth paying attention to,'' he said, ''but we really have to wait for more replications.''</p>
+        <p>Dr. Mayeux said he regarded the SORL1 gene as more robustly associated with Alzheimer's than all the other genes except apolipoprotein E, since it had been checked in four different populations and the variant had been shown to have a biological effect in Alzheimer's patients. But Dr. Tanzi said that in terms of the burden of disease the gene causes, it would rank 13th on his list.</p>
+        <p>Researchers hope that the more Alzheimer-associated genes they find, the more possible targets will emerge both for drugs and for diagnostic tests that can tell who is at risk for the disease.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

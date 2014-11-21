@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KASHINS, LAURA</title>
+    <meta content="dn011607" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819154"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KASHINS, LAURA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E7DE1F3AF935A25752C0A9619C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KASHINS, LAURA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KASHINS--Laura, died peacefully Saturday January 13th at the age of 1031/2. Predeceased by husbands Herman Kashins and Michael Reiburn. Survived by daughter Barbara Moore, grand daughters Robin and Rebecca Moore, great-grandaughter Irene MacDonald. Donations can be made in her memory to the Metropolitan Museum, where she was a dedicated volunteer until she was 100; or Channel 13, her other volunteer job into her 90s. Burial private. Her family will celebrate her life with an informal reception on Saturday January 20. Information 212-463-7348 or 212-564-5989.</p>
+      </block>
+      <block class="full_text">
+        <p>KASHINS--Laura, died peacefully Saturday January 13th at the age of 1031/2. Predeceased by husbands Herman Kashins and Michael Reiburn. Survived by daughter Barbara Moore, grand daughters Robin and Rebecca Moore, great-grandaughter Irene MacDonald. Donations can be made in her memory to the Metropolitan Museum, where she was a dedicated volunteer until she was 100; or Channel 13, her other volunteer job into her 90s. Burial private. Her family will celebrate her life with an informal reception on Saturday January 20. Information 212-463-7348 or 212-564-5989.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Voices In My Head Say 'Buy It!' Why Argue?</title>
+    <meta content="16tier" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819189"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FINDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Magnetic Resonance Imagers</classifier>
+        <classifier class="indexing_service" type="descriptor">Emotions</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit and Money Cards</classifier>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <org class="indexing_service">Stanford University</org>
+        <org class="indexing_service">Neuron (Journal)</org>
+        <person class="indexing_service">Tierney, John</person>
+        <person class="indexing_service">Knutson, Brian (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Magnetic Resonance Imagers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Emotions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EFDB1030F935A25752C0A9619C8B63" item-length="1160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Voices In My Head Say 'Buy It!' Why Argue?</hl1>
+      </hedline>
+      <byline class="print_byline">By John Tierney</byline>
+      <byline class="normalized_byline">Tierney, John</byline>
+      <dateline>PALO ALTO, Calif.</dateline>
+      <abstract>
+        <p>Dr Brian Knutson, Stanford University psychologist, leads research on decisions people make when shopping; study, which is published in journal Neuron, finds that MRI scans of consumer's brains link shopping behaviors to certain brain activation patterns; suggests that both spenders and tightwads are guided by instant emotions and paying for item using credit can allow either group to avoid any emotional pain associated with spending; photo; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Now that scientists have spotted the pain and pleasure centers in the brain, they've moved on to more expensive real estate: the brain's shopping center. They have been asking the big questions:</p>
+        <p>What is the difference between a tightwad's brain and a spendthrift's brain?</p>
+      </block>
+      <block class="full_text">
+        <p>Now that scientists have spotted the pain and pleasure centers in the brain, they've moved on to more expensive real estate: the brain's shopping center. They have been asking the big questions:</p>
+        <p>What is the difference between a tightwad's brain and a spendthrift's brain?</p>
+        <p>What neurological circuits stop you from buying a George Foreman grill but not a Discovery Channel color-changing mood clock?</p>
+        <p>Why is there a $2,178.23 balance on my January Visa bill?</p>
+        <p>This last question isn't yet fully answered, even after I stared at said Visa bill while lying inside a functional M.R.I. machine at Stanford University. But scientists are closer to solving the mystery. By scanning shoppers' brains, they think they've identified a little voice telling you not to spend your money. Or, in my case, a voice saying, ''At this price, you can't afford not to buy the mood clock!''</p>
+        <p>For convenience' sake, economists have traditionally assumed that buyers make rational choices: I think, therefore I shop. You pass up the George Foreman grill because you sagely calculate that the money would be better spent on, say, your child's college fund. Or at least the mood clock. You choose to forgo one good in exchange for something better.</p>
+        <p>Even the most rational economists, though, realize that the shopper's mind is more complicated. The brain's ''impartial spectator,'' as Adam Smith warned, has to duel with ''the passions.'' Last year, after surveying shoppers' passions, behavioral economists at Carnegie Mellon University developed what they call the Tightwad-Spendthrift scale.</p>
+        <p>But this kind of survey reveals only what shoppers choose to confess. To find out more, the economists teamed with psychologists at Stanford to turn an M.R.I. machine into a shopping mall. They gave each experimental subject $40 in cash and offered the chance to buy dozens of gadgets, appliances, books, DVDs and assorted tchotchkes. Lying inside the scanner, first you'd see a picture of a product. Next you'd see its price, which was about 75 percent below retail. Then you'd choose whether or not you'd like a chance to buy it. Afterward, the researchers randomly chose a couple of items from their mall, and if you had said yes to either one, you bought it; otherwise you went home with the cash.</p>
+        <p>The good news, for behavioral science, was that the researchers saw telltale patterns, which they report in the Jan. 4 issue of the journal Neuron. ''We were frankly shocked at how clear the results were,'' said Brian Knutson, the Stanford psychologist who led the experiment. ''It was amazing to be able to see brain activity seconds before a decision and predict whether the person would buy it or not.''</p>
+        <p>The bad news, for my son's college funds, is that my responses to this experiment were not what could be called a happy medium, despite my best efforts at restraint. I passed up not just the Foreman grill but the sonic power toothbrush and the Bar Master electronic drink guide. But Dr. Knutson and his Stanford colleague, Elliott Wimmer, reported that ''subject JT'' chose to buy ''50 percent of the items, approximately 2 standard deviations more than the average 30 percent buy rate.''</p>
+        <p>I will not try to justify my need for the mood clock, the ''Dodgeball'' DVD, the desk-clip lamp and the smoothie maker. I would rather pin these choices on two culprits.</p>
+        <p>The first was my nucleus accumbens, a region of the brain with dopamine receptors that are activated when you experience or anticipate something pleasant, like making money or drinking something tasty. In the experimental subjects at Stanford, this region was activated when they first saw pictures of things they wanted to buy. My nucleus accumbens just happened to respond more strongly than the typical subject's, so what else could I do? If it feels good, buy it.</p>
+        <p>The other culprit -- the main villain, really -- was my insula. This region of the brain is activated when you smell something bad, see a disgusting picture or anticipate a painful shock. It was typically activated in the brains of the other shoppers when they saw a price that seemed too high. I'd like to think of my insula as particularly stoic, the strong, silent type, but he's probably just an oblivious slob.</p>
+        <p>The lazy insula is a rarer affliction than you'd guess by looking at Americans' indebtedness. Tightwads slightly outnumber spendthrifts, according to surveys by George Loewenstein and his colleagues at Carnegie Mellon, Scott Rick and Cynthia Cryder. These behavioral economists think tightwads aren't any more rational than spendthrifts, because neither group is carefully weighing the long-term benefits of a Foreman grill versus college tuition. Dr. Loewenstein says the brain scans demonstrate that both kinds of shoppers are guided by instant emotions.</p>
+        <p>''We developed this propensity to experience direct pain when we spend money,'' Dr. Loewenstein said. ''This explains why tightwads won't spend money even when they should. It also helps to explain why we overspend on credit cards, and why people prefer all-you-can-eat buffets instead of paying for each item they order. We like schemes that remove the immediate pain of paying.''</p>
+        <p>These schemes are a blessing for pathological tightwads, but they leave spendthrifts worse off. Paying cash is the usual cure suggested, but that hasn't worked for me, presumably because my insula is such a slug. So I asked the Stanford psychologists to test another approach. After the shopping experiment, they scanned my brain while showing me a copy of my $2,178.23 Visa bill and a control image of Dr. Knutson's credit card bill for a similar amount.</p>
+        <p>''When we compared your responses,'' Dr. Knutson told me, ''we saw a little spot of insula activation when you saw your own bill.''</p>
+        <p>This gives me hope for a technological cure for spendthriftness: a credit card that would remind you of your outstanding balance every time you started to buy something. It could flash the total in large numbers, or announce it in a voice (say, Simon Cowell's) designed to arouse any insula.</p>
+        <p>I realize there are certain practical obstacles to this scheme, like the unwillingness of merchants or credit -card companies to put themselves out of business Even if a bank were willing to market the card, it would be tough to get spendthrifts to sign up for it.</p>
+        <p>But what's the alternative? You might remove the pleasure of shopping by somehow dulling the brain's dopamine receptors so that not even the new Apple iPhone would get a rise in the nucleus accumbens, but try getting anyone to stay on that medication. Better the occasional jolt of pain. Charge it to the insula.</p>
+        <p>TWO NEW COLUMNS -- John Tierney will be exploring the frontiers and backwaters of science every other week with a gimlet eye and a touch of humor. He will alternate with Natalie Angier, who will start next Tuesday teasing out the basic scientific principles behind the news. Readers are invited to join in Mr. Tierney's forays on his blog.</p>
+        <p>FINDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

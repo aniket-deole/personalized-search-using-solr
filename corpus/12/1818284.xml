@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Times Co. To Cut Jobs In New England</title>
+    <meta content="12times" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/business/media/12times.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818284"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <org class="indexing_service">New York Times</org>
+        <org class="indexing_service">Boston Globe</org>
+        <org class="indexing_service">Worcester Telegram &amp; Gazette</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">New York Times</org>
+        <org class="online_producer">Worcester Telegram &amp; Gazette</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DD1330F931A25752C0A9619C8B63" item-length="280" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Times Co. To Cut Jobs In New England</hl1>
+        <hl2 class="online_headline">Times Co. to Cut Jobs in New England</hl2>
+      </hedline>
+      <abstract>
+        <p>New York Times Co reportedly offers voluntary buyout plan to newsroom and business-office employees in its New England Media Group as part of effort to cut 125 jobs at Boston Globe and Worcester Telegram &amp; Gazette; group plans to outsource some finance and advertising operations to reach goal in reducing jobs and lowering costs; cuts are about 5 percent of 2,300-member work force (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Times Company is offering a voluntary buyout plan to newsroom and business-office employees in its New England Media Group as part of an effort to cut 125 jobs at The Boston Globe and The Worcester Telegram &amp; Gazette, according to memorandums sent yesterday by the head of the group and the editor of The Globe.</p>
+        <p>The group also plans to outsource some finance and advertising operations to reach its goal in reducing jobs and lowering costs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The voluntary buyout plan is part of an effort to cut 125 jobs at The Boston Globe and The Worcester Telegram &amp; Gazette.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Times Company is offering a voluntary buyout plan to newsroom and business-office employees in its New England Media Group as part of an effort to cut 125 jobs at The Boston Globe and The Worcester Telegram &amp; Gazette, according to memorandums sent yesterday by the head of the group and the editor of The Globe.</p>
+        <p>The group also plans to outsource some finance and advertising operations to reach its goal in reducing jobs and lowering costs.</p>
+        <p>The cutbacks are to affect 17 positions in The Globe newsroom and 2 on the opinion pages, according to a memo sent to the staff by The Globe's editor, Martin Baron. No buyouts are expected in the newsroom of The Telegram &amp; Gazette, said Alfred S. Larkin Jr., executive vice president of The Globe.</p>
+        <p>The cuts are about 5 percent of the 2,300-member work force. The Globe newsroom has 412 employees.</p>
+        <p>Newspaper companies, struggling to maintain advertising and circulation in the face of competition from the Internet, have sought ways to lower expenses, from eliminating jobs to reducing paper consumption.</p>
+        <p>Buyouts are to be offered to employees of the two papers who have 10 or more years of service, excluding some parts of the group's operations, like Boston.com, according to a memo sent by P. Steven Ainsley, publisher of The Globe and head of the group. Details of the offer are to be sent to eligible employees at the end of the month, and the buyouts should be completed by the end of the first quarter, according to his memo.</p>
+        <p>Employees affected by the outsourcing are to receive severance packages similar to those offered under the buyout program, the memo said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

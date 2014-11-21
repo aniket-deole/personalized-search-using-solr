@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="Handler.t" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/books/review/Handler.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818582"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Handler, Daniel</person>
+        <person class="indexing_service">Post, Peggy</person>
+        <person class="indexing_service">Senning, Cindy Post</person>
+        <person class="indexing_service">Bjorkman, Steve</person>
+        <person class="indexing_service">Goldberg, Whoopi</person>
+        <person class="indexing_service">Olo (Illustrator)</person>
+        <person class="indexing_service">Greenberg, David</person>
+        <person class="indexing_service">Katz, Alan</person>
+        <person class="indexing_service">Catrow, David</person>
+        <object.title class="indexing_service">Emily's Everyday Manners (Book)</object.title>
+        <object.title class="indexing_service">Stoo Hample's Book of Bad Manners (Book)</object.title>
+        <object.title class="indexing_service">Whoopi's Big Book of Manners (Book)</object.title>
+        <object.title class="indexing_service">Don't Forget Your Etiquette] (Book)</object.title>
+        <object.title class="indexing_service">Are YouQuite Polite?: Silly Dilly Manners Songs (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Customs, Etiquette and Manners</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs, Etiquette and Manners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Goldberg, Whoopi</person>
+        <person class="online_producer">Greenberg, David</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EFD61730F937A25752C0A9619C8B63" item-length="1176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+        <hl2 class="online_headline">Children’s Books</hl2>
+      </hedline>
+      <byline class="print_byline">By DANIEL HANDLER</byline>
+      <byline class="normalized_byline">Handler, Daniel</byline>
+      <abstract>
+        <p>Daniel Handler reviews books Emily's Everyday Manners by Peggy Post and Cindy Post Senning, illustrated by Steve Bjorkman, Stoo Hample's Book of Bad Manners, Whoopi's Big Book of Manners by Whoopi Goldberg, illustrated by Olo, Don't Forget Your Etiquette]: The Essential Guide to Misbehavior by David Greenberg, illustrated by Nadine Bernard Westcott and Are You Quite Polite?: Silly Dilly Manners Songs by Alan Katz, illustrated by David Catrow; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emily's Everyday Manners</p>
+        <p>By Peggy Post and Cindy Post Senning.</p>
+        <p>Illustrated by Steve Bjorkman.</p>
+        <p>Unpaged. Collins/HarperCollins Publishers. $16.99. (Ages 4 to 7)</p>
+        <p>Stoo Hample's Book</p>
+        <p>of Bad Manners</p>
+        <p>Unpaged. Candlewick Press. $15.99.</p>
+        <p>(Ages 3 and up)</p>
+        <p>Whoopi's Big Book of Manners</p>
+        <p>By Whoopi Goldberg.</p>
+        <p>Illustrated by Olo.</p>
+        <p>Unpaged. Jump at the Sun/Hyperion Books for Children. $15.99. (Ages 4 and up)</p>
+        <p>Don't Forget Your Etiquette!</p>
+        <p>The Essential Guide to Misbehavior.</p>
+        <p>By David Greenberg.</p>
+        <p>Illustrated by Nadine Bernard Westcott.</p>
+        <p>Unpaged. Melanie Kroupa Books/Farrar, Straus &amp; Giroux. $16. (Ages 6 and up)</p>
+        <p>Are You Quite Polite?</p>
+        <p>Silly Dilly Manners Songs.</p>
+        <p>By Alan Katz. Illustrated by David Catrow.</p>
+        <p>Unpaged. Margaret K. McElderry Books/</p>
+        <p>Simon &amp; Schuster. $15.95. (Ages 2 to 8)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Babies are born rude. It is their keepers’ duty to transform them from loud house guests to charming people.</p>
+      </block>
+      <block class="full_text">
+        <p>Emily's Everyday Manners</p>
+        <p>By Peggy Post and Cindy Post Senning.</p>
+        <p>Illustrated by Steve Bjorkman.</p>
+        <p>Unpaged. Collins/HarperCollins Publishers. $16.99. (Ages 4 to 7)</p>
+        <p>Stoo Hample's Book</p>
+        <p>of Bad Manners</p>
+        <p>Unpaged. Candlewick Press. $15.99.</p>
+        <p>(Ages 3 and up)</p>
+        <p>Whoopi's Big Book of Manners</p>
+        <p>By Whoopi Goldberg.</p>
+        <p>Illustrated by Olo.</p>
+        <p>Unpaged. Jump at the Sun/Hyperion Books for Children. $15.99. (Ages 4 and up)</p>
+        <p>Don't Forget Your Etiquette!</p>
+        <p>The Essential Guide to Misbehavior.</p>
+        <p>By David Greenberg.</p>
+        <p>Illustrated by Nadine Bernard Westcott.</p>
+        <p>Unpaged. Melanie Kroupa Books/Farrar, Straus &amp; Giroux. $16. (Ages 6 and up)</p>
+        <p>Are You Quite Polite?</p>
+        <p>Silly Dilly Manners Songs.</p>
+        <p>By Alan Katz. Illustrated by David Catrow.</p>
+        <p>Unpaged. Margaret K. McElderry Books/</p>
+        <p>Simon &amp; Schuster. $15.95. (Ages 2 to 8)</p>
+        <p>The great art of etiquette was invented to translate the incoherent jumble of human feelings to which we are all subject into something more presentable.'' So says Judith Martin, a k a Miss Manners, our greatest living philosopher, and it is no mistake that this definition sounds very much like child-rearing. Babies are born rude, and it is their keepers' duty to transform them from loud houseguests making outrageous demands at all hours of the night to charming people who might make some babies themselves. Etiquette is both method and model for this transformation, and teaching presentable behavior to one's chattel is thus a noble endeavor.</p>
+        <p>A noble endeavor, however, does not a good book make, and children's literature is strewn with books with nothing more to recommend them than the author's intention of teaching something to the little nippers. Classics of children's etiquette use didactism as a jumping-off point to deadpan absurdity -- as in Sesyle Joslin and Maurice Sendak's ''What Do You Say, Dear?,'' in which ''No, thank you'' is the proper answer to ''Would you like me to shoot a hole in your head?'' -- or digressive high jinks, as in Chris Raschka and Vladimir Radunsky's ''Table Manners,'' in which the art of napkin folding is collaged into the standard mouth-wiping instructions.</p>
+        <p>Then there are the books we all remember being given for our bar mitzvahs -- or maybe that's just me -- that are little more than dashed-off lists of rules that in their utter disregard for the reader seem more of an example of rudeness than a step toward its extinction.</p>
+        <p>The latest crop of etiquette books is all over the map, so it might be best to start with one of the mapmakers: Peggy Post, inheritor of Emily Post's etiquette brand and co-author, with her sister-in-law Cindy Post Senning, Ed.D., of ''Emily's Everyday Manners,'' emblazoned with a bonus label reading ''Manners are fun!'' Well, Ethan and Emily do not seem to be having much fun. The two children ''are best friends,'' but one cannot help detecting a hint of desperation in the grins Steve Bjorkman has been made to ink on their polite little faces.</p>
+        <p>''Sometimes Emily and Ethan forget'' their good manners, but there's no evidence of that; school, restaurant and home environments are dull utopias of ''please,'' ''thank you'' and ''What a polite, grown-up girl!'' Who wants a story in which ''Grandma! Thank you for the doll!'' -- delivered on the phone, rather than in a proper thank-you note -- is the narrative highlight? More distressingly, the authors claim that etiquette is ''rooted in three fundamental principles: respect, consideration and honesty.'' Honesty? Do Ms. Post and Dr. Senning really want an honest answer to ''Would you like to take out the garbage for me?''</p>
+        <p>There are nothing but honest children in ''Stoo Hample's Book of Bad Manners,'' which takes the rogues' gallery approach. With cartoony aplomb Hample leads us through his pantheon of wrongdoers, featuring Toy Hog, Blabbermouth, Pig Boy and, um, Name Caller. Isn't calling someone Name Caller name-calling? Hample's muddled philosophical footing reaches its nadir with Sloppy Sneezer, a trapeze performer who ''won't put up his hand to cover a sneeze / disturbing the girl whose job is to catch him'' during their big-top performance. ''So he crashes each time,'' Hample says with moral satisfaction, ''because she won't snatch him.'' But if he took his hand off the trapeze to cover his nose and mouth, he'd likely tumble to the ground anyway. In the end, Hample's cranky tone suggests a book-length version of ''Because I said so'' -- not the firmest ground for teaching anybody anything.</p>
+        <p>Whoopi Goldberg's philosophical principles are sounder. (It's so nice to write a sentence one suspects has never been written before.) ''Whoopi's Big Book of Manners'' begins with ''Nobody wants to see your finger in your nose,'' as good a founding statement for etiquette as ever I heard. Sadly, the rest of the book is a litany of mannerly observations, presented in a slapdash style that suggests they've just popped into the author's head. The advice is good; the book is not -- even with Olo's zany collage work, sadly truncated by an irritating design motif in the corner of each page that feels, well, just plain rude.</p>
+        <p>Just plain rude is fine with Miss Information, the narrator of David Greenberg's ''Don't Forget Your Etiquette!,'' who proceeds to challenge statements from various straight-faced, strait-laced books on manners. A page headed with the line ''A confident, steady grip sends the message that you're a confident, steady person,'' which comes from a guide called ''How Rude!,'' gets a good trampling by our Miss Information: ''When you shake hands with the mayor, / Talk about the weather, / Say, 'Excuse me,' then bend down -- / And tie his shoes together.'' This world is the opposite of Peggy Post's -- full of children burping, slurping, pigging out and baking telephones into pies, all bumped along by Nadine Bernard Westcott's lively, Roz Chast-y illustrations.</p>
+        <p>''Are You Quite Polite?'' is in a similar vein, as Alan Katz, aided by David Catrow's vivid, almost lurid illustrations, puts new lyrics to old songs. Perhaps better suited to performance than to print -- quick, sing ''Jimmy Picks Boogers'' to the tune of ''The Blue-Tail Fly'' -- the songs do have a chaotic energy that is blessedly free of Hample's attempts at moralizing.</p>
+        <p>The bad-manners books are more fun than the finger-wagging set, but it's pointless fun, and if you're looking for pointless fun, there are countless picture books of glorious nonsense that don't even pretend to be good for you. There are books with characters who don't behave or misbehave, but merely act like themselves, illustrated by artists who dream up improbable worlds rather than reminding us of the restrictions in our own bossy homes.</p>
+        <p>In these books, the heroes often behave selfishly and then, stung by regret, learn to compromise their unfettered ways in order to make friends, and help others -- others who might be misbehaving themselves. Out of this incoherent jumble of a world -- the backstabbing badgers in Russell Hoban's Frances books, the transgenerational miscommunications in Mo Willems's ''Knuffle Bunny'' -- comes something more presentable. In other words, such stories are etiquette lessons. Why would we look for them in books that don't have the good manners to give us something good?</p>
+        <p>Daniel Handler writes novels under his own name and also as Lemony Snicket.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Daniel Handler writes novels under his own name and also as Lemony Snicket.</tagline>
+    </body.end>
+  </body>
+</nitf>

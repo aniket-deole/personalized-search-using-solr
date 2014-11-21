@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Independent Voice</title>
+    <meta content="07pubedlets-3" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817262"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LETTERS TO THE PUBLIC EDITOR"/>
+      <identified-content>
+        <org class="indexing_service">New York Times</org>
+        <person class="indexing_service">Linkin, Darren</person>
+        <person class="indexing_service">Calame, Byron</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/The Public Editor/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1DD1530F934A35752C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Independent Voice</hl1>
+      </hedline>
+      <abstract>
+        <p>Darren Linkin letter says he agrees with public editor Byron Calame (Dec 17, 2006, column) that New York Times has no control over what he, Calame, writes, but points out that Times pays Calame's salary</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Re ''The Times Speaks for Itself'' (Dec. 17): In response to those who say you speak for The New York Times, you say that ''it exercises absolutely no control over what I write in the space regularly provided to me'' and give several examples and arguments why that is true.</p>
+        <p>I believe and agree with you. But at the end of the day, your paycheck comes from the paper, which means it is possible (though not necessarily true) either that you may occasionally consciously or unconsciously censor yourself, or that one day the paper may stop paying you.</p>
+      </block>
+      <block class="full_text">
+        <p>Re ''The Times Speaks for Itself'' (Dec. 17): In response to those who say you speak for The New York Times, you say that ''it exercises absolutely no control over what I write in the space regularly provided to me'' and give several examples and arguments why that is true.</p>
+        <p>I believe and agree with you. But at the end of the day, your paycheck comes from the paper, which means it is possible (though not necessarily true) either that you may occasionally consciously or unconsciously censor yourself, or that one day the paper may stop paying you.</p>
+        <p>If either of these events occurred (which you may not or cannot absolutely know or predict), it would then contradict your ''absolute'' statement.</p>
+        <p>DARREN LINKIN  Philadelphia, Dec. 17, 2006</p>
+        <p>LETTERS TO THE PUBLIC EDITOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

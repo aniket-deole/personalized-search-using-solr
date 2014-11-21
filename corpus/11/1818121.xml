@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Companies Fret as Office E-Mail Is Detoured Past Security Walls</title>
+    <meta content="11email" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Front Page; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/11/technology/11email.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818121"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <org class="indexing_service">Yahoo Inc</org>
+        <org class="indexing_service">Google Inc</org>
+        <person class="indexing_service">Stone, Brad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Google Inc</org>
+        <org class="online_producer">Yahoo Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E5D71230F932A25752C0A9619C8B63" item-length="1240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Companies Fret as Office E-Mail Is Detoured Past Security Walls</hl1>
+        <hl2 class="online_headline">Firms Fret as Office E-Mail Jumps Security Walls</hl2>
+      </hedline>
+      <byline class="print_byline">By BRAD STONE</byline>
+      <byline class="normalized_byline">Stone, Brad</byline>
+      <dateline>SAN FRANCISCO, Jan. 10</dateline>
+      <abstract>
+        <p>Security experts question safety of corporate e-mail, in spite of millions of dollars companies spend on computer security; growing number of Internet-literate workers forward their office e-mail to free Web-accessible personal accounts offered by Google, Yahoo and other companies, with aim of getting to their mail quickly, wherever they are, and avoiding special software and multiple passwords for access that many corporate networks require as defense against hackers; corporate techies fear that forwarding e-mail might expose proprietary secrets to prying eyes; so far, no major corporate disasters caused by this kind of e-mail forwarding have come to light; security experts say risks are real, but even those most knowledgeable about those risks acknowledge forwarding their e-mail to personal accounts; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Companies spend millions on systems to keep corporate e-mail safe. If only their employees were as paranoid.</p>
+        <p>A growing number of Internet-literate workers are forwarding their office e-mail to free Web-accessible personal accounts offered by Google, Yahoo and other companies. Their employers, who envision corporate secrets leaking through the back door of otherwise well-protected computer networks, are not pleased.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>More Internet-literate workers are forwarding their office e-mail to free Web-accessible personal accounts.</p>
+      </block>
+      <block class="full_text">
+        <p>Companies spend millions on systems to keep corporate e-mail safe. If only their employees were as paranoid.</p>
+        <p>A growing number of Internet-literate workers are forwarding their office e-mail to free Web-accessible personal accounts offered by Google, Yahoo and other companies. Their employers, who envision corporate secrets leaking through the back door of otherwise well-protected computer networks, are not pleased.</p>
+        <p>''It's a hole you can drive an 18-wheeler through,'' said Paul D. Myer, president of the security firm 8E6 Technologies in Orange, Calif.</p>
+        <p>It is a battle of best intentions: productivity and convenience pitted against security and more than a little anxiety.</p>
+        <p>Corporate techies -- who, after all, are paid to worry -- want strict control over internal company communications and fear that forwarding e-mail might expose proprietary secrets to prying eyes. Employees just want to get to their mail quickly, wherever they are, without leaping through too many security hoops.</p>
+        <p>Corporate networks, which typically have several layers of defenses against hackers, can require special software and multiple passwords for access. Some companies use systems that give employees a security code that changes every 60 seconds; this must be read from the display screen of a small card and typed quickly.</p>
+        <p>That is too much for some employees, especially when their computers can store the passwords for their Web-based mail, allowing them to get right down to business.</p>
+        <p>So far, no major corporate disasters caused by this kind of e-mail forwarding have come to light. But security experts say the risks are real. For example, the flimsier security defenses of Web mail systems could allow viruses or spyware to get through, and employees could unwittingly download them at the office and infect the corporate network.</p>
+        <p>Also, because messages sent from Web-based accounts do not pass through the corporate mail system, companies could run afoul of federal laws that require them to archive corporate mail and turn it over during litigation.</p>
+        <p>Lawyers in particular wring their hands over employees using outside e-mail services. They encourage companies to keep messages for as long as necessary and then erase them to keep them out of the reach of legal foes. Companies have no control over the life span of e-mail messages in employees' Web accounts.</p>
+        <p>''If employees are just forwarding to their Web e-mail, we have no way to know what they are doing on the other end,'' said Joe Fantuzzi, chief executive of the information security firm Workshare. ''They could do anything they want. They could be giving secrets to the K.G.B.''</p>
+        <p>Hospitals have an added legal obligation to protect patient records. But when DeKalb Medical Center in Atlanta started monitoring its staff use of Web-based e-mail, it found that doctors and nurses routinely forwarded confidential medical records to their personal Web mail accounts -- not for nefarious purposes, but so they could continue to work from home.</p>
+        <p>In the months after the hospital began monitoring traffic to Web e-mail services, it identified ''a couple hundred incidents,'' said Sharon Finney, DeKalb's information security administrator. ''I was surprised about the lack of literacy about the technology we depend on every day,'' she said.</p>
+        <p>DeKalb now forbids the practice, and uses several software systems that monitor the hospital's outbound e-mail and Web traffic. Ms Finney said she still catches four to five perpetrators a month trying to forward hospital e-mail.</p>
+        <p>The Web mail services may also be prone to glitches. Last month, Google fixed a bug that caused the disappearance of ''some or all'' of the stored mail of around 60 users. A week later, it acknowledged a security hole that could have exposed its users' address books to Internet attackers.</p>
+        <p>Even the security experts most knowledgeable about the risks of e-mail forwarding to personal accounts acknowledge doing so themselves.</p>
+        <p>''Of course I do it; who doesn't?'' said Kimberly Getgen Bargero, vice president for marketing at Sendmail, an e-mail software company in Emeryville, Calif. Ms. Bargero said she often used her Yahoo Mail account on business trips so she does not have to access her corporate network remotely.</p>
+        <p>It is difficult to quantify exactly how many otherwise model employees are opting to use services like Yahoo Mail or Google's Gmail over their company's authorized e-mail programs. Sophisticated users at the companies most lax about e-mail security can automatically forward all of their work e-mail to their personal accounts, hopscotching over the various requests for passwords meant to ward off intruders.</p>
+        <p>The more casual e-mail scofflaws send only the occasional message to their personal accounts -- or just ''cc'' messages to their Web in-boxes to preserve them for later use -- even when the messages contain sensitive company information.</p>
+        <p>Some companies frown on office use of any Web-based accounts, even for personal messages. At the business software maker BEA Systems, Anthony Bisulca, a senior security analyst, estimated that around 30 percent of his employees were using private e-mail accounts in the office, even though the company's Internet policy clearly prohibits it.</p>
+        <p>But it is not easy to wean people off of their online mailboxes. ''Of course they scream,'' said Todd Wilson, an operations manager at the Bloomberg School of Public Health at Johns Hopkins University. ''They look at me like I have three heads.''</p>
+        <p>Mr. Wilson said that the use of the Web services had become a ''huge concern,'' partly because copies of the forwarded messages sit untouched on the school's servers, taking up space.</p>
+        <p>Many corporate technology professionals express the fear that Google and its rivals may actually own the intellectual property in the e-mail that resides on their systems. Gmail's terms of service, however, state that e-mail belongs to the user, not to Google. The company's automated software does scan messages in Gmail, looking for keywords that might generate related text advertisements on the page. A Google spokeswoman said the company has an extensive privacy policy to ensure no humans at Google read user e-mail.</p>
+        <p>Paul Kocher, president of the security firm Cryptography Research, said the real issue for companies was trust. ''If you can't trust employees enough to use services like Gmail, they probably shouldn't be working for you,'' he said.</p>
+        <p>Many companies apparently do not have that level of trust. In a survey conducted last year, the e-mail security firm Proofpoint found that 37 percent of companies in the United States used software to monitor office use of Web mail.</p>
+        <p>The Internet companies themselves are looking to take advantage of consumer preferences for Web based e-mail services. This year, Google plans to introduce a more secure version of Gmail for use in large companies.</p>
+        <p>But Microsoft and other providers of traditional internal e-mail systems, which the research firm Radicati says generated $2.5 billion in sales last year, are helping companies combat employee use of the Web services.</p>
+        <p>The new version of Microsoft's corporate e-mail service, Exchange Server, offers administrators improved tools to monitor the content of employee mail and block forwarded messages.</p>
+        <p>At the same time, upgrades to Exchange and Microsoft's e-mail program Outlook have made it easier for traveling employees to access e-mail on the corporate network from a Web browser. Microsoft also recently began urging corporate technology departments to give employees more storage space in their e-mail accounts.</p>
+        <p>But the Web services are improving as well, and employees will no doubt continue to find them tempting.</p>
+        <p>''We have as high a security standard as any company,'' said Ms. Bargero of Sendmail, ''and sometimes it is just too difficult to access our e-mail.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

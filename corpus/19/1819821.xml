@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's That Time: Antiques Take Manhattan</title>
+    <meta content="19breef" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819821"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Antiques</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E7DF1E30F93AA25752C0A9619C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's That Time: Antiques Take Manhattan</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In addition to the Winter Antiques Show, this weekend brings the American Antiques Show at the Metropolitan Pavilion, reviewed by Roberta Smith on Page 34 (where one can find H. C. Williamson's design for an electric advertising sign, below); the New York Ceramics Fair, reviewed by Grace Glueck on Page 38; and exhibitions of antiquities at New York galleries, Page 37.</p>
+      </block>
+      <block class="full_text">
+        <p>In addition to the Winter Antiques Show, this weekend brings the American Antiques Show at the Metropolitan Pavilion, reviewed by Roberta Smith on Page 34 (where one can find H. C. Williamson's design for an electric advertising sign, below); the New York Ceramics Fair, reviewed by Grace Glueck on Page 38; and exhibitions of antiquities at New York galleries, Page 37.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Yonkers: Doctor Found Fatally Shot</title>
+    <meta content="04mbrfs-5" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/nyregion/04mbrfs-doctor.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816396"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">Yonkers (NY)</location>
+        <person class="indexing_service">Lee, Jennifer 8</person>
+        <person class="indexing_service">Lozado, Leandro (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE1D61730F937A35752C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Yonkers: Doctor Found Fatally Shot</hl1>
+        <hl2 class="online_headline">Yonkers: Doctor Found Fatally Shot</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lee, Jennifer 8</byline>
+      <abstract>
+        <p>Dr Leandro Lozado is found fatally shot in his Yonkers, NY, home; police find no signed of force entry (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 46-year-old physician was found fatally shot on his bedroom floor yesterday afternoon, the Yonkers police said. The body of the physician, Dr. Leandro Lozada, who had a practice in the Bronx, was discovered by a friend around 3 p.m. at 43 Brendon Hill Road, the police said. They said that Dr. Lozada lived alone and that there was no sign of forced entry or a weapon.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A 46-year-old physician was found fatally shot on his bedroom floor yesterday afternoon, the Yonkers police said. The body of the physician, Dr. Leandro Lozada, who had a practice in the Bronx, was discovered by a friend around 3 p.m. at 43 Brendon Hill Road, the police said. They said that Dr. Lozada lived alone and that there was no sign of forced entry or a weapon.</p>
+      </block>
+      <block class="full_text">
+        <p>A 46-year-old physician was found fatally shot on his bedroom floor yesterday afternoon, the Yonkers police said. The body of the physician, Dr. Leandro Lozada, who had a practice in the Bronx, was discovered by a friend around 3 p.m. at 43 Brendon Hill Road, the police said. They said that Dr. Lozada lived alone and that there was no sign of forced entry or a weapon.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

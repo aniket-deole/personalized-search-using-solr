@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Self-Exams and Breast Cancer</title>
+    <meta content="02lett-3" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815964"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cancer</classifier>
+        <classifier class="indexing_service" type="descriptor">Breasts</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Doctors</classifier>
+        <person class="indexing_service">Russo, Lee Ann</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Breast</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E1DF1730F931A35752C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Self-Exams and Breast Cancer</hl1>
+      </hedline>
+      <abstract>
+        <p>Lee Ann Russo letter on December 26 article about breast cancer says that self-examination of her breasts allowed doctors to successfully treat early cancer</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Self-Exams Are Passé? Believers Beg to Differ'' (Dec. 26): This reader does ''beg to differ.'' I am a 51-year-old woman who discovered a lump through breast self-exam in August 2006, two months after a negative mammogram.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Self-Exams Are Passé? Believers Beg to Differ'' (Dec. 26): This reader does ''beg to differ.'' I am a 51-year-old woman who discovered a lump through breast self-exam in August 2006, two months after a negative mammogram.</p>
+        <p>After an ultrasound confirmed the existence of a lump (and another mammogram did not), a biopsy of the lump revealed breast cancer. I'm one of the lucky ones. Because of my own vigilance, I am a Stage 1, lymph-node-free, breast cancer patient in the midst of only four cycles of chemotherapy. They will be followed by a modest regimen of radiation and five years of tamoxifen and similar estrogen-blocking drugs, with a 93 percent likelihood that I will be recurrence-free for 10 years.</p>
+        <p>Had I not practiced monthly B.S.E., at what stage would my cancer have been discovered, and what would have been my prognosis? I shudder to think. I will continue to plead with all women to be vigilant in caring for their health, including practicing monthly B.S.E.</p>
+        <p>Lee Ann Russo  Evanston, Ill.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

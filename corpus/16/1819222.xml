@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Anne Ophelia Todd Dowden, 99, Artist</title>
+    <meta content="16dowden" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819222"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Anne Ophelia Todd Dowden</classifier>
+        <person class="indexing_service">Dowden, Anne Ophelia Todd</person>
+        <person class="indexing_service">Genocchio, Benjamin</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E4DA1030F935A25752C0A9619C8B63" item-length="592" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Anne Ophelia Todd Dowden, 99, Artist</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN GENOCCHIO</byline>
+      <byline class="normalized_byline">Genocchio, Benjamin</byline>
+      <abstract>
+        <p>Anne Ophelia Todd Dowden, renowned and popular botanical artist whose subjects ranged from flowers found in Shakespeare to weeds in New York City, dies at age 99; drawing; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Anne Ophelia Todd Dowden, a renowned and popular botanical artist whose subjects ranged from the flowers found in Shakespeare to the weeds found in New York City, died Thursday in Boulder, Colo. She was 99.</p>
+        <p>Her death was announced by Martha Hutchinson, a cousin.</p>
+      </block>
+      <block class="full_text">
+        <p>Anne Ophelia Todd Dowden, a renowned and popular botanical artist whose subjects ranged from the flowers found in Shakespeare to the weeds found in New York City, died Thursday in Boulder, Colo. She was 99.</p>
+        <p>Her death was announced by Martha Hutchinson, a cousin.</p>
+        <p>Ms. Dowden was recognized for the anatomical accuracy and beauty of her paintings. She worked mainly in watercolor, producing elegantly detailed images of flowers, insects, herbs and birds. She used only living specimens for models and kept extensive collections of preserved flowers and insects as reference material.</p>
+        <p>Her works reflect the simple pleasure of looking at nature.</p>
+        <p>Her career as a botanical illustrator and author resulted in more than 20 books, many of them for younger readers. Most were written and illustrated by her, though she also illustrated books written by others. Her subjects included poisonous plants, flower pollination and state flowers as well as flowers mentioned in the Bible and in the writings of Shakespeare.</p>
+        <p>Two of her books won awards from the American Library Association. Among them was ''Wild Green Things in the City: A Book of Weeds'' (1972), about native weeds that grow in New York City, her home for more than 50 years. She spent three years scouring the city in search of specimens to illustrate, investigating warehouse areas, parking lots, docks, sites of torn-down buildings and the edges of railroad yards.</p>
+        <p>Her work was also shown in museums and at botanical gardens, including the Smithsonian, the New York Public Library and the Denver Art Museum. The Hunt Institute for Botanical Documentation at Carnegie-Mellon University in Pittsburgh holds a major body of her original artwork and most of her correspondence.</p>
+        <p>Anne Ophelia Todd Dowden was born in Denver on Sept. 17, 1907. She grew up in Boulder, where she roamed the foothills of the Rocky Mountains, collecting and drawing nature specimens. As a teenager she made medical drawings for her father, head of pathology at the University of Colorado Medical School.</p>
+        <p>She was awarded a degree in art in 1930 from Carnegie Institute of Technology in Pittsburgh (now Carnegie-Mellon University), moving shortly after to New York. In 1934 she married Raymond Baxter Dowden, also an artist, whom she had met while studying at Carnegie. He was for many years on the faculty of the Cooper Union School of Art and Architecture. He died in 1982. They had no children.</p>
+        <p>As a young artist in New York, Ms. Dowden hoped to become a book illustrator, but met with little success. She supported herself for almost two decades by teaching at the Pratt Institute and then at Manhattanville College, where she founded the art department. She also designed floral printed wallpaper and drapery.</p>
+        <p>Ms. Dowden was in her late 40s when regular freelance illustration commissions for Life, House Beautiful, Natural History and other magazines enabled her to make the transition to full-time botanical illustration. She was in her 50s when she began publishing books. Her second, ''Look at a Flower,'' from 1963, remained in print for 22 years. Ms. Dowden returned to Boulder in 1990. Paintings from her last book, ''Poisons in Our Path: Plants That Harm and Heal'' (1994), were shown at the Denver Botanic Gardens in 2002. The same year, the Hunt Institute mounted a retrospective of her work to coincide with her 95th birthday.</p>
+        <p>James White, curator of art and principal research scholar at the Hunt Institute, in a telephone interview, described Ms. Dowden as ''surely among America's leading botanical artists of the 20th century, and probably the most popular.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

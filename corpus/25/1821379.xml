@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Arrest In Brooklyn Crash</title>
+    <meta content="25mbrfs-6" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821379"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Drunken and Reckless Driving</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Buckley, Cara</person>
+        <person class="indexing_service">Huang, Jiankai</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drunken and Reckless Driving</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E5D8163FF936A15752C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Arrest In Brooklyn Crash</hl1>
+      </hedline>
+      <byline class="print_byline">By CARA BUCKLEY; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Buckley, Cara</byline>
+      <abstract>
+        <p>Jiankai Huang is charged with drunken driving and related charges after crashing his car into two vehicles and hitting three pedestrians in Brooklyn (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jiankai Huang of Alexandria, Va., was arrested yesterday after crashing his car into a pickup truck and a van and hitting three pedestrians in Brooklyn, the police said. Mr. Huang, 29, was charged with driving while intoxicated, reckless endangerment and driving with a suspended license, the police said. They said that Mr. Huang was driving east on 65th Street at 8:15 a.m. when he hit the truck, which was heading north on Fort Hamilton Parkway, and then the van, which was stopped at a red light. The three injured pedestrians, a woman of 26 and two boys, 13 and 11, were hospitalized, the police said. Mr. Huang's passenger, a 20-year-old woman, was hospitalized with head injuries, and the other drivers for evaluation, the police said.</p>
+        <p>CARA BUCKLEY</p>
+      </block>
+      <block class="full_text">
+        <p>Jiankai Huang of Alexandria, Va., was arrested yesterday after crashing his car into a pickup truck and a van and hitting three pedestrians in Brooklyn, the police said. Mr. Huang, 29, was charged with driving while intoxicated, reckless endangerment and driving with a suspended license, the police said. They said that Mr. Huang was driving east on 65th Street at 8:15 a.m. when he hit the truck, which was heading north on Fort Hamilton Parkway, and then the van, which was stopped at a red light. The three injured pedestrians, a woman of 26 and two boys, 13 and 11, were hospitalized, the police said. Mr. Huang's passenger, a 20-year-old woman, was hospitalized with head injuries, and the other drivers for evaluation, the police said.</p>
+        <p>CARA BUCKLEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

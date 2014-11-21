@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Wyckoff: Two Treated For Meningitis</title>
+    <meta content="15mbrfs-8" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/nyregion/15mbrfs-meningitis.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819145"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Meningitis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">New Jersey</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E3DB1030F936A25752C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Wyckoff: Two Treated For Meningitis</hl1>
+        <hl2 class="online_headline">Wyckoff, N.J.: Two Treated for Meningitis</hl2>
+      </hedline>
+      <byline class="print_byline">By FERNANDA SANTOS; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two students at Ramapo High School were hospitalized on Friday with bacterial meningitis after sharing a water bottle during a hockey game earlier that day, health officials said yesterday. One of the students, a 15-year-old sophomore, was being treated last night at St. Joseph's Regional Medical Center in Paterson and was described as ''very seriously ill,'' said Dorothy Voorman-Fish, president of the Wyckoff Board of Health. The other student, a senior, was at Hackensack University Medical Center in serious condition but was showing signs of improvement, Ms. Voorman-Fish said. Officials did not release the students' names. Last night, the Ramapo-Indian Hills Regional High School District, which serves Wyckoff, Franklin Lakes and Oakland, had received no other reports of the disease, she said. As a precaution, the school district canceled sporting events on Saturday and gave antibiotics to members of the Ramapo hockey team. Also, the Ice House, the rink in Hackensack where the game was played, sanitized the locker room used by the team. Classes were to resume today, and parents ''have no reason to worry,'' Ms. Voorman-Fish said.</p>
+        <p>FERNANDA SANTOS</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two students at Ramapo High School were hospitalized on Friday with bacterial meningitis after sharing a water bottle during a hockey game earlier that day, health officials said yesterday. One of the students, a 15-year-old sophomore, was being treated last night at St. Joseph’s Regional Medical Center in Paterson and was described as “very seriously ill,” said Dorothy Voorman-Fish, president of the Wyckoff Board of Health. The other student, a senior, was at Hackensack University Medical Center in serious condition but was showing signs of improvement, Ms. Voorman-Fish said. Officials did not release the students’ names. Last night, the Ramapo-Indian Hills Regional High School District, which serves Wyckoff, Franklin Lakes and Oakland, had received no other reports of the disease, she said. As a precaution, the school district canceled sporting events on Saturday and gave antibiotics to members of the Ramapo hockey team. Also, the Ice House, the rink in Hackensack where the game was played, sanitized the locker room used by the team. Classes were to resume today, and parents “have no reason to worry,” Ms. Voorman-Fish said.</p>
+      </block>
+      <block class="full_text">
+        <p>Two students at Ramapo High School were hospitalized on Friday with bacterial meningitis after sharing a water bottle during a hockey game earlier that day, health officials said yesterday. One of the students, a 15-year-old sophomore, was being treated last night at St. Joseph's Regional Medical Center in Paterson and was described as ''very seriously ill,'' said Dorothy Voorman-Fish, president of the Wyckoff Board of Health. The other student, a senior, was at Hackensack University Medical Center in serious condition but was showing signs of improvement, Ms. Voorman-Fish said. Officials did not release the students' names. Last night, the Ramapo-Indian Hills Regional High School District, which serves Wyckoff, Franklin Lakes and Oakland, had received no other reports of the disease, she said. As a precaution, the school district canceled sporting events on Saturday and gave antibiotics to members of the Ramapo hockey team. Also, the Ice House, the rink in Hackensack where the game was played, sanitized the locker room used by the team. Classes were to resume today, and parents ''have no reason to worry,'' Ms. Voorman-Fish said.</p>
+        <p>FERNANDA SANTOS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

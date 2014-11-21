@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>KASTOR TO RUN BOSTON</title>
+    <meta content="24sportsbriefs-2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821121"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: MARATHON"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Running</classifier>
+        <classifier class="indexing_service" type="descriptor">Boston Marathon</classifier>
+        <classifier class="indexing_service" type="descriptor">Marathon Running</classifier>
+        <person class="indexing_service">Kastor, Deena</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marathon Running</classifier>
+        <classifier class="online_producer" type="general_descriptor">Running</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDD163FF937A15752C0A9619C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>KASTOR TO RUN BOSTON</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+      <abstract>
+        <p>Deena Kastor will run in Boston Marathon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Boston Marathon scored a coup yesterday when it added Deena Kastor, the 33-year-old American who ran the world's fastest time for a woman last year, to its April 16 race, which is six days before the London Marathon. It will be Kastor's Boston debut.</p>
+        <p>FRANK LITSKY</p>
+      </block>
+      <block class="full_text">
+        <p>The Boston Marathon scored a coup yesterday when it added Deena Kastor, the 33-year-old American who ran the world's fastest time for a woman last year, to its April 16 race, which is six days before the London Marathon. It will be Kastor's Boston debut.</p>
+        <p>FRANK LITSKY</p>
+        <p>SPORTS BRIEFING: MARATHON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

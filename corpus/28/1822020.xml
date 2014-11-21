@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Transit Fare Raise Sought 2 Years After Last Round</title>
+    <meta content="28njweekNJ" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822020"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <org class="indexing_service">New Jersey Transit</org>
+        <person class="indexing_service">Warrington, George</person>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E3D6163FF93BA15752C0A9619C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Transit Fare Raise Sought 2 Years After Last Round</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>New Jersey Transit executive director George Warrington says 10 percent increase sought on bus and train fares are necessary to help close budget gap and maintain infrastructure; agency also approves purchase of 1,145 buses at cost of $409.9 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two years ago New Jersey Transit introduced fare increases that averaged nearly 10 percent. Now it wants similar fare increases on its buses and trains beginning this year.</p>
+        <p>George D. Warrington, the executive director of the agency, who announced his retirement earlier this year, said the latest fare increases were necessary to help close a budget gap and maintain infrastructure.</p>
+      </block>
+      <block class="full_text">
+        <p>Two years ago New Jersey Transit introduced fare increases that averaged nearly 10 percent. Now it wants similar fare increases on its buses and trains beginning this year.</p>
+        <p>George D. Warrington, the executive director of the agency, who announced his retirement earlier this year, said the latest fare increases were necessary to help close a budget gap and maintain infrastructure.</p>
+        <p>New Jersey Transit, which announced last Tuesday that 10 percent increases were likely, said it has a $1.5 billion budget with a $60 million deficit. Nearly 860,000 people use the statewide system daily, and the agency said it planned to continue to increase capacity on all of its bus, train and light-rail lines.</p>
+        <p>Mr. Warrington said he would offer specific fare proposals at a meeting of the agency's board next month, and there would be public hearings in February and March. If approved, the new fares are expected to take effect in June.</p>
+        <p>''While record-setting ridership brings in more fare revenue, it does not keep pace with the cost for new services that are added to meet demand,'' said H. Charles Wedel, the agency's chief financial officer.</p>
+        <p>The agency also approved the purchase of 1,145 buses to replace its aging fleet over the next six years at a cost of $409.9 million. The buses will begin to arrive later this year and be equipped with multiple closed-circuit cameras that can digitally record passengers and drivers, the agency said. The cameras are activated by the driver or in the event of an accident. Officials said the cameras would improve security on the buses.</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

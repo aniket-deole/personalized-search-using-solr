@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nassau Has $100 Million for Open Space</title>
+    <meta content="28liweekLI-1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822199"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Government Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <location class="indexing_service">Nassau County (NY)</location>
+        <person class="indexing_service">Suozzi, Thomas R (County Exec)</person>
+        <person class="indexing_service">Saslow, Linda</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E6DF143FF93BA15752C0A9619C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nassau Has $100 Million for Open Space</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA SASLOW</byline>
+      <byline class="normalized_byline">Saslow, Linda</byline>
+      <abstract>
+        <p>Nassau County Executive Thomas Suozzi asks public, civic organizations, environmental groups and government officials to nominate projects to finance under $100 million Environmental Program Bond Act approved by voters in November (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nassau County has $100 million to spend on open space and environmental projects, and County Executive Thomas R. Suozzi is asking how to use it.</p>
+        <p>Earlier this month, Mr. Suozzi called for comments from the public, civic organizations, environmental groups and government officials to develop a list of projects to finance under the $100 million Environmental Program Bond Act that voters approved in November. He appointed an advisory committee to evaluate the projects. Nominations begin Thursday and continue until March 15.</p>
+      </block>
+      <block class="full_text">
+        <p>Nassau County has $100 million to spend on open space and environmental projects, and County Executive Thomas R. Suozzi is asking how to use it.</p>
+        <p>Earlier this month, Mr. Suozzi called for comments from the public, civic organizations, environmental groups and government officials to develop a list of projects to finance under the $100 million Environmental Program Bond Act that voters approved in November. He appointed an advisory committee to evaluate the projects. Nominations begin Thursday and continue until March 15.</p>
+        <p>''The more information given, the better,'' said Thomas F. Maher, the director of environmental coordination for Nassau County. ''If a group wants to improve a parkland area to provide recreational opportunities for disadvantaged kids, that's helpful information to provide.''</p>
+        <p>This Environmental Program Bond Act follows one in 2004 for $50 million, which received 260 nominations. Forty-seven of those were selected.</p>
+        <p>Mr. Maher said he was expecting more nominations this time. ''There seems to be more interest after the success of the first bond act,'' he said. ''And now we have double the money to spend.''</p>
+        <p>Just as the county did with the first environmental act, it could finance projects in open space acquisition, parkland improvement, storm water quality improvement and brownfield remediation, Mr. Maher said.</p>
+        <p>With money left from the 2004 bond act, the county recently bought two properties: the 33-acre Boegner estate in Old Westbury and the 3-acre Parkway Drive property in Baldwin, which includes wetlands.</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="16tribune--refer" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819268"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E0D91030F935A25752C0A9619C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Several Bids Expected For Tribune Company  The sale of the Tribune Company, whose holdings include The Los Angeles Times, is expected to attract several bidders, including celebrities and the family that once owned the Los Angeles paper. Bids are due tomorrow.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Opening Envelopes  Hollywood's awards season began with the Golden Globes. ''Babel'' was named best dramatic film; Martin Scorsese won as director of ''The Departed''; Helen Mirren was honored for portrayals of two Queen Elizabeths.</p>
+        <p>THE ARTS, PAGE E1</p>
+        <p>Trial in London Bomb Plot  Six men appeared in a London court, charged with attempting an attack two weeks after the July 7, 2005, suicide bombings against bus and subway travelers.</p>
+        <p>PAGE A3</p>
+        <p>The Warming of Greenland  In Greenland, rising temperatures are not only melting ice; they are also changing the very geography, creating islands.</p>
+        <p>PAGE F1</p>
+        <p>Voices in My Head Say 'Buy'  What is the difference between a tightwad's brain and a spendthrift's brain? John Tierney finds out when he submits himself to the brain scientist's scanner. In his new column and blog (nytimes.com/tierneylab), he explores the frontiers and backwaters of science.</p>
+        <p>SCIENCE TIMES, PAGE F1</p>
+      </block>
+      <block class="full_text">
+        <p>Several Bids Expected For Tribune Company  The sale of the Tribune Company, whose holdings include The Los Angeles Times, is expected to attract several bidders, including celebrities and the family that once owned the Los Angeles paper. Bids are due tomorrow.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Opening Envelopes  Hollywood's awards season began with the Golden Globes. ''Babel'' was named best dramatic film; Martin Scorsese won as director of ''The Departed''; Helen Mirren was honored for portrayals of two Queen Elizabeths.</p>
+        <p>THE ARTS, PAGE E1</p>
+        <p>Trial in London Bomb Plot  Six men appeared in a London court, charged with attempting an attack two weeks after the July 7, 2005, suicide bombings against bus and subway travelers.</p>
+        <p>PAGE A3</p>
+        <p>The Warming of Greenland  In Greenland, rising temperatures are not only melting ice; they are also changing the very geography, creating islands.</p>
+        <p>PAGE F1</p>
+        <p>Voices in My Head Say 'Buy'  What is the difference between a tightwad's brain and a spendthrift's brain? John Tierney finds out when he submits himself to the brain scientist's scanner. In his new column and blog (nytimes.com/tierneylab), he explores the frontiers and backwaters of science.</p>
+        <p>SCIENCE TIMES, PAGE F1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

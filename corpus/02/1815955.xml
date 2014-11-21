@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="02somalia-refer" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815955"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE3DF1730F931A35752C0A9619C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Somalia's Rocky New Reality  In Somalia, the outlines of a new reality emerged after 15 years of anarchy. The transitional government called for international peacekeepers and a surrender of weapons. No major force challenged the new leadership, although warlords still command authority.PAGE A6</p>
+        <p>Health Care Tops Agenda  Within days of Congress's convening on Thursday, House Democrats plan to rush through legislation requiring the government to negotiate lower drug prices for Medicare beneficiaries and overturning President Bush's restrictions on embryonic stem cell research.</p>
+        <p>PAGE A10</p>
+        <p>Web Sites Without Rules  As popular Web sites like YouTube and MySpace restrict their content, new sites that allow live video chats with no restrictions are growing in popularity, particularly among young users with Web cams, raising concern among child-safety advocates.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Final Farewell For a President And His Circle  President Bush and Laura Bush paid their respects at the coffin of Gerald R. Ford in the Capitol Rotunda.</p>
+        <p>At Mr. Ford's funeral this morning in the Washington National Cathedral, the alumni of his administration will celebrate his life and the intimate circle he created.</p>
+        <p>Among them will be Henry A. Kissinger, who is back in the limelight and is to eulogize Mr. Ford.</p>
+        <p>PAGE A15</p>
+      </block>
+      <block class="full_text">
+        <p>Somalia's Rocky New Reality  In Somalia, the outlines of a new reality emerged after 15 years of anarchy. The transitional government called for international peacekeepers and a surrender of weapons. No major force challenged the new leadership, although warlords still command authority.PAGE A6</p>
+        <p>Health Care Tops Agenda  Within days of Congress's convening on Thursday, House Democrats plan to rush through legislation requiring the government to negotiate lower drug prices for Medicare beneficiaries and overturning President Bush's restrictions on embryonic stem cell research.</p>
+        <p>PAGE A10</p>
+        <p>Web Sites Without Rules  As popular Web sites like YouTube and MySpace restrict their content, new sites that allow live video chats with no restrictions are growing in popularity, particularly among young users with Web cams, raising concern among child-safety advocates.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Final Farewell For a President And His Circle  President Bush and Laura Bush paid their respects at the coffin of Gerald R. Ford in the Capitol Rotunda.</p>
+        <p>At Mr. Ford's funeral this morning in the Washington National Cathedral, the alumni of his administration will celebrate his life and the intimate circle he created.</p>
+        <p>Among them will be Henry A. Kissinger, who is back in the limelight and is to eulogize Mr. Ford.</p>
+        <p>PAGE A15</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

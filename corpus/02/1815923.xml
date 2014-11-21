@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Something to Tide You Over</title>
+    <meta content="02tue3" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/02/opinion/02tue3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815923"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <org class="indexing_service">New York Times Neediest Cases Fund</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <org class="online_producer">New York Times Neediest Cases Fund</org>
+        <org class="online_producer">Uja-Federation of New York</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D61630F931A35752C0A9619C8B63" item-length="300" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Something to Tide You Over</hl1>
+        <hl2 class="online_headline">Something to Tide You Over</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial calls on readers to donate to New York Times Neediest Cases Fund</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a Jewish woman, Alexandra Ovsyannikova faced daily hurdles and prejudice in her native Uzbekistan. In 1999, she was granted refugee status and came to America to join her daughter. After the minimum five-year waiting period, Ms. Ovsyannikova applied to become a citizen. She passed her test and was told she would be mailed an invitation to take the oath of citizenship. Months passed, but no letter came.</p>
+        <p>Ms. Ovsyannikova wrote to several New York City and state representatives. ''I am such a small person,'' she said through a translator, pulling out a chubby stack of envelopes, ''but they wrote letters [back] to me!'' She also filed a lawsuit to speed up the process.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>All the money you donate to The Neediest Cases Fund goes to one of seven charities.</p>
+      </block>
+      <block class="full_text">
+        <p>As a Jewish woman, Alexandra Ovsyannikova faced daily hurdles and prejudice in her native Uzbekistan. In 1999, she was granted refugee status and came to America to join her daughter. After the minimum five-year waiting period, Ms. Ovsyannikova applied to become a citizen. She passed her test and was told she would be mailed an invitation to take the oath of citizenship. Months passed, but no letter came.</p>
+        <p>Ms. Ovsyannikova wrote to several New York City and state representatives. ''I am such a small person,'' she said through a translator, pulling out a chubby stack of envelopes, ''but they wrote letters [back] to me!'' She also filed a lawsuit to speed up the process.</p>
+        <p>Ms. Ovsyannikova is an older woman with numerous health problems. She depends on Social Security to get by. While she waited for months, her benefits expired and she fell behind on her bills and rent. The UJA-Federation of New York, a beneficiary of The New York Times Neediest Cases Fund, worked with the Marks Jewish Community House of Bensonhurst to help Ms. Ovsyannikova with clothing and food.</p>
+        <p>Finally, after a year of waiting, her invitation came. She is now an American citizen.</p>
+        <p>All the money you donate to The Neediest Cases Fund goes to one of seven charities: the Children's Aid Society; the Brooklyn Bureau of Community Service; Catholic Charities of the Archdiocese of New York; Catholic Charities, Diocese of Brooklyn and Queens; the Community Service Society of New York; the Federation of Protestant Welfare Agencies; and the UJA-Federation of New York.</p>
+        <p>To donate, please send your checks to The New York Times Neediest Cases Fund, 4 Chase Metrotech Center, 7th Floor East, Lockbox 5193, Brooklyn, N.Y. 11245. You may also call (800) 381-0075 and use a credit card, or you may donate online at www.nycharities.org/neediest.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

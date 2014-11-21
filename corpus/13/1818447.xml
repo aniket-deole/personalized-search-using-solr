@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Holiday on Monday -- Martin Luther King's Birthday</title>
+    <meta content="13holiday" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070115T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1818447"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE2D91330F930A25752C0A9619C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Holiday on Monday -- Martin Luther King's Birthday</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEW YORK  GOVERNMENT OFFICES -- Closed.  POST OFFICES -- Express Mail only; the main post office on Eighth Avenue at 32nd Street is open for window service only.  BANKS -- Most are closed.  PARKING -- Alternate-side and parking meter regulations suspended.  SANITATION -- Regular collections.  SCHOOLS -- Closed.  FINANCIAL MARKETS -- Stock and bond markets closed.  TRANSPORTATION -- New York City subways and buses will operate on regular schedules. Long Island Rail Road and Metro-North trains will operate on holiday schedules.</p>
+        <p>NEW JERSEY  GOVERNMENT OFFICES -- Federal and state offices closed.  POST OFFICES -- Express Mail only.  BANKS -- Most are closed.  SCHOOLS -- Most are closed.  TRANSPORTATION -- New Jersey Transit and PATH trains will operate on regular schedules.</p>
+        <p>CONNECTICUT  GOVERNMENT OFFICES -- Federal and state offices closed.  POST OFFICES -- Express Mail and collections from street mailboxes only.  BANKS -- Most are closed.  SCHOOLS -- Most are closed.  TRANSPORTATION -- Metro-North trains will operate on holiday schedules.</p>
+      </block>
+      <block class="full_text">
+        <p>NEW YORK  GOVERNMENT OFFICES -- Closed.  POST OFFICES -- Express Mail only; the main post office on Eighth Avenue at 32nd Street is open for window service only.  BANKS -- Most are closed.  PARKING -- Alternate-side and parking meter regulations suspended.  SANITATION -- Regular collections.  SCHOOLS -- Closed.  FINANCIAL MARKETS -- Stock and bond markets closed.  TRANSPORTATION -- New York City subways and buses will operate on regular schedules. Long Island Rail Road and Metro-North trains will operate on holiday schedules.</p>
+        <p>NEW JERSEY  GOVERNMENT OFFICES -- Federal and state offices closed.  POST OFFICES -- Express Mail only.  BANKS -- Most are closed.  SCHOOLS -- Most are closed.  TRANSPORTATION -- New Jersey Transit and PATH trains will operate on regular schedules.</p>
+        <p>CONNECTICUT  GOVERNMENT OFFICES -- Federal and state offices closed.  POST OFFICES -- Express Mail and collections from street mailboxes only.  BANKS -- Most are closed.  SCHOOLS -- Most are closed.  TRANSPORTATION -- Metro-North trains will operate on holiday schedules.</p>
+        <p>Correction:  January 15, 2007, Monday  A list of holiday closings published Saturday and yesterday incorrectly stated the rules for New York City parking meters and the mail service in Connecticut today, Martin Luther King's Birthday. The parking meter regulations remain in effect; they are not suspended. Express Mail will be collected in Connecticut, but there will be no collection of other mail from street mailboxes.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 15, 2007, Monday</p>
+        <p>A list of holiday closings published Saturday and yesterday incorrectly stated the rules for New York City parking meters and the mail service in Connecticut today, Martin Luther King's Birthday. The parking meter regulations remain in effect; they are not suspended. Express Mail will be collected in Connecticut, but there will be no collection of other mail from street mailboxes.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

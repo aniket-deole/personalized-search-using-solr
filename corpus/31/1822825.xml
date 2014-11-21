@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="31fda--refer" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822825"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5DE153FF932A05752C0A9619C8B63" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>F.D.A. to Assess Safety Of Drugs at 18 Months  The Food and Drug Administration announced a 30-point plan to ensure that marketed drugs are as safe as advertised, including the first attempt to assess the safety of drugs 18 months after introduction. It also announced an advisory panel to improve the way that it announces safety worries.  PAGE A17</p>
+        <p>A Violent Holy Day in Iraq  More than 50 people were killed in attacks across Iraq, mostly directed at Shiites, who were commemorating the seventh century martyrdom of the Prophet Muhammad's grandson at the hands of Sunnis.  PAGE A10</p>
+        <p>Managing the Unexpected  A video clip of Hillary Rodham Clinton singing may have been trivial, but the episode illustrated how technology can drive political news in unexpected directions.  PAGE A15</p>
+        <p>Details of Spitzer's Budget  Gov. Eliot Spitzer will propose a budget of more than $120 billion today that would increase overall spending by more than 6.3 percent but reduce property taxes.  PAGE B1</p>
+        <p>Winter Sunshine  With winter having finally arrived, the sunny presence of lemons is more welcome than ever. And cooking and baking with lemons brings bright flavors often missing in other cold-weather foods.  DINING, PAGE F5</p>
+        <p>A Changing Battle on AIDS Is Reflected in a Quilt  The creator of the AIDS Memorial Quilt is locked in a legal tug of war with the quilt's caretaker, the Names Project Foundation, over custody of 35 of its 6,000 panels. Above, quilt panels in storage in an Atlanta warehouse.  PAGE A16</p>
+        <p>Editor Returns to The Times  Dean Baquet, the editor of The Los Angeles Times who was fired for refusing to cut jobs, is returning to The New York Times.  PAGE A13</p>
+        <p>Clues to Stonehenge Builders  New excavations near Stonehenge have uncovered hearths, timbers and other remains of what archaeologists say was probably the village of workers who erected the ancient monoliths in England.  PAGE A11</p>
+      </block>
+      <block class="full_text">
+        <p>F.D.A. to Assess Safety Of Drugs at 18 Months  The Food and Drug Administration announced a 30-point plan to ensure that marketed drugs are as safe as advertised, including the first attempt to assess the safety of drugs 18 months after introduction. It also announced an advisory panel to improve the way that it announces safety worries.  PAGE A17</p>
+        <p>A Violent Holy Day in Iraq  More than 50 people were killed in attacks across Iraq, mostly directed at Shiites, who were commemorating the seventh century martyrdom of the Prophet Muhammad's grandson at the hands of Sunnis.  PAGE A10</p>
+        <p>Managing the Unexpected  A video clip of Hillary Rodham Clinton singing may have been trivial, but the episode illustrated how technology can drive political news in unexpected directions.  PAGE A15</p>
+        <p>Details of Spitzer's Budget  Gov. Eliot Spitzer will propose a budget of more than $120 billion today that would increase overall spending by more than 6.3 percent but reduce property taxes.  PAGE B1</p>
+        <p>Winter Sunshine  With winter having finally arrived, the sunny presence of lemons is more welcome than ever. And cooking and baking with lemons brings bright flavors often missing in other cold-weather foods.  DINING, PAGE F5</p>
+        <p>A Changing Battle on AIDS Is Reflected in a Quilt  The creator of the AIDS Memorial Quilt is locked in a legal tug of war with the quilt's caretaker, the Names Project Foundation, over custody of 35 of its 6,000 panels. Above, quilt panels in storage in an Atlanta warehouse.  PAGE A16</p>
+        <p>Editor Returns to The Times  Dean Baquet, the editor of The Los Angeles Times who was fired for refusing to cut jobs, is returning to The New York Times.  PAGE A13</p>
+        <p>Clues to Stonehenge Builders  New excavations near Stonehenge have uncovered hearths, timbers and other remains of what archaeologists say was probably the village of workers who erected the ancient monoliths in England.  PAGE A11</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'CSI' vs. 'Grey's Anatomy'</title>
+    <meta content="20arts-3" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820114"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Cbs Broadcasting Inc</org>
+        <org class="indexing_service">Abc Inc</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <object.title class="indexing_service">Csi (TV Program)</object.title>
+        <object.title class="indexing_service">Ugly Betty (TV Program)</object.title>
+        <object.title class="indexing_service">Grey's Anatomy (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E6D71E30F933A15752C0A9619C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'CSI' vs. 'Grey's Anatomy'</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>CBS wins ratings for Thursday night with show CSI; ABC wins ratings among adults age 18 to 49 with shows Ugly Betty and Grey's Anatomy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The addition of Liev Schreiber to the cast of ''CSI'' helped give CBS the top spot Thursday night, but ''Ugly Betty'' and ''Grey's Anatomy,'' which both won Golden Globes on Monday, put ABC on top among adults 18 to 49. According to Nielsen's estimates, 21.3 million viewers tuned in at 9 p.m. for ''CSI,'' ranking it just behind ''Grey's Anatomy,'' which had 21.9 million viewers in the same time slot. CBS led during the 10 p.m. hour opposite a repeat of NBC's ''ER'' (6.1 million), as ''Shark'' (15 million) matched its season's best ratings in the 18 to 49 demographic. ABC's ''Ugly Betty'' drew the most total viewers (14.1 million) at 8, while the lead in the 18-to-49 demographic went to NBC's ''My Name Is Earl'' at 8 (9.7 million) and ''The Office'' at 8:30 (9.3 million). NBC, with ''Scrubs'' at 9 (6.6 million) and ''30 Rock'' at 9:30 (5.1 million), was third for the night.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>The addition of Liev Schreiber to the cast of ''CSI'' helped give CBS the top spot Thursday night, but ''Ugly Betty'' and ''Grey's Anatomy,'' which both won Golden Globes on Monday, put ABC on top among adults 18 to 49. According to Nielsen's estimates, 21.3 million viewers tuned in at 9 p.m. for ''CSI,'' ranking it just behind ''Grey's Anatomy,'' which had 21.9 million viewers in the same time slot. CBS led during the 10 p.m. hour opposite a repeat of NBC's ''ER'' (6.1 million), as ''Shark'' (15 million) matched its season's best ratings in the 18 to 49 demographic. ABC's ''Ugly Betty'' drew the most total viewers (14.1 million) at 8, while the lead in the 18-to-49 demographic went to NBC's ''My Name Is Earl'' at 8 (9.7 million) and ''The Office'' at 8:30 (9.3 million). NBC, with ''Scrubs'' at 9 (6.6 million) and ''30 Rock'' at 9:30 (5.1 million), was third for the night.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

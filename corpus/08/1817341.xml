@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Popular Demand</title>
+    <meta content="08mostpopular" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Health; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817341"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MOST WANTED"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Freierman, Shelly</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E2DC1530F93BA35752C0A9619C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Popular Demand</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+      <byline class="normalized_byline">Freierman, Shelly</byline>
+      <abstract>
+        <p>Popular Demand column discusses top ten diet Web sites by average market share; photo (M)8</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>So many people end the year stuffed with fruitcake and eggnog, and so many make losing weight their No. 1 New Year's resolution. In the 24 hours from Dec. 31 to Jan. 1, market share for the top 10 Web sites in the diet category jumped 57 percent, according to Hitwise, an online research firm.</p>
+        <p>SparkPeople may have the buzz of online community, and NBC's hit show, ''The Biggest Loser'' (above), may be a traffic magnet, but Weight Watchers, which started more than 40 years ago in Queens, remains a strong category leader.</p>
+        <p>SHELLY FREIERMAN</p>
+      </block>
+      <block class="full_text">
+        <p>So many people end the year stuffed with fruitcake and eggnog, and so many make losing weight their No. 1 New Year's resolution. In the 24 hours from Dec. 31 to Jan. 1, market share for the top 10 Web sites in the diet category jumped 57 percent, according to Hitwise, an online research firm.</p>
+        <p>SparkPeople may have the buzz of online community, and NBC's hit show, ''The Biggest Loser'' (above), may be a traffic magnet, but Weight Watchers, which started more than 40 years ago in Queens, remains a strong category leader.</p>
+        <p>SHELLY FREIERMAN  MOST WANTED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

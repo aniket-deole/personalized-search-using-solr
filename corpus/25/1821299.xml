@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Moment of Opportunity in Somalia</title>
+    <meta content="25thu2" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/opinion/25thu2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821299"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">Somalia</location>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Somalia</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Somalia</location>
+        <org class="online_producer">Arab League</org>
+        <org class="online_producer">African Union</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE7DA163FF936A15752C0A9619C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Moment of Opportunity in Somalia</hl1>
+        <hl2 class="online_headline">Moment of Opportunity in Somalia</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial urges Bush administration to seize fleeting opportunity to help Somalia return to stability and legitimacy; says administration should work to help broker political compromise between Islamists and internationally endorsed transitional government; calls on United Nations to take charge of international peacekeeping force</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thanks to an unusual and probably fleeting set of events, Somalia has a chance to return to the community of law-abiding and legitimate states. For a country that dissolved years ago into chronic clan warfare and became a way station for international terrorists, that would be an enormous gain -- and an enormous gain for the rest of the world.</p>
+        <p>To make the most of this opportunity, Washington needs to move quickly, along with Arab and African leaders, to try to broker a political compromise between responsible leaders of the Islamic Courts Union, which was evicted from power last month by the Ethiopians, and the internationally endorsed transitional government installed in its place.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Thanks to an unusual and probably fleeting set of events, Somalia has a chance to return to the community of law-abiding and legitimate states.</p>
+      </block>
+      <block class="full_text">
+        <p>Thanks to an unusual and probably fleeting set of events, Somalia has a chance to return to the community of law-abiding and legitimate states. For a country that dissolved years ago into chronic clan warfare and became a way station for international terrorists, that would be an enormous gain -- and an enormous gain for the rest of the world.</p>
+        <p>To make the most of this opportunity, Washington needs to move quickly, along with Arab and African leaders, to try to broker a political compromise between responsible leaders of the Islamic Courts Union, which was evicted from power last month by the Ethiopians, and the internationally endorsed transitional government installed in its place.</p>
+        <p>International peacekeepers will also be needed to replace the Ethiopian force, which is already starting to head home. Ethiopia, Somalia's longtime regional rival, needs to complete that withdrawal quickly to avoid a violent nationalist backlash.</p>
+        <p>If the transitional government is to survive, it will have to strike a deal with moderate Islamists. The person it needs to talk with is Sheik Sharif Ahmed, who is No. 2 in the movement and by most accounts a reasonable man. He is currently in Kenya after apparently getting an American guarantee that he would not be deported back to Somalia.</p>
+        <p>The United Nations, which helped create the transitional government, should take charge of organizing a peacekeeping force. The Arab League (Somalia is a member) and the African Union (with headquarters in Ethiopia) need to persuade all sides to come and stay at the table. Unfortunately, none of these organizations are known for operating quickly. The Bush administration needs to press them all to seize this moment. This sudden chance to make peace is not likely to last for long.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

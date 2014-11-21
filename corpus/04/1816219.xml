@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WINKLER, MARTIN</title>
+    <meta content="dn010407" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816219"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WINKLER, MARTIN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EFDC1E3AF937A35752C0A9619C8B63" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WINKLER, MARTIN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WINKLER--Martin on January 2nd, 2007. Age 85 of Boca Raton. Formerly of Muttontown, NY. President of Belwin-Mills Music Publishing Corp. for over 40 years. Survived by his wife of 40 years, Kate. Beloved father of five children. Poppa to 14 grandchildren. Great-Poppa to five great-grandchildren. Services to be held on Friday January 5th, at 1pm at Gutterman's Funeral Home, 800 Jericho Tpk. Woodbury. 516 -921-5757.</p>
+      </block>
+      <block class="full_text">
+        <p>WINKLER--Martin on January 2nd, 2007. Age 85 of Boca Raton. Formerly of Muttontown, NY. President of Belwin-Mills Music Publishing Corp. for over 40 years. Survived by his wife of 40 years, Kate. Beloved father of five children. Poppa to 14 grandchildren. Great-Poppa to five great-grandchildren. Services to be held on Friday January 5th, at 1pm at Gutterman's Funeral Home, 800 Jericho Tpk. Woodbury. 516 -921-5757.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

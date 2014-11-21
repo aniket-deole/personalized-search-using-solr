@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hard, Easy or Just Right?</title>
+    <meta content="18CLASSOrbital" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/fashion/18CLASSOrbital.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819570"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASS IS IN SESSION: ORBITAL 360 ROCKET WORKOUT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Exercise</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Crunch Fitness International</org>
+        <person class="indexing_service">O'Connor, Pauline</person>
+        <classifier class="online_producer" type="types_of_material">Series</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Health Clubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Clubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0DC1130F93BA25752C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hard, Easy or Just Right?</hl1>
+        <hl2 class="online_headline">Orbital 360 Rocket Workout</hl2>
+      </hedline>
+      <byline class="print_byline">By PAULINE O'CONNOR</byline>
+      <byline class="normalized_byline">O'Connor, Pauline</byline>
+      <abstract>
+        <p>class is in session: hard, easy or just right?**Review of Orbital 360, training device at Crunch health club in Los Angeles; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Crunch, 8000 Sunset Boulevard, Los Angeles, (323) 654-4550. www.crunch.com.  Day pass, $24.</p>
+        <p>WHO hasn't dreamed of a machine that works more muscles in less time? Look no further. The Orbital 360, which resembles a pair of ski poles mounted onto grapefruit-size spheres, has landed. Unlike most weight circuits, it offers resistance in multiple planes so that a variety of muscles are recruited at once. Used creatively, it can improve stability and balance.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>ORBITAL 360 ROCKET WORKOUT.</p>
+      </block>
+      <block class="full_text">
+        <p>Crunch, 8000 Sunset Boulevard, Los Angeles, (323) 654-4550. www.crunch.com.  Day pass, $24.</p>
+        <p>WHO hasn't dreamed of a machine that works more muscles in less time? Look no further. The Orbital 360, which resembles a pair of ski poles mounted onto grapefruit-size spheres, has landed. Unlike most weight circuits, it offers resistance in multiple planes so that a variety of muscles are recruited at once. Used creatively, it can improve stability and balance.</p>
+        <p>That's the good news. The bad? The Orbital 360 can be awfully tricky at first. A gyroscopic wheel with a handgrip tops each pole. On my maiden voyage, we were asked to trace big sweeping circles while rotating our wrists. The exercise is as confounding as patting your head while rubbing your stomach. And unless you play tennis or golf, is wrist strength really the most pressing concern?</p>
+        <p>Clutching the poles allowed me to hold balancing poses longer, like Mercury Descending (a twisting lunge). Support also makes weight-bearing exercises safer, said Gregory Florez, a spokesman for the American Council on Exercise.</p>
+        <p>While physically taxing at times, the 20-minute class didn't keep my heart rate up. My thighs quickly fatigued doing Saturn's Rings, for instance, but I wasn't close to breathless. The grueling position requires lying on your back, toes through handles, legs extended far apart while making circles and scissor kicks.</p>
+        <p>Marilyn Calabrese, who stayed for a second session, said the Orbital 360 workout is not as ''rigorous as a sculpting class.'' But because it doesn't require an army of dumbbells, resistance bands and bars, there's less to schlep.</p>
+        <p>PAULINE O'CONNOR</p>
+        <p>This is another in a series of group fitness class reviews.</p>
+        <p>CLASS IS IN SESSION: ORBITAL 360 ROCKET WORKOUT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

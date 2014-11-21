@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Finding Time On a Vacation To Collect A Pair of Titles</title>
+    <meta content="08card" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/crosswords/bridge/08card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817335"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Alder, Phillip</person>
+        <person class="indexing_service">Levin, Jill</person>
+        <person class="indexing_service">Levin, Bobby</person>
+        <person class="indexing_service">Blanchard, Shane</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E4DC1530F93BA35752C0A9619C8B63" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Finding Time On a Vacation To Collect A Pair of Titles</hl1>
+        <hl2 class="online_headline">Finding Time on a Vacation to Collect a Pair of Titles</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+      <abstract>
+        <p>Phillip Alder bridge column on deal from knock-out team event played by Jill and Bobby Levin and Shane Blanchard; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>We have all heard the expression ''busman's holiday.'' But why busmen? Why not golfers or doctors -- or bridge professionals?</p>
+        <p>At the end of last year a group of New York friends went to Reno, Nev., for a vacation. It was not a coincidence, though, that there was a regional taking place at the same time.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At the end of last year a group of New York friends went to Reno, Nev., for a vacation. It was not a coincidence, though, that there was a regional taking place at the same time.</p>
+      </block>
+      <block class="full_text">
+        <p>We have all heard the expression ''busman's holiday.'' But why busmen? Why not golfers or doctors -- or bridge professionals?</p>
+        <p>At the end of last year a group of New York friends went to Reno, Nev., for a vacation. It was not a coincidence, though, that there was a regional taking place at the same time.</p>
+        <p>Jill and Bobby Levin and her 19-year-old son, Shane Blanchard, who has been playing bridge for only seven months, had decided before leaving New York that they would compete only on one day. On Dec. 28 they won a knockout team event with their fellow New Yorkers Ellin and Bill Kronthal. That gave them the enthusiasm to play in another knockout three days later, this time with Christal Henner-Welland and Roy Welland, also from New York. Again they finished first.</p>
+        <p>The diagramed deal is from the second victory.</p>
+        <p>Note West's two-heart overcall. The policy against a strong no-trump is to assume that you cannot make a game contract (and here West knew that was impossible, since his partner was a passed hand). You get into the auction, hope to find a fit and get back out of the auction. So long suits are in some ways more important than high-card points.</p>
+        <p>Against three no-trump West led the heart jack. Roy Welland found an excellent line of play. He took the first trick in his hand with the king and played the spade king. When West unwisely ducked, declarer claimed nine tricks: one spade, three hearts and five clubs. Later, with a relaxing drink in his hand, West no doubt realized that winning with the spade ace and shifting to the diamond jack is the correct defense, but it was much harder to find at the table.</p>
+        <p>In the other room Bobby Levin jumped to three hearts, bidding ''one more'' opposite a passed partner at favorable vulnerability. After North responded three no-trump, Levin led the heart jack, but declarer made matters much clearer by winning with the heart queen on the board and playing a spade to his king. It was easy for Levin to take the trick with his ace and switch to the diamond jack, giving the defenders two spades and five diamonds for down three.</p>
+        <p>Plus 600 and plus 300 gave the winners 14 international match points.</p>
+        <p>Shane Blanchard won more than 50 gold master points in the two events. As his stepfather said, ''It took me years to do that.'' And Bobby Levin won the Bermuda Bowl world team championship in 1981 at the age of 23, which is still a record.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

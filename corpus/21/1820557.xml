@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Virtual Town Square Reinvents Community</title>
+    <meta content="l21jersey-2" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820557"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <org class="indexing_service">Americantowns.com</org>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <person class="indexing_service">Korotkin, Arnold</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E6DE1F30F932A15752C0A9619C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Virtual Town Square Reinvents Community</hl1>
+      </hedline>
+      <abstract>
+        <p>Arnold Korotkin letter on January 14 article on rise in town-specific and neighborhood-specific Web sites</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a sociologist I interpreted ''Anytown, Online'' (Jan. 14) as an indication that Americans may no longer be ''bowling alone.''</p>
+        <p>The arrival of community-themed Web sites that emphasize local news and information heralds the reinvention of community. By creating a new virtual town square, it enables citizens to access information and news ranging from local traffic reports to community news items in a timely manner while providing a means for citizens to ''socially'' interact and comment on news postings from their home or office computer.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a sociologist I interpreted ''Anytown, Online'' (Jan. 14) as an indication that Americans may no longer be ''bowling alone.''</p>
+        <p>The arrival of community-themed Web sites that emphasize local news and information heralds the reinvention of community. By creating a new virtual town square, it enables citizens to access information and news ranging from local traffic reports to community news items in a timely manner while providing a means for citizens to ''socially'' interact and comment on news postings from their home or office computer.</p>
+        <p>This new modality of communication enables citizens to reconnect with neighbors, friends and family, and creates a new sense of community in tune with the cyber age. To paraphrase Marshall McLuhan, the new global village is just a mouse click away.</p>
+        <p>Arnold Korotkin  Upper Montclair</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

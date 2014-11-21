@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Measure for Measure</title>
+    <meta content="Stossel.t" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/books/review/Stossel.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820199"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Stossel, Scott</person>
+        <person class="indexing_service">Igo, Sarah E</person>
+        <object.title class="indexing_service">Averaged American, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Sociology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sociology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <object.title class="online_producer">Averaged American, The: Surveys, Citizens, and the Making of a Mass Public (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E5D91230F932A15752C0A9619C8B63" item-length="1226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Measure for Measure</hl1>
+        <hl2 class="online_headline">Measure for Measure</hl2>
+      </hedline>
+      <byline class="print_byline">By SCOTT STOSSEL</byline>
+      <byline class="normalized_byline">Stossel, Scott</byline>
+      <abstract>
+        <p>Scott Stossel reviews book The Averaged American: Surveys, Citizens, and the Making of a Mass Public by Sarah E Igo; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE AVERAGED AMERICAN</p>
+        <p>Surveys, Citizens, and the</p>
+        <p>Making of a Mass Public.</p>
+        <p>By Sarah E. Igo.</p>
+        <p>Illustrated. 398 pp.</p>
+        <p>Harvard University Press. $35.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sarah E. Igo explores how the social sciences have changed the way America thinks of itself.</p>
+      </block>
+      <block class="full_text">
+        <p>THE AVERAGED AMERICAN</p>
+        <p>Surveys, Citizens, and the</p>
+        <p>Making of a Mass Public.</p>
+        <p>By Sarah E. Igo.</p>
+        <p>Illustrated. 398 pp.</p>
+        <p>Harvard University Press. $35.</p>
+        <p>Here's a tip. When deciding whether to buy an academic book marketed to a general audience, flip to the acknowledgments to look for tell-tale phrases like this one: So-and-so ''deserves special mention for his indispensable advice and counsel as I turned my dissertation into a book.'' Beware! Vestigial Dissertation Syndrome alert! Common symptoms include turgid prose and microscopic narrowness of topic. So after finding that tip-off in the acknowledgments of ''The Averaged American,'' by Sarah Igo, I braced myself for a slog.</p>
+        <p>Happily, I wasn't in for one. Briskly written, forcefully argued and broad in scope, ''The Averaged American'' falls into a category occupied by works like Paul Starr's ''Social Transformation of American Medicine'' (1982) and Laura Thatcher Ulrich's ''Midwife's Tale'' (1990), Pulitzer Prize-winning books by academics whose reach extended beyond the ivory tower.</p>
+        <p>On the face of it, the subject matter of ''The Averaged American'' could hardly sound duller: it's about social science data -- specifically, about the increasing use of surveys, polls and other forms of statistical measurements beginning in the years after World War I. But Igo, a history professor at the University of Pennsylvania, has an ambitious argument to make: that the advent of new techniques of measurement not only helped give birth to the modern social sciences but also changed the way America thinks of itself. Focusing principally on three milestones in the annals of empirical research -- the famous study of Muncie, Ind., published as ''Middletown'' in 1929; the emergence of George Gallup's and Elmo Roper's political polling in the 1930s; and the publication of the infamous Kinsey reports in 1948 and 1953 -- Igo chronicles the emergence of a ''mass society'' and the transformation of the American consciousness along statistical lines. In telling this story, Igo does for social statistics what Louis Menand's ''Metaphysical Club'' did for American pragmatism, providing a narrative intellectual history of the field.</p>
+        <p>Igo's narrative begins with Robert and Helen Lynd, who met while hiking in New Hampshire in 1919 and bonded over their admiration for Thorstein Veblen's ''Theory of the Leisure Class.'' Social statistics were just beginning to escape their confines in the decennial census, as government bureaucrats used them in an effort to better manage the burgeoning technocratic state, and the era of market research had dawned with the creation of the Harvard Bureau of Business Research in 1911. Amid this growing emphasis on ''objective'' data, the Lynds arrived in Muncie.</p>
+        <p>Their survey undertook to examine every aspect of life -- to illuminate, as Robert Lynd put it, ''the whole range of 'growing pains' of our contemporary ... urban industrial civilization.'' The Lynds collected information about everything from hours spent on household cleaning to the size of backyards, and harvested a wealth of data about this supposedly representative American town, eventually reporting, in Igo's summary, ''that workers rose earlier in the morning than their employers; that schoolgirls desired silk rather than cotton stockings; ... that the newest homes in town lacked spare rooms and parlors; that public speeches were getting shorter; that business associations were growing but trade unions declining; that belief in hell was weakening.''</p>
+        <p>The Lynds were appalled by what they perceived to be the money-grubbiness of Muncie society. ''More and more of the activities of living are coming to be strained through the bars of the dollar sign,'' they wrote. True to their Veblenesque spirit, one of the Lynds' intentions in publishing their ostensibly objective findings was to highlight -- and thereby to mitigate -- the ''pecuniary'' nature of modern industrial life. It is no small irony, then, that their work became the touchstone of modern market research. ''The only two books that are absolutely necessary for an advertising man are the Bible and Middletown!'' declared a trade magazine in 1937.</p>
+        <p>But that was down the road. When it was published, ''Middletown'' became an object of collective American fascination. Everyone, or so it seemed, wanted to know about the ''typical'' Americans of Middletown. ''Nothing is so interesting as ourselves,'' as an article in Good Housekeeping put it. According to Igo, in capturing modern life for the first time in an ''empirical, detached and, most of all, objective'' way, ''Middletown'' changed how America understood itself, and created a new object for scientific study: ''average America.''</p>
+        <p>If the publication of ''Middletown'' marked the arrival of a self-conscious national culture, the work of Gallup and Roper would feed that self-consciousness on a weekly basis. Pioneering the use of statistical sampling, they presented the American ''average'' in a whole new way: instead of looking in a particular geographic place, the pollsters located the average in a disembodied statistical mean. Their ambition was to capture what the national public, or ''the mass mind,'' was thinking, doing and buying at any given time. Politicians and marketers increasingly turned to Gallup and Roper to find out what ''America'' was thinking. The pollsters' ascendance solidifed the notion of a cohesive American public -- a useful function, as the cold war began -- but at the expense of homogenizing the vast diversity that goes into any statistical mean.</p>
+        <p>Surprisingly, given that she's writing about research whose basic unit of measurement is the orgasm, Igo's chapters on the Kinsey reports are the least interesting in the book. Perhaps that's because after two recent Kinsey biographies, a feature film and T. Coraghessan Boyle's novel ''The Inner Circle'' (based on Kinsey), the material is already familiar. Or maybe it's because learning about spending and household maintenance habits is more titillating than learning how many farm boys are having sex with their goats. (When H. L. Mencken wrote of a study ''as exhilarating as even the dirtiest of the new novels,'' he was referring not to the Kinsey reports but to ''Middletown.'')</p>
+        <p>For Igo's purposes, what's most notable about the Kinsey reports is not their sexual content but the way they used data. (Talk about a one-track mind.) Kinsey wanted to remove the stigma attached to sexual practices (adultery, masturbation, homosexual sex) that were considered deviant by demonstrating how common they were. Where the Lynds found the ''normal'' in a representative city and the pollsters found it in statistical averages, Kinsey demonstrated there was no such thing. Whatever outlandish sexual act you could imagine, someone somewhere was doing it. This led to the charge that Kinsey was perpetrating what we might call the statisticization of morality.</p>
+        <p>Even as we have moved toward ever-finer calibrations of statistical measurement, the knowledge that social science can produce is, in the end, limited. Is the statistical average rendered by pollsters the distillation of America? Or its grinding down into porridge? For all of the hunger Americans have always expressed for cold, hard data about who we are, literary ways of knowing may be profounder than statistical ones. (You can learn as much about life on Main Street from Sinclair Lewis as from the Lynds.) Poll-saturated though we may be, our national self-understanding still comes as much from art (think of Norman Rockwell or Edward Hopper), literature (think of ''The Great Gatsby'' or even ''The Bonfire of the Vanities'') and impressionistic journalism (think of James Agee and Walker Evans, or Joan Didion) as it does from any survey. I'm sure at least 23 percent of Americans would agree with me.</p>
+        <p>Scott Stossel, the managing editor of The Atlantic Monthly, is the author of ''Sarge: The Life and Times of Sargent Shriver.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Scott Stossel, the managing editor of The Atlantic Monthly, is the author of ''Sarge: The Life and Times of Sargent Shriver.''</tagline>
+    </body.end>
+  </body>
+</nitf>

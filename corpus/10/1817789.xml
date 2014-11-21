@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Democrats, Be Yourselves</title>
+    <meta content="l10alpha" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817789"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <person class="indexing_service">Matthews, Jeremy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E6DE1230F933A25752C0A9619C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Democrats, Be Yourselves</hl1>
+      </hedline>
+      <abstract>
+        <p>Jeremy Matthews letter says Democrats should be tough about their convictions rather than focusing on 'tough-guy' candidates (Jan 7 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Invasion of the Alpha Male Democrat'' (Week in Review, Jan. 7):</p>
+        <p>While Representative Rahm Emanuel and Senator Charles E. Schumer's recruitment of Alpha males has helped the Democratic Party gain some victories in the past election to control Congress, it's just another example of the cynical calculations Democrats have made to win elections at the cost of conviction.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Invasion of the Alpha Male Democrat'' (Week in Review, Jan. 7):</p>
+        <p>While Representative Rahm Emanuel and Senator Charles E. Schumer's recruitment of Alpha males has helped the Democratic Party gain some victories in the past election to control Congress, it's just another example of the cynical calculations Democrats have made to win elections at the cost of conviction.</p>
+        <p>These calculations have led to politics that is overly accommodating to Republicans.</p>
+        <p>Rather than focusing on tough-guy candidates, the Democrats should be tough about their convictions. Perhaps then they will become the Alpha party.</p>
+        <p>Jeremy Matthews  Richardson, Tex., Jan. 7, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="02obse" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/02/science/02observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815961"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Eels</classifier>
+        <classifier class="indexing_service" type="descriptor">Grouper (Fish)</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Paleontology</classifier>
+        <classifier class="indexing_service" type="descriptor">Dinosaurs</classifier>
+        <classifier class="indexing_service" type="descriptor">Gastroliths</classifier>
+        <classifier class="indexing_service" type="descriptor">Digestive Tract</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <classifier class="indexing_service" type="descriptor">Corot (Satellite)</classifier>
+        <classifier class="indexing_service" type="descriptor">Telescopes and Observatories</classifier>
+        <classifier class="indexing_service" type="descriptor">Solar System</classifier>
+        <classifier class="indexing_service" type="descriptor">Planets</classifier>
+        <classifier class="indexing_service" type="descriptor">Squirrels</classifier>
+        <classifier class="indexing_service" type="descriptor">Seeds</classifier>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="indexing_service" type="descriptor">Spruce Trees</classifier>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <location class="indexing_service">Red Sea</location>
+        <location class="indexing_service">France</location>
+        <location class="indexing_service">Kazakhstan</location>
+        <location class="indexing_service">Canada</location>
+        <location class="indexing_service">Yukon Territory</location>
+        <location class="indexing_service">Europe</location>
+        <org class="indexing_service">University of Neuchatel (Switzerland)</org>
+        <org class="indexing_service">Plos Biology (Journal)</org>
+        <org class="indexing_service">University of Bonn</org>
+        <org class="indexing_service">Proceedings of the Royal Society B: Biological Sciences</org>
+        <org class="indexing_service">University of Alberta</org>
+        <org class="indexing_service">Science (Journal)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">Bshary, Redouan (Dr)</person>
+        <person class="indexing_service">Wings, Oliver</person>
+        <person class="indexing_service">Sander, P Martin</person>
+        <person class="indexing_service">Boutin, Stan (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Kazakhstan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Digestive Tract</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada/Yukon, the Northwest Territories and Nunavut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Kazakhstan</classifier>
+        <classifier class="online_producer" type="descriptor">Solar System</classifier>
+        <classifier class="online_producer" type="descriptor">Fossils</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Digestive Tract</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dinosaurs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E1DF1730F931A35752C0A9619C8B63" item-length="1079" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Squirrels That Predict the Future</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Redouan Bshary of University of Neuchatel, Switzerland, leads study on fish that identifies cooperative hunting relationship between giant moray eels and groupers in Red Sea; research is published in journal PLoS Biology; Oliver Wings and P Martin Sander of University of Bonn lead study on sauropod dinosaurs; research, which is published in journal Proceedings of the Royal Society B: Biological Sciences, suggests that large stones, or gastroliths, found in sauropod fossil stomachs were accidentally eaten by dinosaurs; early studies suggest that gastroliths were part of dinosaur's food mill, but recent research shows that stones were not abraded enough to have served digestive purpose; French satellite Corot is successfully launched from Kazakhstan; carries small telescope designed to help locate planets outside solar system; Dr Stan Boutin of University of Alberta leads research that finds squirrels in Canadian Yukon and Europe are able to anticipate overabundant season for spruce tree seed cones and have extra liter that year to take advantage of large food supply; research is published in journal Science; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Fish and Eel Team</p>
+        <p>It's rare for two species to help each other while hunting, and it's easy to understand why. Cooperation during the hunt would turn to competition with disputes over the spoils. (Humans and dogs are one species pair that do work together, but there is no dispute over who gets what.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Squirrels that take advantage of large amounts of available seeds, cooperative hunting among fish and more.</p>
+      </block>
+      <block class="full_text">
+        <p>The Fish and Eel Team</p>
+        <p>It's rare for two species to help each other while hunting, and it's easy to understand why. Cooperation during the hunt would turn to competition with disputes over the spoils. (Humans and dogs are one species pair that do work together, but there is no dispute over who gets what.)</p>
+        <p>Now, cooperative hunting has been found for the first time among two species of fish. Redouan Bshary of the University of Neuchâtel in Switzerland and colleagues observed coordinated behavior among groupers and giant moray eels around coral reefs in the Red Sea.</p>
+        <p>The two are made for each other. Both eat small reef fish, but they hang out in different places: groupers in open water just off a reef, morays in reef nooks and crannies. If a reef fish encounters a moray, it may swim into open water and encounter a grouper. On the other hand, a fish hoping to escape a grouper by swimming into the reef may encounter a moray.</p>
+        <p>As described in the online journal PLoS Biology, the researchers observed groupers and morays together more often than would be expected by random chance. Occasionally, a grouper would swim past a moray and vigorously shake its head. (A video is at nytimes.com/science.) That, presumably, was a signal to cooperate: the two fish would then swim together, for up to 44 minutes.</p>
+        <p>The groupers captured more prey in a given amount of time when hunting with morays than without. Morays, too, were successful in the hunt. Both groupers and morays immediately swallowed their prey whole, and the researchers suggested this may be one reason that their cooperative behavior is successful: there is never a carcass to fight over.</p>
+        <p>Sauropod Mystery Stones</p>
+        <p>The sauropod dinosaurs were the largest land creatures ever, with some specimens tipping the scales at up to 60,000 pounds.</p>
+        <p>They were vegetarians, however, and scientists have long wondered how they could have eaten enough to grow so big. They had small heads and pointy teeth, ill-suited to mashing up the large quantities of vegetation needed. So some scientists have suggested that the dinosaurs must have swallowed stones and used them to grind up the food, much the way modern birds do in their gizzards. Such stones, or gastroliths, have been found in fossil sauropods.</p>
+        <p>But a new study by Oliver Wings and P. Martin Sander of the University of Bonn in Germany makes the case that these fossil gastroliths were not part of any dinosaur food mill.</p>
+        <p>In the study, published in Proceedings of the Royal Society B: Biological Sciences, the researchers conducted experiments with ostriches. Though an ostrich is no dinosaur, birds may be the dinosaurs' closest living relatives. And the ostrich, as the largest plant-eating bird, has a well-developed food mill in its gizzard.</p>
+        <p>The researchers allowed the ostriches to swallow stones of different types, and measured how much the stones changed over time. They found that the stones were rapidly abraded, and thus retained a dull appearance. Dinosaur gastroliths, by contrast, are highly polished, indicating much slower abrasion.</p>
+        <p>In ostriches, gastroliths account for about 1 percent of body weight. In the few sauropod fossils with gastroliths, the figure is less than 0.1 percent, which means there would not have been enough of the stones to do much grinding.</p>
+        <p>The researchers suggested that the sauropods swallowed stones by accident, or for their mineral content. And they say the dinosaurs may have extracted maximum nutrients from food by retaining the stones for a long time, which their large size would have enabled.</p>
+        <p>Planet Scope</p>
+        <p>The search for planets outside the solar system got a boost last week with the successful launching of a French satellite from Kazakhstan.</p>
+        <p>The satellite, called Corot, carries a small telescope designed to detect the slight changes in starlight caused by the passage of a planet. The hope is that it will find smaller Earth-like planets; almost all of the extrasolar planets discovered so far have been gaseous giants.</p>
+        <p>Squirrels That Predict the Future</p>
+        <p>It's like the Beach Boys said: Catch a wave and you're sitting on top of the world.</p>
+        <p>For red squirrels in the Canadian Yukon and Europe, the wave in question is an overabundance of seed cones from spruce trees. Researchers report that the squirrels are able to predict when the trees will provide such copious amounts of food, and produce two consecutive litters just at the right time to take advantage of it.</p>
+        <p>Many trees produce relatively little seed in most years, which helps keep the populations of seed-consuming animals down. In certain years, the trees produce large amounts of seed, an event known as masting. With the seed eaters' numbers reduced, having so much seed ensures that more of it will not be eaten and will have the chance to grow.</p>
+        <p>It's a ''swamp and starve'' strategy, said Stan Boutin of the University of Alberta, lead author of a study on the squirrels in the journal Science. Most years, the trees starve the animals, and then they swamp them with food. ''The predators don't have time to respond,'' he said.</p>
+        <p>But the squirrels are different, said Dr. Boutin, who has studied them in the Yukon for two decades. They know in advance when a mast year will occur, and after they have a first litter, the mothers interrupt their weaning and conceive a second one. ''The squirrels time it so they have the maximum number of members in the population right when they can take advantage of that seed,'' Dr. Boutin said.</p>
+        <p>Having an abundance of seed cones is critical for the young squirrels' survival because it helps them break into a highly territorial system. ''It's such a big win for these females to produce that second litter,'' Dr. Boutin said.</p>
+        <p>How the squirrels know that a masting event is going to occur is a mystery, but Dr. Boutin said they may get cues from buds the trees produce 18 months before. In a masting year, most of the buds will become cones, not new branches. The squirrels may be able to tell visually that the buds will become cones, or they may get chemical cues, in the form of plant hormones, when they eat some.</p>
+        <p>Dr. Boutin said he and colleagues will study whether this ''anticipatory reproduction'' occurs in other animals. ''It could simply be that researchers have never thought to look because they have thought that this is an impossibility,'' he said.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

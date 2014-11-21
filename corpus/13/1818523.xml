@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Most Viewed Real Estate Articles of 2006</title>
+    <meta content="2006MV-RE" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/13/realestate/2006MV-RE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818523"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E5DC1130F930A25752C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Most Viewed Real Estate Articles of 2006</hl1>
+        <hl2 class="online_headline">The Most Viewed Real Estate Articles of 2006</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>1) In Arizona, 'For Sale' Is a Sign of the Times  2) Owners' Web Site Gives Realtors Run for Money  3) What You Can Rent for $1,000  4) Everything You Need to Know About Bedbugs but Were Afraid to Ask  5) Playing the Sex Card  6) As Property Values Rise, Homeowners Feel Pinch  7) Paying Any Price to Live Here  8) The Least Affordable Place to Live? Try Salinas  9) The Nitpicking Nation  10) The Bachelor Pad Still Lives</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Bedbugs, property values and the modern bachelor pad were among the hot topics last year.</p>
+      </block>
+      <block class="full_text">
+        <p>1) In Arizona, 'For Sale' Is a Sign of the Times  2) Owners' Web Site Gives Realtors Run for Money  3) What You Can Rent for $1,000  4) Everything You Need to Know About Bedbugs but Were Afraid to Ask  5) Playing the Sex Card  6) As Property Values Rise, Homeowners Feel Pinch  7) Paying Any Price to Live Here  8) The Least Affordable Place to Live? Try Salinas  9) The Nitpicking Nation  10) The Bachelor Pad Still Lives</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

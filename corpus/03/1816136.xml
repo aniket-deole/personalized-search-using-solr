@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Value in the Organic Label</title>
+    <meta content="03dinlett-1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816136"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Organic Foods and Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Labeling and Labels</classifier>
+        <org class="indexing_service">Organic Center (Orgn)</org>
+        <person class="indexing_service">Benbrook, Charles M</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organic Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labeling and Labels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E4DB1730F930A35752C0A9619C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Value in the Organic Label</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Charles Benbrook, chief scientist for Organic Center, disagrees with Dec 27, 2006, article, which notes tensions in food community over value of organic label</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re: ''You Are What You Eat: 2006 and the Politics of Food,'' Dec. 27:</p>
+        <p>It is not true that organic farmers ''have become too successful for their own good,'' nor that the integrity of organic food is in jeopardy because organic milk is for sale at Wal-Mart. Organic farms and businesses, large and small, are delivering safer, more nutritious food to millions of people looking for alternatives. As demand grows, the environmental benefits of organic farming will reach a larger piece of the American landscape.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re: ''You Are What You Eat: 2006 and the Politics of Food,'' Dec. 27:</p>
+        <p>It is not true that organic farmers ''have become too successful for their own good,'' nor that the integrity of organic food is in jeopardy because organic milk is for sale at Wal-Mart. Organic farms and businesses, large and small, are delivering safer, more nutritious food to millions of people looking for alternatives. As demand grows, the environmental benefits of organic farming will reach a larger piece of the American landscape.</p>
+        <p>There are lingering tensions in the organic community over goals. Some people deeply vested in the organic movement see it as a way to heal the environment and offer consumers better food, while others hope that organic farming will preserve the family farm and expand local access to food. Both of these goals must be part of a revitalization of food and farming, and can be as long as consumers continue to see added value in the organic label.</p>
+        <p>Charles Benbrook  Enterprise, Ore.</p>
+        <p>The writer is the chief scientist for the Organic Center, which disseminates scientific information about organic farming and food.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

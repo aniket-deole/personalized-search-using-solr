@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Home and Garden Supplies, Carefully Pruned</title>
+    <meta content="25store" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821223"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: SHOPPING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Tribbles Home and Garden (NYC Store)</org>
+        <person class="indexing_service">Fruitman, Sheva</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E4DC163FF936A15752C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Home and Garden Supplies, Carefully Pruned</hl1>
+      </hedline>
+      <byline class="print_byline">By SHEVA FRUITMAN</byline>
+      <byline class="normalized_byline">Fruitman, Sheva</byline>
+      <abstract>
+        <p>Tribbles Home and Garden in New York City is carefully planned alternative to big-box superstores; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tribbles Home and Garden is a family-run general store with a 21st-century sensibility. Two sisters, Cara Stone-Pfeifer, 46, an interior designer, and Elizabeth Rad, 48, a real estate developer, conceived the home-and-garden supply shop, which they opened in TriBeCa last month, as an alternative to a big-box superstore. Their goal, said Ms. Stone-Pfeifer, below left, was ''to take the anxiety out of shopping by offering the single best and most functional things in every category of home accessories.''</p>
+        <p>The merchandise they carry includes ipe wood shelves with a mahogany finish designed by Ms. Stone-Pfeifer (starting at $275) and orchid flower arrangements ($145), top right; all-purpose white porcelain plates ($11 each), center right, on a wooden serving tray ($45), both by Guy Degrenne; and, bottom right, a hand-blown glass vase from Portugal ($80). In addition to kitchen, bath and garden accessories and furniture, Tribbles also offers architectural, interior and floral design services; 217 West Broadway (Franklin Street), (212) 965-8480.</p>
+        <p>SHEVA FRUITMAN</p>
+      </block>
+      <block class="full_text">
+        <p>Tribbles Home and Garden is a family-run general store with a 21st-century sensibility. Two sisters, Cara Stone-Pfeifer, 46, an interior designer, and Elizabeth Rad, 48, a real estate developer, conceived the home-and-garden supply shop, which they opened in TriBeCa last month, as an alternative to a big-box superstore. Their goal, said Ms. Stone-Pfeifer, below left, was ''to take the anxiety out of shopping by offering the single best and most functional things in every category of home accessories.''</p>
+        <p>The merchandise they carry includes ipe wood shelves with a mahogany finish designed by Ms. Stone-Pfeifer (starting at $275) and orchid flower arrangements ($145), top right; all-purpose white porcelain plates ($11 each), center right, on a wooden serving tray ($45), both by Guy Degrenne; and, bottom right, a hand-blown glass vase from Portugal ($80). In addition to kitchen, bath and garden accessories and furniture, Tribbles also offers architectural, interior and floral design services; 217 West Broadway (Franklin Street), (212) 965-8480.</p>
+        <p>SHEVA FRUITMAN  CURRENTS: SHOPPING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

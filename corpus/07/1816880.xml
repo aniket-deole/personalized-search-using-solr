@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="07qna.1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1816880"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E1D61F31F934A35752C0A9619C8B63" item-length="456" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By ROGER COLLIS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Can you give us information about low-cost flights to Ho Chi Minh City, Vietnam? Where would a good jumping-off point be for travel around the region? -- Lester Steinfeld, Washington</p>
+        <p>A search on Orbitz.com for flights in late January and early February from Washington to Ho Chi Minh City came up with Northwest (with stops in Detroit and Tokyo) for $1,358 round trip, and All Nippon Airways (via Tokyo) for $2,230. Travelocity.com found American and United Airlines (via Chicago and Hong Kong) for $1,400 on American and $1,374 on United. But check the airline sites. Air France (via Paris) gave me $1,586; British Airways (via London and Hong Kong) $1,729, and Cathay Pacific (via Los Angeles and Hong Kong) $1,800. Singapore Airlines (by way of Frankfurt and Singapore) was $1,587. Thai Airways flies from New York and Los Angeles (not Washington) to Ho Chi Minh City, via Frankfurt and Bangkok, but has several good regional deals from Bangkok.</p>
+      </block>
+      <block class="full_text">
+        <p>Can you give us information about low-cost flights to Ho Chi Minh City, Vietnam? Where would a good jumping-off point be for travel around the region? -- Lester Steinfeld, Washington</p>
+        <p>A search on Orbitz.com for flights in late January and early February from Washington to Ho Chi Minh City came up with Northwest (with stops in Detroit and Tokyo) for $1,358 round trip, and All Nippon Airways (via Tokyo) for $2,230. Travelocity.com found American and United Airlines (via Chicago and Hong Kong) for $1,400 on American and $1,374 on United. But check the airline sites. Air France (via Paris) gave me $1,586; British Airways (via London and Hong Kong) $1,729, and Cathay Pacific (via Los Angeles and Hong Kong) $1,800. Singapore Airlines (by way of Frankfurt and Singapore) was $1,587. Thai Airways flies from New York and Los Angeles (not Washington) to Ho Chi Minh City, via Frankfurt and Bangkok, but has several good regional deals from Bangkok.</p>
+        <p>Hong Kong and Bangkok are good regional hubs for low-cost travel in the region. Bangkok offers some of the best travel bargains in the world. Readers have recommended the Bangkok travel agents Ambika Tour Agency (www.ambikatours.com), and DTC Travel( www.dtctravel.com). Look for regional deals at Zuji (www.zuji.com), an online travel agent powered by Travelocity, which has English-language sites offering flights from Hong Kong, Singapore, Korea, Taiwan, Australia and New Zealand. Another useful site is www.thaifly.com in Bangkok, a source for discounted flights and hotels; www.travel.com.au and www.trailfinders.com.au are Australian sites offering a good selection of airline deals to many Asia Pacific destinations. And the Web site www.smarttravelasia.com will guide you to some of the many low-cost airlines in the Asia Pacific region.</p>
+        <p>Another option is to buy a regional air pass from one of the two main airline alliances, Oneworld or Star Alliance. As I reported in a recent column, a Oneworld Visit Asia Pass (www.oneworld.com) will enable you to visit Ho Chi Minh City, as well as Bangkok, Beijing, Jakarta, Manila, Osaka, Seoul, Singapore, Taipei and Tokyo and other cities in the region. You can take 2 to 20 flights, and need only reserve the first one. There is a flat rate for each flight. For example: from Hong Kong, the trip to Ho Chi Minh City costs $135; to Bangkok, $145; to Singapore, $185; and to Tokyo, $260.</p>
+        <p>A Star Alliance Asian Airpass (www.star-alliance.com) allows you to buy three to six coupons (costing $59 to $270, depending on distance). The pass is valid on Singapore Airlines, Asiana Airlines, Thai Airlines, United and Lufthansa.</p>
+        <p>Both passes may be bought only in conjunction with travel to Asia on a Oneworld airline (which includes British Airways and Cathay Pacific) or a Star Alliance carrier.</p>
+        <p>ROGER COLLIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

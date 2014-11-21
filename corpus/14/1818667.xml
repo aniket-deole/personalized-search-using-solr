@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="14CORRECT-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818667"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Seasons and Months</classifier>
+        <location class="indexing_service">St Petersburg (Russia)</location>
+        <location class="indexing_service">Russia</location>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia/St. Petersburg</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Seasons and Months</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E0DC1230F937A25752C0A9619C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of December 31, 2006, travel article about winter events in St Petersburg, Russia (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Dec. 31 about winter events in St. Petersburg, Russia, referred incorrectly to the Seventh Symphony of Shostakovich. He composed part of it as shells fell on the city (then known as Leningrad); he did not conduct it. The article also referred incorrectly to meters in taxis there. Taxis typically have meters, but they are not always used.</p>
+        <p>The article also referred incorrectly to sleighs used in a popular park. The sleighs are pulled by single horses; they are not troikas, which are pulled by three horses.</p>
+        <p>And a picture caption misidentified a large yellow neo-Classical building. It is the General Staff Building, which is part of the Hermitage palace complex; it is not the Hermitage.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Dec. 31 about winter events in St. Petersburg, Russia, referred incorrectly to the Seventh Symphony of Shostakovich. He composed part of it as shells fell on the city (then known as Leningrad); he did not conduct it. The article also referred incorrectly to meters in taxis there. Taxis typically have meters, but they are not always used.</p>
+        <p>The article also referred incorrectly to sleighs used in a popular park. The sleighs are pulled by single horses; they are not troikas, which are pulled by three horses.</p>
+        <p>And a picture caption misidentified a large yellow neo-Classical building. It is the General Staff Building, which is part of the Hermitage palace complex; it is not the Hermitage.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

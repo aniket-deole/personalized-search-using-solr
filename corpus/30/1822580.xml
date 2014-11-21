@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Kissinger Biography</title>
+    <meta content="l30dowd" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822580"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Horne, Alistair</person>
+        <person class="indexing_service">Dowd, Maureen</person>
+        <person class="indexing_service">Kissinger, Henry A (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E7D9143FF933A05752C0A9619C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Kissinger Biography</hl1>
+      </hedline>
+      <abstract>
+        <p>Alistair Horne letter describes full extent of book he has been commissioned to write about Henry Kissinger (Jan 17 Maureen Dowd Op-Ed column)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In Maureen Dowd's Jan. 17 column, I feel that the statement that Henry A. Kissinger ''is working on an official biography of himself with Mr. Horne'' is liable to misinterpretation.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In Maureen Dowd's Jan. 17 column, I feel that the statement that Henry A. Kissinger ''is working on an official biography of himself with Mr. Horne'' is liable to misinterpretation.</p>
+        <p>To avoid any ambiguity, I would like to set the record right.</p>
+        <p>What has actually been accepted between Dr. Kissinger, my publishers, Simon and Schuster, and me concerning the book that I have been commissioned to write about Dr. Kissinger in the year 1973 is as follows:</p>
+        <p>''Dr. Kissinger has agreed to give Alistair Horne complete access and cooperation for his book, but has no editorial control over it.''</p>
+        <p>That is the full extent of his involvement.</p>
+        <p>Alistair Horne  Turville, England, Jan. 29, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

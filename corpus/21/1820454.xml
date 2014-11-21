@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DataBank: JAN. 15-19; Tech Shares Fall as Earnings Disappoint</title>
+    <meta content="21data" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/business/yourmoney/21data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820454"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E6DA1E30F932A15752C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DataBank: JAN. 15-19; Tech Shares Fall as Earnings Disappoint</hl1>
+        <hl2 class="online_headline">Tech Shares Fall as Earnings Disappoint</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Technology earnings reports that failed to meet Wall Street's expectations pulled down the Nasdaq composite index last week, but the Dow Jones industrial average managed a small gain.</p>
+        <p>A warning by the Federal Reserve chairman, Ben S. Bernanke -- that looming Social Security and Medicare deficits would burden the economy for years to come if they were not addressed -- pulled down the markets on Thursday. His comments came at a Senate hearing.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Technology earnings reports that failed to meet Wall Street’s expectations pulled down the Nasdaq composite index last week, but the Dow Jones industrial average managed a small gain.</p>
+      </block>
+      <block class="full_text">
+        <p>Technology earnings reports that failed to meet Wall Street's expectations pulled down the Nasdaq composite index last week, but the Dow Jones industrial average managed a small gain.</p>
+        <p>A warning by the Federal Reserve chairman, Ben S. Bernanke -- that looming Social Security and Medicare deficits would burden the economy for years to come if they were not addressed -- pulled down the markets on Thursday. His comments came at a Senate hearing.</p>
+        <p>On top of that, Wall Street was disappointed by technology earnings reports, including those of bellwethers like Apple, Intel and I.B.M. Apple's shares fell 7.7 percent for the week, among the worst performances in the Standard &amp; Poor's 500-stock index. Among the Dow industrials, I.B.M.'s drop of 2.5 percent and Intel's decline of 5 percent were among the worst for the week.</p>
+        <p>For the week, the Dow Jones industrial average gained 9.45 points, or 0.08 percent, to close at 12,565.53. The Standard &amp; Poor's 500-stock index lost 0.23 point, or 0.02 percent, to close at 1,430.50. The Nasdaq composite index fell 51.51 points, or 2.1 percent, to close at 2,451.31. The yield on the 10-year Treasury bond rose to 4.78 percent from 4.77 percent the previous week.</p>
+        <p>JEFF SOMMER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

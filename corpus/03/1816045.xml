@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From a Mix, A Quick Trip To France</title>
+    <meta content="03alig" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816045"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="indexing_service" type="descriptor">Potatoes</classifier>
+        <org class="indexing_service">Marie de Livinhac (Co)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4DE1730F930A35752C0A9619C8B63" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From a Mix, A Quick Trip To France</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>French company Marie de Livinhac offers packaged mix for making aligot, specialty of south-central France that is puree of potatoes with cream, garlic and cheese; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Aligot, a specialty of south-central France, is simply a purée of potatoes given supple elasticity and richness by the addition of cream, garlic and fresh Laguiole or Cantal cheese.</p>
+        <p>The dish may be served alongside roasted or grilled meats. It is such a delectable tour de force, however, that at Michel Bras's restaurant in Laguiole, France, it is served as a separate course.</p>
+      </block>
+      <block class="full_text">
+        <p>Aligot, a specialty of south-central France, is simply a purée of potatoes given supple elasticity and richness by the addition of cream, garlic and fresh Laguiole or Cantal cheese.</p>
+        <p>The dish may be served alongside roasted or grilled meats. It is such a delectable tour de force, however, that at Michel Bras's restaurant in Laguiole, France, it is served as a separate course.</p>
+        <p>To make it yourself, finding the proper cheese and working the mixture to the desirable consistency are challenges.</p>
+        <p>Now, Marie de Livinhac, a company in the Auvergne region, is making a dehydrated aligot mix that requires only crème fraîche, water and five minutes' time. Rubbing the pot with a garlic clove is optional.</p>
+        <p>The secret is in sufficiently beating the mixture with a wooden spoon into satiny ribbons as it cooks.</p>
+        <p>A package to make enough for two is $7.99, one for four to five servings is $11.99, both at Fairway.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

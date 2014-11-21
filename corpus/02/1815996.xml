@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Boise State Produces Perfect Finish</title>
+    <meta content="02scores" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815996"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="A FOOTBALL FEAST"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE6DE1730F931A35752C0A9619C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Boise State Produces Perfect Finish</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New Year's Day bowl games did not determine a national champion, but they did produce four afternoon contests decided by 19 total points. The night game, however, was the best of the bunch. In the Fiesta Bowl, Oklahoma rallied from an 18-point deficit and went ahead, but Boise State tied the score on a hook-and-lateral play with seven seconds left in regulation. In overtime, Oklahoma scored first, but Boise State responded with trick plays that produced a touchdown and 2-point conversion to win, 43-42, and cap a 13-0 season.</p>
+        <p>Joe Paterno watched from the press box as Penn State won the Outback Bowl.  West Virginia, Wisconsin and Auburn won.</p>
+        <p>Complete Coverage, Pages D2-D3</p>
+      </block>
+      <block class="full_text">
+        <p>The New Year's Day bowl games did not determine a national champion, but they did produce four afternoon contests decided by 19 total points. The night game, however, was the best of the bunch. In the Fiesta Bowl, Oklahoma rallied from an 18-point deficit and went ahead, but Boise State tied the score on a hook-and-lateral play with seven seconds left in regulation. In overtime, Oklahoma scored first, but Boise State responded with trick plays that produced a touchdown and 2-point conversion to win, 43-42, and cap a 13-0 season.</p>
+        <p>Joe Paterno watched from the press box as Penn State won the Outback Bowl.  West Virginia, Wisconsin and Auburn won.</p>
+        <p>Complete Coverage, Pages D2-D3  A FOOTBALL FEAST</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

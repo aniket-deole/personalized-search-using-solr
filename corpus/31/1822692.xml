@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   NOLAN, PHILIP J.</title>
+    <meta content="dn013107" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822692"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">NOLAN, PHILIP J.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3DF163AF932A05752C0A9619C8B63" item-length="64" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   NOLAN, PHILIP J.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NOLAN--Philip J. of Islip, NY, on January 29, 2007, at the age of 83. Loving husband of Margaret. Beloved father of Phil, Joseph, Matthew, George, Margaret Hallowell, and Michael. Cherished grandfather of 10. Visiting Wednesday, 2-5 and 7-9PM, Overton Funeral Home, Inc., 172 Main St., Islip, NY. Funeral Mass, Thursday 10 AM, St. Anne's RC Church, Brentwood. Interment L.I. National Cemetary, Pinelawn, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>NOLAN--Philip J. of Islip, NY, on January 29, 2007, at the age of 83. Loving husband of Margaret. Beloved father of Phil, Joseph, Matthew, George, Margaret Hallowell, and Michael. Cherished grandfather of 10. Visiting Wednesday, 2-5 and 7-9PM, Overton Funeral Home, Inc., 172 Main St., Islip, NY. Funeral Mass, Thursday 10 AM, St. Anne's RC Church, Brentwood. Interment L.I. National Cemetary, Pinelawn, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TOYOTA, MEET TEXAS</title>
+    <meta content="14suits-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818858"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Customs, Etiquette and Manners</classifier>
+        <location class="indexing_service">Texas</location>
+        <location class="indexing_service">Japan</location>
+        <location class="indexing_service">San Antonio (Tex)</location>
+        <org class="indexing_service">Toyota Motor Corp</org>
+        <person class="indexing_service">Maynard, Micheline</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas/San Antonio</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs, Etiquette and Manners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E3DA1330F937A25752C0A9619C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TOYOTA, MEET TEXAS</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHELINE MAYNARD</byline>
+      <byline class="normalized_byline">Maynard, Micheline</byline>
+      <abstract>
+        <p>Toyota executives from Japan are adjusting�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ever since Toyota opened its new $1.2 billion assembly plant in San Antonio two months ago, Texans have been giving everyone connected with the company a big, very un-Japanese Lone Star welcome. Gov. Rick Perry, for example, hugged the company's chief executive, Katsuaki Watanabe, at the plant's dedication ceremony in November.</p>
+      </block>
+      <block class="full_text">
+        <p>Ever since Toyota opened its new $1.2 billion assembly plant in San Antonio two months ago, Texans have been giving everyone connected with the company a big, very un-Japanese Lone Star welcome. Gov. Rick Perry, for example, hugged the company's chief executive, Katsuaki Watanabe, at the plant's dedication ceremony in November.</p>
+        <p>More recently, two other Toyota executives -- the chairman, Hiroshi Okuda, and Yukitoshi Funo, who is in charge of its North American operations -- were startled when a stranger approached them in the lobby of the Omni San Antonio Hotel and exclaimed, in an unmistakably Texan accent: ''Welcome to San Antonio! We're so grateful to have Toyota here.''</p>
+        <p>MICHELINE MAYNARD</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

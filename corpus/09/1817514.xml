@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Vaccination Timetable</title>
+    <meta content="09rockweb" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817514"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Vaccination and Immunization</classifier>
+        <org class="indexing_service">Centers for Disease Control and Prevention</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D91530F93AA35752C0A9619C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Vaccination Timetable</hl1>
+      </hedline>
+      <abstract>
+        <p>Vaccination and Immunization timetable, which was recently issued by Centers for Disease Control and Prevention, noted; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last week, the Centers for Disease Control and Prevention issued new immunization schedules, including the first separate ones for adolescents. The recommendations cover two new vaccines for teenagers: one for the virus that causes cervical cancer and the other for a bacterium that causes meningitis and other diseases.</p>
+        <p>The agency has updated its recommended list of vaccines several times over the past 15 years, always after lengthy debate. Each state, rather than the C.D.C., decides which vaccines to make compulsory for entry into school. And some new vaccines are recommended rather than required because their prices are so high.</p>
+        <p>The timing of injections is complex, and must be overseen by a doctor. But in general, these are the recommendations:</p>
+        <p>By age 6</p>
+        <p>Polio  Measles  Mumps  Rubella  Chickenpox  Diphtheria  Tetanus  Whooping cough  Hib (meningitis)  PCV (pneumonia)  Rotavirus (diarrhea)  Hepatitis A and B  Flu (annually)</p>
+        <p>By age 18</p>
+        <p>Cervical cancer* (Caused by human papillomavirus)  Meningococcus (bacterial infection)</p>
+        <p>From 18-65  Between ages 18-65, the vaccination you should get depends on risk factors</p>
+        <p>Flu (annually when available, always after age 50)  Tetanus and diphtheria (every 10 years)  Measles, mumps, rubella, chicken-pox (for everyone not previously infected)</p>
+        <p>Some high-risk categories:</p>
+        <p>MULTIPLE DISEASES: Military recruits, health care workers, emergency responders, sewer workers  HEPATITIS: Gay men, sex workers, drug injectors  PLAGUE, RABIES: Veterinarians, animal handlers  ANTHRAX: Hide handlers  BY REGION: Travelers and immigrants may need vaccination, depending on their location. People with compromised immune systems should not take some vaccines.</p>
+        <p>By age 65</p>
+        <p>Pneumococcal pneumonia flu (annually)</p>
+        <p>*Girls only; an HPV vaccine for boys is being developed.  (Source by Centers for Disease Control and Prevention)</p>
+      </block>
+      <block class="full_text">
+        <p>Last week, the Centers for Disease Control and Prevention issued new immunization schedules, including the first separate ones for adolescents. The recommendations cover two new vaccines for teenagers: one for the virus that causes cervical cancer and the other for a bacterium that causes meningitis and other diseases.</p>
+        <p>The agency has updated its recommended list of vaccines several times over the past 15 years, always after lengthy debate. Each state, rather than the C.D.C., decides which vaccines to make compulsory for entry into school. And some new vaccines are recommended rather than required because their prices are so high.</p>
+        <p>The timing of injections is complex, and must be overseen by a doctor. But in general, these are the recommendations:</p>
+        <p>By age 6</p>
+        <p>Polio  Measles  Mumps  Rubella  Chickenpox  Diphtheria  Tetanus  Whooping cough  Hib (meningitis)  PCV (pneumonia)  Rotavirus (diarrhea)  Hepatitis A and B  Flu (annually)</p>
+        <p>By age 18</p>
+        <p>Cervical cancer* (Caused by human papillomavirus)  Meningococcus (bacterial infection)</p>
+        <p>From 18-65  Between ages 18-65, the vaccination you should get depends on risk factors</p>
+        <p>Flu (annually when available, always after age 50)  Tetanus and diphtheria (every 10 years)  Measles, mumps, rubella, chicken-pox (for everyone not previously infected)</p>
+        <p>Some high-risk categories:</p>
+        <p>MULTIPLE DISEASES: Military recruits, health care workers, emergency responders, sewer workers  HEPATITIS: Gay men, sex workers, drug injectors  PLAGUE, RABIES: Veterinarians, animal handlers  ANTHRAX: Hide handlers  BY REGION: Travelers and immigrants may need vaccination, depending on their location. People with compromised immune systems should not take some vaccines.</p>
+        <p>By age 65</p>
+        <p>Pneumococcal pneumonia flu (annually)</p>
+        <p>*Girls only; an HPV vaccine for boys is being developed.  (Source by Centers for Disease Control and Prevention)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'60 Minutes' Alumni to Lead A CNBC Monthly Magazine</title>
+    <meta content="22cnbc" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/business/media/22cnbc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820631"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Cnbc (Cable Network)</org>
+        <person class="indexing_service">Howard, Josh</person>
+        <person class="indexing_service">Cohen, Noam</person>
+        <object.title class="indexing_service">Business Nation (TV Program)</object.title>
+        <object.title class="indexing_service">60 Minutes (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">CNBC</org>
+        <person class="online_producer">Howard, Josh</person>
+        <object.title class="online_producer">Business Nation (TV Program)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EEDE1F30F931A15752C0A9619C8B63" item-length="392" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'60 Minutes' Alumni to Lead A CNBC Monthly Magazine</hl1>
+        <hl2 class="online_headline">‘60 Minutes’ Alumni to Lead a CNBC Monthly Magazine</hl2>
+      </hedline>
+      <byline class="print_byline">By NOAM COHEN</byline>
+      <byline class="normalized_byline">Cohen, Noam</byline>
+      <abstract>
+        <p>CNBC will introduce hour-long Business Nation monthly newsmagazine; network's vice president for special programming Josh Howard says business-oriented program is first of its kind; Howard was executive producer of 60 Minutes; CNBC program will follow 60 Minutes' format and style; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As cable news becomes increasingly combative and opinionated, the financial news network CNBC is pushing in the other direction, introducing an hourlong monthly newsmagazine, ''Business Nation.''</p>
+        <p>''It really is a first in terms of a business-oriented newsmagazine,'' the network's vice president for special programming, Josh Howard, said. ''No one has really done this.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The financial news network CNBC is introducing an hourlong monthly newsmagazine, “Business Nation.”</p>
+      </block>
+      <block class="full_text">
+        <p>As cable news becomes increasingly combative and opinionated, the financial news network CNBC is pushing in the other direction, introducing an hourlong monthly newsmagazine, ''Business Nation.''</p>
+        <p>''It really is a first in terms of a business-oriented newsmagazine,'' the network's vice president for special programming, Josh Howard, said. ''No one has really done this.''</p>
+        <p>The debut of ''Business Nation,'' which includes reports about the sale online of stolen goods and the popularity of martial arts fighting, will be Wednesday at 10 p.m. It will be repeated 8 to 10 times before the next installment is broadcast.</p>
+        <p>''In order to make this a reasonably economic endeavor, we will show this multiple times,'' Mr. Howard said. ''That is how we are able to earn back.'' Mr. Howard was executive producer of the weeknight version of ''60 Minutes'' before moving to CNBC in 2005. Mitch Weitzner, the executive producer of ''Business Nation,'' had worked at CBS News for 22 years, the last four as a producer at ''60 Minutes.''</p>
+        <p>The staff for ''Business Nation'' includes six producers, three associate producers and support people, he said. Mr. Howard described this as roughly proportional to what he worked with at CBS, considering that the CNBC program is a monthly show, rather than weekly.</p>
+        <p>The program's format reflects the ties to ''60 Minutes'' among the creative team that put it together, with three segments in the hour; a mixture of hard news, features and interviews; and an essay at the end.</p>
+        <p>In a departure, the concluding essay will not be delivered by some curmudgeonly figure or by a tycoon musing about the proxy statements cluttering his mailbox. ''You can't replace Andy Rooney,'' Mr. Weitzner remarked. ''We never thought about an Andy Rooney replacement.''</p>
+        <p>Instead, each show will end with a segment called ''How I Made My Millions.'' First up will be Lonnie Johnson, an engineer who invented the Super Soaker water gun.</p>
+        <p>Mr. Weitzner expressed pleasure at CNBC's ''genuine commitment to long-form programming,'' adding that television journalists were well aware that ''whether it is broadcast or cable, old-fashioned long-form programming is shrinking.''</p>
+        <p>And Mr. Howard said: ''Our viewers are smart and our mandate is to be smart. In most of television, the mandate is to bring in a younger audience. We are happy being in this little niche -- it is profitable and rewarding programming to do.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

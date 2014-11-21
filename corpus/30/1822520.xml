@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Debut and a Fervent Violinist</title>
+    <meta content="30symp" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/arts/music/30symp.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822520"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Hamburg Symphony</org>
+        <person class="indexing_service">Smith, Steve</person>
+        <person class="indexing_service">Boreyko, Andrey</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">McDuffie, Robert</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E4DB143FF933A05752C0A9619C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Debut and a Fervent Violinist</hl1>
+        <hl2 class="online_headline">A Debut and a Fervent Violinist</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE SMITH</byline>
+      <byline class="normalized_byline">Smith, Steve</byline>
+      <abstract>
+        <p>Steve Smith reviews performance by Hamburg Symphony, conducted by Andrey Boreyko at Metropolitan Museum of Art (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The concert by the Hamburg Symphony at the Metropolitan Museum on Friday night had the makings of an event. The orchestra, which is celebrating its 50th anniversary with an American tour, was playing for the first time in New York. On the podium was Andrey Boreyko, its 49-year-old Russian music director, whose star is on the rise. Robert McDuffie, a popular, respected American violinist, was the soloist.</p>
+        <p>Things don't always go according to plan. The museum's Grace Rainey Rogers Auditorium is not especially well suited to orchestras. Here the boxy acoustic rendered string tone dry and thin, and laid bare even the slightest imperfections among wind and brass players. That was the likeliest explanation for the lack of blend and bloom in Mendelssohn's ''Hebrides'' Overture. The performance was sound enough, structurally speaking; Mr. Boreyko's impetuous account built to an impressively stormy climax.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Despite strong performances of Tchaikovsky and Brahms, reverie was too often thwarted by a sonic blemish cruelly exposed in the Metropolitan Museum’s unforgiving hall.</p>
+      </block>
+      <block class="full_text">
+        <p>The concert by the Hamburg Symphony at the Metropolitan Museum on Friday night had the makings of an event. The orchestra, which is celebrating its 50th anniversary with an American tour, was playing for the first time in New York. On the podium was Andrey Boreyko, its 49-year-old Russian music director, whose star is on the rise. Robert McDuffie, a popular, respected American violinist, was the soloist.</p>
+        <p>Things don't always go according to plan. The museum's Grace Rainey Rogers Auditorium is not especially well suited to orchestras. Here the boxy acoustic rendered string tone dry and thin, and laid bare even the slightest imperfections among wind and brass players. That was the likeliest explanation for the lack of blend and bloom in Mendelssohn's ''Hebrides'' Overture. The performance was sound enough, structurally speaking; Mr. Boreyko's impetuous account built to an impressively stormy climax.</p>
+        <p>Mr. McDuffie approached Tchaikovsky's Violin Concerto with oversize gestures and heart-on-sleeve emotionalism. The first movement is treacherously difficult for the soloist, and Mr. McDuffie seemed to revel in his exertion, bearing down hard and occasionally producing a coarse, grainy tone. Mr. Boreyko provided superb support, offering enough flexibility to accommodate Mr. McDuffie's flamboyance. Unable to contain its excitement, the audience burst into sustained applause at the end of the movement.</p>
+        <p>In the canzonetta, Mr. McDuffie summoned a subtle glow, which was well matched by flute and clarinet soloists. His exuberance in the finale compensated for anemic sound from the cellos and basses. Urged along by Mr. Boreyko, the performance caught fire at the very end.</p>
+        <p>Brahms's Symphony No. 2 fared less well. One never questioned Mr. Boreyko's elegant, genial conception. It was clear too that the players -- from Brahms's hometown after all -- felt the music. How else to explain the mellow radiance of a passage for horns, winds and low strings in the second movement or the playful brio of the third? But too often reverie was thwarted by a smudged attack, a note slightly missed or some other blemish cruelly exposed in an unforgiving hall.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

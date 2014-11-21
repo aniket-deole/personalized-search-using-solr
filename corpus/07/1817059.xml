@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Justice for the Poor</title>
+    <meta content="WE--Legal" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/opinion/WE_Legal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817059"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Westchester"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Legal Aid for the Poor</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Welfare (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Aid for the Poor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Welfare (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Westchester County (NY)</location>
+        <location class="online_producer">New York State</location>
+        <person class="online_producer">Spano, Nicholas A</person>
+        <person class="online_producer">Spitzer, Eliot L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE1DE1430F934A35752C0A9619C8B63" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Justice for the Poor</hl1>
+        <hl2 class="online_headline">Justice for the Poor</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial calls on New York Gov Eliot Spitzer to made adequate, dependable financing of legal services for the poor a priority</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In our legal system, justice costs money, which means lots of poor people have to get along without it. Government has a critical obligation to provide adequate civil legal services for the poor, who would otherwise lack access to lawyers to resolve problems that could easily upend already tenuous lives, in areas like spousal and elderly abuse, child support, housing and disability issues.</p>
+        <p>Money spent on legal services ends up benefiting all taxpayers. Families that can't fight unfair evictions, after all, end up in homeless shelters, right next to the children and spouses of deadbeat fathers. People rejected for Medicaid wind up in emergency rooms. New York State recognized this long ago, but its legal safety net happens to be more threadbare than others.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Government has a critical obligation to provide adequate civil legal services for the poor.</p>
+      </block>
+      <block class="full_text">
+        <p>In our legal system, justice costs money, which means lots of poor people have to get along without it. Government has a critical obligation to provide adequate civil legal services for the poor, who would otherwise lack access to lawyers to resolve problems that could easily upend already tenuous lives, in areas like spousal and elderly abuse, child support, housing and disability issues.</p>
+        <p>Money spent on legal services ends up benefiting all taxpayers. Families that can't fight unfair evictions, after all, end up in homeless shelters, right next to the children and spouses of deadbeat fathers. People rejected for Medicaid wind up in emergency rooms. New York State recognized this long ago, but its legal safety net happens to be more threadbare than others.</p>
+        <p>This is partly because of the relative meagerness of state financing -- about $17.5 million in a state where 2.7 million people live in poverty -- and the way it is allocated. The system is supported not by a general budget appropriation but through member items, the secret river of cash controlled by individual lawmakers and doled out in annual bursts of ad-hoc generosity. Other funding for legal help is spread around among 10 or more agencies.</p>
+        <p>The issue is particularly relevant in Westchester, where legal advocates for the poor once had a friend in State Senator Nicholas A. Spano, a powerful Republican who in recent years treated legal aid as an important constituent service. Mr. Spano is gone now, of course, which could be bad news for Legal Services of the Hudson Valley, the only nonprofit organization in the region that provides free, high-quality legal help to low-income people.</p>
+        <p>The organization is stretched over seven counties -- Westchester, Dutchess, Orange, Putnam, Rockland, Sullivan and Ulster -- and, like other nonprofit legal-assistance organizations, estimates that it turns away about half the people who come to it for help.</p>
+        <p>The Westchester executive, Board of Legislators and county bar association should make sure that life after Mr. Spano does not create short-term hardship for Legal Services of the Hudson Valley. And in the longer run, there should be a better system. Advocates for the poor have urged Gov. Eliot Spitzer to make adequate, dependable financing of legal services for the poor a priority of his new administration. They say an ideal amount would be about $50 million a year, on top of what the state already spends.</p>
+        <p>That figure would put New York's per capita legal spending for its poor into the range set by progressive states like Massachusetts and Minnesota. It is a worthy goal, and one Mr. Spitzer would do well to pursue.</p>
+        <p>Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

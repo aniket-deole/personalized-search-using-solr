@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Russia Cuts Belarus Oil Duty</title>
+    <meta content="13briefs-5" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818516"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Pipelines</classifier>
+        <location class="indexing_service">Russia</location>
+        <location class="indexing_service">Belarus</location>
+        <location class="indexing_service">Europe</location>
+        <person class="indexing_service">Myers, Steven Lee</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Belarus</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pipelines</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E1D71330F930A25752C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Russia Cuts Belarus Oil Duty</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVEN LEE MYERS</byline>
+      <byline class="normalized_byline">Myers, Steven Lee</byline>
+      <abstract>
+        <p>Russia agrees to lower export duty on oil to Belarus, apparently ending political dispute that shut down important oil pipeline to Europe (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a political dispute that shut down an important oil pipeline to Europe, Russia's prime minister, Mikhail Y. Fradkov, announced that Russia had agreed to lower significantly an export duty on oil to Belarus. Russia had imposed a duty of $180 per ton on oil shipped to Belarus, but agreed to lower it to $53 after the conflict prompted a halt in supplies to Europe through the Druzhba, or Friendship, pipeline, according to news accounts. Belarus on Wednesday agreed to drop a tit-for-tat fee it had imposed in response to Russia's new duty, causing Russia to close the pipeline. Belarus has refined subsidized Russian oil and resold it at significant profit. Belarus will continue to receive a subsidy, but Mr. Fradkov said the new agreement, which appeared to end the dispute between the countries, would still raise $1 billion for Russia.</p>
+        <p>STEVEN LEE MYERS</p>
+      </block>
+      <block class="full_text">
+        <p>After a political dispute that shut down an important oil pipeline to Europe, Russia's prime minister, Mikhail Y. Fradkov, announced that Russia had agreed to lower significantly an export duty on oil to Belarus. Russia had imposed a duty of $180 per ton on oil shipped to Belarus, but agreed to lower it to $53 after the conflict prompted a halt in supplies to Europe through the Druzhba, or Friendship, pipeline, according to news accounts. Belarus on Wednesday agreed to drop a tit-for-tat fee it had imposed in response to Russia's new duty, causing Russia to close the pipeline. Belarus has refined subsidized Russian oil and resold it at significant profit. Belarus will continue to receive a subsidy, but Mr. Fradkov said the new agreement, which appeared to end the dispute between the countries, would still raise $1 billion for Russia.</p>
+        <p>STEVEN LEE MYERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

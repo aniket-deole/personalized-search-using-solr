@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chevy Will Be Ready When the Batteries Are</title>
+    <meta content="07NUGGETvolt" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817459"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">Lutz, Robert A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E2DD1130F93BA35752C0A9619C8B63" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chevy Will Be Ready When the Batteries Are</hl1>
+      </hedline>
+      <byline class="print_byline">By TIM MORAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Sunday: Chevrolet Volt design study</p>
+        <p>Is it real? Not now. Not next year. But General Motors will be ready when the batteries are.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Sunday: Chevrolet Volt design study</p>
+        <p>Is it real? Not now. Not next year. But General Motors will be ready when the batteries are.</p>
+        <p>What's the point? Plug-in hybrids have been the buzz among environmentalists, so G.M. set its engineers to building the best possible example -- a theoretical 150-mile-a-gallon car, complete with an onboard generating station.</p>
+        <p>What they said: ''Here it is, a fully electric-drive car from G.M. I am shocked -- I am truly shocked,'' said Robert A. Lutz, vice chairman of General Motors. ''It proves that environmentally conscious cars can actually look good.''</p>
+        <p>What they didn't say: This vehicle must wait for the battery of the future, not today's cumbersome and somewhat fragile energy storage systems.</p>
+        <p>What makes it tick? A small three-cylinder gas engine drives only a 53-kilowatt generator -- it is not connected to the wheels at all. The charge is stored in a long lithium-ion battery pack that runs down the middle of the car. A 160-horsepower electric motor moves the front-wheel-drive Volt, giving 0-60 acceleration of 8.5 seconds and a theoretical range of 640 miles. The car can also be plugged in to a standard wall outlet for a 6.5 hour recharge.</p>
+        <p>How much, how soon? No production estimates, no prices given. G.M. says the battery technology is expected to be available around 2010.</p>
+        <p>How's it look? Sleek and coupe-like, the Volt shows some of the design edge that characterizes Cadillac, with the sport sensibility of the Saturn Sky. The Chevrolet bow-tie logo was particularly prominent; one G.M. executive said informally that the Chevy badge was meant to show the Volt was a global concept.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

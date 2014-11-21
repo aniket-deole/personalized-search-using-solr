@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Louvre President Answers Critics of Foreign Outreach</title>
+    <meta content="09arts-2" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817612"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <org class="indexing_service">Louvre (Paris)</org>
+        <person class="indexing_service">Riding, Alan</person>
+        <person class="indexing_service">Loyrette, Henri</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E0D71530F93AA35752C0A9619C8B63" item-length="224" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Louvre President Answers Critics of Foreign Outreach</hl1>
+      </hedline>
+      <byline class="print_byline">By ALAN RIDING; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Riding, Alan</byline>
+      <abstract>
+        <p>Henri Loyrette, president and director of Louvre, responds to growing criticism of museum's new policy of establishing footholds abroad, arguing that Louvre cannot ignore 'internationalization' of museums; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Henri Loyrette, the president and director of the Louvre, has responded to growing criticism of the museum's new policy of establishing footholds abroad, arguing that the Louvre cannot ignore the ''internationalization'' of museums. Last month three prestigious figures of the French art world, including Françoise Cachin, former director of French museums, attacked the Louvre's current three-year loan program to the High Museum in Atlanta as well as a proposal to create a new ''Louvre'' in Abu Dhabi, capital of the United Arab Emirates. (Above, some of the busts from the Louvre now on display at the High Museum.) While the Louvre will receive $6.4 million for its Atlanta project, news reports suggest Abu Dhabi is willing to pay $500 million to $1 billion for the Louvre's name, expertise and the loan of artworks. A French art Web site (latribunedelart.com) has since organized a petition opposing these operations. Mr. Loyrette, who was reportedly at first unenthusiastic about the Abu Dhabi plan, told Le Monde yesterday that the Louvre's mandate was not merely to exhibit art. ''It also has a scientific, educational, social and diplomatic mission,'' he said. Feeding the debate is the absence of detailed information about the Abu Dhabi plan. The Culture Ministry, which is handling negotiations, has described the dossier as ''top secret.''</p>
+        <p>ALAN RIDING</p>
+      </block>
+      <block class="full_text">
+        <p>Henri Loyrette, the president and director of the Louvre, has responded to growing criticism of the museum's new policy of establishing footholds abroad, arguing that the Louvre cannot ignore the ''internationalization'' of museums. Last month three prestigious figures of the French art world, including Françoise Cachin, former director of French museums, attacked the Louvre's current three-year loan program to the High Museum in Atlanta as well as a proposal to create a new ''Louvre'' in Abu Dhabi, capital of the United Arab Emirates. (Above, some of the busts from the Louvre now on display at the High Museum.) While the Louvre will receive $6.4 million for its Atlanta project, news reports suggest Abu Dhabi is willing to pay $500 million to $1 billion for the Louvre's name, expertise and the loan of artworks. A French art Web site (latribunedelart.com) has since organized a petition opposing these operations. Mr. Loyrette, who was reportedly at first unenthusiastic about the Abu Dhabi plan, told Le Monde yesterday that the Louvre's mandate was not merely to exhibit art. ''It also has a scientific, educational, social and diplomatic mission,'' he said. Feeding the debate is the absence of detailed information about the Abu Dhabi plan. The Culture Ministry, which is handling negotiations, has described the dossier as ''top secret.''</p>
+        <p>ALAN RIDING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

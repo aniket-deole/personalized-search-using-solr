@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Longer Bowing to the Chef</title>
+    <meta content="31dinlett-3" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822822"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <person class="indexing_service">Bruni, Frank</person>
+        <person class="indexing_service">Martin, David (Lr Writer)</person>
+        <person class="indexing_service">Schmidt, Sandy</person>
+        <person class="indexing_service">Setlock, Randy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DE153FF932A05752C0A9619C8B63" item-length="355" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Longer Bowing to the Chef</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters comment on Jan 24 Frank Bruni column about impact of celebrity status of chefs; David Martin shares experience of restaurant rudeness; Randy Setlock and Sandy Schmidt say they have given up dining in Manhattan, citing negative experiences at restaurants there</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''You May Kiss the Chef's Napkin Ring,'' by Frank Bruni (Critic's Notebook, Jan. 24):</p>
+        <p>You hit the nail right on the head with your observations on restaurants. One night in Poughkeepsie we sat next to two people we knew. We ordered our food as they were just completing their dinner. In a matter of minutes a member of the staff came up to our friends and asked them to give up the table. I was flabbergasted. There needs to be a certain amount of time after the meal for conversation and settling. It's not a feeding trough.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''You May Kiss the Chef's Napkin Ring,'' by Frank Bruni (Critic's Notebook, Jan. 24):</p>
+        <p>You hit the nail right on the head with your observations on restaurants. One night in Poughkeepsie we sat next to two people we knew. We ordered our food as they were just completing their dinner. In a matter of minutes a member of the staff came up to our friends and asked them to give up the table. I was flabbergasted. There needs to be a certain amount of time after the meal for conversation and settling. It's not a feeding trough.</p>
+        <p>When restaurants act in a rude manner, I simply don't go back, no matter how good the food might be.</p>
+        <p>David Martin  Poughkeepsie, N.Y.</p>
+        <p>To the Editor:</p>
+        <p>Mr. Bruni's Critic's Notebook confirmed why we have given up on dining in Manhattan and some other cities. We used to enjoy going out for a creative, well-prepared meal, but after a number of negative experiences now choose to stay home and cook or go to the few local restaurants we trust.</p>
+        <p>These are some of our reasons:</p>
+        <p>Too many signature dishes that are just plain silly. Too many rude or undertrained people in the front of the house. Too many detailed specials, with too many ingredients pompously identified by locale or producer. Too little acknowledgement of problems. (When was the last time an item was taken off the check when it wasn't right?)</p>
+        <p>Too many restaurants that are clearly run for the staff or the owners, not the diners. Too much money for coffee, water, desserts and appetizers, all of which run up the bill beyond reason. We'll be paying cutlery rental next.</p>
+        <p>And too much emphasis in the trade and foodie press on celebrity chefs to the detriment of good solid kitchens that are not cutting-edge. That is the type of house we will continue to support.</p>
+        <p>The only thing that will make the industry sit up and take notice will be diners refusing to take this level of abuse. Diners of the world, unite!</p>
+        <p>Randy Setlock  Sandy Schmidt  Princeton, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

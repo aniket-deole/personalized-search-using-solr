@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="30obse" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/science/30observ.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070209T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1822621"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lizards</classifier>
+        <classifier class="indexing_service" type="descriptor">Smell</classifier>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Fishing, Commercial</classifier>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="indexing_service" type="descriptor">Human Metabolome Project</classifier>
+        <classifier class="indexing_service" type="descriptor">Snakes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Poisoning and Poisons</classifier>
+        <classifier class="indexing_service" type="descriptor">Toads</classifier>
+        <location class="indexing_service">Borneo (Indonesia)</location>
+        <location class="indexing_service">Indonesia</location>
+        <location class="indexing_service">Japan</location>
+        <org class="indexing_service">National Museum of Natural Sciences (Madrid, Spain)</org>
+        <org class="indexing_service">Biology Letters (Journal)</org>
+        <org class="indexing_service">University of Cambridge</org>
+        <org class="indexing_service">Proceedings of the Royal Society B: Biological Sciences</org>
+        <org class="indexing_service">University of Alberta</org>
+        <org class="indexing_service">University of Calgary</org>
+        <org class="indexing_service">Old Dominion University</org>
+        <org class="indexing_service">Proceedings of the National Academy of Sciences</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">Martin, Jose</person>
+        <person class="indexing_service">Scales, Helen</person>
+        <person class="indexing_service">Hutchinson, Deborah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Indonesia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Indonesia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Malaysia/Borneo</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="descriptor">Snakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reptiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amphibians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poisoning and Poisons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smell</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EED9143FF933A05752C0A9619C8B63" item-length="1037" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Poison Begets Poison</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Jose Martin and Pilar Lopez of National Museum of Natural Sciences, Madrid, lead study that finds Iberian rock lizards use scent to warn away other males that might provoke fight over mating rights; research is published in journal Biology Letters; Helen Scales of University of Cambridge leads study on impact of small fishermen on local reef fish populations around Borneo; research, which is published in Proceedings of the Royal Society B: Biological Sciences, suggests that high-end restaurant trade in reef fish has seriously diminished catch and abundance of fish brought in by local fishermen over eight-year study period; University of Alberta and University of Calgary scientists announce completion of first phase of Human Metabolome Project; metabolome is comprised of metabolites and other compounds produced or found in humans; Deborah Hutchinson of Old Dominion University leads study on Japanese grass snake that finds it gains its toxicity from poison toad it ingests; research, which is published in Proceedings of the National Academy of Sciences, finds that snakes can pass toxins on to offspring or they can develop toxins through periodic eating of toxic toads; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scent of a Competitor</p>
+        <p>It's a fact of life in the animal world: the males of many species fight over females. But fighting is costly (particularly to the loser), so in many species status ''badges'' have evolved -- patches of color on the chest or other clues that signal fighting ability. That way, a male that's feeling aggressive toward another may back off when it sees the other's badge, avoiding a costly battle.</p>
+        <p>But not all such clues are visual. The Iberian rock lizard, for example, has been found to use scent as a badge. Bigger males secrete more cholesterol from glands in their thighs, and the smell is enough to keep lesser fighters at bay. (In lizards, cholesterol production is very likely dependent on levels of sex steroids, so it is a good indicator of male dominance.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A poison-eating poisonous snake, the scent of an Iberian rock lizard, the Human Metablome Project and more.</p>
+      </block>
+      <block class="full_text">
+        <p>Scent of a Competitor</p>
+        <p>It's a fact of life in the animal world: the males of many species fight over females. But fighting is costly (particularly to the loser), so in many species status ''badges'' have evolved -- patches of color on the chest or other clues that signal fighting ability. That way, a male that's feeling aggressive toward another may back off when it sees the other's badge, avoiding a costly battle.</p>
+        <p>But not all such clues are visual. The Iberian rock lizard, for example, has been found to use scent as a badge. Bigger males secrete more cholesterol from glands in their thighs, and the smell is enough to keep lesser fighters at bay. (In lizards, cholesterol production is very likely dependent on levels of sex steroids, so it is a good indicator of male dominance.)</p>
+        <p>José Martín and Pilar López of the National Museum of Natural Sciences in Madrid made this discovery by experimenting with lizards they captured in the mountains of central Spain. Their findings are reported in Biology Letters.</p>
+        <p>First, they found that the concentration of cholesterol in femoral gland secretions increases with body size. Then they discovered that males responded more strongly to cholesterol than to other substances in the secretions (as measured by how frequently the lizards flicked their tongues). The males also responded more strongly to higher concentrations of cholesterol than to lower ones.</p>
+        <p>Lastly, the researchers set up confrontations between males of similar size, but raised the cholesterol levels of one of them by rubbing it with cholesterol-laden oil. In almost all cases, the unmanipulated lizard lost the confrontation, usually by running away. Clearly, the extra cholesterol coming from the other lizard convinced it that discretion was the better part of valor.</p>
+        <p>Restaurants and Reefs</p>
+        <p>There is much justifiable alarm over the decline of certain major fish species in the world's oceans, the result of over-harvesting by commercial fisheries that operate on huge scale.</p>
+        <p>But problems have been caused by smaller-scale fisheries too, including those that harvest coral reef fish for the high-end restaurant trade in Asia, particularly Hong Kong. These restaurants have a steady demand for live large wrasse (including threatened species like the Napoleon wrasse), grouper and snapper, which are caught by local fishermen (sometimes using illegal methods) in the Indian and Pacific Oceans.</p>
+        <p>Given the demand and high prices (a Napoleon wrasse, for example, can fetch $50 a pound in a restaurant), the fishery suffers through periods of boom and bust, at least on a countrywide scale. But there has been little study of the effects on local reef fish populations.</p>
+        <p>Helen Scales and colleagues at the University of Cambridge in England have attempted such an investigation. Using data from fish traders on the northern tip of Borneo, who recorded all their transactions with village fishermen for up to eight years, the researchers have shown that the fish trade severely affects the local populations of several species.</p>
+        <p>The total catch of Napoleon wrasse in one study area, for example, declined from about 600 pounds in 1995 to almost zero from 2001 to 2003. The leopard grouper catch declined from about 4,500 pounds in 1995 to about 2,300 pounds in 2002. Relative abundance, a measure of how much fish is harvested per fisherman or per boat trip, also declined significantly. The findings were published in Proceedings of the Royal Society B: Biological Sciences.</p>
+        <p>Body Chemistry</p>
+        <p>Scientists have announced the completion of the first phase of the Human Metabolome Project.</p>
+        <p>You read that right -- ''metabolome,'' not ''genome.'' Metabolome, as in the metabolites and other compounds produced or found in humans -- the body's chemical fingerprints.</p>
+        <p>In the two-year, $7.5 million project, scientists at the University of Alberta and the University of Calgary have compiled a database of 2,500 metabolites, 1,200 drugs and 3,500 food-related compounds. The information, they say, will help in the diagnosis and monitoring of disease.</p>
+        <p>Poison Begets Poison</p>
+        <p>The Japanese grass snake truly is what it eats. When it chows down on toxic toads, it becomes toxic too.</p>
+        <p>Deborah Hutchinson of Old Dominion University in Virginia and her colleagues report that the snake, Rhabdophis tigrinus, is a rare example of a vertebrate that can store the poisons found in its prey. By doing so, the researchers write in The Proceedings of the National Academy of Sciences, it keeps from becoming prey itself.</p>
+        <p>While many invertebrates, including sea slugs, store toxins obtained through diet for defensive purposes, only a few vertebrate species -- some tropical frogs and a couple of birds -- are known to do this.</p>
+        <p>But scientists had suspected that R. tigrinus might share the ability. When threatened, most individuals arch their neck so that two large organs under the skin, the nuchal glands, become prominent. It was thought that any bird or other predator trying to bite the neck would come into contact with fluid from these glands and get sick.</p>
+        <p>But snakes on one Japanese island, Kinkazan, don't exhibit this defensive behavior. Instead, they flee when attacked. Kinkazan is free of poison toads, so scientists put two and two together and figured that consumption of the toads (which R. tigrinus can tolerate) might be linked to the poison in the glands.</p>
+        <p>Dr. Hutchinson confirmed this suspicion by taking poison-free snakes from Kinkazan and feeding them poison toads. Within a short amount of time, the snakes' glands contained the toxins.</p>
+        <p>Dr. Hutchinson also found that offspring of Kinkazan snakes, which were poison-free at hatching, picked up the poisons by eating toads. And offspring of poisonous snakes contained poison when they were hatched. ''We now know that mothers that have a high concentration of these compounds are capable of passing them on to their offspring,'' she said.</p>
+        <p>Dr. Hutchinson said it seemed likely that the poisons were carried through the bloodstream to the nuchal glands, which are filled with capillaries. The toxins persist in the glands for up to six months, she said, although the snake eventually needs another toad meal to replenish the supply.</p>
+        <p>Dr. Hutchinson said there may be other snakes with the same ability. ''This is not the only snake with nuchal glands,'' she said. ''It's pretty likely that some of the other species do this too.''</p>
+        <p>Observatory</p>
+        <p>Correction:  February 9, 2007, Friday  A report in the Observatory column of Science Times on Jan. 30, about the Japanese grass snake, which obtains toxins from eating poisonous toads, misstated the number of nuchal glands, organs on the snake's neck where the toxins are stored. It has 10 to 20 nuchal glands, not 2.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 9, 2007, Friday</p>
+        <p>A report in the Observatory column of Science Times on Jan. 30, about the Japanese grass snake, which obtains toxins from eating poisonous toads, misstated the number of nuchal glands, organs on the snake's neck where the toxins are stored. It has 10 to 20 nuchal glands, not 2.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

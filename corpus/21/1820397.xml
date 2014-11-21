@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alexandra Goletka, Gregory Kwiat</title>
+    <meta content="21goletka" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820397"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Goletka, Alexandra Lauren</person>
+        <person class="indexing_service">Kwiat, Gregory Scott</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5DB1E30F932A15752C0A9619C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alexandra Goletka, Gregory Kwiat</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alexandra Lauren Goletka, the daughter of Eileen and Michael Goletka of London, was married last evening to Gregory Scott Kwiat, a son of Fern and Lowell Kwiat of Muttontown, N.Y. Rabbi David Lincoln officiated at the Rainbow Room in New York.</p>
+        <p>The bride, 26, is studying for a doctorate in child psychology at Yeshiva University. She graduated from the University of Pennsylvania and received a master's degree in counseling and guidance from New York University.</p>
+      </block>
+      <block class="full_text">
+        <p>Alexandra Lauren Goletka, the daughter of Eileen and Michael Goletka of London, was married last evening to Gregory Scott Kwiat, a son of Fern and Lowell Kwiat of Muttontown, N.Y. Rabbi David Lincoln officiated at the Rainbow Room in New York.</p>
+        <p>The bride, 26, is studying for a doctorate in child psychology at Yeshiva University. She graduated from the University of Pennsylvania and received a master's degree in counseling and guidance from New York University.</p>
+        <p>Her father is the chairman of Bolton Group International, a real estate holding and investment company in London. Her mother is a partner in Khedouri Associates, a New York firm that invests and manages commercial properties.</p>
+        <p>The bridegroom, 29, graduated summa cum laude from Penn, where the couple met and from which he also received an M.B.A. He is a partner in Kwiat, his family's diamond business in New York.</p>
+        <p>His father is a president of the company. The bridegroom's mother is a founder of the Peer AIDS Education Program for high school students at North Shore University Hospital in Manhasset, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

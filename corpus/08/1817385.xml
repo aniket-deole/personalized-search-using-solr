@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At the Capitol, Glimpses Of a Work in Progress</title>
+    <meta content="08center" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817385"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Capitol (Washington, DC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Hulse, Carl</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E4DB1530F93BA35752C0A9619C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At the Capitol, Glimpses Of a Work in Progress</hl1>
+      </hedline>
+      <byline class="print_byline">By CARL HULSE</byline>
+      <byline class="normalized_byline">Hulse, Carl</byline>
+      <abstract>
+        <p>Capitol Visitor Center is scheduled to open in late 2007; 580,000-square-foot underground complex is beneath east plaza of Capitol; cost exceeds $540 million; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At more than $540 million and four years and counting, the Capitol Visitor Center is costing more and taking longer to build than anyone envisioned.</p>
+        <p>Yet when it opens to the public, the huge underground complex, which is in the final stages of construction beneath the east plaza of the Capitol, should transform the experience of the millions who each year visit what is essentially a landmark office building, but also the nation's best-known symbol of democracy.</p>
+      </block>
+      <block class="full_text">
+        <p>At more than $540 million and four years and counting, the Capitol Visitor Center is costing more and taking longer to build than anyone envisioned.</p>
+        <p>Yet when it opens to the public, the huge underground complex, which is in the final stages of construction beneath the east plaza of the Capitol, should transform the experience of the millions who each year visit what is essentially a landmark office building, but also the nation's best-known symbol of democracy.</p>
+        <p>Visitors will enter a grand hall with skylights providing a new perspective on the Capitol dome. Instead of lining up outside to await a guided tour, they will be able to stroll through an interactive museum.</p>
+        <p>The 580,000-square-foot center will allow for public display of statues and artifacts now tucked away, including the catafalque that held the coffins of Lincoln and other figures. An exhibition hall will include a hands-on model of the dome and recognize the slave labor used in the Capitol's construction. The center will also include a restaurant for up to 600 people and more than two dozen bathrooms, amenities currently in short supply.</p>
+        <p>The long-discussed push for the visitor center gained momentum in 1998 as a way to enhance the sometimes haphazard tours and move security screening away from the immediate Capitol entrances after the shooting of two police officers. The Sept. 11 attacks gave the project new impetus, expanded its scope and drove up the cost, which includes tens of millions of dollars in security features the public will not see.</p>
+        <p>The center also has committee and conference rooms for the House and the Senate, a tunnel for truck traffic, a connection to the Library of Congress, and an auditorium able to serve as the House and Senate chamber in the event of an emergency or to allow for remodeling of the traditional chambers.</p>
+        <p>The date remains in flux, but the architect of the Capitol hopes to open the center by late this year. Much of the center will be adorned in marble, bronze and stone to keep it in character with the Capitol.</p>
+        <p>''We are not cutting corners,'' said Tom Fontana, a spokesman for the project. ''All these things have to be just right.''</p>
+        <p>CARL HULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

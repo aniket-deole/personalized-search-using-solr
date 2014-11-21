@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Body Found In Central Park</title>
+    <meta content="17MBRFS-5" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819536"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Death and Dying</classifier>
+        <location class="indexing_service">Central Park (NYC)</location>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Vasquez, Emily</person>
+        <person class="indexing_service">Bond, Donald</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E7DD1130F934A25752C0A9619C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Body Found In Central Park</hl1>
+      </hedline>
+      <byline class="print_byline">By EMILY VASQUEZ; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Vasquez, Emily</byline>
+      <abstract>
+        <p>Donald Bond is found dead in New York City's Central Park; police say Bond had no visible signs of trauma and nothing appeared to have been stolen from him (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A city parks department employee discovered a man's body yesterday morning near the Ramble and the 77th Street pedestrian entrance to Central Park, the police said. The dead man, Donald Bond, 43, was dressed in blue jeans, cowboy boots and an argyle sweater and was lying face down on a rocky slope leading to a small creek. He had no visible signs of trauma and nothing appeared to have been stolen from him, the police said. Mr. Bond, who lived on Third Avenue and 102nd Street, was found about 8 a.m. and was believed to have died earlier in the morning, the police said.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+      <block class="full_text">
+        <p>A city parks department employee discovered a man's body yesterday morning near the Ramble and the 77th Street pedestrian entrance to Central Park, the police said. The dead man, Donald Bond, 43, was dressed in blue jeans, cowboy boots and an argyle sweater and was lying face down on a rocky slope leading to a small creek. He had no visible signs of trauma and nothing appeared to have been stolen from him, the police said. Mr. Bond, who lived on Third Avenue and 102nd Street, was found about 8 a.m. and was believed to have died earlier in the morning, the police said.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ADAM, ALEXANDER</title>
+    <meta content="dn012708.1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821669"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ADAM, ALEXANDER</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E1DE173AF934A15752C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ADAM, ALEXANDER</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ADAM--Alexander. 1/11/84-1/25/07. It has been a year, Alex, since you lost your battle with Ewings Sarcoma. Every day we remember the calm grace and deep courage with which you faced the awful pain of disease and your inevitable death. We miss you and all the complexities and contradictions of wonderful you-the shy guy who loved the spotlight, the careful observer of others who loved to talk about himself-the guy who bumbled masterfully through life somehow ending up exactly where he wanted to bedeeply kind, funny, original, smart, handsome you. We even miss your dreadful taste in sweaters. You touched people in ways you never really understood, darling. The world is a darker place without you. Love, mom, dad, Nick and Dash.</p>
+      </block>
+      <block class="full_text">
+        <p>ADAM--Alexander. 1/11/84-1/25/07. It has been a year, Alex, since you lost your battle with Ewings Sarcoma. Every day we remember the calm grace and deep courage with which you faced the awful pain of disease and your inevitable death. We miss you and all the complexities and contradictions of wonderful you-the shy guy who loved the spotlight, the careful observer of others who loved to talk about himself-the guy who bumbled masterfully through life somehow ending up exactly where he wanted to bedeeply kind, funny, original, smart, handsome you. We even miss your dreadful taste in sweaters. You touched people in ways you never really understood, darling. The world is a darker place without you. Love, mom, dad, Nick and Dash.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

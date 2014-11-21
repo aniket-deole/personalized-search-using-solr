@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Feeling a Chill? It's Cassoulet Weather</title>
+    <meta content="17cass" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819375"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7D71030F934A25752C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Feeling a Chill? It's Cassoulet Weather</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Restaurants specializing in cassoulet noted; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With wintry days starting to bite back, cassoulet, the hearty southwestern French stew of white beans and preserved meats, is finally whetting appetites around town. Several restaurants have started serving this specialty.</p>
+        <p>Among them are Savoy, below, 70 Prince Street (Crosby Street), where black iron crocks of cassoulet, made with the proper tarbais beans and a crust of crumbs, are tucked into the fireplaces. A generous portion made with duck confit, sausage, lamb and pork belly is $32 through Feb. 11: (212) 219-8570.</p>
+      </block>
+      <block class="full_text">
+        <p>With wintry days starting to bite back, cassoulet, the hearty southwestern French stew of white beans and preserved meats, is finally whetting appetites around town. Several restaurants have started serving this specialty.</p>
+        <p>Among them are Savoy, below, 70 Prince Street (Crosby Street), where black iron crocks of cassoulet, made with the proper tarbais beans and a crust of crumbs, are tucked into the fireplaces. A generous portion made with duck confit, sausage, lamb and pork belly is $32 through Feb. 11: (212) 219-8570.</p>
+        <p>At Jarnac, 328 West 12th Street, cassoulet made with white northern beans, pork cheeks, sausage and duck confit is $26, (212) 924-3413; at Les Halles, 411 Park Avenue South (28th Street), (212) 679-4111, it's $22.50.</p>
+        <p>L'Absinthe, 227 East 67th Street, (212) 794-4950, will serve it for the weeks of Jan. 22, Feb. 19, March 19 and April 16, $34. Gavroche, 212 West 14th Street, (212) 647-8553, serves its on Thursdays, $23.</p>
+        <p>Those who prefer to serve this dish at home can assemble it from a kit D'Artagnan sells. The package consists of tarbais beans, confits of duck legs and duck gizzards, duck and garlic sausages, pork belly, duck fat and demi-glace. You add your own onions, carrots, garlic, tomato and seasonings.</p>
+        <p>The ingredients serve six to eight people; it's $106.99 from dartagnan.com.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BEACHES OF BANGLADESH</title>
+    <meta content="14MAIL-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818670"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Bangladesh</location>
+        <person class="indexing_service">Mayer, Don</person>
+        <person class="indexing_service">Koyen, Jeff</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Bangladesh</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE0DC1230F937A25752C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BEACHES OF BANGLADESH</hl1>
+      </hedline>
+      <abstract>
+        <p>Don Mayer letter on Jeff Koyen's December 24, 2006, travel article on Bangladesh</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: As one who served in the Peace Corps in Bangladesh in 2000-2001, I feel compelled to add a bit of realism to Jeff Koyen's ''Bangladesh: Lured by the Beach Side of a Beleaguered Land'' (Next Stop, Dec. 24). During my group's service in Bangladesh, we trained in Cox's Bazar, and yes, the beach was beautiful, but two of our group's members were attacked while they walked on the beach. Bangladesh is a rough and tumble place. For safety and security reasons, the Peace Corps no longer has a program there.</p>
+        <p>Don Mayer  Jeffersonville, Vt.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: As one who served in the Peace Corps in Bangladesh in 2000-2001, I feel compelled to add a bit of realism to Jeff Koyen's ''Bangladesh: Lured by the Beach Side of a Beleaguered Land'' (Next Stop, Dec. 24). During my group's service in Bangladesh, we trained in Cox's Bazar, and yes, the beach was beautiful, but two of our group's members were attacked while they walked on the beach. Bangladesh is a rough and tumble place. For safety and security reasons, the Peace Corps no longer has a program there.</p>
+        <p>Don Mayer  Jeffersonville, Vt.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

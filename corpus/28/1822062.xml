@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Nuances In a Sauvignon</title>
+    <meta content="28wine" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/dining/28wine.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822062"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WINE UNDER $20"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Wine Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E2DC173FF93BA15752C0A9619C8B63" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Nuances In a Sauvignon</hl1>
+        <hl2 class="online_headline">Global Nuances in a Sauvignon</hl2>
+      </hedline>
+      <byline class="print_byline">By HOWARD G. GOLDBERG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The nuanced 2006 sauvignon blanc from Blue Grove Hill, the second label of Capaia, a new producer in Philadelphia, South Africa, is cosmopolitan.</p>
+        <p>Its citric tang is found in expert sauvignons for which its winemaker, Manfred Tement, is famed in South Styria, an Austrian region. Its aromatic body evokes rich California sauvignons. Its herbal hints are found in New Zealand sauvignons. It is perfect for oysters.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The nuanced 2006 sauvignon blanc from Blue Grove Hill, the second label of Capaia, a new producer in Philadelphia, South Africa, is cosmopolitan.</p>
+      </block>
+      <block class="full_text">
+        <p>The nuanced 2006 sauvignon blanc from Blue Grove Hill, the second label of Capaia, a new producer in Philadelphia, South Africa, is cosmopolitan.</p>
+        <p>Its citric tang is found in expert sauvignons for which its winemaker, Manfred Tement, is famed in South Styria, an Austrian region. Its aromatic body evokes rich California sauvignons. Its herbal hints are found in New Zealand sauvignons. It is perfect for oysters.</p>
+        <p>Morrell Wine Xchange, 1035 Third Avenue (61st Street), charges $18.95.</p>
+        <p>HOWARD G. GOLDBERG</p>
+        <p>WINE UNDER $20</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

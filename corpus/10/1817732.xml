@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WALLACH, IRA D.</title>
+    <meta content="dn011007" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817732"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WALLACH, IRA D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE2D81E3AF933A25752C0A9619C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WALLACH, IRA D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WALLACH--Ira D. The Trustees and staff of The Metropolitan Museum of Art mourn the loss of Ira D. Wallach, who was a friend, colleague, and benefactor of this institution for many years. With his wife, Miriam, he demonstrated a keen interest in art through philanthropy, generously donating works to the collection and creating endowments to support acquisitions as well as special exhibitions, publications, and education programs in the area of Asian art. He will be greatly missed. We extend our condolences to his wife and to the entire family. James R. Houghton, Chrman Philippe de Montebello, Dir Emily K. Rafferty, President</p>
+      </block>
+      <block class="full_text">
+        <p>WALLACH--Ira D. The Trustees and staff of The Metropolitan Museum of Art mourn the loss of Ira D. Wallach, who was a friend, colleague, and benefactor of this institution for many years. With his wife, Miriam, he demonstrated a keen interest in art through philanthropy, generously donating works to the collection and creating endowments to support acquisitions as well as special exhibitions, publications, and education programs in the area of Asian art. He will be greatly missed. We extend our condolences to his wife and to the entire family. James R. Houghton, Chrman Philippe de Montebello, Dir Emily K. Rafferty, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

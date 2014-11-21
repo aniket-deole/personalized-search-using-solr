@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mothers and Immunization</title>
+    <meta content="23lett-3" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Education; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820933"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Vaccination and Immunization</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicaid</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <person class="indexing_service">Francis, Marcie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EED81F30F930A15752C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mothers and Immunization</hl1>
+      </hedline>
+      <abstract>
+        <p>Marcie Francis letter on January 19 article about childhood immunizations suggests that less-educated mothers are more likely to receive Medicaid assistance, which proactively informs parents about immunization</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''More Education May Not Mean More Vaccination'' (Jan. 16): Researchers may be overlooking one fairly obvious variable that explains why children of less-educated mothers are more likely to get timely vaccinations than children of more well-educated mothers: the mothers with less education are probably more likely to be receiving state Medicaid assistance.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''More Education May Not Mean More Vaccination'' (Jan. 16): Researchers may be overlooking one fairly obvious variable that explains why children of less-educated mothers are more likely to get timely vaccinations than children of more well-educated mothers: the mothers with less education are probably more likely to be receiving state Medicaid assistance.</p>
+        <p>My oldest child (then 2) qualified for Medicaid while my husband and I were both in graduate school. It seemed that families on Medicaid were the target demographic for every public health campaign, especially immunization, and we were flooded with information. With our second child, we had private insurance, and public health information has been minimal.</p>
+        <p>Marcie Francis  Bloomington, Ind.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

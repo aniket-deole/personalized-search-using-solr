@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vatican and China Open Talks on Improving Ties</title>
+    <meta content="20pope" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/20/world/europe/20pope.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820019"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <location class="indexing_service">China</location>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Fisher, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <location class="online_producer">China</location>
+        <org class="online_producer">Roman Catholic Church</org>
+        <person class="online_producer">Benedict XVI</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E0DA1E30F933A15752C0A9619C8B63" item-length="302" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vatican and China Open Talks on Improving Ties</hl1>
+        <hl2 class="online_headline">Vatican and China Open Talks on Improving Ties</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN FISHER</byline>
+      <byline class="normalized_byline">Fisher, Ian</byline>
+      <dateline>ROME, Jan. 19</dateline>
+      <abstract>
+        <p>Vatican begins two days of meetings over church's relations with China, which have soured because of dispute over right to appoint bishops; experts say they expect top Vatican officials and Chinese clergymen to develop more uniform policy toward China after government-controlled church there appointed three bishops last year without Vatican's consent (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Vatican began two days of meetings on Friday over the church's relations with China, which have soured because of a dispute over the right to appoint bishops.</p>
+        <p>The meetings were called to discuss ''problems between the Holy See and China,'' the Vatican's top spokesman, the Rev. Federico Lombardi, said Thursday. Experts say they expect top Vatican officials and Chinese clergymen to develop a more uniform policy toward China after the government-controlled church there appointed three bishops last year without the Vatican's consent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A dispute over the right to appoint bishops has soured relations between the church and China.</p>
+      </block>
+      <block class="full_text">
+        <p>The Vatican began two days of meetings on Friday over the church's relations with China, which have soured because of a dispute over the right to appoint bishops.</p>
+        <p>The meetings were called to discuss ''problems between the Holy See and China,'' the Vatican's top spokesman, the Rev. Federico Lombardi, said Thursday. Experts say they expect top Vatican officials and Chinese clergymen to develop a more uniform policy toward China after the government-controlled church there appointed three bishops last year without the Vatican's consent.</p>
+        <p>''It has become unbearable, this fact,'' said the Rev. Bernardo Cervellera, editor of AsiaNews, a Roman Catholic news service that closely follows the issue. ''The government just wants to control things.''</p>
+        <p>Pope Benedict XVI has made restoring diplomatic relations with China -- cut off in 1951 after the Communists came to power -- a goal of his papacy, and each side has repeatedly expressed the desire to make that happen.</p>
+        <p>But talks have foundered over the appointment of the three bishops by the Chinese Patriotic Catholic Church Association, which oversees the government-approved church in mainland China. Chinese churchmen have accused the government of kidnapping members of the clergy and forcing them to take part in the consecration of the third bishop.</p>
+        <p>The Vatican strongly asserts its right to control the selection of bishops, though it has let governments and dioceses suggest candidates. The Chinese government has denied the accusations of kidnapping.</p>
+        <p>Father Cervellera said progress could be made only if the Chinese government clamped down on the Patriotic Association, something that he speculated could happen as the 2008 Olympics in Beijing approach.</p>
+        <p>''They want to show that China is a modern country, a great country at the center of the world,'' he said. ''They cannot have this face of a dictatorial country and of oppressing freedom of religion.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

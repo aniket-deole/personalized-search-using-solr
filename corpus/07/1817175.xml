@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>International Satin</title>
+    <meta content="07parties" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817175"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="EVENING HOURS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <classifier class="indexing_service" type="descriptor">Debutantes</classifier>
+        <classifier class="indexing_service" type="descriptor">International Debutante Ball</classifier>
+        <person class="indexing_service">Cunningham, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Society</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E1D61430F934A35752C0A9619C8B63" item-length="5" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>International Satin</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham
+&lt;p&gt;</byline>
+      <abstract>
+        <p>Bill Cunningham Evening Hours photos of participants at International Debutante Ball in New York City</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>EVENING HOURS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

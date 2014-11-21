@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tiny Shoppers, Big Appetites</title>
+    <meta content="10baby" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817744"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Supermarkets</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Kidfresh (NYC Store)</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Supermarkets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E7DF1230F933A25752C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tiny Shoppers, Big Appetites</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Kidfresh store in Manhattan offers prepared food boxes to appeal to kids; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kidfresh, a bright children's food store on the Upper East Side, is the result of Matt Cohen's light bulb. He said he was inspired to start the company because he had to fix lunches for his two young children. ''There are lots of choices in prepared foods for adults, but for kids it's mostly fast food or nothing,'' he said.</p>
+        <p>The store offers prepared food boxes for breakfast, lunch, snacks and dinner. Dinners ($4.95 to $5.95) consist of a main dish, like macaroni and cheese, and a side, suitable for reheating. Lunches ($6.75 to $7.25) come with a drink and a dessert in addition to a main dish, like a pasta salad, and a side dish. The food assortments are color-coded according to age group.</p>
+      </block>
+      <block class="full_text">
+        <p>Kidfresh, a bright children's food store on the Upper East Side, is the result of Matt Cohen's light bulb. He said he was inspired to start the company because he had to fix lunches for his two young children. ''There are lots of choices in prepared foods for adults, but for kids it's mostly fast food or nothing,'' he said.</p>
+        <p>The store offers prepared food boxes for breakfast, lunch, snacks and dinner. Dinners ($4.95 to $5.95) consist of a main dish, like macaroni and cheese, and a side, suitable for reheating. Lunches ($6.75 to $7.25) come with a drink and a dessert in addition to a main dish, like a pasta salad, and a side dish. The food assortments are color-coded according to age group.</p>
+        <p>The store has a special doorway and mini shopping carts, just for children. There is a kitchen on the premises where the food is prepared using preservative-free and, whenever possible, organic ingredients.</p>
+        <p>A counter serves ice cream, sandwiches, smoothies and fruit kebabs. The store also sells cereals and crackers, dairy products and frozen foods, mostly organic. Frozen baby food is available, as are food-related toys, games and books. Kidfresh is at 1628 Second Avenue (84th Street), (800) 365-4337.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

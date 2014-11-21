@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Controversial in Any Medium</title>
+    <meta content="21alsmail-4" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820296"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="'DUTCHMAN'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Eder, Bruce</person>
+        <person class="indexing_service">Baraka, Amiri</person>
+        <object.title class="indexing_service">Dutchman (Play)</object.title>
+        <object.title class="indexing_service">Dutchman (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1D91130F932A15752C0A9619C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Controversial in Any Medium</hl1>
+      </hedline>
+      <abstract>
+        <p>Bruce Eder letter about Jan 14 article on revival of Amiri Baraka play Dutchman; describes problems making film adaptation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Return to Rage, Played Out in Black and White'' by Celia McGee [Jan. 14]:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Return to Rage, Played Out in Black and White'' by Celia McGee [Jan. 14]:</p>
+        <p>The critics' troubled response to Amiri Baraka's ''Dutchman'' in 1964 was echoed by New York City officialdom when it came to the 1966 film adaptation. Anthony Harvey wanted to get some shots in the subways but was refused permission by the city, owing to the volatile nature of the play. As he recounted to me in a 1982 interview, he was forced to shoot surreptitiously, managing to elude a patrolman demanding to see a permit. The rest of the movie was shot on a London soundstage. The film -- in black and white of course -- was just as unpopular with American movie critics, but it won a jury prize at Cannes.</p>
+        <p>Bruce Eder  Manhattan</p>
+        <p>The writer is a film and rock critic.</p>
+        <p>'DUTCHMAN'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

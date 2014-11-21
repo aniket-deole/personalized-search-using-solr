@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pictures With Sharper Detail in Shadow and in Light</title>
+    <meta content="18camera" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/technology/18camera.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819662"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <org class="online_producer">Nikon Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E2DA1130F93BA25752C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pictures With Sharper Detail in Shadow and in Light</hl1>
+        <hl2 class="online_headline">Pictures With Sharper Detail in Shadow and in Light</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <abstract>
+        <p>Pictures 8</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dynamic range is the ability to capture details even in a scene's darkest shadows and its brightest highlights, and it has always been an issue in photography.</p>
+        <p>Digital photography, in general, suffers from a more limited dynamic range than many types of film.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Fujifilm FinePix S5 Pro includes software that analyzes images during playback to find faces and then enlarge them on the camera’s rear monitor.</p>
+      </block>
+      <block class="full_text">
+        <p>Dynamic range is the ability to capture details even in a scene's darkest shadows and its brightest highlights, and it has always been an issue in photography.</p>
+        <p>Digital photography, in general, suffers from a more limited dynamic range than many types of film.</p>
+        <p>The Fujifilm FinePix S5 Pro is the second camera from Fuji that tries to improve on that record.</p>
+        <p>Like the S3 model it replaces (Fuji skipped over the S4), the S5 employs an unusual image-sensing chip. Each of its 6.17 million pixels has a secondary, smaller pixel to expand its light-gathering abilities. As a result, S5 users can expand the camera's dynamic range up to 400 percent in five increments. Alternatively, the camera's image processor can automatically choose the best level of expansion. With the earlier model, the feature was either just on or off.</p>
+        <p>The S5, which will be available next month for $2,000 without a lens, is otherwise very much like the Nikon D200 on which it is based. Fuji does include one novelty the Nikon lacks: software that analyzes images during playback to find faces and then enlarge them on the camera's rear monitor so you can see if someone blinked.</p>
+        <p>IAN AUSTEN</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Historic Events In Jewstown</title>
+    <meta content="l14jersey-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818951"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Revolutionary War, American (1775-83)</classifier>
+        <classifier class="indexing_service" type="descriptor">Jews</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Klerman, Jean</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E5DE1030F937A25752C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Historic Events In Jewstown</hl1>
+      </hedline>
+      <abstract>
+        <p>Jewish Heritage Museum of Monmouth County co-president Jean Klerman letter on December 24 article on New Jersey's role in Revolutionary War</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>An interesting footnote to the racial and religious diversity described in ''Reclaiming the Revolution'' (Dec. 24) concerns the Colonel Tye mentioned in the article and the tiny community of Jewstown (the site of present-day Colts Neck).</p>
+        <p>Jewstown enjoyed a brief notoriety around the time of the Battle of Monmouth (1778), appearing on several Revolutionary War maps and referred to in Gen. Henry Clinton's memoir of the Monmouth campaign.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>An interesting footnote to the racial and religious diversity described in ''Reclaiming the Revolution'' (Dec. 24) concerns the Colonel Tye mentioned in the article and the tiny community of Jewstown (the site of present-day Colts Neck).</p>
+        <p>Jewstown enjoyed a brief notoriety around the time of the Battle of Monmouth (1778), appearing on several Revolutionary War maps and referred to in Gen. Henry Clinton's memoir of the Monmouth campaign.</p>
+        <p>Hart's Tavern, located in the center of Jewstown, was established by Levy Hart, a naturalized Jewish merchant who married Catherine Applegate, a local Protestant. Three years after Hart's death in 1775, Catherine married Joshua Huddy, who subsequently moved into the Hart home. Captain Huddy of the New Jersey Militia was Monmouth County's most famous patriot, and it was while leading an attack in 1780 upon the Hart-Huddy house (hoping to kill or capture Huddy) that Tye sustained the wound that led to his death.</p>
+        <p>Jean Klerman  Fair Haven</p>
+        <p>The writer is co-president, Jewish Heritage Museum of Monmouth County.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

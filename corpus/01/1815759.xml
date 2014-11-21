@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Something Wiki Is Coming To the Web Search Market</title>
+    <meta content="01wales" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/01/technology/01wales.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815759"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <location class="indexing_service">Kazakhstan</location>
+        <location class="indexing_service">China</location>
+        <org class="indexing_service">CITIC Group</org>
+        <org class="indexing_service">Nation's Energy Company</org>
+        <org class="indexing_service">KazMunaiGas</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Kazakhstan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Kazakhstan</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Wikipedia</org>
+        <person class="online_producer">Wales, Jimmy</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0D91630F932A35752C0A9619C8B63" item-length="553" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Something Wiki Is Coming To the Web Search Market</hl1>
+        <hl2 class="online_headline">Something Wiki Is Coming to the Web Search Market</hl2>
+      </hedline>
+      <byline class="print_byline">By NOAM COHEN</byline>
+      <abstract>
+        <p>China's CITIC Group buys oil assets of Nations Energy Company; grants Kazakhstan's state-owned KazMunaiGas 50 percent interest in company (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The voluntary collaborative ''wiki'' model, which was marshaled to create the behemoth online encyclopedia Wikipedia, is being recruited for another challenge: to build a better search engine.</p>
+        <p>The project, called Wikiasari for now, was announced in December by Wikia, a for-profit company co-founded by Jimmy Wales, the former options trader who has been the public face of Wikipedia. Like Wikipedia, a wiki search engine would be based on the idea that volunteers can do the work of paid specialists -- in the case of search engines, the work of sophisticated computers that evaluate Web sites for relevance using secret criteria.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The voluntary collaborative “wiki” model used to create the Wikipedia encyclopedia is being recruited for another challenge: to build a better search engine.</p>
+      </block>
+      <block class="full_text">
+        <p>The voluntary collaborative ''wiki'' model, which was marshaled to create the behemoth online encyclopedia Wikipedia, is being recruited for another challenge: to build a better search engine.</p>
+        <p>The project, called Wikiasari for now, was announced in December by Wikia, a for-profit company co-founded by Jimmy Wales, the former options trader who has been the public face of Wikipedia. Like Wikipedia, a wiki search engine would be based on the idea that volunteers can do the work of paid specialists -- in the case of search engines, the work of sophisticated computers that evaluate Web sites for relevance using secret criteria.</p>
+        <p>''The one thing that I feel like I know how to do is build communities,'' Mr. Wales said. ''I mean it differently than the way it is often abused in the Internet community as feedback ratings. I mean people who know each other, who have discussions. In Wikipedia, there are discussions. We want to encourage that here.''</p>
+        <p>The Wikia search engine would allow users to see how the results were generated and modify those rankings using their own knowledge of the Internet. Any changes could be reversed by a different user, and, as in Wikipedia, long discussions could ensue over the decisions.</p>
+        <p>''I suspect there is a need for categorization and grouping'' by the volunteers, Mr. Wales said. ''It would not make sense to have a dialogue for each long-tail search. For popular searches, it makes sense.''</p>
+        <p>''The question is: Will there be a demand?'' he said. ''I think there will be. People are not happy with the lack of transparency.''</p>
+        <p>Gil Penchina, the chief executive of Wikia, compared the search-engine process to filtering spam.</p>
+        <p>''Humans are pretty good at that; machines are not so good at that,'' he said. ''What is obvious to a person is not always obvious to a machine. There are all sorts of tricks to fool the search engines. We think that people are better than machines at making decisions about what are proper results for any search term you type in.''</p>
+        <p>Mr. Wales and Angela Beesley, a co-founder of Wikia, are pivoting from the nonprofit encyclopedia to the world of dot-com start-ups.</p>
+        <p>Mr. Penchina said that Wikia, which is based in Menlo Park, Calif., had raised $4 million from a group of investors, and that in December it had additionally received ''an undisclosed, significant cash investment'' from Amazon.com.</p>
+        <p>As for the idea of getting people to donate their work to a for-profit operation, Mr. Wales said, ''Part of the incentive problem is making it fun.''</p>
+        <p>As Wikia's profile increases, the officials of the nonprofit Wikimedia Foundation -- which says it is dedicated to encouraging the growth, development and distribution of free, multilingual content -- say they are trying to make the distinctions between the two more clear. The foundation, ''was originally very related to Wikia,'' said Florence Devouard, who replaced Mr. Wales as chairman, in an e-mail message from France where she lives. And ''accordingly, in the past few months, we have worked on entirely separating the two entities.''</p>
+        <p>As for concerns that the Wikia search engine, perhaps with groupings and categories, could become more like a for-profit Wikipedia, Ms. Devouard said in the e-mail message that she was not worried.</p>
+        <p>''There is already a Wikipedia and people aren't going to waste their time reinventing the wheel.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

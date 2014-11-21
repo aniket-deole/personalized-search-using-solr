@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Peterson Considers Jump From Oklahoma to N.F.L.</title>
+    <meta content="03peterson" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/03/sports/ncaafootball/03peterson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816087"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Draft and Recruitment (Sports)</classifier>
+        <org class="indexing_service">University of Oklahoma</org>
+        <person class="indexing_service">Thamel, Pete</person>
+        <person class="indexing_service">Peterson, Adrian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Draft and Recruitment (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <org class="online_producer">University of Oklahoma</org>
+        <org class="online_producer">National Football League</org>
+        <person class="online_producer">Peterson, Adrian</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EEDD1730F930A35752C0A9619C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Peterson Considers Jump From Oklahoma to N.F.L.</hl1>
+        <hl2 class="online_headline">Peterson Considers Jump From Oklahoma to N.F.L.</hl2>
+      </hedline>
+      <byline class="print_byline">By PETE THAMEL</byline>
+      <byline class="normalized_byline">Thamel, Pete</byline>
+      <dateline>GLENDALE, Ariz., Jan. 2</dateline>
+      <abstract>
+        <p>Oklahoma University football player Adrian Peterson may leave for NFL draft; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lost in the aftermath of Oklahoma's wild overtime loss to Boise State in the Fiesta Bowl on Monday night was what might have been the final college game of the star tailback Adrian Peterson.</p>
+        <p>Peterson, a junior, returned to action for the first time since breaking his collarbone on Oct. 14 and delivered an unimpressive performance, with 77 yards on 20 carries.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Lost in the aftermath of Oklahoma’s wild overtime loss to Boise State in the Fiesta Bowl on Monday night was that it was probably the final game of the star tailback Adrian Peterson’s career.</p>
+      </block>
+      <block class="full_text">
+        <p>Lost in the aftermath of Oklahoma's wild overtime loss to Boise State in the Fiesta Bowl on Monday night was what might have been the final college game of the star tailback Adrian Peterson.</p>
+        <p>Peterson, a junior, returned to action for the first time since breaking his collarbone on Oct. 14 and delivered an unimpressive performance, with 77 yards on 20 carries.</p>
+        <p>He did score two touchdowns, including a 25-yard scoring burst around the left side on Oklahoma's first play of overtime. But he failed to live up to the lofty standards he set for himself in his three seasons at Oklahoma. At the end, like many who watched and played in the game, Peterson was left nearly speechless.</p>
+        <p>''My head is just spinning,'' he said. He added later: ''I feel terrible. We lost.''</p>
+        <p>Peterson was expected to declare after the game that he would go to the National Football League. When his closest friend on the team, Marcus Walker, was asked about Peterson's future, he said that he, too, expected an announcement. ''I'm pretty sure he'll answer that question tonight,'' Walker said.</p>
+        <p>But Peterson declined to state his intentions, saying he had until Jan. 16 to declare for the draft.</p>
+        <p>''I just want to take my time to think things over thoroughly,'' he said. ''I'm going to take my time.''</p>
+        <p>Peterson may be considered the top running back available in the draft. He had 4,045 rushing yards in his three seasons at Oklahoma.</p>
+        <p>Those statistics are more impressive when considering that he missed seven games this season because of his collarbone injury and parts of last season with an ankle injury.</p>
+        <p>''I think he's one of the best players to ever suit up in college football,'' Walker said. ''And when he's ready, he'll go and become one of the best running backs to ever play the game.''</p>
+        <p>FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

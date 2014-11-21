@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dropping the Curtain on 'Vagina Monologues'</title>
+    <meta content="22mono" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/theater/22mono.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820592"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E2DB1F30F932A15752C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dropping the Curtain on 'Vagina Monologues'</hl1>
+        <hl2 class="online_headline">Dropping the Curtain on ‘Vagina Monologues’</hl2>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>St. John's University, one of the country's largest Roman Catholic universities, has decided not to allow Eve Ensler's "Vagina Monologues" to be performed on campus.</p>
+        <p>As reported in The New York Post, Alisha Brizicky, 21, a senior, had been planning to present three performances in February as part of the V-Day College Campaign, an annual festival that raises money to stop violence against women and girls. In December, administrators at the university's campus in Queens told Ms. Brizicky they would not allow the play to be performed on campus.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>St. John's University, one of the country's largest Roman Catholic universities, has decided not to allow Eve Ensler's "Vagina Monologues" to be performed on campus.</p>
+      </block>
+      <block class="full_text">
+        <p>St. John's University, one of the country's largest Roman Catholic universities, has decided not to allow Eve Ensler's "Vagina Monologues" to be performed on campus.</p>
+        <p>As reported in The New York Post, Alisha Brizicky, 21, a senior, had been planning to present three performances in February as part of the V-Day College Campaign, an annual festival that raises money to stop violence against women and girls. In December, administrators at the university's campus in Queens told Ms. Brizicky they would not allow the play to be performed on campus.</p>
+        <p>"We fully support the value of raising awareness and education on systematic violence against women," the Rev. James J. Maher, the university's vice president of student affairs, said in a statement. "As part of our obligation to the entire university community, we also reserve the right not to support student life activities that we deem inappropriate."</p>
+        <p>Ms. Brizicky is considering performing the play off campus.</p>
+        <p>"I'd prefer it to be on campus," she said. "People here don't talk about things like this, and I want it to be as available to them as possible."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

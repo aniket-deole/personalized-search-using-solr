@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>KEY MATCHUP</title>
+    <meta content="07jetsmatchup" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817229"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">New York Jets</org>
+        <org class="indexing_service">New England Patriots</org>
+        <person class="indexing_service">Crouse, Karen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New England Patriots</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Jets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7DD1530F934A35752C0A9619C8B63" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>KEY MATCHUP</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN CROUSE</byline>
+      <byline class="normalized_byline">Crouse, Karen</byline>
+      <abstract>
+        <p>Matchup between New York Jets and New England Patriots in first round of playoffs discussed (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jets (10-6) at Patriots (12-4)  1 p.m., Ch. 2</p>
+        <p>JETS' OFFENSIVE LINE VS. PATRIOTS' DEFENSE  In the teams' first meeting, the Jets' offensive line gave up four sacks in a 24-17 loss. In the November rematch, the Patriots were without the injured Ty Warren, their stellar left end. In his absence, the Jets were successful running the ball, gaining 117 yards on the ground (65 more than in the first game) en route to a 17-14 victory. Patriots nose tackle Vince Wilfork expects to return after missing three games with a sprained ankle. He will be a handful for Jets center Nick Mangold, who has been nursing a left thigh injury. The other rookie on the Jets' line, D'Brickashaw Ferguson, faces the difficult task of slowing the Patriots' right end, Richard Seymour, who has 4 sacks and 40 tackles.</p>
+        <p>BY THE NUMBERS, JETS vs. PATRIOTS</p>
+        <p>13  Tackles made by Jets linebacker Jonathan Vilma.</p>
+        <p>22  Tackles made by Patriots linebacker Tedy Bruschi.</p>
+        <p>55  Percentage of third downs converted by Jets.</p>
+        <p>42  Percentage of third downs converted by the Patriots.</p>
+        <p>8  First downs rushing by the Jets.</p>
+        <p>17  First downs rushing by the Patriots.</p>
+        <p>0  Fumbles lost by the Jets.</p>
+        <p>2  Fumbles lost by the Patriots.</p>
+        <p>KAREN CROUSE</p>
+      </block>
+      <block class="full_text">
+        <p>Jets (10-6) at Patriots (12-4)  1 p.m., Ch. 2</p>
+        <p>JETS' OFFENSIVE LINE VS. PATRIOTS' DEFENSE  In the teams' first meeting, the Jets' offensive line gave up four sacks in a 24-17 loss. In the November rematch, the Patriots were without the injured Ty Warren, their stellar left end. In his absence, the Jets were successful running the ball, gaining 117 yards on the ground (65 more than in the first game) en route to a 17-14 victory. Patriots nose tackle Vince Wilfork expects to return after missing three games with a sprained ankle. He will be a handful for Jets center Nick Mangold, who has been nursing a left thigh injury. The other rookie on the Jets' line, D'Brickashaw Ferguson, faces the difficult task of slowing the Patriots' right end, Richard Seymour, who has 4 sacks and 40 tackles.</p>
+        <p>BY THE NUMBERS, JETS vs. PATRIOTS</p>
+        <p>13  Tackles made by Jets linebacker Jonathan Vilma.</p>
+        <p>22  Tackles made by Patriots linebacker Tedy Bruschi.</p>
+        <p>55  Percentage of third downs converted by Jets.</p>
+        <p>42  Percentage of third downs converted by the Patriots.</p>
+        <p>8  First downs rushing by the Jets.</p>
+        <p>17  First downs rushing by the Patriots.</p>
+        <p>0  Fumbles lost by the Jets.</p>
+        <p>2  Fumbles lost by the Patriots.</p>
+        <p>KAREN CROUSE</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

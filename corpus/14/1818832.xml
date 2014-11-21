@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Burst Of Numbers To Distill</title>
+    <meta content="14mark" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/business/yourmoney/14mark.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818832"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MARKET WEEK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Market Week</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Consumer Price Index</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Price Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E0DB1330F937A25752C0A9619C8B63" item-length="472" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Burst Of Numbers To Distill</hl1>
+        <hl2 class="online_headline">A Burst of Numbers to Distill</hl2>
+      </hedline>
+      <byline class="print_byline">By CONRAD DE AENLLE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF no single economic number sends the markets up or down this week, the sheer number of numbers may have an impact -- with negative consequences more likely than positive ones.</p>
+        <p>Clues about the course of the economy will be revealed in reports on inflation, manufacturing, housing and consumer confidence. Together, their effect may be similar to that of the Lilliputians when they lassoed Gulliver. Faith in a recession-free soft landing is so ingrained in investor thinking, said John K. Lynch, chief market analyst at Evergreen Investments, that a run of unpleasant results could depress the markets, while a set of benign data may have little force.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Clues about the course of the economy will be revealed in reports on inflation, manufacturing, housing and consumer confidence.</p>
+      </block>
+      <block class="full_text">
+        <p>IF no single economic number sends the markets up or down this week, the sheer number of numbers may have an impact -- with negative consequences more likely than positive ones.</p>
+        <p>Clues about the course of the economy will be revealed in reports on inflation, manufacturing, housing and consumer confidence. Together, their effect may be similar to that of the Lilliputians when they lassoed Gulliver. Faith in a recession-free soft landing is so ingrained in investor thinking, said John K. Lynch, chief market analyst at Evergreen Investments, that a run of unpleasant results could depress the markets, while a set of benign data may have little force.</p>
+        <p>Mr. Lynch expects the report Thursday on December consumer prices to be first among equals in terms of its ability to move the markets. It may indicate the extent to which increases in energy and metals prices last year have been passed along to consumers.</p>
+        <p>''The core number is instructive to see whether high energy costs have seeped into the costs of producing other goods,'' he said. ''There tends to be a lag effect.''</p>
+        <p>Mr. Lynch predicts an increase of 0.1 percent in the core Consumer Price Index, which excludes food and energy items. A Bloomberg News poll of economists also calls for a 0.1 percent increase, and anything much higher may be more than Wall Street can stand.</p>
+        <p>''If we see a larger figure in core C.P.I., it will certainly scare the market,'' he said, ''because it means an easing is off the books and a potential increase comes back into play.'' He was referring to changes in the Federal Reserve's benchmark interest rate. A cut has been widely anticipated, even though the Fed has offered no strong hint that one may be on the way.</p>
+        <p>Mr. Lynch said he expected any fallout from strong consumer inflation data to be amplified if the report on December industrial production, scheduled for Wednesday, comes in above the 0.1 percent increase that he and the Bloomberg survey are looking for.</p>
+        <p>''If industrial production shoots up and the very next day core inflation shoots up, Thursday and Friday could potentially be very difficult days in the market,'' he cautioned. ''It would pretty much wipe off any chance for an easing in the first quarter and maybe, the thinking will go, for the first half, too.''</p>
+        <p>DATA WATCH -- Stronger numbers would be treated more kindly if they were to show up on Thursday in the report on the December housing market.</p>
+        <p>But the Bloomberg poll anticipates a decline in housing starts, to an annual rate of 1.565 million from 1.588 million in November.</p>
+        <p>A small improvement is foreseen on Friday in the University of Michigan's first snapshot of consumer confidence for January. A reading of 92.5 is predicted, up from 91.7 in late December.</p>
+        <p>MARKET WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

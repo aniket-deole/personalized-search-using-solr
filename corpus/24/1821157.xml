@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stirring Many Ingredients Into a Strangely Blended Brew</title>
+    <meta content="24chum" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/24/arts/dance/24chum.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821157"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Dance Theater Workshop</org>
+        <person class="indexing_service">La Rocco, Claudia</person>
+        <person class="indexing_service">Chuma, Yoshiko</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <person class="online_producer">Chuma, Yoshiko</person>
+        <person class="online_producer">Williams, Christopher</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE6D61F30F937A15752C0A9619C8B63" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stirring Many Ingredients Into a Strangely Blended Brew</hl1>
+        <hl2 class="online_headline">Stirring Many Ingredients Into a Strangely Blended Brew</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA LA ROCCO</byline>
+      <byline class="normalized_byline">La Rocco, Claudia</byline>
+      <abstract>
+        <p>Claudia La Rocco reviews p Yoshiko Chuma performance art dance piece at Dance Theater Workshop; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When books or paintings become too dizzying, you can walk away until you're ready for more. But performance art keeps coming at you, ready or not. Though audience members can practice some form of pacing, much of the effect depends on the artist's skill in knowing how much is too much, or when too much is just enough.</p>
+        <p>In ''A Page Out of Order: M,'' Yoshiko Chuma is constantly rearranging, layering and shifting to reveal another view -- much like the movable cubes that are a staple of her choreography. Using black-and-white film, text, dance, singing and a marvelous onstage band, for 90 minutes she stirs an uneasy brew of war, identity and dislocation.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Yoshiko Chuma stirs an uneasy brew of war, identity and dislocation in “A Page Out of Order: M” at Dance Theater Workshop.</p>
+      </block>
+      <block class="full_text">
+        <p>When books or paintings become too dizzying, you can walk away until you're ready for more. But performance art keeps coming at you, ready or not. Though audience members can practice some form of pacing, much of the effect depends on the artist's skill in knowing how much is too much, or when too much is just enough.</p>
+        <p>In ''A Page Out of Order: M,'' Yoshiko Chuma is constantly rearranging, layering and shifting to reveal another view -- much like the movable cubes that are a staple of her choreography. Using black-and-white film, text, dance, singing and a marvelous onstage band, for 90 minutes she stirs an uneasy brew of war, identity and dislocation.</p>
+        <p>The vocalist Sizzle Ohtaka narrates, in Japanese, as text snippets of stories about failed relationships and ethnic strife flash onto screens. Then she sings mournfully over a recording of wind.</p>
+        <p>The wonderfully astute American dancer Christopher Williams crouches and stretches among the metal cube frames. The musicians dart here and there on their many instruments, evoking Latin jazz and conjuring old movie soundtracks or what sounds like Romanian gypsy music. Images of desolate landscapes come and go.</p>
+        <p>At moments the results are sophisticated, exhilarating and transformative in ways only half understood but strongly felt. At other times the chaos seems banal, a simple case of clutter; perhaps, you think, Ms. Chuma could play her cards a bit closer to her chest.</p>
+        <p>But then she is off in another direction, and you follow, ready or not.</p>
+        <p>''I could say we are moving from one system to the other,'' the Macedonian dancer Iskra Sukarova explains early on, though she is actually sitting quite still in her chair. ''I'm moving, too. I'm not sure that I really like to move so much, though. It kind of makes me sick sometimes.''</p>
+        <p>Ms. Sukarova, who functions as the performance's quiet heart, is referring to her country's political situation, both the tedium and upset that come with such upheaval.</p>
+        <p>But, of course, she is also talking about art, how maddening it can be. The pages are out of order, you think. This is impossible. Then something clicks, and you never want the experience to end.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Transit Chief To Resign</title>
+    <meta content="04mbrfs-3" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816394"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">New York City Transit</org>
+        <person class="indexing_service">Neuman, William</person>
+        <person class="indexing_service">Reuter, Lawrence G</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E1D61730F937A35752C0A9619C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Transit Chief To Resign</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Neuman, William</byline>
+      <abstract>
+        <p>Lawrence G Reuter, head of New York City Transit, resigns; has run agency since 1996; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lawrence G. Reuter, the president of New York City Transit, the branch of the Metropolitan Transportation Authority that runs the subways and buses, announced his resignation yesterday, clearing the way for new leadership at the agency he has run since 1996. Finding a replacement for Mr. Reuter, above, will now become one of the first tasks for the transportation authority's incoming executive director and chief executive, Elliot G. Sander. Mr. Sander was chosen to head the authority by Gov. Eliot Spitzer, who has frequently called for a management shake-up at the agency. Mr. Reuter said his departure was not influenced by the change in administration. He plans to leave the authority in early February and will take a job in Miami with Parsons Brinckerhoff, a large engineering company.</p>
+        <p>WILLIAM NEUMAN</p>
+      </block>
+      <block class="full_text">
+        <p>Lawrence G. Reuter, the president of New York City Transit, the branch of the Metropolitan Transportation Authority that runs the subways and buses, announced his resignation yesterday, clearing the way for new leadership at the agency he has run since 1996. Finding a replacement for Mr. Reuter, above, will now become one of the first tasks for the transportation authority's incoming executive director and chief executive, Elliot G. Sander. Mr. Sander was chosen to head the authority by Gov. Eliot Spitzer, who has frequently called for a management shake-up at the agency. Mr. Reuter said his departure was not influenced by the change in administration. He plans to leave the authority in early February and will take a job in Miami with Parsons Brinckerhoff, a large engineering company.</p>
+        <p>WILLIAM NEUMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

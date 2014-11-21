@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Boss Takes to His Blog To Deny, Then Confirm</title>
+    <meta content="22blog" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/technology/22blog.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820649"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <org class="indexing_service">Jobster.com</org>
+        <person class="indexing_service">Goldberg, Jason</person>
+        <person class="indexing_service">Darlin, Damon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E5DD1F30F931A15752C0A9619C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Boss Takes to His Blog To Deny, Then Confirm</hl1>
+        <hl2 class="online_headline">A Boss Takes to His Blog to Deny, Then Confirm</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON DARLIN</byline>
+      <byline class="normalized_byline">Darlin, Damon</byline>
+      <abstract>
+        <p>Jobster chief executive Jason Goldberg uses Internet blog to dispel rumors that company is in trouble but stirs more speculation among employees with postings; announces job cuts of 40 percent of staff shortly after denying them online (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Blogging by a chief executive can be tricky business.</p>
+        <p>Some executives, like Jonathan I. Schwartz of Sun Microsystems, pull it off with aplomb. Others, like Jason Goldberg of the online recruiting company Jobster, have had more difficulty.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some chief executives pull blogging off with aplomb. Others, like Jason Goldberg of Jobster, have had more difficulty.</p>
+      </block>
+      <block class="full_text">
+        <p>Blogging by a chief executive can be tricky business.</p>
+        <p>Some executives, like Jonathan I. Schwartz of Sun Microsystems, pull it off with aplomb. Others, like Jason Goldberg of the online recruiting company Jobster, have had more difficulty.</p>
+        <p>Last month, Mr. Goldberg, 34, took to his blog to knock down rumors that Jobster was in trouble. ''Everybody's all a speculating. A lot of falsehoods are being bandied about,'' he wrote on Dec. 22. He said that revenue was up 30 percent, and he vowed to drive the company to profitability in 2007. Amid rumors of pending layoffs, he assured the staff that there would be no news until after the new year.</p>
+        <p>His words weren't very reassuring. Someone calling himself ''Blake Carrington'' asked Mr. Goldberg why he was being defensive. Mr. Goldberg responded on the blog that he would answer questions once ''Mr. Carrington'' gave his real name.</p>
+        <p>Mr. Goldberg seemed to be leaving clues on his blog. On the day after Christmas he reminded people to use up their vacation days. The next day he posted a list of songs he had been listening to, including ''Survivor'' by Destiny's Child, ''And I'm Telling You I'm Not Going'' by Jennifer Hudson and ''Come Together'' by the Beatles. Staff members were left to wonder if these selections were a sign. And they were, Mr. Goldberg said in an interview. ''It let people see what was going on in my mind,'' he said.</p>
+        <p>Soon he was back online, musing on the subject of chief executives blogging, in a monologue that could have been written for ''The Office.'' ''Why am I so comfortable blogging?'' he asked. ''Answer: transparency. Embrace it. Don't run from it.'' He promised that 2007 would bring a ''whole slew of surprises.''</p>
+        <p>That set off a spate of employee comments about looming layoffs, including links to leaked memos, but Mr. Goldberg again brushed off the speculation. On Jan. 3, Mr. Goldberg announced that he was cutting 66 employees, or 40 percent of the staff.</p>
+        <p>Looking back, could he have handled this differently? Mr. Goldberg said no. ''It's the nature of Web 2.0 and new media that if you don't embrace openness, it will come back and bite you.''</p>
+        <p>DAMON DARLIN</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

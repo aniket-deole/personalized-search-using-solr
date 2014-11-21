@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Mouthful and an Earful</title>
+    <meta content="l19play" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819847"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Noise</classifier>
+        <person class="indexing_service">Turner, Theresa</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Noise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E2DE1E30F93AA25752C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Mouthful and an Earful</hl1>
+      </hedline>
+      <abstract>
+        <p>Theresa Turner letter scores Broadway theaters for allowing people to eat and drink during performances, disturbing other audience members (Jan 5 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Noises Off: Playgoers Sip, Munch and Crunch'' (Weekend section, Jan. 5):</p>
+        <p>As an avid theatergoer, I was so dismayed at how many Broadway theaters allow eating and drinking during performances -- and all in the name of profit.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Noises Off: Playgoers Sip, Munch and Crunch'' (Weekend section, Jan. 5):</p>
+        <p>As an avid theatergoer, I was so dismayed at how many Broadway theaters allow eating and drinking during performances -- and all in the name of profit.</p>
+        <p>I can't tell you how many times I've been stuck next to a person eating loudly while I'm trying to listen to a song or a quiet scene; it's distracting to the audience, and as Patti LuPone stated, to performers as well.</p>
+        <p>And now, I'm not even justified in my complaints because theater management encourages this behavior.</p>
+        <p>To the people who say, ''If we're paying $100 or so for a ticket, we can do what we like,'' I say, ''I've spent $100 for my seat, and I should be able to enjoy live theater without listening to wrappers crinkling.''</p>
+        <p>Theresa Turner  New Providence, N.J., Jan. 5, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

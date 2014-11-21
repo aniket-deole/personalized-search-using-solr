@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>All-American Day, All-American Game, Spanish Treats</title>
+    <meta content="31tort" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822735"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Tortillas</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Agata &amp; Valentina</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E1D7143FF932A05752C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>All-American Day, All-American Game, Spanish Treats</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Spanish tortilla is available at Agata &amp; Valentina; it is closely related to Italian frittata; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a change of pace from pizza for a Super Bowl party, consider a Spanish tortilla. It's nothing like the Mexican flatbread of the same name, but is closely related to an Italian frittata, a thick round omelet layered with potatoes and onions. In Spain it is a tapas bar staple, served either warmed or at room temperature.</p>
+      </block>
+      <block class="full_text">
+        <p>As a change of pace from pizza for a Super Bowl party, consider a Spanish tortilla. It's nothing like the Mexican flatbread of the same name, but is closely related to an Italian frittata, a thick round omelet layered with potatoes and onions. In Spain it is a tapas bar staple, served either warmed or at room temperature.</p>
+        <p>Though a good tortilla is not difficult to prepare, to simplify feeding a crowd there are now frozen ones. The El Forno brand from Spain, which is sold at Agata &amp; Valentina, comes in a nine-inch size that will serve six to eight ($10.99), and with spinach or peppers in a seven-inch size to serve four ($9.99). The tortillas take 10 minutes to heat in a microwave or conventional oven or in a skillet with a cover. Sangria anyone?</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

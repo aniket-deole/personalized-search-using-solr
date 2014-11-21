@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A HOME AT BIG SUR</title>
+    <meta content="21letters-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820265"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Big Sur (Calif)</location>
+        <location class="indexing_service">California</location>
+        <person class="indexing_service">Rheannon, Francesca</person>
+        <person class="indexing_service">Dicum, Gregory</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Big Sur</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E0DE1130F932A15752C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A HOME AT BIG SUR</hl1>
+      </hedline>
+      <abstract>
+        <p>Francesca Rheannon letter on Gregory Dicum's January 7 travel article about Big Sur, Calif</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Gregory Dicum's ''Big Sur Without the Crowds'' (Jan. 7) brought back memories of my father, Guido Teunissen, a postwar Dutch immigrant who found his true home in America at Big Sur, as did Henry Miller. Guido moved to Big Sur in the early 1960s, during its heyday of unspoiled bohemianism (alas, after my mother and I had left him). He was a master craftsman who helped to build Esalen at its founding. When reading of the ''snuggle perch'' and ''carved benches'' that are ''set just so,'' I like to think that my father was responsible for some of the whimsy Mr. Dicum found at Esalen. On his deathbed in 1997, Guido thought he was back in Big Sur. Although his body was not there, his soul surely was.</p>
+        <p>Francesca Rheannon  South Hadley, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Gregory Dicum's ''Big Sur Without the Crowds'' (Jan. 7) brought back memories of my father, Guido Teunissen, a postwar Dutch immigrant who found his true home in America at Big Sur, as did Henry Miller. Guido moved to Big Sur in the early 1960s, during its heyday of unspoiled bohemianism (alas, after my mother and I had left him). He was a master craftsman who helped to build Esalen at its founding. When reading of the ''snuggle perch'' and ''carved benches'' that are ''set just so,'' I like to think that my father was responsible for some of the whimsy Mr. Dicum found at Esalen. On his deathbed in 1997, Guido thought he was back in Big Sur. Although his body was not there, his soul surely was.</p>
+        <p>Francesca Rheannon  South Hadley, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

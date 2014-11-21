@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOKING AHEAD</title>
+    <meta content="29ahead" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/business/29ahead.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822345"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DF143FF93AA15752C0A9619C8B63" item-length="364" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOKING AHEAD</hl1>
+        <hl2 class="online_headline">Looking Ahead</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ECONOMIC BAROMETERS -- Two critical economic events are scheduled to take place this week. First, on Wednesday, the Federal Open Market Committee is expected to meet and issue its decision on short-term interest rates; expectations are that the federal funds rate will remain at 5.25 percent. Investors have been hoping that rates would be lowered, but positive economic reports last week about new home sales and big factory orders have made that less likely. On Friday, the government is expected to report on unemployment for December, with forecasters predicting an increase of 140,000 jobs.</p>
+        <p>VISTA FOR THE HOME PC -- Microsoft plans to introduce its Vista operating system to consumers on Tuesday after a two-year delay in getting the much-anticipated product to the market. Some computer stores will stay open past midnight Monday so that eager customers can get their copies right away.</p>
+        <p>PRELIMINARY G.D.P. NUMBERS -- This week will bring the first look at the fourth-quarter gross domestic product (Wednesday). Other economic reports include the Conference Board's look at consumer confidence (Tuesday); the Chicago purchasing managers' index for January and construction spending for December (Wednesday); and personal income and spending for December and the Institute for Supply Management's manufacturing index for January (Thursday).</p>
+        <p>AUTO SALES -- On Thursday, automakers are scheduled to report sales for January. Given last week's crushing news that 2006 had been the worst year in the history of the Ford Motor Company -- and that Toyota keeps narrowing the gap between itself and General Motors as the world's largest automaker -- the report is likely to receive much scrutiny. It is expected to show increasing market share for foreign manufacturers.</p>
+        <p>EARNINGS APLENTY -- A heavy week for earnings reports will give the markets a gauge of business strength. Among companies reporting this week are Verizon, Schering-Plough and Tyson Foods (Monday); Exxon Mobil, Royal Dutch Shell, Merck, 3M, Procter &amp; Gamble, Colgate-Palmolive, Kellogg, UPS, US Airways and United States Steel (Tuesday); Altria, Boeing, Eastman Kodak, Eli Lilly, Google, Kraft Foods, Starbucks and Time Warner (Wednesday); Amazon.com, Archer Daniels Midland, Clorox, Comcast, Electronic Arts, International Paper, JetBlue and Raytheon (Thursday); and Gannett and Sara Lee (Friday).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>ECONOMIC BAROMETERS Two critical economic events are scheduled to take place this week. First, on Wednesday, the Federal Open Market Committee is expected to meet and issue its decision on short-term interest rates; expectations are that the federal funds rate will remain at 5.25 percent. Investors have been hoping that rates would be lowered, but positive economic reports last week about new home sales and big factory orders have made that less likely. On Friday, the government is expected to report on unemployment for December, with forecasters predicting an increase of 140,000 jobs.</p>
+      </block>
+      <block class="full_text">
+        <p>ECONOMIC BAROMETERS -- Two critical economic events are scheduled to take place this week. First, on Wednesday, the Federal Open Market Committee is expected to meet and issue its decision on short-term interest rates; expectations are that the federal funds rate will remain at 5.25 percent. Investors have been hoping that rates would be lowered, but positive economic reports last week about new home sales and big factory orders have made that less likely. On Friday, the government is expected to report on unemployment for December, with forecasters predicting an increase of 140,000 jobs.</p>
+        <p>VISTA FOR THE HOME PC -- Microsoft plans to introduce its Vista operating system to consumers on Tuesday after a two-year delay in getting the much-anticipated product to the market. Some computer stores will stay open past midnight Monday so that eager customers can get their copies right away.</p>
+        <p>PRELIMINARY G.D.P. NUMBERS -- This week will bring the first look at the fourth-quarter gross domestic product (Wednesday). Other economic reports include the Conference Board's look at consumer confidence (Tuesday); the Chicago purchasing managers' index for January and construction spending for December (Wednesday); and personal income and spending for December and the Institute for Supply Management's manufacturing index for January (Thursday).</p>
+        <p>AUTO SALES -- On Thursday, automakers are scheduled to report sales for January. Given last week's crushing news that 2006 had been the worst year in the history of the Ford Motor Company -- and that Toyota keeps narrowing the gap between itself and General Motors as the world's largest automaker -- the report is likely to receive much scrutiny. It is expected to show increasing market share for foreign manufacturers.</p>
+        <p>EARNINGS APLENTY -- A heavy week for earnings reports will give the markets a gauge of business strength. Among companies reporting this week are Verizon, Schering-Plough and Tyson Foods (Monday); Exxon Mobil, Royal Dutch Shell, Merck, 3M, Procter &amp; Gamble, Colgate-Palmolive, Kellogg, UPS, US Airways and United States Steel (Tuesday); Altria, Boeing, Eastman Kodak, Eli Lilly, Google, Kraft Foods, Starbucks and Time Warner (Wednesday); Amazon.com, Archer Daniels Midland, Clorox, Comcast, Electronic Arts, International Paper, JetBlue and Raytheon (Thursday); and Gannett and Sara Lee (Friday).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

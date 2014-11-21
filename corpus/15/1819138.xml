@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hiring the Headhunter</title>
+    <meta content="15albany-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819138"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ALBANY NOTEBOOK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E4DB1030F936A25752C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hiring the Headhunter</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL COOPER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Governor Spitzer named more than 300 people to his transition team. But he also hired some outside professionals to help him build an administration: Isaacson, Miller, a headhunting firm. He had apparently found out firsthand that it could be effective: Its Web site says that it helped the Natural Resources Defense Council, an environmental group, hire Peter Lehner, who was the chief of Mr. Spitzer's environmental protection bureau when he was attorney general.</p>
+        <p>MICHAEL COOPER</p>
+      </block>
+      <block class="full_text">
+        <p>Governor Spitzer named more than 300 people to his transition team. But he also hired some outside professionals to help him build an administration: Isaacson, Miller, a headhunting firm. He had apparently found out firsthand that it could be effective: Its Web site says that it helped the Natural Resources Defense Council, an environmental group, hire Peter Lehner, who was the chief of Mr. Spitzer's environmental protection bureau when he was attorney general.</p>
+        <p>MICHAEL COOPER</p>
+        <p>ALBANY NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

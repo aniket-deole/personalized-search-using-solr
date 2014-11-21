@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALLY?</title>
+    <meta content="16real" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819181"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="indexing_service" type="descriptor">Morning Sickness</classifier>
+        <classifier class="indexing_service" type="descriptor">Miscarriages</classifier>
+        <person class="indexing_service">O'Connor, Anahad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pregnancy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Morning Sickness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DB1030F935A25752C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALLY?</hl1>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+      <byline class="normalized_byline">O'Connor, Anahad</byline>
+      <abstract>
+        <p>Women experiencing morning sickness generally have lower risk of miscarriage, but not necessarily healthier pregnancy than women not having morning sickness; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM -- Morning sickness is a sign of a healthy pregnancy.</p>
+        <p>THE FACTS -- It may be among the most unpleasant aspects of pregnancy, but can morning sickness also indicate a lower risk of miscarriage?</p>
+        <p>A widespread belief holds that morning sickness can be a sort of blessing in disguise, or at least a favorable sign. Many dismiss this notion as folklore, but studies suggest that the truth is not so clear-cut.</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM -- Morning sickness is a sign of a healthy pregnancy.</p>
+        <p>THE FACTS -- It may be among the most unpleasant aspects of pregnancy, but can morning sickness also indicate a lower risk of miscarriage?</p>
+        <p>A widespread belief holds that morning sickness can be a sort of blessing in disguise, or at least a favorable sign. Many dismiss this notion as folklore, but studies suggest that the truth is not so clear-cut.</p>
+        <p>Studies have shown a lower rate of miscarriage among women with nausea and vomiting of any severity during pregnancy. The most recent, published in The International Journal of Obstetrics and Gynecology in 2006, found that of 7,000 women studied, those who had nausea in the first three months were far less likely to miscarry. That appeared to support a study by the National Institutes of Health that found that women who had morning sickness in the first four months of pregnancy were 30 percent less likely to miscarry.</p>
+        <p>The reasons are unclear. Increased nausea and vomiting are associated with higher levels of a hormone produced by healthy placental tissue, and one theory suggests that the sickness may help women avoid foods that could harm a developing fetus.</p>
+        <p>But many women have normal pregnancies with no morning sickness, and many miscarry without getting sick. And many studies have failed to find any relationship between morning sickness and other adverse outcomes, like stillbirth and birth defects.</p>
+        <p>THE BOTTOM LINE -- Morning sickness is associated with a lower rate of miscarriage, though it is not necessarily a sign of a healthy pregnancy.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>scitimes@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">scitimes@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

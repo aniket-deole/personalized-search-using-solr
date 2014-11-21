@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="11corrections-1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818076"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E3D81230F932A25752C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 10 article about secure telephone in New York City Mayor Michael Bloomberg's home misquoted him</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article yesterday about a secure telephone that Mayor Michael R. Bloomberg uses in his Manhattan town house rendered incorrectly a quotation from him. The mayor said he had occasionally received calls on the secure line asking ''did I want to subscribe to a particular magazine, buy an insurance policy or some other such ridiculous thing.'' He did not say the callers asked ''did I want to subscribe to a ridiculous magazine, buy an insurance policy or some other such particular thing.''</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article yesterday about a secure telephone that Mayor Michael R. Bloomberg uses in his Manhattan town house rendered incorrectly a quotation from him. The mayor said he had occasionally received calls on the secure line asking ''did I want to subscribe to a particular magazine, buy an insurance policy or some other such ridiculous thing.'' He did not say the callers asked ''did I want to subscribe to a ridiculous magazine, buy an insurance policy or some other such particular thing.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

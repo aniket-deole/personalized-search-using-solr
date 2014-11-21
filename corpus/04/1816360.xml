@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Barbara Walters Sails Into Troubled Waters</title>
+    <meta content="04arts-1" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816360"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <person class="indexing_service">Wyatt, Edward</person>
+        <person class="indexing_service">Walter, Barbara</person>
+        <person class="indexing_service">O'Donnell, Rosie</person>
+        <person class="indexing_service">Trump, Donald</person>
+        <object.title class="indexing_service">View, the (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E6D61730F937A35752C0A9619C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Barbara Walters Sails Into Troubled Waters</hl1>
+      </hedline>
+      <byline class="print_byline">By EDWARD WYATT; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Wyatt, Edward</byline>
+      <abstract>
+        <p>Barbara Walters defends her hiring of Rosie O'Donnell on her morning talk show The View, rebutting claim by Donald Trump that Walters had expressed regret at hiring O'Donnell; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Barbara Walters yesterday defended her hiring of Rosie O'Donnell on her morning talk show, ''The View,'' rebutting a claim by Donald Trump that Ms. Walters had expressed regret at hiring Ms. O'Donnell as a co-host. The statement by Ms. Walters, far right with Ms. O'Donnell, appeared to be her attempt to prevent further flare-ups to the simmering feud between Mr. Trump and Ms. O'Donnell, which began last month when Ms. O'Donnell poked fun at him for his reprimand of the current Miss USA, Tara Conner, for her public partying. Ms. O'Donnell was on vacation and not on the show yesterday, but Ms. Walters said she would welcome her back next week, adding that she never told Mr. Trump she did not want Ms. O'Donnell on the show. ''Nothing could be further from the truth,'' Ms. Walters said. ''I have never regretted nor do I now regret hiring Rosie O'Donnell,'' who ''has brought a new vitality to this show.'' Ms. Walters also read a statement clarifying Ms. O'Donnell's remarks last month that Mr. Trump has ''been bankrupt so many times.'' Ms. Walters noted that Mr. Trump has never filed for personal bankruptcy, although ''several of his casino companies have filed for business bankruptcies'' and are ''out of bankruptcy now.''</p>
+        <p>EDWARD WYATT</p>
+      </block>
+      <block class="full_text">
+        <p>Barbara Walters yesterday defended her hiring of Rosie O'Donnell on her morning talk show, ''The View,'' rebutting a claim by Donald Trump that Ms. Walters had expressed regret at hiring Ms. O'Donnell as a co-host. The statement by Ms. Walters, far right with Ms. O'Donnell, appeared to be her attempt to prevent further flare-ups to the simmering feud between Mr. Trump and Ms. O'Donnell, which began last month when Ms. O'Donnell poked fun at him for his reprimand of the current Miss USA, Tara Conner, for her public partying. Ms. O'Donnell was on vacation and not on the show yesterday, but Ms. Walters said she would welcome her back next week, adding that she never told Mr. Trump she did not want Ms. O'Donnell on the show. ''Nothing could be further from the truth,'' Ms. Walters said. ''I have never regretted nor do I now regret hiring Rosie O'Donnell,'' who ''has brought a new vitality to this show.'' Ms. Walters also read a statement clarifying Ms. O'Donnell's remarks last month that Mr. Trump has ''been bankrupt so many times.'' Ms. Walters noted that Mr. Trump has never filed for personal bankruptcy, although ''several of his casino companies have filed for business bankruptcies'' and are ''out of bankruptcy now.''</p>
+        <p>EDWARD WYATT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

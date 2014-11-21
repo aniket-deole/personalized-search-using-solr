@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Departing 'The Departed'</title>
+    <meta content="27arts-2" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821809"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Carr, David</person>
+        <person class="indexing_service">Grey, Brad</person>
+        <person class="indexing_service">King, Graham</person>
+        <object.title class="indexing_service">Departed, the (Movie)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Awards/Academy Awards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Awards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E7D8173FF934A15752C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Departing 'The Departed'</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID CARR; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Carr, David</byline>
+      <abstract>
+        <p>Battle continues over producer credit for film The Departed; head of Paramount Studios Brad Grey argues that he deserves credit for his role in putting film together, but producers' branch of academy, which decides who can accept Oscar for best-picture winner, has determined that only Graham King is eligible (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There has been a continuing battle over the producer credit for ''The Departed,'' the film directed by Martin Scorsese that was just nominated for a best-picture Oscar. Brad Grey, the head of Paramount Studios, argued that he deserved credit for his role in putting the film together, but the producers' branch of the academy, which decides who can accept the Oscar as the producer of the best-picture winner, determined on Thursday night that only Graham King was eligible. The same group decided that of the five people who have received credit for producing ''Little Miss Sunshine,'' another best-picture contender, only David T. Friendly, Peter Saraf and Marc Turtletaub can come to the stage to pick up the award should the film win. The Academy Awards will take place on Feb. 25. (For more on the credits fight: http://carpetbagger.blogs.nytimes.com/)</p>
+        <p>DAVID CARR</p>
+      </block>
+      <block class="full_text">
+        <p>There has been a continuing battle over the producer credit for ''The Departed,'' the film directed by Martin Scorsese that was just nominated for a best-picture Oscar. Brad Grey, the head of Paramount Studios, argued that he deserved credit for his role in putting the film together, but the producers' branch of the academy, which decides who can accept the Oscar as the producer of the best-picture winner, determined on Thursday night that only Graham King was eligible. The same group decided that of the five people who have received credit for producing ''Little Miss Sunshine,'' another best-picture contender, only David T. Friendly, Peter Saraf and Marc Turtletaub can come to the stage to pick up the award should the film win. The Academy Awards will take place on Feb. 25. (For more on the credits fight: http://carpetbagger.blogs.nytimes.com/)</p>
+        <p>DAVID CARR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

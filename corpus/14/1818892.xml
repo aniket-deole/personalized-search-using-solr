@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUT-BOX</title>
+    <meta content="14hotticket" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818892"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EED71330F937A25752C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUT-BOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The five most e-mailed articles from nytimes.com/sports for Jan. 6 to 12.</p>
+        <p>1. A SOCCER STAR HEEDS LURE OF HOLLYWOOD -- David Beckham agrees to play for the Los Angeles Galaxy. (Published Jan. 12)</p>
+        <p>2. LINKS TO SLAVERY AND N.F.L. STAR ON A HILL IN TEXAS -- The place that gave LaDainian Tomlinson's family its name. (Jan. 7)</p>
+        <p>3. SHAPED BY TRAGEDIES, GARCIA HAS BUILT CAREER WITH RESOLVE -- Eagles quarterback Jeff Garcia overcomes expectations. (Jan. 5)</p>
+        <p>4. FLORIDA SHOWS IT BELONGS BY WINNING TITLE WITH EASE -- Gators pummel No. 1 Ohio State, 41-14, for the B.C.S. crown. (Jan. 9)</p>
+        <p>5. MARCHING THEIR WAY BEFORE TITLE GAME'S CAMERAS -- Long hours of preparation for the Ohio State and Florida bands. (Jan. 6)</p>
+      </block>
+      <block class="full_text">
+        <p>The five most e-mailed articles from nytimes.com/sports for Jan. 6 to 12.</p>
+        <p>1. A SOCCER STAR HEEDS LURE OF HOLLYWOOD -- David Beckham agrees to play for the Los Angeles Galaxy. (Published Jan. 12)</p>
+        <p>2. LINKS TO SLAVERY AND N.F.L. STAR ON A HILL IN TEXAS -- The place that gave LaDainian Tomlinson's family its name. (Jan. 7)</p>
+        <p>3. SHAPED BY TRAGEDIES, GARCIA HAS BUILT CAREER WITH RESOLVE -- Eagles quarterback Jeff Garcia overcomes expectations. (Jan. 5)</p>
+        <p>4. FLORIDA SHOWS IT BELONGS BY WINNING TITLE WITH EASE -- Gators pummel No. 1 Ohio State, 41-14, for the B.C.S. crown. (Jan. 9)</p>
+        <p>5. MARCHING THEIR WAY BEFORE TITLE GAME'S CAMERAS -- Long hours of preparation for the Ohio State and Florida bands. (Jan. 6)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

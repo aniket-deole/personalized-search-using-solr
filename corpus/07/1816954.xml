@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Diagnosing With Dickens</title>
+    <meta content="07letters.t-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816954"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Sanders, Lisa (Dr)</person>
+        <person class="indexing_service">Judson, Judith</person>
+        <person class="indexing_service">Franch, Michael S</person>
+        <person class="indexing_service">Scrooge (Fictional Character)</person>
+        <person class="indexing_service">Dickens, Charles (1812-70)</person>
+        <object.title class="indexing_service">Christmas Carol, A (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E2DA1730F934A35752C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Diagnosing With Dickens</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters respond to Dec 17, 2006, Lisa Sanders Diagnosis column on whether Dickens's description of character Ebenezer Scrooge indicates presence of any disease; Judith Judson recalls several examples of diagnosis on part another author; Michael S Franch suggests alternate diagnosis for Scrooge</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Lisa Sanders's interesting Diagnosis column (Dec. 17) on Charles Dickens's powers of observation reminded me of several examples of the same keen observation on the part of his good friend the novelist Wilkie Collins.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Lisa Sanders's interesting Diagnosis column (Dec. 17) on Charles Dickens's powers of observation reminded me of several examples of the same keen observation on the part of his good friend the novelist Wilkie Collins.</p>
+        <p>In ''Poor Miss Finch,'' Collins's description of the reactions of a person gaining vision for the first time after having been blind from birth (something extremely rare in his time, although it was discussed by thinkers like John Locke) has been praised for its psychological understanding. ''Hide and Seek'' studies the psychology of a deaf person, and there are many other characters with unusual physical or mental abnormalities in many of Collins's novels -- the most obvious being the sleepwalking of Franklin Blake in ''The Moonstone.''</p>
+        <p>Judith Judson</p>
+        <p>Arlington, Va.</p>
+        <p>The geriatric psychiatrist Gene D. Cohen's reading of Scrooge produced a differential diagnosis (in the journal Geriatrics, December 2002) of late-life depression accompanied by hypothyroidism, hypothermia, dehydration, arthritis and conjunctivitis associated with acute glaucoma. Fortunately, the patient responded to a home visit by a multidisciplinary team of three consultants using psychodynamic dream therapy. A successful outcome, and a lesson to all about successful late-life response to mental illness.</p>
+        <p>Michael S. Franch</p>
+        <p>Baltimore</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

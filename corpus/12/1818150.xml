@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LEWENSON, GEORGE</title>
+    <meta content="dn011207" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818150"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LEWENSON, GEORGE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E1D71E3AF931A25752C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LEWENSON, GEORGE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEWENSON--George. Age 96, of Riverdale Ave., NY, died on January 7th, 2007. Mr. Lewenson was born in Lodz, Poland. He graduated from Warsaw School of Business and The University of Warsaw. He married Mira (Alpert). As Holocaust survivors he and Mira immigranted to the United States and settled in Sheephead Bay where George established himself as a successful accountant, after receiving a degree at City College, he was an active member of the Riverdale YMCA and was a staunch supporter of Hillary Clinton. His dear wife Mira died in 1999. He is survived by his devoted son Dr. Richard Lewenson and his wife Sandra, and his loving granddaughters Nicky Lewenson Shargel and Jennifer Rebecca Hansen. Graveside service Sunday, 12:30 pm in Mt. Lebanon Cemetery, Iselin, NJ.</p>
+      </block>
+      <block class="full_text">
+        <p>LEWENSON--George. Age 96, of Riverdale Ave., NY, died on January 7th, 2007. Mr. Lewenson was born in Lodz, Poland. He graduated from Warsaw School of Business and The University of Warsaw. He married Mira (Alpert). As Holocaust survivors he and Mira immigranted to the United States and settled in Sheephead Bay where George established himself as a successful accountant, after receiving a degree at City College, he was an active member of the Riverdale YMCA and was a staunch supporter of Hillary Clinton. His dear wife Mira died in 1999. He is survived by his devoted son Dr. Richard Lewenson and his wife Sandra, and his loving granddaughters Nicky Lewenson Shargel and Jennifer Rebecca Hansen. Graveside service Sunday, 12:30 pm in Mt. Lebanon Cemetery, Iselin, NJ.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Royal Borough</title>
+    <meta content="02ubn01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816001"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DINING, SHOPPING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E5DD1130F931A35752C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Royal Borough</hl1>
+      </hedline>
+      <byline class="print_byline">By MELENA RYZIK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yes, you know that Queens is an ethnic food paradise, but are you willing to put your rent money where your mouth is? Seth Kugel was: he moved there largely for the grub. You may not be ready for that kind of commitment, but you can follow his trail of bread crumbs (and more) and navigate like a local. Hit the Tacos Guicho stand on Roosevelt Avenue for a pork or chorizo taco; the Aires del Sur bakery, on 37th Avenue in Jackson Heights, for Argentine-style empanadas; and the aptly named El Palacio de los Cholados on Northern Boulevard for a cholado, a fruity snow-cone-ice-cream medley. While you're in the neighborhood -- ok, the neighborhoods -- hit some local boutiques for styles (and prices) you won't find in Manhattan. Subdivision in Long Island City has furniture, clothing and handmade jewelry; Loveday 31 is a vintage shop run by a former buyer for Screaming Mimi's, and Mimi's Closet in Astoria sells clothing designed by Mimi Yamanobe, a onetime assistant to Issey Miyake. Only in Queens, kiddies.</p>
+        <p>Aires del Sur, 77-07 37th Avenue (718) 507-6539. Subdivision, 48-18 Vernon Boulevard, (718) 482-1899. Loveday 31, 33-06 31st Avenue, (718) 728-4057. Mimi's Closet, 21-10 31st Street, (718) 278-4585.</p>
+      </block>
+      <block class="full_text">
+        <p>Yes, you know that Queens is an ethnic food paradise, but are you willing to put your rent money where your mouth is? Seth Kugel was: he moved there largely for the grub. You may not be ready for that kind of commitment, but you can follow his trail of bread crumbs (and more) and navigate like a local. Hit the Tacos Guicho stand on Roosevelt Avenue for a pork or chorizo taco; the Aires del Sur bakery, on 37th Avenue in Jackson Heights, for Argentine-style empanadas; and the aptly named El Palacio de los Cholados on Northern Boulevard for a cholado, a fruity snow-cone-ice-cream medley. While you're in the neighborhood -- ok, the neighborhoods -- hit some local boutiques for styles (and prices) you won't find in Manhattan. Subdivision in Long Island City has furniture, clothing and handmade jewelry; Loveday 31 is a vintage shop run by a former buyer for Screaming Mimi's, and Mimi's Closet in Astoria sells clothing designed by Mimi Yamanobe, a onetime assistant to Issey Miyake. Only in Queens, kiddies.</p>
+        <p>Aires del Sur, 77-07 37th Avenue (718) 507-6539. Subdivision, 48-18 Vernon Boulevard, (718) 482-1899. Loveday 31, 33-06 31st Avenue, (718) 728-4057. Mimi's Closet, 21-10 31st Street, (718) 278-4585.  DINING, SHOPPING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

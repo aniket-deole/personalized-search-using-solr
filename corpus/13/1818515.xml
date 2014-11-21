@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Amercias: Bolivia: Morales Calls For Calm</title>
+    <meta content="13briefs-2" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818515"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <location class="indexing_service">Bolivia</location>
+        <location class="indexing_service">Cochabamba (Bolivia)</location>
+        <person class="indexing_service">Romero, Simon</person>
+        <person class="indexing_service">Morales, Evo (Pres)</person>
+        <person class="indexing_service">Reyes Villa, Manfred (Gov)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Bolivia/Cochabamba</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Bolivia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E1D71330F930A25752C0A9619C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Amercias: Bolivia: Morales Calls For Calm</hl1>
+      </hedline>
+      <byline class="print_byline">By SIMON ROMERO</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <abstract>
+        <p>Pres Evo Morales of Bolivia asks his supporters to refrain from vengeance after they clash with supporters of Gov Manfred Reyes Villa in Cochabamba State (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Street protests continued in the city of Cochabamba as President Evo Morales ordered the army and the police to guard the airport, bridges and public buildings. Mr. Morales asked his supporters to refrain from ''vengeance'' after they clashed with supporters of Cochabamba State's governor, Manfred Reyes Villa. Two people were killed and dozens wounded in clashes this week between groups armed with machetes, bats and rocks, and protesters set fire to the governor's colonial-era palace. The battles erupted after Mr. Reyes Villa joined governors from eastern provinces in pushing for greater political autonomy from the central government.</p>
+        <p>SIMON ROMERO</p>
+      </block>
+      <block class="full_text">
+        <p>Street protests continued in the city of Cochabamba as President Evo Morales ordered the army and the police to guard the airport, bridges and public buildings. Mr. Morales asked his supporters to refrain from ''vengeance'' after they clashed with supporters of Cochabamba State's governor, Manfred Reyes Villa. Two people were killed and dozens wounded in clashes this week between groups armed with machetes, bats and rocks, and protesters set fire to the governor's colonial-era palace. The battles erupted after Mr. Reyes Villa joined governors from eastern provinces in pushing for greater political autonomy from the central government.</p>
+        <p>SIMON ROMERO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

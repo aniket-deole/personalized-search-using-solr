@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pets Are No Panacea, at Least for Finns</title>
+    <meta content="02find" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815896"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FINDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Animals</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <location class="indexing_service">Finland</location>
+        <org class="indexing_service">University of Turku (Finland)</org>
+        <org class="indexing_service">Plos One (Journal)</org>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <person class="indexing_service">Koivusilta, Leena K</person>
+        <person class="indexing_service">Ojanlatva, Ansa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Finland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Finland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE7D61630F931A35752C0A9619C8B63" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pets Are No Panacea, at Least for Finns</hl1>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>Leena K Koivusilta and Ansa Ojanlatva, University of Turku (Finland) researchers, conduct study that finds Finnish pet owners do not have better health than people without pets; research studies in other countries have shown health benefits for pet owners; research is published in journal PLoS ONE; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pets are supposed to be good for you, right? Consider the various sorts of pet therapy, or studies that suggest that a nuzzle from a dog can lower blood pressure or even nudge someone out of a coma. Some surveys have found that people who have pets report fewer doctor visits and better mental health. Even longer survival after heart attacks has been reported.</p>
+        <p>And dog-walking must provide exercise and all the benefits that come with it. It only stands to reason that pet owners should be healthier than others. Doesn't it?</p>
+      </block>
+      <block class="full_text">
+        <p>Pets are supposed to be good for you, right? Consider the various sorts of pet therapy, or studies that suggest that a nuzzle from a dog can lower blood pressure or even nudge someone out of a coma. Some surveys have found that people who have pets report fewer doctor visits and better mental health. Even longer survival after heart attacks has been reported.</p>
+        <p>And dog-walking must provide exercise and all the benefits that come with it. It only stands to reason that pet owners should be healthier than others. Doesn't it?</p>
+        <p>Well, not in Finland. Leena K. Koivusilta and Ansa Ojanlatva, two researchers at the University of Turku, looked through data collected in a health survey of 21,101 Finns. Among the questions the participants were asked was whether they owned pets.</p>
+        <p>No matter how the researchers sliced the data, they found that the pet owners looked, if anything, sicker than pet-free people. Pet owners were more likely to suffer from illnesses that included high blood pressure, high cholesterol, ulcers, depression and kidney disease. They smoked more (though drank less) than people who did not own pets.</p>
+        <p>They were also fatter, particularly the dog owners, the researchers reported in the current issue of the journal PLoS ONE.</p>
+        <p>That does not mean pets induce disease. At least in Finland, pet owners tended to be poorer, less educated and older, and those factors, rather than pets, probably explain the health disparity.</p>
+        <p>Nor does it mean that pets aren't good for you. It's just that the benefits may not be medical.</p>
+        <p>KENNETH CHANG</p>
+        <p>FINDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

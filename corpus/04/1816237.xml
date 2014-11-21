@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Bar Stool That Can Disappear, Inside or Out</title>
+    <meta content="04dwr" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816237"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: FURNITURE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Furniture</classifier>
+        <classifier class="indexing_service" type="descriptor">Lucite</classifier>
+        <classifier class="indexing_service" type="descriptor">Acrylic</classifier>
+        <classifier class="indexing_service" type="descriptor">Ultraviolet Light</classifier>
+        <person class="indexing_service">Rashid, Karim</person>
+        <person class="indexing_service">Milioti, Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Furniture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07EFDA1730F937A35752C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Bar Stool That Can Disappear, Inside or Out</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN MILIOTI</byline>
+      <byline class="normalized_byline">Milioti, Stephen</byline>
+      <abstract>
+        <p>Karim Rashid's new Magino bar stool and coffee table are made out of clear Lucite acrylic and are protected from ultraviolet rays so they can be used outdoors; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Karim Rashid's new Magino bar stool and coffee table are both made of clear Lucite acrylic, a material that fans of the designer's work have come to know well. (Lucite is one of Mr. Rashid's favorite materials because it has ''a perceived lightness and clarity,'' he said, and ''an immateriality that disappears in any décor.'') It is as strong as it is transparent -- the bar stool, for example, can hold up to 300 pounds.</p>
+        <p>Both pieces are protected from ultraviolet rays so they can be used outdoors, and their curvy legs double as built-in storage compartments. The Magino bar stool ($498) and coffee table ($698) are available at Design Within Reach; (800) 944-2233 or www.dwr.com.</p>
+        <p>STEPHEN MILIOTI</p>
+      </block>
+      <block class="full_text">
+        <p>Karim Rashid's new Magino bar stool and coffee table are both made of clear Lucite acrylic, a material that fans of the designer's work have come to know well. (Lucite is one of Mr. Rashid's favorite materials because it has ''a perceived lightness and clarity,'' he said, and ''an immateriality that disappears in any décor.'') It is as strong as it is transparent -- the bar stool, for example, can hold up to 300 pounds.</p>
+        <p>Both pieces are protected from ultraviolet rays so they can be used outdoors, and their curvy legs double as built-in storage compartments. The Magino bar stool ($498) and coffee table ($698) are available at Design Within Reach; (800) 944-2233 or www.dwr.com.</p>
+        <p>STEPHEN MILIOTI  CURRENTS: FURNITURE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

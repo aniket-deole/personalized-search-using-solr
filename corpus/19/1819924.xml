@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York Ceramics Fair</title>
+    <meta content="19gall-1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819924"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ceramics and Pottery</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">New York Ceramics Fair</classifier>
+        <person class="indexing_service">Glueck, Grace</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ceramics and Pottery</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E4DC1E30F93AA25752C0A9619C8B63" item-length="515" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York Ceramics Fair</hl1>
+      </hedline>
+      <byline class="print_byline">By GRACE GLUECK</byline>
+      <byline class="normalized_byline">Glueck, Grace</byline>
+      <abstract>
+        <p>Grace Glueck reviews New York Ceramics Fair; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>National Academy Museum  1083 Fifth Avenue, at 89th Street  Through Sunday</p>
+        <p>Think of the National Academy Museum, for the next few days, as a walk-in china and curio cabinet where you can see and buy anything from a sedate little 17th-century English stoneware teapot to a new, and naughty, faience vase by the German potter Hinrich Kröger. The museum, whose intimate town house spaces make it a perfect showcase for pottery, porcelain, glass and enamels, is the site of the New York Ceramics Fair, now in its eighth season and an important participant in Winter Antiques Week.</p>
+      </block>
+      <block class="full_text">
+        <p>National Academy Museum  1083 Fifth Avenue, at 89th Street  Through Sunday</p>
+        <p>Think of the National Academy Museum, for the next few days, as a walk-in china and curio cabinet where you can see and buy anything from a sedate little 17th-century English stoneware teapot to a new, and naughty, faience vase by the German potter Hinrich Kröger. The museum, whose intimate town house spaces make it a perfect showcase for pottery, porcelain, glass and enamels, is the site of the New York Ceramics Fair, now in its eighth season and an important participant in Winter Antiques Week.</p>
+        <p>This year the fair presents 40 dealers from the United States and abroad, including a handful who are potters themselves. Many dealers specialize, like Janice Paull, whose stock of English ironstone china (1790-1850) includes an unusual ''fire surround,'' made to edge a fireplace, in deep blue decorated with a gold floral-and-leaf pattern.</p>
+        <p>On the other hand, there is Leo Kaplan, whose inclusive spread covers a variety of European objects, among them Wedgwood portrait medallions; turn-of-the-century cameo-cut glass vessels by Thomas Webb &amp; Sons; and a faience Columbine cat and a Harlequin dog (1880-1890) by the French designer Émile Gallé.</p>
+        <p>Chinese objects from various dynasties, most made for export, come in all shapes and sizes. At Cohen &amp; Cohen is a rare pair of tureens and covers strikingly glazed in deep turquoise and modeled in the form of shells, from the Kangxi period (around 1720). Imperial Oriental Art shows a small but lovely pair of rectangular jardinières and stands, their white surfaces patterned with intricate rose-colored floral abstractions, from the Qianlong period (1736-95).</p>
+        <p>A smallish but fierce Chinese tiger of porcelain (around 1820), whose yellow and black stripes are set off by beady green eyes, sits guard at James M. Labaugh Antiques. And flowery Chinese plates are much in evidence, including a pair of 18th-century dishes with convex centers for holding rosewater -- perhaps used as fingerbowls -- at Earle D. Vandekar of Knightsbridge.</p>
+        <p>Americana is by no means neglected. At the Stradlings, one wonderfully odd object is a primitive-looking, face-shaped pocket or saddlebag flask (about 1830), stained brown with iron oxide and crudely incised with lines suggesting hair. William R. &amp; Teresa F. Kurau are showing two rare serving platters in deep blue Staffordshire (1825-1835) from a series depicting American cities, in this case Sandusky, Ohio, and Detroit.</p>
+        <p>And on the light side, Michelle Erickson, a present-day ceramicist, has satirical fun with ''St. George and the Dragon,'' a tableau depicting a monkey who stands atop a donkey, thrusting his lance at the Statue of Liberty, who lies at his feet, as a morose vulture looks on.</p>
+        <p>Mention must be made of the superlative group of high-end enameled tchotchkes at John Jaffa Antiques -- The Antique Enamel Company: perfume bottles, snuff boxes, toys, Fabergé items, even a completely furnished sewing box. And the awesome display of flamboyant pieces at Nicolaus Boston Antiques gives majolica a new dimension.</p>
+        <p>GRACE GLUECK</p>
+        <p>Hours: Today and tomorrow, 11 a.m. to 7 p.m.; Sunday, noon to 5 p.m. Admission: $15. Information: (212) 289-0496.</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KARNAL, GEORGE J.</title>
+    <meta content="dn012407" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820992"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KARNAL, GEORGE J.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDA1F3AF937A15752C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KARNAL, GEORGE J.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KARNAL--George J. Passed away peacefully in Burlingame, CA, on January 20, 2007, at age 92. Husband of Audrey Karnal; father of Karen and George Kingston and the late Craig Karnal; grandfather, uncle and cousin to many. Born in Brooklyn, NY, and raised in New Jersey. In 1947, after he was married in San Francisco, he and Audrey moved to New York and then Connecticut. Moved back to San Francisco in 1975 after George retired as National Sales Manager for Phillip Morris Co. (Altria). He was an honorary life member of the American Red Cross, and a volunteer for the NY Jewish Federation. Services by Sinai Memorial Chapel, 415 921-3636</p>
+      </block>
+      <block class="full_text">
+        <p>KARNAL--George J. Passed away peacefully in Burlingame, CA, on January 20, 2007, at age 92. Husband of Audrey Karnal; father of Karen and George Kingston and the late Craig Karnal; grandfather, uncle and cousin to many. Born in Brooklyn, NY, and raised in New Jersey. In 1947, after he was married in San Francisco, he and Audrey moved to New York and then Connecticut. Moved back to San Francisco in 1975 after George retired as National Sales Manager for Phillip Morris Co. (Altria). He was an honorary life member of the American Red Cross, and a volunteer for the NY Jewish Federation. Services by Sinai Memorial Chapel, 415 921-3636</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

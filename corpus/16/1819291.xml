@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Half-Empty Glass</title>
+    <meta content="16slett-2" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819291"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <person class="indexing_service">Lanthier, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE6D81030F935A25752C0A9619C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Half-Empty Glass</hl1>
+      </hedline>
+      <abstract>
+        <p>Jennifer Lanthier letter on January 9 article about pessismists says that study participants are not pessismists, but realists</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Yet Another Worry for Those Who Believe the Glass Is Half-Empty'' (Jan. 9): So, a Dutch study found pessimists were ''more likely to die of heart disease and other causes'' than optimists. And Dr. Richard A. Friedman's essay -- understandably -- focused on whether pessimism triggered the higher mortality rate. But as a layperson I found myself wondering whether it would make more sense to simply relabel each participant in the study. I would dub them all realists.</p>
+        <p>Jennifer Lanthier  Toronto</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Yet Another Worry for Those Who Believe the Glass Is Half-Empty'' (Jan. 9): So, a Dutch study found pessimists were ''more likely to die of heart disease and other causes'' than optimists. And Dr. Richard A. Friedman's essay -- understandably -- focused on whether pessimism triggered the higher mortality rate. But as a layperson I found myself wondering whether it would make more sense to simply relabel each participant in the study. I would dub them all realists.</p>
+        <p>Jennifer Lanthier  Toronto</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

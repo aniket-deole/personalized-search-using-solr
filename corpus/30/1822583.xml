@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Nuclear Warhead</title>
+    <meta content="l30nuclear" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822583"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Arms Control and Limitation and Disarmament</classifier>
+        <person class="indexing_service">Brooks, Linton F</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arms Control and Limitation and Disarmament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E6D9143FF933A05752C0A9619C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Nuclear Warhead</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Linton F Brooks, former administrator of National Nuclear Security Administration, disagrees with Jan 15 editorial; says Bush administration is committed to smallest nuclear stockpile consistent with nation's security</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Busywork for Nuclear Scientists'' (editorial, Jan. 15):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Busywork for Nuclear Scientists'' (editorial, Jan. 15):</p>
+        <p>Nuclear deterrence undergirds America's security and that of our allies.</p>
+        <p>The administration is committed to the smallest nuclear stockpile consistent with our security; to safe, secure and reliable weapons; and to the current nuclear testing moratorium. That's why it seeks to develop the Reliable Replacement Warhead.</p>
+        <p>You do not acknowledge the national security potential this warhead holds, and you make light of its increased safety and security features. In a terrorist age, nuclear safety and security are crucial.</p>
+        <p>There is no ''busywork.'' Developing the warhead will increase security while maintaining our nuclear scientists' design skills.</p>
+        <p>This warhead will not hurt American credibility overseas. It does not expand capabilities, but replaces existing weapons with ones of greater reliability. With greater confidence in our weapons' reliability, we could significantly reduce the numbers of spare warheads.</p>
+        <p>I disagree that President Bush has not focused on nuclear arms reduction. Under plans he approved, by 2012 the stockpile will be at the lowest levels since the Eisenhower administration.</p>
+        <p>The Reliable Replacement Warhead will give the United States up-to-date security and safety while making it easier to maintain the stockpile. It deserves support, not condemnation.</p>
+        <p>Linton F. Brooks  Washington, Jan. 25, 2007</p>
+        <p>The writer is the former administrator of the National Nuclear Security Administration.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

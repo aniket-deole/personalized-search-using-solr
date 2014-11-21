@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUICK BITE/White Plains; Authentic Taste Of Jamaica In a Deli Without Frills</title>
+    <meta content="14weqbiteWC" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/nyregion/nyregionspecial2/14weqbite.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818724"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Westchester"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Ruth's Jamaican Hot &amp; Cold Deli (White Plains, NY)</org>
+        <person class="indexing_service">Denitto, Emily</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E0D71230F937A25752C0A9619C8B63" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUICK BITE/White Plains; Authentic Taste Of Jamaica In a Deli Without Frills</hl1>
+        <hl2 class="online_headline">Authentic Taste of Jamaica in a Deli Without Frills</hl2>
+      </hedline>
+      <byline class="print_byline">By EMILY DeNITTO</byline>
+      <byline class="normalized_byline">Denitto, Emily</byline>
+      <abstract>
+        <p>Emily DeNitto reviews Ruth's Jamaican Hot &amp; Cold Deli in White Plains, NY (Quick Bite column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ruth Davis can be shy with new visitors, a quiet presence behind the counter of this no-frills storefront deli in a residential section of White Plains just west of the County Center. But the Jamaican tastes she serves up are bold, authentic and well worth ferreting out.</p>
+        <p>Her beef and chicken patties ($1.50 each), with their flaky crusts and well-mashed, flavorful fillings, are the best I've tasted this side of Flatbush, Brooklyn. There is ackee-, callaloo- or okra-and-salt fish, cow's foot, ox tail, and curried goat or chicken (entrees are typically $7 or $9, depending on the size; lunch specials are available for $5.50). Jerk chicken or pork has just the right amount of fire.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ruth Davis can be shy with new visitors, a quiet presence behind the counter of this no-frills storefront deli in a residential section of White Plains just west of the County Center. But the Jamaican tastes she serves up are bold, authentic and well worth ferreting out.</p>
+      </block>
+      <block class="full_text">
+        <p>Ruth Davis can be shy with new visitors, a quiet presence behind the counter of this no-frills storefront deli in a residential section of White Plains just west of the County Center. But the Jamaican tastes she serves up are bold, authentic and well worth ferreting out.</p>
+        <p>Her beef and chicken patties ($1.50 each), with their flaky crusts and well-mashed, flavorful fillings, are the best I've tasted this side of Flatbush, Brooklyn. There is ackee-, callaloo- or okra-and-salt fish, cow's foot, ox tail, and curried goat or chicken (entrees are typically $7 or $9, depending on the size; lunch specials are available for $5.50). Jerk chicken or pork has just the right amount of fire.</p>
+        <p>Ms. Davis is a patient woman. The stars of her kitchen are her sauces, created by first seasoning and browning the meat, then letting it cook down slowly to exquisite tenderness in a rich brown sauce. Her pepper steak and braised chicken are terrific examples of the process. The sides -- rice and peas, candied yams, fritters (fish cakes) -- are great accompaniments. And Ms. Davis's homemade spice cake is a light and lovely end to the meal.</p>
+        <p>There are only a few tables if you want to eat in (most people buy takeout), but if you spend some time, Ms. Davis will warm up to you eventually. She had her first store in her native Kingston, Jamaica, about 20 years ago. When she came to Westchester soon after that, she worked for years as a nurse's aide before she was able to open Ruth's Jamaican in 2000.</p>
+        <p>''I always knew I'd have another restaurant,'' Ms. Davis said. ''I was always cooking at home, for my friends and family. It's just what I do.''</p>
+        <p>Ruth's Jamaican Hot &amp; Cold Deli, 255 Battle Avenue, White Plains; (914) 289-0155.</p>
+        <p>EMILY DeNITTO</p>
+        <p>Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

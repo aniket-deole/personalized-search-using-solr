@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kids Play on Our Behalf</title>
+    <meta content="l20schiff" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820053"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Playgrounds</classifier>
+        <classifier class="indexing_service" type="descriptor">Families and Family Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <person class="indexing_service">Karasik, Judy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E2D91E30F933A15752C0A9619C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kids Play on Our Behalf</hl1>
+      </hedline>
+      <abstract>
+        <p>Judy Karasik letter holds that many parents are pushing their children so they can achieve what parents have not (Stacy Schiff Jan 16 Op-Ed)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Caution: Grown-Ups at Play,'' by Stacy Schiff (column, Jan. 16):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Caution: Grown-Ups at Play,'' by Stacy Schiff (column, Jan. 16):</p>
+        <p>I would extend Ms. Schiff's contention that we boomer parents are using involvement with our children to return to our own childhoods -- yes, and more.</p>
+        <p>I also think that many of us are involved so that our children can do the achieving that we haven't. Here we are entering our 50s, the well-known period of resignation to disappointment, and here they are entering middle school, and thanks to our pushing opportunity down their throats, they can ace algebra while they're still in sixth grade!</p>
+        <p>If you're not the best and the brightest, you can become so, through your over-tutored, over-protected, over-guided (and soon to be burnt out) son or daughter.</p>
+        <p>It's not just that we're going back to the playground -- they're doing our adult achieving for us.</p>
+        <p>Judy Karasik  Silver Spring, Md., Jan. 17, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BERRY, DOROTHY M.</title>
+    <meta content="dn011907" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819764"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BERRY, DOROTHY M.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E0DD1F3AF93AA25752C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BERRY, DOROTHY M.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BERRY--Dorothy M., 87, died January 14th 2007, widow of Dr. Edgar Berry. She was a retired Navy Lieutenant, 1941 Radcliffe graduate, past president of the Lenox Hill Hospital Women's Auxiliary and past president of the New York State A.M.A. Auxiliary. She is survived by two children, Dr. William Berry of Portsmouth, NH and Dorothy Plessner of Ozona, FL and five grandchildren. In lieu of flowers donations should be made to the Lenox Hill Women's Auxiliary.</p>
+        <p>$(6$)BERRY--Dorothy. The Auxiliary of Lenox Hill Hospital notes with deep sadness the passing of Dorothy Berry. A valued member for 45 years, she will be greatly missed by all whose lives she touched.</p>
+      </block>
+      <block class="full_text">
+        <p>BERRY--Dorothy M., 87, died January 14th 2007, widow of Dr. Edgar Berry. She was a retired Navy Lieutenant, 1941 Radcliffe graduate, past president of the Lenox Hill Hospital Women's Auxiliary and past president of the New York State A.M.A. Auxiliary. She is survived by two children, Dr. William Berry of Portsmouth, NH and Dorothy Plessner of Ozona, FL and five grandchildren. In lieu of flowers donations should be made to the Lenox Hill Women's Auxiliary.</p>
+        <p>$(6$)BERRY--Dorothy. The Auxiliary of Lenox Hill Hospital notes with deep sadness the passing of Dorothy Berry. A valued member for 45 years, she will be greatly missed by all whose lives she touched.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

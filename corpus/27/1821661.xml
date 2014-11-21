@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   TANUR, EDITH M.</title>
+    <meta content="dn012708.1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821661"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">TANUR, EDITH M.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E2DE173AF934A15752C0A9619C8B63" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   TANUR, EDITH M.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TANUR--Edith M., at Martins Run, Media, PA, formerly of Ridgewood, Queens, age 100. Mother of Michael Tanur and mother-in-law of Judith Tanur, grandmother of Marcia Tanur, Victoria Gurfolino, and the late Rachel Tanur, great-grandmother of Max Lopez Tanur and Emma Chun Tanur, aunt of Alexander and Donna Gringauz and Marshall, Daniel and Steven Gringauz and their families. We will miss her. Graveside service Sunday, January 27th, 10am, Knollwood Park Cemetery, Ridgewood, Queens.</p>
+      </block>
+      <block class="full_text">
+        <p>TANUR--Edith M., at Martins Run, Media, PA, formerly of Ridgewood, Queens, age 100. Mother of Michael Tanur and mother-in-law of Judith Tanur, grandmother of Marcia Tanur, Victoria Gurfolino, and the late Rachel Tanur, great-grandmother of Max Lopez Tanur and Emma Chun Tanur, aunt of Alexander and Donna Gringauz and Marshall, Daniel and Steven Gringauz and their families. We will miss her. Graveside service Sunday, January 27th, 10am, Knollwood Park Cemetery, Ridgewood, Queens.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marionettes, A Saxophone And a Battle To the Death</title>
+    <meta content="13rapt" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/13/theater/reviews/13rapt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818386"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THEATER REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Puppets</classifier>
+        <person class="indexing_service">Genzlinger, Neil</person>
+        <object.title class="indexing_service">Rapture Project, The (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="descriptor">Puppets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Toys</classifier>
+        <object.title class="online_producer">Rapture Project, The (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05EFDB1330F930A25752C0A9619C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marionettes, A Saxophone And a Battle To the Death</hl1>
+        <hl2 class="online_headline">Marionettes, a Saxophone and a Battle to the Death</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+      <abstract>
+        <p>Neil Genzlinger reviews marionette show The Rapture Project at Here Arts Center; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''The Rapture Project,'' an eccentric show with marionettes and an oompah band, is inspired by a strand of Sicilian puppet theater most popular in the 19th century, and any 19th-century Sicilians in the audience will no doubt find it quite enjoyable. Everybody else will be mystified more often than not.</p>
+        <p>The Sicilian puppet theater features clashes between Christians and Muslims, and so does ''The Rapture Project,'' but in a decidedly updated fashion. Susan Sontag floats through and gets into a smackdown with Beelzebub. A character named Bernard Bernard, who may call to mind a former New York City police commissioner, sells defective body armor for use in Iraq. Some tourists go on the fundamentalist Christian version of the Grand Canyon tour. (The canyon, they are told, was created a few thousand years ago by the same flood that carried Noah's ark.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“The Rapture Project,” an eccentric show with marionettes and an oompah band, has amusing tidbits, but it’s all too disconnected to deliver much punch.</p>
+      </block>
+      <block class="full_text">
+        <p>''The Rapture Project,'' an eccentric show with marionettes and an oompah band, is inspired by a strand of Sicilian puppet theater most popular in the 19th century, and any 19th-century Sicilians in the audience will no doubt find it quite enjoyable. Everybody else will be mystified more often than not.</p>
+        <p>The Sicilian puppet theater features clashes between Christians and Muslims, and so does ''The Rapture Project,'' but in a decidedly updated fashion. Susan Sontag floats through and gets into a smackdown with Beelzebub. A character named Bernard Bernard, who may call to mind a former New York City police commissioner, sells defective body armor for use in Iraq. Some tourists go on the fundamentalist Christian version of the Grand Canyon tour. (The canyon, they are told, was created a few thousand years ago by the same flood that carried Noah's ark.)</p>
+        <p>Other amusing tidbits float by now and again, but it's all too disconnected to deliver much punch. Watching the puppets smash one another to death in the colorful climactic battle, you feel a bit cheated: Why wasn't the rest of the show this entertaining?</p>
+        <p>The best thing about it ends up being the saxophone playing of Jessica Lurie, who composed the quirky music.</p>
+        <p>''The Rapture Project'' continues through Jan. 21 at Here Arts Center, 145 Avenue of the Americas, at Dominick Street, South Village, (212) 352-3101.</p>
+        <p>THEATER REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

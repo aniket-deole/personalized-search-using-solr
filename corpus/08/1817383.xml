@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ira D. Wallach, 97, a Philanthropist</title>
+    <meta content="08wallach" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/nyregion/08wallach.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817383"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Philanthropy</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Ira David Wallach</classifier>
+        <person class="indexing_service">Wallach, Ira David</person>
+        <person class="indexing_service">Mcfadden, Robert D</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DB1530F93BA35752C0A9619C8B63" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ira D. Wallach, 97, a Philanthropist</hl1>
+        <hl2 class="online_headline">Ira D. Wallach, 97, a Philanthropist, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT D. McFADDEN</byline>
+      <byline class="normalized_byline">Mcfadden, Robert D</byline>
+      <abstract>
+        <p>Ira David Wallach, New York City philanthropist, dies at age 97 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ira D. Wallach, a New York philanthropist who for many years was the chief executive of Central National-Gottesman Inc., the world's largest private marketer of pulp, paper and newsprint, died on Saturday at the White Plains Hospital Center. He was 97 and lived in Scarsdale.</p>
+        <p>His death was confirmed by Peter Siegfried, a lawyer for the company. Mr. Wallach also had homes in New York City and Martha's Vineyard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ira D. Wallach was a New York philanthropist who for many years was the chief executive of Central National-Gottesman Inc.</p>
+      </block>
+      <block class="full_text">
+        <p>Ira D. Wallach, a New York philanthropist who for many years was the chief executive of Central National-Gottesman Inc., the world's largest private marketer of pulp, paper and newsprint, died on Saturday at the White Plains Hospital Center. He was 97 and lived in Scarsdale.</p>
+        <p>His death was confirmed by Peter Siegfried, a lawyer for the company. Mr. Wallach also had homes in New York City and Martha's Vineyard.</p>
+        <p>In a career of more than 70 years, he was a lawyer and businessman with interests in philanthropy and in global economic and political affairs. With his wife, the former Miriam Gottesman, he created a charitable foundation whose beneficiaries included the New York Public Library, Columbia University, the American Museum of Natural History and the Metropolitan Museum of Art.</p>
+        <p>Mr. Wallach was an outspoken opponent of the Vietnam War and many policies of the Nixon administration. He was named in a White House memorandum listing Nixon's ''political opponents,'' one step down from the notorious ''enemies list'' -- people who were singled out for tax audits and other problems.</p>
+        <p>In 1980, Mr. Wallach co-founded the Institute for East West Security Studies, now known as the EastWest Institute, a research group that focuses on international political, economic and security issues.</p>
+        <p>Ira David Wallach was born in New York City on June 3, 1909. He earned bachelor's and law degrees from Columbia University and was a Navy lieutenant in World War II.</p>
+        <p>In 1946 he joined Gottesman &amp; Company, as it was then known, as executive vice president. He was the chief executive and a director of the company from 1956 to 1979, later serving as chairman and then senior vice chairman, the title he held at his death. During his tenure, the company, which is based in Purchase, N.Y., grew from a relatively small wood pulp distributor into an organization with operations in 18 countries.</p>
+        <p>Through the Miriam G. and Ira D. Wallach Foundation, gifts established an art gallery and a professorship at Columbia, an orientation hall at the American Museum of Natural History and paid for improvements at many other institutions.</p>
+        <p>In addition to his wife, whom he married in 1938, Mr. Wallach is survived by two daughters, Sue W. Wachenheim, of Rye, and Kate W. Cassidy, of East Hampton; a son, Kenneth L., of New York City; 13 grandchildren and four great-grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

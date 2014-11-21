@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>China Says Its Trade Surplus in 2006 Climbed to a Record</title>
+    <meta content="11yuan" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/11/business/worldbusiness/11yuan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818011"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <location class="indexing_service">China</location>
+        <person class="indexing_service">Bradsher, Keith</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <location class="online_producer">China</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E4DA1230F932A25752C0A9619C8B63" item-length="415" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>China Says Its Trade Surplus in 2006 Climbed to a Record</hl1>
+        <hl2 class="online_headline">China Says Its Trade Surplus in 2006 Climbed to a Record</hl2>
+      </hedline>
+      <byline class="print_byline">By KEITH BRADSHER</byline>
+      <byline class="normalized_byline">Bradsher, Keith</byline>
+      <dateline>HONG KONG, Jan. 10</dateline>
+      <abstract>
+        <p>China reports trade surplus soared to record $177.47 billion in 2006 as exports continued to rise briskly; widening trade surplus has been slowly festering political issue with US; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>China's trade surplus soared to a record $177.47 billion last year as exports continued to rise briskly, China's customs administration announced Wednesday night.</p>
+        <p>China's widening trade surplus -- it was $102 billion in 2005 -- has been a slowly festering political issue with the United States. Democrats have promised to give it greater attention this year after taking control of Congress in the November elections.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>China’s trade surplus soared to a record $177.47 billion last year as exports continued to rise briskly.</p>
+      </block>
+      <block class="full_text">
+        <p>China's trade surplus soared to a record $177.47 billion last year as exports continued to rise briskly, China's customs administration announced Wednesday night.</p>
+        <p>China's widening trade surplus -- it was $102 billion in 2005 -- has been a slowly festering political issue with the United States. Democrats have promised to give it greater attention this year after taking control of Congress in the November elections.</p>
+        <p>The official New China News Agency said the Ministry of Commerce had previously expected the country's trade surplus to be $168 billion.</p>
+        <p>Trade data released Wednesday was only a snapshot of total Chinese trade last year, and included few detailed breakdowns by country or product. Chinese officials had previously released figures showing that their country's trade surplus with the United States for the first 11 months of last year was nearly equal to China's entire trade surplus with all other countries, and there has been no sign that this changed in December.</p>
+        <p>But China's trade surplus narrowed slightly in December, to $21 billion, after hitting $22.9 billion in November and $23.83 billion in October. Ben Simpfendorfer, a currency strategist at the Royal Bank of Scotland, said China's trade surplus appeared to be leveling off at a very high plateau.</p>
+        <p>Compared with economists' expectations, he said, the trade surplus in December ''looks just a touch bigger, but not remarkably so.''</p>
+        <p>China's surplus in December 2005 had been $11.02 billion, which was China's third-largest monthly surplus ever at the time but has now been exceeded in 9 out of 12 months in 2006.</p>
+        <p>China's trade surpluses in December sometimes vary widely, however, and many Western experts treat them with caution.</p>
+        <p>Chinese statisticians have long tended to make a lot of adjustments to December figures in many categories, not just trade, so that full-year figures either reflect more clearly the statisticians' sense of actual economic performance or correspond more closely to government leaders' economic targets.</p>
+        <p>Among the handful of categories for which China did release full-year figures, the most eye-catching was steel. Chinese steel exports rose 110 percent last year, the government said.</p>
+        <p>Steel has been at the center of international trade disputes for decades, and some American steel companies and unions are now encouraging the United States government to take action against Chinese steel exports.</p>
+        <p>Franklin Lavin, the undersecretary of commerce for international trade, said in a speech in Hong Kong on Dec. 8 that China should cut subsidies for its steel industry to reduce the possibility of facing legal action.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

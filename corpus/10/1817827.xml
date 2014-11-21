@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Viewership Ranks 3rd for a B.C.S. Final</title>
+    <meta content="10ratings" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/sports/ncaafootball/10ratings.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817827"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">BCS National Championship</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">University of Florida</org>
+        <org class="indexing_service">Ohio State University</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/College Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="descriptor">College Athletics</classifier>
+        <classifier class="online_producer" type="descriptor">Bowl Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bowl Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <org class="online_producer">Bowl Championship Series</org>
+        <org class="online_producer">Fox Broadcasting Co</org>
+        <org class="online_producer">Ohio State University</org>
+        <org class="online_producer">University of Florida</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE6DD1230F933A25752C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Viewership Ranks 3rd for a B.C.S. Final</hl1>
+        <hl2 class="online_headline">Viewership Ranks 3rd for a B.C.S. Final</hl2>
+      </hedline>
+      <abstract>
+        <p>Viewership for college football title game between Florida University and Ohio State University is third-highest in BCS history (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Florida's 41-14 rout of Ohio State in the Bowl Championship Series national title game Monday night attracted an average of 28.8 million viewers to the Fox broadcast, making it the third-most-watched college football title game since the B.C.S.'s debut in the 1998-99 season.</p>
+        <p>It was also the most-viewed program in prime time this season.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Bowl Championship Series national title game Monday night attracted an average of 28.8 million viewers to the Fox broadcast.</p>
+      </block>
+      <block class="full_text">
+        <p>Florida's 41-14 rout of Ohio State in the Bowl Championship Series national title game Monday night attracted an average of 28.8 million viewers to the Fox broadcast, making it the third-most-watched college football title game since the B.C.S.'s debut in the 1998-99 season.</p>
+        <p>It was also the most-viewed program in prime time this season.</p>
+        <p>Last year, Texas' thrilling 41-38 win over Southern California in the title game was seen by an average of 35.6 million viewers.</p>
+        <p>The rating for the Gators' victory peaked at a 19.2 between 9:30 and 10 p.m. Eastern, then fell to a 14.9 in the final 17 minutes, from 11:30 to 11:47.</p>
+        <p>Fox's four B.C.S. games averaged 16.6 million viewers. Including the 24 million for the Rose Bowl on ABC, the five-game B.C.S. average rose to 18.3 million. Under last year's four-game format, the average was 22.1 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

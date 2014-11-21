@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>School Workers And Suspected Abuse</title>
+    <meta content="l21city-2" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820459"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Lewis, Avi</person>
+        <person class="indexing_service">White, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E5D81E30F932A15752C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>School Workers And Suspected Abuse</hl1>
+      </hedline>
+      <abstract>
+        <p>Retired teacher Avi Lewis letter on Andrew White's January 14 Op-Ed article on reports of suspected child abuse by New York City school officials</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Andrew White, the director of the New School's Center for New York City Affairs and editor of Child Welfare Watch, should have known better than to repeat anonymous city officials' complaints that ''far too many'' reports of child abuse ''come from school officials who don't first reach out to families to find out why a child is missing school, hungry or poorly clothed'' (''New York's Kindest,'' Op-Ed, Jan. 14).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Andrew White, the director of the New School's Center for New York City Affairs and editor of Child Welfare Watch, should have known better than to repeat anonymous city officials' complaints that ''far too many'' reports of child abuse ''come from school officials who don't first reach out to families to find out why a child is missing school, hungry or poorly clothed'' (''New York's Kindest,'' Op-Ed, Jan. 14).</p>
+        <p>He must be aware that school workers are legally mandated to report promptly all cases of suspected child abuse, without first investigating their suspicions. That mandate, inconvenient as it may be for all concerned, is very important; it ensures that those who often first observe signs of child abuse promptly report all suspicious cases to those most qualified to investigate.</p>
+        <p>New Yorkers have seen too many tragic cases in which early suspicions were not reported to allow exceptions in order to lower caseloads and improve city statistics.</p>
+        <p>Avi Lewis  Sheepshead Bay, Brooklyn</p>
+        <p>The writer is a retired schoolteacher.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Car Choreography</title>
+    <meta content="28park" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/nyregion/thecity/28park.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822072"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="URBAN STUDIES/PARKING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Parking</classifier>
+        <classifier class="online_producer" type="descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE1DC173FF93BA15752C0A9619C8B63" item-length="495" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Car Choreography</hl1>
+        <hl2 class="online_headline">Car Choreography</hl2>
+      </hedline>
+      <byline class="print_byline">By BEN GIBBERD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT 8:30 on a recent morning, a line of cars snaked into the J &amp; L Parking lot on Pacific Street in Boerum Hill, Brooklyn. There to greet them, as always, was the lot's manager, John Trombino, a substantial figure with a jet-black mane.</p>
+        <p>Like many lots, J &amp; L accommodates ''dailies'' -- commuters who arrive and depart at rush hour -- and ''monthlies,'' locals who generally use their cars only in the evenings or on weekends. The dailies occupy the inner two rows of the lot, firmly blocking in the two outer rows of monthlies.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For a parking lot manager, it's an all-day juggling act.</p>
+      </block>
+      <block class="full_text">
+        <p>AT 8:30 on a recent morning, a line of cars snaked into the J &amp; L Parking lot on Pacific Street in Boerum Hill, Brooklyn. There to greet them, as always, was the lot's manager, John Trombino, a substantial figure with a jet-black mane.</p>
+        <p>Like many lots, J &amp; L accommodates ''dailies'' -- commuters who arrive and depart at rush hour -- and ''monthlies,'' locals who generally use their cars only in the evenings or on weekends. The dailies occupy the inner two rows of the lot, firmly blocking in the two outer rows of monthlies.</p>
+        <p>In an ideal world these two tribes would coexist without intervention, but this being New York, emergencies arise: monthlies need to leave in the middle of the day; dailies stay later than planned. Further complicating matters, Mr. Trombino heads off for the day at 10 a.m. to help his father in another lot nearby. Fortunately, this is where the gift of his automotive choreography comes into play.</p>
+        <p>Mr. Trombino, who took over the lot from his grandfather in 1990, knows the parking habits of his clients intimately. Many of them have been parking at J &amp; L for as long as he's been there. By the time he leaves each morning, he has established a system that unfolds -- usually -- like clockwork, each car positioned so it can leave at just the right time.</p>
+        <p>That recent morning, as a Lexus S.U.V. pulled in, Mr. Trombino jumped to attention. ''That's Charlie,'' he said. ''Charlie's a monthly. He's normally parked already, but he's returning his wife's car.''</p>
+        <p>Mr. Trombino squeezed behind the wheel of a black Volvo and whipped it out into the lot's central aisle. Then he did the same with the green Mitsubishi behind it (some drivers are required to leave their cars unlocked with their keys inside, a small inconvenience for a lot that at $125 a month, or $7 a day, charges about half the going rate). The Lexus promptly reversed into the space created by Mr. Trombino.</p>
+        <p>A few minutes later, a Honda Civic pulled up.</p>
+        <p>''I wasn't expecting her today,'' said Mr. Trombino, who told the driver to leave her car next to the idling Volvo and Mitsubishi. ''Now I've got to juggle these three.''</p>
+        <p>Usually this ballet goes smoothly, but there are hitches. People forget to leave their keys in their cars, or they lock them. Mr. Trombino's justice is swift. He has been known to search the nearby criminal courts and hospital, where a large number of his clients work, for offenders. A few years ago, he banned the former principal of the local high school for repeatedly locking her car and leaving the main gate open. Once out, people do not get back in.</p>
+        <p>But there's one person who doesn't park there, and that's Mr. Trombino, who makes the four-hour round trip from his Staten Island home by bus and subway.</p>
+        <p>''Are you kidding? It's murder parking around here,'' he said.</p>
+        <p>BEN GIBBERD</p>
+        <p>URBAN STUDIES/PARKING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ensuring College Access</title>
+    <meta content="l03college" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816105"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Tuition</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Long Island University</org>
+        <person class="indexing_service">Haynes, Gale Stevens</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tuition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E0DC1730F930A35752C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ensuring College Access</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Gale Stevens Hayne, provost of Long Island University, Brooklyn campus, calls upon lawmakers in New York State to increase tuition-assistance program (Dec 20 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Public Universities Vie to Join the Top 10 in Academic Rankings'' (news article, Dec. 20):</p>
+        <p>The option of a private college education has long been vital for first-generation collegians, immigrants, minorities and others who are more likely to succeed with individual guidance and smaller class sizes, which public institutions cannot often provide. But the same economic forces driving students with privileged backgrounds to compete for admission to public universities threaten middle- and lower-income students' access to public and private institutions alike.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Public Universities Vie to Join the Top 10 in Academic Rankings'' (news article, Dec. 20):</p>
+        <p>The option of a private college education has long been vital for first-generation collegians, immigrants, minorities and others who are more likely to succeed with individual guidance and smaller class sizes, which public institutions cannot often provide. But the same economic forces driving students with privileged backgrounds to compete for admission to public universities threaten middle- and lower-income students' access to public and private institutions alike.</p>
+        <p>Congress recently responded by extending the tax deduction for families' tuition expenses, and New York's private colleges and universities have made a fourfold increase in grants, to more than $2 billion annually, since 1990. Yet New York State's tuition-assistance program raised its top student-aid levels by just 21 percent over that time period. For the last five years, neither that program nor the federal Pell grant program has raised top awards at all.</p>
+        <p>Policy makers must reinvigorate their commitment to the public-private partnership so future generations can achieve their goals for a higher education.</p>
+        <p>Gale Stevens Haynes  Provost, Long Island University  Brooklyn Campus  Brooklyn, Dec. 22, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

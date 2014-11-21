@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Roy Lichtenstein</title>
+    <meta content="12gall-3" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818296"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Smith, Roberta</person>
+        <person class="indexing_service">Lichtenstein, Roy (1923-97)</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EFDD1330F931A25752C0A9619C8B63" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Roy Lichtenstein</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+      <abstract>
+        <p>Roberta Smith reviews paintings by Roy Lichtenstein at James Goodman Gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>James Goodman Gallery  41 East 57th Street, Manhattan  Through next Friday</p>
+        <p>Despite other candidates, Roy Lichtenstein's elegant, buoyant canvases may be as close as 20th-century painting gets to Mozart. There is a boundless optimism to his work, expressed in its unwavering celebration of popular culture; its cool, straightforward craftsmanship; and its intricate, eye-popping, often witty perfection. Like Mozart in many instances, Lichtenstein is almost always an unsentimental romantic, at once innocent and skeptical. Perhaps he always posited the future as bright because the past and present gave him so much to work with.</p>
+      </block>
+      <block class="full_text">
+        <p>James Goodman Gallery  41 East 57th Street, Manhattan  Through next Friday</p>
+        <p>Despite other candidates, Roy Lichtenstein's elegant, buoyant canvases may be as close as 20th-century painting gets to Mozart. There is a boundless optimism to his work, expressed in its unwavering celebration of popular culture; its cool, straightforward craftsmanship; and its intricate, eye-popping, often witty perfection. Like Mozart in many instances, Lichtenstein is almost always an unsentimental romantic, at once innocent and skeptical. Perhaps he always posited the future as bright because the past and present gave him so much to work with.</p>
+        <p>The perfection of his paintings was achieved through extensive and beautiful preparatory studies, as indicated by his drawing retrospective at the Museum of Modern Art in 1987. It is not too soon to be reminded of this again, in a delicious survey of nearly 60 works.</p>
+        <p>The works here include several that show the artist in the early 1960s, making straightforward graphite renderings of advertising motifs -- a pair of sneakers, a wrist-watch, a half-zipped zipper -- but blown up, cropped and isolated and, above all, concentrated through an admiring, unfussy attention.</p>
+        <p>Especially plentiful are the jaunty postcard-size sketches in graphite and colored pencil that Lichtenstein produced throughout his career. Ineffably tender, they conjure to a remarkable degree the effect of the finished paintings within embryo form, as suggested by the 1995 ''Study for Water Lilies.'' Several larger pencil drawings and even larger collages fill in all the details of some of these works, leaving nothing to question.</p>
+        <p>In their optimism, Lichtenstein's elegant paintings argue explicitly that most art is about love, both in its initial impetus within the artist and its final effect within the viewer. His drawings make the argument even more explicit by reminding us of his rapt devotion to his art, its fabrication and the cultural motifs that made it all possible.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

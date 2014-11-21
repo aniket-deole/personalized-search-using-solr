@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUICK BITE | Pleasantville; Fast Food, Without Preservatives</title>
+    <meta content="21weqbiteWC" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/nyregion/nyregionspecial2/21weqbite.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820339"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Westchester"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Pony Express to Go (Pleasantville, NY, Restaurant)</org>
+        <person class="indexing_service">Reed, M H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="descriptor">Fast Food Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fast Food Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEFD71130F932A15752C0A9619C8B63" item-length="310" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUICK BITE | Pleasantville; Fast Food, Without Preservatives</hl1>
+        <hl2 class="online_headline">Fast Food, Without Preservatives</hl2>
+      </hedline>
+      <byline class="print_byline">By M.H.REED</byline>
+      <byline class="normalized_byline">Reed, M H</byline>
+      <abstract>
+        <p>M H Reed reviews Pony Express to Go, fast-food restaurant in Pleasantville, NY (Quick Bite column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hungry for some fast food? Perhaps a tender, juicy hot dog, without nitrates, from Dines Farms? Or maybe a pair of mini grain-fed beef burgers, without hormones? Pony Express to Go, in Pleasantville, has them, and more, to order.</p>
+        <p>In addition to being terrifically tasty, these and other popular offerings at this alternative fast-food operation are bargains, especially for this kind of quality. That natural hot dog is $2.75. An order of shrimp and fries is $9.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hungry for some fast food? Perhaps a tender, juicy hot dog, without nitrates, from Dines Farms? Or maybe a pair of mini grain-fed beef burgers, without hormones? Pony Express to Go, in Pleasantville, has them, and more, to order.</p>
+      </block>
+      <block class="full_text">
+        <p>Hungry for some fast food? Perhaps a tender, juicy hot dog, without nitrates, from Dines Farms? Or maybe a pair of mini grain-fed beef burgers, without hormones? Pony Express to Go, in Pleasantville, has them, and more, to order.</p>
+        <p>In addition to being terrifically tasty, these and other popular offerings at this alternative fast-food operation are bargains, especially for this kind of quality. That natural hot dog is $2.75. An order of shrimp and fries is $9.</p>
+        <p>''Anything we can't decipher on an ingredients list, we don't use,'' said Phil McGrath, a partner with Todd Albright in this venture and the chef and owner of Iron Horse Grill, just across the pocket park at the railway overpass. Nothing on the appealing and forward-looking menu contains preservatives.</p>
+        <p>Here is the fast food of the future. Serious, substantial freshly baked rolls come from the Good Bread Bakery in Port Chester. The fries, white or sweet potato, are cooked in oil without trans fats. Lots of fragrant herbs, especially dill, go into a dip based on low-fat yogurt, and thick vegetarian black-bean chili has just the right degree of spiciness. Delectable quesadillas ooze smothered Vidalia onions and Monterey Jack cheddar. Chopped salads, shrimp, chicken or Pickle-Licious pickles can be added to most items.</p>
+        <p>This tiny food shop has fewer than a dozen chairs, with additional seating outside in the warm months. Most patrons fax or phone in their takeout orders, as parking space can be difficult to find on this busy street. But curb-side service is available -- a thoughtful touch, and the next best thing to a drive-through. Call when you arrive for a pickup, and your order will be brought out to your car.</p>
+        <p>Pony Express to Go, 30 Wheeler Avenue, Pleasantville; (914) 769-7669 or www.ponyexpresstogo.com. Fax is (914) 769-1777. Open Monday through Saturday, 11 a.m. to 8 p.m.</p>
+        <p>M.H.REED</p>
+        <p>Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

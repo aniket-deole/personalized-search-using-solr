@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOK FOR THE UNION LABEL</title>
+    <meta content="21suits-6" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820476"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <org class="indexing_service">Automotive News</org>
+        <org class="indexing_service">Canadian Auto Workers</org>
+        <person class="indexing_service">Hargrove, Basil</person>
+        <person class="indexing_service">Lapham, Edward</person>
+        <person class="indexing_service">Gettlefinger, Ron</person>
+        <person class="indexing_service">Bunkley, Nick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04EFD81E30F932A15752C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOK FOR THE UNION LABEL</hl1>
+      </hedline>
+      <byline class="print_byline">By NICK BUNKLEY</byline>
+      <byline class="normalized_byline">Bunkley, Nick</byline>
+      <abstract>
+        <p>Automotive News executive editor Edward Lapham accidentally calls Canadian Automobile President Basil Hargrowve by wrong name, calling for round of applause for Ron Gettlefinger, who is president of United Automobile Workers union in United States (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was an understandable case of mistaken identity at the Automotive News World Congress in Detroit last week.</p>
+        <p>The president of the Canadian Automobile Workers, Basil Hargrove, had just wrapped up his comments to the industry gathering when Edward Lapham, the trade paper's executive editor, urged a round of applause.</p>
+      </block>
+      <block class="full_text">
+        <p>It was an understandable case of mistaken identity at the Automotive News World Congress in Detroit last week.</p>
+        <p>The president of the Canadian Automobile Workers, Basil Hargrove, had just wrapped up his comments to the industry gathering when Edward Lapham, the trade paper's executive editor, urged a round of applause.</p>
+        <p>''Ron Gettelfinger, everyone,'' Mr. Lapham said, erroneously using the name of the president of the sister United Automobile Workers union, in the United States.</p>
+        <p>Told of his slip by a colleague in the front row, Mr. Lapham returned to the microphone a bit red-faced and mused, ''I wonder what Freud would have said about that?''</p>
+        <p>NICK BUNKLEY</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

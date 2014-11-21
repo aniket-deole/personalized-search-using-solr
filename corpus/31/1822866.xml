@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Waiters Sue Steakhouse</title>
+    <meta content="31mbrfs-6" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822866"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Waiters and Waitresses</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Minimum Wage</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Overtime</classifier>
+        <classifier class="indexing_service" type="descriptor">Tips and Tipping</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Old Homestead (NYC Restaurant)</org>
+        <person class="indexing_service">Ellick, Adam B</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minimum Wage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tips and Tipping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EEDE153FF932A05752C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Waiters Sue Steakhouse</hl1>
+      </hedline>
+      <byline class="print_byline">By ADAM B. ELLICK; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Ellick, Adam B</byline>
+      <abstract>
+        <p>Four waiters at Old Homestead steakhouse in Manhattan file suit in Federal District Court alleging that restaurant failed to pay overtime and minimum wage; say they were deprived of over $1 million since 2001; also charge that restaurant improperly included managers in tip pool (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Four employees of the Old Homestead steakhouse in Chelsea filed a lawsuit yesterday in Federal District Court charging the restaurant with improperly operating a tipping pool, and with denying them minimum and overtime wages. The plaintiffs charge that the restaurant, at 56 Ninth Avenue, deprived its waiters of more than $1 million in income over the past six years. The suit, filed by Louis Pechman of the law firm of Berke-Weiss &amp; Pechman LLP, claims Old Homestead operated a tipping pool for employees and managers who were not eligible to receive tips. According to federal and state labor laws, only those employees connected with the actual serving of food and beverages are eligible for participation in a tip pool. Marc Sherry, who owns the restaurant, said he was unaware of the suit and declined to comment.</p>
+        <p>ADAM B. ELLICK</p>
+      </block>
+      <block class="full_text">
+        <p>Four employees of the Old Homestead steakhouse in Chelsea filed a lawsuit yesterday in Federal District Court charging the restaurant with improperly operating a tipping pool, and with denying them minimum and overtime wages. The plaintiffs charge that the restaurant, at 56 Ninth Avenue, deprived its waiters of more than $1 million in income over the past six years. The suit, filed by Louis Pechman of the law firm of Berke-Weiss &amp; Pechman LLP, claims Old Homestead operated a tipping pool for employees and managers who were not eligible to receive tips. According to federal and state labor laws, only those employees connected with the actual serving of food and beverages are eligible for participation in a tip pool. Marc Sherry, who owns the restaurant, said he was unaware of the suit and declined to comment.</p>
+        <p>ADAM B. ELLICK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

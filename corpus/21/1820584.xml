@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Value Judgments Regarding Adoption</title>
+    <meta content="l21conn-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820584"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Adoption</classifier>
+        <person class="indexing_service">Sachs, Edith</person>
+        <person class="indexing_service">Winerip, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE2DE1F30F932A15752C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Value Judgments Regarding Adoption</hl1>
+      </hedline>
+      <abstract>
+        <p>Edith Sachs letter on Michael Winerip's January 14 Parenting column about adoptive family</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I'm sure I'm not the only parent of a child adopted from overseas who didn't appreciate Michael Winerip's comment that ''while Madonna and Angelina travel the planet to adopt, there's a plentiful supply right here'' (''A Family That Kept On Growing,'' Parenting, Jan. 14).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I'm sure I'm not the only parent of a child adopted from overseas who didn't appreciate Michael Winerip's comment that ''while Madonna and Angelina travel the planet to adopt, there's a plentiful supply right here'' (''A Family That Kept On Growing,'' Parenting, Jan. 14).</p>
+        <p>Why was that little slap necessary in an otherwise uplifting article about a wonderful family? Why must The Times jump on the bandwagon of the international adoption critics, who persist in making inappropriate value judgments that some children are more deserving of loving homes than others, simply because they were born ''right here''?</p>
+        <p>The decision to adopt domestically or internationally is a highly personal one, and there are many valid reasons families choose one or the other path to parenthood.</p>
+        <p>Edith Sachs  South Orange, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

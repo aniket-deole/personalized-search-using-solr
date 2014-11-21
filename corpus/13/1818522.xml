@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>N.C. Attorney General Takes Over Duke Case</title>
+    <meta content="13wire-duke" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818522"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E7DC1130F930A25752C0A9619C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>N.C. Attorney General Takes Over Duke Case</hl1>
+      </hedline>
+      <byline class="print_byline">By THE ASSOCIATED PRESS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RALEIGH, N.C. (AP) -- The state attorney general's office agreed Saturday to take over the sexual assault case against three Duke University lacrosse players at the request of the embattled district attorney.</p>
+        <p>Durham County District Attorney Mike Nifong, hamstrung by a flip-flopping witness and dogged by allegations that he made inflammatory statements to the media, asked Attorney General Roy Cooper's office Friday to appoint a special prosecutor.</p>
+      </block>
+      <block class="full_text">
+        <p>RALEIGH, N.C. (AP) -- The state attorney general's office agreed Saturday to take over the sexual assault case against three Duke University lacrosse players at the request of the embattled district attorney.</p>
+        <p>Durham County District Attorney Mike Nifong, hamstrung by a flip-flopping witness and dogged by allegations that he made inflammatory statements to the media, asked Attorney General Roy Cooper's office Friday to appoint a special prosecutor.</p>
+        <p>"I wish I could tell you this case would be resolved quickly," Cooper said at a news conference Saturday. "Since we have not been involved in the investigation and prosecution, all of the information will be new to our office. Any case with such serious criminal charges will require careful review."</p>
+        <p>Cooper pledged that his office would not comment on details of the case as officials review the investigation and the charges of sexual assault and kidnapping against Reade Seligmann, Collin Finnerty and David Evans.</p>
+        <p>Nifong's comments to reporters in the early days of the case led the State Bar to charge him last month with several ethics violations. Nifong's attorney said Friday the conflict of interest those charges created led the veteran prosecutor to ask the state to take over.</p>
+        <p>Cooper said Jim Coman, a former director of the State Bureau of Investigation and head of the attorney general's Special Prosecution Section, and Mary D. Winstead, a prosecutor in that division, would now oversee the case.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

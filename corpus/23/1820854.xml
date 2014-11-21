@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ford Shows a Hybrid Car With 2 Modes: Electric or Electric</title>
+    <meta content="23hybrid" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/washington/23hybrid.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820854"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric and Hybrid Vehicles</classifier>
+        <classifier class="indexing_service" type="descriptor">Batteries</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Cells</classifier>
+        <classifier class="indexing_service" type="descriptor">Hydrogen</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Efficiency</classifier>
+        <org class="indexing_service">Ford Motor Co</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Batteries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Ford Motor Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE7D91F30F930A15752C0A9619C8B63" item-length="700" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ford Shows a Hybrid Car With 2 Modes: Electric or Electric</hl1>
+        <hl2 class="online_headline">Ford Shows a Hybrid Car With 2 Modes: Electric or Electric</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, Jan. 22</dateline>
+      <abstract>
+        <p>Ford Motor Company introduces electric-electric hybrid vehicle that runs on electricity from either standard wall socket or from on-board fuel cell; car is first to not have gasoline engine as backup; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Move over, gas-electric hybrid. Ford has a new entry, the electric-electric hybrid.</p>
+        <p>The vehicle, based on a Ford Edge crossover, runs on electricity from a battery, charged either from a standard wall socket or from an on-board fuel cell. It has two highly visible fueling ports, both on the driver's side of the vehicle. One is a hose coupling for hydrogen gas, and the other is an electric connection like the one on a leaf blower, ready for a standard three-prong extension cord.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The vehicle, based on a Ford Edge crossover, runs on electricity from a battery, charged either from a standard wall socket or from an on-board fuel cell.</p>
+      </block>
+      <block class="full_text">
+        <p>Move over, gas-electric hybrid. Ford has a new entry, the electric-electric hybrid.</p>
+        <p>The vehicle, based on a Ford Edge crossover, runs on electricity from a battery, charged either from a standard wall socket or from an on-board fuel cell. It has two highly visible fueling ports, both on the driver's side of the vehicle. One is a hose coupling for hydrogen gas, and the other is an electric connection like the one on a leaf blower, ready for a standard three-prong extension cord.</p>
+        <p>''I told the design team to make them prominent,'' said Mujeeb I. Ijaz, the manager of fuel-cell vehicle engineering at Ford.</p>
+        <p>Energy specialists say they think the plug-in hybrid could cut oil dependence by allowing a car to go the first 25 or 30 miles each day on energy drawn from the power grid, most of which is generated from coal. That would cover the entire commute of most drivers on most days.</p>
+        <p>But almost all plug-in hybrid designs have a gasoline engine as a backup, to provide range. The plug-in Edge is the first to use a fuel cell instead, according to Ford.</p>
+        <p>Marrying a fuel cell to a battery allows the fuel cell to run at a constant rate, which is gentler on the hardware than having it cycle up to its maximum when the car is accelerating and then down to nothing. And it means that the fuel cell can be much smaller, because it does not need to be sized to handle maximum load.</p>
+        <p>The plug-in hybrid Edge has a 35-kilowatt fuel cell and a 130-kilowatt electric motor drive.</p>
+        <p>Mr. Ijaz said that fuel cells were less expensive than they used to be, but were still near $1,000 for a kilowatt of capacity, about 10 times the price of a kilowatt from a battery, and 30 times the price of a kilowatt from a gasoline engine.</p>
+        <p>The finished product (of which there is exactly one) illustrates the economics of hydrogen. At $5 a kilo of hydrogen (which is the selling price at a demonstration fueling station here, but probably far below actual cost), a dollar's worth will push the Edge about eight miles. But a consumer who charged the batteries at 10 cents a kilowatt-hour, roughly the national average retail price, would go 25 miles on a dollar's worth.</p>
+        <p>(A gasoline vehicle that gets 20 miles a gallon on unleaded regular at $2.25 a gallon would go a little less than 9 miles on a dollar's worth.)</p>
+        <p>The Edge was built as an experiment, not as a money-saver. Partly financed by the Energy Department, it cost about $2 million. The assistant secretary of energy for conservation and renewables, Andrew Karsner, is scheduled to appear at the Washington Auto Show on Tuesday to discuss the Edge and other vehicles.</p>
+        <p>Among its disadvantages is a hydrogen tank that takes up about seven times as much space as a gasoline tank that would provide the same useable energy.</p>
+        <p>The Edge has switches that allow the driver to plan a trip and do the last few miles on battery, with the fuel cell shut down, to maximize use of electricity from the grid, not from hydrogen. The tailpipe emits only low-temperature water vapor. On Sunday afternoon, at 32 degrees, as Ford raced to get photos of the vehicle before the snow started, Mr. Ijaz aptly described the tailpipe as looking like a dryer vent. In warmer weather the vapor would not be so visible.</p>
+        <p>Running in cold weather has another complication; the Edge uses electric resistance heat, supplemented by waste heat from the fuel-cell stack. The air-conditioner is also electric. Both cut slightly into range. With fuel compressed to 5,000 pounds per square inch, range is 200 miles (plus 25 miles on electricity stored from the initial battery charge); Ford, like the rest of the fuel-cell industry, plans to shift to fuel cells that use hydrogen stored at 10,000 p.s.i.</p>
+        <p>In city and highway traffic, the car, like most electrics, has no vibration, and the tire sounds are prominent because there is no engine noise to mask them. The sound of a compressor that pumps air through the fuel cell is also prominent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

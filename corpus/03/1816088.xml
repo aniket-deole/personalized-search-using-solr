@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sick and Can't Go to School? Or, Sick Because You Didn't Go?</title>
+    <meta content="03dconstantine" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816088"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7DC1730F930A35752C0A9619C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sick and Can't Go to School? Or, Sick Because You Didn't Go?</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID CONSTANTINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What factors make certain groups of people live longer, healthier lives than others? In study after study, researchers around the world are consistently arriving at the same answer: education. Going to school just a few extra years can improve health in old age and extend life by years. And now new research is indicating that the correlation actually does reflect a cause and effect.</p>
+        <p>DAVID CONSTANTINE</p>
+      </block>
+      <block class="full_text">
+        <p>What factors make certain groups of people live longer, healthier lives than others? In study after study, researchers around the world are consistently arriving at the same answer: education. Going to school just a few extra years can improve health in old age and extend life by years. And now new research is indicating that the correlation actually does reflect a cause and effect.</p>
+        <p>DAVID CONSTANTINE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

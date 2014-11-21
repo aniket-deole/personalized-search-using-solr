@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spotlight | N.B.A.; OFF THE DRIBBLE</title>
+    <meta content="28nbarail" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822185"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <person class="indexing_service">Hoffman, Benjamin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EED6173FF93BA15752C0A9619C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spotlight | N.B.A.; OFF THE DRIBBLE</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN HOFFMAN</byline>
+      <byline class="normalized_byline">Hoffman, Benjamin</byline>
+      <abstract>
+        <p>Developments in NBA discussed; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Money Matters</p>
+        <p>Never known as models of financial restraint, the Knicks topped the N.B.A. last season with a payroll of more than $120 million, and paid Larry Brown $10 million to coach the team and another $18.5 million to go away.</p>
+        <p>Those and other questionable decisions led to nearly $40 million in operating losses for the season.</p>
+      </block>
+      <block class="full_text">
+        <p>Money Matters</p>
+        <p>Never known as models of financial restraint, the Knicks topped the N.B.A. last season with a payroll of more than $120 million, and paid Larry Brown $10 million to coach the team and another $18.5 million to go away.</p>
+        <p>Those and other questionable decisions led to nearly $40 million in operating losses for the season.</p>
+        <p>Despite those facts, the team was named the most valuable franchise in the N.B.A. by Forbes magazine, with a total value of $592 million.</p>
+        <p>Losing His Grip</p>
+        <p>Having missed 35 games to injury, Heat center SHAQUILLE O'NEAL has a lot of work ahead to get back into game shape.</p>
+        <p>His 6.5 rebounds a game (through six games) placed him behind the team leader, UDONIS HASLEM, above, who was averaging 8.8 rebounds a game.</p>
+        <p>In his 15-year professional career, O'Neal has always finished as his team's leader in rebounds.</p>
+        <p>After losses to the Pacers and the Knicks last week despite O'Neal's return, Miami faces Milwaukee twice this week and has a marquee matchup against LeBRON JAMES and the Cavaliers.</p>
+        <p>O'Neal will try to help the Heat recover from what has been a disappointing follow-up to a championship season.</p>
+        <p>Nothing but Net</p>
+        <p>While the Web site for the basketball Hall of Fame, HoopHall.com, is not flashy, it offers a year-by-year list of inductees, including the inaugural class, which featured the creator of the game, James Naismith, above.</p>
+        <p>Featuring photographs and detailed biographies of each inductee, the site is a must for any fan trying to find out more about the history of the game.</p>
+        <p>BENJAMIN HOFFMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

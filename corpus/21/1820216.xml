@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gordimer and Said</title>
+    <meta content="Letters.t-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820216"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Said, Mariam C</person>
+        <person class="indexing_service">Donadio, Rachel</person>
+        <person class="indexing_service">Said, Edward W (1935-2003)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E2D91330F932A15752C0A9619C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gordimer and Said</hl1>
+      </hedline>
+      <abstract>
+        <p>Mariam C Said letter dispute's Rachel Donadio Dec 31 essay on her husband Edward Said</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Rachel Donadio's essay ''Bio Hazard'' (Dec. 31) gives the impression that my husband, Edward Said, was in agreement with Ronald S. Roberts about Nadine Gordimer's ''Middle East politics'': ''Those passages draw on his interviews with Edward Said, the Columbia professor and Palestinian advocate who died in 2003 and to whom he dedicated the biography.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Rachel Donadio's essay ''Bio Hazard'' (Dec. 31) gives the impression that my husband, Edward Said, was in agreement with Ronald S. Roberts about Nadine Gordimer's ''Middle East politics'': ''Those passages draw on his interviews with Edward Said, the Columbia professor and Palestinian advocate who died in 2003 and to whom he dedicated the biography.''</p>
+        <p>To set the record straight, some information needs to be known:</p>
+        <p>1) Gordimer and my husband were good friends. He thought highly of her work and considered her political stand vis-à-vis South Africa and Israel/Palestine very courageous. When Edward passed away, she was one of a few select friends of his whom the family asked to speak at his memorial service.</p>
+        <p>2) Gordimer introduced Roberts to Edward and encouraged Edward to consider Roberts as his own authorized biographer. This is how Roberts got to meet Edward and talk to him. My son and I also met Roberts. For various reasons Edward eventually preferred not to have him as an authorized biographer.</p>
+        <p>3) Roberts's book, ''No Cold Kitchen,'' appeared two years after Edward's passing. It was dedicated to Edward, but as far as my family and I know, Edward was never asked, nor did he give permission for the dedication. Also, the family was not informed of this posthumous dedication nor were we sent a copy of the book.</p>
+        <p>4) We do not really know what Edward said to Roberts in their interviews. This essay cites Roberts's words, and Edward is no longer with us to confirm or refute them.</p>
+        <p>5) I would also like to add that, in this essay, Roberts insinuates race was a factor. Although Nadine and Edward did not agree on everything regarding ''Middle East politics,'' he certainly did not in any way believe that she was a ''hypocritical white liberal.'' On the contrary, he valued her political insights and experience with the African National Congress.</p>
+        <p>Mariam C. Said  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

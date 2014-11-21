@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="17botcorrex-6" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819501"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <org class="indexing_service">Ford Motor Co</org>
+        <person class="indexing_service">Mulally, Alan R</person>
+        <person class="indexing_service">Kelleher, Herbert D</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4DE1130F934A25752C0A9619C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of photo with Jan 13 column about Ford Motor Co plan to return to profitability; it showed Herbert D Kelleher, not Ford chief executive Alan Mulally</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture with a report in the Today in Business column in Business Day on Saturday, about the Ford Motor Company's plan to return to profitability, was published in error. It showed Herbert D. Kelleher, the chairman of Southwest Airlines who was named to the board of the Federal Reserve Bank in Dallas, instead of Alan R. Mulally, the chief executive of Ford.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture with a report in the Today in Business column in Business Day on Saturday, about the Ford Motor Company's plan to return to profitability, was published in error. It showed Herbert D. Kelleher, the chairman of Southwest Airlines who was named to the board of the Federal Reserve Bank in Dallas, instead of Alan R. Mulally, the chief executive of Ford.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

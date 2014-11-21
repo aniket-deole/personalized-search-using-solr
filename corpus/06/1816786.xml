@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>METS SIGN NEWHAN</title>
+    <meta content="06base-1" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816786"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5DF1530F935A35752C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>METS SIGN NEWHAN</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SHPIGEL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Mets most likely completed their bench for next season by signing the utility player David Newhan yesterday to a one-year contract. Newhan, 33, adds another left-handed bat and provides additional versatility. A natural infielder, Newhan has played 169 of his 229 career games in the outfield and has started at every infield position except shortstop. With Endy Chávez and Ben Johnson projected as the team's fourth and fifth outfielders, Newhan should receive most of his playing time in the infield or as a pinch-hitter.</p>
+        <p>''David is a versatile player who can help us in so many spots on the field,'' Mets General Manager Omar Minaya said in a statement. ''We couldn't be more pleased to have him in our organization.''</p>
+      </block>
+      <block class="full_text">
+        <p>The Mets most likely completed their bench for next season by signing the utility player David Newhan yesterday to a one-year contract. Newhan, 33, adds another left-handed bat and provides additional versatility. A natural infielder, Newhan has played 169 of his 229 career games in the outfield and has started at every infield position except shortstop. With Endy Chávez and Ben Johnson projected as the team's fourth and fifth outfielders, Newhan should receive most of his playing time in the infield or as a pinch-hitter.</p>
+        <p>''David is a versatile player who can help us in so many spots on the field,'' Mets General Manager Omar Minaya said in a statement. ''We couldn't be more pleased to have him in our organization.''</p>
+        <p>Newhan batted .252 in 39 games with Baltimore last season and missed four months with a broken fibula. In seven major league seasons with San Diego, Philadelphia and Baltimore, Newhan has hit .256 with 20 home runs and 102 runs batted in. His best season came with Baltimore in 2004, when he hit .311 with 8 homers and 54 R.B.I.</p>
+        <p>Newhan is the son of Ross Newhan, a former baseball writer for The Los Angeles Times who won the J. G. Taylor Spink Award in 2000 and was inducted into the Baseball Hall of Fame.</p>
+        <p>BEN SHPIGEL</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

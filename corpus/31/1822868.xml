@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DEAL ON TV RIGHTS</title>
+    <meta content="31sportsbriefs-1" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/31/sports/tennis/31sportsbriefs-TennisChannel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822868"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: TENNIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tennis</classifier>
+        <classifier class="indexing_service" type="descriptor">French Open (Tennis)</classifier>
+        <classifier class="indexing_service" type="descriptor">Australian Open (Tennis)</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Espn (Cable TV Network)</org>
+        <org class="indexing_service">Tennis Channel</org>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Tennis</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">French Open (Tennis)</classifier>
+        <classifier class="online_producer" type="descriptor">Australian Open (Tennis)</classifier>
+        <classifier class="online_producer" type="general_descriptor">French Open (Tennis)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Australian Open (Tennis)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">ESPN</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EEDE153FF932A05752C0A9619C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DEAL ON TV RIGHTS</hl1>
+        <hl2 class="online_headline">ESPN and the Tennis Channel Strike Deal on TV Rights</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+      <abstract>
+        <p>ESPN and Tennis Channel agree to share rights to televise French and Australian Opens (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ESPN and the Tennis Channel agreed yesterday to share the rights to televise the French and Australian Opens, an arrangement that will bring a far higher profile to the Tennis Channel, which has 10 million subscribers.</p>
+        <p>Under the arrangement, ESPN2 will continue to show 120 hours of Australian Open coverage, but the Tennis Channel will augment it with about 100 more. For the French Open, whose rights the Tennis Channel acquired last August, it will carry 100 hours and ESPN2 will show 55.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>ESPN and the Tennis Channel agreed to share the rights to televise the French and Australian Opens, an arrangement that will bring a far higher profile to the Tennis Channel.</p>
+      </block>
+      <block class="full_text">
+        <p>ESPN and the Tennis Channel agreed yesterday to share the rights to televise the French and Australian Opens, an arrangement that will bring a far higher profile to the Tennis Channel, which has 10 million subscribers.</p>
+        <p>Under the arrangement, ESPN2 will continue to show 120 hours of Australian Open coverage, but the Tennis Channel will augment it with about 100 more. For the French Open, whose rights the Tennis Channel acquired last August, it will carry 100 hours and ESPN2 will show 55.</p>
+        <p>Ken Solomon, the chairman of the Tennis Channel, said talks that started with ESPN about sublicensing French Open rights soon evolved into a broader deal. ''If it made sense for one, it made sense for more,'' he said.</p>
+        <p>He added: ''This is a game-changer for us. Having a second Grand Slam is of immeasurable value when we look for distribution. It builds our brand and it brings in a new audience.''</p>
+        <p>The channel is available on some cable systems and the Dish Network. It recently announced a separate deal in which it sold a stake in itself to the United States Tennis Association.</p>
+        <p>RICHARD SANDOMIR</p>
+        <p>SPORTS BRIEFING: TENNIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

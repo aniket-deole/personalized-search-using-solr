@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Single-Payer Path For American Health Care?</title>
+    <meta content="07backpage" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817152"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <person class="indexing_service">Joy, Mark (Dr)</person>
+        <person class="indexing_service">Harris, Lawrence K (Dr)</person>
+        <person class="indexing_service">Segall, Ralph M</person>
+        <person class="indexing_service">Herschberg, Seymour (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E1D91430F934A35752C0A9619C8B63" item-length="496" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Single-Payer Path For American Health Care?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letters on December 31 Economic View column on public opposition to single-payer health care; Mark Joy, M D says that private insurance companies profit from current system; Lawrence K Harris, M D holds that long waiting lists outweigh cost benefits to patients; Ralph M Segall points out failures of single-payer model in other fields; Seymour Herschberg M D calls for more testing and technology (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Health Care Problem? Check the American Psyche'' (Economic View, Dec. 31), about public opposition to a single-payer health care system:</p>
+        <p>Perhaps the biggest barrier to adopting this system here, despite the many advantages, is that private insurance companies and other interests profiting handsomely from the current system's myriad plans and complexity will work very hard to defeat any proposal for change to such a plan. We saw this before with President Bill Clinton's proposal, which did not even cut the private insurers out of the picture.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Health Care Problem? Check the American Psyche'' (Economic View, Dec. 31), about public opposition to a single-payer health care system:</p>
+        <p>Perhaps the biggest barrier to adopting this system here, despite the many advantages, is that private insurance companies and other interests profiting handsomely from the current system's myriad plans and complexity will work very hard to defeat any proposal for change to such a plan. We saw this before with President Bill Clinton's proposal, which did not even cut the private insurers out of the picture.</p>
+        <p>Many Americans do believe that a single-payer plan will work; unfortunately, their voices will be drowned out by deep-pocket businesses and those ideologically opposed to anything other than the private sector, with its alleged ''efficiencies.''</p>
+        <p>Mark Joy, M.D.  Brooklyn, Jan. 1</p>
+        <p>To the Editor:</p>
+        <p>The praise in the column for the Canadian health care system leaves out two important words: waiting lists. A health care system where the federal government needs to repeatedly debate the longstanding problem of long patient waits to see specialists or for surgery may be cost effective, but the cost savings are certainly not to the benefit of the patient.</p>
+        <p>Lawrence K. Harris, M.D.  Naples, Fla., Jan. 2</p>
+        <p>To the Editor:</p>
+        <p>To the suggestion of a single-payer system as the solution to what ails health care, I offer a one word response: OPEC. To amplify, why would anyone think that a single buyer will lead to a more efficient allocation of resources anymore than a single seller would?</p>
+        <p>What might be more useful is to encourage -- nay, mandate -- common standards to encourage conversion of all data (financial, medical and so on) to electronic format. We have different phone companies whose data moves seamlessly from one provider to another. Why can't the same be said of participants in medicine?</p>
+        <p>Ralph M. Segall  Evanston, Ill., Jan. 2</p>
+        <p>To the Editor:</p>
+        <p>A modified version of a single-payer system may provide better solutions to problems inherent in health care. The key is uniform criteria and procedures.</p>
+        <p>I spent my career in salaried, mostly academic medicine, so I have no personal ax to grind about doctor's fees. However, I have seen Medicare and managed-care fees repeatedly reduced or constrained without consideration of the provider's increasing costs.</p>
+        <p>The problem in health care is excessive demand and unrestrained use of testing and technology. This is compounded by myriad managed-care organizations with differing rules and paperwork. A modified single-payer plan would have a single set of criteria for health care and for use of technology. Providers would have one set of rules, one set of paperwork.</p>
+        <p>Health care plans could still be competitive on benefits, provider fees and premiums. The individual plans could serve as third-party administrators for medical reviews and claim processing. Appeals would be resolved by the single payer -- a better name is probably ''single administrator'' -- using the same criteria for all.</p>
+        <p>Seymour Herschberg, M.D.  Manhattan, Dec. 31</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

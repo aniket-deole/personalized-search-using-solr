@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Free Content Dominates Video Downloads</title>
+    <meta content="22drill" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/business/22drill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820644"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DRILLING DOWN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <org class="indexing_service">Apple Inc</org>
+        <person class="indexing_service">Mindlin, Alex</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">iTunes</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E6DD1F30F931A15752C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Free Content Dominates Video Downloads</hl1>
+        <hl2 class="online_headline">Free Content Dominates Video Downloads</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX MINDLIN</byline>
+      <byline class="normalized_byline">Mindlin, Alex</byline>
+      <abstract>
+        <p>Drilling down column on increase of downloaded videos from file-sharing networks; more than four times as many households used networks as opposed to centralized services like iTunes in third quarter of 2006 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>More than four times as many households downloaded videos from file-sharing networks as they did from centralized services like iTunes in the third quarter of 2006.</p>
+        <p>Downloads from file-sharing networks are generally free, and have long occurred outside the control of copyright holders. The cost of for-pay downloads, about 90 percent of which go through iTunes, generally includes a licensing fee.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>More than four times as many households downloaded videos from file-sharing networks as they did from centralized services like iTunes in the third quarter of 2006.</p>
+      </block>
+      <block class="full_text">
+        <p>More than four times as many households downloaded videos from file-sharing networks as they did from centralized services like iTunes in the third quarter of 2006.</p>
+        <p>Downloads from file-sharing networks are generally free, and have long occurred outside the control of copyright holders. The cost of for-pay downloads, about 90 percent of which go through iTunes, generally includes a licensing fee.</p>
+        <p>But not many of the freeloaders are actually downloading mainstream content, according to the new data on downloading, which was gathered by the NPD Group, a consumer-research firm, through tracking software installed in 12,500 households. Only about 20 percent of the videos downloaded from file-sharing networks were TV shows, and 5 percent were mainstream movies, while just under 60 percent were pornographic movies.</p>
+        <p>The relative scarcity of pirated movie downloads may have more to do with legal and business pressure than with users' tastes. Many file-sharing networks are struggling to find accommodation with the movie and recording industries; for example, BitTorrent, a service whose software is on about 80 million computers, struck a deal in 2005 with the Motion Picture Association of America to remove infringing content from the search index on its Web site.</p>
+        <p>ALEX MINDLIN</p>
+        <p>DRILLING DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

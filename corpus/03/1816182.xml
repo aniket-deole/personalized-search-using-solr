@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Hauppauge: Bill To Limit Stoves Is Vetoed</title>
+    <meta content="03mbrfs-4" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816182"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Vetoes (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Wood and Wood Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Ovens and Stoves</classifier>
+        <location class="indexing_service">Suffolk County (NY)</location>
+        <person class="indexing_service">Lambert, Bruce</person>
+        <person class="indexing_service">Levy, Steve (County Exec)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vetoes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wood and Wood Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E4DA1730F930A35752C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Hauppauge: Bill To Limit Stoves Is Vetoed</hl1>
+      </hedline>
+      <byline class="print_byline">By BRUCE LAMBERT; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lambert, Bruce</byline>
+      <abstract>
+        <p>Suffolk County, NY, Legislature fails to override veto by County Executive Steve Levy of bill to restrict outdoor wood-burning stoves because they emit pollutants; Levy says bill was inconsistent; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A legislative attempt to restrict outdoor wood-burning stoves in Suffolk County failed yesterday when the County Legislature was unable to override the county executive's veto of a bill. The stoves, which opponents say spew high volumes of pollutants, have become a focus of debate in Northern states. An override requires votes from at least 12 of the 19 legislators, but only 10 voted to override the veto yesterday. The county executive, Steve Levy, above, who vetoed the bill, called the issue valid but disputed provisions of the bill as inconsistent. The bill's sponsor in the Legislature, Jack Eddington, a fellow Democrat, disagreed with that critique.</p>
+        <p>BRUCE LAMBERT</p>
+      </block>
+      <block class="full_text">
+        <p>A legislative attempt to restrict outdoor wood-burning stoves in Suffolk County failed yesterday when the County Legislature was unable to override the county executive's veto of a bill. The stoves, which opponents say spew high volumes of pollutants, have become a focus of debate in Northern states. An override requires votes from at least 12 of the 19 legislators, but only 10 voted to override the veto yesterday. The county executive, Steve Levy, above, who vetoed the bill, called the issue valid but disputed provisions of the bill as inconsistent. The bill's sponsor in the Legislature, Jack Eddington, a fellow Democrat, disagreed with that critique.</p>
+        <p>BRUCE LAMBERT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

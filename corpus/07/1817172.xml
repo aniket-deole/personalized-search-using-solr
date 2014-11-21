@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Ever-Mutating Iraq Insurgency</title>
+    <meta content="07mutating" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Washington; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817172"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WORLD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Al Qaeda in Mesopotamia</org>
+        <person class="indexing_service">Marsh, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E1D61430F934A35752C0A9619C8B63" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Ever-Mutating Iraq Insurgency</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL MARSH</byline>
+      <byline class="normalized_byline">Marsh, Bill</byline>
+      <abstract>
+        <p>Terrorism expert Evan F Kohlmann says network of some of fiercest insurgent fighters, dominated by Al Qaeda in Iraq, has forged new alliances with several rebel groups and may be attracting others; chart and dateline showing expanding Qaeda network; map; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN the last three months, as Americans debated military options in Iraq, the Sunni insurgency there seemed to grow more extreme.</p>
+        <p>A network of some of the fiercest fighters, dominated by Al Qaeda in Iraq, forged formal new alliances with several rebel groups and may have begun to draw others into its orbit, according to Evan F. Kohlmann, a terrorism expert who tracks the insurgency. On Dec. 29, he published a report detailing the latest developments, which are noted in red on the accompanying graphic.</p>
+      </block>
+      <block class="full_text">
+        <p>IN the last three months, as Americans debated military options in Iraq, the Sunni insurgency there seemed to grow more extreme.</p>
+        <p>A network of some of the fiercest fighters, dominated by Al Qaeda in Iraq, forged formal new alliances with several rebel groups and may have begun to draw others into its orbit, according to Evan F. Kohlmann, a terrorism expert who tracks the insurgency. On Dec. 29, he published a report detailing the latest developments, which are noted in red on the accompanying graphic.</p>
+        <p>Until 2006, Mr. Kohlmann said, the Qaeda group was ''essentially losing'' in Iraq. It was dominated by foreign recruits (its leader, Abu Musab al-Zarqawi, was Jordanian), limiting its appeal among Iraqis who resented outsiders.</p>
+        <p>All that changed in February, when Al Qaeda in Iraq blew up the Askariya Mosque in Samarra, one of Shiite Islam's holiest shrines.</p>
+        <p>''That event opened the door to bloodletting between Sunnis and Shiites,'' Mr. Kohlmann said, which was the intent. The June killing of Mr. Zarqawi by American forces actually helped the Qaeda group, he said, by removing a leader who was a symbol of foreign influence.</p>
+        <p>The Samarra bombing was followed by months of violent reprisals by Shiites against Sunnis. Al Qaeda in Iraq, virulently anti-Shiite, became a refuge for aggrieved and beleaguered Sunnis. Now the ascendent Qaeda group is led by Iraqis, mostly from Baghdad.</p>
+        <p>Last week, the Bush administration retooled its military leadership in Iraq and continued to weigh a troop surge, struggling to cope with last year's spike in sectarian violence.</p>
+        <p>BILL MARSH</p>
+        <p>THE WORLD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

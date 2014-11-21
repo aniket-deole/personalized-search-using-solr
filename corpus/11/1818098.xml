@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ONLINE</title>
+    <meta content="11biztoday-2" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818098"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TODAY IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EFD81230F932A25752C0A9619C8B63" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ONLINE</hl1>
+      </hedline>
+      <byline class="print_byline">By THOMAS FULLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Thailand's military-appointed government came to power in October, it was hailed within the country as a dream team of experienced, Western-educated technocrats who were ''above politics.'' But after a series of botched policies and reversals in managing the economy, investors and political analysts seem to be counting the days until democracy is restored and a fresh government can take its place.</p>
+        <p>THOMAS FULLER</p>
+      </block>
+      <block class="full_text">
+        <p>When Thailand's military-appointed government came to power in October, it was hailed within the country as a dream team of experienced, Western-educated technocrats who were ''above politics.'' But after a series of botched policies and reversals in managing the economy, investors and political analysts seem to be counting the days until democracy is restored and a fresh government can take its place.</p>
+        <p>THOMAS FULLER</p>
+        <p>TODAY IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

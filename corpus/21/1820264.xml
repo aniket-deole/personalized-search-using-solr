@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CORRECTIONS</title>
+    <meta content="21cx-2" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820264"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Hotelsbycity.net</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E0DE1130F932A15752C0A9619C8B63" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CORRECTIONS</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of brief travel item on January 7 about HotelsByCity.net (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A brief report in the In Transit column on Jan. 7 about HotelsByCity.net carried incorrect information from a blogger on the site who posted a photograph of the singer Lindsay Lohan. She was standing beside a pool with Harry Morton, the Hard Rock heir, at an unidentified hotel in Maui -- not at a Hard Rock Hotel. (Hard Rock Cafe International has no hotels in Maui.)</p>
+      </block>
+      <block class="full_text">
+        <p>A brief report in the In Transit column on Jan. 7 about HotelsByCity.net carried incorrect information from a blogger on the site who posted a photograph of the singer Lindsay Lohan. She was standing beside a pool with Harry Morton, the Hard Rock heir, at an unidentified hotel in Maui -- not at a Hard Rock Hotel. (Hard Rock Cafe International has no hotels in Maui.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

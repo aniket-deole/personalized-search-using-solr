@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GEORGE, JUDITH ROSS</title>
+    <meta content="dn010307" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816010"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GEORGE, JUDITH ROSS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EEDD1E3AF930A35752C0A9619C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GEORGE, JUDITH ROSS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GEORGE--Judith Ross, 74, December 31st 2006 of lung cancer. She was a warm and witty woman who was so gallant in death. Survived by her husband of fifty years, George W. George; daughter, Jennifer; grandchildren, Max and Emily; stepchildren, Linda Tai, Laurie and Larry George; and stepgrandson Giampaolo Tai. Judy was smart, funny, and irreverent. Her laugh at a crowded dinner table remains in our ears. Services are 11:30am Friday January 5th, 2007 at the Frank E. Campbell Funeral Home at 1076 Madison Ave. In lieu of flowers, please send contributions to the Lung Cancer Foundation or the Parkinson's Foundation.</p>
+      </block>
+      <block class="full_text">
+        <p>GEORGE--Judith Ross, 74, December 31st 2006 of lung cancer. She was a warm and witty woman who was so gallant in death. Survived by her husband of fifty years, George W. George; daughter, Jennifer; grandchildren, Max and Emily; stepchildren, Linda Tai, Laurie and Larry George; and stepgrandson Giampaolo Tai. Judy was smart, funny, and irreverent. Her laugh at a crowded dinner table remains in our ears. Services are 11:30am Friday January 5th, 2007 at the Frank E. Campbell Funeral Home at 1076 Madison Ave. In lieu of flowers, please send contributions to the Lung Cancer Foundation or the Parkinson's Foundation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

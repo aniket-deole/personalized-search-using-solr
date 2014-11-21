@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Never Before Such Treachery: Interior Designers on Reality TV</title>
+    <meta content="18tv" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819586"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: CURTAINS!"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Interior Design</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <person class="indexing_service">Oldham, Todd</person>
+        <person class="indexing_service">Green, Penelope</person>
+        <object.title class="indexing_service">Top Design (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEEDC1130F93BA25752C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Never Before Such Treachery: Interior Designers on Reality TV</hl1>
+      </hedline>
+      <byline class="print_byline">By PENELOPE GREEN</byline>
+      <byline class="normalized_byline">Green, Penelope</byline>
+      <abstract>
+        <p>Todd Oldham is host of Top Design, new reality television show that pits 12 interior designers against each other; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This late in the game the reality show is as comforting in its genre structure as a 1920s-style murder mystery: formulaic, but what fun when applied to different settings. Bravo's ''Top Design,'' which begins Jan. 31 at 11 p.m., puts 12 interior designers together in a setup that's part ''Project Runway,'' part ''Survivor.'' Teams are assigned by paint chip (contestants pick colors and are matched with those who choose the same ones), and the Pacific Design Center in Los Angeles is their island. In each of 10 episodes, they'll be set an interior design task to pass or fail, until their numbers are winnowed down to one. Todd Oldham, top, strangely wooden and seemingly not allowed to ad-lib on the first night, is the host. The judges are looser and harsher: from left, a charming Jonathan Adler; the beauty-queen-lovely Kelly Wearstler; and a feline and appealingly severe Margaret Russell, in whose magazine, Elle Décor, the winner will appear. Starting Feb. 7, ''Top Design'' will be broadcast at 10 p.m.</p>
+        <p>PENELOPE GREEN</p>
+      </block>
+      <block class="full_text">
+        <p>This late in the game the reality show is as comforting in its genre structure as a 1920s-style murder mystery: formulaic, but what fun when applied to different settings. Bravo's ''Top Design,'' which begins Jan. 31 at 11 p.m., puts 12 interior designers together in a setup that's part ''Project Runway,'' part ''Survivor.'' Teams are assigned by paint chip (contestants pick colors and are matched with those who choose the same ones), and the Pacific Design Center in Los Angeles is their island. In each of 10 episodes, they'll be set an interior design task to pass or fail, until their numbers are winnowed down to one. Todd Oldham, top, strangely wooden and seemingly not allowed to ad-lib on the first night, is the host. The judges are looser and harsher: from left, a charming Jonathan Adler; the beauty-queen-lovely Kelly Wearstler; and a feline and appealingly severe Margaret Russell, in whose magazine, Elle Décor, the winner will appear. Starting Feb. 7, ''Top Design'' will be broadcast at 10 p.m.</p>
+        <p>PENELOPE GREEN  CURRENTS: CURTAINS!</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

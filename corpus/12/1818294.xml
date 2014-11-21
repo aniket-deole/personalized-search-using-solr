@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Robert Irwin</title>
+    <meta content="12gall-1" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818294"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Cotter, Holland</person>
+        <person class="indexing_service">Irwin, Robert</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EFDD1330F931A25752C0A9619C8B63" item-length="360" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Robert Irwin</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+      <byline class="normalized_byline">Cotter, Holland</byline>
+      <abstract>
+        <p>Holland Cotter reviews installation by Robert Irwin at Pace Wildenstein gallery; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Who's Afraid of Red, Yellow and Blue3  PaceWildenstein  545 West 22nd Street, Chelsea  Through Feb. 3</p>
+        <p>Buddhist temple interiors in rural Japan have low, flat ceilings and clear, wide floors. They are horizontal, twilightish, untheatrical spaces, and pulse-slowing. They make you want to sit down. They are also almost the only architecture I know that looks the way silence sounds.</p>
+      </block>
+      <block class="full_text">
+        <p>Who's Afraid of Red, Yellow and Blue3  PaceWildenstein  545 West 22nd Street, Chelsea  Through Feb. 3</p>
+        <p>Buddhist temple interiors in rural Japan have low, flat ceilings and clear, wide floors. They are horizontal, twilightish, untheatrical spaces, and pulse-slowing. They make you want to sit down. They are also almost the only architecture I know that looks the way silence sounds.</p>
+        <p>I'm not strictly comparing ''Who's Afraid of Red, Yellow and Blue3,'' Robert Irwin's installation at PaceWildenstein, to Buddhist architecture. That would be too easy, and inaccurate. The true point of reference is Western and modern, specifically abstract geometric painting. In a past installation Mr. Irwin paid homage to one perceptual magician, Joseph Albers; now he makes a bow to another, Barnett Newman, turning Newman's 1966-70 paintings ''Who's Afraid of Red, Yellow and Blue'' into a self-reflective architecture.</p>
+        <p>Three large aluminum panels are suspended low and horizontally from the gallery's ceiling, each painted in lacquerlike acrylic with one of the three primary colors. An identical panel has been placed on the floor directly below each panel. Because the paint is shiny and slick, it reflects whatever is around it: the figures of visitors, the gallery and illumination from an overhead skylight.</p>
+        <p>The panels also reflect one another. Look at a ceiling panel and you see the corresponding floor panel reflected, not as a smooth surface, but as a dark pool. Look at a floor panel, and the panel above leads out into dark space.</p>
+        <p>Optical illusionism of this kind has long been Mr. Irwin's calling card, but here he achieves it by bare-bones means: no stagy scrims, just the material that Newman himself used to create his own pioneering version of installation art: paint.</p>
+        <p>Yet just as Newman balked at the idea of having his largest painting series, ''The Stations of the Cross,'' installed as a wraparound chapel, he would have resisted the notion that Mr. Irwin's paean to him -- and to paint, and to light -- was a temple, which it isn't. It's more like a country teahouse, companionable, dimly lighted, very quiet even when busy, offering spirit-soothing visual fare in an overstimulated world.</p>
+        <p>HOLLAND COTTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

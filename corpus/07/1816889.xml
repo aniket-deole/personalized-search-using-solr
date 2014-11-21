@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arms and ...</title>
+    <meta content="Letters.t-4" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816889"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Kronenberg, Leah</person>
+        <person class="indexing_service">Winkler, John</person>
+        <person class="indexing_service">Leithauser, Brad</person>
+        <person class="indexing_service">Fagles, Robert</person>
+        <object.title class="indexing_service">Aeneid, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E3DF1630F934A35752C0A9619C8B63" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arms and ...</hl1>
+      </hedline>
+      <abstract>
+        <p>Leah Kronenberg and John Winkler letters comment on Brad Leithauser review of Robert Fagles's new translation of The Aeneid</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Brad Leithauser's review of Robert Fagles's new translation of the Aeneid (Dec. 17) flattens out the complexities of Virgil's epic. Leithauser suggests that the gods control the world of the Aeneid and that ''relatively little malice and unreasonableness and rapacity seem innate to our kind.'' Yet Virgil has one of his characters in Book 9 question whether his internal lust for war is prompted by the gods or whether people simply deify their own desires. Virgil's epic is full of these hints that Aeneas' god-given mission might be prompted by his own deified desires and that the epic gods are an allegorical, literary device. In addition, Leithauser states that ''Virgil was wrong'' to suggest that Rome's glory ''will never fade,'' but it's Virgil's characters who suggest this -- not Virgil. As Edward Rothstein put it in a recent New York Times column: ''The argument has been made that Virgil's project was actually ironic, anti-Augustan: he showed how civilization itself is drenched in blood, with self-celebratory history being written by the victors.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Brad Leithauser's review of Robert Fagles's new translation of the Aeneid (Dec. 17) flattens out the complexities of Virgil's epic. Leithauser suggests that the gods control the world of the Aeneid and that ''relatively little malice and unreasonableness and rapacity seem innate to our kind.'' Yet Virgil has one of his characters in Book 9 question whether his internal lust for war is prompted by the gods or whether people simply deify their own desires. Virgil's epic is full of these hints that Aeneas' god-given mission might be prompted by his own deified desires and that the epic gods are an allegorical, literary device. In addition, Leithauser states that ''Virgil was wrong'' to suggest that Rome's glory ''will never fade,'' but it's Virgil's characters who suggest this -- not Virgil. As Edward Rothstein put it in a recent New York Times column: ''The argument has been made that Virgil's project was actually ironic, anti-Augustan: he showed how civilization itself is drenched in blood, with self-celebratory history being written by the victors.''</p>
+        <p>Leah Kronenberg  New Brunswick, N.J.</p>
+        <p>The writer is assistant professor of classics, Rutgers University.</p>
+        <p>To the Editor:</p>
+        <p>''Arms and the man I sing.'' Oops, or is it ''Wars and a man I sing''? Darn, or is it something or other else?</p>
+        <p>Why should one read Robert Fagles, or any other middleman, instead of actually reading Virgil? Why anything but ''Arma virumque cano''?</p>
+        <p>If one is too lazy to learn Latin, it is surely a waste of time to read Fagles under the illusion that one is reading Virgil. Try Shakespeare instead.</p>
+        <p>John Winkler  Arlington, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

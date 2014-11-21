@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Escape From the Nursing Home</title>
+    <meta content="17rosofsky" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/17/opinion/17rosofsky.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819468"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nursing Homes</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicaid</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Retirement Communities and Assisted Living</classifier>
+        <classifier class="indexing_service" type="descriptor">Aged</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Rosofsky, Ira</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Luxury and Vacations/Active Adult</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicaid</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Nursing Homes</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Aged</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nursing Homes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retirement Communities and Assisted Living</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retirement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <person class="online_producer">Rosofsky, Ira</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E4DF1130F934A25752C0A9619C8B63" item-length="671" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Escape From the Nursing Home</hl1>
+        <hl2 class="online_headline">Escape From the Nursing Home</hl2>
+      </hedline>
+      <byline class="print_byline">By Ira Rosofsky</byline>
+      <byline class="normalized_byline">Rosofsky, Ira</byline>
+      <dateline>NEW HAVEN</dateline>
+      <abstract>
+        <p>Ira Rosofsky Op-Ed article on modifying Medicaid to pay not only for expensive, debilitating and often unnecessary nursing home care but also for assisted-living arrangements or shared housing that costs much less and provides provide much better quality of life for elderly people who require only some daily help (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LUCKY you. You just won the lottery, and you're getting a payout of $75,000 a year! Just in time. You're frail, and at age 65 you wonder how far your measly Social Security check will go.</p>
+        <p>Unlucky you. You dance for joy, fall and break your hip. You wind up in the hospital instead of on Easy Street, and the doctors won't discharge you, because they're worried you'll fall again -- and they notice you seem a bit dazed and confused.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A nursing home works well for short-term recovery. But for long-term care, couldn’t we imagine a better way to spend that $75,000?</p>
+      </block>
+      <block class="full_text">
+        <p>LUCKY you. You just won the lottery, and you're getting a payout of $75,000 a year! Just in time. You're frail, and at age 65 you wonder how far your measly Social Security check will go.</p>
+        <p>Unlucky you. You dance for joy, fall and break your hip. You wind up in the hospital instead of on Easy Street, and the doctors won't discharge you, because they're worried you'll fall again -- and they notice you seem a bit dazed and confused.</p>
+        <p>Not to worry. You do have that $75,000 annual payment. Surely you'll be able to recover in a room with a view.</p>
+        <p>But would you like it to be a hospital-style room with only a curtain for privacy? Would you want it to be noisy with loudspeakers and beeping medical equipment? Would you like your door to be always open for strangers to walk in to poke and prod?</p>
+        <p>In other words, would you want to go to a typical nursing home?</p>
+        <p>Seventy-five thousand dollars is the average yearly cost of living in a nursing home, whether you pay out of pocket, whether you have long-term-care insurance, or whether you're on welfare and your stay is paid for by Medicaid. (In 2005, Medicaid paid an estimated $54 billion of the $122 billion national expenditure on nursing homes.)</p>
+        <p>Few elderly people or their families make a deliberate, considered decision to move to a nursing home. More often, institutionalization follows an accident or sudden illness. The broken hip is a typical trigger. First the patient goes to the hospital, and then to the nursing home for rehab. A nursing home works well for short-term recovery. But for long-term care, couldn't we imagine a better way to spend that $75,000?</p>
+        <p>What about simply staying home and paying for the needed medical services à la carte? That would be expensive. The average charge for a health aide is $19 per hour. So to keep someone with you around the clock for a year would cost at least $166,000, more than double your $75,000.</p>
+        <p>But three frail elderly people could share an apartment and a 24-hour aide and, by pooling the cost, have more than $58,000 left over among them for food, clothing, shelter, physical therapy and even fun and frolic.</p>
+        <p>In many cases, a nursing home offers services far beyond what a patient needs. Many people need only a little help -- someone to dispense their medicines, prepare their meals and help them get in and out of bed. Others might need 24-hour care, but not a nursing home.</p>
+        <p>Assisted living -- the halfway house between home-sweet-home and the nursing home -- would fit the bill. But Medicaid won't pay for assisted living. Medicaid will pay only for care in medical facilities, and assisted living doesn't qualify, even though the average annual cost is significantly lower, about $35,000.</p>
+        <p>The generally accepted gold standard for health care is to provide services in the least restrictive environment. Unnecessarily shuttling people into the most restrictive setting grossly violates this standard.</p>
+        <p>The idea of pooled resources and cooperative living arrangements is not new, nor does it originate in elder care. In 1963, George Fairweather, a psychologist, created ''community lodges,'' where psychiatric patients could live cooperatively outside hospitals. Groups of patients would pool their government benefits, buy or rent lodging and hire professionals to meet their special needs. Today, lodge programs modeled on this concept exist across the nation, enabling psychiatric patients to have control of their own lives.</p>
+        <p>Aging at home is an idea that has an intrinsic appeal to my iconoclastic baby-boom generation. We are faced with a public health system that resists innovation, but the sheer size of our generation may force the issue. Everyone is worrying about how the diminutive X, Y and Z generations will pay for all of us in our dotage. Financial shortfalls may divert money into more cost-effective, less restrictive, more consumer-controlled environments for the elderly who need help.</p>
+        <p>And that would be a stroke of good luck for all of us.</p>
+        <p>Op-Ed Contributor Ira Rosofsky, a psychologist who practices in nursing homes, is working on a book about caring for the elderly.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Ira Rosofsky, a psychologist who practices in nursing homes, is working on a book about caring for the elderly.</tagline>
+    </body.end>
+  </body>
+</nitf>

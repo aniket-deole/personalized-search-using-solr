@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Linda Abrehu, Gregory Profeta</title>
+    <meta content="07abrehu" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/fashion/weddings/07abrehu.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817087"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Abrehu, Linda Catherine (Linda Catherine Profeta)</person>
+        <person class="indexing_service">Profeta, Gregory Fred</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE0DA1430F934A35752C0A9619C8B63" item-length="237" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Linda Abrehu, Gregory Profeta</hl1>
+        <hl2 class="online_headline">Linda Abrehu and Gregory Profeta</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Linda Catherine Abrehu, a daughter of Luz Marina Abrehu and Julio Abrehu of Macungie, Pa., was married on Friday evening to Gregory Fred Profeta, the son of Donna Schirripa of West New York, N.J., and Allan Profeta of Cedarhurst, N.Y. Msgr. David L. Cassato performed the ceremony at St. Athanasius Roman Catholic Church in Brooklyn.</p>
+        <p>Mrs. Profeta, 21, is a sales associate in the Manhattan showroom of Viewmark USA, a handbag maker and wholesaler, whose primary label is Chinese Laundry. She is studying for a bachelor's degree in international trade and marketing at the Fashion Institute of Technology.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married on Friday evening at St. Athanasius Roman Catholic Church in Brooklyn.</p>
+      </block>
+      <block class="full_text">
+        <p>Linda Catherine Abrehu, a daughter of Luz Marina Abrehu and Julio Abrehu of Macungie, Pa., was married on Friday evening to Gregory Fred Profeta, the son of Donna Schirripa of West New York, N.J., and Allan Profeta of Cedarhurst, N.Y. Msgr. David L. Cassato performed the ceremony at St. Athanasius Roman Catholic Church in Brooklyn.</p>
+        <p>Mrs. Profeta, 21, is a sales associate in the Manhattan showroom of Viewmark USA, a handbag maker and wholesaler, whose primary label is Chinese Laundry. She is studying for a bachelor's degree in international trade and marketing at the Fashion Institute of Technology.</p>
+        <p>Her father is a partner in and her mother is an assembler at Precision System Assembly Technology, a maker of military and medical electronics equipment in Allentown, Pa.</p>
+        <p>The bridegroom, who is 27 and a certified public accountant, is a manager of an audit team in the banking and capital markets group of PricewaterhouseCoopers, the accounting firm in New York. He graduated cum laude from New York University.</p>
+        <p>His mother owns TriBeCa Taxes, an accounting and consulting firm in West New York and Manhattan. His father is a partner in Premiere Properties, a real estate brokerage and investment firm in Brooklyn.</p>
+        <p>Mr. Profeta is also the stepson of Jean Profeta, a paralegal at Pegalis &amp; Erickson, a law firm in Lake Success, N.Y., and a stepson of Mario Marino, a senior editor on the CBS television program ''48 Hours.''</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

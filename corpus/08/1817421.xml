@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Johnson Accepts Two-Year Offer</title>
+    <meta content="08johnson" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817421"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Trades (Sports)</classifier>
+        <org class="indexing_service">Arizona Diamondbacks</org>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Schmidt, Michael S</person>
+        <person class="indexing_service">Johnson, Randy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Arizona Diamondbacks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trades (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E4DA1530F93BA35752C0A9619C8B63" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Johnson Accepts Two-Year Offer</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+      <byline class="normalized_byline">Schmidt, Michael S</byline>
+      <abstract>
+        <p>Arizona Diamondbacks sign pitcher Randy Johnson to two-year contract in five-player trade with New York Yankees (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Arizona Diamondbacks took the next step toward completing a five-player trade with the Yankees yesterday, agreeing to a two-year contract with pitcher Randy Johnson, one of Johnson's agents, Alan Nero, said.</p>
+        <p>Johnson had one year and $16 million left on his previous contract. The new contract, which goes through the 2008 season, is worth $26 million, so it essentially serves as a one-year extension for about $10 million.</p>
+      </block>
+      <block class="full_text">
+        <p>The Arizona Diamondbacks took the next step toward completing a five-player trade with the Yankees yesterday, agreeing to a two-year contract with pitcher Randy Johnson, one of Johnson's agents, Alan Nero, said.</p>
+        <p>Johnson had one year and $16 million left on his previous contract. The new contract, which goes through the 2008 season, is worth $26 million, so it essentially serves as a one-year extension for about $10 million.</p>
+        <p>The Yankees included $2 million when they agreed to trade Johnson to the Diamondbacks on Thursday for the veteran right-handed reliever Luis Vizcaíno and three prospects.</p>
+        <p>Starting Thursday afternoon, Johnson and the Diamondbacks had a 72-hour window to negotiate a contract. The deal was completed before the window expired yesterday at 5 p.m. Eastern.</p>
+        <p>Johnson, 43, has 280 career victories and will probably need two more seasons to reach 300.</p>
+        <p>For the deal to become official, Johnson must pass a physical today and the trade must be approved by Commissioner Bud Selig because it involves the signing of a new contract.</p>
+        <p>Johnson had back surgery this off-season to repair a herniated disk. Nero said that Johnson should have no trouble passing the physical but that he was not sure if he would be ready to pitch by opening day.</p>
+        <p>If Johnson passes the physical, the Diamondbacks will probably have a news conference tomorrow to announce his return.</p>
+        <p>Johnson pitched for Arizona from 1999 to 2004, then was traded to the Yankees before the 2005 season.</p>
+        <p>In two uneven years in New York, Johnson had an uneasy relationship with the news media and posted the highest earned run average of his career (5.00 in 2006), though he won 17 games each season.</p>
+        <p>CAIRO TO RETURN -- The Yankees have come to terms on a one-year, $750,000 contract with infielder Miguel Cairo.</p>
+        <p>The deal to re-sign Cairo, first reported by The New York Post, should solidify the Yankees' infield for next season. In 81 games for the Yankees last season, Cairo batted .239 and played four infield positions and left field.</p>
+        <p>Cairo also played for the Yankees in 2004 and was a member of the Mets in 2005.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

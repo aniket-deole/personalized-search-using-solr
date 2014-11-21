@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WEIXEL, DAVID</title>
+    <meta content="dn010807" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817329"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WEIXEL, DAVID</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6D91E3AF93BA35752C0A9619C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WEIXEL, DAVID</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEIXEL--David, 91, on December 31, 2006. Beloved husband of his late wife, Lola. Loving father of Miriam and Eugene (Marbella); grandfather of Joanna, Rose and Goldie (Chad); step-grandfather of Yorknewsa and Zadaai; brother, uncle, greatuncle and friend to many. A soldier during WWII, he was an infantryman on the Anzio Beachhead and later worked in combat zones as a reconnaissance car crewman, making topographical sketches of terrain and using his knowledge of French, Italian and German to interrogate prisoners. In civilian life, he was a film editor, artist and sculptor. We will miss this brave and gentle man. Memorial service to be announced.</p>
+      </block>
+      <block class="full_text">
+        <p>WEIXEL--David, 91, on December 31, 2006. Beloved husband of his late wife, Lola. Loving father of Miriam and Eugene (Marbella); grandfather of Joanna, Rose and Goldie (Chad); step-grandfather of Yorknewsa and Zadaai; brother, uncle, greatuncle and friend to many. A soldier during WWII, he was an infantryman on the Anzio Beachhead and later worked in combat zones as a reconnaissance car crewman, making topographical sketches of terrain and using his knowledge of French, Italian and German to interrogate prisoners. In civilian life, he was a film editor, artist and sculptor. We will miss this brave and gentle man. Memorial service to be announced.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>John Wesley -- The Bumsteads</title>
+    <meta content="19gall-5" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819928"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Scott, Andrea K</person>
+        <person class="indexing_service">Wesley, John</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4DC1E30F93AA25752C0A9619C8B63" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>John Wesley -- The Bumsteads</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREA K. SCOTT</byline>
+      <byline class="normalized_byline">Scott, Andrea K</byline>
+      <abstract>
+        <p>Andrea K Scott reviews paintings by John Wesley at Frederick &amp; Freiser gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fredericks &amp; Freiser  536 West 24th Street, Chelsea  Through Feb. 10</p>
+        <p>In 1974, the year of the earliest painting in this buoyant 32-year survey, a writer described John Wesley's cartoonlike series ''Searching for Bumstead'' (see Dagwood, husband of Blondie, creation of Chic Young), with a line from Emily Dickinson, ''absence is condensed presence.'' This 78-year-old artist's work remains deliriously epigrammatic: comic is tragic, flat is deep, and figuration is so stylized that it verges on ornament.</p>
+      </block>
+      <block class="full_text">
+        <p>Fredericks &amp; Freiser  536 West 24th Street, Chelsea  Through Feb. 10</p>
+        <p>In 1974, the year of the earliest painting in this buoyant 32-year survey, a writer described John Wesley's cartoonlike series ''Searching for Bumstead'' (see Dagwood, husband of Blondie, creation of Chic Young), with a line from Emily Dickinson, ''absence is condensed presence.'' This 78-year-old artist's work remains deliriously epigrammatic: comic is tragic, flat is deep, and figuration is so stylized that it verges on ornament.</p>
+        <p>When his first show garnered a rave review by Donald Judd in 1963, Mr. Wesley's eye for the funny pages pigeonholed him as Pop. But his interests have always been more interior, fixing on the neurotic, erotically inclined psyche of the American male, with its rage and frustration, longing and loss.</p>
+        <p>These hard-edged portraits of Dagwood -- alone, with Blondie or escorted by geishas -- are rendered in a restricted palette, dominated by the artist's signature pinks and little-boy blues, outlined comic strip-style in black. In ''Off His Feed,'' a painting that inevitably (and no doubt intentionally) riffs on the bright yellows and blues of Roy Lichtenstein, Dagwood suffers the indignity of impotence, while an attentive Blondie futilely tickles his toes.</p>
+        <p>In another tacit homage Blondie kisses a brunette doppelganger, their profiles forming the vase/face, figure/ground illusion once favored by Jasper Johns.</p>
+        <p>The ''floating world'' of Japanese ukiyo-e prints is a frequent reference, most pointedly in ''Utomara Washing Bumstead Sleeping.'' Dagwood naps on a solar orb of golden cushion and dreams of desire as a bare-breasted woman, filched from a shunga (erotic woodcut), looms overhead.</p>
+        <p>But the keystone to the show may be the Yves Klein-like descent portrayed in the giddy ''Bumstead Out the Window.'' Life is free fall, it seems to suggest, so let go and enjoy the ride.</p>
+        <p>ANDREA K. SCOTT</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

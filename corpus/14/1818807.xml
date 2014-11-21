@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Randi Reich, Joseph Cosentino</title>
+    <meta content="14reich" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/weddings/14reich.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818807"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Reich, Randi S. (Randi S. Cosentino)</person>
+        <person class="indexing_service">Cosentino, Joseph Vito</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E4DB1330F937A25752C0A9619C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Randi Reich, Joseph Cosentino</hl1>
+        <hl2 class="online_headline">Randi Reich and Joseph Cosentino</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Randi S. Reich, the daughter of Lois E. Reich and Robert S. Reich of West Palm Beach, Fla., was married last evening to Joseph Vito Cosentino, a son of Mary Ellen Cosentino and Joseph Cosentino of Washington. Rabbi Nadia Gold officiated at the Fairmont Washington.</p>
+        <p>Mrs. Cosentino, 33, is the provost at Strayer University in Washington, where she is also the senior vice president for academic administration. She graduated magna cum laude from the University of Pennsylvania and received an M.B.A. from Harvard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married Saturday evening. Rabbi Nadia Gold officiated at the Fairmont Washington.</p>
+      </block>
+      <block class="full_text">
+        <p>Randi S. Reich, the daughter of Lois E. Reich and Robert S. Reich of West Palm Beach, Fla., was married last evening to Joseph Vito Cosentino, a son of Mary Ellen Cosentino and Joseph Cosentino of Washington. Rabbi Nadia Gold officiated at the Fairmont Washington.</p>
+        <p>Mrs. Cosentino, 33, is the provost at Strayer University in Washington, where she is also the senior vice president for academic administration. She graduated magna cum laude from the University of Pennsylvania and received an M.B.A. from Harvard.</p>
+        <p>Her father is a partner in Loeb &amp; Loeb, a law firm in New York. Her mother owns Music 'N Motion, a company that entertains at children's events in West Palm Beach and Rye, N.Y.</p>
+        <p>Mr. Cosentino, 32, is a development associate at Abbey Road Property Group, a new real estate development company in Washington. He was until last February a captain in the Marine Corps Reserve and served in Iraq. He graduated summa cum laude from American University and received an M.B.A. from the University of Southern California.</p>
+        <p>His mother is a human resources manager at the American Chemical Society in Washington. His father, who retired as a director of human resources at Verizon Communications in Arlington, Va., is a consultant in the Herndon, Va., office of Booz Allen Hamilton.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

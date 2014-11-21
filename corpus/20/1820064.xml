@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Police in Chase Injure Woman Crossing Street</title>
+    <meta content="20newark" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/20/nyregion/20newark.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820064"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Robberies and Thefts</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <location class="indexing_service">Newark (NJ)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Newark (NJ)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907EED91E30F933A15752C0A9619C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Police in Chase Injure Woman Crossing Street</hl1>
+        <hl2 class="online_headline">Police in Chase Injure Woman Crossing Street</hl2>
+      </hedline>
+      <abstract>
+        <p>Woman crossing street is struck by Newark, NJ, police car during chase of robbery suspects; her injuries are not life-threatening (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A woman crossing the street in Newark yesterday afternoon was struck and injured by a marked police car chasing robbery suspects, the authorities said.</p>
+        <p>The police car was chasing a black Mercedes-Benz on Springfield Avenue near South 18th Street around noon when the woman, who was not identified, walked into the street and was struck, a police spokesman, Detective Todd McClendon, said in an e-mail message.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A woman crossing the street in Newark yesterday afternoon was struck and injured by a marked police car chasing robbery suspects, the authorities said.</p>
+      </block>
+      <block class="full_text">
+        <p>A woman crossing the street in Newark yesterday afternoon was struck and injured by a marked police car chasing robbery suspects, the authorities said.</p>
+        <p>The police car was chasing a black Mercedes-Benz on Springfield Avenue near South 18th Street around noon when the woman, who was not identified, walked into the street and was struck, a police spokesman, Detective Todd McClendon, said in an e-mail message.</p>
+        <p>The men in the Mercedes were suspected in several thefts from automobiles, including one in which a gun was stolen, Detective McClendon said. He said the officers stopped immediately to aid the woman. She was taken to University Hospital in Newark with injuries that were not life threatening and was listed in stable condition last night, he said.</p>
+        <p>Detective McClendon said he did not know how fast the vehicles were traveling.</p>
+        <p>He said the police were investigating whether the officers had been following departmental guidelines for high-speed chases.</p>
+        <p>The Mercedes crashed into a tractor-trailer near Route 280 several minutes later. The occupants, believed to be two men, fled on foot and remained at large last night, Detective McClendon said.</p>
+        <p>The Essex County prosecutor's office is supposed to be notified when the police are involved in accidents with pedestrians, said Judy Gagliano, an assistant prosecutor. But, she said, the office was not notified of the accident yesterday, and learned of it through a reporter's call.</p>
+        <p>Detective McClendon said he did not know why the prosecutor's office was not alerted.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

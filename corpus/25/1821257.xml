@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How E.T. Might Phone Home, if Home Had a G.S.M. Network</title>
+    <meta content="25treo" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/technology/25treo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821257"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Bluetooth Wireless Technology</classifier>
+        <org class="indexing_service">Palm Inc</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Palm Inc</org>
+        <org class="online_producer">Cingular Wireless</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6DB163FF936A15752C0A9619C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How E.T. Might Phone Home, if Home Had a G.S.M. Network</hl1>
+        <hl2 class="online_headline">How E.T. Might Phone Home, if Home Had a G.S.M. Network</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>Palm Treo 750 Windows Mobile smartph</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Palm Treo 750 is a Windows Mobile smartphone with a global agenda. The 5-ounce phone, which uses Cingular's cellular and wireless broadband networks in the United States, can connect in most countries that use the G.S.M. standard.</p>
+        <p>The phone, which comes in a dark blue rubberized finish with chrome accents, has a full keyboard, bright color touch screen and 1.3-megapixel camera. But road warriors will appreciate its more business-oriented features, like a dedicated mute switch on the top, a MiniSD card slot for memory expansion and a speakerphone for meetings on the go.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Palm Treo 750 is a Windows Mobile smartphone with a full keyboard, bright color touch screen and 1.3-megapixel camera.</p>
+      </block>
+      <block class="full_text">
+        <p>The Palm Treo 750 is a Windows Mobile smartphone with a global agenda. The 5-ounce phone, which uses Cingular's cellular and wireless broadband networks in the United States, can connect in most countries that use the G.S.M. standard.</p>
+        <p>The phone, which comes in a dark blue rubberized finish with chrome accents, has a full keyboard, bright color touch screen and 1.3-megapixel camera. But road warriors will appreciate its more business-oriented features, like a dedicated mute switch on the top, a MiniSD card slot for memory expansion and a speakerphone for meetings on the go.</p>
+        <p>The 750 supports Bluetooth wireless networking and four international G.S.M. bands. It can jump onto Cingular's fast wireless data network for video, audio and document downloads, and can connect to most e-mail providers using Microsoft Outlook Mobile and Microsoft's push e-mail systems.</p>
+        <p>Windows users can synchronize their contacts and calendar entries with home PCs using the included software, and the phone can open and edit most Microsoft Office documents.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

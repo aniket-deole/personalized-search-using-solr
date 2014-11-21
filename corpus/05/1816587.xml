@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Henry Darger</title>
+    <meta content="05gall-2" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816587"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Smith, Roberta</person>
+        <person class="indexing_service">Darger, Henry</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DEFDB1430F936A35752C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Henry Darger</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+      <abstract>
+        <p>Roberta Smith reviews works by Henry Darger at Andrew Edlin gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Vivian Girls Emerge  Andrew Edlin  529 West 20th Street, Chelsea  Through Jan. 13</p>
+        <p>Henry Darger was a reclusive, visionary outsider genius whose work, discovered only after his death in 1973, descended on art-world consciousness in one enormous clump of mostly undated painting and writing. But that doesn't mean Darger didn't have a traceable development like supposed insider artists.</p>
+      </block>
+      <block class="full_text">
+        <p>The Vivian Girls Emerge  Andrew Edlin  529 West 20th Street, Chelsea  Through Jan. 13</p>
+        <p>Henry Darger was a reclusive, visionary outsider genius whose work, discovered only after his death in 1973, descended on art-world consciousness in one enormous clump of mostly undated painting and writing. But that doesn't mean Darger didn't have a traceable development like supposed insider artists.</p>
+        <p>This riveting exhibition does some tracing. It mainly shows Darger, whose work centered on the travails of the fictional Vivian Girls, gathering images from printed sources and then experimenting with ways of using them. Its pièce de résistance is an enormous panoramic collage on cardboard, heavily varnished and nearly 10 feet across, known as ''The Battle of Calverhine.''</p>
+        <p>This work is a rarity for Darger because it can be dated: a newspaper from 1929 is varnished to its back. Dark and congested, it also doesn't quite look like Darger's work, thanks partly to the varnish, which he would dispense with later, just as he would replace cardboard with paper and evolve an elaborate process of copying and photographically enlarging images from coloring books. Two other large panoramas show him moving in this direction.</p>
+        <p>In ''The Battle of Calverhine,'' Darger simply knit hundreds of hand-cut magazine photographs and photogravures into an uninterrupted expanse of mayhem that he carefully hand-tinted in lurid colors. The battle is punctuated by explosions, dark clouds, fighting soldiers and distant regiments of marching soldiers that are mostly tinted magenta. The space of this horrific scene closes up and opens inward in disorienting waves. It is a staggering work, leathery and reliclike, with most of Pop Art embedded in its fragile surfaces. This is its first showing in the United States. Catch it while you can.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

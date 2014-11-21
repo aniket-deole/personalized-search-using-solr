@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Duke Players Once Accused Of Rape Can Return to School</title>
+    <meta content="04duke" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/us/04duke.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816371"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lacrosse</classifier>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Kidnapping</classifier>
+        <org class="indexing_service">Duke University</org>
+        <person class="indexing_service">Wilson, Duff</person>
+        <person class="indexing_service">Seligmann, Reade</person>
+        <person class="indexing_service">Finnerty, Collin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lacrosse</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <org class="online_producer">Duke University</org>
+        <person class="online_producer">Nifong, Michael B</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E4D61730F937A35752C0A9619C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Duke Players Once Accused Of Rape Can Return to School</hl1>
+        <hl2 class="online_headline">Duke Players Once Accused of Rape Can Return to School</hl2>
+      </hedline>
+      <byline class="print_byline">By DUFF WILSON</byline>
+      <byline class="normalized_byline">Wilson, Duff</byline>
+      <abstract>
+        <p>Duke University invites former lacrosse players Reade Seligmann and Collin Finnerty to return to school while they fight charges of sexual assault and kidnapping arising from stripper's complaint after team party (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Duke University invited two former lacrosse players to return to school yesterday while they fight charges of sexual offense and kidnapping arising from a stripper's complaint after a team party last March.</p>
+        <p>Citing changed circumstances, Richard H. Brodhead, the university president, said in a statement, ''We have decided that the right and fair thing to do is to welcome back Reade Seligmann and Collin Finnerty to resume their studies at Duke for the spring semester.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The invitation came less than two weeks after Michael B. Nifong, the Durham district attorney, dismissed rape charges in the case.</p>
+      </block>
+      <block class="full_text">
+        <p>Duke University invited two former lacrosse players to return to school yesterday while they fight charges of sexual offense and kidnapping arising from a stripper's complaint after a team party last March.</p>
+        <p>Citing changed circumstances, Richard H. Brodhead, the university president, said in a statement, ''We have decided that the right and fair thing to do is to welcome back Reade Seligmann and Collin Finnerty to resume their studies at Duke for the spring semester.''</p>
+        <p>The invitation came less than two weeks after Michael B. Nifong, the Durham district attorney, dismissed rape charges in the case, saying the woman was not certain there had been penile penetration. Mr. Nifong retained the other charges, which have similar punishment.</p>
+        <p>Lawyers for Mr. Finnerty and Mr. Seligmann said their clients had not decided whether to return for the new semester, which starts Tuesday.</p>
+        <p>The university also told the two men that they were eligible to rejoin the lacrosse team, whose season opens in late February.</p>
+        <p>The Finnerty family was ''delighted'' and praised Duke, their lawyer said. The Seligmann family said in a statement, ''By now it should be plain to any person who has any objectivity that the charges against Reade are transparently false.''</p>
+        <p>The men, both sophomores, were suspended under a Duke policy regarding suspects of violent crimes. A third defendant graduated the day before he was charged.</p>
+        <p>The case has attracted controversy since the charges were filed against the players.</p>
+        <p>Last week, The North Carolina State Bar filed a formal ethics complaint against Mr. Nifong, accusing him of making inflammatory remarks about the team to the news media and misleading the public about evidence.</p>
+        <p>The complaint took issue with public comments by Mr. Nifong, who had granted dozens of news interviews since March, when a stripper first accused the three players of gang-raping her at a late-night team party.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

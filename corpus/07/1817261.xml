@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Interacting With Readers</title>
+    <meta content="07pubedlets-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817261"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LETTERS TO THE PUBLIC EDITOR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">New York Times</org>
+        <person class="indexing_service">Calame, Byron</person>
+        <person class="indexing_service">Fluhrer, David R</person>
+        <person class="indexing_service">Abramson, Hugh (New York, NY)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/The Public Editor/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E1DD1530F934A35752C0A9619C8B63" item-length="249" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Interacting With Readers</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters comment on Byron Calame Dec 17, 2006, Public Editor column in the New York Times's efforts to interact with readers on Internet; David R Fluhrer and Hugh Abramson say they applaud these efforts</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Re ''Voices of Readers Online, Windows on the Newsroom'' (Dec. 17):</p>
+        <p>I applaud The Times's efforts to interact with readers, but have some comments.</p>
+        <p>In a Nov. 13 Talk to the Newsroom on the Web, Jill Abramson, a managing editor, in response to a question said that The Times had not reduced the quality of its journalism to save money. I wrote in and asked her to respond to the fact that here on Long Island, our suburban section has now been diluted with stories from New Jersey, Connecticut and Westchester. This, to me, certainly looks like a reduction in quality to save money. I used to be able to read stories about Long Island locations that meant something to me.</p>
+      </block>
+      <block class="full_text">
+        <p>Re ''Voices of Readers Online, Windows on the Newsroom'' (Dec. 17):</p>
+        <p>I applaud The Times's efforts to interact with readers, but have some comments.</p>
+        <p>In a Nov. 13 Talk to the Newsroom on the Web, Jill Abramson, a managing editor, in response to a question said that The Times had not reduced the quality of its journalism to save money. I wrote in and asked her to respond to the fact that here on Long Island, our suburban section has now been diluted with stories from New Jersey, Connecticut and Westchester. This, to me, certainly looks like a reduction in quality to save money. I used to be able to read stories about Long Island locations that meant something to me.</p>
+        <p>I never received or saw a response from Ms. Abramson, and I never expected one since The Times, while still a great paper, is also still very good at not acknowledging its own faults. So much for your comment that the editors ''do not seem to be ducking all the hard'' questions.</p>
+        <p>DAVID R. FLUHRER  Locust Valley, N.Y., Dec. 18, 2006</p>
+        <p>I, too, have become a great fan of The Times's various interactive features on its Web site. I note that in a Dec. 14 blog posting, David Pogue, the paper's technology columnist, addressed the problem of lack of civility on the Internet. It's nice to be nasty when no one knows your real name.</p>
+        <p>HUGH ABRAMSON  New York, Dec. 17, 2006</p>
+        <p>LETTERS TO THE PUBLIC EDITOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

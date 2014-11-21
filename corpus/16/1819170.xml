@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   STEVENS, MARCIA ENNISE</title>
+    <meta content="dn011607" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819170"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">STEVENS, MARCIA ENNISE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E5DE1F3AF935A25752C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   STEVENS, MARCIA ENNISE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STEVENS--Marcia Ennise, 88, of North Branford and Madison, Connecticut died January 10, 2007. She is survived by her husband John B. Stevens, four children, nine grandchildren and one great-grandchild. An accomplished pianist, Marcia founded New Havens Foundry Music Co. in 1975 and in 1998 won a Lifetime Achievement award from the New Haven Arts Council. Her volunteer affiliations included New Haven Symphony, Neighborhood Music School, Friends of Music at Yale, New Haven Garden Club, and Gaylord Hospital Auxiliary in Wallingford. Born in Evanston, Illinois, Marcia graduated from Smith College in 1939 where she later served as a Trustee and President of the Alumnae Association. A memorial service will be held at Battell Chapel, Yale University on Saturday January 20 at 11 am. Guilford Funeral Home, 115 Church St, Guilford in care of services.</p>
+      </block>
+      <block class="full_text">
+        <p>STEVENS--Marcia Ennise, 88, of North Branford and Madison, Connecticut died January 10, 2007. She is survived by her husband John B. Stevens, four children, nine grandchildren and one great-grandchild. An accomplished pianist, Marcia founded New Havens Foundry Music Co. in 1975 and in 1998 won a Lifetime Achievement award from the New Haven Arts Council. Her volunteer affiliations included New Haven Symphony, Neighborhood Music School, Friends of Music at Yale, New Haven Garden Club, and Gaylord Hospital Auxiliary in Wallingford. Born in Evanston, Illinois, Marcia graduated from Smith College in 1939 where she later served as a Trustee and President of the Alumnae Association. A memorial service will be held at Battell Chapel, Yale University on Saturday January 20 at 11 am. Guilford Funeral Home, 115 Church St, Guilford in care of services.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Seat for the Jet Cockpit In Your Game Room (No Need to Buckle Up)</title>
+    <meta content="18flight" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/technology/18flight.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819663"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Sony Corp</org>
+        <org class="indexing_service">Nintendo Co Ltd</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E2DA1130F93BA25752C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Seat for the Jet Cockpit In Your Game Room (No Need to Buckle Up)</hl1>
+        <hl2 class="online_headline">A Seat for the Jet Cockpit in Your Game Room (No Need to Buckle Up)</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>Hot-Seat Flight Sim gaming c</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There's nothing like being in the middle of the action in a good video game. Serious fans of flight-simulator programs can now grab their force-feedback joysticks and practically climb right into the cockpit. The HotSeat Flight Sim gaming chassis, available in three models, brings both a Dolby 5.1 six-speaker surround sound system and a comfy chair to the stimulating experience of simulated flight.</p>
+        <p>Made of welded steel with an adjustable seat and flat-panel monitor stand, the HotSeat Flight Sim stows the subwoofer under the seat and offers plenty of table space for a keyboard, joystick and game controllers. The chassis is compatible with PC-based games and most major gaming systems, including the Nintendo Wii, Microsoft Xbox and Sony PlayStation.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Serious fans of flight-simulator programs can now grab their force-feedback joysticks and practically climb right into the cockpit.</p>
+      </block>
+      <block class="full_text">
+        <p>There's nothing like being in the middle of the action in a good video game. Serious fans of flight-simulator programs can now grab their force-feedback joysticks and practically climb right into the cockpit. The HotSeat Flight Sim gaming chassis, available in three models, brings both a Dolby 5.1 six-speaker surround sound system and a comfy chair to the stimulating experience of simulated flight.</p>
+        <p>Made of welded steel with an adjustable seat and flat-panel monitor stand, the HotSeat Flight Sim stows the subwoofer under the seat and offers plenty of table space for a keyboard, joystick and game controllers. The chassis is compatible with PC-based games and most major gaming systems, including the Nintendo Wii, Microsoft Xbox and Sony PlayStation.</p>
+        <p>All models can be seen and ordered at hotseatinc.com. Prices for the Flight Sim chassis start around $1,000 for an entry-level rig and move up to $4,000 for a deluxe model that adds a 23-inch widescreen monitor, souped-up gaming PC, game controllers and a copy of Microsoft Flight Simulator X. Dramamine not included.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Insurance Policy For Low Airfares</title>
+    <meta content="22ecom" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/technology/22ecom.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820625"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="E-COMMERCE REPORT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Farecast.com</org>
+        <person class="indexing_service">Crean, Hugh</person>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/E-Commerce</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/E-Commerce Report</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DE1F30F931A15752C0A9619C8B63" item-length="909" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Insurance Policy For Low Airfares</hl1>
+        <hl2 class="online_headline">An Insurance Policy for Low Airfares</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Farecast will announce FareGuard service that will guarantee airfare listed on site will remain valid for one week; company will make up difference if price changes; customers will pay fee of $10 per ticket to subsidize service; Farecast uses technology to analyze historical fare searches to determine likelihood of increases; online air travel bookings increased 14 percent last year from 2005 to $44 billion; chief executive Hugh Crean comments; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FARECAST, the Internet start-up that made waves last year by predicting ticket prices for air travelers, is putting its money where its mouth is.</p>
+        <p>Sort of.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Farecast, which predicts airline ticket prices, will now guarantee its forecasts for a fee.</p>
+      </block>
+      <block class="full_text">
+        <p>FARECAST, the Internet start-up that made waves last year by predicting ticket prices for air travelers, is putting its money where its mouth is.</p>
+        <p>Sort of.</p>
+        <p>The company planned on Monday to announce Fare Guard, a service that guarantees that an airfare listed on the site will remain valid for a week, or Farecast will make up the difference.</p>
+        <p>The hitch is that customers are subsidizing that promise with a fee of $10 a ticket -- essentially making the service an insurance program. But analysts said that many consumers could embrace this apparently novel idea, since it helps take much of the risk out of a transaction that is notoriously rife with price volatility.</p>
+        <p>''You've got to give them credit,'' said Henry H. Harteveldt, an online travel analyst with Forrester Research, a technology consultancy. ''To my knowledge there's nobody else out there offering you an insurance policy for airfare.''</p>
+        <p>With Fare Guard, users search for airfares as they would on most other travel sites. But alongside the fare results, Farecast displays a graphic showing the likelihood that each fare will increase in the coming week. (Farecast's technology sifts through billions of historical fare searches and considers factors like seasonal demand to predict price fluctuations.)</p>
+        <p>Before clicking through to an airline or travel agency Web site to buy the ticket, users are given the chance to buy insurance, which will cost $3 a ticket until Feb. 1. The consumer merely reserves the flight at the current price. If the price rises before he books the flight, though, Farecast will refund the difference. Farecast will offer the Fare Guard service only on about half of the fares it displays.</p>
+        <p>Sites run by airlines and travel agencies typically offer a 24-hour reservation period, during which time customers can lock in a ticket price. Fare Guard adds six days to that lock-in period, backed by Farecast instead of the originating site.</p>
+        <p>Farecast can afford to take that risk, according to Hugh Crean, the company's chief executive, because its fare predictions are correct at least 70 percent of the time.</p>
+        <p>''No one's clairvoyant here, but we do have hundreds of billions of price observations to go on,'' Mr. Crean said. ''With this, we're standing behind the prediction.''</p>
+        <p>Of course, like any insurance program, the economic success of the service rests on the size of those claims and the amount of premium collected.</p>
+        <p>In the meantime, though, Fare Guard provides a useful marketing tool, in that it demonstrates the company's confidence in its predictions. Mr. Crean said that travelers routinely shopped across multiple Web sites while organizing a trip and finalizing plans.</p>
+        <p>''There's an inherent risk the price is going to go up during that time,'' he said. ''So this will help customers feel more comfortable.''</p>
+        <p>There are some potential flaws in Fare Guard that could make some consumers balk, said Mr. Harteveldt of Forrester. Among other things, the Fare Guard service recognizes only the lowest possible fares in its system for a given route at a given moment. Some customers, he said, are interested in higher fares that carry fewer restrictions or penalties for itinerary changes.</p>
+        <p>Still, Mr. Harteveldt said, the service introduces a new element to the airline ticket category on the Web, which is slowing considerably compared with 2004, when bookings increased by 22 percent.</p>
+        <p>Last year's online air bookings reached about $44 billion, or 14 percent more than 2005, and Forrester predicts the market will grow by about 11 percent annually over the next three years.</p>
+        <p>Mr. Crean said that in addition to offering the Fare Guard service on his site, which covers 75 airports, he would probably offer it through online travel agencies and, possibly, airlines themselves. But these companies may prove to be a difficult sell, since in recent years online travel agencies and carriers alike have tried to de-emphasize price, and instead play up features like extra legroom or, in the case of agencies, customer service.</p>
+        <p>Simon Bramley, who oversees Travelocity's airline-related features as a vice president there, would not comment on the Farecast services directly. ''But given the volatility of pricing in general, it strikes us as a risky proposition to place bets on where prices will go,'' he said. ''Frankly, the airlines themselves struggle to predict their own fares.''</p>
+        <p>As an alternative, Mr. Bramley said, Travelocity gives customers several ways to find low fares. Those with flexible travel dates, for instance, can search for lower fares on days near the user's requested dates. (Expedia and Orbitz offer similar features.) ''That's ultimately the best way for people to know they're getting a great fare,'' he said.</p>
+        <p>Airlines, too, are not ready to commit to such an idea, at least not yet. Tim Smith, a spokesman for American Airlines, said he could not comment on discussions the company might or might not be having with prospective business partners. But he said: ''We have never offered, or considered, charging customers for a guarantee of any type.''</p>
+        <p>Mr. Smith said that instead, the company offered a low fare guarantee, where customers receive a $50 discount on future bookings if they find a lower fare for the same itinerary on another Web site.</p>
+        <p>Mr. Crean, of Farecast, predicted that an airline or agency would distribute Fare Guard on his company's behalf this year, and in so doing address a significant fear travelers often have when booking.</p>
+        <p>''The industry's better off if the consumer base stops being afraid,'' he said.</p>
+        <p>E-COMMERCE REPORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

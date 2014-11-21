@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baby Found Dead in Bronx Trash Chute</title>
+    <meta content="30baby" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/nyregion/30baby.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822571"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Lee, Jennifer 8</person>
+        <person class="indexing_service">Cathcart, Rebecca</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DA143FF933A05752C0A9619C8B63" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baby Found Dead in Bronx Trash Chute</hl1>
+        <hl2 class="online_headline">Baby Found Dead in Bronx Trash Chute</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE and REBECCA CATHCART</byline>
+      <byline class="normalized_byline">Cathcart, Rebecca; Lee, Jennifer 8</byline>
+      <abstract>
+        <p>Body of infant girl is found at bottom of trash chute at Bronx apartment building; cause of death has not been determined (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The body of an infant girl was discovered yesterday afternoon at the bottom of a trash chute in a Bronx apartment building, the police said.</p>
+        <p>The baby, described by investigators as Hispanic and less than 4 months old, was declared dead at the scene. It was unclear when or how she had died.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The baby, described by investigators as Hispanic and less than 4 months old, was declared dead at the scene. It was unclear when or how she had died.</p>
+      </block>
+      <block class="full_text">
+        <p>The body of an infant girl was discovered yesterday afternoon at the bottom of a trash chute in a Bronx apartment building, the police said.</p>
+        <p>The baby, described by investigators as Hispanic and less than 4 months old, was declared dead at the scene. It was unclear when or how she had died.</p>
+        <p>Last night, investigators searched the 19-story apartment building, at 225 Willis Avenue in Mott Haven, with a German shepherd to determined where the baby may have been in the complex.</p>
+        <p>The baby was found shortly before 4 p.m., when a maintenance worker who was in the trash compactor room heard a loud thud, an investigator said. It did not sound like trash falling, so he looked inside the bin.</p>
+        <p>One resident, Geraldine Pinckney, 46, who had heard the maintenance man describe how he had discovered the baby, said: ''He went to see what was in there, and when he opened it, he thought it was a doll baby until he saw the blue lips, and then he knew.''</p>
+        <p>Maintenance workers said that the baby's body was intact and that she appeared to have been dead before being thrown down the chute. Investigators said she was wearing a pink hooded coat and a white jumper.</p>
+        <p>Other residents said they did not know of any babies recently born to tenants in the building.</p>
+        <p>''I know everyone in this building after 14 years,'' said Doris Soto, 43. ''I can't believe this happened. I'm trying to remember who I know and who I've seen that has small babies.''</p>
+        <p>Tenants, who were kept waiting outside the building during the investigation last night, were shaken by the discovery. Isabelle Johnson, 63, president of the tenants association, said: ''This is chaotic. It doesn't make any sense. There are so many outs that you have. You can run away. You can bang on someone's door. Anything.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

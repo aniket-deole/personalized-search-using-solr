@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="23pfizer--refer" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820907"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3D81F30F930A15752C0A9619C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pfizer to Cut 7,800 Jobs  Pfizer will lay off 7,800 workers, reorganize its businesses and close several manufacturing and research sites, including a plant in Brooklyn, the borough where the drug company began.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Senate Ally Rejects Bush Plan  Senator John W. Warner of Virginia presented a bipartisan proposal that rejected President Bush's plan to send more troops to Baghdad and urged the administration to find a new course in Iraq.</p>
+        <p>PAGE A10</p>
+        <p>From Yoctoseconds to Eons  In Basics, a new column, Natalie Angier considers scientific principles. Today: the nature of time. She also fields questions at nytimes.com/science.</p>
+        <p>SCIENCE TIMES, PAGE F1</p>
+        <p>Iran Bars Nuclear Inspectors  Iran barred 38 nuclear agency inspectors, while a senior dissident cleric criticized the president's stance against the West.</p>
+        <p>PAGE A7</p>
+        <p>Sentencing Law Struck Down  The Supreme Court invalidated California's criminal sentencing law, saying it gives judges authority the Constitution gives to juries.</p>
+        <p>PAGE A15</p>
+      </block>
+      <block class="full_text">
+        <p>Pfizer to Cut 7,800 Jobs  Pfizer will lay off 7,800 workers, reorganize its businesses and close several manufacturing and research sites, including a plant in Brooklyn, the borough where the drug company began.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Senate Ally Rejects Bush Plan  Senator John W. Warner of Virginia presented a bipartisan proposal that rejected President Bush's plan to send more troops to Baghdad and urged the administration to find a new course in Iraq.</p>
+        <p>PAGE A10</p>
+        <p>From Yoctoseconds to Eons  In Basics, a new column, Natalie Angier considers scientific principles. Today: the nature of time. She also fields questions at nytimes.com/science.</p>
+        <p>SCIENCE TIMES, PAGE F1</p>
+        <p>Iran Bars Nuclear Inspectors  Iran barred 38 nuclear agency inspectors, while a senior dissident cleric criticized the president's stance against the West.</p>
+        <p>PAGE A7</p>
+        <p>Sentencing Law Struck Down  The Supreme Court invalidated California's criminal sentencing law, saying it gives judges authority the Constitution gives to juries.</p>
+        <p>PAGE A15</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

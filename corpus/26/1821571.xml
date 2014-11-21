@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; China Blue</title>
+    <meta content="26roun-3" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070130T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1821571"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Peled, Micha X</person>
+        <object.title class="indexing_service">China Blue (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E4DD173FF935A15752C0A9619C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; China Blue</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews Micha X Peled documentary film China Blue; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan  Directed by Micha X. Peled  In Mandarin, Cantonese and English, with English subtitles  Not rated; 86 minutes</p>
+        <p>''China Blue,'' a heartbreaking and meticulous documentary about life inside a blue-jeans factory in China, reveals more than we may care to know about the provenance of our most beloved item of clothing. Employing smuggled equipment and outright deception, Micha X. Peled and his crew infiltrate a plant owned by Guo Xi Lam, a former police chief who is clearly proud of his success. ''We are happy to make the jeans for the whole world,'' says his beaming sales manager, while clients like Wal-Mart and Levi Strauss suggest the factory is well on its way.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan  Directed by Micha X. Peled  In Mandarin, Cantonese and English, with English subtitles  Not rated; 86 minutes</p>
+        <p>''China Blue,'' a heartbreaking and meticulous documentary about life inside a blue-jeans factory in China, reveals more than we may care to know about the provenance of our most beloved item of clothing. Employing smuggled equipment and outright deception, Micha X. Peled and his crew infiltrate a plant owned by Guo Xi Lam, a former police chief who is clearly proud of his success. ''We are happy to make the jeans for the whole world,'' says his beaming sales manager, while clients like Wal-Mart and Levi Strauss suggest the factory is well on its way.</p>
+        <p>The cost of that goal is paid by people like Jasmine, 16, a sweet-faced thread-cutter who often works punishing 20-hour shifts for an average of 6 cents an hour (minus deductions for food and hot water). But ''China Blue'' is more than an exercise in cinematic activism. Patiently following Jasmine -- who uses precious sleep time to write stories about a female superhero -- and several lively co-workers as they fight for their wages and plan visits to their home villages, the film develops a natural dramatic structure that's profoundly affecting. Mr. Peled doesn't just record the girls' indignities, he listens to their dreams.</p>
+        <p>Moving from tense management meetings to fierce price negotiations with Western buyers, ''China Blue'' examines the plight of the world's largest pool of cheap labor and traces its exploitation to a retail outlet near you.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>Correction:  January 30, 2007, Tuesday  A film review in Weekend on Friday about ''China Blue,'' a documentary about life inside a bluejeans factory in China, referred incorrectly to its clients. Levi Strauss does not buy jeans from it.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 30, 2007, Tuesday</p>
+        <p>A film review in Weekend on Friday about ''China Blue,'' a documentary about life inside a bluejeans factory in China, referred incorrectly to its clients. Levi Strauss does not buy jeans from it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

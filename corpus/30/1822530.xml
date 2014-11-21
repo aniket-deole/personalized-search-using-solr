@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The End of a Long Life</title>
+    <meta content="30boxold" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822530"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Longevity</classifier>
+        <classifier class="indexing_service" type="descriptor">Age, Chronological</classifier>
+        <person class="indexing_service">Tillman, Emma Faust</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EFDB143FF933A05752C0A9619C8B63" item-length="33" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The End of a Long Life</hl1>
+      </hedline>
+      <abstract>
+        <p>Emma Faust Tillman, daughter of former slaves, dies at age 114, four days after becoming world's oldest person (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emma Faust Tillman, the daughter of former slaves, died Sunday in her sleep at age 114, four days after becoming the world's oldest person. These days, the title changes hands often. Page B1.</p>
+      </block>
+      <block class="full_text">
+        <p>Emma Faust Tillman, the daughter of former slaves, died Sunday in her sleep at age 114, four days after becoming the world's oldest person. These days, the title changes hands often. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

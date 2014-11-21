@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For a Media Room Away From Home, A Remote for the Laptop</title>
+    <meta content="18remote" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/technology/18remote.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819666"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Remote Control Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Bluetooth Wireless Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Interlink Electronics Inc</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Remote Control Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">iTunes</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E2DA1130F93BA25752C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For a Media Room Away From Home, A Remote for the Laptop</hl1>
+        <hl2 class="online_headline">For a Media Room Away From Home, a Remote for the Laptop</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>Inter7</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Even seasoned business travelers need a bit of downtime. The Interlink ExpressCard Media Remote lets an average laptop act like a media center, complete with a couch-potato-worthy remote control.</p>
+        <p>The Media Remote is just four millimeters thick and fits into an ExpressCard slot, found on most recent laptops. When it is in the slot, the remote charges itself using the laptop's battery, and when it is out it communicates with the laptop using Bluetooth wireless technology. It should last about a week on a full charge.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Interlink ExpressCard Media Remote lets an average laptop act like a media center, complete with a couch-potato-worthy remote control.</p>
+      </block>
+      <block class="full_text">
+        <p>Even seasoned business travelers need a bit of downtime. The Interlink ExpressCard Media Remote lets an average laptop act like a media center, complete with a couch-potato-worthy remote control.</p>
+        <p>The Media Remote is just four millimeters thick and fits into an ExpressCard slot, found on most recent laptops. When it is in the slot, the remote charges itself using the laptop's battery, and when it is out it communicates with the laptop using Bluetooth wireless technology. It should last about a week on a full charge.</p>
+        <p>The remote works with iTunes, Windows Media Center, Windows Media Player and RealPlayer and can switch tracks, pause and play audio and video and select on-screen items, all from up to 30 feet away. The device also works with PowerPoint, allowing it to double as a presentation remote.</p>
+        <p>The one-ounce remote costs $49.95 and is available online and in retail stores.</p>
+        <p>Fans of digital media will appreciate its small size and ease of storage. The only things missing are a few good DVDs and a library of easy-listening music.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

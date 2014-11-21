@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; From Other Worlds</title>
+    <meta content="26roun-1" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821569"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Strugatz, Barry</person>
+        <person class="indexing_service">Buono, Cara</person>
+        <person class="indexing_service">De Bankole, Isaach</person>
+        <object.title class="indexing_service">From Other Worlds (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4DD173FF935A15752C0A9619C8B63" item-length="226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; From Other Worlds</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film From Other Worlds, directed by Barry Strugatz; Cara Buono and Isaach De Bankole star; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan  Directed by Barry Strugatz  Not rated; 88 minutes</p>
+        <p>Aliens offer a cure for earthling ennui in ''From Other Worlds,'' a limp sci-fi comedy with fewer laughs than a meeting of Abductees Anonymous. When Joanne (Cara Buono), a despondent wife and mother, develops a fascination with dead fish and a fan-shaped skin blemish, she naturally suspects an otherworldly cause. Grappling with blackouts and an unreliable Brooklyn accent, she heads for a U.F.O. support group at which neighborhood losers vie for the extraterrestrial-sighting record and, apparently, the title of Most Unfortunate Hair.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan  Directed by Barry Strugatz  Not rated; 88 minutes</p>
+        <p>Aliens offer a cure for earthling ennui in ''From Other Worlds,'' a limp sci-fi comedy with fewer laughs than a meeting of Abductees Anonymous. When Joanne (Cara Buono), a despondent wife and mother, develops a fascination with dead fish and a fan-shaped skin blemish, she naturally suspects an otherworldly cause. Grappling with blackouts and an unreliable Brooklyn accent, she heads for a U.F.O. support group at which neighborhood losers vie for the extraterrestrial-sighting record and, apparently, the title of Most Unfortunate Hair.</p>
+        <p>There Joanne meets Abraham (Isaach De Bankolé), a dour African who sells bootleg watches and bears an identical skin discoloration. Joining forces, they track down a garrulous alien who instructs them -- in a vocal hybrid of Liberace and the police inspector from ''Young Frankenstein'' -- on how to save the world. Instructions on how to save the script are not forthcoming.</p>
+        <p>Flirting with fantasy, farce and social commentary and committing to none, the writer and director Barry Strugatz pads his film with ill-conceived characters (Melissa Leo as a coy librarian) and embarrassing puns (''You've been acting really spaced out recently''). Meanwhile his two leads, displaying less chemistry than an American high-school transcript, stagger toward their respective awakenings like dazed lemmings in a movie that never finds a consistent tone.</p>
+        <p>JEANNETTE CATSOULIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

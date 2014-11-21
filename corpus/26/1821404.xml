@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HITTLEMAN, WARREN</title>
+    <meta content="dn012607" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821404"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HITTLEMAN, WARREN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6D81F3AF935A15752C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HITTLEMAN, WARREN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HITTLEMAN--Warren, of Long Beach, L.I. Beloved husband of Karen. Loving father of Carly, Matthew, Greg and Neal. Adored grandfather of Naamah, Maya, Yaakov, Zeev, Shaul, Bracha Miriam, and Rochel Naomi. Your smile and laugh are etched in our hearts and we remember you with love. In lieu of flowers, donations can be made to United Cerebral Palsy of Nassau County, 380 Washington Avenue, Roosevelt, NY. Services 11:00, Friday at Temple Emanuel of Long Beach, 455 Neptune Boulevard, Long Beach, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>HITTLEMAN--Warren, of Long Beach, L.I. Beloved husband of Karen. Loving father of Carly, Matthew, Greg and Neal. Adored grandfather of Naamah, Maya, Yaakov, Zeev, Shaul, Bracha Miriam, and Rochel Naomi. Your smile and laugh are etched in our hearts and we remember you with love. In lieu of flowers, donations can be made to United Cerebral Palsy of Nassau County, 380 Washington Avenue, Roosevelt, NY. Services 11:00, Friday at Temple Emanuel of Long Beach, 455 Neptune Boulevard, Long Beach, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CHURN</title>
+    <meta content="26churn" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/business/26churn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821482"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Churn"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E3DF173FF935A15752C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CHURN</hl1>
+        <hl2 class="online_headline">People</hl2>
+      </hedline>
+      <abstract>
+        <p>The Churn column on litigation related to recent corporate mergers and company appointments (S)1</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People</p>
+        <p>Charles Schwab has announced that its chief financial officer, Christopher V. Dodds, will retire on May 18. Joseph R. Martinetto, senior vice president and treasurer, will succeed him.</p>
+        <p>Charles G. Berg has joined Welsh, Carson, Anderson &amp; Stowe as a senior operating executive. Mr. Berg was previously chief executive of Oxford Health Plans.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People.</p>
+      </block>
+      <block class="full_text">
+        <p>People</p>
+        <p>Charles Schwab has announced that its chief financial officer, Christopher V. Dodds, will retire on May 18. Joseph R. Martinetto, senior vice president and treasurer, will succeed him.</p>
+        <p>Charles G. Berg has joined Welsh, Carson, Anderson &amp; Stowe as a senior operating executive. Mr. Berg was previously chief executive of Oxford Health Plans.</p>
+        <p>Vestar Capital Partners has named Roger C. Holstein a managing director. Mr. Holstein, who had served as a senior adviser to the firm over the last six months, was a former chief executive of WebMD.</p>
+        <p>David Cantillon, formerly of Goldman Sachs, is joining Morgan Stanley as a managing director and head of European prime brokerage.</p>
+        <p>Rick Pfeiffer has joined the AIG Consumer Finance Group as chief executive. Mr. Pfeiffer was a co-founder and chief executive of the Ambertek Group, which provides advisory services to international banks and consulting companies.</p>
+        <p>Adam Knight has been named to head Credit Suisse's metals trading alliance with Glencore. Mr. Knight joins Credit Suisse from Goldman Sachs.</p>
+        <p>Yar R. Chaikovsky, formerly of Weil, Gotshal &amp; Manges, has joined Sonnenschein Nath &amp; Rosenthal as a partner in the firm's new office in Menlo Park, Calif. The office is scheduled to open in mid-March.</p>
+        <p>Sheila Hooda, formerly of Credit Suisse, has joined TIAA-CREF as a senior managing director and head of strategy.</p>
+        <p>MetLife has appointed William J. Mullaney president of its institutional business segment. William D. Moore will succeed Mr. Mullaney as head of the MetLife Auto and Home subsidiary.</p>
+        <p>CVC Capital Partners has promoted Marc Boughton to managing partner. Hugh Briggs has been made a managing director of CVC's international team.</p>
+        <p>Betty Hung has joined Vista Equity Partners as an operating vice president. She was previously vice president for portfolio company operations at Garnett &amp; Helfrich Capital.</p>
+        <p>The Churn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

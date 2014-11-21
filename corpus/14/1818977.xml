@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>If the Pay's 'Confidential,' It Just Disappeared</title>
+    <meta content="14liweekLI-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818977"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <location class="indexing_service">Islip (NY)</location>
+        <person class="indexing_service">Nolan, Philip</person>
+        <person class="indexing_service">Saslow, Linda</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1DE1030F937A25752C0A9619C8B63" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>If the Pay's 'Confidential,' It Just Disappeared</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA SASLOW</byline>
+      <byline class="normalized_byline">Saslow, Linda</byline>
+      <abstract>
+        <p>Town Supervisor Philip Nolan of Islip, NY, puts halt to practice of 'confidential pay' for town employees; says there was no explanations as to what work was done (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Philip Nolan, the new Islip town supervisor, discovered last month that 21 town employees were set to receive a total of $120,000 in what is known as confidential pay. This month he put a halt to the practice.</p>
+        <p>Confidential pay refers to increases in some workers' checks for reasons that are not disclosed publicly. Mr. Nolan said he learned of the practice when given a list of the payroll for the town's 970 employees.</p>
+      </block>
+      <block class="full_text">
+        <p>Philip Nolan, the new Islip town supervisor, discovered last month that 21 town employees were set to receive a total of $120,000 in what is known as confidential pay. This month he put a halt to the practice.</p>
+        <p>Confidential pay refers to increases in some workers' checks for reasons that are not disclosed publicly. Mr. Nolan said he learned of the practice when given a list of the payroll for the town's 970 employees.</p>
+        <p>Confidential pay is not illegal because the town supervisor has discretionary powers granted by the Town Board to authorize extra pay. But Mr. Nolan said that as the supervisor, he is ''now using those powers to eliminate the practice.''</p>
+        <p>''When I reviewed back records, I found that last year, the cost to the town in confidential pay was $100,000 for 20 employees, and $190,000 in 2005, for 23 workers,'' he said. ''There were no explanations as to what work was done. The only paperwork was on 3-by-5 index cards. It was favoritism, plain and simple, and was a well-kept secret.''</p>
+        <p>Mr. Nolan, a Democrat elected in November, said the practice started about 25 years ago when several of the town's ''confidential'' employees were removed from the union because they had access to sensitive labor data. They were given $500 each.</p>
+        <p>Mr. Nolan cited Donna Kane, an assistant to a Republican Town Board member, Pamela J. Greene, as an example of a recipient of confidential pay. Ms. Kane ''more than doubled her salary with these payments,'' he said. Her confidential pay was $31,827; her base pay, $30,771.</p>
+        <p>Ms. Greene, who lost the supervisor's race to Mr. Nolan, said that Ms. Kane's confidential pay was appropriate and that to eliminate such payments would be punitive.</p>
+        <p>Ms. Greene said that after Ms. Kane, her administrative assistant, became a civil service employee as a means of job protection, Ms. Kane's job title ''as clerk-typist did not provide a salary commensurate with her qualifications and experience, and the confidential pay was approved to make up for the gap.''</p>
+        <p>''Other towns follow similar practices and call it a stipend,'' she said.</p>
+        <p>LINDA SASLOW</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

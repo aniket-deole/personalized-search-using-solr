@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Single Payer's Potential</title>
+    <meta content="14backpage-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818864"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <person class="indexing_service">Eiszner, Margaret</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E1DA1330F937A25752C0A9619C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Single Payer's Potential</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Margaret Eiszner about December 31 Economic View column proposes debate for single-payer health care system (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Health Care Problem? Check the American Psyche'' (Economic View, Dec. 31), Anna Bernasek said that most Americans don't believe that an effective single-payer health care system is possible.</p>
+        <p>I think that most Americans have encountered some aspect of the modern medical culture -- where everything can be based on price, and where patients are marketing targets -- and they don't like it.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Health Care Problem? Check the American Psyche'' (Economic View, Dec. 31), Anna Bernasek said that most Americans don't believe that an effective single-payer health care system is possible.</p>
+        <p>I think that most Americans have encountered some aspect of the modern medical culture -- where everything can be based on price, and where patients are marketing targets -- and they don't like it.</p>
+        <p>Let a new single-payer proposal be put forth and debated. I believe that people will support such a program and that it will surely be an improvement over the chaotic system we have today.</p>
+        <p>Margaret Eiszner  Kalamazoo, Mich., Jan. 3</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

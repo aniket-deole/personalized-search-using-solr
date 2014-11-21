@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ford Reports $5.8 Billion Quarterly Loss</title>
+    <meta content="25wire-ford" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821388"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EEDD173FF936A15752C0A9619C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ford Reports $5.8 Billion Quarterly Loss</hl1>
+      </hedline>
+      <byline class="print_byline">By REUTERS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DETROIT - Ford Motor Co. Thursday posted a fourth-quarter loss of almost $5.8 billion on declining sales of its profitable trucks and charges for employee buyouts.</p>
+        <p>For the full year, Ford lost $12.7 billion, its deepest loss in its 103-year history. The previous record net loss was $7.39 in 1992.</p>
+      </block>
+      <block class="full_text">
+        <p>DETROIT - Ford Motor Co. Thursday posted a fourth-quarter loss of almost $5.8 billion on declining sales of its profitable trucks and charges for employee buyouts.</p>
+        <p>For the full year, Ford lost $12.7 billion, its deepest loss in its 103-year history. The previous record net loss was $7.39 in 1992.</p>
+        <p>Ford, which is in the early stages of a turnaround plan that includes closing 16 plants and cutting up to 45,000 jobs in North America, recorded a net loss of $3.05 a share during the fourth quarter, compared with a loss of $74 million, or 4 cents a share, a year ago.</p>
+        <p>The loss from continuing operations was $1.10 cents a share, which was deeper than the average Wall Street analyst expectations of a loss of 94 cents per share as tracked by Reuters Estimates.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

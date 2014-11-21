@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Folic Acid May Improve Thinking Skills</title>
+    <meta content="30ment" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822511"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: MENTAL ABILITIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="indexing_service" type="descriptor">Folic Acid</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <org class="indexing_service">Wageningen University (Netherlands)</org>
+        <org class="indexing_service">Lancet (Journal)</org>
+        <person class="indexing_service">Bakalar, Nicholas</person>
+        <person class="indexing_service">Durga, Jane (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DB143FF933A05752C0A9619C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Folic Acid May Improve Thinking Skills</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+      <abstract>
+        <p>Dr Jane Durga, former Wageningen University, Netherlands, nutritional epidemiologist, leads study on impact of folic acid on cognitive performance; research, which is published in journal Lancet, finds that doses of folic acid did improve mental ability, but Durga cautions that more research is needed; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Folic acid dietary supplements significantly improve thinking skills that tend to decline with normal aging, a Dutch study has found.</p>
+        <p>Researchers randomly assigned 818 men and women ages 50 to 70 to take a daily oral dose of 800 micrograms of folic acid or a placebo. All the subjects, who were otherwise healthy, had elevated blood levels of homocysteine, which has in previous studies been associated with poor cognitive performance.</p>
+      </block>
+      <block class="full_text">
+        <p>Folic acid dietary supplements significantly improve thinking skills that tend to decline with normal aging, a Dutch study has found.</p>
+        <p>Researchers randomly assigned 818 men and women ages 50 to 70 to take a daily oral dose of 800 micrograms of folic acid or a placebo. All the subjects, who were otherwise healthy, had elevated blood levels of homocysteine, which has in previous studies been associated with poor cognitive performance.</p>
+        <p>All the subjects took five tests of mental functioning. At the beginning of the study, there was no significant difference in the scores between the groups. But at the end, after controlling for cholesterol, blood pressure, body mass, smoking status and other variables, the folic acid group performed significantly better on three of the five mental tests, and their average for all tests was significantly higher.</p>
+        <p>Although the lead author, Jane Durga, affirmed that the study was carefully randomized and controlled, she said, ''Based on this paper alone, I wouldn't be waving it around'' to urge people to supplement their diets.</p>
+        <p>''Although this is a high-quality study,'' she continued, ''it needs to be repeated in other populations like in the U.S., where there is already folic acid fortification.''</p>
+        <p>By law, flour in the United States is fortified with folic acid to help prevent neural tube defects in newborns.</p>
+        <p>''This is only the first study that shows this effect,'' Dr. Durga said. ''There need to be studies that look at lower doses or increasing natural folates, which may lead to similar or even greater effects.''</p>
+        <p>At the time of the study, published on Jan. 20 in The Lancet, Dr. Durga was a nutritional epidemiologist at Wageningen University in the Netherlands.</p>
+        <p>VITAL SIGNS: MENTAL ABILITIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

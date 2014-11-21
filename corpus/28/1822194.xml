@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Embracing Diversity Of Many Kinds</title>
+    <meta content="l28jersey-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822194"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <person class="indexing_service">Little, Benilde</person>
+        <person class="indexing_service">Brito, Miguel J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DF143FF93BA15752C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Embracing Diversity Of Many Kinds</hl1>
+      </hedline>
+      <abstract>
+        <p>Miguel J Brito letter on Benilde Little's January 7 Generations essay on difficulties of choosing right school for child</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A School Search Shaded by Painful Memories,'' by Benilde Little (Generations, Jan. 7):</p>
+        <p>As head of school for St. Philip's Academy, and father (I am black, my wife is white) of three young children adopted from Guatemala, I know all too well the difficulties of choosing the right school for a child. I am sad that Ms. Little did not have the opportunity to look at our school as an alternative.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A School Search Shaded by Painful Memories,'' by Benilde Little (Generations, Jan. 7):</p>
+        <p>As head of school for St. Philip's Academy, and father (I am black, my wife is white) of three young children adopted from Guatemala, I know all too well the difficulties of choosing the right school for a child. I am sad that Ms. Little did not have the opportunity to look at our school as an alternative.</p>
+        <p>St. Philip's is a K-8 private inner-city school that accepts students based on academic motivation and regardless of their family's ability to pay tuition. Thus, we embrace a more holistic kind of diversity, not only racial, but socioeconomic as well.</p>
+        <p>Our students come from a wide array of family circumstances and adversity, some from shelters each morning, some from comfortable homes. Yet, what allows our students to reach their full potential is our belief that all children are equal and, given the proper individual nurturing and support, will succeed.</p>
+        <p>I call on all schools and communities to create environments that build self-esteem, enthusiasm and integrity as the platform for high achievement for all.</p>
+        <p>Miguel J. Brito  Newark</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

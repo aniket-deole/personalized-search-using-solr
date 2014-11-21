@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Appeals For Delayed Travelers</title>
+    <meta content="18brfs-6" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/washington/18brfs-TRAVEL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819747"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <org class="indexing_service">Homeland Security Department</org>
+        <person class="indexing_service">Lipton, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EED81130F93BA25752C0A9619C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Appeals For Delayed Travelers</hl1>
+        <hl2 class="online_headline">Appeals for Delayed Travelers</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC LIPTON</byline>
+      <byline class="normalized_byline">Lipton, Eric</byline>
+      <abstract>
+        <p>Department of Homeland Security is setting up new, simplified way for travelers to file appeal, called Traveler Redress Inquiry Program, if their journey is disrupted by security queries; allows person to file and track status of claim online (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Department of Homeland Security is setting up a new, simplified way for travelers to file an appeal if their journey is disrupted by security queries. The new system will allow travelers who have been denied or delayed boarding an airplane or entering the United States, or have been subjected to more intense searches or questioning by a department official to question why they were the target of such scrutiny. The new system, called the Traveler Redress Inquiry Program, will allow the person to file and track the status of the claim online and is scheduled to start late next month.</p>
+        <p>ERIC LIPTON</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Department of Homeland Security is setting up a new, simplified way for travelers to file an appeal if their journey is disrupted by security queries.</p>
+      </block>
+      <block class="full_text">
+        <p>The Department of Homeland Security is setting up a new, simplified way for travelers to file an appeal if their journey is disrupted by security queries. The new system will allow travelers who have been denied or delayed boarding an airplane or entering the United States, or have been subjected to more intense searches or questioning by a department official to question why they were the target of such scrutiny. The new system, called the Traveler Redress Inquiry Program, will allow the person to file and track the status of the claim online and is scheduled to start late next month.</p>
+        <p>ERIC LIPTON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

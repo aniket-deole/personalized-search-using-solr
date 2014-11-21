@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: White Plains: Man Charged With Rape</title>
+    <meta content="19mbrfs-3" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819966"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Kidnapping</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <person class="indexing_service">Davis, William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7DB1E30F93AA25752C0A9619C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: White Plains: Man Charged With Rape</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+      <abstract>
+        <p>William Davis is accused of luring 12-year-old girl into his car in Brooklyn and raping her in Westchester County, NY (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Manhattan man has been named in a 23-count indictment accusing him of kidnapping and raping a 12-year-old girl in Westchester County on Dec. 28, prosecutors said yesterday. The man, William Davis, 46, of 126th Street, is charged with rape, kidnapping and predatory sexual assault, said Janet DiFiore, the Westchester district attorney. Mr. Davis is scheduled to be arraigned today. Ms. DiFiore said Mr. Davis is accused of luring a Brooklyn girl into his car by identifying himself as a police officer, taking her to Westchester and raping her.</p>
+      </block>
+      <block class="full_text">
+        <p>A Manhattan man has been named in a 23-count indictment accusing him of kidnapping and raping a 12-year-old girl in Westchester County on Dec. 28, prosecutors said yesterday. The man, William Davis, 46, of 126th Street, is charged with rape, kidnapping and predatory sexual assault, said Janet DiFiore, the Westchester district attorney. Mr. Davis is scheduled to be arraigned today. Ms. DiFiore said Mr. Davis is accused of luring a Brooklyn girl into his car by identifying himself as a police officer, taking her to Westchester and raping her.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

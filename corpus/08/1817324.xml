@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SARDI, VINCENT</title>
+    <meta content="dn010807" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817324"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SARDI, VINCENT</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E6D91E3AF93BA35752C0A9619C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SARDI, VINCENT</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SARDI--Vincent The officers, board of directors and the staff of the Irish Repertory Theatre mourn the passing of our most excellent boardmember, Vincent Sardi, who we held in the highest regard. His grand good humor and great generosity was a thing of beauty and a joy every day of his life. Our thoughts are with his wife June and thier extended family.</p>
+      </block>
+      <block class="full_text">
+        <p>SARDI--Vincent The officers, board of directors and the staff of the Irish Repertory Theatre mourn the passing of our most excellent boardmember, Vincent Sardi, who we held in the highest regard. His grand good humor and great generosity was a thing of beauty and a joy every day of his life. Our thoughts are with his wife June and thier extended family.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

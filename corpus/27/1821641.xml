@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MANDEL, SYLVIA F.</title>
+    <meta content="dn012708.1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821641"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MANDEL, SYLVIA F.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E4DE173AF934A15752C0A9619C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MANDEL, SYLVIA F.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MANDEL--Sylvia F., age 92, formerly of Queens, died January 25 in New Hartford, NY. Alumnus of Hunter College, teacher at James Monroe H. S. Wife of the late Dr. James L. Mandel. Survived by two daughters, Lois Portman (Dr. David), Utica, and Adrienne Mandel, New Hartford; two grandchildren and two greatgrandchildren. Service will be private. Online expressions of sympathy to www.dimbleby friedelfuneralhomes.com</p>
+      </block>
+      <block class="full_text">
+        <p>MANDEL--Sylvia F., age 92, formerly of Queens, died January 25 in New Hartford, NY. Alumnus of Hunter College, teacher at James Monroe H. S. Wife of the late Dr. James L. Mandel. Survived by two daughters, Lois Portman (Dr. David), Utica, and Adrienne Mandel, New Hartford; two grandchildren and two greatgrandchildren. Service will be private. Online expressions of sympathy to www.dimbleby friedelfuneralhomes.com</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

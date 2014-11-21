@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="09obse" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/science/09observ.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070115T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1817628"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Smell</classifier>
+        <classifier class="indexing_service" type="descriptor">Reefs</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Navigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Chemicals</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Large Synoptic Survey Telescope</classifier>
+        <classifier class="indexing_service" type="descriptor">Telescopes and Observatories</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Animals</classifier>
+        <classifier class="indexing_service" type="descriptor">Golf</classifier>
+        <location class="indexing_service">Great Barrier Reef (Australia)</location>
+        <location class="indexing_service">Australia</location>
+        <location class="indexing_service">Chile</location>
+        <location class="indexing_service">Africa</location>
+        <org class="indexing_service">Woods Hole Marine Biological Laboratory</org>
+        <org class="indexing_service">Proceedings of the National Academy of Sciences</org>
+        <org class="indexing_service">Cornell University</org>
+        <org class="indexing_service">Environmental Science and Technology (Journal)</org>
+        <org class="indexing_service">Google</org>
+        <org class="indexing_service">Stanford University</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">Gerlach, Gabriele (Dr)</person>
+        <person class="indexing_service">Murphy, Rebecca R</person>
+        <person class="indexing_service">Haith, Douglas A</person>
+        <person class="indexing_service">Pringle, Robert W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Chile</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Australia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Chile</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smell</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E7D61530F93AA35752C0A9619C8B63" item-length="1032" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">The Ungulate Effect on an Ecosystem</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Dr Gabriele Gerlach of Woods Hole Marine Biological Laboratory leads study that finds some larval fish use sense of smell to find way back to home reef after drifting on current; research, which was conducted at Great Barrier Reef in Australia, is published in Proceedings of the National Academy of Sciences; Rebecca R Murphy and Douglas A Haith of Cornell University lead study on use of chemicals on golf courses and whether they impact health of golfer; research, which is published in journal Environmental Science and Technology, finds inhalation risk is very low; Large Synoptic Survey Telescope planned for Chile has internet search engine Goggle as new investor and contributor along with existing group of 19 universities and national laboratories already involved with project; Robert W Pringle, Stanford University doctoral student, leads study on how ungulate herbivores affect ecosystem of several regions of Africa; research, which is published in Proceedings of the National Academy of Sciences, finds that herbivores are equally important to maintaining balance as are carnivores; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Smells Like Home</p>
+        <p>You can go home again, but if you're a just-hatched reef fish, it's not that easy. Larval fish often lead a peripatetic existence, drifting with ocean currents until they are widely dispersed, far from the reef of their birth.</p>
+        <p>If all larvae of one species were scattered over a wide area -- creating, in effect, a giant mixing bowl -- genetic sameness would be the expected result. But there are enough differences between fish on different reefs to indicate that populations do stay separate, and many larvae do make it home again.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How ungulates affect an ecosystem, how larval fish find their way home, a new telescope and more.</p>
+      </block>
+      <block class="full_text">
+        <p>Smells Like Home</p>
+        <p>You can go home again, but if you're a just-hatched reef fish, it's not that easy. Larval fish often lead a peripatetic existence, drifting with ocean currents until they are widely dispersed, far from the reef of their birth.</p>
+        <p>If all larvae of one species were scattered over a wide area -- creating, in effect, a giant mixing bowl -- genetic sameness would be the expected result. But there are enough differences between fish on different reefs to indicate that populations do stay separate, and many larvae do make it home again.</p>
+        <p>Scientists aren't completely sure how they do so, but one idea is that the tiny larvae, which can swim, move vertically in the water to take advantage of particular currents. But if so, how do they know which currents are the right ones? Perhaps, a new study suggests, they can smell home.</p>
+        <p>The study by Gabriele Gerlach of the Marine Biological Laboratory at Woods Hole, Mass., and colleagues looked at how certain fish disperse in the Great Barrier Reef. The researchers created a model of expected dispersion given such factors as current flow, and then analyzed the genetic diversity of several species to determine whether their dispersal patterns matched the model.</p>
+        <p>Their findings, published in The Proceedings of the National Academy of Sciences, showed that while both spiny damselfish and cardinal fish would be expected to be broadly dispersed, cardinal fish in fact showed high genetic diversity, indicating that the larvae return to their home reef.</p>
+        <p>The researchers performed other experiments in which they exposed larvae to water from two reefs -- their own and an unknown one. Cardinal fish larvae exhibited a strong preference for their home reef water, suggesting that the fish got olfactory cues, perhaps a mix of chemicals unique to their species.</p>
+        <p>While not offering proof, taken together the two findings suggest that some larval fish use their sense of smell to head in the right direction.</p>
+        <p>Another Kind of Fairway Hazard</p>
+        <p>Your typical golf course is hardly an all-natural playground. To create verdant fairways, lush rough and tight greens, all manner of chemicals, including pesticides, are usually needed.</p>
+        <p>Might that have an effect on golfers, who may breathe in pesticide vapors while playing? A study by Rebecca R. Murphy and Douglas A. Haith of Cornell shows that there is little inhalation risk, at least at courses in the Northeast.</p>
+        <p>The study, published by the journal Environmental Science and Technology, assessed the health risks of 15 pesticides, including fungicides like azoxystrobin and iprodione and herbicides like bensulide, which is used to control crabgrass, at three locations, Boston, Philadelphia and Rochester. Climate also factored into the analysis -- hot weather causes more of the volatile chemicals to vaporize.</p>
+        <p>The study found that for all 15 chemicals, the long-term noncarcinogenic health risk -- as identified by what is known as a ''hazard quotient'' -- was extremely low.</p>
+        <p>The study also looked at the risks from five of the pesticides considered to be possible carcinogens, and found that the risk was very low as well. Even for course workers or tournament spectators, who spend more time on a course, risks were minimal.</p>
+        <p>Google Telescope</p>
+        <p>One company has been accepted into a group of 19 universities and national laboratories that is developing the Large Synoptic Survey Telescope, a 27.5-foot diameter instrument planned for Chile.</p>
+        <p>But it's not just any company: it's Google, the search-engine giant.</p>
+        <p>Google is not investing money in the project, which is expected to cost $350 million and be completed by 2013. But it will lend a hand in figuring out how to organize and make accessible all the data from the instrument. That may be a formidable task: the telescope will survey the southern night sky once a week using a 3-gigapixel digital camera, to obtain time-lapse images of faint astronomical objects. All those images will amount to some 200 terabytes of data every week.</p>
+        <p>The Ungulate Effect on an Ecosystem</p>
+        <p>In studies of the ripple effects of animals on an ecosystem, carnivores are the celebrities. Researchers have given the most attention to the impact these top predators have on the animals, plants and insects beneath them in the food chain, what's termed a trophic cascade.</p>
+        <p>But a study out of Africa takes a different approach, looking at the effects of an ecosystem's average Joes -- the vast hordes of ungulate herbivores like cows, gazelles, zebras and elephants. Robert W. Pringle, a doctoral student at Stanford, and colleagues found that these animals could have an impact, too.</p>
+        <p>''The classic trophic cascade goes from predator to herbivore to plant,'' Mr. Pringle wrote in an e-mail message from Kenya, where he is continuing his research. ''What makes this study different from most is in where this cascade begins and ends.''</p>
+        <p>Mr. Pringle and his colleagues set up large plots in the savanna and, using electric fences, excluded all large animals from some of them. Then they studied the response of other elements of the ecosystem -- trees and ground cover, the most dominant lizard, and arthropods.</p>
+        <p>Their conclusion, published in The Proceedings of the National Academy of Sciences, is that the herbivores can have far-reaching indirect effects. Specifically, a lack of these animals results in an increased abundance of vegetation, lizards and beetles (which are a major food source for lizards). The researchers also found that the effects were greater in areas of low productivity -- lands with low rainfall, say, or poor soils.</p>
+        <p>Some of these effects are what ecologists call top-down: without the animals eating them, the trees and ground cover thrive. But others are bottom-up: denser ground cover leads to more beetles, and more beetles and denser trees both mean more lizards.</p>
+        <p>''We think that both beetles and lizards profited from increased food availability in the absence of ungulates,'' Mr. Pringle wrote. ''With the lizards, it also seems pretty clear that the increase in habitat availability (i.e. trees) played a major role.''</p>
+        <p>The work has implications for conservation efforts, he said, because large herbivores like these are in the process of disappearing, in Africa and elsewhere. ''When this happens,'' Mr. Pringle wrote, ''the consequences will ripple through the ecosystem, causing changes throughout.''</p>
+        <p>Observatory</p>
+        <p>Correction:  January 15, 2007, Monday  A report in the Observatory column of Science Times last Tuesday about the impact of large herbivores on ecosystems misstated the middle initial of the lead researcher, a doctoral student at Stanford. He is Robert M. Pringle, not Robert W.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 15, 2007, Monday</p>
+        <p>A report in the Observatory column of Science Times last Tuesday about the impact of large herbivores on ecosystems misstated the middle initial of the lead researcher, a doctoral student at Stanford. He is Robert M. Pringle, not Robert W.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

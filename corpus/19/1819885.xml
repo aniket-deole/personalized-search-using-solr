@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="19trans" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819885"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E3DD1E30F93AA25752C0A9619C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  CHICAGO WHITE SOX--Named Marc Bombard manager for Charlotte of the IL; Rafael Santana manager for Birmingham of the Southern League; Tim Blackwell manager and Wes Clements hitting coach for Winston-Salem of the Carolina League; Chris Jones manager, Larry Owens pitching coach and Andy Tomberlin hitting coach for Kannapolis of the South Atlantic League; Chris Cron manager and Robert Sasser hitting coach for Great Falls of the Pioneer League; Omer Munoz manager and Jerry Hairston hitting coach for Bristol of the Appalachian League, Kirk Champion pitching coordinator, Nick Capra hitting coordinator, Daryl Boston outfield instructor, Manny Trillo Infield instructor, Nate Oliverbase running and bunting instructor, John Orton catching instructor, Dale Torborg conditioning coordinator and Scott Takaominor league training-rehab coordinator.</p>
+        <p>National League  ATLANTA BRAVES--Agreed to terms with OF-1B Craig Wilson on a one-year contract.  COLORADO ROCKIES--Sold the contract of INF Luis Gonzalez to the Yomiuri Giants of the Japanese Central League.  LOS ANGELES DODGERS--Agreed to terms with RHP Chin-Hui Tsao on a one-year contract.  WASHINGTON NATIONALS--Agreed to terms with RHP Jesus Colome, RHP Anastacio Martinez, LHP Luis Martinez, LHP Arnie Munoz, OF George Lombard, OF Abraham Nunez, 1B Travis Lee, INF Melvin Dorta, INF D'Angelo Jimenez, INF Jose Macias, INF Jorge Toca and INF Tony Womack on minor league contracts. Sent INF-OF Tony Blanco outright to Columbus of the IL.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  CHICAGO WHITE SOX--Named Marc Bombard manager for Charlotte of the IL; Rafael Santana manager for Birmingham of the Southern League; Tim Blackwell manager and Wes Clements hitting coach for Winston-Salem of the Carolina League; Chris Jones manager, Larry Owens pitching coach and Andy Tomberlin hitting coach for Kannapolis of the South Atlantic League; Chris Cron manager and Robert Sasser hitting coach for Great Falls of the Pioneer League; Omer Munoz manager and Jerry Hairston hitting coach for Bristol of the Appalachian League, Kirk Champion pitching coordinator, Nick Capra hitting coordinator, Daryl Boston outfield instructor, Manny Trillo Infield instructor, Nate Oliverbase running and bunting instructor, John Orton catching instructor, Dale Torborg conditioning coordinator and Scott Takaominor league training-rehab coordinator.</p>
+        <p>National League  ATLANTA BRAVES--Agreed to terms with OF-1B Craig Wilson on a one-year contract.  COLORADO ROCKIES--Sold the contract of INF Luis Gonzalez to the Yomiuri Giants of the Japanese Central League.  LOS ANGELES DODGERS--Agreed to terms with RHP Chin-Hui Tsao on a one-year contract.  WASHINGTON NATIONALS--Agreed to terms with RHP Jesus Colome, RHP Anastacio Martinez, LHP Luis Martinez, LHP Arnie Munoz, OF George Lombard, OF Abraham Nunez, 1B Travis Lee, INF Melvin Dorta, INF D'Angelo Jimenez, INF Jose Macias, INF Jorge Toca and INF Tony Womack on minor league contracts. Sent INF-OF Tony Blanco outright to Columbus of the IL.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Hope of a Fresh Start</title>
+    <meta content="01mon1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/01/opinion/01mon1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815774"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">New Year</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">New Year</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Year</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEED91630F932A35752C0A9619C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Hope of a Fresh Start</hl1>
+        <hl2 class="online_headline">The Hope of a Fresh Start</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial holds that New Year's Day is simplest holiday in calendar; says there is no civic agenda, no liturgical content, only sense of something ended, something begun</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Year's Day is the simplest holiday in the calendar, a Champagne cork of a day after all the effervescence of the evening before. There is no civic agenda, no liturgical content, only the sense of something ended, something begun. It is a good day to clean the ashes out of the wood stove, to consider the possibilities of next summer's garden, to wonder how many weeks into the new year you will be before you marvel at how quickly 2007 is going. ''This will be the year ,'' you find yourself thinking, but before you can finish the thought you remember what all the previous years have taught you -- that there's just no telling.</p>
+        <p>We are supposed to believe in the fresh start of a new year, and who doesn't love the thought of it? But we are just as likely to feel the pull of the old ways on this holiday, to acknowledge the solid comfort -- like it or not -- of the self we happen to have become over the years. We may not say, like Charles Lamb in 1820, that we would no more alter the shape of our lives ''than the incidents of some well-contrived novel.'' But we know what he means.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“This will be the year ...,” you find yourself thinking, but before you can finish the thought you remember what all the previous years have taught you  that there’s just no telling.</p>
+      </block>
+      <block class="full_text">
+        <p>New Year's Day is the simplest holiday in the calendar, a Champagne cork of a day after all the effervescence of the evening before. There is no civic agenda, no liturgical content, only the sense of something ended, something begun. It is a good day to clean the ashes out of the wood stove, to consider the possibilities of next summer's garden, to wonder how many weeks into the new year you will be before you marvel at how quickly 2007 is going. ''This will be the year ,'' you find yourself thinking, but before you can finish the thought you remember what all the previous years have taught you -- that there's just no telling.</p>
+        <p>We are supposed to believe in the fresh start of a new year, and who doesn't love the thought of it? But we are just as likely to feel the pull of the old ways on this holiday, to acknowledge the solid comfort -- like it or not -- of the self we happen to have become over the years. We may not say, like Charles Lamb in 1820, that we would no more alter the shape of our lives ''than the incidents of some well-contrived novel.'' But we know what he means.</p>
+        <p>No one has faced the prospect of New Year's time more honestly than Lamb. He knew that its real theme was what he called ''an intolerable disinclination to dying,'' something he felt especially sharply in the dead of winter, awaiting the peal of bells ringing in the new year. It was an inescapable syllogism for him -- New Year, the passing of time, the certainty of death.</p>
+        <p>What it forced from him was the very thing it should force from all of us -- a renewal of our pleasure in life itself. ''I am in love,'' he wrote, ''with this green earth; the face of town and country; the unspeakable rural solitudes, and the sweet security of streets.''</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

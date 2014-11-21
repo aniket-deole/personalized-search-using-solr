@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | New England: New Hampshire: Bacterial Meningitis Kills Student</title>
+    <meta content="06brfs-4" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816757"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Meningitis</classifier>
+        <location class="indexing_service">New Hampshire</location>
+        <org class="indexing_service">University of New Hampshire</org>
+        <person class="indexing_service">Zezima, Katie</person>
+        <person class="indexing_service">Thompson, Danielle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Hampshire</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E2D61430F935A35752C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | New England: New Hampshire: Bacterial Meningitis Kills Student</hl1>
+      </hedline>
+      <byline class="print_byline">By KATIE ZEZIMA</byline>
+      <byline class="normalized_byline">Zezima, Katie</byline>
+      <abstract>
+        <p>Danielle Thompson, student at University of New Hampshire, dies of bacterial meningitis, and health officials say more than 90 people in seven states have been warned that they might be at risk for disease (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 21-year-old University of New Hampshire student died of bacterial meningitis on Wednesday, and health officials said more than 90 people in seven states had been warned that they might be at risk for the disease. Officials said the student, Danielle Thompson of Bangor, Me., had gone home during Christmas break, where she came into contact with numerous people. They said Ms. Thompson's death was not related to current meningitis cases in Rhode Island.</p>
+        <p>KATIE ZEZIMA</p>
+      </block>
+      <block class="full_text">
+        <p>A 21-year-old University of New Hampshire student died of bacterial meningitis on Wednesday, and health officials said more than 90 people in seven states had been warned that they might be at risk for the disease. Officials said the student, Danielle Thompson of Bangor, Me., had gone home during Christmas break, where she came into contact with numerous people. They said Ms. Thompson's death was not related to current meningitis cases in Rhode Island.</p>
+        <p>KATIE ZEZIMA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

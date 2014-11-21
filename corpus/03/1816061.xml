@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CALENDAR</title>
+    <meta content="03fcal" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816061"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E0DE1730F930A35752C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CALENDAR</hl1>
+      </hedline>
+      <byline class="print_byline">By FLORENCE FABRICANT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Venezuelan Delight</p>
+        <p>Through Jan. 10, Pasita Wine Bar, 47 Eighth Avenue (Horatio Street), is serving a Venezuelan holiday specialty, the hallaca. Hallacas are similar to tamales, with meat or chicken stuffing and a banana leaf wrapping. Each is $12: (212)255-3900.</p>
+        <p>Barbecue Fund-Raiser</p>
+        <p>This month the 'Wichcraft sandwich shops are serving a barbecued flank steak sandwich on ciabatta that was created by summer interns from the Fresh Air Fund. The sandwiches are $9 each, and 10 percent of the price is donated to the fund. For locations: wichcraftnyc.com.</p>
+        <p>Class in Burgundy</p>
+        <p>A class at the Culinary Institute of America in Hyde Park, N.Y., on Jan. 11 at 6 p.m., will sort out the appellations in the Burgundy wine region. The fee is $65: (845) 471-6608, or ciachef.edu.</p>
+        <p>Making Bagels</p>
+        <p>A one-session hands-on workshop on making bagels will be held on Jan. 14 from 9 a.m. to 1 p.m. in the culinary arts division of the New School. It will meet at the Inn on 23rd, 131 West 23rd Street. The fee is $125: (212) 229-5690 or culinary.newschool.edu.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+      <block class="full_text">
+        <p>Venezuelan Delight</p>
+        <p>Through Jan. 10, Pasita Wine Bar, 47 Eighth Avenue (Horatio Street), is serving a Venezuelan holiday specialty, the hallaca. Hallacas are similar to tamales, with meat or chicken stuffing and a banana leaf wrapping. Each is $12: (212)255-3900.</p>
+        <p>Barbecue Fund-Raiser</p>
+        <p>This month the 'Wichcraft sandwich shops are serving a barbecued flank steak sandwich on ciabatta that was created by summer interns from the Fresh Air Fund. The sandwiches are $9 each, and 10 percent of the price is donated to the fund. For locations: wichcraftnyc.com.</p>
+        <p>Class in Burgundy</p>
+        <p>A class at the Culinary Institute of America in Hyde Park, N.Y., on Jan. 11 at 6 p.m., will sort out the appellations in the Burgundy wine region. The fee is $65: (845) 471-6608, or ciachef.edu.</p>
+        <p>Making Bagels</p>
+        <p>A one-session hands-on workshop on making bagels will be held on Jan. 14 from 9 a.m. to 1 p.m. in the culinary arts division of the New School. It will meet at the Inn on 23rd, 131 West 23rd Street. The fee is $125: (212) 229-5690 or culinary.newschool.edu.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

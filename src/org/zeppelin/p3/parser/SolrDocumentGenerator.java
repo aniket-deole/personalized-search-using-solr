@@ -15,7 +15,7 @@ public class SolrDocumentGenerator {
 	 */
 	public List<SolrInputDocument> createSolrDocuments() {
 		// TODO- Remove the hard-coding
-		String ipDir = "/home/animesh/git/project3/nyt";
+		String ipDir = "corpus";
 
 		File ipDirectory = new File(ipDir);
 		String[] catDirectories = ipDirectory.list();
@@ -36,8 +36,8 @@ public class SolrDocumentGenerator {
 				Document doc = handler.parseDocument(dir.getAbsolutePath()
 						+ File.separator + f);
 				SolrInputDocument solrDoc = new SolrInputDocument();
-				solrDoc.addField("id", 7777);
-				solrDoc.addField("content", doc.getContent());
+				solrDoc.addField("id", count + 123);
+				solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("title", doc.getTitle());
 				solrDoc.addField("source", doc.getSource());
 				if (doc.getCategories() != null) {
@@ -48,8 +48,12 @@ public class SolrDocumentGenerator {
 				// add the doc to the list
 				solrInputDocuments.add(solrDoc);
 				count++;
+				if (count == 100)
+					break;
 			}
-
+			if (count == 100)
+				break;
+			System.out.println(count);
 		}
 		System.out.println(count + " documents parsed.");
 		return solrInputDocuments;

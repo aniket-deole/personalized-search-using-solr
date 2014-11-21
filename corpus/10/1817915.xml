@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Philharmonic Chooses 'My Fair Lady'</title>
+    <meta content="10lady" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/theater/10lady.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817915"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EFDD1130F933A25752C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Philharmonic Chooses 'My Fair Lady'</hl1>
+        <hl2 class="online_headline">Philharmonic Chooses 'My Fair Lady'</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''My Fair Lady'' will be presented by the New York Philharmonic in four semi-staged performances in March.</p>
+        <p>The 1956 musical, with book and lyrics by Alan Jay Lerner and music by Frederick Loewe, will be seen at a gala performance on March 7 at 7:30 p.m., on March 8 at 7:30 p.m. and on March 9 and 10 at 8 p.m. Rob Fisher, currently the music director of ''The Apple Tree,'' starring Kristin Chenoweth and playing at Studio 54, will conduct.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The 1956 musical will be presented by the New York Philharmonic in four semi-staged performances in March.</p>
+      </block>
+      <block class="full_text">
+        <p>''My Fair Lady'' will be presented by the New York Philharmonic in four semi-staged performances in March.</p>
+        <p>The 1956 musical, with book and lyrics by Alan Jay Lerner and music by Frederick Loewe, will be seen at a gala performance on March 7 at 7:30 p.m., on March 8 at 7:30 p.m. and on March 9 and 10 at 8 p.m. Rob Fisher, currently the music director of ''The Apple Tree,'' starring Kristin Chenoweth and playing at Studio 54, will conduct.</p>
+        <p>''My Fair Lady'' replaces the 1970 Stephen Sondheim and George Furth musical ''Company,'' deferred by the Philharmonic when plans were announced for a Broadway production, now at the Ethel Barrymore Theater.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

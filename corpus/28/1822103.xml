@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUCH!</title>
+    <meta content="28suits-5" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822103"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Fines (Penalties)</classifier>
+        <org class="indexing_service">Gemstar-TV Guide International</org>
+        <person class="indexing_service">Yuen, Henry C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE4DA173FF93BA15752C0A9619C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUCH!</hl1>
+      </hedline>
+      <byline class="print_byline">By MARK A. STEIN</byline>
+      <abstract>
+        <p>Former Gemstar-TV Guide International chairman and chief executive owes $93.6 million in damages, salary and other costs in addition to not being entitled to $30 million company froze when it fired him; was accused of inflating revenue to meet financial targets (S)a</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Not only is Henry C. Yuen not entitled to $30 million that his former employer, Gemstar-TV Guide International, froze when it fired him in 2003, he actually owes the company $93.6 million in damages, salary and other costs, an arbitrator ruled last week.</p>
+        <p>The assessment comes atop the $22 million in restitution, penalties and interest that a federal court ordered him to pay last May.</p>
+      </block>
+      <block class="full_text">
+        <p>Not only is Henry C. Yuen not entitled to $30 million that his former employer, Gemstar-TV Guide International, froze when it fired him in 2003, he actually owes the company $93.6 million in damages, salary and other costs, an arbitrator ruled last week.</p>
+        <p>The assessment comes atop the $22 million in restitution, penalties and interest that a federal court ordered him to pay last May.</p>
+        <p>Mr. Yuen was chairman and chief executive of Gemstar when the company accused him of inflating the company's revenue to meet financial targets and sent him packing.</p>
+        <p>And Gemstar is not through with him yet. The company said it also plans to recoup its legal fees from Mr. Yuen.</p>
+        <p>MARK A. STEIN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

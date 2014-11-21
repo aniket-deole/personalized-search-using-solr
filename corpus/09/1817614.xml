@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Italy Restricts 'Apocalypto'</title>
+    <meta content="09arts-4" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817614"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <org class="indexing_service">Van Halen (Music Group)</org>
+        <org class="indexing_service">Ronettes (Music Group)</org>
+        <org class="indexing_service">Grandmaster Flash &amp; the Furious Five (Music Group)</org>
+        <org class="indexing_service">Rock and Roll Hall of Fame and Museum (Cleveland)</org>
+        <org class="indexing_service">Rem (Music Group)</org>
+        <person class="indexing_service">Sisario, Ben</person>
+        <person class="indexing_service">Smith, Patti</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0D71530F93AA35752C0A9619C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Italy Restricts 'Apocalypto'</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Lawrence Van Gelder</byline>
+      <abstract>
+        <p>Van Halen, Ronettes, Grandmaster Flash &amp; the Furious Five, REM and Patti Smith will be inducted into Rock and Roll Hall of Fame; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Italians younger than 14 have been barred from Mel Gibson's new film ''Apocalypto'' under a court ruling that overturned a decision by the country's censors that the bloody Maya saga was fit for children, Reuters reported. The ban is temporary, pending a hearing on Jan. 17, according to a lawyer for Codacons, a consumer group that challenged the censors' ruling, which had drawn widespread criticism from politicians and parents organizations last week. In the United States, the film is rated R. The culture minister, Francesco Rutelli, met yesterday with the Italian censorship commission to review its standards.</p>
+      </block>
+      <block class="full_text">
+        <p>Italians younger than 14 have been barred from Mel Gibson's new film ''Apocalypto'' under a court ruling that overturned a decision by the country's censors that the bloody Maya saga was fit for children, Reuters reported. The ban is temporary, pending a hearing on Jan. 17, according to a lawyer for Codacons, a consumer group that challenged the censors' ruling, which had drawn widespread criticism from politicians and parents organizations last week. In the United States, the film is rated R. The culture minister, Francesco Rutelli, met yesterday with the Italian censorship commission to review its standards.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

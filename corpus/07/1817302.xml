@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Audi's Show of Force</title>
+    <meta content="07NUGGETaudi" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817302"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3DD1130F934A35752C0A9619C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Audi's Show of Force</hl1>
+      </hedline>
+      <byline class="print_byline">By JERRY GARRETT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Sunday: Audi Q7 V-12 TDI design study</p>
+        <p>Is it real? The Q7 is Audi's large sport utility, of course, and while there may be a business case for a sports version, it's unlikely anyone will ever identify a need for a 200 mile-an-hour edition.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Sunday: Audi Q7 V-12 TDI design study</p>
+        <p>Is it real? The Q7 is Audi's large sport utility, of course, and while there may be a business case for a sports version, it's unlikely anyone will ever identify a need for a 200 mile-an-hour edition.</p>
+        <p>What's the point? Audi wants to make a statement about the viability of clean diesel engines using a technology it calls Bluetec, developed in partnership with Mercedes-Benz. The V-12 Q7 hammers home the point -- with a pile driver.</p>
+        <p>What they said: ''Audi is firmly convinced that the TDI engine represents the powerful and economical alternative for the future of motoring,'' said Wolfgang Hatz, Audi's director of engine development. ''The arrival of Bluetec technology allows us to demonstrate Audi's commitment to always being at the very forefront of diesel technology.''</p>
+        <p>What they didn't say: Audi is never likely to put the 500-horsepower V-12 TDI into the hands of mortals. But if they did, it would be legal in all 50 states.</p>
+        <p>What makes it tick? It's not your father's diesel: the engine is a 6-liter version of the one used in the Le Mans-winning R10 racecar. It produces an asphalt-shredding 737 pound-feet of torque, good for zero to 60 m.p.h. times of about 5.5-seconds.</p>
+        <p>How much, how soon? Dream on.</p>
+        <p>How's it look? Just like a regular Q7 with a 3-liter V-6, except for the steroid-crazed look of the L.E.D. headlights.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

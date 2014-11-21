@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Silicone, Catching Fire</title>
+    <meta content="17dinlett-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819479"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cookware</classifier>
+        <classifier class="indexing_service" type="descriptor">Silicone</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Fires and Firefighters</classifier>
+        <person class="indexing_service">Mahler, Annette</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Polymers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EFDF1130F934A25752C0A9619C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Silicone, Catching Fire</hl1>
+      </hedline>
+      <abstract>
+        <p>Annette Mahler letter warns that silicone baking liners may catch fire at high temperature (Jan 10 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>One important bit of information Marian Burros did not discuss in her article ''Hot Stuff'' (Jan. 10) was how much heat silicone can endure. Most products state a range of temperatures. However, none I have seen state a warning that products not be used under the broiler.</p>
+        <p>We had an oven fire due to browning a piece of pastry that had been baked on a silicone liner. The baking part was fine, and to brown under the broiler, we just left the silicone mat under the pastry. But that resulted in an oven fire within less than a minute.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>One important bit of information Marian Burros did not discuss in her article ''Hot Stuff'' (Jan. 10) was how much heat silicone can endure. Most products state a range of temperatures. However, none I have seen state a warning that products not be used under the broiler.</p>
+        <p>We had an oven fire due to browning a piece of pastry that had been baked on a silicone liner. The baking part was fine, and to brown under the broiler, we just left the silicone mat under the pastry. But that resulted in an oven fire within less than a minute.</p>
+        <p>Although we had no fire extinguisher at hand, the fire burned itself out within five minutes. But it left us with a stove that needed replacing and a kitchen that needed complete cleaning and painting.</p>
+        <p>Please alert readers that a broiler reaches temperatures much above the usual upper limits of silicone cookware.</p>
+        <p>ANNETTE MAHLER  Madison, Wis.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Vigil By Shooting Victim's Mother</title>
+    <meta content="03mbrfs-1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/03/nyregion/03mbrfs-vigil.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816179"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Police</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Khan, Daryl</person>
+        <person class="indexing_service">Bell, Valerie</person>
+        <person class="indexing_service">Bell, Sean</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <person class="online_producer">Bell, Sean</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4DA1730F930A35752C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Vigil By Shooting Victim's Mother</hl1>
+        <hl2 class="online_headline">Queens: Vigil by Shooting Victim’s Mother</hl2>
+      </hedline>
+      <byline class="print_byline">By DARYL KHAN; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Khan, Daryl</byline>
+      <abstract>
+        <p>Valerie Bell, mother of Sean Bell, who was killed when New York City police fired barrage at his car, undertakes vigil at 103rd precinct, where shooting occurred; will continue vigil for 50 days, representing number of shots fired (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The mother of Sean Bell, the unarmed man fatally shot by the police in November outside a Jamaica nightclub, said yesterday that she would stand vigil outside the police station for the 103rd Precinct, where the shooting occurred. The mother, Valerie Bell, said she would continue the vigil for 50 days, the number of bullets fired in the Nov. 25 shooting, or until indictments were filed in the case. Mr. Bell and a group of friends were in a car after his bachelor party when the shooting occurred. Two of Mr. Bell's friends were wounded in the shooting. The officers have said that they thought one of the men in the car had a gun. The five police officers involved have been on desk duty since the shooting. The Queens district attorney, Richard A. Brown, is investigating.</p>
+        <p>DARYL KHAN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The mother of Sean Bell, the unarmed man fatally shot by the police in November outside a Jamaica nightclub, said yesterday that she would stand vigil outside the police station for the 103rd Precinct, where the shooting occurred. The mother, Valerie Bell, said she would continue the vigil for 50 days, the number of bullets fired in the Nov. 25 shooting, or until indictments were filed in the case. Mr. Bell and a group of friends were in a car after his bachelor party when the shooting occurred. Two of Mr. Bell’s friends were wounded in the shooting. The officers have said that they thought one of the men in the car had a gun. The five police officers involved have been on desk duty since the shooting. The Queens district attorney, Richard A. Brown, is investigating.</p>
+      </block>
+      <block class="full_text">
+        <p>The mother of Sean Bell, the unarmed man fatally shot by the police in November outside a Jamaica nightclub, said yesterday that she would stand vigil outside the police station for the 103rd Precinct, where the shooting occurred. The mother, Valerie Bell, said she would continue the vigil for 50 days, the number of bullets fired in the Nov. 25 shooting, or until indictments were filed in the case. Mr. Bell and a group of friends were in a car after his bachelor party when the shooting occurred. Two of Mr. Bell's friends were wounded in the shooting. The officers have said that they thought one of the men in the car had a gun. The five police officers involved have been on desk duty since the shooting. The Queens district attorney, Richard A. Brown, is investigating.</p>
+        <p>DARYL KHAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

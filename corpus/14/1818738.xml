@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Charter Schools: Don't Believe the Hype</title>
+    <meta content="l07charter" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818738"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Charter Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Enrollment</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <person class="indexing_service">Lecker, Wendy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Charter Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EED71230F937A25752C0A9619C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Charter Schools: Don't Believe the Hype</hl1>
+      </hedline>
+      <abstract>
+        <p>Public education finance consultant Wendy Lecker letter on December 31 editorial that advocated raising restriction on charter school enrollment in Connecticut to ease burden of education costs on localities</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Legislature: Learn to Say No'' (editorial, Dec. 31), you advocate the ''simple step'' of raising the restriction on charter school enrollment to ease the burden of education costs on localities. You also claim that ''many charter schools do a superb job.'' Where is the evidence?</p>
+        <p>In most of Connecticut's charter schools, the percentage of students meeting targets on the Connecticut Mastery Test and Connecticut Academic Performance Test is below the state average -- sometimes well below. This evidence is consistent with the conclusions of studies conducted across this country -- that students in charter schools do no better than those in traditional public schools, on state tests and on the National Assessment of Educational Progress. The one, admittedly limited, study finding promise in Connecticut's charter schools attributes a large part of this success precisely to the state's strict limits on expansion that you decry.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Legislature: Learn to Say No'' (editorial, Dec. 31), you advocate the ''simple step'' of raising the restriction on charter school enrollment to ease the burden of education costs on localities. You also claim that ''many charter schools do a superb job.'' Where is the evidence?</p>
+        <p>In most of Connecticut's charter schools, the percentage of students meeting targets on the Connecticut Mastery Test and Connecticut Academic Performance Test is below the state average -- sometimes well below. This evidence is consistent with the conclusions of studies conducted across this country -- that students in charter schools do no better than those in traditional public schools, on state tests and on the National Assessment of Educational Progress. The one, admittedly limited, study finding promise in Connecticut's charter schools attributes a large part of this success precisely to the state's strict limits on expansion that you decry.</p>
+        <p>Where charter schools succeed in Connecticut, there is no evidence that ''educational innovation'' is at play, as you claim, rather than longer school hours, smaller schools and smaller class sizes than those in traditional public schools. These conditions have been long known to educators and parents to raise student achievement. They should be made available to all of our public school children, not just the select few who attend charter schools.</p>
+        <p>Wendy Lecker  Stamford</p>
+        <p>The writer is a consultant on public education finance.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

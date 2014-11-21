@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Around The Clock, Beethoven Stretched</title>
+    <meta content="24stre" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/24/arts/music/24stre.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821057"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Norway</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Norway</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <location class="online_producer">Norway</location>
+        <person class="online_producer">Beethoven, Ludwig van</person>
+        <person class="online_producer">Inge, Leif</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E2DE163FF937A15752C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Around The Clock, Beethoven Stretched</hl1>
+        <hl2 class="online_headline">Around the Clock, Beethoven Magnified</hl2>
+      </hedline>
+      <byline class="print_byline">By DANIEL J. WAKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Never has listening to the Ninth Symphony of Beethoven required so much attention.</p>
+        <p>Leif Inge, a Norwegian who calls himself an ''idea-based artist,'' has digitally elongated the work to last 24 hours. One hour of his recording equals about three minutes of an actual performance. Because the pitches and timbres of the instruments do not change, the effect is unsettling: something sounds familiar here, but what?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Never has listening to Beethoven’s Ninth Symphony required so much attention: Leif Inge, a Norwegian who calls himself an “idea-based artist,” has digitally elongated the work to last 24 hours.</p>
+      </block>
+      <block class="full_text">
+        <p>Never has listening to the Ninth Symphony of Beethoven required so much attention.</p>
+        <p>Leif Inge, a Norwegian who calls himself an ''idea-based artist,'' has digitally elongated the work to last 24 hours. One hour of his recording equals about three minutes of an actual performance. Because the pitches and timbres of the instruments do not change, the effect is unsettling: something sounds familiar here, but what?</p>
+        <p>Notes do not sound as if they were being played. They seem to agglomerate. A flicked 32ndnote becomes a major harmonic addition. A small crescendo becomes a nerveshattering mountain climb. Sometimes it is beautiful, sometimes ugly.</p>
+        <p>''Yes, it is contemplative, but it is also demanding,'' Mr. Inge said in a telephone interview from Oslo. ''It demands your time, it demands your space, it demands your attention.''</p>
+        <p>His work, is called ''9 Beet Stretch,'' and will be played through a sound system starting at 5 p.m. today at the Issue Project Room, a performance space in Carroll Gardens, Brooklyn.</p>
+        <p>Since its creation in 2002, the work has had a dozen performances, and a dozen or so people have sat through the entire piece, Mr. Inge said. He has no objections to listeners dropping in. Bringing people together is a goal.</p>
+        <p>The actual performance he used was by the Nicolaus Esterhazy Sinfonia, conducted by Bela Drahos, on the Naxos label. Mr. Inge said that several other major record companies had turned up their noses at the idea when he sought permission to use their versions.</p>
+        <p>Playing with time in music is a venerable tradition. Morton Feldman composed a six-hour string quartet, and John Cage's organ work ''As Slow as Possible'' is being interpreted right now in a German church. That performance is scheduled to end in 2639.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="11corrections-8" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818083"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Stone, Robert</person>
+        <object.title class="indexing_service">Prime Green (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E2D81230F932A25752C0A9619C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 5 article about Robert Stone, who has new memoir Prime Green, misstated information about Andy Warhol; map accompanying article was incorrectly labeled</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article in Weekend on Friday about a walk in the East Village with Robert Stone, who has a new memoir about the 1960s, ''Prime Green,'' misstated the history of Andy Warhol's connection with the Polski Dom, or Polish Home, on St. Marks Place. The nightclub Warhol opened there, in 1966, was called Dom, not the Electric Circus. (The Electric Circus, not run by Warhol, opened at the site in 1967.)</p>
+        <p>A map with the article omitted identification of one street and misidentified two others. The unidentified street north of St. Marks Place is East Ninth Street; the two streets north of that are East 10th and East 11th -- not East Ninth and East 10th.</p>
+        <p>The map also included an imprecise translation of the German name Deutsche-Amerikanische Schützen Gesellschaft, engraved on the building at 12 St. Marks Place, built in 1885. The ''German-American Shooting Club'' is a more precise translation and description of the organization's function in the community than ''German-American Shooting School.''</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article in Weekend on Friday about a walk in the East Village with Robert Stone, who has a new memoir about the 1960s, ''Prime Green,'' misstated the history of Andy Warhol's connection with the Polski Dom, or Polish Home, on St. Marks Place. The nightclub Warhol opened there, in 1966, was called Dom, not the Electric Circus. (The Electric Circus, not run by Warhol, opened at the site in 1967.)</p>
+        <p>A map with the article omitted identification of one street and misidentified two others. The unidentified street north of St. Marks Place is East Ninth Street; the two streets north of that are East 10th and East 11th -- not East Ninth and East 10th.</p>
+        <p>The map also included an imprecise translation of the German name Deutsche-Amerikanische Schützen Gesellschaft, engraved on the building at 12 St. Marks Place, built in 1885. The ''German-American Shooting Club'' is a more precise translation and description of the organization's function in the community than ''German-American Shooting School.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

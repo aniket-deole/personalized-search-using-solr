@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Somber Farewell To Gerald Ford</title>
+    <meta content="l03ford" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816106"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Affirmative Action</classifier>
+        <person class="indexing_service">Zelinski, Tom</person>
+        <person class="indexing_service">Swaim, Diane K</person>
+        <person class="indexing_service">Mcginnis, John O</person>
+        <person class="indexing_service">Toobin, Jeffrey</person>
+        <person class="indexing_service">Ford, Gerald Rudolph Jr (1913-2006)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Affirmative Action</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE0DC1730F930A35752C0A9619C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Somber Farewell To Gerald Ford</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on Jan 2 article and December 30, 2006, Jeffrey Toobin Op-Ed article about former Pres Gerald Ford; Tom Zelinski says Americans would do well to embrace qualities that have been attributed to Ford; Diane K Swaim describes invoking Pres Ford's words in civics classes she teaches; Prof John O McGinnis says Ford represented opinion of country's elites on issue of affirmative action</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''At Funeral, a Gathering to Echo Reunions Past'' (news article, Jan. 2):</p>
+        <p>During these days when we are remembering former President Gerald R. Ford, we hear constantly about his character, his Midwestern common-sense values. We hear that he was his own person and didn't need ''handlers'' to tell him how to behave.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''At Funeral, a Gathering to Echo Reunions Past'' (news article, Jan. 2):</p>
+        <p>During these days when we are remembering former President Gerald R. Ford, we hear constantly about his character, his Midwestern common-sense values. We hear that he was his own person and didn't need ''handlers'' to tell him how to behave.</p>
+        <p>We hear about his humility and his lack of need for ''celebrity.'' We hear about how he simply tried to do what he thought was right for himself, for his family, for his country.</p>
+        <p>If these are values that we admire and praise at the time of a man's death, perhaps we can all take a lesson in how to live.</p>
+        <p>(Rev.) Tom Zelinski  Marathon, Wis., Jan. 2, 2007</p>
+        <p>To the Editor:</p>
+        <p>The many printed and broadcast homages to former President Gerald R. Ford have almost all recalled his words ending the Watergate crisis, ''Our long national nightmare is over.''</p>
+        <p>But I have always found his next sentence to be far more important and memorable: ''Our Constitution works.''</p>
+        <p>That is the lesson I teach the students in my civics classes. That is the lesson we should all remember.</p>
+        <p>Diane K. Swaim  Belford, N.J., Jan. 1, 2007</p>
+        <p>To the Editor:</p>
+        <p>Jeffrey Toobin (''Gerald Ford's Affirmative Action,'' Op-Ed, Dec. 30) argues that in supporting affirmative action at the University of Michigan, former President Gerald R. Ford remained ''in the center of the country'' while the Republican Party, in its opposition, has drifted to the right.</p>
+        <p>But racial preferences have been rejected by a substantial margin in every state in which they have appeared on the ballot, most recently in Michigan itself. On this issue, Gerald Ford represented the opinion of the country's elites, not its median voter.</p>
+        <p>John O. McGinnis  Chicago, Dec. 30, 2006</p>
+        <p>The writer is a professor of constitutional law at Northwestern University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

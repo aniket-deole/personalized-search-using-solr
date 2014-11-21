@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Pop Charts: Photo Finish</title>
+    <meta content="25arts-2" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821358"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <org class="indexing_service">Billboard (Magazine)</org>
+        <person class="indexing_service">Sisario, Ben</person>
+        <person class="indexing_service">Daughtry, Chris</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EFD9163FF936A15752C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Pop Charts: Photo Finish</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Sisario, Ben</byline>
+      <abstract>
+        <p>New album by Chris Daughtry is No 1 on Billboard charts (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the closest race for No. 1 since the company SoundScan began tracking music sales 16 years ago, the ''American Idol'' alumnus Chris Daughtry's debut album edged out the ''Dreamgirls'' soundtrack by about 130 copies, Billboard reported. But in the third straight week of dismal CD sales, nobody was a big winner. Mr. Daughtry's album, ''Daughtry'' (RCA), which has been bubbling through the Top 10 since it was released in November, reached the top of the chart with about 65,000 sales, followed closely by ''Dreamgirls'' (Sony). Another soundtrack, to the Disney Channel movie ''Jump In!'' (Disney), is at No. 3 with 57,000. After an appearance on ''The Oprah Winfrey Show'' last week, the British soul singer Corinne Bailey Rae jumped 28 spots to No. 4, with sales of 55,000 copies of her self-titled album on Capitol.</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>In the closest race for No. 1 since the company SoundScan began tracking music sales 16 years ago, the ''American Idol'' alumnus Chris Daughtry's debut album edged out the ''Dreamgirls'' soundtrack by about 130 copies, Billboard reported. But in the third straight week of dismal CD sales, nobody was a big winner. Mr. Daughtry's album, ''Daughtry'' (RCA), which has been bubbling through the Top 10 since it was released in November, reached the top of the chart with about 65,000 sales, followed closely by ''Dreamgirls'' (Sony). Another soundtrack, to the Disney Channel movie ''Jump In!'' (Disney), is at No. 3 with 57,000. After an appearance on ''The Oprah Winfrey Show'' last week, the British soul singer Corinne Bailey Rae jumped 28 spots to No. 4, with sales of 55,000 copies of her self-titled album on Capitol.</p>
+        <p>BEN SISARIO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

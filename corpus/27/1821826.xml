@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="27corrections-4" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821826"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chinese-Americans</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Nonprofit Organizations</classifier>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <org class="indexing_service">Ong Family Foundation</org>
+        <person class="indexing_service">Louis, Nelson</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nonprofit Organizations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organizations, Societies and Clubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E2D8173FF934A15752C0A9619C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Jan 20 article about class divide in philanthropy among Chinese-Americans misstated given name of executive director of Ong Family Foundation; he is Nelson Louis</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article last Saturday about complaints by some nonprofit groups of a class divide in philanthropy among Chinese-Americans misstated the given name of the executive director of the Ong Family Foundation, which makes annual grants to such groups, including the Chinese-American Planning Council, a social service agency. The executive director is Nelson Louis, not Norman. The article also misstated the association that Mr. Louis and Danny Ong Yee, the foundation's founding trustee, once had with the council. They are former staff members; they did not attend the council's child-care programs as children.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article last Saturday about complaints by some nonprofit groups of a class divide in philanthropy among Chinese-Americans misstated the given name of the executive director of the Ong Family Foundation, which makes annual grants to such groups, including the Chinese-American Planning Council, a social service agency. The executive director is Nelson Louis, not Norman. The article also misstated the association that Mr. Louis and Danny Ong Yee, the foundation's founding trustee, once had with the council. They are former staff members; they did not attend the council's child-care programs as children.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Texas Tech Knocks Off Kansas</title>
+    <meta content="21highlite" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820521"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COLLEGE HIGHLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E3DF1F30F932A15752C0A9619C8B63" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Texas Tech Knocks Off Kansas</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Darryl Dora scored 19 points and the Red Raiders gave the No. 5 Jayhawks their first conference loss, 69-64. The home victory was Texas Tech's second in three seasons over a Kansas team ranked in the top 10.</p>
+        <p>No. 3 U.C.L.A. held off No. 11 Arizona.</p>
+        <p>No. 1 Gators and No. 2 Badgers won.</p>
+        <p>Connecticut lost for the fifth time in seven games, falling to visiting Indiana.</p>
+        <p>COVERAGE, PAGE 5</p>
+      </block>
+      <block class="full_text">
+        <p>Darryl Dora scored 19 points and the Red Raiders gave the No. 5 Jayhawks their first conference loss, 69-64. The home victory was Texas Tech's second in three seasons over a Kansas team ranked in the top 10.</p>
+        <p>No. 3 U.C.L.A. held off No. 11 Arizona.</p>
+        <p>No. 1 Gators and No. 2 Badgers won.</p>
+        <p>Connecticut lost for the fifth time in seven games, falling to visiting Indiana.</p>
+        <p>COVERAGE, PAGE 5</p>
+        <p>COLLEGE HIGHLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

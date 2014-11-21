@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The World Has Nearly Ended, But Movies Manage to Survive</title>
+    <meta content="10worl" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/movies/10worl.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817768"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Grant, Calum</person>
+        <person class="indexing_service">Litle, Joshua Atesh</person>
+        <person class="indexing_service">Routhier, Mark</person>
+        <person class="indexing_service">Driver, David</person>
+        <object.title class="indexing_service">Ever Since the World Ended (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <object.title class="online_producer">Ever Since the World Ended (Movie)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E3DF1230F933A25752C0A9619C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The World Has Nearly Ended, But Movies Manage to Survive</hl1>
+        <hl2 class="online_headline">The World Has Nearly Ended, but Movies Manage to Survive</hl2>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews faux documentary film Ever Since the World Ended, directed by Calum Grant and Joshua Atesh Litle; Mark Routhier and David Driver star; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A faux documentary with a twist, ''Ever Since the World Ended'' unfolds in and around an eerily depopulated San Francisco 10 years after a mysterious plague has decimated humanity. But instead of making a movie about the aftermath of a disaster, the filmmakers, Calum Grant and Joshua Atesh Litle, have tried something a little more clever and a lot cheaper: to envision what the first movie made after that disaster might look like.</p>
+        <p>The result is a rudimentary yet fascinating record of remembrance and reconstruction, accessed through survivor interviews and carefully chosen landscapes. Effects are all the more special for being minimal: a decaying Golden Gate bridge, a decomposing ship listing in the harbor.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“Ever Since the World Ended” is a faux documentary with a twist, a rudimentary yet fascinating record of remembrance and reconstruction.</p>
+      </block>
+      <block class="full_text">
+        <p>A faux documentary with a twist, ''Ever Since the World Ended'' unfolds in and around an eerily depopulated San Francisco 10 years after a mysterious plague has decimated humanity. But instead of making a movie about the aftermath of a disaster, the filmmakers, Calum Grant and Joshua Atesh Litle, have tried something a little more clever and a lot cheaper: to envision what the first movie made after that disaster might look like.</p>
+        <p>The result is a rudimentary yet fascinating record of remembrance and reconstruction, accessed through survivor interviews and carefully chosen landscapes. Effects are all the more special for being minimal: a decaying Golden Gate bridge, a decomposing ship listing in the harbor.</p>
+        <p>The mood is gently melancholic, spiced with unexpected humor -- like the self-described ''last North American Indian'' who resents being everyone's spiritual backbone -- and the free-floating tension of a world without laws. At a cozy commune, bees are raised and children receive piano lessons while the adults wonder whether to kill a violent man recently returned to the city. The remnants of civilization are being preserved, albeit with a certain moral primitivism.</p>
+        <p>Thought-provoking rather than deeply philosophical, ''Ever Since the World Ended'' features many engaging performances and several outstanding ones, including Mark Routhier as a damaged former emergency worker and David Driver as a self-justifying scavenger.</p>
+        <p>What remains in the mind, however, is the film's atmospheric blend of hope and trepidation: the challenge and terror of a world with too much space and too few boundaries.</p>
+        <p>Ever Since the World Ended  Opens today in Manhattan.</p>
+        <p>Produced and directed by Calum Grant and Joshua Atesh Litle; written by Mr. Grant; director of photography, Mr. Litle; edited by David Driver and Mr. Litle; released by Cyan Pictures. At the Two Boots Pioneer Theater, 155 East Third Street, at Avenue A, East Village. Running time: 78 minutes. This film is not rated.</p>
+        <p>WITH: James Curry (James), Linda Noveroske (Linda), Brad Olsen (Santosh) and Ronald Chase (Teacher).</p>
+        <p>FILM REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

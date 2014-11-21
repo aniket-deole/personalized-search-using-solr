@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Phone as Projector</title>
+    <meta content="11show-3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818093"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS: REPORTERS' NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Electronics Show</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Laser (Light Amplification by Stimulated Emission of Radiation)</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <location class="indexing_service">Las Vegas (Nev)</location>
+        <person class="indexing_service">Marriott, Michel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Nevada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada/Las Vegas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Laser (Light Amplification by Stimulated Emission of Radiation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0D81230F932A25752C0A9619C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Phone as Projector</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHEL MARRIOTT</byline>
+      <byline class="normalized_byline">Marriott, Michel</byline>
+      <dateline>LAS VEGAS</dateline>
+      <abstract>
+        <p>Michel Marriott Reporters' Notebook column on Consumer Electronics Show in Las Vegas; Microvision president and chief executive Alexander Tokman demonstrates new chip-size color laser projection displays that can be embedded in mobile phones and other mobile devices so they can project big images on flat surfaces; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At the trade show that introduced the VCR and DVD, the perennial question on the show floor always seems to be, ''What's next?''</p>
+        <p>Alexander Tokman, president and chief executive of Microvision, a light-scanning technology company based in Redmond, Wash., thinks he may have the answer: a projector that turns cellphone video into a big picture.</p>
+      </block>
+      <block class="full_text">
+        <p>At the trade show that introduced the VCR and DVD, the perennial question on the show floor always seems to be, ''What's next?''</p>
+        <p>Alexander Tokman, president and chief executive of Microvision, a light-scanning technology company based in Redmond, Wash., thinks he may have the answer: a projector that turns cellphone video into a big picture.</p>
+        <p>Mr. Tokman said his new chip-size color laser projection displays are intended to be embedded in mobile devices so they can project images on flat surfaces. A demonstration showed a prototype in a mock cellphone beaming clear video images on a screen about the size of a standard laptop computer's.</p>
+        <p>Microvision executives said the projector, which does not use a lens, projects images by scanning them top to bottom and back and forth faster than the eye can detect. It is also capable of ''infinite focus,'' meaning the images stay in focus at any distance, even on curved and uneven surfaces. This, Mr. Tokman said, also helps the projector to display large images without their becoming pixilated.</p>
+        <p>He said the projector ''can eliminate the bottleneck'' that limits the appeal of games and video content that is increasingly migrating to cellphones and other mobile devices.</p>
+        <p>The company plans to release the technology first as a stand-alone accessory for mobile devices later this year, said Matt Nichols, a company spokesman.</p>
+        <p>By 2008, he said, Microvision hopes to see the projectors embedded in leading cellphones.</p>
+        <p>One thing not on display was any estimate of what consumers might expect to pay.</p>
+        <p>MICHEL MARRIOTT</p>
+        <p>CIRCUITS: REPORTERS' NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Worker Killed In Fall</title>
+    <meta content="31mbrfs-5" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822865"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Building (Construction)</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Falls</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Elevators and Escalators</classifier>
+        <classifier class="indexing_service" type="descriptor">Day Laborers</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Nesher Construction</org>
+        <person class="indexing_service">Baker, Al</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Construction and Maintenance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elevators and Escalators</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EEDE153FF932A05752C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Worker Killed In Fall</hl1>
+      </hedline>
+      <byline class="print_byline">By AL BAKER; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Baker, Al</byline>
+      <abstract>
+        <p>Day-laborer on construction site in Brooklyn falls four-stories down elevator shaft to his death; contractor Nesher Construction says barricade was set up around elevator, but city stops work after finding no guard rails in place (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A day laborer doing tile work at a Brooklyn construction site died yesterday after he lost his bearings and fell four stories through an open elevator shaft, officials said. The man, whose identity was not immediately known, was pronounced dead at Woodhull Medical and Mental Health Center at 11:18 a.m., an hour after the accident, the police said. The federal Occupational Safety and Health Administration and the city's Buildings Department are investigating. A Buildings Department spokeswoman, Kate Lindquist, said that a stop work order was issued because no guardrails were in place, as required, around elevator openings. A superintendent at Nesher Construction, the general contractor, said that the victim worked for a subcontractor and that protective plywood had been in place over ''all the elevator openings'' at the start of work.</p>
+        <p>AL BAKER</p>
+      </block>
+      <block class="full_text">
+        <p>A day laborer doing tile work at a Brooklyn construction site died yesterday after he lost his bearings and fell four stories through an open elevator shaft, officials said. The man, whose identity was not immediately known, was pronounced dead at Woodhull Medical and Mental Health Center at 11:18 a.m., an hour after the accident, the police said. The federal Occupational Safety and Health Administration and the city's Buildings Department are investigating. A Buildings Department spokeswoman, Kate Lindquist, said that a stop work order was issued because no guardrails were in place, as required, around elevator openings. A superintendent at Nesher Construction, the general contractor, said that the victim worked for a subcontractor and that protective plywood had been in place over ''all the elevator openings'' at the start of work.</p>
+        <p>AL BAKER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

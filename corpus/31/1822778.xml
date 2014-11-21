@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yahoo Planning to Add 100 Web Sites for Entertainment</title>
+    <meta content="31yahoo" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/31/technology/31yahoo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822778"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Yahoo Inc</org>
+        <person class="indexing_service">Helft, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Yahoo Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E6DF153FF932A05752C0A9619C8B63" item-length="489" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yahoo Planning to Add 100 Web Sites for Entertainment</hl1>
+        <hl2 class="online_headline">Yahoo Planning to Add 100 Web Sites for Entertainment</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <dateline>SUNNYVALE, Calif., Jan. 30</dateline>
+      <abstract>
+        <p>Yahoo plans to build 100 individual entertainment Web sites to pull together content from its vast online properties (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yahoo said Tuesday that it planned to build individual Web sites around 100 entertainment ''brands'' this year that would pull together content from Yahoo's sprawling array of online properties.</p>
+        <p>The effort, called Brand Universe, is intended to create online destinations that will draw large audiences around individual movies, television shows, bands, celebrities, games and other types of entertainment.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The company’s effort is intended to create online destinations for individual movies, television shows, bands, celebrities, games and other types of entertainment.</p>
+      </block>
+      <block class="full_text">
+        <p>Yahoo said Tuesday that it planned to build individual Web sites around 100 entertainment ''brands'' this year that would pull together content from Yahoo's sprawling array of online properties.</p>
+        <p>The effort, called Brand Universe, is intended to create online destinations that will draw large audiences around individual movies, television shows, bands, celebrities, games and other types of entertainment.</p>
+        <p>Vince Broady, head of games, entertainment and youth at Yahoo, said the company had a wealth of entertainment content, but finding the material about a specific attraction was not always intuitive.</p>
+        <p>''We don't connect the dots for our users around those brands,'' Mr. Broady said. ''Brand Universe is designed to fix that problem. What we are really trying to do is create environments where fans of brands can hang out when they are online.''</p>
+        <p>The sites would also create windows where visitors could find out more about specific attractions and perhaps become fans, Mr. Broady said.</p>
+        <p>Yahoo has already built a Brand Universe site around the Nintendo Wii, and on Tuesday it announced six more, which will be centered on Harry Potter; the video games Halo and the Sims; the television shows ''The Office'' and ''Lost''; and Transformers, the toy line, television show, comic books and coming movie.</p>
+        <p>Other topics will be announced in the next few weeks, and all 100 sites will be introduced this year, Mr. Broady said.</p>
+        <p>The Wii site, which is at wii.yahoo.com, includes a buyer's guide, video, content from message boards and Yahoo Answers, photos from Yahoo's Flickr site and links to other Wii Web sites from the bookmarks service Del.icio.us.</p>
+        <p>Like much of Yahoo, the Brand Universe sites will be supported by advertising, and Yahoo said it would discuss various ways to share revenue with the brand owners.</p>
+        <p>Mr. Broady acknowledged that there could be tensions with some content owners who were trying to create online destinations of their own. The company said it did not plan to ask permission from the owners before creating the sites, but would not proceed if the owners objected.</p>
+        <p>But Mr. Broady said he expected that most would jump at the opportunity to have their online and offline activities promoted to Yahoo's large Internet audience.</p>
+        <p>''Among all the entertainment categories, hopefully, we have found 100 willing partners, but if not, we'll move on to other brands,'' he said.</p>
+        <p>Mr. Broady said Yahoo would be able to track the appeal of individual brands across the Yahoo network and share that information with their owners.</p>
+        <p>The Brand Universe announcement was part of a briefing Yahoo executives gave to reporters on the company's media group, based in Santa Monica, Calif., which has been criticized for lack of clear focus. Lloyd Braun, the former ABC executive who ran the media group, left in December during a companywide revamping.</p>
+        <p>Company executives said traffic was up strongly across a broad range of Yahoo media properties, including news, videos, music, movies and games.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

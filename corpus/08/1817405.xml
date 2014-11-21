@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>American Bureaucracy</title>
+    <meta content="l08security" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817405"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Citizenship</classifier>
+        <classifier class="indexing_service" type="descriptor">Disability Insurance</classifier>
+        <person class="indexing_service">Glickman, Leonard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Citizenship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0DB1530F93BA35752C0A9619C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>American Bureaucracy</hl1>
+      </hedline>
+      <abstract>
+        <p>Leonard Glickman letter calls for Congress to restore disability benefits to refugees who do not become citizens within seven years (Jan 1 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Department of Household Security'' (editorial, Jan. 1):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Department of Household Security'' (editorial, Jan. 1):</p>
+        <p>As a former official with the United States Department of Health and Human Services Office of Refugee Resettlement, I agree that Congress must restore disability benefits to refugees who do not become citizens within seven years.</p>
+        <p>Your editorial blames citizenship backlogs for the problem, but that is just a symptom of a larger problem that should have never existed to begin with. There was no reason for the welfare reform legislation of 1996 to add this cutoff except to find money to pay for other provisions.</p>
+        <p>The United States does not admit refugees nor does it grant asylum status to people based on their résumés. These are humanitarian gestures regardless of one's ability to work (although we do expect able-bodied persons to become self-sufficient).</p>
+        <p>Forcing someone as vulnerable as a refugee to become a citizen to maintain disability benefits was bad policy when it was enacted, and it remains a stain on this country's humanitarian record.</p>
+        <p>Leonard Glickman  Middletown, N.J., Jan. 1, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grimacing and Barely Bearing It</title>
+    <meta content="11calif" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/11/us/11calif.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818018"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">California</location>
+        <person class="indexing_service">Steinhauer, Jennifer</person>
+        <person class="indexing_service">Schwarzenegger, Arnold (Gov)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">California</location>
+        <person class="online_producer">Schwarzenegger, Arnold</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E3DA1230F932A25752C0A9619C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grimacing and Barely Bearing It</hl1>
+        <hl2 class="online_headline">Grimacing and Barely Bearing It</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER STEINHAUER</byline>
+      <byline class="normalized_byline">Steinhauer, Jennifer</byline>
+      <dateline>SACRAMENTO, Jan. 10</dateline>
+      <abstract>
+        <p>Gov Arnold Schwarzenegger rolls out annual budget to state house press corps; hobbles to his presentation on crutches after breaking leg skiing; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Arnold Schwarzenegger said Wednesday that he was in pain. A lot of pain.</p>
+        <p>And, he conceded, he has passed on his woes to his wife, Maria Shriver.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gov. Arnold Schwarzenegger, who rolled out his annual budget, has hobbled on crutches after breaking his right leg while skiing.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Arnold Schwarzenegger said Wednesday that he was in pain. A lot of pain.</p>
+        <p>And, he conceded, he has passed on his woes to his wife, Maria Shriver.</p>
+        <p>The governor, who rolled out his annual budget to the state house press corps here, broke his right leg skiing just before Christmas. He has hobbled on crutches, meandering rather than his more accustomed strutting, through the daily business of government.</p>
+        <p>''I don't think I can remember having this much pain,'' Mr. Schwarzenegger said at a budget presentation that in contrast to his physical condition seemed strong.</p>
+        <p>Mr. Schwarzenegger, a Republican, said that California, which has experienced treacherous budget shortfalls in recent years, faced a gross operating deficit of $1.8 billion this year, but that prepaying state debt and some complex fiscal maneuvers would allow it to enjoy a modest surplus in the next fiscal year.</p>
+        <p>''You heard me right,'' he said, panting slightly after making his way to the lectern in the auditorium of the building housing the office of the secretary of state. The governor has proposed cuts for agencies and restructuring the welfare-to-work system, to save more than an estimated $300 million.</p>
+        <p>Mr. Schwarzenegger conceded that he chafed at his hampered mobility. He chose to present his health care address, the centerpiece of his second-term agenda, by satellite from Los Angeles on Monday rather than before a live audience here.</p>
+        <p>''There is nothing I hate more than having an obstacle,'' he said.</p>
+        <p>His injury occurred at ''a very slow speed,'' Mr. Schwarzenegger said, meaning that his ski did not pop off. As a result, the break occurred where the femur meets the hip, which he said was an artificial one.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Speak a Book</title>
+    <meta content="Powers2.t" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/books/review/Powers2.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816846"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ESSAY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Voice Recognition and Synthesis</classifier>
+        <person class="indexing_service">Power, Richard</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sound</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Powers, Richard</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3DC1F31F934A35752C0A9619C8B63" item-length="1279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Speak a Book</hl1>
+        <hl2 class="online_headline">How to Speak a Book</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD POWERS</byline>
+      <byline class="normalized_byline">Powers, Richard; Power, Richard</byline>
+      <abstract>
+        <p>*Richard Powers essay on his conversion from writing on computer or by hand to writing using voice recognition software; notes that many great writers have written by dictation; asserts that when writing through speech, he is closer to hearing what his characters sound like and thus closer to recording story that is formed in his head; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Except for brief moments of duress, I haven't touched a keyboard for years.No fingers were tortured in producing these words -- or the last half a million words of my published fiction. By rough count, I've sent 10,000 e-mail messages without typing. My primary digital prosthetic doesn't even have keys.</p>
+        <p>I write these words from bed, under the covers with my knees up, my head propped and my three-pound tablet PC -- just a shade heavier than a hardcover -- resting in my lap, almost forgettable. I speak untethered, without a headset, into the slate's microphone array. The words appear as fast as I can speak, or they wait out my long pauses. I touch them up with a stylus, scribbling or re-speaking as needed. Whole phrases die and revive, as quickly as I could have hit the backspace. I hear every sentence as it's made, testing what it will sound like, inside the mind's ear.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The speech-recognition software the author uses to write is remarkably precise, far more accurate than most typists.</p>
+      </block>
+      <block class="full_text">
+        <p>Except for brief moments of duress, I haven't touched a keyboard for years.No fingers were tortured in producing these words -- or the last half a million words of my published fiction. By rough count, I've sent 10,000 e-mail messages without typing. My primary digital prosthetic doesn't even have keys.</p>
+        <p>I write these words from bed, under the covers with my knees up, my head propped and my three-pound tablet PC -- just a shade heavier than a hardcover -- resting in my lap, almost forgettable. I speak untethered, without a headset, into the slate's microphone array. The words appear as fast as I can speak, or they wait out my long pauses. I touch them up with a stylus, scribbling or re-speaking as needed. Whole phrases die and revive, as quickly as I could have hit the backspace. I hear every sentence as it's made, testing what it will sound like, inside the mind's ear.</p>
+        <p>Like all good Jetson futures, speech recognition is really a memory. Speak the thing into being: as dreams go, that's as old as they get. Once, all stories existed only in speech, and no technology caused more upheaval than the written word. In the ''Phaedrus,'' Socrates -- who talked a whole lot but never, apparently, wrote a word -- uncorks at length about how writing damages memory, obscures authority and even alters meaning. But we have his warning only through Plato's suspect transcript.</p>
+        <p>For most of history, most reading was done out loud. Augustine remarks with surprise that Bishop Ambrose could read without moving his tongue. Our passage into silent text came late and slow, and poets have resisted it all the way. From Homer to hip-hop, the hum is what counts. Blind Milton chanted ''Paradise Lost'' to his daughters. Of his 159-line ''Tintern Abbey,'' Wordsworth said, ''I began it upon leaving Tintern ... and concluded ... after a ramble of four or five days. ... Not a line of it was altered, and not any part of it written down till I reached Bristol.'' Wallace Stevens used to compose while walking to work, then dictate the results to his secretary, before proceeding to his official correspondence as vice president of the Hartford insurance company. (I've tried dictating to my tablet while rambling; traffic and birdsong make it babble.)</p>
+        <p>Even novelists, working in a form so very written, have needed to write by voice. Stendhal dictated ''The Charterhouse of Parma'' in seven weeks. An impoverished Dostoyevsky had just six weeks to deliver the manuscript of ''The Gambler'' or face complete ruin. He hired a stenographer, knocked the book out in four weeks, then married the girl.</p>
+        <p>Not that efficiency has always been dictation's prime selling point: in dictating his own last few baggy monsters, Henry James perfected such fluid elocution that, according to Edith Wharton, he couldn't even ask directions without releasing a torrent of ''explanatory ramifications.'' James grew so accustomed to his sonatas for voice and typist that the sound of his secretary's Oliver, when the workhorse Remington was in the shop, threw him off his speaking rhythm.</p>
+        <p>Dickens reportedly acted out his characters while looking in a mirror. In the final hours of his life, Proust re-dictated the death of Bergotte, supposedly claiming that he now knew what he was talking about. Once, while dictating ''Finnegans Wake'' to Beckett, Joyce is said to have answered a knock on the door; Beckett dutifully jotted down his ''Come in.'' Surprised by the transcript, a delighted Joyce let it ride.</p>
+        <p>The all-time champion of Xtreme Dictation, though, must be Thomas Aquinas. Witnesses report how he could relay four different topics to four secretaries at once, and even (Maritain writes) ''lay down to rest in the midst of the dictation to continue to dictate while sleeping.'' That's what I really want from my tablet; I trust that technicians are working on the problem.</p>
+        <p>Why all this need for speech? Long after we've fully retooled for printed silence, we still feel residual meaning in the wake of how things sound. Speech and writing share some major neural circuitry, much of it auditory. All readers, even the fast ones, subvocalize. That's why so many writers -- like Flaubert, shouting his sentences in his gueuloir -- test the rightness of their words out loud.</p>
+        <p>What could be less conducive to thought's cadences than stopping every time your short-term memory fills to pass those large-scale musical phrases through your fingers, one tedious letter at a time? You'd be hard-pressed to invent a greater barrier to cognitive flow. The 130-year-old qwerty keyboard may even have been designed to slow fingers and prevent key jamming. We compose on keys the way dogs walk on two legs. However good we get, the act will always be a little freakish.</p>
+        <p>The faster I speak, the better my tablet PC transcribes. It won't choke, even at bursts over 200 w.p.m. The real hitch remains accuracy. When in the groove, my speech software is remarkably precise, far more accurate than most typists. But no machine makes phonetic distinctions as fine as humans do, and my software's recognition engine doesn't model meaning. So where my fingers might stop at changing ''sign'' to ''sing,'' my tablet can turn my words hallucinatory without limit.</p>
+        <p>This machine is a master of speakos and mondegreens. Just as we might hear the Beatles sing how ''the girl with colitis goes by'' or the Psalms avow that ''Shirley, good Mrs. Murphy, shall follow me all the days of my life,'' my tablet has changed ''book tour'' to ''back to work'' and ''I truly couldn't see'' to ''a cruelly good emcee.'' Legend claims that the astoundingly prolific William Vollmann once tried speech recognition software while suffering from repetitive stress injury. He sat down to write his folks. ''Dear Mom and Dad'' came out as the much more Vollmannesque ''The man is dead.''</p>
+        <p>A greater barrier to computer dictation is the huge cognitive readjustment involved, especially after decades of straitjacketing keyboards. I needed weeks to get over the oddness of auditioning myself in an empty room, to trust to the flow of speech, to learn to hear myself think all over again. So what do I get from the trade-off?</p>
+        <p>For one, I can write lying down. I can forget the machine is even there. I can live above the level of the phrase, thinking in full paragraphs and capturing the rhythmic arcs before they fade. I don't have to queue, stop, batch dispatch and queue up again. I spend less mental overhead on orthography and finger mechanics and more on hearing my characters speak themselves into existence. Mostly, I'm just a little closer to what my cadences might mean, when replayed in the subvocal voices of some other auditioner.</p>
+        <p>Writing is the act of accepting the huge shortfall between the story in the mind and what hits the page. ''From your lips to God's ears,'' goes the old Yiddish wish. The writer, by contrast, tries to read God's lips and pass along the words, via some crazed game of Telephone, to a further listener. And for that, no interface will ever be clean or invisible enough for us to get the passage right. As Bede says of Caedmon, scrambling to transcribe the angelic hymn dictated to him in a dream: ''This is the sense, but not the words themselves as he sang them in his sleep; for however well composed, verses cannot be translated out of one language into another without much loss of beauty and loftiness.''</p>
+        <p>Everything we write -- through any medium -- is lost in translation. But something new is always found again, in their eager years. In Derrida's fears. Make that: in the reader's ears.</p>
+        <p>ESSAY Richard Powers's novel ''The Echo Maker'' won the 2006 National Book Award.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Richard Powers's novel ''The Echo Maker'' won the 2006 National Book Award.</tagline>
+    </body.end>
+  </body>
+</nitf>

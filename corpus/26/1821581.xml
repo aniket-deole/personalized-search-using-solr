@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Midwest: Illinois: Bias Claimed In Contest</title>
+    <meta content="26brfs-2" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/us/26brfs-CAR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821581"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Immigrants</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Contests and Prizes</classifier>
+        <location class="indexing_service">Chicago (Ill)</location>
+        <person class="indexing_service">Sander, Libby</person>
+        <person class="indexing_service">Alvarez, Maribel Nava</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E2DD173FF935A15752C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Midwest: Illinois: Bias Claimed In Contest</hl1>
+        <hl2 class="online_headline">Illinois: Bias Claimed in Contest</hl2>
+      </hedline>
+      <byline class="print_byline">By LIBBY SANDER</byline>
+      <byline class="normalized_byline">Sander, Libby</byline>
+      <abstract>
+        <p>Maribel Nava Alvarez, woman who won car in contest in Chicago sponsored by Spanish-language radio station, is suing station and its parent company, saying they withheld car from her because she is illegal immigrant; station says they cannot give Alvarez car because they are unable to verify tax-reporting information required for award prizes valued at more than $500 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A woman who won a car in a contest sponsored by a Spanish-language radio station is suing the station and its parent company, saying they withheld the car from her because she is an illegal immigrant. The woman, Maribel Nava Alvarez, filed suit in late November in Chicago against the local station, WLEY 107.9 FM, and the Spanish Broadcasting System, said her lawyer, Robert M. Romero. The suit, only now being reported in English-language news media, alleges breach of contract because the station refused to give Ms. Alvarez the Corvette she won in a raffle at a fair on July 4, 2005, Mr. Romero said. In a statement, the station and its parent company said they could not give Ms. Alvarez the car because they were unable to verify the tax-reporting information required by the Internal Revenue Service in awarding prizes valued at more than $500.</p>
+        <p>LIBBY SANDER</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A woman who won a car in a contest sponsored by a Spanish-language radio station is suing the station and its parent company, saying they withheld the car from her because she is an illegal immigrant.</p>
+      </block>
+      <block class="full_text">
+        <p>A woman who won a car in a contest sponsored by a Spanish-language radio station is suing the station and its parent company, saying they withheld the car from her because she is an illegal immigrant. The woman, Maribel Nava Alvarez, filed suit in late November in Chicago against the local station, WLEY 107.9 FM, and the Spanish Broadcasting System, said her lawyer, Robert M. Romero. The suit, only now being reported in English-language news media, alleges breach of contract because the station refused to give Ms. Alvarez the Corvette she won in a raffle at a fair on July 4, 2005, Mr. Romero said. In a statement, the station and its parent company said they could not give Ms. Alvarez the car because they were unable to verify the tax-reporting information required by the Internal Revenue Service in awarding prizes valued at more than $500.</p>
+        <p>LIBBY SANDER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

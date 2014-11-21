@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ROBINS, JEROME H.</title>
+    <meta content="dn011307" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818375"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ROBINS, JEROME H.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE6D61E3AF930A25752C0A9619C8B63" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ROBINS, JEROME H.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROBINS--Jerome H., 82, on January 11th. Beloved and devoted husband of 59 years to Madeline (nee Gault) and loving father to Jeffrey Robins and Ilene Robins Wikler. Jerry is also survived by a son-in-law, Irwin Wikler, two granddaughters, Gail and Ellen Wikler, and a brother, Burton Robins, and his family. Jerry was a decorated World War II veteran who received a Bronze Star and Purple Heart for his bravery during the Battle of the Bulge. He was a loyal, long-time employee of CBS Sports and a devoted fan of the New York Giants and the New York Mets. We will miss his quick wit and sense of humor, his intelligence, honesty, loyalty and dependability. His goodness and devotion to his family, his career and his country are an inspiration to all who knew him. We love you, Jerry, and you will be in our hearts forever. You are a champ and you will never be replaced.</p>
+      </block>
+      <block class="full_text">
+        <p>ROBINS--Jerome H., 82, on January 11th. Beloved and devoted husband of 59 years to Madeline (nee Gault) and loving father to Jeffrey Robins and Ilene Robins Wikler. Jerry is also survived by a son-in-law, Irwin Wikler, two granddaughters, Gail and Ellen Wikler, and a brother, Burton Robins, and his family. Jerry was a decorated World War II veteran who received a Bronze Star and Purple Heart for his bravery during the Battle of the Bulge. He was a loyal, long-time employee of CBS Sports and a devoted fan of the New York Giants and the New York Mets. We will miss his quick wit and sense of humor, his intelligence, honesty, loyalty and dependability. His goodness and devotion to his family, his career and his country are an inspiration to all who knew him. We love you, Jerry, and you will be in our hearts forever. You are a champ and you will never be replaced.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

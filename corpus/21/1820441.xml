@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why Backdated Options Might Be Contagious</title>
+    <meta content="21stra" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/business/yourmoney/21stra.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820441"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STRATEGIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="indexing_service" type="descriptor">Boards of Directors</classifier>
+        <person class="indexing_service">Hulbert, Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Strategies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907EFDB1E30F932A15752C0A9619C8B63" item-length="707" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why Backdated Options Might Be Contagious</hl1>
+        <hl2 class="online_headline">Why Backdated Options Might Be Contagious</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK HULBERT</byline>
+      <byline class="normalized_byline">Hulbert, Mark</byline>
+      <abstract>
+        <p>Study shows that percentage of companies that may have engaged in practice of backdating stock option grants grew rapidly in late 1990's; points to interlocking boards of directors as most likely reason for increase; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DIRECTORS of corporations often form a tight-knit community, serving at more than one company and creating what are known as interlocking boards of directors. As a result of this chumminess, corporate practices that otherwise might remain confined to just a few companies can spread quickly.</p>
+        <p>That appears to have been the case with the backdating of stock options, according to a new statistical study of publicly traded American companies.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Directors of corporations often form a tight-knit community. As a result of this chumminess, corporate practices can spread quickly.</p>
+      </block>
+      <block class="full_text">
+        <p>DIRECTORS of corporations often form a tight-knit community, serving at more than one company and creating what are known as interlocking boards of directors. As a result of this chumminess, corporate practices that otherwise might remain confined to just a few companies can spread quickly.</p>
+        <p>That appears to have been the case with the backdating of stock options, according to a new statistical study of publicly traded American companies.</p>
+        <p>The study's authors are two finance professors, John M. Bizjak of Portland State University in Oregon and Michael L. Lemmon of the University of Utah, as well as one of Professor Lemmon's graduate students, Ryan J. Whitby. A version of the study, ''Option Backdating and Board Interlocks,'' is at papers.ssrn.com/sol3/papers.cfm?abstract-id=946787.</p>
+        <p>Options backdating, of course, involves retroactively granting options to executives and directors on dates when a company's stock price was lower. The practice has favorable monetary, accounting and tax consequences for the companies themselves, as well as for the recipients. It isn't necessarily illegal, but it must be disclosed under federal securities law. Federal prosecutors and the Securities and Exchange Commission are investigating numerous companies in connection with options backdating.</p>
+        <p>How did the practice become trendy in boardrooms across America? According to the study, a big part of the answer may be found in interlocking boards, which the researchers describe as the biggest conduit for transferring information about options backdating.</p>
+        <p>The study looked at publicly traded companies that granted options at any point from 1996 through 2002, and it particularly examined those that began to engage in options backdating during this time. The researchers found that the probability that a company would start the practice rose by a third to a half if one of its directors was also on the board of a company that was already backdating options. The range in these probabilities depended on various factors, including the number of directors who served on other companies' boards.</p>
+        <p>The researchers would not have been able to reach statistically meaningful results based only on the 120 or so companies that regulators have publicly identified as under investigation for possible options backdating. As a result, the sample was expanded to include other companies where the odds of having engaged in the practice were overwhelming, according to the researchers.</p>
+        <p>To identify these additional companies, they looked at the behavior of the companies' stocks in the days before and after the option grant dates. If the price of a company's stock fell substantially just before the grant date, then rose substantially immediately after, the researchers flagged the grant as suspicious. That's because the odds are extremely small, they say, that a company would randomly pick a date so conveniently sandwiched between a large price drop and a subsequent price hike. Even so, the researchers didn't assume that a company had engaged in backdating unless at least 20 percent of its option grants were suspicious.</p>
+        <p>In an interview, Professor Bizjak said that though this hurdle was quite high, surpassing it wasn't proof that a company backdated options. There is a small theoretical possibility, he said, that the company was just lucky in picking very favorable days for granting at least 20 percent of its options. But he and his fellow researchers are confident, he said, that the number of companies that backdated at least some options is close to the total reached in their study. He also noted that this number -- around 1,400, or 43 percent of the publicly traded companies that granted options from 1996 to 2002 -- was in line with estimates reached by other academic researchers.</p>
+        <p>IF these estimates are even modestly close to correct, there are hundreds of companies that engaged in options backdating but whose identities are not yet public. The study didn't identify any likely companies by name, but it showed investors how to do so themselves. Such insight could be valuable, because a company's stock typically drops when previously undisclosed backdating is belatedly made known.</p>
+        <p>Professor Bizjak advises investors to check whether the boards of any companies in their portfolios are heavily interlocked with those of companies where backdating is already public knowledge. There is a markedly increased chance that such companies have also engaged in the practice, making their stocks vulnerable.</p>
+        <p>STRATEGIES Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   PLANT, MORTON</title>
+    <meta content="dn011207" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818158"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">PLANT, MORTON</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E0D71E3AF931A25752C0A9619C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   PLANT, MORTON</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PLANT--Morton. The World ORT family offer their heartfelt condolences to Tamara Plant and family on the loss of Morton Plant. The legacy of his leadership of the United Jewish Communities will continue to benefit generations of Jews around the world. Sir Maurice Hatter, President Dr. Jean de Gunzburg, Deputy President Robert Singer, Director General of World ORT</p>
+      </block>
+      <block class="full_text">
+        <p>PLANT--Morton. The World ORT family offer their heartfelt condolences to Tamara Plant and family on the loss of Morton Plant. The legacy of his leadership of the United Jewish Communities will continue to benefit generations of Jews around the world. Sir Maurice Hatter, President Dr. Jean de Gunzburg, Deputy President Robert Singer, Director General of World ORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

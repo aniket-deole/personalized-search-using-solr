@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TODAY'S MATCHUPS</title>
+    <meta content="06nflmatch1" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816682"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <person class="indexing_service">Litsky, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E4D81430F935A35752C0A9619C8B63" item-length="555" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TODAY'S MATCHUPS</hl1>
+      </hedline>
+      <byline class="print_byline">By Frank Litsky</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+      <abstract>
+        <p>Day of NFL Matchups discussed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kansas City (9-7) at Indianapolis (12-4)  4:30 p.m., Channel 4  The Colts' offense revolves around quarterback Peyton Manning and receivers Marvin Harrison and Reggie Wayne, and the Chiefs often struggle to stop the pass. Advantage, Colts.</p>
+      </block>
+      <block class="full_text">
+        <p>Kansas City (9-7) at Indianapolis (12-4)  4:30 p.m., Channel 4  The Colts' offense revolves around quarterback Peyton Manning and receivers Marvin Harrison and Reggie Wayne, and the Chiefs often struggle to stop the pass. Advantage, Colts.</p>
+        <p>However, the Colts have allowed 173 yards rushing a game, the most in the league, and the Chiefs have a premier runner in Larry Johnson. He carried 416 times (an N.F.L. record) for 1,789 yards and seemed to thrive on heavy duty. Advantage, Chiefs.</p>
+        <p>Colts Coach Tony Dungy said he was not concerned with how his team closed the regular season, with losses in four of its final seven games.</p>
+        <p>''It's kind of like the Indy 500,'' he said. ''You get that starting position and then you run the race. Everyone remembers who won, not who got the pole.''</p>
+        <p>Reporter's pick: Colts</p>
+        <p>Dallas (9-7) at Seattle (9-7)  8 p.m., Channel 4  The coaches -- Bill Parcells of the Cowboys and Mike Holmgren of the Seahawks -- have enjoyed playoff success. So have Seattle quarterback Matt Hasselbeck and running back Shaun Alexander, the keys to the Seahawks' offense. Not so Tony Romo, the Cowboys quarterback, and that could be a problem. Dallas's record was 3-3 when the inexperienced Romo replaced Drew Bledsoe. Romo went 5-1 in his first six starts, 1-3 in his last four. He could take advantage of a Seahawks secondary so battered that one starting cornerback is out, the other probably is and three defensive backs were added in recent days. That could also be good news for Terrell Owens, the Cowboys' gifted but talkative receiver.  Reporter's pick: Cowboys</p>
+        <p>TOMORROW'S MATCHUPS</p>
+        <p>Jets (10-6) at New England (12-4)  1 p.m., Channel 2  The Jets have won their past three games and beat the Patriots in Week 10, but that was the regular season. For the Patriots, the playoffs are something else. Quarterback Tom Brady's playoff record is 10-1, and he has thrown only 5 interceptions in 11 games. He lacks a go-to receiver, but the Patriots have strong runners in Corey Dillon and Laurence Maroney.</p>
+        <p>Jets receiver Laveranues Coles said of the Patriots: ''That's the last team you ever want to see in the playoffs because of the way they prepare and the experience they have. I didn't really want to play them in the first round. That's not necessarily a feeling of fear or intimidation. It's more like knowing your opponent a little too well.''  Reporter's pick: Patriots</p>
+        <p>Giants (8-8) at Philadelphia (10-6)  4:30 p.m., Channel 5  The veteran Jeff Garcia replaced the injured Donovan McNabb (knee) at quarterback and led the Eagles to the National Football Conference East title, Philadelphia's fifth in the past six years. Brian Westbrook, a slick outside runner, also became a force inside as the Eagles won their final five games. ''I believe we are playing our best ball right now,'' safety Brian Dawkins said. The Giants are not; their record is the poorest of the 12 playoff teams. Eli Manning has been inconsistent, Jeremy Shockey is hobbling on a bad ankle, and the defense has its bad days. The one constant has been Tiki Barber, who rushed for a team-record 234 yards last week. He is retiring at 31, so if the Giants lose, this will be his last game.  Reporter's pick: Eagles</p>
+        <p>PRO FOOTBALL Frank Litsky of The New York Times breaks down the first-round playoff games.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Frank Litsky of The New York Times breaks down the first-round playoff games.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="26correx-2" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821543"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Kerry, John (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDE173FF935A15752C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Jan 25 article about Sen John Kerry's announcment that he will not seek Democratic nomination for president in 2008</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article yesterday about Senator John Kerry's announcement that he would not seek the Democratic nomination for president in 2008 incorrectly described what he called ''a botched joke'' he told before the November midterm elections. In telling the joke, which was assailed as an attack on American troops fighting in Iraq, Mr. Kerry not only dropped a word from his prepared remarks, but he also rephrased his opening sentence extensively and omitted a reference to President Bush. Mr. Kerry's aides said that the prepared text read: ''Do you know where you end up if you don't study, if you aren't smart, if you're intellectually lazy? You end up getting us stuck in a war in Iraq. Just ask President Bush.'' What he actually said: ''You know, education, if you make the most of it, you study hard, you do your homework and you make an effort to be smart, you can do well. If you don't, you get stuck in Iraq.''</p>
+      </block>
+      <block class="full_text">
+        <p>An article yesterday about Senator John Kerry's announcement that he would not seek the Democratic nomination for president in 2008 incorrectly described what he called ''a botched joke'' he told before the November midterm elections. In telling the joke, which was assailed as an attack on American troops fighting in Iraq, Mr. Kerry not only dropped a word from his prepared remarks, but he also rephrased his opening sentence extensively and omitted a reference to President Bush. Mr. Kerry's aides said that the prepared text read: ''Do you know where you end up if you don't study, if you aren't smart, if you're intellectually lazy? You end up getting us stuck in a war in Iraq. Just ask President Bush.'' What he actually said: ''You know, education, if you make the most of it, you study hard, you do your homework and you make an effort to be smart, you can do well. If you don't, you get stuck in Iraq.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

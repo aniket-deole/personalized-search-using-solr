@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KATZ, IRVING</title>
+    <meta content="dn012708.1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821631"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KATZ, IRVING</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E5DE173AF934A15752C0A9619C8B63" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KATZ, IRVING</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KATZ--Irving, on January 24th, 2008 in NYC. Loving son of the late Moses and Fannie Katz. Dear brother of Murray Katz in NYC and cousin Morris Borger in Israel. Completely devoted father to Naomi (Gerhardt) and Jonathan, and forever adoring and adored ''Zayde'' to Sarah Joyce. Services private.</p>
+      </block>
+      <block class="full_text">
+        <p>KATZ--Irving, on January 24th, 2008 in NYC. Loving son of the late Moses and Fannie Katz. Dear brother of Murray Katz in NYC and cousin Morris Borger in Israel. Completely devoted father to Naomi (Gerhardt) and Jonathan, and forever adoring and adored ''Zayde'' to Sarah Joyce. Services private.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Returning To New York, Forcefully</title>
+    <meta content="24osor" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/24/arts/music/24osor.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821164"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Kozinn, Allan</person>
+        <person class="indexing_service">Osorio, Jorge Federico</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Osorio, Jorge Federico</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4D61F30F937A15752C0A9619C8B63" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Returning To New York, Forcefully</hl1>
+        <hl2 class="online_headline">Returning to New York, Forcefully</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+      <abstract>
+        <p>Allan Kozinn reviews performance by pianist Jorge Federico Osorio at Alice Tully Hall; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is mystifying that the Mexican pianist Jorge Federico Osorio does not have more of a presence in the New York concert world. Having won several competitions in the early 1970s, he waited until 1997 to make his New York recital debut. He hasn't been back much since, but his recordings of Spanish and Mexican music have attracted notice, and on Monday evening he played a hefty, colorful program at Alice Tully Hall that reinforced the impression he made a decade ago.</p>
+        <p>Three Soler sonatas established several of Mr. Osario's strengths at the outset. Not least among them are a bright but warm tone, the technique and finger power required for Soler's rapid-fire repeating notes, and the elegance to illuminate the exotic Classicism that drives these works and is their link to Scarlatti on one hand, and Mozart on the other.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jorge Federico Osorio, a Mexican pianist, offered a hefty, colorful program at Alice Tully Hall on Monday evening.</p>
+      </block>
+      <block class="full_text">
+        <p>It is mystifying that the Mexican pianist Jorge Federico Osorio does not have more of a presence in the New York concert world. Having won several competitions in the early 1970s, he waited until 1997 to make his New York recital debut. He hasn't been back much since, but his recordings of Spanish and Mexican music have attracted notice, and on Monday evening he played a hefty, colorful program at Alice Tully Hall that reinforced the impression he made a decade ago.</p>
+        <p>Three Soler sonatas established several of Mr. Osario's strengths at the outset. Not least among them are a bright but warm tone, the technique and finger power required for Soler's rapid-fire repeating notes, and the elegance to illuminate the exotic Classicism that drives these works and is their link to Scarlatti on one hand, and Mozart on the other.</p>
+        <p>The Romantic and picturesque side of the Spanish repertory turned up on the second half of the program, when Mr. Osorio offered Albéniz's ''Suite Española'' No. 1 in a reading notable for its high-energy performances of ''Granada,'' with its lilting melody weaving through guitarlike figuration, and ''Asturias,'' in which a serpentine theme is wrapped in a hypnotic tremolando figure.</p>
+        <p>Between the Soler and the Albéniz, Mr. Osorio played a vibrant, tempestuous account of Beethoven's Sonata No. 30 (Op. 109), with a magnificently cathartic finale, and a group of Debussy's Preludes that drew on Mr. Osorio's considerable imagination for subtle timbres and vivid characterization. He closed the program with two Liszt works, a beautifully articulated ''Jeux d'eau à la Villa d'Este'' and an explosively virtuosic ''Vallée d'Oberman.''</p>
+        <p>Occasionally, the forcefulness of Mr. Osorio's style led him to step on melodies, particularly at phrase endings, or to smudge a texture here or a harmony there. But the sweep and freshness of his readings made his performance impossible to resist, technical quibbles notwithstanding.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

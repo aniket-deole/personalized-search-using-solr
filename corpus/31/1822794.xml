@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Interest Was There, but Not the Money</title>
+    <meta content="31kobe" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822794"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <org class="indexing_service">New York Knickerbockers</org>
+        <org class="indexing_service">Los Angeles Lakers</org>
+        <person class="indexing_service">Beck, Howard</person>
+        <person class="indexing_service">Bryant, Kobe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Los Angeles Lakers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DF153FF932A05752C0A9619C8B63" item-length="459" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Interest Was There, but Not the Money</hl1>
+      </hedline>
+      <byline class="print_byline">By HOWARD BECK</byline>
+      <byline class="normalized_byline">Beck, Howard</byline>
+      <abstract>
+        <p>New York Knicks were financially unable to pursue Los Angeles Lakers guard Kobe Bryant when he was free agent in 2004; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kobe Bryant's only Madison Square Garden appearance of the season was nullified yesterday by a suspension. Had the Knicks managed their payroll better, Bryant sightings at the Garden might not be so rare.</p>
+        <p>In the summer of 2004, Bryant was a free agent and the Knicks were an eager -- though financially hamstrung -- suitor. Armed with only the midlevel salary-cap exception (worth about $5 million in the first year), Knicks officials flew to Southern California and made their pitch.</p>
+      </block>
+      <block class="full_text">
+        <p>Kobe Bryant's only Madison Square Garden appearance of the season was nullified yesterday by a suspension. Had the Knicks managed their payroll better, Bryant sightings at the Garden might not be so rare.</p>
+        <p>In the summer of 2004, Bryant was a free agent and the Knicks were an eager -- though financially hamstrung -- suitor. Armed with only the midlevel salary-cap exception (worth about $5 million in the first year), Knicks officials flew to Southern California and made their pitch.</p>
+        <p>The effort was as bold as it was futile. As Bryant's employer, the Los Angeles Lakers were allowed to pay him the maximum salary, about $130 million over seven years. Other teams with salary-cap room could offer Bryant about $102 million over six years.</p>
+        <p>All the Knicks could offer was the Garden's mystique and New York's marketing appeal. It was enough to make Bryant listen. Had the Knicks been able to make a competitive offer, Bryant might be wearing blue and orange today.</p>
+        <p>''The reason why I even was interested in taking that meeting was because of this city,'' the 28-year-old Bryant said in an interview yesterday morning. ''Because I always loved this city. Always. Ever since I came here, growing up in Philadelphia, there's always so much energy and so much buzz in this city. How passionate they are about basketball, how knowledgeable they are about basketball.''</p>
+        <p>Bryant, a nine-time All-Star, excitedly ticked off the names of the Knicks legends Walt Frazier, Willis Reed, Earl Monroe and Dave DeBusschere and said, ''I just wanted to play here so bad.''</p>
+        <p>''I know what it's like to have a team here that's successful and how the city rallies around it,'' he said. ''So I was very interested. And if they had more cap flexibility, it'd definitely be a place where I would end up. I might have picked the Knicks.''</p>
+        <p>Bryant heavily weighed an offer from the Los Angeles Clippers before eventually re-signing with the Lakers, who have again become one of the elite teams in the league. The Knicks, meanwhile, continue to founder without a true franchise player and a payroll that is by far the highest in the league.</p>
+        <p>Isiah Thomas, the Knicks' president, might have changed the history of both teams if he had more than the lure of New York to offer that day. Bryant said Thomas's pitch focused on marketing opportunities and the city's other inherent advantages.</p>
+        <p>''He was a good salesman,'' Bryant said. ''But again, you don't have to sell much. I know, I watch basketball, I've been a student of the game. I would love to have played here. The buzz, the energy, I mean this is a basketball city, there's no question about it. I would love to have played here.''</p>
+        <p>PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

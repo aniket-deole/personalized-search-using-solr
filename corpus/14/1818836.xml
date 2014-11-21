@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Amid the Swans, An Ugly Duckling or Two</title>
+    <meta content="14lamp" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/nyregion/thecity/14lamp.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818836"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEIGHBORHOOD REPORT: BELLEROSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Lampposts</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Bellerose (NYC)</location>
+        <person class="indexing_service">Vandam, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Lighting</classifier>
+        <classifier class="online_producer" type="descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <location class="online_producer">Queens (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E0DB1330F937A25752C0A9619C8B63" item-length="399" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Amid the Swans, An Ugly Duckling or Two</hl1>
+        <hl2 class="online_headline">Amid the Swans, an Ugly Duckling or Two</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF VANDAM</byline>
+      <byline class="normalized_byline">Vandam, Jeff</byline>
+      <abstract>
+        <p>Five 1960s-era lampposts must remain among line of retro-design ones dating to 1916 along stretch of Jericho Turnpike in Bellerose, Queens, because local business improvement district has run out of money; under state law, organizations are required to spend their own money on improvements and then get reimbursed; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All along the median that divides Jericho Turnpike, the major commercial strip in the far eastern Queens neighborhood of Bellerose, genteel green lampposts with curlicue designs loom over the street, each with two cast-iron arms that droop their lights over the roadway. Several are still graced with cheery banners from the holidays.</p>
+        <p>Every so often, however, as is the case in front of Double K Electric and the Soap Box Laundromat at 247th Street, the pleasant line of throwback streetlights -- the design dates to 1916 -- is interrupted by a nonconformist intruder. At that intersection and a handful of others, there stands a drab aluminum lamppost of much more recent vintage: the 1960s. Call it a Pinto in a line of Porsches.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In one Queens neighborhood, a pleasant line of throwback streetlights  the design dates to 1916  is interrupted by a nonconformist intruder.</p>
+      </block>
+      <block class="full_text">
+        <p>All along the median that divides Jericho Turnpike, the major commercial strip in the far eastern Queens neighborhood of Bellerose, genteel green lampposts with curlicue designs loom over the street, each with two cast-iron arms that droop their lights over the roadway. Several are still graced with cheery banners from the holidays.</p>
+        <p>Every so often, however, as is the case in front of Double K Electric and the Soap Box Laundromat at 247th Street, the pleasant line of throwback streetlights -- the design dates to 1916 -- is interrupted by a nonconformist intruder. At that intersection and a handful of others, there stands a drab aluminum lamppost of much more recent vintage: the 1960s. Call it a Pinto in a line of Porsches.</p>
+        <p>''You have a whole row of these lovely lights that have really spruced up the block quite a bit,'' said Richard Hellenbrecht, chairman of Community Board 13. ''All of a sudden, you come across this one ridiculous thing that's still there and really shouldn't be.''</p>
+        <p>The lampposts, which span a mile and a half of the turnpike, were installed as part of a beautification project arranged by the local business improvement district and financed with state grants. Only five streetlights from the '60s still need to be replaced with the spiffier retro designs.</p>
+        <p>The problem is that the district ran out of money.</p>
+        <p>James Trent, vice president of the improvement district, said that under state law, organizations like his are required to spend their own money on improvements and then get reimbursement. The state did not enforce the requirement for the building of most of the lampposts, Mr. Trent said, but did for the few remaining streetlights.</p>
+        <p>Dan Weiller, a spokesman for the state comptroller's office, confirmed that the state requires upfront expenditures to receive grant money. But there are exceptions, he added.</p>
+        <p>In any event, $60,000 to $80,000 will be needed to install the remaining streetlights, Mr. Trent estimated. Unfortunately, he said, the budget of the business improvement district is but a fraction of that amount.</p>
+        <p>''So we can't finish the last lousy five poles,'' Mr. Trent said, adding that he charged part of the project on his own credit card in hope of completing it.</p>
+        <p>''It definitely doesn't look good,'' a local worker said of the unchanged lampposts. ''It stands out. You want it to be all one type, you know.''</p>
+        <p>JEFF VANDAM</p>
+        <p>NEIGHBORHOOD REPORT: BELLEROSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

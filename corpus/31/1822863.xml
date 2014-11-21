@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Hells Angels Member Says He'll Sue City</title>
+    <meta content="31mbrfs-3" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822863"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Assaults</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="indexing_service" type="descriptor">False Arrests, Convictions and Imprisonments</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Search and Seizure</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Hells Angels</org>
+        <person class="indexing_service">Lueck, Thomas J</person>
+        <person class="indexing_service">West, Richard</person>
+        <person class="indexing_service">Kuby, Ron</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Search and Seizure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EEDE153FF932A05752C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Hells Angels Member Says He'll Sue City</hl1>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lueck, Thomas J</byline>
+      <abstract>
+        <p>Hells Angels member Richard West plans lawsuit against New York City; claims police illegally took him into custody during search of motorcycle club's headquarters in New York City; his lawyer Ron Kuby says police used excessive force; police were searching for evidence in beating of woman outside club on Jan 28 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Richard West, a member of the New York chapter of the Hells Angels, says he will file a lawsuit against the city, claiming that he was illegally taken into custody after a search of the motorcycle club's East Village headquarters at 77 East Third Street on Monday. Dozens of police officers, backed by sharpshooters, helicopters and heavy equipment, used a search warrant to seek evidence connected to the beating of a woman outside the building on Sunday night. Ronald L. Kuby, a lawyer for the Hells Angels, said the police used excessive force. The club had refused to allow several officers to enter the heavily fortified building, so the larger contingent arrived.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+      <block class="full_text">
+        <p>Richard West, a member of the New York chapter of the Hells Angels, says he will file a lawsuit against the city, claiming that he was illegally taken into custody after a search of the motorcycle club's East Village headquarters at 77 East Third Street on Monday. Dozens of police officers, backed by sharpshooters, helicopters and heavy equipment, used a search warrant to seek evidence connected to the beating of a woman outside the building on Sunday night. Ronald L. Kuby, a lawyer for the Hells Angels, said the police used excessive force. The club had refused to allow several officers to enter the heavily fortified building, so the larger contingent arrived.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

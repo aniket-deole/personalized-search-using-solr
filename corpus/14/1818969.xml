@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Perseverance Another Way to Rate Goalies</title>
+    <meta content="14goalies" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818969"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <person class="indexing_service">Klein, Jeff Z</person>
+        <person class="indexing_service">Reif, Karl-Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E2DE1030F937A25752C0A9619C8B63" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Perseverance Another Way to Rate Goalies</hl1>
+      </hedline>
+      <byline class="print_byline">By JEFF Z. KLEIN AND KARL-ERIC REIF</byline>
+      <byline class="normalized_byline">Klein, Jeff Z; Reif, Karl-Eric</byline>
+      <abstract>
+        <p>Perseverance Index indicates how effective NHL goalies are (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The most reliable official indicator of goaltending performance is save percentage, but there is also a way to include the number of shots faced in the equation. A rating system called the Perseverance Index gives fans a better read on whose save percentage benefits from a light workload and whose suffers beneath a hail of frozen vulcanized rubber.</p>
+        <p>Basically, it combines six parts save percentage to one part shots against. Below is a chart of the top performances this season by that measure, through Friday's games, with category leaders in bold.</p>
+      </block>
+      <block class="full_text">
+        <p>The most reliable official indicator of goaltending performance is save percentage, but there is also a way to include the number of shots faced in the equation. A rating system called the Perseverance Index gives fans a better read on whose save percentage benefits from a light workload and whose suffers beneath a hail of frozen vulcanized rubber.</p>
+        <p>Basically, it combines six parts save percentage to one part shots against. Below is a chart of the top performances this season by that measure, through Friday's games, with category leaders in bold.</p>
+        <p>There is hardly room to slide a puck edgewise between the leader, Cristobal Huet of the Canadiens, and No. 2 Chris Mason of the Predators.</p>
+        <p>Huet, 31, from France, seemingly came out of nowhere to lead the N.H.L. in save percentage and Perseverance Index last season. Mason, 30, had likewise labored mainly in obscurity until called upon this season to fill in for the injured Tomas Vokoun, who returned Tuesday and ranks sixth.</p>
+        <p>Martin Brodeur, 34, the Devils' indefatigable veteran, often handicapped in these rankings by virtue of playing behind a perennially excellent defensive team, may be having the best season of his fine career.</p>
+        <p>The most startling line of figures in the Perseverance table may belong to the Washington Capitals' Olaf Kolzig, a 36-year-old native of South Africa. The bulwark of the Capitals' defense for about a decade, Kolzig has received little notice this season, but he has been superb in facing down a barrage of shots each game.</p>
+        <p>JEFF Z. KLEIN AND KARL-ERIC REIF</p>
+        <p>HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

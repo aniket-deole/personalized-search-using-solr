@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: City Unemployment Drops</title>
+    <meta content="19mbrfs-1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819964"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Unemployment</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Mcgeehan, Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E7DB1E30F93AA25752C0A9619C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: City Unemployment Drops</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+      <abstract>
+        <p>New York City unemployment rate drops to 4.3 percent in December, second-lowest level in 30 years that extensive records have been kept; private-sector jobs increased by 45,500, or 1.5 percent in 2006 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York City's unemployment rate dropped to 4.3 percent in December, the second-lowest level in the 30 years that extensive records have been kept for the city. The jobless rate, which is adjusted by the State Labor Department to account for seasonal fluctuations, was 4.5 percent in November after hitting a low of 4.1 percent in October. The number of private-sector jobs in the city increased by 45,500, or 1.5 percent, in 2006, the Labor Department reported. New York State's seasonally adjusted unemployment rate was 4 percent in December, down from 4.2 percent in November. Jason Bram, an economist at the Federal Reserve Bank of New York, said the data ''suggest that the economy may have decelerated a bit'' at the end of last year.</p>
+        <p>PATRICK McGEEHAN</p>
+      </block>
+      <block class="full_text">
+        <p>New York City's unemployment rate dropped to 4.3 percent in December, the second-lowest level in the 30 years that extensive records have been kept for the city. The jobless rate, which is adjusted by the State Labor Department to account for seasonal fluctuations, was 4.5 percent in November after hitting a low of 4.1 percent in October. The number of private-sector jobs in the city increased by 45,500, or 1.5 percent, in 2006, the Labor Department reported. New York State's seasonally adjusted unemployment rate was 4 percent in December, down from 4.2 percent in November. Jason Bram, an economist at the Federal Reserve Bank of New York, said the data ''suggest that the economy may have decelerated a bit'' at the end of last year.</p>
+        <p>PATRICK McGEEHAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

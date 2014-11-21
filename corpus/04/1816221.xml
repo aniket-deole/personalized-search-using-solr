@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Memorials   NATKINS, MORTY AND LUCILLE</title>
+    <meta content="dn010407" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816221"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">NATKINS, MORTY AND LUCILLE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Memorial Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDC1E3AF937A35752C0A9619C8B63" item-length="29" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Memorials   NATKINS, MORTY AND LUCILLE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NATKINS--Morty and Lucille. 12/29/04 and 1/4/87. We see you every day in your seven beautiful grandchildren, but you are deeply and constantly missed. Love, Amy, Priscilla and Mara.</p>
+      </block>
+      <block class="full_text">
+        <p>NATKINS--Morty and Lucille. 12/29/04 and 1/4/87. We see you every day in your seven beautiful grandchildren, but you are deeply and constantly missed. Love, Amy, Priscilla and Mara.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

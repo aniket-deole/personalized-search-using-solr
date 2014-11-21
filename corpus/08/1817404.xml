@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For What It's Worth</title>
+    <meta content="l08salary" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817404"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <org class="indexing_service">Home Depot Inc</org>
+        <person class="indexing_service">Ackerberg, Robert</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E0DB1530F93BA35752C0A9619C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For What It's Worth</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert Ackerberg letter says exit package for ousted Home Depot chairman and chief executive Robert Nardelli is outrageous and obscene (Jan 4 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The departing salary of Robert L. Nardelli, the chairman and chief executive of Home Depot, cited in ''Home Depot Board Ousts Chief, Saying Goodbye With Big Check'' (front page, Jan. 4) -- a $210 million exit package -- is outrageous and obscene.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The departing salary of Robert L. Nardelli, the chairman and chief executive of Home Depot, cited in ''Home Depot Board Ousts Chief, Saying Goodbye With Big Check'' (front page, Jan. 4) -- a $210 million exit package -- is outrageous and obscene.</p>
+        <p>No one is worth that kind of money, dead or alive, except for Albert Einstein, who never made that much money in his lifetime.</p>
+        <p>Robert Ackerberg  Massapequa, N.Y., Jan. 4, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

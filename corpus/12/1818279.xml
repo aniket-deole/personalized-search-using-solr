@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Stomp the Yard</title>
+    <meta content="12roun-1" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818279"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Saltz, Rachel</person>
+        <person class="indexing_service">White, Sylvain</person>
+        <person class="indexing_service">Short, Columbus</person>
+        <object.title class="indexing_service">Stomp the Yard (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E2DD1330F931A25752C0A9619C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Stomp the Yard</hl1>
+      </hedline>
+      <byline class="print_byline">By RACHEL SALTZ</byline>
+      <byline class="normalized_byline">Saltz, Rachel</byline>
+      <abstract>
+        <p>Rachel Saltz reviews film Stomp the Yard, directed by Sylvain White; Columbus Short stars; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today nationwide  Directed by Sylvain White  109 minutes</p>
+        <p>Brotherhood is powerful. That's the message of ''Stomp the Yard,'' a strange and at times strangely compelling mix of black fraternity recruitment video and inspirational tale about a hip-hop boy in a stepping world.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today nationwide  Directed by Sylvain White  109 minutes</p>
+        <p>Brotherhood is powerful. That's the message of ''Stomp the Yard,'' a strange and at times strangely compelling mix of black fraternity recruitment video and inspirational tale about a hip-hop boy in a stepping world.</p>
+        <p>After a dance-off ends with a fight and murder, DJ leaves Los Angeles and krumping for Atlanta and stepping. At Truth University (go, Truth!), the all-black school where he enrolls, stepping -- that combination of precision dancing, marching and chanting done in African-American fraternities and sororities -- rules, and Gammas and Thetas are the Sharks and Jets.</p>
+        <p>DJ (the engaging Columbus Short) stands out: he's a work-study student among the haute bourgeoisie and a street-style dancer among steppers (though it can be difficult to differentiate styles in the frenetically edited dance sequences). ''Stomp the Yard'' means to be a fable about finding your place in the group (a primal college story, after all) and succeeds most when it hews closest to genre formulas, showing a milieu rarely glimpsed on film, and least when it too warmly embraces fraternity culture.</p>
+        <p>Here, frat affiliation is lifelong and a predictor of success, with a pedigree so echt it includes the Rev. Dr. Martin Luther King Jr. But race and social justice are incidental to the Gammas and Thetas and to ''Stomp,'' which posits a world in which white people exist only to fill seats in upscale restaurants. DJ doesn't need to change the world, he just needs to find a way to dance in it.</p>
+        <p>RACHEL SALTZ</p>
+        <p>''Stomp the Yard'' is rated PG-13 (Parents strongly cautioned). There is a little violence, a little sex and a lot of stepping.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

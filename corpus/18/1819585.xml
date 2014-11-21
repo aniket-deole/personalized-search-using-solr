@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Muscular Design in Marble: Pull Up a Chair. Now Pull Harder.</title>
+    <meta content="18newson" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819585"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: SEATING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chairs</classifier>
+        <classifier class="indexing_service" type="descriptor">Marble</classifier>
+        <person class="indexing_service">Newson, Marc</person>
+        <person class="indexing_service">Bernstein, Fred A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EEDC1130F93BA25752C0A9619C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Muscular Design in Marble: Pull Up a Chair. Now Pull Harder.</hl1>
+      </hedline>
+      <byline class="print_byline">By FRED A. BERNSTEIN</byline>
+      <byline class="normalized_byline">Bernstein, Fred A</byline>
+      <abstract>
+        <p>Marc Newson designs marble chair resembling one of extruded plastic; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The London-based designer Marc Newson is known for working in lightweight materials like aluminum, so the marble pieces, like the Extruded Chair, above, that he created for the Gagosian Gallery on West 24th Street represent a surprising turn toward heft. The show, running from next Thursday through March 3, includes limited-edition pieces priced from $70,000 to $400,000. Which may be a bargain. Across the street, Sebastian &amp; Barquet will be featuring Mr. Newson's older pieces in a show opening the same day; the Lockheed Lounge, a chair of hammered metal, is priced at $2.5 million. Gagosian Gallery, 555 West 24th Street, (212) 741-1111; Sebastian &amp; Barquet, 544 West 24th Street, (212) 488-2245.</p>
+        <p>FRED A. BERNSTEIN</p>
+      </block>
+      <block class="full_text">
+        <p>The London-based designer Marc Newson is known for working in lightweight materials like aluminum, so the marble pieces, like the Extruded Chair, above, that he created for the Gagosian Gallery on West 24th Street represent a surprising turn toward heft. The show, running from next Thursday through March 3, includes limited-edition pieces priced from $70,000 to $400,000. Which may be a bargain. Across the street, Sebastian &amp; Barquet will be featuring Mr. Newson's older pieces in a show opening the same day; the Lockheed Lounge, a chair of hammered metal, is priced at $2.5 million. Gagosian Gallery, 555 West 24th Street, (212) 741-1111; Sebastian &amp; Barquet, 544 West 24th Street, (212) 488-2245.</p>
+        <p>FRED A. BERNSTEIN  CURRENTS: SEATING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

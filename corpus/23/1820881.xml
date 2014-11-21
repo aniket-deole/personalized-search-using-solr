@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>And No More Catalogs!</title>
+    <meta content="l23catalog" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820881"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Postal Service</classifier>
+        <person class="indexing_service">Tidd, Charles</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Postal Service</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1D91F30F930A15752C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>And No More Catalogs!</hl1>
+      </hedline>
+      <abstract>
+        <p>Charles Tidd letter comments on Jan 20 article on opting out of direct mail offerings</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Don't Call. Don't Write. Let Me Be'' (Your Money, Jan. 20):</p>
+        <p>Since early December 2006, I have received 136 different catalogs in the mail. I have called each company and asked it to take my name off the mailing list and discontinue sending me catalogs.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Don't Call. Don't Write. Let Me Be'' (Your Money, Jan. 20):</p>
+        <p>Since early December 2006, I have received 136 different catalogs in the mail. I have called each company and asked it to take my name off the mailing list and discontinue sending me catalogs.</p>
+        <p>In almost 100 percent of my calls, the person who answered has said courteously that the company would take my name off its mailing list.</p>
+        <p>Let's see what actually happens I am now looking at 47 unwanted solicitations and am replying with a note asking them to discontinue their mailings.</p>
+        <p>The most satisfying aspect of this is sending back my request in their postage-paid envelopes.</p>
+        <p>Charles Tidd  Newtown, Conn., Jan. 20, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

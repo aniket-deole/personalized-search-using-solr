@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treasury Bills Scheduled for This Week</title>
+    <meta content="15bonds" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/business/15bonds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819020"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Treasury Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EEDE1030F936A25752C0A9619C8B63" item-length="445" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treasury Bills Scheduled for This Week</hl1>
+        <hl2 class="online_headline">Treasury Bills Scheduled for This Week</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5.08 percent. The rate on the six-month issue was 5.13 percent, and the rate on the four-week issue was 4.95 percent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Treasury’s schedule of financing this week includes today’s regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+      </block>
+      <block class="full_text">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5.08 percent. The rate on the six-month issue was 5.13 percent, and the rate on the four-week issue was 4.95 percent.</p>
+        <p>The following tax-exempt, fixed-income issues are scheduled for pricing this week:</p>
+        <p>TAX EXEMPT  TOMORROW</p>
+        <p>New Mexico Capital Projects, $143.1 million of general obligation bonds. Competitive.</p>
+        <p>Pima County, Ariz., $95 million of general obligation bonds. Competitive.</p>
+        <p>Pima County, Ariz., $50 million of revenue bonds for sewer revenues. Competitive.</p>
+        <p>Plano, Tex., Independent School District, $75.4 million of general obligation bonds. Competitive.</p>
+        <p>Round Rock, Tex., Independent School District, $103.1 million of general obligation bonds. Competitive.</p>
+        <p>WEDNESDAY</p>
+        <p>Mecklenburg County, N.C., $102 million of general obligation bonds. Competitive.</p>
+        <p>Truckee Meadows Water Authority, Reno, Nev., $218.5 million of revenue bonds. Competitive.</p>
+        <p>THURSDAY</p>
+        <p>Fairfax County, Va., $232.7 million of general obligation bonds. Competitive.</p>
+        <p>TAX EXEMPT  ONE DAY DURING THE WEEK</p>
+        <p>Alaska Housing Finance Corporation, $89 million of debt securities. Merrill Lynch.</p>
+        <p>Anaheim, Calif., Public Finance Electric System, $203.3 million of debt securities. Citigroup.</p>
+        <p>Cape Girardeau, Mo., Industrial Development Authority, $104.4 million of health facilities revenue bonds for Southeast Missouri State University. UBS.</p>
+        <p>Chicago, $353 million of debt securities. Siebert Brandford Shank.</p>
+        <p>Cypress-Fairbanks, Tex., Independent School District, $300 million of debt securities. Merrill Lynch.</p>
+        <p>Grayson County, Tex., $65 million of toll revenue and limited tax bonds. First Southwest.</p>
+        <p>Hospital Authority of Valdosta-Lowndes County, Ga., $55 million of revenue certificates. Bank of America.</p>
+        <p>Irving, Tex., Independent School District, $109 million of unlimited tax refunding revenue bonds. First Southwest.</p>
+        <p>Maryland Health and Higher Education Facilities Authority, $142 million of debt securities for MedStar Health. Citigroup.</p>
+        <p>Montana Board of Housing, $86 million of single-family mortgage revenue bonds. UBS.</p>
+        <p>New York State Dormitory Authority, $175 million of debt securities for University of Rochester. Lehman Brothers.</p>
+        <p>New York State Environmental Facility Corporation, $186.1 million of state personal income tax revenue bonds. First Albany Capital.</p>
+        <p>New York State Mortgage Agency, $56 million of debt securities. Citigroup.</p>
+        <p>Ohio State University, $290 million of debt securities for University Hospital. Citigroup.</p>
+        <p>Richmond County, Ga., Board of Education, $134 million of debt securities. Citigroup.</p>
+        <p>Southwest Higher Education Authority Inc., $95 million of higher education revenue bonds for Southern Methodist University Project. Lehman Brothers.</p>
+        <p>Springfield, Mass.,, $140 million of general obligation bonds. UBS.</p>
+        <p>Waxahachie, Tex., Independent School District, $59.3 million of unlimited tax school building revenue bonds. First Southwest.</p>
+        <p>Winchester, Va., Industrial Development Authority, $88 million of debt securities for Valley Health Hospitals. Merrill Lynch.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

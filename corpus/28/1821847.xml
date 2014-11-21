@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BARNARD, ALLAN</title>
+    <meta content="dn012807" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821847"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BARNARD, ALLAN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3D71F3AF93BA15752C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BARNARD, ALLAN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BARNARD--Allan, who was born in Madison, Wisconsin on August 8th, 1918, died on Monday, January 22nd, of complications from Parkinson's disease in Forest Hills, New York. Allan was married to his beloved wife Polly Barnard for 56 years. He was the father of Laurel Barnard Wexman and the late Michael Barnard, brother of Dr. Henry Kaplan (deceased) and Dr. William Kaplan, father-in-law of Steven Wexman and Barbara Bralver Barnard, and adoring grandfather of Joshua Barnard, Matthew Barnard, Owen Wexman and Reed Wexman. Allan was a book lover, author, editor and mentor whose publishing career spanned five decades. At the time of his retirement he was a Vice President and Associate Editorial Director at Bantam Books. In lieu of flowers, his family asks that donations be made to the Michael J. Fox Foundation for Parkinson's Research, Grand Central Station P.O. Box 4777, New York, NY 10163.</p>
+      </block>
+      <block class="full_text">
+        <p>BARNARD--Allan, who was born in Madison, Wisconsin on August 8th, 1918, died on Monday, January 22nd, of complications from Parkinson's disease in Forest Hills, New York. Allan was married to his beloved wife Polly Barnard for 56 years. He was the father of Laurel Barnard Wexman and the late Michael Barnard, brother of Dr. Henry Kaplan (deceased) and Dr. William Kaplan, father-in-law of Steven Wexman and Barbara Bralver Barnard, and adoring grandfather of Joshua Barnard, Matthew Barnard, Owen Wexman and Reed Wexman. Allan was a book lover, author, editor and mentor whose publishing career spanned five decades. At the time of his retirement he was a Vice President and Associate Editorial Director at Bantam Books. In lieu of flowers, his family asks that donations be made to the Michael J. Fox Foundation for Parkinson's Research, Grand Central Station P.O. Box 4777, New York, NY 10163.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

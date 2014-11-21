@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DUDELHEIM, HANS</title>
+    <meta content="dn011707" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819349"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">DUDELHEIM, HANS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE0DE1F3AF934A25752C0A9619C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DUDELHEIM, HANS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DUDELHEIM--Hans. The New School deeply mourns the passing of Hans Dudelheim, a beloved member of the film production faculty since 1996, who died of injuries sustained in a motorbike accident in Puerto Rico on January 4th. Hans was an award-winning (Emmy, CINE Golden Eagle) film editor with a distinguished professional career as well as a master teacher of 16mm film production and editing. His patience and devotion to students was legendary within the film program, and he will be greatly missed by all who were lucky enough to cross his path. Philip Scaturro, Chair, Board of Trustees; Bob Kerrey, President, The New School; Linda Dunne, Dean, The New School for General Studies.</p>
+      </block>
+      <block class="full_text">
+        <p>DUDELHEIM--Hans. The New School deeply mourns the passing of Hans Dudelheim, a beloved member of the film production faculty since 1996, who died of injuries sustained in a motorbike accident in Puerto Rico on January 4th. Hans was an award-winning (Emmy, CINE Golden Eagle) film editor with a distinguished professional career as well as a master teacher of 16mm film production and editing. His patience and devotion to students was legendary within the film program, and he will be greatly missed by all who were lucky enough to cross his path. Philip Scaturro, Chair, Board of Trustees; Bob Kerrey, President, The New School; Linda Dunne, Dean, The New School for General Studies.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

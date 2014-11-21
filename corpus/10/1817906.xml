@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Teenager Sought In Subway Stabbing</title>
+    <meta content="10mbrfs-5" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817906"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Subways</classifier>
+        <classifier class="indexing_service" type="descriptor">Stations and Terminals (Passenger)</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Baker, Al</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stations and Terminals (Passenger)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEFDC1230F933A25752C0A9619C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Teenager Sought In Subway Stabbing</hl1>
+      </hedline>
+      <byline class="print_byline">By AL BAKER; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Baker, Al</byline>
+      <abstract>
+        <p>New York City police seek teenager in stabbing of 17-year-old boy in Brooklyn subway station; say stabbing may have resulted from earlier argument (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 17-year-old boy was stabbed once in the chest by another teenager yesterday afternoon on a subway train in Brooklyn, the police said. The victim, whom the authorities did not identify, was taken to Brookdale University Hospital and Medical Center, where he was listed in stable condition, the police said. The stabbing occurred about 3 p.m. aboard a Manhattan-bound J train that was stopped in the elevated Norwood Avenue station, near Fulton Street in Highland Park, officials said. Detectives were investigating whether it followed an argument between the two teenagers earlier in the day. Charles Seaton, a spokesman for New York City Transit, said that train service was suspended in the area through the early evening. A witness to the stabbing said that the dispute arose among members of separate gangs at a nearby school yesterday and that members of the gang agreed to take the fight off school grounds.</p>
+        <p>AL BAKER</p>
+      </block>
+      <block class="full_text">
+        <p>A 17-year-old boy was stabbed once in the chest by another teenager yesterday afternoon on a subway train in Brooklyn, the police said. The victim, whom the authorities did not identify, was taken to Brookdale University Hospital and Medical Center, where he was listed in stable condition, the police said. The stabbing occurred about 3 p.m. aboard a Manhattan-bound J train that was stopped in the elevated Norwood Avenue station, near Fulton Street in Highland Park, officials said. Detectives were investigating whether it followed an argument between the two teenagers earlier in the day. Charles Seaton, a spokesman for New York City Transit, said that train service was suspended in the area through the early evening. A witness to the stabbing said that the dispute arose among members of separate gangs at a nearby school yesterday and that members of the gang agreed to take the fight off school grounds.</p>
+        <p>AL BAKER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

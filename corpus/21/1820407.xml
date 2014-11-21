@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yoon Im, Jamie Kane</title>
+    <meta content="21im" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820407"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Im, Yoon Kyong (Yoon Kyong Kane)</person>
+        <person class="indexing_service">Kane, Dr. Jamie Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE4DB1E30F932A15752C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yoon Im, Jamie Kane</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yoon Kyong Im and Dr. Jamie Andrew Kane were married on Monday evening at the Hotel Punta Islita in Guanacaste, Costa Rica. Marcelo Galli, a lawyer, officiated.</p>
+        <p>Mrs. Kane, 30, is a psychotherapist in Branford and Middlebury, Conn. She graduated from North Carolina State and received a master's degree in social work from the University of North Carolina. She was a fellow of the Yale Bush Center in Child Development and Social Policy.</p>
+      </block>
+      <block class="full_text">
+        <p>Yoon Kyong Im and Dr. Jamie Andrew Kane were married on Monday evening at the Hotel Punta Islita in Guanacaste, Costa Rica. Marcelo Galli, a lawyer, officiated.</p>
+        <p>Mrs. Kane, 30, is a psychotherapist in Branford and Middlebury, Conn. She graduated from North Carolina State and received a master's degree in social work from the University of North Carolina. She was a fellow of the Yale Bush Center in Child Development and Social Policy.</p>
+        <p>She is the daughter of Yong Yi Im and Jae Ho Im of Raleigh, N.C. Her parents are the owners of the Royal Mart, a grocery there.</p>
+        <p>Dr. Kane, 31, practices internal medicine and obesity medicine at the Alliance Medical Group in Middlebury. He graduated from Columbia and received his medical degree from the State University of New York Downstate College of Medicine.</p>
+        <p>He is a son of Carole Kane and Herman Kane of Manhattan. His mother retired as a special education teacher with the New York Board of Education, working with emotionally disturbed children at the New York Foundling Hospital. His father is the founder and president of Kane, Parsons &amp; Associates in Manhattan, which surveys students for colleges, universities and nonprofit organizations.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

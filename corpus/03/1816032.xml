@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SIMPSON, DWIGHT</title>
+    <meta content="dn010307" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816032"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SIMPSON, DWIGHT</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E6DC1E3AF930A35752C0A9619C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SIMPSON, DWIGHT</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SIMPSON--Dwight. Professor Dwight James Simpson, 85, died December 22nd after a brief illness. A specialist in Middle East politics, Professor Simpson earned a BA, MA, and PhD from Stanford University, and a post-doctoral degree from University College, Oxford. Professor Simpson is survived by his wife of 56 years, Harriet, four children, Anthony (54), Charles (52), David (50), and Margaret (47), ten grandchildren, and his sister Mary Pleasanton. Donations in memory of Professor Simpson may be sent to Citizens for East Shore Parks (www.eastshorepark.org).</p>
+      </block>
+      <block class="full_text">
+        <p>SIMPSON--Dwight. Professor Dwight James Simpson, 85, died December 22nd after a brief illness. A specialist in Middle East politics, Professor Simpson earned a BA, MA, and PhD from Stanford University, and a post-doctoral degree from University College, Oxford. Professor Simpson is survived by his wife of 56 years, Harriet, four children, Anthony (54), Charles (52), David (50), and Margaret (47), ten grandchildren, and his sister Mary Pleasanton. Donations in memory of Professor Simpson may be sent to Citizens for East Shore Parks (www.eastshorepark.org).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

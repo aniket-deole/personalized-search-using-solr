@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Show Some Respect For Long Island Wines</title>
+    <meta content="l14island-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818989"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <location class="indexing_service">Long Island (NY)</location>
+        <person class="indexing_service">Suprenant, Adam</person>
+        <person class="indexing_service">Palmer, Robert (Long Island Wine Council)</person>
+        <person class="indexing_service">Bilinski, Jerry</person>
+        <person class="indexing_service">Granik, Lisa</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EFDE1030F937A25752C0A9619C8B63" item-length="502" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Show Some Respect For Long Island Wines</hl1>
+      </hedline>
+      <abstract>
+        <p>Adam Suprenant, Long Island Wine Council president Robert Palmer and Jerry Bilinski letters on Lisa Granik's January 7 Op-Ed article on Long Island wines and vineyards</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I'd like to note my objections to both the premise and substance of ''How to End Long Island's Sour Vintages,'' by Lisa Granik (Op-Ed, Jan. 7).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I'd like to note my objections to both the premise and substance of ''How to End Long Island's Sour Vintages,'' by Lisa Granik (Op-Ed, Jan. 7).</p>
+        <p>There may be other factors such as illness and old age that weigh into an owner's decision to sell a vineyard property. Ms. Granik jumped to the conclusion that because there are a number of properties for sale, then something is rotten with the industry and by extension its winemakers. I strongly disagree.</p>
+        <p>As I start my 10th vintage as a Long Island winemaker, I feel more strongly than ever that our focus should remain on producing high-quality merlot, cabernet franc and Meritage blends with a Long Island identity. Ms. Granik, in fact, was part of a distinguished tasting panel that rated a Long Island producer of merlot nearly equal to that of Château Pétrus, yet she dismisses the region as a great producer of merlot, and ignores Long Island's unique ability to become a world-class producer of cabernet franc.</p>
+        <p>Adam Suprenant  Peconic</p>
+        <p>To the Editor:</p>
+        <p>The Long Island wine industry is certainly not in decline because a few of our wineries are on the market. There are various factors cited by owners of those particular properties -- personal reasons being the most prevalent -- but there is definitely no overall trend to abandon a region so painstakingly developed.</p>
+        <p>Lisa Granik also suggests that Long Island is not producing the styles of wine that are receiving critical and consumer acclaim. In fact, beyond the many accolades received by individual wineries every year, our region is generating significant positive media coverage across the country.</p>
+        <p>Regarding pricing, many of our wines sell for less than $20, and those that are priced higher to reflect more limited production have been found by critics to be of excellent value compared to the competition. Consumers seem to agree as many wineries recorded their highest sales ever in 2006.</p>
+        <p>Finally, the idea that our region should seek a foothold in Manhattan has been an objective from the beginning, resulting in many of our wines being offered in prominent restaurants and wine stores throughout the city.</p>
+        <p>Robert Palmer  President  Long Island Wine Council  Riverhead</p>
+        <p>To the Editor:</p>
+        <p>I am a resident of the North Fork of Long Island, an amateur oenophile and a consumer of our local wines who appreciates the uniqueness of the vintages that many of our local wineries produce. I take issue with Lisa Granik's generalizations about the region and its wines.</p>
+        <p>Contrary to the headline's assertion that Long Island wines are ''sour vintages,'' many of our wineries have won awards for their excellent and diverse product. Our vineyards are the agricultural jewels of the North Fork that not only provide a significant economic impact on the region, but also help to preserve its natural beauty and prevent the development that might otherwise occur. I sincerely hope that they will continue to thrive for generations to come.</p>
+        <p>Jerry Bilinski  Wading River</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

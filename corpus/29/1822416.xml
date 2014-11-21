@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TBWA Declines to Bid For Sprint Nextel Account</title>
+    <meta content="29addes-2" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822416"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">Sprint Nextel</org>
+        <org class="indexing_service">Tbwa/chiat/day</org>
+        <org class="indexing_service">Apple Inc</org>
+        <org class="indexing_service">At&amp;t Inc</org>
+        <person class="indexing_service">Story, Louise</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE3DD143FF93AA15752C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TBWA Declines to Bid For Sprint Nextel Account</hl1>
+      </hedline>
+      <abstract>
+        <p>TBWA/Chiat/Day resigns its part of Sprint Nextel advertising account; declines to participate in review; California branch works with Apple Inc which, is collaborating with Sprint's competitor AT&amp;T (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TBWA/Chiat/Day in New York has resigned its part of the Sprint Nextel creative account by declining an invitation to participate in a review that began Jan. 3.</p>
+        <p>TBWA/Chiat/Day, part of the TBWA Worldwide unit of the Omnicom Group, had created Sprint Nextel campaigns aimed at consumers. The assignment to create campaigns aimed at businesses is handled by Publicis &amp; Hal Riney in San Francisco, part of the Publicis Groupe, which wants to take part in the review. Sprint Nextel spends about $1.5 billion a year on advertising.</p>
+      </block>
+      <block class="full_text">
+        <p>TBWA/Chiat/Day in New York has resigned its part of the Sprint Nextel creative account by declining an invitation to participate in a review that began Jan. 3.</p>
+        <p>TBWA/Chiat/Day, part of the TBWA Worldwide unit of the Omnicom Group, had created Sprint Nextel campaigns aimed at consumers. The assignment to create campaigns aimed at businesses is handled by Publicis &amp; Hal Riney in San Francisco, part of the Publicis Groupe, which wants to take part in the review. Sprint Nextel spends about $1.5 billion a year on advertising.</p>
+        <p>Although Sprint Nextel had been the largest account at the TBWA/Chiat/Day New York office, the agency decided against participating in the review, according to a statement, ''with a clear understanding of Sprint's challenged business situation.'' The TBWA/Chiat/Day office in Playa del Rey, Calif., works with Apple, which is collaborating with a Sprint Nextel competitor, AT&amp;T, on the new iPhone.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

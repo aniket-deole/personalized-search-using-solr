@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Former President Bush Has Right Hip Replaced</title>
+    <meta content="04GHBush--wire" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816400"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4DD1130F937A35752C0A9619C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Former President Bush Has Right Hip Replaced</hl1>
+      </hedline>
+      <byline class="print_byline">By REUTERS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Former President George H.W. Bush, 82, has undergone successful right hip replacement surgery, the Mayo Clinic in Rochester, Minnesota, said Thursday.</p>
+        <p>Bush, a World War Two pilot who skydived to celebrate his 80th birthday in 2004, underwent the surgery early Wednesday and was resting comfortably, the hospital said in a statement on its Web site. It did not say how long he might remain in the hospital.</p>
+      </block>
+      <block class="full_text">
+        <p>Former President George H.W. Bush, 82, has undergone successful right hip replacement surgery, the Mayo Clinic in Rochester, Minnesota, said Thursday.</p>
+        <p>Bush, a World War Two pilot who skydived to celebrate his 80th birthday in 2004, underwent the surgery early Wednesday and was resting comfortably, the hospital said in a statement on its Web site. It did not say how long he might remain in the hospital.</p>
+        <p>Bush, father of the current president, eulogized former President Gerald Ford in Washington's National Cathedral Tuesday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

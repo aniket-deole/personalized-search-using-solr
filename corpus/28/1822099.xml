@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Lovely Parting Gift For Her Ex-Employer</title>
+    <meta content="28suits-1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822099"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">Wal-Mart Stores Inc</org>
+        <person class="indexing_service">Roehm, Julie</person>
+        <person class="indexing_service">Elliot, Stuart</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DA173FF93BA15752C0A9619C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Lovely Parting Gift For Her Ex-Employer</hl1>
+      </hedline>
+      <byline class="print_byline">By STUART ELLIOTT</byline>
+      <byline class="normalized_byline">Elliot, Stuart</byline>
+      <abstract>
+        <p>Wal-Mart's former top advertising executive Julie Roehm says she wants to move to 'town that doesn't end in ville' when asked at public appearance if she would consider moving now that she no longer works for retailer (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In her first public appearance since her well-publicized firing as Wal-Mart's top advertising executive, Julie Roehm resurfaced at the Reuters Newsmakers panel discussion on Super Bowl advertising in Times Square on Wednesday, and she quickly demonstrated that she had lost none of her ability to deliver pithy, quotable remarks.</p>
+        <p>Asked where she is considering moving now that she no longer works for Wal-Mart, Ms. Roehm replied, smiling, ''In a town that doesn't end in 'ville,' '' a sly reference to the rural home of her former employer, Bentonville, Ark.</p>
+      </block>
+      <block class="full_text">
+        <p>In her first public appearance since her well-publicized firing as Wal-Mart's top advertising executive, Julie Roehm resurfaced at the Reuters Newsmakers panel discussion on Super Bowl advertising in Times Square on Wednesday, and she quickly demonstrated that she had lost none of her ability to deliver pithy, quotable remarks.</p>
+        <p>Asked where she is considering moving now that she no longer works for Wal-Mart, Ms. Roehm replied, smiling, ''In a town that doesn't end in 'ville,' '' a sly reference to the rural home of her former employer, Bentonville, Ark.</p>
+        <p>Ms. Roehm made no mention that she had filed a lawsuit last month against Wal-Mart, accusing it of breach of contract and fraud in connection with her dismissal. Wal-Mart, in court papers filed in response on Jan. 18, denied her accusations.</p>
+        <p>STUART ELLIOTT</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

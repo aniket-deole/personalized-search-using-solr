@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At Last, Red Sox Will Sign Drew</title>
+    <meta content="26drew" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821505"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">Boston Red Sox</org>
+        <person class="indexing_service">Drew, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Boston Red Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EEDF173FF935A15752C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At Last, Red Sox Will Sign Drew</hl1>
+      </hedline>
+      <abstract>
+        <p>Boston Red Sox sign J D Drew to five-year, $70 million contract (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Boston Red Sox and outfielder J. D. Drew have resolved issues surrounding his five-year, $70 million contract, and Drew's signing is expected today, The Boston Globe reported yesterday.</p>
+        <p>More than seven weeks after Drew's agent, Scott Boras, announced that Drew had reached a contract agreement with Boston, the Red Sox have gained the ability to void up to the final two years of the contract should a pre-existing condition in Drew's shoulder force him to go on the disabled list, according to The Globe.</p>
+      </block>
+      <block class="full_text">
+        <p>The Boston Red Sox and outfielder J. D. Drew have resolved issues surrounding his five-year, $70 million contract, and Drew's signing is expected today, The Boston Globe reported yesterday.</p>
+        <p>More than seven weeks after Drew's agent, Scott Boras, announced that Drew had reached a contract agreement with Boston, the Red Sox have gained the ability to void up to the final two years of the contract should a pre-existing condition in Drew's shoulder force him to go on the disabled list, according to The Globe.</p>
+        <p>The newspaper said that Red Sox doctors detected potential indicators that Drew could develop shoulder problems in three to five years. Drew had shoulder surgery while with the Los Angeles Dodgers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

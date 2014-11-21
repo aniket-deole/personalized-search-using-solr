@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Memorials   VERRILL, JEAN</title>
+    <meta content="dn012707" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821699"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">VERRILL, JEAN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Memorial Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05EFD81F3AF934A15752C0A9619C8B63" item-length="31" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Memorials   VERRILL, JEAN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>VERRILL--Jean. Ooh, how we miss you, think of you everyday. You are the sweetest, smartest girl, wife, mother &amp; grandma. We love you. Glenn, Gary, Sergei, Joan, Kari and Kris.</p>
+      </block>
+      <block class="full_text">
+        <p>VERRILL--Jean. Ooh, how we miss you, think of you everyday. You are the sweetest, smartest girl, wife, mother &amp; grandma. We love you. Glenn, Gary, Sergei, Joan, Kari and Kris.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

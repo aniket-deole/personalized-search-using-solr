@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nicotine Manipulation Confirmed</title>
+    <meta content="23tue3" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/opinion/23tue3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820878"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Nicotine</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <location class="indexing_service">Massachusetts</location>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <org class="indexing_service">Harvard University</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Harvard School of Public Health</org>
+        <org class="online_producer">Harvard University</org>
+        <org class="online_producer">Food and Drug Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E1D91F30F930A15752C0A9619C8B63" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nicotine Manipulation Confirmed</hl1>
+        <hl2 class="online_headline">Nicotine Manipulation Confirmed</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Harvard researchers have confirmed 2006 Massachusetts Dept of Public Health finding that tobacco companies have surreptitiously raised nicotine content of cigarettes by 11 percent; calls on Congress to grant Food and Drug Adm authority to regulate tobacco products</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Any doubts that the tobacco industry has surreptitiously raised the nicotine content of cigarettes should be laid to rest by a study from researchers at the Harvard School of Public Health. They confirmed last year's discovery of the nicotine increase by the Massachusetts Department of Public Health and went on to identify how the tobacco companies designed their cigarettes to accomplish this.</p>
+        <p>These manipulations were discovered because Massachusetts requires manufacturers to use a more realistic test to measure how much nicotine is deliverable to typical smokers and requires companies to report design features of their cigarettes. When Harvard researchers reanalyzed the data they found that the nicotine yield per cigarette rose by an average of 11 percent between 1998 and 2005, a conclusion contested by the industry.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Any doubts that the tobacco industry has surreptitiously raised the nicotine content of cigarettes should be laid to rest by a study from researchers at the Harvard School of Public Health.</p>
+      </block>
+      <block class="full_text">
+        <p>Any doubts that the tobacco industry has surreptitiously raised the nicotine content of cigarettes should be laid to rest by a study from researchers at the Harvard School of Public Health. They confirmed last year's discovery of the nicotine increase by the Massachusetts Department of Public Health and went on to identify how the tobacco companies designed their cigarettes to accomplish this.</p>
+        <p>These manipulations were discovered because Massachusetts requires manufacturers to use a more realistic test to measure how much nicotine is deliverable to typical smokers and requires companies to report design features of their cigarettes. When Harvard researchers reanalyzed the data they found that the nicotine yield per cigarette rose by an average of 11 percent between 1998 and 2005, a conclusion contested by the industry.</p>
+        <p>Harvard researchers concluded that the companies managed this by using tobacco containing a higher concentration of nicotine and perhaps also by slowing the rate at which cigarettes burned -- thus increasing the number of puffs per cigarette. The companies presumably hoped that additional nicotine would hook more new customers and keep old ones from breaking the habit.</p>
+        <p>Their continued bad behavior makes it imperative for Congress to grant the Food and Drug Administration the authority to regulate tobacco products, including the power to reduce nicotine levels and demand extensive data from the companies. The Senate overwhelmingly approved such legislation in 2004, only to have House Republicans block it. With new Democratic majorities in both houses, it is time to rein in this rogue industry.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

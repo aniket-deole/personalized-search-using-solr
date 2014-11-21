@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Asia: Kazakhstan: Prime Minister Steps Down</title>
+    <meta content="09briefs-3" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817647"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <location class="indexing_service">Kazakhstan</location>
+        <person class="indexing_service">Greenberg, Ilan</person>
+        <person class="indexing_service">Akhmetov, Danial (Prime Min)</person>
+        <person class="indexing_service">Nazarbayev, Nursultan A (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Kazakhstan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4D61530F93AA35752C0A9619C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Asia: Kazakhstan: Prime Minister Steps Down</hl1>
+      </hedline>
+      <byline class="print_byline">By ILAN GREENBERG</byline>
+      <byline class="normalized_byline">Greenberg, Ilan</byline>
+      <abstract>
+        <p>Prime Minister Daniyal Akhmetov of Kazakhstan, influential ally of powerful president Nursultan A Mazarbayev, has resigned (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Prime Minister Daniyal Akhmetov resigned. Long considered an influential ally of the powerful president, Nursultan A. Nazarbayev, who appointed him to the post in 2003, Mr. Akhmetov has lately come under public criticism from Mr. Nazarbayev for poor oversight of the economy. Mr. Nazarbayev, who has been Kazakhstan's president since its inception as an oil-rich independent state in 1991, is known for frequently replacing members of his cabinet.</p>
+        <p>ILAN GREENBERG</p>
+      </block>
+      <block class="full_text">
+        <p>Prime Minister Daniyal Akhmetov resigned. Long considered an influential ally of the powerful president, Nursultan A. Nazarbayev, who appointed him to the post in 2003, Mr. Akhmetov has lately come under public criticism from Mr. Nazarbayev for poor oversight of the economy. Mr. Nazarbayev, who has been Kazakhstan's president since its inception as an oil-rich independent state in 1991, is known for frequently replacing members of his cabinet.</p>
+        <p>ILAN GREENBERG</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

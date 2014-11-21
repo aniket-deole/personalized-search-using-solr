@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Strong Earnings Have Stocks Sizzling</title>
+    <meta content="14data" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/business/yourmoney/14data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818853"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DataBank"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <person class="indexing_service">Sommer, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE6DA1330F937A25752C0A9619C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Strong Earnings Have Stocks Sizzling</hl1>
+        <hl2 class="online_headline">Strong Earnings Have Stocks Sizzling</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+      <abstract>
+        <p>Round up of past week's stock market results; graphs (S)a</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market turned in its best performance in months last week, with all three major indexes posting substantial gains.</p>
+        <p>The Dow Jones industrial average closed on Friday at a record high, while the Standard &amp; Poor's 500-stock index had its highest close since November 2000. For the Nasdaq composite index, Friday's close was the highest since February 2001.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The stock market turned in its best performance in months last week, with all three major indexes posting substantial gains.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market turned in its best performance in months last week, with all three major indexes posting substantial gains.</p>
+        <p>The Dow Jones industrial average closed on Friday at a record high, while the Standard &amp; Poor's 500-stock index had its highest close since November 2000. For the Nasdaq composite index, Friday's close was the highest since February 2001.</p>
+        <p>Strong earnings and economic reports buoyed the market. The Commerce Department said on Friday that retail sales climbed 0.9 percent in December. That was more than Wall Street had expected.</p>
+        <p>Alcoa, the big aluminum maker, gained 7.1 percent for the week, the best performance among the Dow industrials. It said on Tuesday that its profit in the fourth quarter jumped 60 percent from the year-earlier period.</p>
+        <p>For the week, the Dow rose 158.07 points, or 1.3 percent, to close at 12,556.08. The S.&amp; P. 500 climbed 21.02 points, or 1.5 percent, to close at 1,430.73. The Nasdaq composite index jumped 68.57 points, or 2.8 percent, to close at 2,502.82.</p>
+        <p>The yield on the benchmark 10-year Treasury bond jumped to 4.77 percent from 4.64 percent the previous week.</p>
+        <p>JEFF SOMMER</p>
+        <p>DataBank</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

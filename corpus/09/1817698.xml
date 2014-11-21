@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emily Oster's Research on AIDS</title>
+    <meta content="10leonhardt-links" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817698"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Sidebar</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E0DD1130F93AA35752C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emily Oster's Research on AIDS</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID LEONHARDT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In her research on AIDS, Emily Oster has come up with three main conclusions:</p>
+        <p>One, as I described in this week's column, is that better-off, healthy Africans practice safer sex more than they once did -- much as Americans do. But poorer Africans, who have much shorter average lifespans even if they don't contract HIV, have not made as many changes.</p>
+      </block>
+      <block class="full_text">
+        <p>In her research on AIDS, Emily Oster has come up with three main conclusions:</p>
+        <p>One, as I described in this week's column, is that better-off, healthy Africans practice safer sex more than they once did -- much as Americans do. But poorer Africans, who have much shorter average lifespans even if they don't contract HIV, have not made as many changes.</p>
+        <p>Two -- and arguably most important to the spread of the disease -- other sexually transmitted diseases, like herpes, are far more common in Africa, and they ease the transmission of HIV. Medical researchers have long known that other diseases played an important role, but Ms. Oster thinks the role is even larger than many people have realized.</p>
+        <p>Three, the officials estimates on the number of AIDS cases are seriously exaggerated, perhaps by a factor of two or three, she says. But the estimates have been getting more accurate over time, which means that number of cases is actually growing more quickly than the official statistics suggest.</p>
+        <p>Ms. Oster summarized the work herself in a recent article in Esquire magazine. She has also posted her research papers (here, here and here) on her Web site.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

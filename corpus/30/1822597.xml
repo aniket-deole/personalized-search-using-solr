@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A League of Their Own</title>
+    <meta content="30viorst" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/opinion/30viorst.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070208T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1822597"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">Iran</location>
+        <location class="indexing_service">Syria</location>
+        <org class="indexing_service">Arab League</org>
+        <person class="indexing_service">Viorst, Milton</person>
+        <person class="indexing_service">Maliki, Nuri Kamal Al- (Prime Min)</person>
+        <person class="indexing_service">Talabani, Jalal (Pres)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Lebanon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Syria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Syria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Lebanon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="descriptor">Shiite Muslims</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="descriptor">Palestinians</classifier>
+        <classifier class="online_producer" type="descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shiite Muslims</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Middle East</location>
+        <location class="online_producer">Lebanon</location>
+        <org class="online_producer">Arab League</org>
+        <person class="online_producer">Viorst, Milton</person>
+        <person class="online_producer">Siniora, Fouad</person>
+        <person class="online_producer">Maliki, Nuri Kamal al-</person>
+        <person class="online_producer">Talabani, Jalal</person>
+        <person class="online_producer">Moussa, Amr</person>
+        <person class="online_producer">Sadr, Moktada Al-</person>
+        <person class="online_producer">Sistani, Ali Al-</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E1D9143FF933A05752C0A9619C8B63" item-length="601" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A League of Their Own</hl1>
+        <hl2 class="online_headline">A League of Their Own</hl2>
+      </hedline>
+      <byline class="print_byline">By Milton Viorst</byline>
+      <byline class="normalized_byline">Viorst, Milton</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Op-Ed article by Milton Viorst says Arab League has deep interest in keeping Iraq in Arab sphere, free of Iranian domination; says it is curious that Iraq Study Group suggested greater diplomatic role for Syria and Iran, two countries that have interest in Iraq's instability; says Arab League can count on level of trust, even among suspicious Iraqis, not available to US or its Western allies; notes Arab League's Baghdad offices are recongized by Shiite government of Prime Min Nuri Kamal al-Maliki, and Pres Jalal Talabani, a Kurd, has strongly supported Iraq's involvement with Arab League; says Arab League cannot offer miracles, but with invitation from Pres Biush, it could immediately get to work at mediating conflict; calls this most promising option (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PRESIDENT BUSH seems not to have noticed, but what stands between hostile sectarian forces and the resumption of all-out civil war in Lebanon is the Arab League, whose diplomacy 17 years ago put an end to a conflict in which tens of thousands of Lebanese died. Is there not a lesson here, for the president and the Democratic Congress, that is applicable to Iraq?</p>
+        <p>The Beirut face-off is the follow-up to last summer's war, in which Hezbollah, the Shiite party supported by Syria and Iran, held off the more powerful Israelis long enough to achieve a United Nations cease-fire on favorable terms. Now Hezbollah challenges the government of Prime Minister Fouad Siniora, which is supported by the bulk of Lebanon's Sunni, Christian and Druse population, as well as the United States.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What stands between hostile sectarian forces and the resumption of all-out civil war in Lebanon is the Arab League.</p>
+      </block>
+      <block class="full_text">
+        <p>PRESIDENT BUSH seems not to have noticed, but what stands between hostile sectarian forces and the resumption of all-out civil war in Lebanon is the Arab League, whose diplomacy 17 years ago put an end to a conflict in which tens of thousands of Lebanese died. Is there not a lesson here, for the president and the Democratic Congress, that is applicable to Iraq?</p>
+        <p>The Beirut face-off is the follow-up to last summer's war, in which Hezbollah, the Shiite party supported by Syria and Iran, held off the more powerful Israelis long enough to achieve a United Nations cease-fire on favorable terms. Now Hezbollah challenges the government of Prime Minister Fouad Siniora, which is supported by the bulk of Lebanon's Sunni, Christian and Druse population, as well as the United States.</p>
+        <p>Hezbollah seeks to upset the fragile balance to which Lebanon's sectarian forces agreed in 1989 under Arab League mediation. At that time, the Arab League's goal was to prevent the chaos in Lebanon from spreading to the wider Arab world. That remains the league's goal today, both in Lebanon and in Iraq. But it also has another concern: with Tehran's regional power rising, the Arab League has a deep interest in keeping both countries in the Arab sphere, free of Iranian domination.</p>
+        <p>The United States finds itself increasingly unable to stem the violence in Iraq, and it seems unlikely that a surge of troops will strengthen American influence. American negotiators have not won the confidence of Sunnis or Shiites, the principal combatants, nor even of Kurds, the uneasy bystanders. Mr. Bush may still consider himself a liberator, but among Iraqis there is a widespread feeling that his invasion was just the latest crime of Western imperialism.</p>
+        <p>Curiously, the Iraq Study Group, in acknowledging Iraqi distrust of the United States, suggested a greater diplomatic role for Syria and Iran, the very countries that have an interest in Iraq's instability. Though better relations with these two countries might be in Washington's long-term interest, they are surely not going to help matters in Iraq.</p>
+        <p>That's where the Arab League comes in. Because it is Arab, it can count on a level of trust, even among suspicious Iraqis, not available to the United States or its Western allies.</p>
+        <p>Critics argue that the Arab League, being heavily Sunni, can have no influence on Iraq's Shiites. They forget that the bulk of the Iraqi Army that defeated Iran in the 1980-88 war was Shiite. This fact alone tells us that Iraqi Shiites, much as they want to be rid of the American occupation, are not ready to become Iranian. The Arab League can work from this premise to restore Iraq's stability. The United States cannot.</p>
+        <p>The Arab League's Baghdad offices are recognized by the Shiite government of Prime Minister Nuri Kamal al-Maliki. President Jalal Talabani, a Kurd, has strongly supported Iraq's involvement with the Arab League. Amr Moussa, the Arab League's secretary general, has had an open door not just to Iraqi officials but also to Moktada al-Sadr, the radical Shiite leader, and to Ayatollah Ali al-Sistani, the country's most powerful cleric, who has never received an American official. The Iraqi foreign minister, a Kurd, has participated regularly in Arab League meetings.</p>
+        <p>To be sure, the Arab League cannot offer miracles. The situation in Iraq has deteriorated much too far for that. But with an invitation from the American president, it could immediately get to work at mediating the conflict.</p>
+        <p>If the objective is political stability and national reconciliation in Iraq, neither President Bush nor the Democratic Congress has a more promising option.</p>
+        <p>Op-Ed Contributor Milton Viorst is the author of ''Storm from the East: The Conflict Between the Arab World and the Christian West.''</p>
+        <p>Correction:  February 8, 2007, Thursday  An Op-Ed article on Jan. 30, about the Arab League, misstated the subtitle of a book by the writer, Milton Viorst. The book is ''Storm From the East: The Struggle Between the Arab World and the Christian West,'' not ''The Conflict Between the Arab World and the Christian West.''</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 8, 2007, Thursday</p>
+        <p>An Op-Ed article on Jan. 30, about the Arab League, misstated the subtitle of a book by the writer, Milton Viorst. The book is ''Storm From the East: The Struggle Between the Arab World and the Christian West,'' not ''The Conflict Between the Arab World and the Christian West.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Milton Viorst is the author of ''Storm from the East: The Conflict Between the Arab World and the Christian West.''</tagline>
+    </body.end>
+  </body>
+</nitf>

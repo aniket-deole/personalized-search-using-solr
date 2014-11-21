@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Katherine Murray-Vergata, Clifford Cohn</title>
+    <meta content="14murray" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818804"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Murray-Vergata, Katherine (Katherine Cohn)</person>
+        <person class="indexing_service">Cohn, Clifford David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E4DB1330F937A25752C0A9619C8B63" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Katherine Murray-Vergata, Clifford Cohn</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Katherine Murray-Vergata, the daughter of Patricia Murray of Brooklyn and the late Frank Vergata, is to be married in Manhattan this evening to Clifford David Cohn, a son of Joan Cohn and Dr. Peter F. Cohn of Lloyd Harbor, N.Y. Rabbi Alan Rabishaw, a cousin of the bridegroom, is to officiate at the Ritz-Carlton at Battery Park.</p>
+        <p>The bride, 28, is the director of marketing and publicity in Manhattan at Fairfax &amp; Sammons, an architecture firm with offices in Manhattan and Palm Beach, Fla. She graduated from the University of Massachusetts.</p>
+      </block>
+      <block class="full_text">
+        <p>Katherine Murray-Vergata, the daughter of Patricia Murray of Brooklyn and the late Frank Vergata, is to be married in Manhattan this evening to Clifford David Cohn, a son of Joan Cohn and Dr. Peter F. Cohn of Lloyd Harbor, N.Y. Rabbi Alan Rabishaw, a cousin of the bridegroom, is to officiate at the Ritz-Carlton at Battery Park.</p>
+        <p>The bride, 28, is the director of marketing and publicity in Manhattan at Fairfax &amp; Sammons, an architecture firm with offices in Manhattan and Palm Beach, Fla. She graduated from the University of Massachusetts.</p>
+        <p>Her mother is a senior lawyer specializing in housing law at Brooklyn Legal Services, part of a citywide network of legal aid agencies for the indigent. Her father, a criminal defense lawyer, worked for the Nassau County Legal Aid Society and later practiced in Mineola, N.Y.</p>
+        <p>The bridegroom, 31, is a vice president and an assistant general counsel at Jefferies &amp; Company, the principal operating subsidiary of the Jefferies Group, a Manhattan investment firm. He graduated from the University of Pennsylvania and received a law degree from Georgetown.</p>
+        <p>His mother is a psychotherapist in Manhattan and an assistant professor of medicine and of community medicine at Mount Sinai School of Medicine. His father, a cardiologist, is a professor of medicine at the State University of New York Health Sciences Center at Stony Brook, where he was the chief of cardiology from 1981 to 2003.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

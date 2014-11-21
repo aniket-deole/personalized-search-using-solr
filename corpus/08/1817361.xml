@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Conrad Black Twits an Author, Then Makes News by Apologizing</title>
+    <meta content="08black" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/business/08black.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817361"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <org class="indexing_service">Hollinger International</org>
+        <org class="indexing_service">Literary Review of Canada</org>
+        <org class="indexing_service">Toronto Star (Newspaper)</org>
+        <person class="indexing_service">Black, Conrad M</person>
+        <person class="indexing_service">Macmillan, Margaret</person>
+        <person class="indexing_service">Mason, Christopher</person>
+        <object.title class="indexing_service">Nixon in China: The Week That Changed the World (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">Hollinger International Incorporated</org>
+        <person class="online_producer">Black, Conrad M</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EFDC1530F93BA35752C0A9619C8B63" item-length="378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Conrad Black Twits an Author, Then Makes News by Apologizing</hl1>
+        <hl2 class="online_headline">Conrad Black Twits an Author, Then Makes News by Apologizing</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRISTOPHER MASON</byline>
+      <byline class="normalized_byline">Mason, Christopher</byline>
+      <dateline>TORONTO, Jan. 7</dateline>
+      <abstract>
+        <p>Conrad B</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Conrad M. Black, the former chairman of Hollinger International, has been relatively quiet lately as he awaits his trial this spring on fraud and racketeering charges in Chicago. But a literary spat and apology to the author of a book he reviewed critically put him back in the gossip pages last week.</p>
+        <p>Mr. Black was chosen to review ''Nixon in China: The Week That Changed the World,'' by Margaret MacMillan, a historian at the University of Toronto in part because he is himself writing a biography of the former president; he has also published biographies of Franklin D. Roosevelt and Maurice Duplessis, a former premier of Quebec. (Ms. MacMillan's book is being published in the United States under the title ''Nixon and Mao: The Week That Changed the World,'' and as ''Seize the Hour: When Nixon Met Mao'' in Britain).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A literary spat and apology to the author of a book he reviewed critically has put Conrad M. Black back in the gossip pages.</p>
+      </block>
+      <block class="full_text">
+        <p>Conrad M. Black, the former chairman of Hollinger International, has been relatively quiet lately as he awaits his trial this spring on fraud and racketeering charges in Chicago. But a literary spat and apology to the author of a book he reviewed critically put him back in the gossip pages last week.</p>
+        <p>Mr. Black was chosen to review ''Nixon in China: The Week That Changed the World,'' by Margaret MacMillan, a historian at the University of Toronto in part because he is himself writing a biography of the former president; he has also published biographies of Franklin D. Roosevelt and Maurice Duplessis, a former premier of Quebec. (Ms. MacMillan's book is being published in the United States under the title ''Nixon and Mao: The Week That Changed the World,'' and as ''Seize the Hour: When Nixon Met Mao'' in Britain).</p>
+        <p>In the review, which appeared in the Literary Review of Canada, Mr. Black wrote, ''she would have to write something unrelievedly terrible before I could bring myself to write anything negative about it.'' But after some praise, he suggested the book contained factual errors, insufficient research and is poorly structured. ''I had some reservations about the book and tried to present a fair review,'' he said in a telephone interview.</p>
+        <p>Then Mr. Black had second thoughts. He wrote a letter of apology that is scheduled to appear in the March issue of the Literary Review, saying in part, ''the tenor of part of my review was one of inadvertent condescension. That is entirely inappropriate and was unintentional, but I apologize for the slightly patronizing tone of several sentences.''</p>
+        <p>Mr. Black said the issue should have ended there, but the story was picked up by The Toronto Star, in part because he and Ms. MacMillan are friends. ''An incidence of civility and a soberly worded and rather succinct apology among friends is not, in and of itself, something I expected to become an issue,'' he said.</p>
+        <p>Mr. Black also rankled at the suggestion in the Star column that he normally avoids apologizing at all costs. ''It doesn't embarrass me to apologize to someone,'' he said. ''Just because I do not apologize every day of my life does not mean I am averse to apologizing.''</p>
+        <p>CHRISTOPHER MASON</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

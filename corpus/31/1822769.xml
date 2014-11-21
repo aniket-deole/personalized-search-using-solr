@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Small Schools To Be Added By September</title>
+    <meta content="31schools" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/31/nyregion/31schools.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822769"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Dropouts</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Herszenhorn, David M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Education Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EED6143FF932A05752C0A9619C8B63" item-length="471" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Small Schools To Be Added By September</hl1>
+        <hl2 class="online_headline">Small Schools to Be Added by September</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID M. HERSZENHORN</byline>
+      <byline class="normalized_byline">Herszenhorn, David M</byline>
+      <abstract>
+        <p>New York City will open 20 small secondary schools in Sept 2007, including five schools for students at serious risk of dropping out; holds off on announcing in which existing schools smaller schools will be placed until they have engaged community in discussion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The city Education Department yesterday announced that it would open 20 small secondary schools in September, including five schools for students at serious risk of dropping out. But the department, which has struggled to find sites for new schools, did not announce the locations for 10 of them.</p>
+        <p>Garth Harries, the chief executive of the department's Office of New Schools, said in an interview that locations had been selected inside existing school buildings for 9 of the 10 schools. But he said that officials were holding off on making those locations public while they negotiated with the schools that will have to share space with the new ones.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The city Education Department announced that it would open 20 small secondary schools in September, including five schools for students at serious risk of dropping out.</p>
+      </block>
+      <block class="full_text">
+        <p>The city Education Department yesterday announced that it would open 20 small secondary schools in September, including five schools for students at serious risk of dropping out. But the department, which has struggled to find sites for new schools, did not announce the locations for 10 of them.</p>
+        <p>Garth Harries, the chief executive of the department's Office of New Schools, said in an interview that locations had been selected inside existing school buildings for 9 of the 10 schools. But he said that officials were holding off on making those locations public while they negotiated with the schools that will have to share space with the new ones.</p>
+        <p>''We are essentially trying to ensure that we are more deeply engaged with the local communities where these schools happen,'' Mr. Harries said. In previous years, the department in some cases encountered stiff opposition to the creation of new schools in shared space.</p>
+        <p>Mayor Michael R. Bloomberg has made small schools a centerpiece of his efforts to raise the city's on-time graduation rate. The new schools scheduled to open in September will bring the number of such schools created during his administration to more than 200.</p>
+        <p>''The schools we've created offer students personalized attention, academic rigor, and community support,'' Mr. Bloomberg said in a statement issued yesterday afternoon.</p>
+        <p>This year, the city timed its new schools announcement to coincide with a report by WestEd, a nonprofit education-research firm, showing that the initial group of new small schools has achieved far higher four-year graduation rates than the large, failing schools that they will replace.</p>
+        <p>The study was financed by the Bill and Melinda Gates Foundation, which has given more than $100 million to provide startup grants for small schools in New York. According to the report, 14 schools that opened in 2002 had a preliminary average graduation rate of 79 percent. The graduation rates for individual schools ranged from the citywide average of 58 percent to 96 percent.</p>
+        <p>The report noted that two schools had selected their incoming students, suggesting that those students may have had better academic records.</p>
+        <p>In previous years, most of the small schools were located in the Bronx and Manhattan. This year, 13 will be in Brooklyn, eight of them in three, large failing schools that are being closed. Four will be in the Bronx, two in Manhattan and one in Queens.</p>
+        <p>The schools include nine high schools, six schools for Grades 6 to 12, and five so-called transfer schools for students who have dropped out of traditional schools or are at serious risk of doing so.</p>
+        <p>One of those transfer schools will be named after Jill Chaifetz, the longtime director of Advocates for Children, a nonprofit legal services group that worked on behalf of needy public school students. Ms. Chaifetz died of cancer last year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GEORGE SPROTT (1894-1975) BY SETH</title>
+    <meta content="21funny-cartoon" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820224"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE FUNNY PAGES: I: THE STRIP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dating and Courtship</classifier>
+        <classifier class="indexing_service" type="descriptor">Spanish Language</classifier>
+        <person class="indexing_service">Colton, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Series</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Spanish Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3DB1030F932A15752C0A9619C8B63" item-length="2" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GEORGE SPROTT (1894-1975) BY SETH</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Colton on misunderstanding that arose when he used his basic command of Spanish to ask his girlfriend's father, an Uruguayan-American with no English, for permission to marry her; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chapter 15</p>
+      </block>
+      <block class="full_text">
+        <p>Chapter 15  THE FUNNY PAGES: I: THE STRIP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Compassionate Chic</title>
+    <meta content="l16vegan" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819260"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Vegetarianism</classifier>
+        <person class="indexing_service">McAfee, Kat</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vegetarianism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3D91030F935A25752C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Compassionate Chic</hl1>
+      </hedline>
+      <abstract>
+        <p>Kat McAfee letter welcomes advent of vegan-friendly fashions (Jan 11 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Uncruel Beauty'' (Thursday Styles, Jan. 11), about vegan-friendly fashion: Not only is it chic to wear fashion that has some conscience and imagination to it, but there also is a marvelous inner feeling of knowing that one is not using one's clothing to wage a war on nature.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Uncruel Beauty'' (Thursday Styles, Jan. 11), about vegan-friendly fashion: Not only is it chic to wear fashion that has some conscience and imagination to it, but there also is a marvelous inner feeling of knowing that one is not using one's clothing to wage a war on nature.</p>
+        <p>Some day it will be the ultimate in chic to be a compassionate consumer. Those who continue to abuse every animal and natural resource for their own pleasures will come to represent the ugly.</p>
+        <p>Kat McAfee  Princeton, N.J., Jan. 12, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

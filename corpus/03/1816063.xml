@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brown, Slice, Brown, Sauce</title>
+    <meta content="03mini" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816063"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MINIMALIST"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="indexing_service" type="descriptor">Recipes</classifier>
+        <classifier class="indexing_service" type="descriptor">Meat</classifier>
+        <person class="indexing_service">Bittman, Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/The Minimalist</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Recipes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recipes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E0DE1730F930A35752C0A9619C8B63" item-length="500" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brown, Slice, Brown, Sauce</hl1>
+      </hedline>
+      <byline class="print_byline">By Mark Bittman</byline>
+      <byline class="normalized_byline">Bittman, Mark</byline>
+      <abstract>
+        <p>Mark Bittman The Minimalist column offers recipe for twice-cooked port tenderloin (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PORK tenderloin, like its relative the beef tenderloin (sometimes called filet mignon), is among the leanest cuts of meat. Its versatility, ease of cooking and eating -- there are no bones and essentially no fat -- and relatively low price have made it popular.</p>
+        <p>But the lack of fat means a lack of flavor. It also means that if you cook the meat to well-done, as one typically does with pork, it tends to dry out.</p>
+      </block>
+      <block class="full_text">
+        <p>PORK tenderloin, like its relative the beef tenderloin (sometimes called filet mignon), is among the leanest cuts of meat. Its versatility, ease of cooking and eating -- there are no bones and essentially no fat -- and relatively low price have made it popular.</p>
+        <p>But the lack of fat means a lack of flavor. It also means that if you cook the meat to well-done, as one typically does with pork, it tends to dry out.</p>
+        <p>There are a number of ways to cope with these challenges, including wrapping medallions in bacon and roasting the whole tenderloin in a flavorful coating. But a friend has come up with a new one.</p>
+        <p>In a Paris bistro he was served medallions that had been broiled and then sauced. They were good, he reported, but the unbrowned sides were unattractive.</p>
+        <p>''I thought that if I cooked the entire cut and got it crisp on the outside, then cut the meat into steaks and browned them on their 'faces,' I'd get even better results,'' he said. ''And indeed mine were much better.''</p>
+        <p>To follow his lead: Brown the whole tenderloin (usually about the right amount for four people). Let it rest for a few minutes, so the meat firms up a bit. Then slice the tenderloin into medallions, about an inch thick. Brown the slices on both sides and build a sauce in the pan.</p>
+        <p>I've chosen a simple French-style cream reduction, but you can take the sauce in any direction you like. The relatively bland flavor of the meat will take to almost anything.</p>
+        <p>Twice-Cooked Pork Tenderloin  Time: 25 minutes</p>
+        <p>1 boneless pork tenderloin, about 1 pound  Salt and freshly ground black pepper  4 tablespoons butter, extra virgin olive oil, or a combination</p>
+        <p>1/4 cup cream  1 tablespoon Dijon mustard, lemon juice or Calvados, optional  Chopped fresh parsley leaves for garnish, optional.</p>
+        <p>1.  Sprinkle meat with salt and pepper. Put a large skillet over medium-high heat; a minute later add 2 tablespoons butter and/or oil. When butter foam subsides or oil dimples, add meat (curve it into skillet if necessary). Brown it well on all sides, for a total of 4 to 6 minutes. Turn off heat, remove meat from pan, and let it sit on a board. When skillet has cooled a bit, proceed.  2.  Cut meat into inch-thick slices. Once again turn heat to medium-high, add remaining butter and/or oil and, when it's hot, add pork slices to pan. Brown on each side, about 2 or 3 minutes each. Turn heat to low and remove meat to a warm platter.  3.  Add  1/2 cup water to pan, turn heat to high, and cook, stirring and scraping, for a minute. Lower heat slightly, add cream and cook until slightly thickened. Stir in mustard, lemon juice or Calvados, if you're using them, then taste and adjust seasoning. Serve meat with sauce spooned on top, garnished, if you like, with parsley.</p>
+        <p>Yield: 4 servings.</p>
+        <p>THE MINIMALIST</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

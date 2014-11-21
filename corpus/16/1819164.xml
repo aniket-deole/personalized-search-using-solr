@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   RAICER, JULIUS B.</title>
+    <meta content="dn011607" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819164"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">RAICER, JULIUS B.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E6DE1F3AF935A25752C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   RAICER, JULIUS B.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RAICER--Julius B., 87. Beloved husband, father, grandfather, friend and colleague, Julius died peacefully at his home in Morristown, NJ on January 9, 2007, surrounded by family. Julius was a WWII Veteran, President of Dover Furniture, partner in Whippany Manor, and active in commercial real estate development. Julius is survived by sons Robert and Alan, daughter Leslie, and grandchildren, Mei-An, Geoffrey, and Alex. His wife of 56 years, Helen DeLello Raicer, died in 2002. In lieu of flowers, donations may be made to the Julius B. Raicer Memorial Fund, c/o Leslie Raicer, 13 Atilda Ave., Dobbs Ferry, NY 10522</p>
+      </block>
+      <block class="full_text">
+        <p>RAICER--Julius B., 87. Beloved husband, father, grandfather, friend and colleague, Julius died peacefully at his home in Morristown, NJ on January 9, 2007, surrounded by family. Julius was a WWII Veteran, President of Dover Furniture, partner in Whippany Manor, and active in commercial real estate development. Julius is survived by sons Robert and Alan, daughter Leslie, and grandchildren, Mei-An, Geoffrey, and Alex. His wife of 56 years, Helen DeLello Raicer, died in 2002. In lieu of flowers, donations may be made to the Julius B. Raicer Memorial Fund, c/o Leslie Raicer, 13 Atilda Ave., Dobbs Ferry, NY 10522</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   CROSS, HENRY B. (HANK), JR.</title>
+    <meta content="dn011407.1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818528"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">CROSS, HENRY B. (HANK), JR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EFD61E3AF937A25752C0A9619C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   CROSS, HENRY B. (HANK), JR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CROSS--Henry B. (Hank), Jr. 92, of 981 Greenway Lane, Vero Beach, FL died Sunday, January 7, 2007, at his home. Mr. Cross was born in Providence, RI and moved to Vero Beach from Dorset, VT and West Orange, NJ. He is survived by his wife Marion Cross of Vero Beach; daughters Carin Cross of Whitefish, MT and Leigh McLean of Dublin, NH; sons Gordon Cross and Henry ''Huck'' Cross of Whitefish, MT; and eight grandchildren. A private service will be held in Dorset, VT at a later date.</p>
+      </block>
+      <block class="full_text">
+        <p>CROSS--Henry B. (Hank), Jr. 92, of 981 Greenway Lane, Vero Beach, FL died Sunday, January 7, 2007, at his home. Mr. Cross was born in Providence, RI and moved to Vero Beach from Dorset, VT and West Orange, NJ. He is survived by his wife Marion Cross of Vero Beach; daughters Carin Cross of Whitefish, MT and Leigh McLean of Dublin, NH; sons Gordon Cross and Henry ''Huck'' Cross of Whitefish, MT; and eight grandchildren. A private service will be held in Dorset, VT at a later date.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

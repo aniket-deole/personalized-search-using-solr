@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Starship Troopers'</title>
+    <meta content="Letters.t-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818604"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Pierce, John J</person>
+        <person class="indexing_service">Magill, Jordan</person>
+        <person class="indexing_service">Itzkoff, Dave</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E1DA1430F937A25752C0A9619C8B63" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Starship Troopers'</hl1>
+      </hedline>
+      <abstract>
+        <p>John J Pierce and Jordan Magill letters comment on Dave Itzkoff Dec 24 Across the Universe column</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Regarding Dave Itzkoff's Across the Universe column (Dec. 24), Robert Heinlein didn't have to wait 50 years for negative reactions to ''Starship Troopers'': they came pretty quick. But he must have known what Truman said about the heat and the kitchen, because he never publicly responded in kind. And he even praised Joe Haldeman's ''Forever War,'' which was an obvious ideological rejoinder to his own then -- as now -- controversial novel.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Regarding Dave Itzkoff's Across the Universe column (Dec. 24), Robert Heinlein didn't have to wait 50 years for negative reactions to ''Starship Troopers'': they came pretty quick. But he must have known what Truman said about the heat and the kitchen, because he never publicly responded in kind. And he even praised Joe Haldeman's ''Forever War,'' which was an obvious ideological rejoinder to his own then -- as now -- controversial novel.</p>
+        <p>John J. Pierce  Ramsey, N.J.</p>
+        <p>To the Editor:</p>
+        <p>Dave Itzkoff joins legions of other reviewers in applying the epithet ''fascist'' to the society envisioned in Heinlein's ''Starship Troopers.'' However, far from a world with an all-powerful dictator at its head, the government in the novel is elected by a pool of individuals who, regardless of race or sex, have chosen to engage in military service. Such a government, essentially republican in character, compares quite favorably with the early American system, which limited the franchise based on all of these criteria, albeit replacing noble service with simple property ownership.</p>
+        <p>While many, myself included, would not choose to live in the world of ''Starship Troopers,'' Heinlein does prove prescient in providing insights into a question that has come to plague us: How does a society demonstrate that citizenship includes both rights and responsibilities? A shallow reader might imagine that he or she should take the world presented as a utopia. However, as in most of his greatest works, Heinlein's goal is to press us to think more deeply about our own societal limitations -- limitations in this case more evident now than back in Heinlein's day.</p>
+        <p>Jordan Magill  Sacramento</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

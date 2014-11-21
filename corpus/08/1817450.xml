@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bucking a Party Leader</title>
+    <meta content="08albany-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817450"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ALBANY NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Consultants</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Confessore, Nicholas</person>
+        <person class="indexing_service">Bruno, Joseph L (Sen)</person>
+        <person class="indexing_service">Bonacic, John J (Sen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consultants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04EFDA1530F93BA35752C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bucking a Party Leader</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS CONFESSORE</byline>
+      <byline class="normalized_byline">Confessore, Nicholas</byline>
+      <abstract>
+        <p>New York State Sen John J Bonacic says his opposition to re-electing Senate Majority Leader Joseph L Bruno as temporary president of Senate was not personal; Bruno is under investigation concerning his outside consulting work; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''I hope he understands that it's business, not personal,'' said Senator John J. Bonacic, a Hudson Valley Republican.</p>
+        <p>Mr. Bonacic was referring to his vocal opposition to the re-election of the Senate majority leader, Joseph L. Bruno, as temporary president of the Senate, after the revelation that Mr. Bruno's outside consulting work is the subject of a federal investigation. Last week, Mr. Bonacic walked out of the Senate chamber rather than cast the only vote against Mr. Bruno, the state's most powerful Republican.</p>
+      </block>
+      <block class="full_text">
+        <p>''I hope he understands that it's business, not personal,'' said Senator John J. Bonacic, a Hudson Valley Republican.</p>
+        <p>Mr. Bonacic was referring to his vocal opposition to the re-election of the Senate majority leader, Joseph L. Bruno, as temporary president of the Senate, after the revelation that Mr. Bruno's outside consulting work is the subject of a federal investigation. Last week, Mr. Bonacic walked out of the Senate chamber rather than cast the only vote against Mr. Bruno, the state's most powerful Republican.</p>
+        <p>Mr. Bonacic said Mr. Bruno had done nothing to make him feel unwelcome since then. ''That's behind us now,'' said Mr. Bonacic, who joked that both his kneecaps and his supply of office materials remained intact.</p>
+        <p>Still, he cautioned, in politics, people never forget.</p>
+        <p>''I'm going to see how we are treated as we go forward,'' he said.</p>
+        <p>He mused for a few moments, and then mentioned the recent defection of Mr. Balboni, left, which left Republicans with a slimmer 33-28 majority.</p>
+        <p>''The truth of the matter is, Senator Balboni went with Eliot Spitzer,'' and not against Mr. Bruno, Mr. Bonacic said, explaining why the Bruno forces were unlikely to retaliate.</p>
+        <p>''We need each other, for the strength of the conference,'' Mr. Bonacic added. ''This is not the time for bloodshed.''</p>
+        <p>NICHOLAS CONFESSORE</p>
+        <p>ALBANY NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

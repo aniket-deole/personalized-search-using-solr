@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Lively Market, Legal and Not, for Software Bugs</title>
+    <meta content="30bugs" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Front Page; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/technology/30bugs.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822646"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Identity Fraud</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Idefense Inc</org>
+        <person class="indexing_service">Stone, Brad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identity Fraud</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4D8143FF933A05752C0A9619C8B63" item-length="1473" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Lively Market, Legal and Not, for Software Bugs</hl1>
+        <hl2 class="online_headline">A Lively Market, Legal and Not, for Software Bugs</hl2>
+      </hedline>
+      <byline class="print_byline">By BRAD STONE</byline>
+      <byline class="normalized_byline">Stone, Brad</byline>
+      <abstract>
+        <p>Microsoft says its new operating system Windows Vista is most secure in company's history, providing latest target for hackers and security companies; experts say hackers' motivation has shifted from fame and glory to financial reward; software vulnerabilities are commonly sold online, both by legitimate security companies and by hackers; security companies like iDefense Labs sell information on software weaknesses to corporations and government so they can protect their own systems; companies like Microsoft do not endorse such programs, but they have bigger problems: criminals who will pay for knowledge of software flaws in order to launch identity-theft schemes and spam attacks; software vendors have asked security researchers to alert them when they find bugs, but researchers contend that their time and effort are worth more than gratitude (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Microsoft says its new operating system, Windows Vista, is the most secure in the company's history. Now the bounty hunters will test just how secure it is.</p>
+        <p>When its predecessor, Windows XP, was released five years ago, software bugs were typically hunted by hackers for fame and glory, not financial reward. But now software vulnerabilities -- as with stolen credit-card numbers and spammable e-mail addresses -- carry real financial value. They are commonly bought, sold and traded online, both by legitimate security companies, which say they are providing a service, and by nefarious hackers and thieves.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Software vulnerabilities are bought and sold online, both by legitimate security companies and by thieves.</p>
+      </block>
+      <block class="full_text">
+        <p>Microsoft says its new operating system, Windows Vista, is the most secure in the company's history. Now the bounty hunters will test just how secure it is.</p>
+        <p>When its predecessor, Windows XP, was released five years ago, software bugs were typically hunted by hackers for fame and glory, not financial reward. But now software vulnerabilities -- as with stolen credit-card numbers and spammable e-mail addresses -- carry real financial value. They are commonly bought, sold and traded online, both by legitimate security companies, which say they are providing a service, and by nefarious hackers and thieves.</p>
+        <p>Vista, which will be installed on millions of new PCs starting today, provides the latest target.</p>
+        <p>This month, iDefense Labs, a subsidiary of the technology company VeriSign, said it was offering $8,000 for the first six researchers to find holes in Vista, and $4,000 more for the so-called exploit, the program needed to take advantage of the weakness.</p>
+        <p>IDefense sells such information to corporations and government agencies, which have already begun using Vista, so they can protect their own systems.</p>
+        <p>Companies like Microsoft do not endorse such bounty programs, but they have even bigger problems: the willingness of Internet criminals to spend large sums for early knowledge of software flaws that could provide an opening for identity-theft schemes and spam attacks.</p>
+        <p>The Japanese security firm Trend Micro said in December that it had found a Vista flaw for sale on a Romanian Web forum for $50,000. Security experts say that the price is plausible, and that they regularly see hackers on public bulletin boards or private online chat rooms trying to sell the holes they have discovered, and the coding to exploit them.</p>
+        <p>Especially prized are so-called zero-day exploits, bits of disruption coding that spread immediately because there is no known defense.</p>
+        <p>Software vendors have traditionally asked security researchers to alert them first when they find bugs in their software, so that they could issue a fix, or patch, and protect the general public. But now researchers contend that their time and effort are worth much more.</p>
+        <p>''To find a vulnerability, you have to do a lot of hard work,'' said Evgeny Legerov, founder of a small security firm, Gleg Ltd., in Moscow. ''If you follow what they call responsible disclosure, in most cases all you receive is an ordinary thank you or sometimes nothing at all.''</p>
+        <p>Gleg sells vulnerability research to a dozen corporate customers around the world, with fees starting at $10,000 for periodic updates. Mr. Legerov says he regularly turns down the criminals who send e-mail messages offering big money for bugs they can use to spread malicious programs like spyware.</p>
+        <p>Misusing such information to attack computers or to aid others in such attacks is illegal, but there appears to be nothing illegal about the act of discovering and selling vulnerabilities. Prices for such software bugs range from a couple of hundred dollars to tens of thousands.</p>
+        <p>Microsoft is not the only target, of course. Legitimate security researchers and underground hackers look for weaknesses in all commonly used software, including Oracle databases and Apple's Macintosh operating system. The more popular a program, the higher the price for an attacking code.</p>
+        <p>The sales of Vista faults will therefore continue to trail the sale of flaws in more widely used programs, even Windows XP, for the foreseeable future.</p>
+        <p>''Of course it concerns us,'' Mark Miller, director of the Microsoft Security Response Center, said of the online bazaar in software flaws, which it has declined to enter. ''With the underground trading of vulnerabilities, software makers are left playing catch-up to develop updates that will help protect customers.''</p>
+        <p>Throughout the 1990s, software makers and bug-hunters battled over the way researchers disclosed software vulnerabilities. The software vendors argued that public disclosure gave attackers the blueprints to create exploitative programs and viruses. Security researchers charged that the vendors wanted to hide their mistakes, and that making them public allowed companies and individual computer users to protect their systems.</p>
+        <p>The two sides reached an uneasy compromise. Security researchers would inform vendors of vulnerabilities, and as long as the vendor was responsive, wait for the release of an official patch before publishing code that an attacker could use. Vendors would give public credit to the researcher. The détente worked when most researchers were motivated by acclaim and a desire to improve security.</p>
+        <p>But ''in the last five years the glory seekers have gone away,'' said David Perry, global education director at Trend Micro. ''The people who are drawn to it to make a living are not the same people who were drawn to it out of passion.''</p>
+        <p>In 2002, iDefense Labs became one of the first companies to pay for software flaws, offering just a few hundred dollars for a vulnerability. It administered the program quietly for a few years, then answered early critics by arguing that it was getting those bugs out into the open and informing software makers, at the same time as clients, before announcing them to the general public.</p>
+        <p>''We give vendors ample time to react, and then we try to responsibly release them,'' said Jim Melnick, the director of threat intelligence at iDefense.</p>
+        <p>In 2005, TippingPoint, a division of the networking giant 3Com, joined iDefense in the nascent marketplace with its ''Zero-Day Initiative'' program, which last year bought and sold 82 software vulnerabilities. IDefense said its freelance researchers discovered 305 holes in commonly used software during 2006 -- up from 180 in 2005 -- and paid $1,000 to $10,000 for each, depending on the severity.</p>
+        <p>Security researchers warmed to the idea that vulnerabilities were worth real dollars. In December 2005, a hacker calling himself ''Fearwall'' tried to sell on eBay a program to disrupt computers through Excel, Microsoft's spreadsheet program. Bidding reached a paltry $53 before the auction site pulled it.</p>
+        <p>Nevertheless, several Internet attacks in the following months exploited flaws in Excel, suggesting to security experts that its creator ultimately found other ways to sell it.</p>
+        <p>In January 2006, a Moscow-based security company, Kaspersky Labs, found more evidence of an emerging marketplace for software bugs. Russian hacking gangs, it disclosed at the time, had sold a ''zero-day'' program aimed at the Microsoft graphics file format, Windows Metafile or WMF. The price: $4,000.</p>
+        <p>The program was widely used that month and allowed criminals to plant spyware and other malicious programs on the computers of tens of thousands of unsuspecting Internet users. Microsoft rushed out a patch.</p>
+        <p>It had to distribute another patch in September, to counter one more malicious program, which involved a flaw in the vector graphics engine of Internet Explorer, that enabled further cyber mischief.</p>
+        <p>Marc Maiffret, co-founder of eEye Digital Security, a computer security company, said prices in the evolving black market quickly proved higher than what legitimate companies would pay. ''You will always make more from bad guys than from a company like 3Com,'' he said.</p>
+        <p>Even ethical researchers feel that companies like iDefense and TippingPoint do not adequately compensate for the time and effort needed to discover flaws in complex, relatively secure software.</p>
+        <p>And some hackers have little ethical compunction about who buys their research, or what they use it for. In a phone interview last week arranged by an intermediary in the security field, a hacker calling himself ''Segfault,'' who said he was a college-age student in New York City, led a reporter on an online tour of a public Web site, ryan1918.com, where one forum is provocatively titled ''Buy-Sell-Trade-0day.''</p>
+        <p>Segfault, who said he did not want to reveal his name because he engages in potentially illegal activity, said the black market for zero-days ''just exploded'' last year after the damaging Windows Metafile attack.</p>
+        <p>He claims he earned $20,000 last year from selling his own code -- mostly on private chat channels, not public forums like Ryan1918 -- making enough to pay his tuition.</p>
+        <p>Although he conceded that Microsoft had made significant strides with Vista's security, he said underground hacker circles now had a powerful financial incentive to find its weak links.</p>
+        <p>''Vista is going to get destroyed,'' he said.</p>
+        <p>That may be an exaggeration. Microsoft has taken precautions such as preventing unauthorized programs from running at the most central part of the system, called the kernel, and creating an extra level of protection between the operating system and the browser.</p>
+        <p>Microsoft appears to wish the open market for flaws in their products would simply disappear. ''Our practice is to explicitly acknowledge and thank researchers when they find an issue in our software,'' said Mike Reavey, operations manager of the company's security response center. ''While that's not a monetary reward, we think there is value in it.''</p>
+        <p>But independent security analysts say those days are over. Raimund Genes, the Trend Micro researcher who found the Vista bug for sale on a Romanian Web site, said, ''The driving force behind all this now is cash.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

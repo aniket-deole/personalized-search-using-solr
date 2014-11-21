@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CALENDAR</title>
+    <meta content="10fcal" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/dining/10fcal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817750"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E6DF1230F933A25752C0A9619C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CALENDAR</hl1>
+        <hl2 class="online_headline">Calendar</hl2>
+      </hedline>
+      <byline class="print_byline">By FLORENCE FABRICANT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beer, With Cheese</p>
+        <p>Pairings of six beers with six cheeses, including Victory Storm King Imperial Stout with Colston Bassett Stilton, will be featured at a tasting on Jan. 21 from 4 to 6 p.m. at Chanterelle, 2 Harrison Street (Hudson Street). The cost is $55: (212) 966-6960.</p>
+        <p>A Sip of Red</p>
+        <p>All red wines by the bottle will be sold at a discount of 25 percent through March 11 at seven midtown restaurants: Sea Grill, Brasserie, Brasserie 8 1/2, Rock Center Café, Café Centro, Naples 45 and Nick &amp; Stef's Steakhouse. Those ordering red wines will receive a copy of Wine Enthusiast magazine's ''Pocket Guide to Wine,'' and a three-month subscription to the magazine.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Beer, With Cheese.</p>
+      </block>
+      <block class="full_text">
+        <p>Beer, With Cheese</p>
+        <p>Pairings of six beers with six cheeses, including Victory Storm King Imperial Stout with Colston Bassett Stilton, will be featured at a tasting on Jan. 21 from 4 to 6 p.m. at Chanterelle, 2 Harrison Street (Hudson Street). The cost is $55: (212) 966-6960.</p>
+        <p>A Sip of Red</p>
+        <p>All red wines by the bottle will be sold at a discount of 25 percent through March 11 at seven midtown restaurants: Sea Grill, Brasserie, Brasserie 8 1/2, Rock Center Café, Café Centro, Naples 45 and Nick &amp; Stef's Steakhouse. Those ordering red wines will receive a copy of Wine Enthusiast magazine's ''Pocket Guide to Wine,'' and a three-month subscription to the magazine.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

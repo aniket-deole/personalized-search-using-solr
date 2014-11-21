@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Risk-Assessment Plan Is Withdrawn</title>
+    <meta content="12risk" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/washington/12risk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818234"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">National Academy of Sciences</org>
+        <person class="indexing_service">Dean, Cornelia</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">National Academy of Sciences</org>
+        <org class="online_producer">Office of Management and Budget</org>
+        <org class="online_producer">Environmental Protection Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E3DE1330F931A25752C0A9619C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Risk-Assessment Plan Is Withdrawn</hl1>
+        <hl2 class="online_headline">Risk-Assessment Plan Is Withdrawn</hl2>
+      </hedline>
+      <byline class="print_byline">By CORNELIA DEAN</byline>
+      <byline class="normalized_byline">Dean, Cornelia</byline>
+      <abstract>
+        <p>Bush administration withdraws proposal to change way federal agencies assess environmental hazards, health threats and other risks after National Academy of Sciences panel declares it scientifically flawed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bush administration yesterday withdrew a proposal to change the way federal agencies assess environmental hazards, health threats and other risks, after an expert panel declared that it was so scientifically flawed that it ''could not be rescued.''</p>
+        <p>The panel, appointed by an arm of the National Academy of Sciences, had been convened to evaluate a proposal by the White House Office of Management and Budget to standardize evaluation procedures. The budget office, which proposed the changes a year ago, said they would improve the quality of risk assessments by the Environmental Protection Agency, the Department of Transportation and other agencies.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An expert panel declared that the Bush Administration’s play to change the way federal agencies assess environmental hazards was scientifically flawed.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bush administration yesterday withdrew a proposal to change the way federal agencies assess environmental hazards, health threats and other risks, after an expert panel declared that it was so scientifically flawed that it ''could not be rescued.''</p>
+        <p>The panel, appointed by an arm of the National Academy of Sciences, had been convened to evaluate a proposal by the White House Office of Management and Budget to standardize evaluation procedures. The budget office, which proposed the changes a year ago, said they would improve the quality of risk assessments by the Environmental Protection Agency, the Department of Transportation and other agencies.</p>
+        <p>Critics said the proposed changes were an effort to weaken government regulatory protections against environmental and other hazards.</p>
+        <p>In sharp contrast to the academy's normally staid language, the panel called the proposal simplistic and said it was ''fundamentally flawed'' and lacked ''information for gauging the benefits to be achieved'' by putting it into effect.</p>
+        <p>The panel said that the agency's standards were unclear, incomplete and unbalanced. The budget office's definition of risk assessment itself ''conflicts with long-established concepts and practices,'' the panel said, and, as a result, ''could cause great confusion.''</p>
+        <p>Although the panel endorsed the idea of improving risk assessment in the federal government, it recommended that the development of technical standards ''be left to the agencies'' conducting the assessments.</p>
+        <p>Steven Aitkin, a spokesman for the budget office, said the agency was glad that the academy panel supported the idea of improving the evaluation of risk but, given its concerns, would not make the proposal final ''in its present form.''</p>
+        <p>Mr. Aitkin said agency officials would decide what to do next after reviewing the report along with comments from the public and the results of an interagency review of the proposal.</p>
+        <p>''It would still be our plan to develop improved guidance,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

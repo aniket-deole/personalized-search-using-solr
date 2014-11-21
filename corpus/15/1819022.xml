@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>China and Asean in Services Pact</title>
+    <meta content="15trade" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/business/worldbusiness/15trade.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819022"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <location class="indexing_service">China</location>
+        <org class="indexing_service">Association of Southeast Asian Nations</org>
+        <person class="indexing_service">Conde, Carlos H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/North Korea</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/North Korea</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <location class="online_producer">China</location>
+        <location class="online_producer">North Korea</location>
+        <org class="online_producer">Asean</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EEDE1030F936A25752C0A9619C8B63" item-length="363" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>China and Asean in Services Pact</hl1>
+        <hl2 class="online_headline">China and Asean in Services Pact</hl2>
+      </hedline>
+      <byline class="print_byline">By CARLOS H. CONDE</byline>
+      <byline class="normalized_byline">Conde, Carlos H</byline>
+      <dateline>CEBU, Philippines, Jan. 14</dateline>
+      <abstract>
+        <p>China signs trade agreement on services with Association of Southeast Asian Nations in major step toward establishing comprehensive free trade pact (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>China signed a new trade agreement on services with the Association of Southeast Asian Nations here on Sunday, and won support for its initiative to reconvene negotiations with North Korea over its nuclear weapons program.</p>
+        <p>Delegates called the trade in services deal, which emphasizes high-technology, energy and construction, a major step toward establishing a comprehensive free trade pact between Asean and China.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The deal was a major step toward establishing a comprehensive free trade pact between Asean and China.</p>
+      </block>
+      <block class="full_text">
+        <p>China signed a new trade agreement on services with the Association of Southeast Asian Nations here on Sunday, and won support for its initiative to reconvene negotiations with North Korea over its nuclear weapons program.</p>
+        <p>Delegates called the trade in services deal, which emphasizes high-technology, energy and construction, a major step toward establishing a comprehensive free trade pact between Asean and China.</p>
+        <p>''We are very happy to have China as our big brother in this region,'' President Gloria Macapagal Arroyo of the Philippines said at the opening ceremony of the one-day meeting in Cebu, a central Philippine province.</p>
+        <p>Prime Minister Wen Jiabao of China said the agreement he signed with Asean leaders would ''lay the foundation for the full and scheduled completion of a China-Asean free trade agreement.''</p>
+        <p>China and Asean began lowering barriers to trade in 2005. Since then, tariffs on more than 7,000 products from China and Asean have been lowered, Mr. Wen said. Two-way trade volume last year amounted to more than $160 billion, up 23 percent from 2005.</p>
+        <p>The leaders of Japan, Australia, India and New Zealand were also scheduled to hold meetings with Asean leaders on Sunday, with most of the discussion centering on improving free trade.</p>
+        <p>Beijing also received unqualified support for its efforts to reconvene six-party talks with North Korea over its nuclear weapons program, for which Manila has agreed to play host next month. Although Asean members had independently urged a return to the talks, officials acknowledged on Sunday the role the Chinese played in pushing the agenda.</p>
+        <p>''We reaffirmed that the denuclearization of the Korean Peninsula is an international priority,'' the leaders said in a statement released late Saturday. They said North Korea must denuclearize in a ''verifiable manner'' and that it must rejoin soon the Nuclear Nonproliferation Treaty.</p>
+        <p>Mr. Wen's arrival here on Saturday was greeted with more excitement than that of the other heads of state. Huge billboards along the route from the airports to the Shangri-la Mactan Resort, where the meetings were held, welcomed Mr. Wen and his wife. Cebu Province, known for its tourism and robust industries, has a sizable population of Filipinos of Chinese descent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

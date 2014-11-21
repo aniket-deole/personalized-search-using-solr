@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Sprinklers in Building Where Fire Killed 9</title>
+    <meta content="16fire" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819244"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="indexing_service" type="descriptor">Sprinklers</classifier>
+        <location class="indexing_service">Huntington (W Va)</location>
+        <person class="indexing_service">Heyman, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/West Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/West Virginia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Landscaping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EEDA1030F935A25752C0A9619C8B63" item-length="421" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Sprinklers in Building Where Fire Killed 9</hl1>
+      </hedline>
+      <byline class="print_byline">By DANIEL HEYMAN</byline>
+      <byline class="normalized_byline">Heyman, Daniel</byline>
+      <dateline>HUNTINGTON, W.Va., Jan. 15</dateline>
+      <abstract>
+        <p>Authorities find no sprinklers in apartment building in Huntington, W Va, where fire killed at least nine people on Jan 13 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An apartment building where a fire killed at least nine people on Saturday did not have a sprinkler system, and some units did not have smoke detectors, the fire chief said Monday.</p>
+        <p>''I highly doubt if there had been a sprinkler system you and I would be here talking today,'' said the chief, Greg Fuller, adding that the 83-year-old, five-story building was not required to have the safety equipment because it was grandfathered into later regulations.</p>
+      </block>
+      <block class="full_text">
+        <p>An apartment building where a fire killed at least nine people on Saturday did not have a sprinkler system, and some units did not have smoke detectors, the fire chief said Monday.</p>
+        <p>''I highly doubt if there had been a sprinkler system you and I would be here talking today,'' said the chief, Greg Fuller, adding that the 83-year-old, five-story building was not required to have the safety equipment because it was grandfathered into later regulations.</p>
+        <p>Fire officials said that the blaze started on the second floor but that they did not know what started it. Officials called it the worst fire here in 50 years.</p>
+        <p>Chief Fuller said officials expected that they might find one more body. He added that firefighters had to ''shore and crib'' to keep the walls from collapsing.</p>
+        <p>The 64-unit building, with an estimated 100 people inside, burned quickly. Chief Fuller said that firefighters rescued 24 people who called to them from windows, but that the blaze moved through the ductwork so quickly that three firefighters were briefly trapped on the fifth floor and had to be rescued.</p>
+        <p>A resident, Joshua Huffman, said he barely made it out. Mr. Huffman said that he moved into a third-floor apartment a week ago and that he had no smoke alarm.</p>
+        <p>''I had no clue,'' he said. ''I was just sitting there watching TV, and my hallway was already full of smoke.''</p>
+        <p>Mr. Huffman said a resident whom he had never met yelled and pounded on all the doors in the hallway. When Mr. Huffman entered the hall, he said, the smoke was so thick that he could barely see ''a faint light from the back stairwell.'' He said he ''got low to the ground and ran'' to it.</p>
+        <p>Mr. Huffman, who said he lost all his possessions, seemed dazed as he stood smoking a cigarette in the parking lot of a temporary Red Cross shelter.</p>
+        <p>The eight fatalities included a mother, Ann Saleh, and her son Seth Justas, 7. Two teenagers, Quentin and Angel Lucas, 17 and 14, were visiting their brother Benjamin, 19, when the fire caught them in his apartment, killing the three.</p>
+        <p>Fire officials identified the other victims as Mary Biss, 68, and Beatrice Yancy, whose age was not given. The names and ages of the eighth and ninth victims were not released.</p>
+        <p>Gov. Joe Manchin visited the site on Monday afternoon.</p>
+        <p>''West Virginia is not that large,'' Mr. Manchin said, ''and we are all family. And it affects all of us.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

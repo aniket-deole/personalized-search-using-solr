@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Congress, Older Look</title>
+    <meta content="09pdemos" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817537"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="POLITICAL ACTION: DEMOGRAPHICS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Congress (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Age (Chronological)</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Toner, Robin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EFD91530F93AA35752C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Congress, Older Look</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBIN TONER</byline>
+      <byline class="normalized_byline">Toner, Robin</byline>
+      <abstract>
+        <p>Congressional Research Service says average age of lawmakers in new Congress is 61.7, possibly oldest in history; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The winds of change have blown through the 110th Congress, but only to a point. There are more women (90) and, obviously, more Democrats. But according to the Congressional Research Service, the average age of lawmakers in the new Congress is possibly the oldest in history. The average age of senators is 61.7 -- two years older than in the previous Congress. The oldest senator is Robert C. Byrd, 89, Democrat of West Virginia, and the youngest is John E. Sununu, 42, Republican of New Hampshire. The average age of representatives is 55.9, with Ralph M. Hall, Republican of Texas, the oldest at 83, and Patrick T. McHenry, Republican of North Carolina, the youngest at 31. More demographics: there are more Protestants than any other religious affiliation, but Roman Catholics account for the largest single religious denomination.</p>
+        <p>ROBIN TONER</p>
+      </block>
+      <block class="full_text">
+        <p>The winds of change have blown through the 110th Congress, but only to a point. There are more women (90) and, obviously, more Democrats. But according to the Congressional Research Service, the average age of lawmakers in the new Congress is possibly the oldest in history. The average age of senators is 61.7 -- two years older than in the previous Congress. The oldest senator is Robert C. Byrd, 89, Democrat of West Virginia, and the youngest is John E. Sununu, 42, Republican of New Hampshire. The average age of representatives is 55.9, with Ralph M. Hall, Republican of Texas, the oldest at 83, and Patrick T. McHenry, Republican of North Carolina, the youngest at 31. More demographics: there are more Protestants than any other religious affiliation, but Roman Catholics account for the largest single religious denomination.</p>
+        <p>ROBIN TONER  POLITICAL ACTION: DEMOGRAPHICS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

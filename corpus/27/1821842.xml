@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TONIGHT'S TV LISTINGS: What's on Monday Night</title>
+    <meta content="0129tvcol" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821842"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907EED8143FF934A15752C0A9619C8B63" item-length="400" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TONIGHT'S TV LISTINGS: What's on Monday Night</hl1>
+      </hedline>
+      <byline class="print_byline">By KATHRYN SHATTUCK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>9 P.M. (Lifetime) NORA ROBERTS' ANGELS FALL Heather Locklear plays Reece Gilmore, the sole survivor of a Boston restaurant massacre, who moves to a remote Wyoming town in the hope of rebuilding her life in this adaptation of a novel by Ms. Roberts. But one day, while hiking alone, she witnesses a murder -- though no one can find evidence of a crime when they return to the scene. As more strange events start to occur, Reece begins to question her sanity. Now only Brody (Johnathon Schaech), her new love, believes in her.</p>
+        <p>8 P.M. (Fox) PRISON BREAK Now that Terrence Steadman is an unidentifiable corpse lying in a motel room, Michael, Lincoln and Kellerman take the airwaves hostage as they try to get a message to Sara, who is still missing. Meanwhile, Bellick gets a surprise visit in Fox River's infirmary, Haywire resurfaces and lands in more trouble, and Sucre makes his way across Mexico.</p>
+      </block>
+      <block class="full_text">
+        <p>9 P.M. (Lifetime) NORA ROBERTS' ANGELS FALL Heather Locklear plays Reece Gilmore, the sole survivor of a Boston restaurant massacre, who moves to a remote Wyoming town in the hope of rebuilding her life in this adaptation of a novel by Ms. Roberts. But one day, while hiking alone, she witnesses a murder -- though no one can find evidence of a crime when they return to the scene. As more strange events start to occur, Reece begins to question her sanity. Now only Brody (Johnathon Schaech), her new love, believes in her.</p>
+        <p>8 P.M. (Fox) PRISON BREAK Now that Terrence Steadman is an unidentifiable corpse lying in a motel room, Michael, Lincoln and Kellerman take the airwaves hostage as they try to get a message to Sara, who is still missing. Meanwhile, Bellick gets a surprise visit in Fox River's infirmary, Haywire resurfaces and lands in more trouble, and Sucre makes his way across Mexico.</p>
+        <p>9 P.M. (ABC) SUPERNANNY Rescue hero: Jo Frost helps a police officer and his wife, an emergency room nurse, regain authority over their 4-year-old son.</p>
+        <p>9 P.M. (History) DIGGING FOR THE TRUTH Josh Bernstein travels to Mongolia in search of the lost empire of Ghengis Khan.</p>
+        <p>9 P.M. (Sundance) THE LIBERACE OF BAGHDAD (2004). Samir Peter was once the most famous pianist in Iraq. But after the fall of Saddam Hussein, he earned a living as a lounge pianist, entertaining mercenaries and contractors in a hotel catering to Westerners. In this documentary, Sean McAllister, a BBC journalist, travels with Mr. Peter through post-invasion Baghdad, and gets a glimpse of contemporary Iraqi life -- stray bullets, assassinations, morgue visits and all.</p>
+        <p>9 P.M. (VH1) I LOVE NEW YORK Her Majesty, New York's Chihuahua, is a queen in her owner's eyes. In this episode, the remaining nine men must break into teams of three and construct a crib worthy of a top dog. Later that evening, they each get some intimate time with New York. But all sins must be accounted for at a church service presided over by her mother, Sister Patterson, the next morning.</p>
+        <p>10 P.M. (Travel) ANTHONY BOURDAIN: NO RESERVATIONS Mr. Bourdain, who seems to revel in being called ''the bad boy of cuisine,'' counts eating the still-beating heart of a cobra among his more exotic food experiences. Tonight, he travels to Russia, where he dines with some unsavory types.</p>
+        <p>KATHRYN SHATTUCK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

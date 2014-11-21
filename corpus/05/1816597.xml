@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="05btmcxns-3" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; Washington; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816597"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidents and Presidency (US)</classifier>
+        <person class="indexing_service">Ford, Gerald Rudolph Jr (1913-2006)</person>
+        <person class="indexing_service">Bush, George (Former Pres)</person>
+        <person class="indexing_service">Carter, Jimmy</person>
+        <person class="indexing_service">Clinton, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE7DA1430F936A35752C0A9619C8B63" item-length="67" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 3 article about funeral of former Pres Gerald R Ford drew erroneous comparison between two attendees</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Wednesday about the funeral of former President Gerald R. Ford drew an erroneous comparison between Chelsea Clinton and Secretary of State Condoleezza Rice, who sat next to each other. Ms. Rice received degrees from the University of Denver and Notre Dame. She is not an alumna of Stanford University, where Ms. Clinton received a bachelor's degree. (Ms . Rice is a former Stanford provost.)</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Wednesday about the funeral of former President Gerald R. Ford drew an erroneous comparison between Chelsea Clinton and Secretary of State Condoleezza Rice, who sat next to each other. Ms. Rice received degrees from the University of Denver and Notre Dame. She is not an alumna of Stanford University, where Ms. Clinton received a bachelor's degree. (Ms . Rice is a former Stanford provost.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

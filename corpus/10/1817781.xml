@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judge Sends Public Defender to Jail</title>
+    <meta content="10defender" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/us/10defender.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817781"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Legal Aid for the Poor</classifier>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="indexing_service" type="descriptor">Katrina (Storm)</classifier>
+        <location class="indexing_service">New Orleans (La)</location>
+        <person class="indexing_service">Drew, Christopher</person>
+        <person class="indexing_service">Bell, David (Judge)</person>
+        <person class="indexing_service">Singer, Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Louisiana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana/New Orleans</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="descriptor">Hurricane Katrina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricane Katrina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Aid for the Poor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Welfare (US)</classifier>
+        <location class="online_producer">New Orleans (La)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E7DE1230F933A25752C0A9619C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judge Sends Public Defender to Jail</hl1>
+        <hl2 class="online_headline">Judge Sends Public Defender to Jail</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRISTOPHER DREW</byline>
+      <byline class="normalized_byline">Drew, Christopher</byline>
+      <dateline>NEW ORLEANS, Jan. 9</dateline>
+      <abstract>
+        <p>New Orleans Judge David Bell has public defender Stephen Singer arrested and held in contempt of court for not being prepared to provide representation; event is latest in series of confrontations between judges and public defender's office, which has long been overwhelmed and went broke after Hurricane Katrina (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The chief judge in the city's juvenile courts had a top public defender arrested Tuesday in a bizarre escalation of a fight over changes in the city's troubled program for representing indigent defendants.</p>
+        <p>The judge, David Bell, was upset that no public defender was in his courtroom when he was ready to start this morning, and he drove to the defender's office and waited outside for Stephen Singer, the chief of trials, to arrive.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The events were the latest in a series of confrontations between judges and the public defender’s office, which went broke after Hurricane Katrina.</p>
+      </block>
+      <block class="full_text">
+        <p>The chief judge in the city's juvenile courts had a top public defender arrested Tuesday in a bizarre escalation of a fight over changes in the city's troubled program for representing indigent defendants.</p>
+        <p>The judge, David Bell, was upset that no public defender was in his courtroom when he was ready to start this morning, and he drove to the defender's office and waited outside for Stephen Singer, the chief of trials, to arrive.</p>
+        <p>The judge took Mr. Singer to his courtroom, where he found him in contempt for not being prepared to provide representation and ordered him jailed for 36 days, three days for each of the 12 items on Tuesday's docket. Mr. Singer then spent about five hours in jail before a state appeals court stayed the order.</p>
+        <p>The events were the latest in a series of confrontations between judges and the public defender's office, which has long been overwhelmed and went broke after Hurricane Katrina.</p>
+        <p>A new board has shifted how the office uses its 30 lawyers to try to provide more thorough representation on the most serious cases. But the changes have made the day-to-day coverage more spotty, and the criminal court judges also have threatened to hold the office in contempt over the problems.</p>
+        <p>After his release, Mr. Singer said the dispute with Judge Bell arose because the defender assigned to his court was on her honeymoon, and her replacement was trying to handle four courtrooms at once.</p>
+        <p>Judge Bell did not respond to a request for comment. But Mr. Singer said he and the judge had a more congenial meeting about the problems late in the day.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

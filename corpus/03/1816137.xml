@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Power of Choice</title>
+    <meta content="03dinlett-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816137"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <person class="indexing_service">Moore, Robyn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E4DB1730F930A35752C0A9619C8B63" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Power of Choice</hl1>
+      </hedline>
+      <abstract>
+        <p>Robyn Moore letter says people may not realize power they have when it comes to food choices (Dec 27, 2006, article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>For the public, I think this was a significant year of awareness and information in regard to food. Hopefully this abundance of facts will encourage people to make more informed choices.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>For the public, I think this was a significant year of awareness and information in regard to food. Hopefully this abundance of facts will encourage people to make more informed choices.</p>
+        <p>A lot of people don't realize the power they have when it comes to their food choices. We are never neutral when we purchase. Our purchase supports that product and its existence. When people decide they no longer want to support factory farming, they are making an informed decision. They recognize that it's wrong for pigs to be kept in crates so small that they can't even turn around, so they don't buy pork; it's that simple. But if they recognize that it's wrong and still buy pork, that's where the huge disconnect is.</p>
+        <p>I hope the integrity of this nation increases as people begin to connect the dots, and understand the value of their choices.</p>
+        <p>Robyn Moore  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

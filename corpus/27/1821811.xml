@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Lincoln Center's Season</title>
+    <meta content="27arts-4" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821811"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">London Symphony Orchestra</org>
+        <org class="indexing_service">Lincoln Center for the Performing Arts (NYC)</org>
+        <person class="indexing_service">Sisario, Ben</person>
+        <person class="indexing_service">Davis, Colin</person>
+        <person class="indexing_service">Schnittke, Alfred (1934-98)</person>
+        <person class="indexing_service">Takemitsu, Toru</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE7D8173FF934A15752C0A9619C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Lincoln Center's Season</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Sisario, Ben</byline>
+      <abstract>
+        <p>Lincoln Center for the Performing Arts announces 2007-2008 season; highlights include 80th-birthday celebration for Colin Davis with London Symphony Orchestra and three-concert series on music of 20th-century composers Alfred Schnittke and Toru Takemitsu (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An 80th-birthday celebration for Colin Davis with the London Symphony Orchestra, the New York premiere of a rare Italian Baroque opera, the return of Martha Argerich and a three-concert series by Midori on the music of the 20th-century composers Alfred Schnittke and Toru Takemitsu are among the highlights of the 2007-8 season at Great Performers at Lincoln Center. Mr. Davis opens the season with three programs on Oct. 17, 19 and 21; the first with Mozart, the second with Beethoven and the third with Haydn. Other orchestras in Lincoln Center's 42nd season include the UBS Verbier Festival Orchestra, conducted by Charles Dutoit (with Ms. Argerich in Schumann's Piano Concerto); the Russian National Orchestra; the Budapest Festival Orchestra; and the Orchestre National de France, led by Kurt Masur. William Christie and his period-instrument group, les Arts Florissants, will offer the New York premiere of Stefano Landi's 1631 opera ''Il Sant'Alessio,'' and the Emerson String Quartet, celebrating its 30th anniversary, will play two Brahms concerts. Recitalists include the pianists Marc-André Hamelin and Richard Goode, and the singers Matthew Polenzani, Christine Schäfer and Joyce DiDonato. Full schedule: lincolncenter.org.</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>An 80th-birthday celebration for Colin Davis with the London Symphony Orchestra, the New York premiere of a rare Italian Baroque opera, the return of Martha Argerich and a three-concert series by Midori on the music of the 20th-century composers Alfred Schnittke and Toru Takemitsu are among the highlights of the 2007-8 season at Great Performers at Lincoln Center. Mr. Davis opens the season with three programs on Oct. 17, 19 and 21; the first with Mozart, the second with Beethoven and the third with Haydn. Other orchestras in Lincoln Center's 42nd season include the UBS Verbier Festival Orchestra, conducted by Charles Dutoit (with Ms. Argerich in Schumann's Piano Concerto); the Russian National Orchestra; the Budapest Festival Orchestra; and the Orchestre National de France, led by Kurt Masur. William Christie and his period-instrument group, les Arts Florissants, will offer the New York premiere of Stefano Landi's 1631 opera ''Il Sant'Alessio,'' and the Emerson String Quartet, celebrating its 30th anniversary, will play two Brahms concerts. Recitalists include the pianists Marc-André Hamelin and Richard Goode, and the singers Matthew Polenzani, Christine Schäfer and Joyce DiDonato. Full schedule: lincolncenter.org.</p>
+        <p>BEN SISARIO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

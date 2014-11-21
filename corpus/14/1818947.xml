@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Pair of No. 1's Fall</title>
+    <meta content="14col--refers" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818947"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COLLEGE HIGHLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E5DE1030F937A25752C0A9619C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Pair of No. 1's Fall</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>North Carolina's stay atop the men's top 25 poll, its first top ranking in six years, will not last long after Virginia Tech's 94-88 victory yesterday in Blacksburg, Va. In women's basketball, No. 3 Duke avenged last season's loss in the national championship game with an 82-61 rout of No. 1 Maryland in Durham, N.C.</p>
+        <p>No. 5 Ohio State beat No. 16 Tennessee on a late 3-pointer.</p>
+        <p>No. 6 Kansas needed overtime to beat Iowa State, 68-64.</p>
+        <p>Maryland ended Clemson's undefeated season, 92-87.</p>
+        <p>COVERAGE, PAGEs 4-5</p>
+      </block>
+      <block class="full_text">
+        <p>North Carolina's stay atop the men's top 25 poll, its first top ranking in six years, will not last long after Virginia Tech's 94-88 victory yesterday in Blacksburg, Va. In women's basketball, No. 3 Duke avenged last season's loss in the national championship game with an 82-61 rout of No. 1 Maryland in Durham, N.C.</p>
+        <p>No. 5 Ohio State beat No. 16 Tennessee on a late 3-pointer.</p>
+        <p>No. 6 Kansas needed overtime to beat Iowa State, 68-64.</p>
+        <p>Maryland ended Clemson's undefeated season, 92-87.</p>
+        <p>COVERAGE, PAGEs 4-5</p>
+        <p>COLLEGE HIGHLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

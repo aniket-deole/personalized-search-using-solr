@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Tax Secret Emerges From the Murk</title>
+    <meta content="14gret" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/business/yourmoney/14gret.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818852"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FAIR GAME"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <org class="indexing_service">Financial Accounting Standards Board</org>
+        <person class="indexing_service">Morgenson, Gretchen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Securities and Exchange Commission</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6DA1330F937A25752C0A9619C8B63" item-length="1217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Tax Secret Emerges From the Murk</hl1>
+        <hl2 class="online_headline">A Tax Secret Emerges From the Murk</hl2>
+      </hedline>
+      <byline class="print_byline">By GRETCHEN MORGENSON</byline>
+      <byline class="normalized_byline">Morgenson, Gretchen</byline>
+      <abstract>
+        <p>New rule from Financial Accounting Standards Board, in effort for more transparency in financial statements, requires public companies to disclose amounts of available reserves on balance sheets to cover possible future tax obligations; tax professionals and companies argue that rule is too complex to be put into effect in 2007; most are requesting delay of at least one year (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INVESTORS interested in transparent financial statements have reason to celebrate the arrival of 2007, even if they do not know it. This, after all, is the year in which public companies will have to disclose, for the very first time, how much they hold in reserve on their balance sheets to cover possible future tax obligations.</p>
+        <p>A company's tax position -- for its current year as well as what it is holding in reserve for the future -- is a figure that has been shrouded in secrecy. Because tax reserves involve company and auditor estimates, they have also been one of those handy-dandy cookie jars that companies can dip into when they need to smooth over unexpected earnings bumps.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new rule to make financial statements more transparent.</p>
+      </block>
+      <block class="full_text">
+        <p>INVESTORS interested in transparent financial statements have reason to celebrate the arrival of 2007, even if they do not know it. This, after all, is the year in which public companies will have to disclose, for the very first time, how much they hold in reserve on their balance sheets to cover possible future tax obligations.</p>
+        <p>A company's tax position -- for its current year as well as what it is holding in reserve for the future -- is a figure that has been shrouded in secrecy. Because tax reserves involve company and auditor estimates, they have also been one of those handy-dandy cookie jars that companies can dip into when they need to smooth over unexpected earnings bumps.</p>
+        <p>However murky they once were, tax reserves are now coming out from the shadows. Under a new rule from the Financial Accounting Standards Board -- ''Accounting for Uncertainty in Income Taxes'' -- tax reserves will be available for investor scrutiny on corporate balance sheets beginning in 2007.</p>
+        <p>Investors are cheering; companies are jeering. And therein lies a tale.</p>
+        <p>The FASB is trying to fix two problems: one, that a company's tax position is obscure and, two, that estimates of future obligations can be so loosey-goosey (and possibly open the door to accounting shenanigans).</p>
+        <p>In the past, for example, companies have been able to record tax benefits on their balance sheets that they may never actually receive. As estimates, the figures can be either conservative or aggressive. Under the new rule, tax positions must not only be disclosed, they must also be justified. Companies will be able to recognize only those tax positions that have more than a 50 percent chance of surviving an audit or examination. In addition, the rule requires that a footnote describe how the so-called uncertain tax position changed during the year.</p>
+        <p>Sounds like a good thing, right? Yes, if you're an investor relying on financial statements. ''In studying balance sheets, investors want to see what is, not what managers wish for,'' said Jack T. Ciesielski, president of R. G. Associates and editor of The Analyst's Accounting Observer.</p>
+        <p>BUT tax professionals and companies are pushing back on the FASB, arguing that the new rule is onerous and too complex to be put into effect in 2007. As of last Friday, the standards board had received more than 300 unsolicited letters on the matter, most requesting that it delay the rule for at least a year. An interesting note: when the rule was drafted two years ago, the FASB received just 119 comment letters on it.</p>
+        <p>David L. Bernard, vice president for taxes and real estate at Kimberly-Clark and international president of Tax Executives Institute Inc., a lobbying organization that represents tax professionals, is one of those arguing for a delay in implementing the rule. If it goes through, he wrote in December to the FASB, ''disclosures may be incomplete (or excessive), inaccurate, and inconsistent and therefore impede rather than advance the objective of providing investors, regulators and the capital markets appropriate financial statement information about their tax positions.''</p>
+        <p>Sound familiar? In 1994, Silicon Valley used similar arguments to derail the FASB's attempt to require the expensing of stock options. Inaccurate, inconsistent, incomplete financial statements were going to be a result of that initiative, too, critics said. The FASB received almost 2,000 letters on the proposal, most of them decrying it. The board backed down, Silicon Valley got its way and we know what investors got: a raft of stock-option scandals.</p>
+        <p>This Wednesday, at the FASB's regularly scheduled board meeting, the rule change and the reaction it has engendered are on the agenda to be discussed. Russell G. Golden, a senior technical adviser at FASB, said the board members would likely talk about whether they want to issue any additional guidance or defer the effective date of the document.</p>
+        <p>To be sure, the rule creates additional work and headaches for companies and their auditors. But as Mr. Ciesielski pointed out, companies have had over two years to prepare for the rule.</p>
+        <p>''I find it difficult to believe,'' Mr. Ciesielski wrote in his own letter to the FASB in January, ''that corporate tax departments do not have a grip on which tax positions under their purview have a less than 50 percent chance of being sustained under an examination.''</p>
+        <p>And the FASB made the rule easier to swallow: Originally, the standard for assessing tax positions was stricter, requiring that the company conclude that the position had a high probability of surviving an audit, Mr. Ciesielski said. Now, it has to conclude only that it has a slightly better than 50-50 chance. ''Before, you had to have a lot more support for what you were doing than you do now,'' Mr. Ciesielski said in an interview.</p>
+        <p>To anyone interested in financial statements' clarity, FIN 48, as it is called, will be revealing. ''We're big fans of more transparency, especially when it comes to additional sunlight on aggressive tax positions,'' said David Zion, analyst in accounting and tax issues at Credit Suisse.</p>
+        <p>Indeed, Mr. Golden said the Securities and Exchange Commission asked the accounting board to devise the new standard because it had seen a disparity in tax reporting among United States companies and was concerned about possible earnings management through tax reserves.</p>
+        <p>Which companies and industries will the rule change affect the most? It's impossible to answer. These figures have been kept under wraps, so it is hard to know what you don't know. But Mr. Golden said the impact would be broad.</p>
+        <p>The last-minute campaign to delay the rule seems to show that companies do not like what they see it doing to balance sheets. No big accounting firm has asked for a delay.</p>
+        <p>Asked why he waited until last month to seek a delay in the rule, Mr. Bernard of the Tax Executives Institute said: ''We are not against the ultimate goal of increased transparency of financial statements. What we are afraid of is by introducing something that has to be adopted within five months of finalization there are still terms and concepts which are somewhat undefined.''</p>
+        <p>Given that the new standard requires companies to justify their tax reserves, the outcry from corporate America is understandable. Top executives must certify their financial statements, after all. If a tax reserve is indefensible, executives may be accountable.</p>
+        <p>Audit committees of company boards may also be concerned about whether tax reserves reflect an appropriately independent view. Because many auditors also do tax work for their corporate clients, the new rule will essentially require those accounting firms to assess their own tax reserve estimates.</p>
+        <p>To avoid putting an auditor in the potentially compromising position of reviewing his own work, companies may have to divvy up tax work and audit tasks to different firms, or hire an independent firm to assess reserve estimates. But this is a small price to pay for more transparency.</p>
+        <p>''I think this is the first step in a trend of more disclosure of the details of a company's tax profile,'' said Stuart E. Seigel, a former chief counsel of the Internal Revenue Service and principal at Seigel &amp; Associates in New York, an independent tax advisory firm. ''The whole issue of tax returns and financial statements not being in sync is one that cries out for examination.''</p>
+        <p>FAIR GAME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

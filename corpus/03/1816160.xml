@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="03btmcxns-5" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816160"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Draft and Recruitment (Sports)</classifier>
+        <org class="indexing_service">New York Knickerbockers</org>
+        <org class="indexing_service">Los Angeles Clippers</org>
+        <org class="indexing_service">Phoenix Suns</org>
+        <person class="indexing_service">Robinson, Nate</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Draft and Recruitment (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EEDB1730F930A35752C0A9619C8B63" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 1 article about New York Knickerbockers misidentified team that drafted guard Nate Robinson; it was Phoenix Suns</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A sports article on Monday about the Knicks' 90-80 loss to the Clippers in Los Angeles misidentified the team that drafted guard Nate Robinson in 2005. It was the Phoenix Suns, who selected him at the Knicks' request, then traded him and Quentin Richardson to the Knicks for Kurt Thomas the same day; the Knicks did not draft Robinson.</p>
+      </block>
+      <block class="full_text">
+        <p>A sports article on Monday about the Knicks' 90-80 loss to the Clippers in Los Angeles misidentified the team that drafted guard Nate Robinson in 2005. It was the Phoenix Suns, who selected him at the Knicks' request, then traded him and Quentin Richardson to the Knicks for Kurt Thomas the same day; the Knicks did not draft Robinson.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

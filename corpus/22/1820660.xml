@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Antonina Tumkovsky, 101, Teacher Who Trained Future City Ballet Stars</title>
+    <meta content="22tumkovsky" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/arts/dance/22tumkovsky.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820660"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Antonina Tumkovsky</classifier>
+        <person class="indexing_service">Tumkovsky, Antonina</person>
+        <person class="indexing_service">Kisselgoff, Anna</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">School of American Ballet</org>
+        <org class="online_producer">New York City Ballet</org>
+        <person class="online_producer">Balanchine, George</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E4DD1F30F931A15752C0A9619C8B63" item-length="356" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Antonina Tumkovsky, 101, Teacher Who Trained Future City Ballet Stars</hl1>
+        <hl2 class="online_headline">Antonina Tumkovsky, 101, Dies; Teacher Who Trained Future City Ballet Stars</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNA KISSELGOFF</byline>
+      <byline class="normalized_byline">Kisselgoff, Anna</byline>
+      <abstract>
+        <p>Antonina Tumkovsky, influential teacher at School of American Ballet, dies at age 101 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Antonina Tumkovsky, an influential teacher at the School of American Ballet who trained future stars of the New York City Ballet and other dancers for 54 years, died on Friday at the Tolstoy Foundation Nursing Home in Valley Cottage, N.Y., where she lived. She was 101.</p>
+        <p>A spokesman for the school, Tom Schoff, confirmed her death.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Antonina Tumkovsky trained future stars of the New York City Ballet and other dancers at the School of American Ballet.</p>
+      </block>
+      <block class="full_text">
+        <p>Antonina Tumkovsky, an influential teacher at the School of American Ballet who trained future stars of the New York City Ballet and other dancers for 54 years, died on Friday at the Tolstoy Foundation Nursing Home in Valley Cottage, N.Y., where she lived. She was 101.</p>
+        <p>A spokesman for the school, Tom Schoff, confirmed her death.</p>
+        <p>From 8-year-old girls to the advanced men's class, all the students at the school faced her strict demands. The school promoted a DVD about her teaching by emphasizing that her ''particular style of teaching was crucial in preparing dancers for the Balanchine repertory.''</p>
+        <p>George Balanchine, a founder of City Ballet and of the school, hired her on the spot when she applied to him for a teaching job in 1949. Unlike him and his staff of earlier émigré teachers from Serge Diaghilev's Ballets Russes and the Russian Imperial Ballet, Ms. Tumkovsky was a product of later Soviet-style training.</p>
+        <p>Interested in speed, strength and precision, she focused on stamina and energy in a way other teachers did not. ''Dancers knew that if they could get through her extremely demanding class, they could take on the most technically difficult roles onstage,'' said Kay Mazzo, a former City Ballet star trained by Ms. Tumkovsky who heads the school faculty with Peter Martins, the balletmaster in chief of City Ballet.</p>
+        <p>Born in Kiev on Aug. 21, 1905, Ms. Tumkovsky became a soloist in the Kiev Ballet but moved to Berlin during World War II. After she immigrated to New York in 1949 with a sister and a niece, Nina Greene, who survives her, Ms. Tumkovsky applied to Balanchine. She told him she had been only a soloist, not a ballerina; he replied that most teaching applicants told him they had been ballerinas. He said he liked soloists, having been one himself, and hired her after watching her teach a class.</p>
+        <p>For many years she was one of the few faculty members who conducted the auditions for prospective pupils. ''She taught at least three generations of dancers and taught at all levels,'' Ms. Mazzo said.</p>
+        <p>Ms. Tumkovsky retired in 2003, at 98.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

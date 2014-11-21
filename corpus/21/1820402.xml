@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robyn Heller, Michael Lifland</title>
+    <meta content="21HELLER" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/fashion/weddings/21HELLER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820402"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Heller, Robyn Michelle (Robyn Michelle Lifland)</person>
+        <person class="indexing_service">Lifland, Michael Louis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E4DB1E30F932A15752C0A9619C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robyn Heller, Michael Lifland</hl1>
+        <hl2 class="online_headline">Robyn Heller, Michael Lifland</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Robyn Michelle Heller and Michael Louis Lifland were married last evening at Twenty Four Fifth, a party space in New York. Cantor Howard M. Stahl officiated.</p>
+        <p>Mrs. Lifland, 32, is a senior manager in operations for the securities evaluations department at Standard &amp; Poor's in New York. She graduated from Pennsylvania State University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Robyn Michelle Heller and Michael Louis Lifland were married last evening at Twenty Four Fifth, a party space in New York. Cantor Howard M. Stahl officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Robyn Michelle Heller and Michael Louis Lifland were married last evening at Twenty Four Fifth, a party space in New York. Cantor Howard M. Stahl officiated.</p>
+        <p>Mrs. Lifland, 32, is a senior manager in operations for the securities evaluations department at Standard &amp; Poor's in New York. She graduated from Pennsylvania State University.</p>
+        <p>She is a daughter of Lynn Heller and Morry Heller of Woodbury, N.Y. Her father is the director of operations for the northeast region for Triangle Services, a national building services company. Her mother is a saleswoman at an Ann Taylor clothing store in Huntington, N.Y.</p>
+        <p>Mr. Lifland, 31, is the senior vice president of KG Urban Advisors, a real estate investment and development firm in New York. He graduated from Cornell, where he also received a master's degree in regional planning. He has a master's degree in real estate from New York University.</p>
+        <p>He is the son of Donna Z. Lifland and Thomas A. Lifland of Lawrence, N.Y. His father is a tax lawyer in Lawrence.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

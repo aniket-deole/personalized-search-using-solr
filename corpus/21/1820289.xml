@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Life in the Fast Lane</title>
+    <meta content="21LIschneier" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/opinion/nyregionopinions/21LIschneier.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820289"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Airports</classifier>
+        <classifier class="online_producer" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <org class="online_producer">Verified Identity Pass</org>
+        <org class="online_producer">Transportation Security Administration</org>
+        <person class="online_producer">Schneier, Bruce</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E2DB1130F932A15752C0A9619C8B63" item-length="585" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Life in the Fast Lane</hl1>
+        <hl2 class="online_headline">Life in the Fast Lane</hl2>
+      </hedline>
+      <byline class="print_byline">By Bruce Schneier</byline>
+      <byline class="normalized_byline">Schneier, Bruce</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CLEAR, a private service that prescreens travelers for a $100 annual fee, has come to Kennedy International Airport. To benefit from the Clear Registered Traveler program, which is run by Verified Identity Pass, a person must fill out an application, let the service capture his fingerprints and iris pattern and present two forms of identification. If the traveler passes a federal background check, he will be given a card that allows him to pass quickly through airport security.</p>
+        <p>Sounds great, but it's actually two ideas rolled into one: one clever and one very stupid.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A prescreening service doesn’t make air travel more secure.</p>
+      </block>
+      <block class="full_text">
+        <p>CLEAR, a private service that prescreens travelers for a $100 annual fee, has come to Kennedy International Airport. To benefit from the Clear Registered Traveler program, which is run by Verified Identity Pass, a person must fill out an application, let the service capture his fingerprints and iris pattern and present two forms of identification. If the traveler passes a federal background check, he will be given a card that allows him to pass quickly through airport security.</p>
+        <p>Sounds great, but it's actually two ideas rolled into one: one clever and one very stupid.</p>
+        <p>The clever idea is allowing people to pay for better service. Clear has been in operation at the Orlando International Airport since July 2005, and members have passed through security checkpoints faster simply because they are segregated from less experienced fliers who don't know the drill.</p>
+        <p>Now, at Kennedy and other airports, Clear is purchasing and installing federally approved technology that will further speed up the screening process: scanners that will eliminate the need for cardholders to remove their shoes, and explosives detection machines that will eliminate the need for them to remove their coats and jackets. There are also Clear employees at the checkpoints who, although they can't screen cardholders, can guide members through the security process. Clear has not yet paid airports for an extra security lane or the Transportation Security Administration for extra screening personnel, but both of those enhancements are on the table if enough people sign up.</p>
+        <p>I fly more than 200,000 miles per year and would gladly pay $100 a year to get through airport security faster.</p>
+        <p>But the stupid idea is the background check. When first conceived, traveler programs focused on prescreening. Pre-approved travelers would pass through security checkpoints with less screening, and resources would be focused on everyone else. Sounds reasonable, but it would leave us all less safe.</p>
+        <p>Background checks are based on the dangerous myth that we can somehow pick terrorists out of a crowd if we could identify everyone. Unfortunately, there isn't any terrorist profile that prescreening can uncover. Timothy McVeigh could probably have gotten one of these cards. So could have Eric Rudolph, the pipe bomber at the 1996 Olympic Games in Atlanta. There isn't even a good list of known terrorists to check people against; the government list used by the airlines has been the butt of jokes for years.</p>
+        <p>And have we forgotten how prevalent identity theft is these days? If you think having a criminal impersonating you to your bank is bad, wait until they start impersonating you to the Transportation Security Administration.</p>
+        <p>The truth is that whenever you create two paths through security -- a high-security path and a low-security path -- you have to assume that the bad guys will find a way to exploit the low-security path. It may be counterintuitive, but we are all safer if the people chosen for more thorough screening are truly random and not based on an error-filled database or a cursory background check.</p>
+        <p>I think of Clear as a $100 service that tells terrorists if the F.B.I. is on to them or not. Why in the world would we provide terrorists with this ability?</p>
+        <p>We don't have to. Clear cardholders are not scrutinized less when they go through checkpoints, they're scrutinized more efficiently. So why not get rid of the background checks altogether? We should all be able to walk into the airport, pay $10, and use the Clear lanes when it's worth it to us.</p>
+        <p>Op-Ed Contributor Bruce Schneier writes about security and technology issues on his blog and is the author, most recently, of ''Beyond Fear: Thinking Sensibly About Security in an Uncertain World.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Bruce Schneier writes about security and technology issues on his blog and is the author, most recently, of ''Beyond Fear: Thinking Sensibly About Security in an Uncertain World.''</tagline>
+    </body.end>
+  </body>
+</nitf>

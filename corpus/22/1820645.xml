@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stock Offerings This Week</title>
+    <meta content="22equity" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820645"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E6DD1F30F931A15752C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stock Offerings This Week</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The following equity and convertible debt offerings are expected this week:</p>
+        <p>AeroVironment, an initial public offering of 6.7 million shares. Goldman Sachs.  Allis-Chalmers, 4.5 million shares. RBC Capital Markets.  Baldor Electric Company, 6.3 million shares. UBS.  Inverness Medical Innovations, five million shares. Jefferies.  J.Crew, 7.5 million shares. Goldman Sachs and Bear Stearns.  Kaiser Aluminum, 5.7 million shares. UBS and Bear Stearns.  Meruelo Maddux Properties, an initial public offering of 40 million shares. Friedman, Billings, Ramsey and UBS.  Oculus Innovative Sciences, 3.5 million shares. Roth Capital.  RAM Energy Resources, 11.8 million shares. RBC Capital Markets.  Tower Group, 2.5 million shares. Friedman, Billings, Ramsey.</p>
+        <p>(Source by MCM EquityWatch)</p>
+      </block>
+      <block class="full_text">
+        <p>The following equity and convertible debt offerings are expected this week:</p>
+        <p>AeroVironment, an initial public offering of 6.7 million shares. Goldman Sachs.  Allis-Chalmers, 4.5 million shares. RBC Capital Markets.  Baldor Electric Company, 6.3 million shares. UBS.  Inverness Medical Innovations, five million shares. Jefferies.  J.Crew, 7.5 million shares. Goldman Sachs and Bear Stearns.  Kaiser Aluminum, 5.7 million shares. UBS and Bear Stearns.  Meruelo Maddux Properties, an initial public offering of 40 million shares. Friedman, Billings, Ramsey and UBS.  Oculus Innovative Sciences, 3.5 million shares. Roth Capital.  RAM Energy Resources, 11.8 million shares. RBC Capital Markets.  Tower Group, 2.5 million shares. Friedman, Billings, Ramsey.</p>
+        <p>(Source by MCM EquityWatch)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

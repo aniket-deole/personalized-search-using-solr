@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critics Warn of Pitfalls In Democrats' Drug Plan</title>
+    <meta content="07drug" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/washington/07drug.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817211"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicare</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Pear, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Health Care Policy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Democratic Party</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE7DE1530F934A35752C0A9619C8B63" item-length="793" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critics Warn of Pitfalls In Democrats' Drug Plan</hl1>
+        <hl2 class="online_headline">Democrats’ Drug Plan Has Pitfalls, Critics Say</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT PEAR</byline>
+      <byline class="normalized_byline">Pear, Robert</byline>
+      <dateline>WASHINGTON, Jan. 6</dateline>
+      <abstract>
+        <p>Many economists and health policy experts see paradox in Democrats' plan for government to negotiate lower drug prices for Medicare beneficiaries without deciding which drugs are covered; say only way to get big savings is to steer patients to certain preferred drugs; Democrats say plan will overcome power of special interests in pharmaceutical and biotechnology industries, which would rather deal with dozens of private insurers than one big federal agency; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Democrats want the government to negotiate lower drug prices for Medicare beneficiaries, but insist that the government should not decide which drugs are covered.</p>
+        <p>Many economists and health policy experts see this as a paradox. The only way to get big savings and discounts, they say, is to steer patients to certain preferred drugs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Many experts say the only way to get big savings for Medicare is to steer patients to certain preferred drugs.</p>
+      </block>
+      <block class="full_text">
+        <p>Democrats want the government to negotiate lower drug prices for Medicare beneficiaries, but insist that the government should not decide which drugs are covered.</p>
+        <p>Many economists and health policy experts see this as a paradox. The only way to get big savings and discounts, they say, is to steer patients to certain preferred drugs.</p>
+        <p>The debate on this issue, bubbling for several years, will come to a boil in Congress next week as the House votes on a Democratic proposal to require the secretary of health and human services to negotiate with drug manufacturers on behalf of Medicare beneficiaries.</p>
+        <p>On the one hand, the bill says the secretary ''shall negotiate'' lower prices. On the other hand, the drug benefit would still be delivered by private insurers. Each plan would establish its own list of covered drugs, known as a formulary, and the secretary could not ''establish or require a particular formulary.''</p>
+        <p>Under the 2003 Medicare law, passed by a Republican Congress, insurers and their agents negotiate prices with drug manufacturers. The law prohibits the secretary from interfering in those negotiations.</p>
+        <p>Democrats describe their proposal as a way to overcome the power of special interests -- specifically, they say, the pharmaceutical and biotechnology industries, which would rather deal with dozens of private insurers than with one big federal agency.</p>
+        <p>''Direct negotiation for lower prescription drug prices is directly related to our lobbying and ethics reform legislation,'' said Representative Rahm Emanuel of Illinois, chairman of the House Democratic Caucus.</p>
+        <p>The purpose of both proposals, Mr. Emanuel said, is ''to make sure that special interests do not control what happens in Congress.''</p>
+        <p>Democrats often point to the Department of Veterans Affairs as a model, saying it negotiates much lower prices than Medicare gets. But the programs differ in significant ways.</p>
+        <p>Under federal law, the V.A. is guaranteed a substantial discount -- about 24 percent off the average price paid to the manufacturer of a brand-name drug by commercial customers. Starting with this guarantee, officials negotiate deeper discounts.</p>
+        <p>The veterans agency, which filled more than 120 million prescriptions last year, has a national formulary. The agency decides which drugs or classes of drugs it needs to treat its patients.</p>
+        <p>After those decisions are made, drug companies compete for the business, and the V.A. often encourages doctors to switch patients to the drugs that are selected, if it is medically appropriate to do so.</p>
+        <p>Dr. Alan M. Garber, director of the Center for Health Policy at Stanford University, said he did not see how Medicare officials could obtain big discounts unless they were able to establish a restrictive formulary.</p>
+        <p>''To obtain drugs at low prices, a purchaser must be able to say no to covering a particular drug,'' said Dr. Garber, who is an economist and a physician. ''If you cannot walk away from a deal, there's no way you can be sure of obtaining a low price. That's true whether you are buying a car, a house or medications.''</p>
+        <p>President Bush and the pharmaceutical industry adamantly oppose a requirement for Medicare to negotiate prices. But Congressional Democrats say it is worth a try.</p>
+        <p>''Republicans had their shot at making the drug bill work, and seniors are still not getting the prices they deserve,'' said Representative John D. Dingell of Michigan, the chief sponsor of the Democratic proposal.</p>
+        <p>''Republicans chose to take care of their friends in the drug industry,'' Mr. Dingell said. ''It's our turn to prove that the bill can work for seniors.''</p>
+        <p>AARP, the lobby for older Americans, supports the proposal. In a new advertising campaign, the group says: ''Medicare has 43 million members. And zero bargaining power when it comes to prescription drug prices.''</p>
+        <p>William D. Novelli, the chief executive of AARP, said that Medicare drug plans ''currently have little choice but to accept the high prices set by manufacturers'' for brand-name drugs if no competing products are available.</p>
+        <p>Under the Democrats' proposal, the secretary would negotiate the prices that could be charged to sponsors of Medicare drug plans, and those plans could try to obtain still lower prices on their own.</p>
+        <p>In a report this week, the Congressional Budget Office said that private purchasers had leverage in negotiating prices when they could ''systematically favor one brand-name drug over another,'' thus increasing its share of the market. Nothing in the Democratic proposal allows the secretary to choose one drug over another, or to influence the choices made by Medicare drug plans.</p>
+        <p>James R. Lang, former president of Anthem Prescription Management, a drug benefit manager, said: ''For this proposal to work, the government would have to take over price negotiations. It would have to take over formularies. You cannot do one without the other. There's no leverage. Manufacturers won't give up something for nothing.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

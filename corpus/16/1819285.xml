@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Blood and History</title>
+    <meta content="16q&amp;a" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819285"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q&amp;A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E7D81030F935A25752C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Blood and History</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Is there an evolutionary reason for human blood types?</p>
+        <p>A. The blood types classified as A, B, AB and O appeared and predominated in geographically separated populations over the course of human history, and it has been assumed that the differences conferred some biological advantage. A recent suggestive study links this advantage to how different kinds of infections, bacterial and viral, interact with different blood types.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Is there an evolutionary reason for human blood types?</p>
+        <p>A. The blood types classified as A, B, AB and O appeared and predominated in geographically separated populations over the course of human history, and it has been assumed that the differences conferred some biological advantage. A recent suggestive study links this advantage to how different kinds of infections, bacterial and viral, interact with different blood types.</p>
+        <p>The study, by researchers at University College, London, appeared in 2004 in the Proceedings of the Royal Society.</p>
+        <p>Blood types are characterized by certain complex sugars, with the types differing genetically. When the sugars end up on the surfaces of cells, they determine how the body and an invader interact.</p>
+        <p>The researchers' statistical model found that the rates of occurrence of these blood types closely mirrored the distribution of opportunistic bacterial infections, which are best fought off by A and B blood types, and the distribution of viral infections, which are best fought off by O blood types.</p>
+        <p>The researchers said they hoped the study could point the way to a better understanding of how the changing influenza virus could be fought off by the immune system.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q&amp;A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>G.M. Holds Results and Plans Big Restatement</title>
+    <meta content="26auto" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/automobiles/26auto.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821520"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <org class="indexing_service">General Motors Corp</org>
+        <person class="indexing_service">Bunkley, Nick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">General Motors Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE5DE173FF935A15752C0A9619C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>G.M. Holds Results and Plans Big Restatement</hl1>
+        <hl2 class="online_headline">G.M. Holds Results and Plans Big Restatement</hl2>
+      </hedline>
+      <byline class="print_byline">By NICK BUNKLEY</byline>
+      <byline class="normalized_byline">Bunkley, Nick</byline>
+      <dateline>DETROIT, Jan. 25</dateline>
+      <abstract>
+        <p>General Motors says it expects to post profit for fourth quarter but will delay reporting results to allow more time to complete calculations; will restate earnings for previous five years (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>General Motors said Thursday that it expected to post a profit for the fourth quarter but that it would delay reporting the results because its finance arm needs more time to complete calculations.</p>
+        <p>At the same time, G.M. said it would restate earnings for the previous five years, including some reports that have already been revised once.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>General Motors said it expected to post a fourth quarter profit but will delay the results because its finance arm needs more time to complete calculations.</p>
+      </block>
+      <block class="full_text">
+        <p>General Motors said Thursday that it expected to post a profit for the fourth quarter but that it would delay reporting the results because its finance arm needs more time to complete calculations.</p>
+        <p>At the same time, G.M. said it would restate earnings for the previous five years, including some reports that have already been revised once.</p>
+        <p>Unlike a year ago, when G.M. altered its 2005 annual report to show an additional $2 billion loss, the corrections are not expected to have a material impact on cash flow, G.M.'s chief financial officer, Frederick A. Henderson, said. Retained earnings from the end of 2001 through the third quarter of 2006 were understated by $450 million to $600 million, he said.</p>
+        <p>Mr. Henderson, known as Fritz, said the problems related primarily to pre-2002 tax accounting adjustments, causing deferred tax liabilities to be overstated. He insisted that the errors were not representative of a larger problem, even though the problems discovered last year prompted the Securities and Exchange Commission to begin an investigation.</p>
+        <p>''Many companies have been going through this'' because of several complex new accounting standards, Mr. Henderson said late Thursday.</p>
+        <p>G.M. has made some changes in an effort to improve accounting oversight, including melding the controller and chief accounting officer jobs into one.</p>
+        <p>G.M. had planned to release its fourth-quarter results next Tuesday. Mr. Henderson said that executives would provide an update the week of Feb. 5 and that G.M. would file its annual report by the March 1 deadline.</p>
+        <p>The restatement is unrelated to the cause for delaying next week's earnings report. General Motors Acceptance Corporation, which is being partially sold to raise money for G.M., is still determining its fourth-quarter results.</p>
+        <p>G.M. attempted to cushion the announcement of another restatement and delay by reporting that the performance of its automotive unit improved significantly in the fourth quarter.</p>
+        <p>Mr. Henderson said the automaker had record revenue and would post a consolidated net profit.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

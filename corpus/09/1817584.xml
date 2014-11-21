@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Knicks Have a Surplus of Starters for a Change</title>
+    <meta content="09knicks" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/sports/basketball/09knicks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817584"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <org class="indexing_service">New York Knickerbockers</org>
+        <person class="indexing_service">Fuchs, Marek</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New York Knicks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <org class="online_producer">New York Knicks</org>
+        <person class="online_producer">Richardson, Quentin</person>
+        <person class="online_producer">Robinson, Nate</person>
+        <person class="online_producer">Thomas, Isiah</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E7D71530F93AA35752C0A9619C8B63" item-length="455" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Knicks Have a Surplus of Starters for a Change</hl1>
+        <hl2 class="online_headline">Knicks Have a Surplus of Starters for a Change</hl2>
+      </hedline>
+      <byline class="print_byline">By MAREK FUCHS</byline>
+      <byline class="normalized_byline">Fuchs, Marek</byline>
+      <dateline>GREENBURGH, N.Y., Jan. 8</dateline>
+      <abstract>
+        <p>New York Knicks may rearrange starting lineup as players return from injuries; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the anticipated return of Quentin Richardson and Nate Robinson for Wednesday's game against the Philadelphia 76ers at Madison Square Garden, the Knicks will be at nearly full strength in a season in which they have lost players to injuries and suspensions and often played better while shorthanded.</p>
+        <p>The question at Monday's practice, as it has been at other times this season, was who would be in the starting lineup Wednesday. Coach Isiah Thomas said that for the immediate future he would stay with the same players who started the final two games of the Knicks' recent trip, lopsided victories against Portland and Seattle.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Knicks will be at nearly full strength for Wednesday's game in a season in which they have lost players to injuries and suspensions and often played better while shorthanded.</p>
+      </block>
+      <block class="full_text">
+        <p>With the anticipated return of Quentin Richardson and Nate Robinson for Wednesday's game against the Philadelphia 76ers at Madison Square Garden, the Knicks will be at nearly full strength in a season in which they have lost players to injuries and suspensions and often played better while shorthanded.</p>
+        <p>The question at Monday's practice, as it has been at other times this season, was who would be in the starting lineup Wednesday. Coach Isiah Thomas said that for the immediate future he would stay with the same players who started the final two games of the Knicks' recent trip, lopsided victories against Portland and Seattle.</p>
+        <p>''I don't want to prejudge or predetermine anything,'' Thomas said. ''I want to see where everybody's game is at.''</p>
+        <p>Stephon Marbury, Eddy Curry, Jared Jeffries, Channing Frye and Jamal Crawford started in the victories against Portland and Seattle. Of those five, only Marbury and Curry seem assured of remaining starters, particularly as Richardson weaves his way back into the team's nucleus.</p>
+        <p>Richardson began the season as the Knicks' starting small forward, because Jeffries was out with a wrist injury, but then missed 11 games with a bad back. Thomas said Richardson would get some time to ''knock the rust off'' his game, as would Robinson, who has finished serving a 10-game suspension for fighting.</p>
+        <p>Because Richardson is the team's best 3-point shooter and because he can also play shooting guard, he may eventually start in place of Crawford, who can score in bunches and has become adept at lobbing the ball inside to Curry for easy baskets. Richardson plays better defense than Crawford, and he also rebounds well.</p>
+        <p>During his injury layoff, Richardson was a visible cheerleader on the bench. In one memorable moment, he ran across the court in a suit to embrace Frye after Frye, a second-year forward, made a tying shot during the Knicks' three-overtime victory against Detroit last month. On Monday, he was the proper diplomat, saying, ''My job is to come in and fit in.''</p>
+        <p>In recent weeks, the most constant lineup question Thomas faced -- and one he will continue to be questioned about -- was why the second-year forward David Lee, who has turned into one of the N.B.A.'s most capable rebounders, was not starting every game. Thomas's response has been to say that he likes the way Lee is playing, but that he believes Lee provides the team with more of a spark when he comes off the bench.</p>
+        <p>That could change, as could the roles of other players.</p>
+        <p>''We'll give it a couple of games and see how it goes,'' said Thomas, who added that he felt good coming off a pair of victories on the West Coast. ''Good and lucky.''</p>
+        <p>PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

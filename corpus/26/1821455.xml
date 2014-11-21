@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Watching a History Lesson That's Told Through Tango</title>
+    <meta content="26tang" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/arts/dance/26tang.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821455"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Tango X 2 (Dance Co)</org>
+        <person class="indexing_service">Kourlas, Gia</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <person class="online_producer">Zotto, Miguel Angel</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0D7163FF935A15752C0A9619C8B63" item-length="378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Watching a History Lesson That's Told Through Tango</hl1>
+        <hl2 class="online_headline">Watching a History Lesson That’s Told Through Tango</hl2>
+      </hedline>
+      <byline class="print_byline">By GIA KOURLAS</byline>
+      <byline class="normalized_byline">Kourlas, Gia</byline>
+      <abstract>
+        <p>Gia Kourlas reviews performance by Tango X 2 at City Center; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Miguel Angel Zotto re-entered New York society on Wednesday when his company, Tango X 2, performed for the first time in a decade at City Center. The group, formed in 1988, presented ''Su Historia,'' a two-act show tracing the company's history and paying homage to Mr. Zotto's tango heroes.</p>
+        <p>The first act is strongest, even though it begins with a fairly overwrought narration of Mr. Zotto's influences by Claudio Garces, who describes himself as ''an angel.'' As a six-piece orchestra performs on a raised platform, Mr. Zotto, a compact dancer with feet so agile they seem disconnected from his body, performs a sensual, slow tango with Carina Morrudo.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Miguel Angel Zotto’s company paid homage to Mr. Zotto’s heroes in “Su Historia,” a show that transforms polished tango into a slick vaudeville act.</p>
+      </block>
+      <block class="full_text">
+        <p>Miguel Angel Zotto re-entered New York society on Wednesday when his company, Tango X 2, performed for the first time in a decade at City Center. The group, formed in 1988, presented ''Su Historia,'' a two-act show tracing the company's history and paying homage to Mr. Zotto's tango heroes.</p>
+        <p>The first act is strongest, even though it begins with a fairly overwrought narration of Mr. Zotto's influences by Claudio Garces, who describes himself as ''an angel.'' As a six-piece orchestra performs on a raised platform, Mr. Zotto, a compact dancer with feet so agile they seem disconnected from his body, performs a sensual, slow tango with Carina Morrudo.</p>
+        <p>In the dozens of numbers that follow, including the sweetly evocative ''De Puro Guapo,'' which presents six men practicing tango steps, the dancing is given room to shine with a refreshing, no-frills sensibility.</p>
+        <p>''Choreography Collage'' recreates songs and dances featured in the company's previous shows. In ''Mala Junta,'' Gabriel Ponce and Analia Morales glide in a traditional number that makes the most of their tension and trust in a silky sequence of dips, lifts and turns.</p>
+        <p>But the lighting, from harsh to murky, isn't always flattering, and the music frequently suffers from a weak sound system. Over all, the dances seem rushed -- more a series of clips than a harmonious showcase.</p>
+        <p>The bewildering second act introduces unhappy young women arriving in Argentina for new lives ''in the brothels of Buenos Aires.'' In ''Gath &amp; Chaves,'' a section named after a department store, women pose as mannequins but come to life to dance a tango, a waltz, a milonga and, finally, a mystifying number called ''Hound Dog.'' Here, Mr. Zotto trades his suit jacket for leather and rocks out, looking very much like a hopeless father trying to be hip.</p>
+        <p>The final section, in honor of the composer Astor Piazzolla, is just as tacky, especially when the women, scantily clad, grind against bandoneóns, the accordion instrument of tango. Much of the second act meanders with modern influences, and when ''Su Historia'' ends, there is an unsettling flatness. For all its early success, the show transforms polished tango into a slick vaudeville act.</p>
+        <p>''Su Historia'' continues through Sunday at City Center, 131 West 55th Street; (212) 581-1212.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

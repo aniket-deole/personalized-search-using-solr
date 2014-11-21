@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Latest New Wave</title>
+    <meta content="14rest" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/dining/14rest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818824"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOOD EATING/WILLIAMSBURG"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">Williamsburg (NYC)</location>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Good Eating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E2DB1330F937A25752C0A9619C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Latest New Wave</hl1>
+        <hl2 class="online_headline">The Latest New Wave</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by Kris Ensminger</byline>
+      <abstract>
+        <p>Excerpts from previously published reviews of new restaurants in Williamsburg, Brooklyn (Good Eating column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As luxury condos and waterfront development are redefining Williamsburg, the longtime hipster central of Brooklyn, the dining scene is as hot as ever. These restaurants have all opened in the past year.</p>
+        <p>DRESSLER ** [Rating: Two Stars]  (718) 384-6343; 149 Broadway (Bedford Avenue); $$; Review: 6/7/06.</p>
+        <p>Dressler promises and delivers contemporary American food that's sophisticated without being too clever, in a room that's beautiful without being too flamboyant. Current entrees include a grilled center-cut pork chop with fresh bacon, spaetzle and braised red cabbage.</p>
+        <p>GRIBOUILLE  (718) 384-3100; 2 Hope Street (Roebling Street); $; Article: 4/26/06.</p>
+        <p>This little corner of France occupies a lovely whitewashed storefront with a bright room that has a tin ceiling, paper-covered tables and a display case. Excellent croissants, moist almond muffins, lemon tartlets and assorted quiches are among the specialties. There are also soups, salads, sandwiches and a recently added dinner menu.</p>
+        <p>JULIETTE  (718) 388-9222; 135 North Fifth Street (Bedford Street); $$; Article 11/22/06.</p>
+        <p>This sweet French bistro has a menu that takes tradition to heart with dishes like steamed artichokes, steak frites and fish done niçoise style with aioli. The few Mexican notes, like chicken soup with cilantro and chicken with guacamole, are a trifle jarring.</p>
+        <p>PIES 'N' THIGHS  (347) 282-6005; 351 Kent Avenue (entrance on South Fifth Street); $; $25 and Under: 6/7/06.</p>
+        <p>Stephen Tanner, a Georgia native, is the man behind the pulled pork and the savory side dishes on the short menu of affordable and generally excellent comfort food with a Southern accent. His partner, Sarah Buck, makes classic cookies and pies on a par with the best homemade baked goods. The restaurant, such as it is, occupies a tiny closet of a kitchen and an alleyway in back of the Rock Star Bar.</p>
+        <p>WILD GINGER  (718) 218-8828; 212 Bedford Avenue (North Fifth Street); $; Article 11/15/06.</p>
+        <p>The menu at this branch of a vegan spot in SoHo is inspired by traditional Japanese, Chinese, Vietnamese and Thai appetizers, entrees and beverages.</p>
+        <p>THE WOMBAT  (718) 218-7077; 613 Grand Street (Lorimer Street); $; Article: 11/8/06.</p>
+        <p>Australia is the inspiration for dishes like shrimp on the barbie and venison and aboriginal soup, which is made with a cured-meat stock.</p>
+        <p>ZENKICHI  (718) 388-8985; 77 North Sixth Street (Wythe Avenue); $; Article: 11/1/06.</p>
+        <p>This Japanese brasserie offers small plates of dishes like Kumamoto oyster gratin and camembert and shrimp tempura. Buttons on the tables summon waiters.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As luxury condos and waterfront development are redefining Williamsburg, the longtime hipster central of Brooklyn, the dining scene is as hot as ever.</p>
+      </block>
+      <block class="full_text">
+        <p>As luxury condos and waterfront development are redefining Williamsburg, the longtime hipster central of Brooklyn, the dining scene is as hot as ever. These restaurants have all opened in the past year.</p>
+        <p>DRESSLER ** [Rating: Two Stars]  (718) 384-6343; 149 Broadway (Bedford Avenue); $$; Review: 6/7/06.</p>
+        <p>Dressler promises and delivers contemporary American food that's sophisticated without being too clever, in a room that's beautiful without being too flamboyant. Current entrees include a grilled center-cut pork chop with fresh bacon, spaetzle and braised red cabbage.</p>
+        <p>GRIBOUILLE  (718) 384-3100; 2 Hope Street (Roebling Street); $; Article: 4/26/06.</p>
+        <p>This little corner of France occupies a lovely whitewashed storefront with a bright room that has a tin ceiling, paper-covered tables and a display case. Excellent croissants, moist almond muffins, lemon tartlets and assorted quiches are among the specialties. There are also soups, salads, sandwiches and a recently added dinner menu.</p>
+        <p>JULIETTE  (718) 388-9222; 135 North Fifth Street (Bedford Street); $$; Article 11/22/06.</p>
+        <p>This sweet French bistro has a menu that takes tradition to heart with dishes like steamed artichokes, steak frites and fish done niçoise style with aioli. The few Mexican notes, like chicken soup with cilantro and chicken with guacamole, are a trifle jarring.</p>
+        <p>PIES 'N' THIGHS  (347) 282-6005; 351 Kent Avenue (entrance on South Fifth Street); $; $25 and Under: 6/7/06.</p>
+        <p>Stephen Tanner, a Georgia native, is the man behind the pulled pork and the savory side dishes on the short menu of affordable and generally excellent comfort food with a Southern accent. His partner, Sarah Buck, makes classic cookies and pies on a par with the best homemade baked goods. The restaurant, such as it is, occupies a tiny closet of a kitchen and an alleyway in back of the Rock Star Bar.</p>
+        <p>WILD GINGER  (718) 218-8828; 212 Bedford Avenue (North Fifth Street); $; Article 11/15/06.</p>
+        <p>The menu at this branch of a vegan spot in SoHo is inspired by traditional Japanese, Chinese, Vietnamese and Thai appetizers, entrees and beverages.</p>
+        <p>THE WOMBAT  (718) 218-7077; 613 Grand Street (Lorimer Street); $; Article: 11/8/06.</p>
+        <p>Australia is the inspiration for dishes like shrimp on the barbie and venison and aboriginal soup, which is made with a cured-meat stock.</p>
+        <p>ZENKICHI  (718) 388-8985; 77 North Sixth Street (Wythe Avenue); $; Article: 11/1/06.</p>
+        <p>This Japanese brasserie offers small plates of dishes like Kumamoto oyster gratin and camembert and shrimp tempura. Buttons on the tables summon waiters.</p>
+        <p>GOOD EATING/WILLIAMSBURG E-mail: eating@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: eating@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Up Front</title>
+    <meta content="Upfront.t" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/books/review/Upfront.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820200"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Wolfe, Alan</person>
+        <person class="indexing_service">D'Souza, Dinesh</person>
+        <object.title class="indexing_service">Enemy at Home (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">D'Souza, Dinesh</person>
+        <person class="online_producer">Wolfe, Alan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E5D91230F932A15752C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Up Front</hl1>
+        <hl2 class="online_headline">Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By The Editors</byline>
+      <abstract>
+        <p>Book Review editors introduce Alan Wolfe review of Dinesh D'Souza book Enemy at Home (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In his review of Dinesh D'Souza's ''Enemy at Home,'' Alan Wolfe makes the assumption that he is one of those D'Souza has in mind when he speaks of ''decent liberals.'' If not, Wolfe should be, because over the years he has made a name for himself as the man editors turn to when they want a temperate, reasoned discussion of a hot-button issue from a slightly left-of-center perspective. As a result, he appears again and again in publications like The New Republic, Commonweal, The New Yorker and The Wall Street Journal. A list of his books, articles and reviews runs to 25 pages; his byline has appeared 21 times in The Book Review alone.</p>
+        <p>In addition to his writing, Wolfe teaches political science at Boston College, where he is the director of the Boisi Center for Religion and American Public Life. He also heads a task force on religion and democracy for the American Political Science Association. As a final word on the book he reviews on Page 6 in this issue, Wolfe had this to say in an e-mail message: ''Unlike D'Souza, I have not yet gotten over 9/11.</p>
+        <p>''The Editors</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Unlike Dinesh D’Souza, “I have not yet gotten over 9/11,” says Alan Wolfe.</p>
+      </block>
+      <block class="full_text">
+        <p>In his review of Dinesh D'Souza's ''Enemy at Home,'' Alan Wolfe makes the assumption that he is one of those D'Souza has in mind when he speaks of ''decent liberals.'' If not, Wolfe should be, because over the years he has made a name for himself as the man editors turn to when they want a temperate, reasoned discussion of a hot-button issue from a slightly left-of-center perspective. As a result, he appears again and again in publications like The New Republic, Commonweal, The New Yorker and The Wall Street Journal. A list of his books, articles and reviews runs to 25 pages; his byline has appeared 21 times in The Book Review alone.</p>
+        <p>In addition to his writing, Wolfe teaches political science at Boston College, where he is the director of the Boisi Center for Religion and American Public Life. He also heads a task force on religion and democracy for the American Political Science Association. As a final word on the book he reviews on Page 6 in this issue, Wolfe had this to say in an e-mail message: ''Unlike D'Souza, I have not yet gotten over 9/11.</p>
+        <p>''The Editors</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

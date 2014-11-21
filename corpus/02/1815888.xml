@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cholesterol Level and Parkinson's May Be Linked</title>
+    <meta content="02atri" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815888"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: AT RISK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parkinson's Disease</classifier>
+        <classifier class="indexing_service" type="descriptor">Cholesterol</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <org class="indexing_service">University of North Carolina</org>
+        <org class="indexing_service">Movement Disorders (Journal)</org>
+        <person class="indexing_service">Bakalar, Nicholas</person>
+        <person class="indexing_service">Huang, Xuemei (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cholesterol</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Parkinson's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cholesterol</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parkinson's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEED71630F931A35752C0A9619C8B63" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cholesterol Level and Parkinson's May Be Linked</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+      <abstract>
+        <p>Dr Xuemei Huang, University of North Carolina School of Medicine neurologist and Parkinson's disease expert, leads study that shows people with very low levels of LDL cholesterol may be at increased risk of developing Parkinson's; research is published in journal Movement Disorders (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Very low levels of LDL, the so-called bad cholesterol, may be linked with an increased risk for Parkinson's disease, a new study suggests.</p>
+        <p>Researchers compared blood levels of LDL cholesterol in 124 Parkinson's patients with a control group of 112 of their healthy spouses. Compared with people in the highest one-quarter in LDL levels, those in the lower 75 percent were two to three and a half times as likely to suffer from Parkinson's. There was no association between Parkinson's and levels of HDL cholesterol.</p>
+      </block>
+      <block class="full_text">
+        <p>Very low levels of LDL, the so-called bad cholesterol, may be linked with an increased risk for Parkinson's disease, a new study suggests.</p>
+        <p>Researchers compared blood levels of LDL cholesterol in 124 Parkinson's patients with a control group of 112 of their healthy spouses. Compared with people in the highest one-quarter in LDL levels, those in the lower 75 percent were two to three and a half times as likely to suffer from Parkinson's. There was no association between Parkinson's and levels of HDL cholesterol.</p>
+        <p>Normally, having a low LDL level is a healthy sign. But does this mean that having a higher LDL is actually a good thing? Absolutely not, said Dr. Xuemei Huang, the lead author of the study.</p>
+        <p>''If a person is healthy with a cholesterol in the middle range, and no family history of heart disease, radically lowering cholesterol may not be necessary,'' she said. ''But at the same time, we're not urging anyone to change his diet or medication based on this finding.'' Dr. Huang is a Parkinson's expert and a neurologist at the University of North Carolina School of Medicine.</p>
+        <p>The findings, based on retrospective data, could not demonstrate a cause and effect relationship between a low level of LDL and Parkinson's, the authors said. The paper was published online Dec. 18 in the journal Movement Disorders.</p>
+        <p>Men and women in the study who used cholesterol-lowering drugs were about a third as likely to have Parkinson's as those who did not use the drugs. This finding led researchers to suggest that testing the effect of statins on neurodegenerative disease with a much larger sample of patients could be useful.</p>
+        <p>VITAL SIGNS: AT RISK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

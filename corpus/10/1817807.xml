@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="10trsale" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817807"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E1DE1230F933A25752C0A9619C8B63" item-length="237" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSALIE R. RADOMSKY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Recent Sale</p>
+        <p>$42.8 million  One Centennial Plaza  Buildings B and C  Piscataway, N.J.</p>
+        <p>An Australian investor has bought a condominium interest in these two fully leased 237,000-square-foot office buildings, part of a four-building, 24-acre complex.</p>
+        <p>Buyer: Mariner American Property Income Trust  Seller: LNJ Centennial Owner L.L.C.  Brokers: Jose Cruz, Andrew Merin, David Bernhaut and Gary Gabriel, Cushman &amp; Wakefield Metropolitan Area Capital Markets Group</p>
+        <p>Recent Lease</p>
+        <p>$32/sq. ft.  approximate annual rent $572,160  90 Broad Street (between Stone and Bridge Streets)  Manhattan</p>
+        <p>A provider of foreign tax recovery services has taken the entire 16th floor, covering 17,880 square feet, in this 25-story 1930 office building.</p>
+        <p>Tenant: Globe Tax Services Inc.  Tenant broker: Justin Aronson, Trammell Crow Co.  Landlord: Swig Equities  Landlord brokers: Andrew Peretz and John Peters, Cushman &amp; Wakefield</p>
+        <p>For Lease</p>
+        <p>$52/sq. ft.  600 Broadway (at Houston and Crosby Streets)  Manhattan</p>
+        <p>This six-story 1884 SoHo building, to be renovated in the next few months, is offering 10- to 15-year leases for the five upper floors, each with 11,250 square feet. (The rent on the sixth floor, with skylights and roof rights, is $55 a square foot.)</p>
+        <p>Owner: Enterprise Asset Management  Brokers: Kenneth Kronstadt and Rick Kramer, Newmark Knight Frank</p>
+        <p>ROSALIE R. RADOMSKY</p>
+      </block>
+      <block class="full_text">
+        <p>Recent Sale</p>
+        <p>$42.8 million  One Centennial Plaza  Buildings B and C  Piscataway, N.J.</p>
+        <p>An Australian investor has bought a condominium interest in these two fully leased 237,000-square-foot office buildings, part of a four-building, 24-acre complex.</p>
+        <p>Buyer: Mariner American Property Income Trust  Seller: LNJ Centennial Owner L.L.C.  Brokers: Jose Cruz, Andrew Merin, David Bernhaut and Gary Gabriel, Cushman &amp; Wakefield Metropolitan Area Capital Markets Group</p>
+        <p>Recent Lease</p>
+        <p>$32/sq. ft.  approximate annual rent $572,160  90 Broad Street (between Stone and Bridge Streets)  Manhattan</p>
+        <p>A provider of foreign tax recovery services has taken the entire 16th floor, covering 17,880 square feet, in this 25-story 1930 office building.</p>
+        <p>Tenant: Globe Tax Services Inc.  Tenant broker: Justin Aronson, Trammell Crow Co.  Landlord: Swig Equities  Landlord brokers: Andrew Peretz and John Peters, Cushman &amp; Wakefield</p>
+        <p>For Lease</p>
+        <p>$52/sq. ft.  600 Broadway (at Houston and Crosby Streets)  Manhattan</p>
+        <p>This six-story 1884 SoHo building, to be renovated in the next few months, is offering 10- to 15-year leases for the five upper floors, each with 11,250 square feet. (The rent on the sixth floor, with skylights and roof rights, is $55 a square foot.)</p>
+        <p>Owner: Enterprise Asset Management  Brokers: Kenneth Kronstadt and Rick Kramer, Newmark Knight Frank</p>
+        <p>ROSALIE R. RADOMSKY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

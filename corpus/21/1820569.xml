@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Folk Arts Programs, Far and Wide</title>
+    <meta content="l21island-2" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820569"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Culture</classifier>
+        <classifier class="indexing_service" type="descriptor">Suburbs</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <location class="indexing_service">Long Island (NY)</location>
+        <location class="indexing_service">Rockland County (NY)</location>
+        <person class="indexing_service">Solomon, Nancy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suburbs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5DE1F30F932A15752C0A9619C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Folk Arts Programs, Far and Wide</hl1>
+      </hedline>
+      <abstract>
+        <p>Long Island Traditions executive director Nancy Solomon letter, also signed by representatives of Westchester Arts Council, Historical Society of Rockland County and New York State Council on the Arts, on January 1 article that underscored how new demographics of suburbs are stimulating programming by arts organizations</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Presenting the Arts to New Audiences'' (Jan. 7) underscored how the new demographics of the suburbs are stimulating programming by arts organizations to engage diverse groups in their communities. Folklife initiatives are now uniting ethnic groups across suburban regions and generating original field research by professional folklorists to identify traditional artists and sustain their traditions, among recently arrived as well as established residents.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Presenting the Arts to New Audiences'' (Jan. 7) underscored how the new demographics of the suburbs are stimulating programming by arts organizations to engage diverse groups in their communities. Folklife initiatives are now uniting ethnic groups across suburban regions and generating original field research by professional folklorists to identify traditional artists and sustain their traditions, among recently arrived as well as established residents.</p>
+        <p>Suburban folk arts programs have joined to present Asian Indian music and dance through concerts and educational workshops in Westchester and on Long Island. Folklorists have documented and presented boat building traditions of the Great South Bay and the South Fork; calligraphy, paper cutting and sacred arts of multiple ethnic groups; and Latino traditions in exceptionally diverse Rockland County.</p>
+        <p>Since 1985, such projects have been made possible through the strong commitment of the New York State Council on the Arts to its Folk Arts Program, which has developed and supported over 2,000 community-based projects. The program provides funds for a thriving network of 13 ongoing regional programs along with apprenticeships, exhibitions, concerts, festivals and documentation projects.</p>
+        <p>Nancy Solomon  Executive Director  Long Island Traditions  Port Washington</p>
+        <p>This letter was also signed by representatives of the Westchester Arts Council, the Historical Society of Rockland County and the New York State Council on the Arts.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Threat to Pedestrians: Private Garbage Trucks</title>
+    <meta content="l14city-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818868"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Komanoff, Charles</person>
+        <person class="indexing_service">Robbins, Sara</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5D71330F937A25752C0A9619C8B63" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Threat to Pedestrians: Private Garbage Trucks</hl1>
+      </hedline>
+      <abstract>
+        <p>Right of Way coordinator Charles Komanoff letter on December 24 article on death of Sara Robbins, director of Brooklyn Law School library who was struck by private sanitation truck</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your reporting in ''A Death in the Family'' (Dec. 24) makes clear that the traffic maneuver that killed Sara Robbins, the director of Brooklyn Law School's library, in Brooklyn Heights last month was a left turn by a private sanitation truck.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your reporting in ''A Death in the Family'' (Dec. 24) makes clear that the traffic maneuver that killed Sara Robbins, the director of Brooklyn Law School's library, in Brooklyn Heights last month was a left turn by a private sanitation truck.</p>
+        <p>So it's mystifying, and maddening, that for all the article's fussing over ''the intricate mechanics of the collision,'' it neglected to say that Ms. Robbins, who was proceeding straight and on foot, had the right of way over a turning truck.</p>
+        <p>Eight years ago, our study of New York City pedestrian fatalities, ''Killed by Automobile,'' established that the most lethal crash scenario is drivers turning into pedestrians in crosswalks, and that the most lethal vehicles, per mile driven, are private sanitation trucks.</p>
+        <p>Ms. Robbins's awful death, combined with that of Jessica Schmitz, who was killed two days later when a private sanitation truck turned into her path as she was lawfully crossing Park Avenue in Manhattan, suggests that nothing has changed.</p>
+        <p>Charles Komanoff  TriBeCa</p>
+        <p>The writer is coordinator of Right of Way, a pedestrian advocacy group.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

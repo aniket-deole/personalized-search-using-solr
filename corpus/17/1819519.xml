@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: France: Now There Are Three</title>
+    <meta content="17briefs-7" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819519"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <location class="indexing_service">France</location>
+        <location class="indexing_service">France</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0DE1130F934A25752C0A9619C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: France: Now There Are Three</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN TAGLIABUE</byline>
+      <abstract>
+        <p>France has more babies in 2006 than in any year in last quarter-century, capping decade of rising fertility that bucks Europe's graying trend; government cites family-friendly policies like cheap day care and generous parental leave (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>René Riffaud, one of just four known surviving French veterans of World War I, died at the age of 108, according to the national veterans office. His existence was unknown to the authorities until last year, when he emerged from obscurity to claim veteran status under pressure from relatives. Nationwide commemorations are expected at the death of the last member of the group.</p>
+        <p>JOHN TAGLIABUE</p>
+      </block>
+      <block class="full_text">
+        <p>René Riffaud, one of just four known surviving French veterans of World War I, died at the age of 108, according to the national veterans office. His existence was unknown to the authorities until last year, when he emerged from obscurity to claim veteran status under pressure from relatives. Nationwide commemorations are expected at the death of the last member of the group.</p>
+        <p>JOHN TAGLIABUE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

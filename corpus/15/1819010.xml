@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  SCHUSTACK, BERNICE ''BUNNY'' (NEE ROCHKIND)</title>
+    <meta content="dn011507" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819010"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SCHUSTACK, BERNICE ''BUNNY'' (NEE ROCHKIND)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E1DF1F3AF936A25752C0A9619C8B63" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  SCHUSTACK, BERNICE ''BUNNY'' (NEE ROCHKIND)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCHUSTACK--Bernice ''Bunny'' (nee Rochkind) 79 of East Northport, NY on Friday, January 12, 2007. Wife of William D.; mother of Susan Frankel and Amy Schustack; sister of Michael Rochkind; grandmother of David and Leora Frankel. Service 9:30 AM, Monday, at Mount Sinai Memorial Chapels, East Brunswick, NJ. For directions please visit www.msmc.us. Burial New Mount Carmel Cemetery, Glendale, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>SCHUSTACK--Bernice ''Bunny'' (nee Rochkind) 79 of East Northport, NY on Friday, January 12, 2007. Wife of William D.; mother of Susan Frankel and Amy Schustack; sister of Michael Rochkind; grandmother of David and Leora Frankel. Service 9:30 AM, Monday, at Mount Sinai Memorial Chapels, East Brunswick, NJ. For directions please visit www.msmc.us. Burial New Mount Carmel Cemetery, Glendale, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

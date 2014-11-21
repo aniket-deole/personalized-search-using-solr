@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Nader Ahriman -- Stromboli</title>
+    <meta content="26gall-5" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821607"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Scott, Andrea K</person>
+        <person class="indexing_service">Ahriman, Nader</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EFDD173FF935A15752C0A9619C8B63" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Nader Ahriman -- Stromboli</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREA K. SCOTT</byline>
+      <byline class="normalized_byline">Scott, Andrea K</byline>
+      <abstract>
+        <p>Andrea K Scott reviews paintings by Nader Ahriman at Friedrich Petzel Gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Friedrich Petzel Gallery  535 West 22nd Street, Chelsea  Through Feb. 10</p>
+        <p>No one would borrow the phrase ''dumb as a painter'' to describe Nader Ahriman, but someone might ask to borrow a copy of ''Thus Spake Zarathustra.'' A section of that Nietzsche classic, set on the volcanic isle of Stromboli, inspired the allegorical paintings (stilted) and watercolors (terrific) in Mr. Ahriman's debut at this gallery, his first New York show since 1998.</p>
+      </block>
+      <block class="full_text">
+        <p>Friedrich Petzel Gallery  535 West 22nd Street, Chelsea  Through Feb. 10</p>
+        <p>No one would borrow the phrase ''dumb as a painter'' to describe Nader Ahriman, but someone might ask to borrow a copy of ''Thus Spake Zarathustra.'' A section of that Nietzsche classic, set on the volcanic isle of Stromboli, inspired the allegorical paintings (stilted) and watercolors (terrific) in Mr. Ahriman's debut at this gallery, his first New York show since 1998.</p>
+        <p>Like Zarathustra, the painter is Persian. Like Nietzsche, he lives in Germany, where he studied art, as did Giorgio De Chirico, the Italian Surrealist who looms large in this show's crisp rendering, desolate open spaces, jutting diagonals and pair of faceless mannequins. Their robotic limbs -- one mummified arm sprouts paintbrushes instead of fingers -- are styled on the mechanomorphs of Francis Picabia and Max Ernst.</p>
+        <p>Richard Wagner puts in a predictable appearance in the culminating image of the 16-painting cycle. At the outset, five canvases detail the catching and cooking of rabbit -- with art historical ripples from Dürer's hare to Joseph Beuys's bunny. In one painting a stream of urine ends in a Pollock-like splatter of blue and white paint; in the next, a ghostly Barnett Newman zip bisects a bright blue sky.</p>
+        <p>The only hint that we've passed the mid-20th-century mark (aside from the use of acrylic paint) is the palette. Restricted to reds, greens and blues, it hints at the RGB color model of television screens and computer monitors.</p>
+        <p>We live in a dumbed-down culture, and Mr. Ahriman's dedication to Big Ideas is admirable. But as the onion-skin layers of references peel away ad absurdum, the cleverness of his cerebral enterprise threatens to outstrip its visual pleasures.</p>
+        <p>ANDREA K. SCOTT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

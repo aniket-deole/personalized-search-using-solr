@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Real Estate Broker Charged</title>
+    <meta content="25mbrfs-7" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821380"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Real Estate</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Cao, Shelly W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E5D8163FF936A15752C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Real Estate Broker Charged</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+      <abstract>
+        <p>Real estate broker Shelly W Cao is charged in New York City with defrauding investors of more than $1.5 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Queens real estate broker, Shelly W. Cao, was charged yesterday with defrauding investors of more than $1.5 million, the Queens district attorney, Richard A. Brown, said. He said that Ms. Cao, 40, of Bayside, was charged with accepting the money from four businessmen after telling them she would invest in property in upstate New York, but that she used the money to pay off loans. Ms. Cao's lawyer, Thomas McCullough, said that the matter stemmed from a business dispute now in civil court and that his client would plead not guilty.</p>
+      </block>
+      <block class="full_text">
+        <p>A Queens real estate broker, Shelly W. Cao, was charged yesterday with defrauding investors of more than $1.5 million, the Queens district attorney, Richard A. Brown, said. He said that Ms. Cao, 40, of Bayside, was charged with accepting the money from four businessmen after telling them she would invest in property in upstate New York, but that she used the money to pay off loans. Ms. Cao's lawyer, Thomas McCullough, said that the matter stemmed from a business dispute now in civil court and that his client would plead not guilty.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

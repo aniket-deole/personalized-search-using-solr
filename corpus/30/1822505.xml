@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lifting Ligeti With the Force Of an Organ</title>
+    <meta content="30scot" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/arts/music/30scot.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822505"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Smith, Steve</person>
+        <person class="indexing_service">Scott, John</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Ligeti, Gyorgy</person>
+        <person class="online_producer">Scott, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E6DB143FF933A05752C0A9619C8B63" item-length="400" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lifting Ligeti With the Force Of an Organ</hl1>
+        <hl2 class="online_headline">Lifting Ligeti With the Force of an Organ</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE SMITH</byline>
+      <byline class="normalized_byline">Smith, Steve</byline>
+      <abstract>
+        <p>Steve Smith reviews performance by organist John Scott at St Thomas Church (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A passer-by glancing through a rear window of the sanctuary at St. Thomas Church on Sunday evening might not have noticed anything amiss. The pews were filled with people whose heads were bowed in concentration, eyes closed tight; a few faces were turned heavenward in amazement or rapture.</p>
+        <p>But what had so transfixed this throng was ''Harmonies,'' an étude by the Hungarian composer Gyorgy Ligeti, performed midway through a recital by the organist John Scott, a concert presented by the Miller Theater at Columbia University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>John Scott’s performance of Gyorgy Ligeti’s “Harmonies’' sent the throng into a state of amazement and rapture at the Miller Theater on Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>A passer-by glancing through a rear window of the sanctuary at St. Thomas Church on Sunday evening might not have noticed anything amiss. The pews were filled with people whose heads were bowed in concentration, eyes closed tight; a few faces were turned heavenward in amazement or rapture.</p>
+        <p>But what had so transfixed this throng was ''Harmonies,'' an étude by the Hungarian composer Gyorgy Ligeti, performed midway through a recital by the organist John Scott, a concert presented by the Miller Theater at Columbia University.</p>
+        <p>Mr. Scott, the music director at St. Thomas, recently embarked upon a complete traversal of the German Baroque master Dietrich Buxtehude's organ works here, parceled out in 10 installments. Ligeti, by contrast, required only half of a single concert, with sufficient room remaining for the complete organ music of Jonathan Harvey, a British modernist.</p>
+        <p>Mr. Scott played Mr. Harvey's music on the church's vast Arents Memorial Organ, a Skinner instrument built in 1913. ''Laus Deo'' offered a brisk interplay of frantic exclamations and gentler ruminations. Brittle figures flashed and spiraled upward like sparks over a campfire at the beginning of ''Fantasia,'' which thoroughly explored the instrument's registrations. Surging arpeggios clashed with recorded rhythms in ''Toccata, for Organ and Tape,'' building to a barbarous climax.</p>
+        <p>Mr. Scott switched to the church's Loening-Hancock organ, a more compact instrument built according to German and Dutch Baroque custom, for Ligeti's ''Ricercare: Omaggio a Girolamo Frescobaldi.'' The deliberately monotonous parody of 12-tone music served as a palate cleanser; what followed was unearthly, disorienting and never less than gripping. Ligeti called for the organ to be played with reduced wind pressure in ''Harmonies,'' resulting in sounds that suggested by turns a consort of model-train whistles, a ghostly choir and a swarm of crotchety bassoonists.</p>
+        <p>Mr. Scott produced a jarring flurry in ''Coulée,'' a perpetual-motion study that gradually ascends in pitch until the player runs out of keyboard. Saved for last was ''Volumina,'' whose notorious opening chord has been responsible for the death of more than one organ. Happily the St. Thomas instrument survived, producing dissonant clusters that rippled like heat haze and bass notes that rumbled as if the subway below the church had suddenly risen to within inches of the floor.</p>
+        <p>A second Miller Theater organ recital, by Kevin Bowyer, is scheduled for Feb. 11 at St. Thomas Church, Fifth Avenue at 53rd Street, (212) 854-7799.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

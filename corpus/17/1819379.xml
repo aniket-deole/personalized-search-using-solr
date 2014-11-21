@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Tins, In Cups, Teas Are In Bloom</title>
+    <meta content="17tea" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819379"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tea</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">T Salon &amp; T Emporium (NYC Store)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <person class="indexing_service">Novalle, Miriam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tea</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE7D71030F934A25752C0A9619C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Tins, In Cups, Teas Are In Bloom</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Miriam Novalle opens T Salon &amp; T Emporium, showroom in Chelsea where customers can buy tea canisters, accessories and choose from more than 400 kinds of tea; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Miriam Novalle had to close her T Salon on East 20th Street last summer when the lease ran out, but that obviously did not discourage her.</p>
+        <p>She has replaced it with T Salon &amp; T Emporium, a large showroom on the fourth floor at 134 West 26th Street, top; Ms. Novalle is at left.</p>
+      </block>
+      <block class="full_text">
+        <p>Miriam Novalle had to close her T Salon on East 20th Street last summer when the lease ran out, but that obviously did not discourage her.</p>
+        <p>She has replaced it with T Salon &amp; T Emporium, a large showroom on the fourth floor at 134 West 26th Street, top; Ms. Novalle is at left.</p>
+        <p>Customers will find the same elaborate tea canisters and tea accessories and the more than 400 kinds of tea she sold before.</p>
+        <p>Among them are a number of flower teas, above left, which burst into bloom in the teapot or a cup.</p>
+        <p>With the help of new investors, she has also opened T Salon, which serves teas and tea-based snacks on the lower level of the sleekly modern Té Casan shoe store at 382 West Broadway (Spring Street), above right.</p>
+        <p>Ms. Novalle plans to open another T Salon in the Chelsea Market, 75 Ninth Avenue (15th Street), in about eight weeks.</p>
+        <p>It will have tea for sale, a full bar for tea-based cocktails, snacks developed by Allan Susser of Miami, and a machine that makes a satisfyingly frothy tea cappuccino at the touch of a button.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GRAIVER, SEYMOUR</title>
+    <meta content="dn012407" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820990"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GRAIVER, SEYMOUR</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EEDA1F3AF937A15752C0A9619C8B63" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GRAIVER, SEYMOUR</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GRAIVER--Seymour, at age 79. Beloved husband of Pearl. Devoted father of Laura (Don) Lande, Sheila (Robert) Curwin, and the late Karen. Adored grandfather of three. Lover and supporter of Yiddishkeit. Services Thursday January 25, 1 pm at the ''Riverside - Nassau North Chapel'', 55 North Station Plaza (opposite the LIRR), Great Neck, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>GRAIVER--Seymour, at age 79. Beloved husband of Pearl. Devoted father of Laura (Don) Lande, Sheila (Robert) Curwin, and the late Karen. Adored grandfather of three. Lover and supporter of Yiddishkeit. Services Thursday January 25, 1 pm at the ''Riverside - Nassau North Chapel'', 55 North Station Plaza (opposite the LIRR), Great Neck, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

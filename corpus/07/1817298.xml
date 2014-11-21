@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Coaches' Mating Ritual</title>
+    <meta content="07inbox-5" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817298"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <person class="indexing_service">Heau, Ernest</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E4DC1530F934A35752C0A9619C8B63" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Coaches' Mating Ritual</hl1>
+      </hedline>
+      <abstract>
+        <p>Ernest Heau letter discusses pursuit of football coaches by other college and pro teams (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>''Coaches' Word Rarely as Good as the Next Job'' (Dec. 30) gives many reasons coaches feign indifference in a job opening for which they have been mentioned, but ignores one of the most obvious and integral. By denying interest in the job, the prospect is engaging in a mating ritual whose purpose is not only to test the suitor's interest, but also to establish leverage for future negotiations, if it comes to that.</p>
+        <p>Ernest Heau  Bayside, Queens</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>''Coaches' Word Rarely as Good as the Next Job'' (Dec. 30) gives many reasons coaches feign indifference in a job opening for which they have been mentioned, but ignores one of the most obvious and integral. By denying interest in the job, the prospect is engaging in a mating ritual whose purpose is not only to test the suitor's interest, but also to establish leverage for future negotiations, if it comes to that.</p>
+        <p>Ernest Heau  Bayside, Queens</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

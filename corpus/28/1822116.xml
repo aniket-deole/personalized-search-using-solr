@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Preserve the Record, However Odious</title>
+    <meta content="l28unabomber" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822116"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">Unabom Case</classifier>
+        <classifier class="indexing_service" type="descriptor">Archives and Records</classifier>
+        <org class="indexing_service">Society of American Archivists</org>
+        <person class="indexing_service">Adkins, Elizabeth W</person>
+        <person class="indexing_service">Kaczynski, Theodore J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archives and Records</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unabom Case</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E0D9173FF93BA15752C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Preserve the Record, However Odious</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Elizabeth W Adkins, president of Society of American Archivists, says archivists would argue that Theodore J Kaczynski's papers should be preserved in some form for historical and criminological purposes (Jan 22 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Unabomber Wages Legal Battle to Halt the Sale of His Papers'' (front page, Jan. 22):</p>
+        <p>As the battle over Theodore J. Kaczynski's papers continues, archivists would argue that his papers should be preserved in some form for historical and criminological purposes.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Unabomber Wages Legal Battle to Halt the Sale of His Papers'' (front page, Jan. 22):</p>
+        <p>As the battle over Theodore J. Kaczynski's papers continues, archivists would argue that his papers should be preserved in some form for historical and criminological purposes.</p>
+        <p>Archivists have a strong interest in ensuring that the government doesn't suppress or sanitize an individual's writings for any purpose and in any manner. We hope that most citizens would acknowledge the dangerous precedent that such sanitization and suppression pose.</p>
+        <p>The papers should be preserved in some complete form -- as originals or as legible facsimiles -- in a reputable repository. To protect the sensibilities of the victims, a time-specific restriction on access may be appropriate. Such preservation is important no matter how heinous the crime documented, whether the Unabomber or the Holocaust. After all, it is far more dangerous to presume to destroy or distort the historical record than to risk preserving the memory of a criminal.</p>
+        <p>Elizabeth W. Adkins  President  Society of American Archivists  Chicago, Jan. 24, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

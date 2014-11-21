@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crash Test Dummies</title>
+    <meta content="28claybrook" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/opinion/28claybrook.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822122"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="indexing_service" type="descriptor">Car Seats (Children)</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Public Citizen (Orgn)</org>
+        <org class="indexing_service">Consumer Reports (Magazine)</org>
+        <org class="indexing_service">National Highway Traffic Safety Administration</org>
+        <person class="indexing_service">Claybrook, Joan</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Motoring</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Consumer Reports</org>
+        <org class="online_producer">National Highway Traffic Safety Administration</org>
+        <person class="online_producer">Claybrook, Joan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFD9173FF93BA15752C0A9619C8B63" item-length="779" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crash Test Dummies</hl1>
+        <hl2 class="online_headline">Crash Test Dummies</hl2>
+      </hedline>
+      <byline class="print_byline">By Joan Claybrook</byline>
+      <byline class="normalized_byline">Claybrook, Joan</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Op-Ed article by Joan Claybrook, president of Public Citizen, holds that recent Consumer Reports mistake on testing infant car seats is instructive not only for Consumer Reports but for everyone who cares about public safety; says Consumer Reports was attempting to fill void in government's work and conducted crash tests which it has limited expertise in designing; contends that that is not excuse for magazine but it also does not excuse National Highway Traffic Safety Adm, which for five years has not completed work mandated by Congress; says safety administration must address deficiencies in its consumer information testing program, which Claybrook charges is woefully inadequate, out of date and underfinanced (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN early January, parents were shocked to read about findings by Consumer Reports that 10 of 12 infant car seats had failed -- most ''disastrously'' -- in simulated 38 miles per hour side-impact crash tests. Many parents were infuriated. These seats can be expensive, and parents rely on them to protect their most precious cargo.</p>
+        <p>Consumer Reports, which accepts neither advertising nor industry or government financing, is read by consumers with reverence. Manufacturers and retailers track its conclusions knowing they can affect sales. But this time, the magazine committed a whopper of a mistake that jeopardizes its well-earned credibility. Within two weeks after publishing its results, it rightly announced it was withdrawing its report because of problems with the tests. Because of what is widely assumed to be an engineering miscalculation, the tests were conducted to replicate a 70 m.p.h. car crash -- nearly double what the magazine had claimed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How Consumer Reports made its mistake in testing infant car seats is instructive not only for the magazine but for everyone who cares about public safety.</p>
+      </block>
+      <block class="full_text">
+        <p>IN early January, parents were shocked to read about findings by Consumer Reports that 10 of 12 infant car seats had failed -- most ''disastrously'' -- in simulated 38 miles per hour side-impact crash tests. Many parents were infuriated. These seats can be expensive, and parents rely on them to protect their most precious cargo.</p>
+        <p>Consumer Reports, which accepts neither advertising nor industry or government financing, is read by consumers with reverence. Manufacturers and retailers track its conclusions knowing they can affect sales. But this time, the magazine committed a whopper of a mistake that jeopardizes its well-earned credibility. Within two weeks after publishing its results, it rightly announced it was withdrawing its report because of problems with the tests. Because of what is widely assumed to be an engineering miscalculation, the tests were conducted to replicate a 70 m.p.h. car crash -- nearly double what the magazine had claimed.</p>
+        <p>How the testing mistake was made is instructive not only for Consumer Reports but for everyone who cares about public safety.</p>
+        <p>As it often does, Consumer Reports was attempting to fill a void in the government's work. In 2000, Congress instructed the National Highway Traffic Safety Administration to issue within two years a new standard to improve the safety of child restraints. One requirement was to minimize head injuries from side-impact collisions.</p>
+        <p>In May 2002, the safety administration announced it needed more research and testing information before it could design a test for the new standard. While some research is being conducted, the agency has not taken any further steps on side-impact protection for infants and children. As a result, there is no government-approved side-impact crash test for infant car seats as there is for frontal-crash testing.</p>
+        <p>So Consumer Reports had to decide how to conduct its test. The magazine tried to replicate on a test sled the safety administration's car-to-car side-impact test, which is conducted at 38 m.p.h. However, a car crashing at this speed transmits a force to the stationary car of about 20 m.p.h. because, unlike the sled, both vehicles move after they hit.</p>
+        <p>Because Consumer Reports does not conduct crash tests, save for low-speed bumper-impact tests, it has limited expertise in designing such tests. The magazine publishes government and insurance industry-financed crash test information and contracts with outside labs for child restraint testing. Its communications with its outside lab, Calspan, concerning this side-impact vehicle test at 38 m.p.h., were apparently unclear. The lab conducted the sled test at 38 m.p.h. instead of 20 m.p.h, thus doubling the crash forces of the government standard.</p>
+        <p>None of this is to excuse the magazine. It should have considered the alarming testing results a warning sign. Rather than rushing the results to print, the organization should have consulted outside engineers, including one of its own board members, who is an auto safety engineer. And while it apologized last week, and announced the creation of a panel to study the error, it should have explained what went wrong.</p>
+        <p>But none of this should excuse the highway safety administration, either. For five years, it has not completed the work mandated by Congress -- though it took less than 10 days to evaluate Consumer Reports' testing and find the error. Further, the safety administration must address deficiencies in its consumer information testing program, which is woefully inadequate, out-of-date and underfinanced.</p>
+        <p>Several key areas come to mind: it still does not test to evaluate survivability in rollovers; it doesn't measure the effects of size differential when a passenger car collides with, say, a light truck; it doesn't test vehicle structure in frontal, off-center crashes; it doesn't test fuel tank vulnerability in rear-end collisions; finally, it fails to test how badly pedestrians are injured when hit by vehicles. Most of these consumer information tests are performed, or are being developed, in Europe, Australia and Japan.</p>
+        <p>What's more, the tests that are done are simply too weak. Cars are not tested at high enough speeds; sport utility vehicles are tested against insubstantial barriers. Take all this together, and consumers are ill served.</p>
+        <p>Last year, Congress finally added more money for crash testing and required that test results be posted on the vehicle price sticker in the dealer showroom, but the safety administration should have done this on its own.</p>
+        <p>Consumer Reports will get past this mistake. Those of us who value its legacy expect a full public explanation of how its testing went wrong and how it will ensure that similar mistakes are avoided in the future. At the same time, the safety administration should devote its resources and energies not just to pointing out the grave mistakes of others, but to fulfilling its own mandate.</p>
+        <p>Op-Ed Contributor Joan Claybrook, president of Public Citizen, was the administrator of the National Highway Traffic Safety Administration from 1977 to 1981. She served on the board of Consumers Union, which publishes Consumer Reports, from 1982 to late 2006.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Joan Claybrook, president of Public Citizen, was the administrator of the National Highway Traffic Safety Administration from 1977 to 1981. She served on the board of Consumers Union, which publishes Consumer Reports, from 1982 to late 2006.</tagline>
+    </body.end>
+  </body>
+</nitf>

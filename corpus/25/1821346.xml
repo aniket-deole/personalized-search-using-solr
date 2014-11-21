@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Stream Of Movies, Sort of Free</title>
+    <meta content="25pogue" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Movies; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/technology/25pogue.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821346"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Netflix Inc</org>
+        <person class="indexing_service">Pogue, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/DVD and Video</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Netflix Incorporated</org>
+        <org class="online_producer">iTunes</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E3D9163FF936A15752C0A9619C8B63" item-length="1341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Stream Of Movies, Sort of Free</hl1>
+        <hl2 class="online_headline">A Stream of Movies, Sort of Free</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+      <byline class="normalized_byline">Pogue, David</byline>
+      <abstract>
+        <p>David Pogue State of the Art column on Netflix's new Internet movie service; users can stream movies over Internet connection; service is free for Netflix subscribers; introduces concept of movie surfing; photo; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If there's one sure thing about the future, it's that it always takes longer to arrive than you think it will.</p>
+        <p>Here we are in 2007, and the interstellar space travel depicted in ''2001'' is still a sci-fi fantasy. Heck, we haven't even reached the society of mind control imagined in ''1984.'' (Insert your own joke about politics or advertising here.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Netflix has rewritten the rules  this time, of the online movie-rental game.</p>
+      </block>
+      <block class="full_text">
+        <p>If there's one sure thing about the future, it's that it always takes longer to arrive than you think it will.</p>
+        <p>Here we are in 2007, and the interstellar space travel depicted in ''2001'' is still a sci-fi fantasy. Heck, we haven't even reached the society of mind control imagined in ''1984.'' (Insert your own joke about politics or advertising here.)</p>
+        <p>So when the pundits tell you that the death of the DVD is imminent, that we'll soon get all our movies instantaneously from the Internet, some skepticism is in order.</p>
+        <p>Already, you can buy movies from iTunes, for example, but the selection is tiny (250 movies), and you pay about as much as you would for a DVD. CinemaNow and MovieLink offer online movie ''rentals'' for about $4. But again, the selection is fairly small, at least once you subtract the mind-boggling gigabytes of B movies -- more like C or D movies -- like ''Addicted to Murder III: Bloodlust'' and ''Witchcraft XI: Sisters in Blood.'' The copy protection is a bit overbearing, too. You can download a movie, all right, but it self-destructs 24 hours later.</p>
+        <p>All of these services permit you to start watching a movie after only a minute or so, before it's been fully downloaded -- but you can't fast forward (or, in some cases, even rewind) until you've got the whole thing on your hard drive.</p>
+        <p>Last week, a new contender entered the field with a radically different approach to Internet movies: Netflix.</p>
+        <p>Now, this isn't the first time ''radically different'' was applied to a Netflix business model. Its main service, renting DVDs by mail, entails no per-movie fee, no late fees and no shipping fees.</p>
+        <p>Instead, you pay a flat monthly fee to ''check out'' a certain number of DVDs at a time -- $18 for three, for example. You keep them as long as you like. When you mail one back in its postage-paid, pre-addressed envelope, Netflix sends you the next one on your wish list automatically. So far, about six million people have signed up. (Blockbuster's similar DVD-by-mail service is also increasingly popular, thanks in part to a recently introduced twist: if you return a DVD to a Blockbuster store instead of mailing it, you get a free in-store rental on the spot.)</p>
+        <p>Once again, Netflix has rewritten the rules -- this time, of the online movie-rental game. The company has done away with expiration dates, copy protection and multi-megabyte downloads. That's because you don't actually download any of Netflix's movies; instead, they ''stream'' in real time from the Internet to your computer. (This advantage comes with a key disadvantage: you must be connected to the Internet. Wireless hot spots at airports and hotels are fair game, but movies can't be carried around on a laptop.)</p>
+        <p>Netflix has also done away with per-movie fees -- in fact, there are no additional fees for watching movies online at all. Instead, the Netflix service is free if you're already a Netflix DVD-by-mail subscriber. When you log in to Netflix.com, you see a new tab called Watch Now. It opens what looks like a duplicate set of the company's usual excellent movie-finding and movie-recommending tools, except that you now see two buttons beneath each movie's icon: Rent and Play.</p>
+        <p>(If you don't see the Watch Now tab yet, it's because Netflix is rolling out this service in phases to 250,000 customers at a time, to be completed by June. The idea is to avoid a technical meltdown. Your time will come.)</p>
+        <p>The first time you click Play, you're sent a tiny software blob that takes under a minute to install, and doesn't require restarting your browser or PC. After that, when you click Play, the movie loads for a few seconds and then begins playing, right there in your Web browser. That's it: one click. No special program, no confirmation boxes, no credit card charges, no copy-protection hassles. The movie just begins to play -- full-screen, if you wish. You can jump to any spot in the movie, although the movie takes a few seconds to ''catch up'' each time you use the scroll bar.</p>
+        <p>Even more startling: Your movie watching is measured by time, not by individual movie title or by individual viewing.</p>
+        <p>The hours of movie watching you get each month depends on which DVD-by-mail plan you have. You get one hour of online movies per dollar of your monthly fee. So if you pay $6 a month (for the one-DVD-at-a-time plan), you can watch six hours of movies online; if you pay $18 (for the three-DVD plan), you can gorge yourself on 18 hours of online movies. And so on.</p>
+        <p>This innovative metering system has one minor drawback: rewinding to watch a favorite scene eats up a few more minutes of your monthly allotment.</p>
+        <p>But the huge, mind-bending, game-changing advantage of this model is that you can channel-surf movies just the way you channel-surf TV. You can watch 15 minutes of ''Single White Female,'' decide you're more in the mood for a documentary, and switch over to ''Super Size Me.'' When a buddy tells you that ''Twister'' is lame except for the climactic final sequence, you can fast-forward right to that part. You can watch the beginning of ''Gladiator'' tonight, and watch the rest of it a month later, without having to re-rent it or pay late fees.</p>
+        <p>Or you can casually sample one movie after another, looking for something that grabs you.</p>
+        <p>Movie surfing like this has never been possible before. All other movie delivery formats require you to make your movie choice based only on the box shot, the movie trailer and a synopsis.</p>
+        <p>(Starz's Vongo service comes close; it offers unlimited movies for a flat $10 monthly. But you have to download a movie before you can watch it, which rules out this sort of casual real-time movie surfing.)</p>
+        <p>Netflix-by-Internet, in other words, is deliciously immediate, incredibly economical and, because it introduces movie surfing, impressively convention-shattering.</p>
+        <p>It will not, however, change the way most people watch movies in the short term, for many reasons.</p>
+        <p>First, it works only on Windows PCs at the moment; a Macintosh version is in the works.</p>
+        <p>Second, only 1,000 movies and TV shows are on the Play list. There's lots of good, brand-name stuff here -- ''Zoolander,'' ''Chinatown,'' ''Jaws,'' ''Sleepless in Seattle,'' ''Twister'' and so on -- but Netflix's lawyers and movie-studio negotiators have a long way to go before the number of movies online equals the number of DVDs available from Netflix (70,000). Still, the company says that at least 5,000 movies will be on the list by year's end. So far, the sole holdout among major movie studios is Disney, perhaps because of its partnership with Apple's movie service.</p>
+        <p>Third, you generally get only the movie -- not the DVD featurettes, alternate languages, subtitles, director's commentary and so on.</p>
+        <p>Fourth, you can't control the video quality you get. Your movies arrive in one of three resolutions, depending solely on the speed of your broadband Internet connection. In the Basic version (for slow connections), the image is blurry and somewhat unsatisfying, like bad VHS. At Good, the picture looks about like regular TV. At High, you'd swear you're looking at a DVD: razor-sharp image, superb color and shadows, perfect smooth motion. (Note to geeks: the Basic, Good and High versions correspond to minimum broadband speeds of 0.5, 1 and 1.6 megabits per second.)</p>
+        <p>A prominent speed meter on the Netflix page tells you which version you'll get. You can click this graph repeatedly as you move your laptop around in an effort to improve your wireless signal.</p>
+        <p>Finally, remember thebiggest drawback of Internet movie services: Only a nerd would gather the family around the PC to watch a movie.</p>
+        <p>The masses have yet to connect their computers to their TV sets. Only then will the decline of the DVD begin in earnest. Only then will the futurists' fantasy of instant access to any movie, any time become a reality.</p>
+        <p>When that day arrives, Netflix, for one, will be ready.</p>
+        <p>STATE OF THE ART E-mail: Pogue@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Pogue@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

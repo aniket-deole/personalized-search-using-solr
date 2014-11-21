@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the Albany of 2007, Many Familiar Faces And a Few New Names</title>
+    <meta content="04bruno" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816370"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CHANGEOVER IN ALBANY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Legislatures and Parliaments</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Chan, Sewell</person>
+        <person class="indexing_service">Bruno, Joseph L (Sen)</person>
+        <person class="indexing_service">Silver, Sheldon (Speaker)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5D61730F937A35752C0A9619C8B63" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the Albany of 2007, Many Familiar Faces And a Few New Names</hl1>
+      </hedline>
+      <byline class="print_byline">By SEWELL CHAN</byline>
+      <byline class="normalized_byline">Chan, Sewell</byline>
+      <dateline>ALBANY, Jan. 3</dateline>
+      <abstract>
+        <p>New York Senate Majority Leader Joseph L Bruno and Assembly Speaker Sheldon Silver are confirmed as leaders of their chambers; have held positions since 1994; Bruno is re-elected temporary president of Senate; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Change is in the air at the State Capitol, but the top faces in the Legislature are staying the same. The Senate majority leader, Joseph L. Bruno, and the Assembly speaker, Sheldon Silver, were both confirmed on Wednesday as the leaders of their respective chambers -- positions they have held since 1994.</p>
+        <p>Mr. Bruno was re-elected temporary president of the Senate on a unanimous voice vote despite his disclosure last month that federal authorities were looking into his business activities.</p>
+      </block>
+      <block class="full_text">
+        <p>Change is in the air at the State Capitol, but the top faces in the Legislature are staying the same. The Senate majority leader, Joseph L. Bruno, and the Assembly speaker, Sheldon Silver, were both confirmed on Wednesday as the leaders of their respective chambers -- positions they have held since 1994.</p>
+        <p>Mr. Bruno was re-elected temporary president of the Senate on a unanimous voice vote despite his disclosure last month that federal authorities were looking into his business activities.</p>
+        <p>The federal investigation did not seem to shake the confidence of the Senate's Republicans.</p>
+        <p>''We all know Joe Bruno, he knows you, and he's run this house with some efficiency not formerly seen -- starting on time; ending sessions on time, more or less; and no 4 o'clock in the morning sessions,'' Senator Owen H. Johnson, a Suffolk County Republican, said in sponsoring the resolution to re-elect Mr. Bruno as temporary president.</p>
+        <p>Not a single ''nay'' vote was heard, because Senator John J. Bonacic of the Hudson Valley, the only Republican dissenter, had left the chamber before the vote to symbolically register his protest.</p>
+        <p>''I think there's a cloud over him, and that cloud is getting thicker every day,'' Mr. Bonacic said of Mr. Bruno in an interview afterward. ''And my concern is more for the conference and the message that the conference sends out -- that it doesn't get diluted or distracted by the problems of our majority leader with the federal investigation.''</p>
+        <p>Mr. Bruno said after the vote, ''These are challenging times, these are days that are problematic -- more problematic for some than for others.'' He added, ''And I'm here now, and I can tell you, we will overcome whatever challenges are out there.''</p>
+        <p>CHANGEOVER IN ALBANY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Top Executives, A Need to Be Aware Of the Nearest Exit</title>
+    <meta content="14count" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/business/yourmoney/14count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818840"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <org class="indexing_service">Challenger Gray &amp; Christmas</org>
+        <person class="indexing_service">Korkki, Phyllis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <org class="online_producer">Home Depot Inc</org>
+        <person class="online_producer">Nardelli, Robert L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EEDB1330F937A25752C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Top Executives, A Need to Be Aware Of the Nearest Exit</hl1>
+        <hl2 class="online_headline">For Top Executives, a Need to Be Aware of the Nearest Exit</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+      <byline class="normalized_byline">Korkki, Phyllis</byline>
+      <abstract>
+        <p>Challenger, Gray &amp; Christmas reports that chief executive departures were up 12 percent in 2006; reasons were varied, including resignation, retirement and scandal; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Being a chief executive has many perks, but job security is not one of them, especially now. A record total of 1,478 chief executive departures were announced last year at United States-based companies, 12 percent more than in 2005.</p>
+        <p>Health care companies had the highest turnover of chiefs, according to Challenger, Gray &amp; Christmas, the outplacement firm. Computer companies were second, and financial firms, affected by heavy merger activity last year, were third.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Being a chief executive has many perks, but job security is not one of them.</p>
+      </block>
+      <block class="full_text">
+        <p>Being a chief executive has many perks, but job security is not one of them, especially now. A record total of 1,478 chief executive departures were announced last year at United States-based companies, 12 percent more than in 2005.</p>
+        <p>Health care companies had the highest turnover of chiefs, according to Challenger, Gray &amp; Christmas, the outplacement firm. Computer companies were second, and financial firms, affected by heavy merger activity last year, were third.</p>
+        <p>It looks as if 2007 may be another banner year for departures. January started with a bang, as Home Depot's board forced out Robert L. Nardelli, the chief executive, over his pay and performance. His ejection (eased by a handsome exit package) was part of a growing demand for accountability at the top -- and fast.</p>
+        <p>Being ousted is embarrassing, even if it comes with a golden handshake. That may be why some executives will soon, as ever, be resigning ''voluntarily'' to ''pursue other interests'' and ''spend more time with the family.''</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

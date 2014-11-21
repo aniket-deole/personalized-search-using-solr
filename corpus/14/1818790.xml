@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Choice Of Glamorous Pack Rats</title>
+    <meta content="14bags" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818790"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Handbags and Purses</classifier>
+        <org class="indexing_service">Poppie Couture (Co)</org>
+        <person class="indexing_service">Ogunnaike, Lola</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E6DB1330F937A25752C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Choice Of Glamorous Pack Rats</hl1>
+      </hedline>
+      <byline class="print_byline">By LOLA OGUNNAIKE</byline>
+      <byline class="normalized_byline">Ogunnaike, Lola</byline>
+      <abstract>
+        <p>Foldover handbag by Poppie Couture has space for bare necessities and comes in variety of colors and textures; photo (Pulse Column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pack rats who find themselves unable to edit the contents of their evening clutches to the bare necessities -- lipstick and cellphone, credit card and keys -- will appreciate the sleek but roomy Foldover bag by Poppie Couture. The line, which came out three months ago, is fast becoming a favorite of trendy West Coast women and celebrities like Jessica Simpson, Naomi Watts and Jennifer Aniston, who scooped up a bunch as Christmas gifts for her girlfriends.</p>
+      </block>
+      <block class="full_text">
+        <p>Pack rats who find themselves unable to edit the contents of their evening clutches to the bare necessities -- lipstick and cellphone, credit card and keys -- will appreciate the sleek but roomy Foldover bag by Poppie Couture. The line, which came out three months ago, is fast becoming a favorite of trendy West Coast women and celebrities like Jessica Simpson, Naomi Watts and Jennifer Aniston, who scooped up a bunch as Christmas gifts for her girlfriends.</p>
+        <p>Poppie Harris, the line's creator, said: ''I wanted a bag that could do different things. You can fold it, scrunch it, pack it flat for travel.''</p>
+        <p>The bags, which start at $300, come in colors like ruby red, white lotus, latte and gold. Styles include fake crocodile, snakeskin and simple leather, and the bags can also be made to order at www.poppiecouture.com.</p>
+        <p>LOLA OGUNNAIKE</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

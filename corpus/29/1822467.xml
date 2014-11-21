@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Textiles on the Fringe</title>
+    <meta content="29ubn001" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822467"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E4DC143FF93AA15752C0A9619C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Textiles on the Fringe</hl1>
+      </hedline>
+      <byline class="print_byline">By MELENA RYZIK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When nearly every other person on the L train is toting a copy of ReadyMade, you don't need an UrbanEye to tell you that crafting is hot. But museums only recently caught on to the idea that needlework can also make good artwork. Though it's not as transgressive as its title makes it sound, the exhibit ''Radical Lace and Subversive Knitting'' is still good fodder for conversation (who knew John Deere excavators could be used as ad-hoc knitting machines?) or inspiration: it features everything from edible ''lace'' tiles to a collectively crocheted quilt. Take whatever ideas you can glean from it to the next meeting of one of New York's Stitch 'n Bitch circles, and get your own radical craft on.</p>
+        <p>''Radical Lace &amp; Subversive Knitting,'' through June 17, Museum of Art and Design, 40 West 53rd Street, (212) 956-3535. Stitch 'n Bitch groups meet nearly every day; find one here.</p>
+      </block>
+      <block class="full_text">
+        <p>When nearly every other person on the L train is toting a copy of ReadyMade, you don't need an UrbanEye to tell you that crafting is hot. But museums only recently caught on to the idea that needlework can also make good artwork. Though it's not as transgressive as its title makes it sound, the exhibit ''Radical Lace and Subversive Knitting'' is still good fodder for conversation (who knew John Deere excavators could be used as ad-hoc knitting machines?) or inspiration: it features everything from edible ''lace'' tiles to a collectively crocheted quilt. Take whatever ideas you can glean from it to the next meeting of one of New York's Stitch 'n Bitch circles, and get your own radical craft on.</p>
+        <p>''Radical Lace &amp; Subversive Knitting,'' through June 17, Museum of Art and Design, 40 West 53rd Street, (212) 956-3535. Stitch 'n Bitch groups meet nearly every day; find one here.  ART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

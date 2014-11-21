@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bill That Eases Development May Be Applied to All Areas</title>
+    <meta content="14njweekNJ-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818949"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Land Use Policies</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <location class="indexing_service">Highlands Region (NJ)</location>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Land Use Policies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E5DE1030F937A25752C0A9619C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bill That Eases Development May Be Applied to All Areas</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>New Jersey Legislature is considering bill that would extend benefits of Highlands preservation legislation to cities and municipalities throughout state (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New Jersey Legislature is considering a bill that would extend the benefits of the Highlands preservation legislation to cities and municipalities throughout the state.</p>
+        <p>Assemblywoman Linda R. Greenstein, a deputy speaker and sponsor of the bill, said it would use transfer of development rights, in which developers buy credits from property owners whose land is being preserved. The developers can use the credits in other areas of the state where growth is either needed or is deemed acceptable.</p>
+      </block>
+      <block class="full_text">
+        <p>The New Jersey Legislature is considering a bill that would extend the benefits of the Highlands preservation legislation to cities and municipalities throughout the state.</p>
+        <p>Assemblywoman Linda R. Greenstein, a deputy speaker and sponsor of the bill, said it would use transfer of development rights, in which developers buy credits from property owners whose land is being preserved. The developers can use the credits in other areas of the state where growth is either needed or is deemed acceptable.</p>
+        <p>The municipalities that accept the growth can charge impact fees of $15,000 per new housing unit to finance schools and utility projects.</p>
+        <p>The plan has been in effect in the Highlands area, in the northern part of the state, and in areas around the Pinelands for several years, but this measure would include the entire state, said Ms. Greenstein, a Democrat from Monroe.</p>
+        <p>The bill is under committee review but has already received support from Gov. Jon S. Corzine and the State Department of Environmental Protection, which wrote much of it.</p>
+        <p>''The more I learn about it, the more I see it has a lot of advantages,'' Ms. Greenstein said. ''Anything that takes development out of areas that has too much and places it where it is needed is a good idea.''</p>
+        <p>JOHN HOLL</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

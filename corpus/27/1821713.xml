@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chinese Pipa Joins Russian Strings</title>
+    <meta content="27solo" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/27/arts/27solo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821713"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Moscow Soloists (Music Group)</org>
+        <person class="indexing_service">Holland, Bernard</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Moscow Soloists</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DEEDC173FF934A15752C0A9619C8B63" item-length="375" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chinese Pipa Joins Russian Strings</hl1>
+        <hl2 class="online_headline">Chinese Pipa Joins Russian Strings</hl2>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">Holland, Bernard</byline>
+      <abstract>
+        <p>Bernard Holland reviews performance by Moscow Soloists at Zankel Hall; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Why a Russian string orchestra spent two hours playing Japanese and Chinese music at Zankel Hall on Thursday has one obvious answer. Everyone is across the street from everyone else these days and sends instant cultural messages back and forth. Differences remain. If Toru Takemitsu's movie music is the last word in restrained elegance, the Moscow Soloists executed it sounding like 17 fine young performers who sort of play together.</p>
+        <p>Another answer is that everybody seemed to like the music. So did I, with the exception of Hikaru Hayashi's Concerto for Viola and Strings, an earnest yet largely uneventful attempt at European postwar angst that stretched out to the point of tedium.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why a Russian orchestra played Japanese and Chinese music at Zankel Hall on Thursday has one obvious answer. We’re all culturally connected.</p>
+      </block>
+      <block class="full_text">
+        <p>Why a Russian string orchestra spent two hours playing Japanese and Chinese music at Zankel Hall on Thursday has one obvious answer. Everyone is across the street from everyone else these days and sends instant cultural messages back and forth. Differences remain. If Toru Takemitsu's movie music is the last word in restrained elegance, the Moscow Soloists executed it sounding like 17 fine young performers who sort of play together.</p>
+        <p>Another answer is that everybody seemed to like the music. So did I, with the exception of Hikaru Hayashi's Concerto for Viola and Strings, an earnest yet largely uneventful attempt at European postwar angst that stretched out to the point of tedium.</p>
+        <p>Mr. Takemitsu's ''Nostalghia'' for violin and strings and ''Three Film Scores'' hung back seductively with a kind of aristocratic reserve. ''Nostalghia'' uses harmonics and sliding notes in a way that allows European instruments to at least hint at traditional Japanese music's dips and wiggles between what we like to think of as fixed pitches.</p>
+        <p>The ''Film Scores'' -- ''Music of Training and Rest,'' ''Funeral Music'' and ''Waltz'' -- raise the Hollywood sound studio and the Broadway orchestra pit to a higher level. The divided strings and add-on chords revisit Joan Crawford and John Garfield in black and white. Syncopation and bluesy distortions hear America acutely while softening the intentional crudities.</p>
+        <p>Tan Dun's Concerto for String Orchestra and Pipa was a harder sell, but then I was a happy customer. Wu Man played the pipa, a kind of mandolin, with great style, and discreet amplification created a balance between potentially smothering partners onstage. The composer offers a long list of entertainments: stomps, yips, yells and sighs from the players, pizzicato and hand-slaps to imitate the dry resonance of Eastern instruments and pounding repetitive figures.</p>
+        <p>The music has a nice way of unexpectedly changing the subject: at one point into a tuneup session (which the unwashed of the West often accuse Eastern music of sounding like), at another, into an accumulating overlay from Bach's ''Well-Tempered Clavier.''</p>
+        <p>Yuri Bashmet, the orchestra's founder, plays both viola and violin very well, and like most instrumentalists in his trade, he likes to conduct too. That skill begins at least with finding good musicians, which he certainly had here.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HARRISON, ROSALIND T.</title>
+    <meta content="dn012007" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819973"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HARRISON, ROSALIND T.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DC1F3AF933A15752C0A9619C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HARRISON, ROSALIND T.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HARRISON--Rosalind T., of White Plains, died January 18, 2007. An administrator for Pace College and International Longshoreman's Medical Center. Wife of the late Arthur. Mother of Gail Roman (Theodore) and the late Eric Roman. Grandmother of David and Emily. Sister of Dr. Michael Perry (Harriet), Lillian Roberts and the late Katie Cohen. Funeral Sunday 11:30 Zion Memorial Chapel 785E. Boston Post Rd., Mamaroneck. 914-381-1809. Interment Cedar Park. Donations to Greenwich Hospital.</p>
+      </block>
+      <block class="full_text">
+        <p>HARRISON--Rosalind T., of White Plains, died January 18, 2007. An administrator for Pace College and International Longshoreman's Medical Center. Wife of the late Arthur. Mother of Gail Roman (Theodore) and the late Eric Roman. Grandmother of David and Emily. Sister of Dr. Michael Perry (Harriet), Lillian Roberts and the late Katie Cohen. Funeral Sunday 11:30 Zion Memorial Chapel 785E. Boston Post Rd., Mamaroneck. 914-381-1809. Interment Cedar Park. Donations to Greenwich Hospital.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

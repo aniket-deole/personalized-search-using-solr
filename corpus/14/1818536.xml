@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GROVEMAN, MARILYN ASTOR</title>
+    <meta content="dn011407.1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818536"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GROVEMAN, MARILYN ASTOR</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFD61E3AF937A25752C0A9619C8B63" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GROVEMAN, MARILYN ASTOR</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GROVEMAN--Marilyn Astor, of Scarsdale, NY, and Boca Raton, FL. Beloved wife to the late Aaron Groveman, died peacefully Friday morning, January 5, 2007, in Boca Raton, FL, at the age of 74. Marilyn is survived by her daughter Nancy, her two sons, Alex and David, her daughter Jane, close family friend, Richard and scores of life long friends. Marilyn's gracious and loving nature made all feel welcome and comfortable. She will be missed.</p>
+      </block>
+      <block class="full_text">
+        <p>GROVEMAN--Marilyn Astor, of Scarsdale, NY, and Boca Raton, FL. Beloved wife to the late Aaron Groveman, died peacefully Friday morning, January 5, 2007, in Boca Raton, FL, at the age of 74. Marilyn is survived by her daughter Nancy, her two sons, Alex and David, her daughter Jane, close family friend, Richard and scores of life long friends. Marilyn's gracious and loving nature made all feel welcome and comfortable. She will be missed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

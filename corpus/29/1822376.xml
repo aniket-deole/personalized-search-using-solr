@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The True State of C.S.I. Justice</title>
+    <meta content="29mon2" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/opinion/29mon2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822376"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Dna (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <org class="online_producer">Innocence Project</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE6DE143FF93AA15752C0A9619C8B63" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The True State of C.S.I. Justice</hl1>
+        <hl2 class="online_headline">The True State of C.S.I. Justice</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says there must be serious reforms of criminal justice system; notes that modern DNA testing has been uncovering dark history of justice denied; cites more than 190 DNA exonerations in 18 years</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Modern DNA testing is steadily uncovering a dark history of justice denied. More than 190 DNA exonerations in 18 years show ever more alarming patterns of citizens, wrongly convicted, suffering in prison. Consider the eight felons finally exonerated through DNA challenges in New York State in just the last 13 months. Or the 12 people who had to fight long and hard to prove their innocence in Dallas County, Tex., alone in the past five years. New York and Texas are, in fact, the leading states in yielding these hard-fought exonerations. This is hardly a credit to their justice systems since the victories are won by dedicated pro bono lawyers, not by state monitors charged with finding injustice.</p>
+        <p>It's clearly time for these grim showcase states to join the half-dozen pioneering states that have created what are termed innocence commissions. These are independent investigative bodies of judges, prosecutors, defense lawyers, police officers and forensic scientists who re-examine case facts after prisoners are exonerated using DNA evidence.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Modern DNA testing is steadily uncovering a dark history of justice denied.</p>
+      </block>
+      <block class="full_text">
+        <p>Modern DNA testing is steadily uncovering a dark history of justice denied. More than 190 DNA exonerations in 18 years show ever more alarming patterns of citizens, wrongly convicted, suffering in prison. Consider the eight felons finally exonerated through DNA challenges in New York State in just the last 13 months. Or the 12 people who had to fight long and hard to prove their innocence in Dallas County, Tex., alone in the past five years. New York and Texas are, in fact, the leading states in yielding these hard-fought exonerations. This is hardly a credit to their justice systems since the victories are won by dedicated pro bono lawyers, not by state monitors charged with finding injustice.</p>
+        <p>It's clearly time for these grim showcase states to join the half-dozen pioneering states that have created what are termed innocence commissions. These are independent investigative bodies of judges, prosecutors, defense lawyers, police officers and forensic scientists who re-examine case facts after prisoners are exonerated using DNA evidence.</p>
+        <p>These respected authorities try to identify the causes of the wrongful convictions and propose changes to improve the state of justice. Calls to create commissions in New York and Texas are bogged down in statehouse politics, even as a half-dozen other states are poised to create their own monitors.</p>
+        <p>The most recent exonerations show how much such commissions are needed. In Dallas, a prisoner was finally proved innocent after laboring for 18 years to win the right to DNA testing and disprove a rape conviction based solely on faulty testimony of a witness. (North Carolina's innocence commission, led by the state's chief justice, has already called for police investigators to vet witnesses more carefully.) In New York, a man who spent 15 years in prison on a murder conviction not only proved his innocence, but also tracked the actual murderer through DNA with the help of the Innocence Project at the Benjamin Cardozo School of Law.</p>
+        <p>No one knows the depth of injustice hinted at by DNA exonerations. But it is clear that they demand organized oversight and serious reforms of the criminal justice system.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

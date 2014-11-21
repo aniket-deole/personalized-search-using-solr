@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Defending A Slam Again, Only This Time It's Grand</title>
+    <meta content="27card" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/27/crosswords/bridge/27card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821705"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Alder, Phillip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EFDC173FF934A15752C0A9619C8B63" item-length="533" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Defending A Slam Again, Only This Time It's Grand</hl1>
+        <hl2 class="online_headline">Defending a Slam Again, Only This Time It’s Grand</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+      <abstract>
+        <p>Phillip Alder bridge column on what to select against grand slam, seven spades; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In Thursday's column you had the chance to pick West's opening lead against a small slam. Now you can select something against a grand slam, seven spades. What would be your choice?</p>
+        <p>On Thursday Harold Rosenson of West Palm Beach, Fla., led a low trump from queen-doubleton against a small slam. This imaginative choice did not generate a trump trick, but it defeated the contract when declarer failed to play double-dummy. Any side-suit lead would have made declarer's task easy.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In Thursday’s column you had the chance to pick West’s opening lead against a small slam. Now you can select something against a grand slam, seven spades. What would be your choice?</p>
+      </block>
+      <block class="full_text">
+        <p>In Thursday's column you had the chance to pick West's opening lead against a small slam. Now you can select something against a grand slam, seven spades. What would be your choice?</p>
+        <p>On Thursday Harold Rosenson of West Palm Beach, Fla., led a low trump from queen-doubleton against a small slam. This imaginative choice did not generate a trump trick, but it defeated the contract when declarer failed to play double-dummy. Any side-suit lead would have made declarer's task easy.</p>
+        <p>That column resulted in a small flurry of e-mail messages. During an open trial in the '70s, someone led low from queen-doubleton of trump against a grand slam. After dummy played low, his partner would not put up the king from king-doubleton, so the grand made.</p>
+        <p>In the '80s a player underled king-doubleton of trump against a grand slam, confident the ace was on his left. There was bad news, good news and bad news. Dummy did not have the trump ace; it was nestling in declarer's hand -- ugh. But partner had queen-doubleton of trump -- aah. After dummy played low, so did third hand -- ugh, ugh.</p>
+        <p>And another player in the '80s underled king-doubleton of trump against a grand slam. There was good news, better news and best news. The ace was in the dummy. Partner had queen-doubleton. And after dummy played low, partner eventually put up the queen to hold the trick. Attempts to find these full layouts have failed -- memories get hazy over the decades.</p>
+        <p>These deals do highlight an advantage of Roman Key Card Blackwood, which uncovers not only the four aces but also the trump king and trump queen. These ''no-play'' grand slams are now avoided.</p>
+        <p>The diagramed deal occurred during the 1977 Bermuda Bowl world team championship in Manila. It was described in ''Trump Leads'' by Dr. George Rosenkranz (Devyn Press, 1986). North's three-spade rebid was forcing. South, not playing Roman Key Card Blackwood, blasted into seven spades.</p>
+        <p>If South had been using that convention, he would have known that the trump queen was missing and presumably would have settled for six spades. But there is a strong case for bidding seven anyway. It has always been traditional to lead a trump against a grand slam. So if West leads a trump, it picks up the queen for you. And if West leads a side suit, declarer plays him for the trump queen.</p>
+        <p>South would presumably have done that here -- except that the American expert Mike Passell did lead a low trump. Declarer, thinking East must have the spade queen, called for dummy's ten, taking the trick. Then he cashed dummy's ace -- and ruefully nodded his head when East discarded.</p>
+        <p>Presumably West has led from two or three low trumps, or from four to the queen. Perhaps South should have led dummy's low trump at Trick 2. If East follows suit, South puts in his nine -- an interesting way to play in a grand slam. But when East discards, declarer can win with his king and finesse on the way back through West.</p>
+        <p>In the other room, Passell's teammates stopped in six spades, so his team gained 14 international match points instead of losing 11.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

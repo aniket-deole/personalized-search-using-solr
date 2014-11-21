@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Consumer Reports Apologizes for Botched Tests</title>
+    <meta content="26consumer" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/us/26consumer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821516"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="indexing_service" type="descriptor">Car Seats (Children)</classifier>
+        <org class="indexing_service">Consumer Reports (Magazine)</org>
+        <person class="indexing_service">Creswell, Julie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Motoring</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <org class="online_producer">Consumer Reports</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E5DE173FF935A15752C0A9619C8B63" item-length="370" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Consumer Reports Apologizes for Botched Tests</hl1>
+        <hl2 class="online_headline">Consumer Reports Apologizes for Botched Tests</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIE CRESWELL</byline>
+      <byline class="normalized_byline">Creswell, Julie</byline>
+      <abstract>
+        <p>consumer reports apologizes for botched tests**Consumer Reports magazine retracts its Jan 18 article containing alarming report on safety of infant car seats, saying it was result of botched tests; Jim Guest, president of magazine, says panel of experts will examine what went wrong in original test (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just a few weeks after an alarming report on the safety of infant car seats in Consumer Reports magazine that it later admitted was a result of botched tests, the magazine sent letters of apology yesterday to its readers and promised an investigation.</p>
+        <p>The magazine had retracted the article on Jan. 18.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The article claimed that the crash-testing of the infant car seats had occurred at speeds nearly half of the speeds of the actual test.</p>
+      </block>
+      <block class="full_text">
+        <p>Just a few weeks after an alarming report on the safety of infant car seats in Consumer Reports magazine that it later admitted was a result of botched tests, the magazine sent letters of apology yesterday to its readers and promised an investigation.</p>
+        <p>The magazine had retracted the article on Jan. 18.</p>
+        <p>''We are trying to be transparent and honest that there was an error and that we are looking into what happened and trying to figure out exactly what happened,'' the president of the magazine, Jim Guest, said in an interview.</p>
+        <p>Mr. Guest said the letter was probably a first in the 71-year history of Consumer Reports, which rates the safety, reliability and performance of more than 3,000 products a year and has a fervent fan base.</p>
+        <p>The article, which was published in its February 2007 issue, said that the crash-testing of the infant car seats had occurred at speeds of 35 miles per hour for frontal crashes and 38 m.p.h. for side crashes.</p>
+        <p>At those speeds, which were higher than federal safety requirements, Consumer Reports said that 9 of the 12 car seats tested provided ''poor protection'' and that one infant car seat did not even meet federal safety requirements. It urged federal officials to order a recall.</p>
+        <p>Less than two weeks after it issued a news release with its results, Consumer Reports was told by the National Highway Traffic Safety Administration that the side-impact speeds may have occurred at speeds of 70 m.p.h. Consumer Reports then retracted the article.</p>
+        <p>Mr. Guest said he and the board were appointing a panel of experts to find out what had gone wrong in the original test. While most of the product tests for the magazine are done in its own laboratories, some items are tested by contractors because specialized equipment or expertise may be required, he said. The car seats were tested by an outside firm, he said.</p>
+        <p>''We take responsibility for what we do,'' Mr. Guest said. ''It's our mistake to own up to, whether we are testing in an outside lab or, in the vast majority of our tests, in our own. We want to be thorough and careful, and occasionally we do make mistakes.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

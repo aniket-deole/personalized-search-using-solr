@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Citing Problems, U.S. Bars Lab From Testing Electronic Voting</title>
+    <meta content="04voting" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/washington/04voting.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816345"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Voting Machines</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Ciber Inc</org>
+        <org class="indexing_service">Election Assistance Commission</org>
+        <person class="indexing_service">Drew, Christopher</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Voting Machines</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Ciber Incorporated</org>
+        <org class="online_producer">Board of Elections</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E0D71730F937A35752C0A9619C8B63" item-length="1307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Citing Problems, U.S. Bars Lab From Testing Electronic Voting</hl1>
+        <hl2 class="online_headline">U.S. Bars Lab From Testing Electronic Voting</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRISTOPHER DREW; Ian Urbina contributed reporting.</byline>
+      <byline class="normalized_byline">Drew, Christopher</byline>
+      <abstract>
+        <p>Federal Election Assistance Commission bars Ciber Inc from testing nation's electronic voting systems after finding flaws in its quality-control procedures and lack of required documentation on tests it conducted; Ciber is largest tester of voting machine software and has tested most of nation's electronic voting systems; it has also come under fire from analysts hired by New York State over its plans to test new voting machines for state; experts say Ciber problems underscore longstanding worries about lax inspections in secretive world of voting-machine testing; say deficiencies of Ciber laboratory suggest that crucial features like vote-counting software and security against hacking may not have been thoroughly tested on many machines now in use; Ciber says it is fixing its problems and expects to gain certification soon; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A laboratory that has tested most of the nation's electronic voting systems has been temporarily barred from approving new machines after federal officials found that it was not following its quality-control procedures and could not document that it was conducting all the required tests.</p>
+        <p>The company, Ciber Inc. of Greenwood Village, Colo., has also come under fire from analysts hired by New York State over its plans to test new voting machines for the state. New York could eventually spend $200 million to replace its aging lever devices.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Federal officials found that Ciber Inc. could not document that it was conducting all the required tests.</p>
+      </block>
+      <block class="full_text">
+        <p>A laboratory that has tested most of the nation's electronic voting systems has been temporarily barred from approving new machines after federal officials found that it was not following its quality-control procedures and could not document that it was conducting all the required tests.</p>
+        <p>The company, Ciber Inc. of Greenwood Village, Colo., has also come under fire from analysts hired by New York State over its plans to test new voting machines for the state. New York could eventually spend $200 million to replace its aging lever devices.</p>
+        <p>Experts on voting systems say the Ciber problems underscore longstanding worries about lax inspections in the secretive world of voting-machine testing. The action by the federal Election Assistance Commission seems certain to fan growing concerns about the reliability and security of the devices.</p>
+        <p>The commission acted last summer, but the problem was not disclosed then. Officials at the commission and Ciber confirmed the action in recent interviews.</p>
+        <p>Ciber, the largest tester of the nation's voting machine software, says it is fixing its problems and expects to gain certification soon.</p>
+        <p>Experts say the deficiencies of the laboratory suggest that crucial features like the vote-counting software and security against hacking may not have been thoroughly tested on many machines now in use.</p>
+        <p>''What's scary is that we've been using systems in elections that Ciber had certified, and this calls into question those systems that they tested,'' said Aviel D. Rubin, a computer science professor at Johns Hopkins.</p>
+        <p>Professor Rubin said that although some software bugs had shown up quickly, in other instances ''you might have to use the systems for a while before something happens.''</p>
+        <p>Officials at the commission and other election experts said it was essential for a laboratory to follow its quality-control procedures and document all its testing processes to instill confidence in the results.</p>
+        <p>Commission officials said that they were evaluating the overall diligence of the laboratory and that they did not try to determine whether its weaknesses had contributed to problems with specific machines.</p>
+        <p>Computer scientists have shown that some electronic machines now in use are vulnerable to hacking. Some scientists caution that even a simple software error could affect thousands of votes.</p>
+        <p>In various places, elections have been complicated by machines that did not start, flipped votes from one candidate to another or had trouble tallying the votes.</p>
+        <p>Until recently, the laboratories that test voting software and hardware have operated without federal scrutiny. Even though Washington and the states have spent billions to install the new technologies, the machine manufacturers have always paid for the tests that assess how well they work, and little has been disclosed about any flaws that were discovered.</p>
+        <p>As soon as federal officials began a new oversight program in July, they detected the problems with Ciber. The commission held up its application for interim accreditation, thus barring Ciber from approving new voting systems in most states.</p>
+        <p>Ciber, a large information technology company, also has a $3 million contract to help New York test proposed systems from six manufacturers. Nystec, a consulting firm in Rome, N.Y., that the state hired, filed a report in late September criticizing Ciber for creating a plan to test the software security that ''did not specify any test methods or procedures for the majority of the requirements.'' The report said the plan did not detail how Ciber would look for bugs in the computer code or check hacking defenses.</p>
+        <p>A spokeswoman for Ciber, Diane C. Stoner, said that the company believed that it had addressed all the problems and that it expected to receive its initial federal accreditation this month. Federal officials said they were evaluating the changes the company had made.</p>
+        <p>Ms. Stoner said in a statement that although the Election Assistance Commission had found deficiencies, they ''were not because Ciber provided incomplete, inaccurate or flawed testing, but because we did not document to the E.A.C.'s liking all of the testing that we were performing.''</p>
+        <p>She added that the test plan cited in New York was just a draft and that Ciber had been working with Nystec to ensure additional security testing.</p>
+        <p>The co-chairman of the New York State Board of Elections, Douglas A. Kellner, said Ciber had tightened its testing. But Mr. Kellner said yesterday that Nystec and Ciber continued to haggle over the scope of the security testing.</p>
+        <p>New York is one of the last states to upgrade its machines, and it also has created some of the strictest standards for them. Mr. Kellner said only two of the six bidders, Diebold Election Systems and Liberty Election Systems, seemed close to meeting all the requirements.</p>
+        <p>Besides Ciber, two other companies, SysTest Labs of Denver and Wyle Laboratories, in El Segundo, Calif., test electronic voting machines. Ciber, which has been testing the machines since 1997, checks just software. Wyle examines hardware, and SysTest can look at both.</p>
+        <p>The chairman of the Election Assistance Commission, Paul S. DeGregorio, said SysTest and Wyle received interim accreditations last summer. Mr. DeGregorio said two other laboratories had also applied to enter the field.</p>
+        <p>Congress required greater federal oversight when it passed the Help America Vote Act of 2002. Since then, the government also put up more than $3 billion to help states and localities buy electronic machines, to avoid a repeat of the hanging punch-card chads that caused such confusion in the 2000 presidential election.</p>
+        <p>The commission was never given a substantial budget, and it did not finish creating the oversight program until last month. Until then, the laboratories had been at the heart of the system to evaluate voting machines, a system that seemed oddly cobbled together.</p>
+        <p>While the federal government created standards for the machines, most of the states enacted laws to make them binding. The states also monitored the testing, and much of that work was left to a handful of current and former state election officials who volunteered their time.</p>
+        <p>As a result, voting rights advocates and other critics have long been concerned about potential conflicts of interest, because the manufacturers hire the laboratories and largely try to ensure confidentiality.</p>
+        <p>Michael I. Shamos, a computer scientist who examines voting machines for Pennsylvania, said about half had significant defects that the laboratories should have caught.</p>
+        <p>Besides certifying the laboratories, the Election Assistance Commission will have three staff members and eight part-time technicians to approve test plans for each system and check the results. The manufacturers will be required to report mechanical breakdowns and botched tallies, and Mr. DeGregorio said those reports would be on the agency's Web site.</p>
+        <p>Dr. Shamos said, ''This is not the sea change that was needed.''</p>
+        <p>He said he was disappointed that the commission had hired some of the same people involved in the states' monitoring program and that it never announced it had found problems with Ciber operations.</p>
+        <p>Dr. Rubin of Johns Hopkins said the laboratories should be required to hire teams of hackers to ferret out software vulnerabilities.</p>
+        <p>And the laboratories will still be paid by the voting machine companies, though a bill now in Congress could change that to government financing.</p>
+        <p>A recent appearance in Sarasota, Fla., by the SysTest Labs president, Brian T. Phillips, also raised eyebrows. After a Congressional election in the Sarasota area ended in a recount last month, the victorious Republican candidate hired Mr. Phillips as a consultant to monitor the state's examination of whether there had been a malfunction in the voting machines.</p>
+        <p>Several critics questioned whether Mr. Phillips should have taken such work, either because of its partisan nature or because it represented such a public defense of the industry.</p>
+        <p>Mr. Phillips said he did not see any conflict because his laboratory had not tested the software used in Sarasota. And the project does not appear to have violated the ethics rules of the election commission.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

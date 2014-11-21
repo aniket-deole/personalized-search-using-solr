@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thomas Lyson, 58, Cornell Sociologist Who Studied Rural Towns</title>
+    <meta content="18lyson" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819617"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Thomas A. Lyson</classifier>
+        <person class="indexing_service">Lyson, Thomas Anthony</person>
+        <person class="indexing_service">Pearce, Jeremy</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DB1130F93BA25752C0A9619C8B63" item-length="382" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thomas Lyson, 58, Cornell Sociologist Who Studied Rural Towns</hl1>
+      </hedline>
+      <byline class="print_byline">By JEREMY PEARCE</byline>
+      <byline class="normalized_byline">Pearce, Jeremy</byline>
+      <abstract>
+        <p>Thomas Anthony Lyson, influential sociologist at Cornell University who argued that rural towns and small farms could survive economically by selling locally produced goods to regional markets, dies at age 58 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thomas A. Lyson, an influential sociologist at Cornell who argued that rural towns and small farms could survive economically by selling locally produced goods to regional markets, died on Dec. 28 in Ithaca, N.Y. He was 58.</p>
+        <p>The cause was cancer, his family said.</p>
+      </block>
+      <block class="full_text">
+        <p>Thomas A. Lyson, an influential sociologist at Cornell who argued that rural towns and small farms could survive economically by selling locally produced goods to regional markets, died on Dec. 28 in Ithaca, N.Y. He was 58.</p>
+        <p>The cause was cancer, his family said.</p>
+        <p>Dr. Lyson explored his idea in a book, ''Civic Agriculture: Reconnecting Farm, Food and Community'' (2004), in which he made a case for rural communities to rethink their traditional crops and instead produce organic ones, plus cheeses, wines and other niche goods.</p>
+        <p>He criticized what he saw as an increasingly globalized approach to agricultural production and its withering influence on independent family farms, which he believed form the social underpinnings of countless rural American towns.</p>
+        <p>At the same time, he argued that small country schools in New York State and elsewhere should not be consolidated into suburban school systems, but kept open to educate rural children where they live. Without rural schools to anchor communities, he said, a migration to larger towns would ultimately empty the countryside.</p>
+        <p>Earlier in his career, Dr. Lyson wrote about similar issues facing the South. In a 1988 book, he examined social and economic innovations in developing cities like Atlanta and Houston and a corresponding failure of some of the region's rural towns to thrive. The book, ''High Tech, Low Tech, No Tech: Recent Occupational and Industrial Change in the South,'' was written with William W. Falk, now a professor of sociology at the University of Maryland.</p>
+        <p>Thomas Anthony Lyson was born in Oak Park, Ill. After receiving undergraduate and master's degrees from West Virginia University, he earned his doctorate in sociology from Michigan State in 1976.</p>
+        <p>Dr. Lyson taught at Clemson before joining Cornell in 1987. He was named a professor of development sociology at Cornell in 1992. Since 1998, he had also been a research associate at the federal Census Bureau's Center for Economic Studies.</p>
+        <p>Dr. Lyson is survived by his wife of 28 years, Loretta Carrillo, a senior lecturer in Romance and Latino studies at Cornell. The couple lived in Freeville, N.Y., where Dr. Lyson was mayor from 2000 to 2004 and was involved in a successful effort to retain the village's elementary school.</p>
+        <p>He is also survived by two daughters, Helena and Mercedes, both of Chicago.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="31corrections-1" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822828"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Armenians</classifier>
+        <classifier class="indexing_service" type="descriptor">Assassinations and Attempted Assassinations</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of the Press</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <location class="indexing_service">Turkey</location>
+        <person class="indexing_service">Dink, Hrant</person>
+        <person class="indexing_service">Gul, Abdullah (Prime Min)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Turkey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assassinations and Attempted Assassinations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of the Press</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DE153FF932A05752C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 25 article about future of relations between Turkey and Armenia following funeral for Hrant Dink misidentified issue that Turkey has said should be examined by government history commission; it is 1915 Armenian genocide</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article on Thursday about the future of relations between Turkey and Armenia following the funeral for Hrant Dink, a Turkish-Armenian newspaper editor killed in Istanbul on Jan. 19, misidentified the issue between the two countries that Turkey has said should be examined by a governmental history commission. It is the 1915 Armenian genocide -- not the political status of Nagorno-Karabakh, a region that Armenia claims but that Turkey recognizes as part of Azerbaijan.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article on Thursday about the future of relations between Turkey and Armenia following the funeral for Hrant Dink, a Turkish-Armenian newspaper editor killed in Istanbul on Jan. 19, misidentified the issue between the two countries that Turkey has said should be examined by a governmental history commission. It is the 1915 Armenian genocide -- not the political status of Nagorno-Karabakh, a region that Armenia claims but that Turkey recognizes as part of Azerbaijan.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

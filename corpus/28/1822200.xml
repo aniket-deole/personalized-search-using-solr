@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Panel Urges Limits on Use Of Mosquito Larvicide</title>
+    <meta content="28liweekLI-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822200"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mosquitoes</classifier>
+        <classifier class="indexing_service" type="descriptor">Wetlands</classifier>
+        <classifier class="indexing_service" type="descriptor">Methoprene (Pesticide)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pesticides</classifier>
+        <location class="indexing_service">Suffolk County (NY)</location>
+        <person class="indexing_service">Rather, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wetlands</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E6DF143FF93BA15752C0A9619C8B63" item-length="401" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Panel Urges Limits on Use Of Mosquito Larvicide</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN RATHER</byline>
+      <byline class="normalized_byline">Rather, John</byline>
+      <abstract>
+        <p>Suffolk County Council on Environmental Quality, in unusual move, recommends major changes in proposed long-term mosquito control and wetland management; urges strict limits on use of Methoprene, mosquito larvicide, in salt-water tidal wetlands; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In an unusual move, a Suffolk County advisory panel has recommended major changes in a proposed county plan for controlling mosquitoes and urged strict limits on the use of Methoprene, a mosquito larvicide, in salt-water tidal wetlands where mosquitoes breed.</p>
+        <p>The 10-member Council on Environmental Quality, which under the county charter advises lawmakers on environmental issues, has a record of approving plans it reviews. In this instance, it was reviewing a generic environmental impact statement the county had prepared for proposed long-term mosquito control and wetland management.</p>
+      </block>
+      <block class="full_text">
+        <p>In an unusual move, a Suffolk County advisory panel has recommended major changes in a proposed county plan for controlling mosquitoes and urged strict limits on the use of Methoprene, a mosquito larvicide, in salt-water tidal wetlands where mosquitoes breed.</p>
+        <p>The 10-member Council on Environmental Quality, which under the county charter advises lawmakers on environmental issues, has a record of approving plans it reviews. In this instance, it was reviewing a generic environmental impact statement the county had prepared for proposed long-term mosquito control and wetland management.</p>
+        <p>In a turnaround led by a new member, John E. Potente, a dentist from Hauppauge, a majority of the council agreed that Methoprene, which prevents larvae from maturing into adult mosquitoes, could harm wetlands and marine life. They recommended that it be used only in health emergencies, like surges in mosquito-borne West Nile virus, but not to control nuisance mosquitoes.</p>
+        <p>The majority also agreed that the mosquito-suppression plan failed to make a clear distinction between nuisance control and disease control. Under the plan, the county would continue to apply Methoprene widely in its 17,000 acres of wetlands. Suffolk has one of the Northeast's most aggressive mosquito-control programs, spraying routinely to kill adult mosquitoes in targeted areas.</p>
+        <p>County Legislator Vivian Viloria-Fisher, a Democrat of Setauket and a council member, voted against the Methoprene restrictions and said she would offer a minority opinion to a legislative committee she heads that will consider the plan and the majority's recommendations.</p>
+        <p>''If we don't use larvicides, more adulticides will be used, and they are more toxic,'' she said.</p>
+        <p>The council's vice chairman, Michael Kaufman, a lawyer from Nissequogue, also dissented. Mr. Kaufman said the majority had gone beyond its advisory role and was trying to make policy. He said mosquito suppression had held down West Nile virus cases in Suffolk.</p>
+        <p>In a series of recommendations voted on Jan. 17, the council also formally rejected excavating ponds and tidal channels in wetlands to control mosquitoes. The technique, known as open-water marsh management, is intended to provide habitat for small fish that eat mosquito larvae. It was once the county plan's centerpiece, but the county backed away from the approach over the past year. Critics said the technique was unproven and would degrade wetlands.</p>
+        <p>The full County Legislature must eventually consider the council recommendations and decide whether to approve the environmental impact statement and the mosquito-management plan.</p>
+        <p>JOHN RATHER</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

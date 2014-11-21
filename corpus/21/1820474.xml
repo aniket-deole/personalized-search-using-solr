@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EMBRACING THE NEW</title>
+    <meta content="21suits-4" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820474"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <org class="indexing_service">Marriott International Inc</org>
+        <person class="indexing_service">Marriott, J W Jr</person>
+        <person class="indexing_service">Levere, Jane</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE0D81E30F932A15752C0A9619C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EMBRACING THE NEW</hl1>
+      </hedline>
+      <byline class="print_byline">By JANE L. LEVERE</byline>
+      <byline class="normalized_byline">Levere, Jane</byline>
+      <abstract>
+        <p>Marriott Inte</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joining a small but growing number of corporate chiefs, J. W. Marriott Jr., chairman and chief executive of Marriott International, entered the blogosphere last week with ''Marriott on the Move'' (www.blogs.marriott.com).</p>
+        <p>In his first post, Mr. Marriott, 74, said he was ''not very good with computers,'' though he said he was hooked to his cellphone and, thanks to his grandchildren, to his iPod.</p>
+      </block>
+      <block class="full_text">
+        <p>Joining a small but growing number of corporate chiefs, J. W. Marriott Jr., chairman and chief executive of Marriott International, entered the blogosphere last week with ''Marriott on the Move'' (www.blogs.marriott.com).</p>
+        <p>In his first post, Mr. Marriott, 74, said he was ''not very good with computers,'' though he said he was hooked to his cellphone and, thanks to his grandchildren, to his iPod.</p>
+        <p>In an old-fashioned telephone interview, he said some blog ideas would come from Marriott's employees, but the answers would be his own. ''I'm heavily involved,'' he said.</p>
+        <p>He said he would discuss Marriott's history and political issues like immigration reform.</p>
+        <p>But he was unsure about criticizing the company.</p>
+        <p>''I haven't thought about that yet,'' he said. ''I can't say whether I will or not.''</p>
+        <p>JANE L. LEVERE</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

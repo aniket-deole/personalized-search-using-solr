@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spanking Is Wrong</title>
+    <meta content="l23spank" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820887"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Corporal Punishment</classifier>
+        <person class="indexing_service">Loffredo, Peter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E0D91F30F930A15752C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spanking Is Wrong</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from psychotherapist Peter Loffredo contends corporal punishment of children is never necessary (Jan 21 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Proposal to Ban Spanking Sparks Debate'' (news article, Jan. 21):</p>
+        <p>As a psychotherapist who has worked with families, and as a parent who has raised three well-behaved, loving and respectful children, I can say unequivocally that corporal punishment of a child is never necessary.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Proposal to Ban Spanking Sparks Debate'' (news article, Jan. 21):</p>
+        <p>As a psychotherapist who has worked with families, and as a parent who has raised three well-behaved, loving and respectful children, I can say unequivocally that corporal punishment of a child is never necessary.</p>
+        <p>It is the last resort of parents who have failed to establish their true authority as adults, which is rooted not in their physical superiority but rather in their emotional maturity, wisdom and self-confidence.</p>
+        <p>Children need parents to be right in their guidance and want the limits and boundaries that protective parents set for them. They are totally dependent on adults for everything, especially in those early years that the California legislation addresses.</p>
+        <p>Parents who use violence as a means of controlling their kids, just like parents who overindulge their children, are equally guilty of abdicating their responsibility to be grown-ups in their roles as mentors.</p>
+        <p>Peter Loffredo  Brooklyn, Jan. 21, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

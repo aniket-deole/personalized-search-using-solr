@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ROSSI, CAILA</title>
+    <meta content="dn010507" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816421"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ROSSI, CAILA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E2DB1E3AF936A35752C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ROSSI, CAILA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROSSI--Caila, died on January 3, 2007. Beloved wife of Walter, daughter of Herbert and Celeste Epstein, sister to Abby and Marion Bond, Matt Epstein and Deborah Hiatt, and Nancy and Larry Solomon, and wonderful aunt, cousin and friend. Caila radiated life in all its fullness and beauty. She lives on in our memories and in her writing. Services will be held Friday, January 5th at 1pm at Gutterman's Funeral Home, 175 North Long Beach Road, Rockville Centre, New York (516-764-9400).</p>
+      </block>
+      <block class="full_text">
+        <p>ROSSI--Caila, died on January 3, 2007. Beloved wife of Walter, daughter of Herbert and Celeste Epstein, sister to Abby and Marion Bond, Matt Epstein and Deborah Hiatt, and Nancy and Larry Solomon, and wonderful aunt, cousin and friend. Caila radiated life in all its fullness and beauty. She lives on in our memories and in her writing. Services will be held Friday, January 5th at 1pm at Gutterman's Funeral Home, 175 North Long Beach Road, Rockville Centre, New York (516-764-9400).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

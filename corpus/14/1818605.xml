@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Divided Self</title>
+    <meta content="Letters.t-4" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818605"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Smith, John E</person>
+        <person class="indexing_service">Goldstein, Rebecca Newberger</person>
+        <person class="indexing_service">Richardson, Robert</person>
+        <person class="indexing_service">James, William</person>
+        <object.title class="indexing_service">William James: In the Maelstrom of American Modernism (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE1DA1430F937A25752C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Divided Self</hl1>
+      </hedline>
+      <abstract>
+        <p>John E Smith letter comments on Rebecca Newberger Goldstein Dec 17 review of Robert Richardson book William James: In the Maelstrom of American Modernism: A Biography</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In her review of Robert Richardson's biography of William James (Dec. 17), Rebecca Newberger Goldstein misunderstands James's concept of ''the divided self,'' which is central to his interpretation of religion. Concerned to highlight the connection between James's personal experience and his philosophical views, she describes James as a ''deeply divided man'' because he wasted much time trying to decide what profession to pursue. She then claims that he defined the divided self as a ''technical term in psychology,'' implying that it means merely a self struggling to make a decision.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In her review of Robert Richardson's biography of William James (Dec. 17), Rebecca Newberger Goldstein misunderstands James's concept of ''the divided self,'' which is central to his interpretation of religion. Concerned to highlight the connection between James's personal experience and his philosophical views, she describes James as a ''deeply divided man'' because he wasted much time trying to decide what profession to pursue. She then claims that he defined the divided self as a ''technical term in psychology,'' implying that it means merely a self struggling to make a decision.</p>
+        <p>The fact is that the divided self is for James an essentially religious concept describing the inner turmoil and division so well expressed by the anguished words of St. Paul -- ''The good I would, I do not, and that I would not, that I do, O wretched man that I am.'' James rightly saw this as the confession of human sin, the conflict between the self that knows what ought to be done and the same self acknowledging its inability to do it. That the divided self had basically religious significance for James is shown in two of his other examples -- St. Augustine and John Bunyan -- each of whom has left us vivid accounts of his own grappling with the divided self that defines the human predicament in biblical religion.</p>
+        <p>John E. Smith  New Haven</p>
+        <p>The writer is Clark professor emeritus of philosophy at Yale University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

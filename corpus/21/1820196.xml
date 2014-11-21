@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Web</title>
+    <meta content="21web.t" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820196"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E5D91230F932A15752C0A9619C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Web</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Podcast: Scheduled to appear this week are Lee Siegel on Norman Mailer (pictured above); Alan Wolfe on Dinesh D'Souzza; Kiesk Schillinger on Roddy Doyle; and Dwight Garner, serior editor, with best-seller news. Sam Tanenhause, the editor of the Book Review, is the host.</p>
+        <p>Featued Author: A retrospective on the career of Norman Mailer, the author of ''The Castle in the Forest.''</p>
+        <p>First Chapters: Excerpts from ''The Castle in the Forest,'' by Norman Mailer; ''The Race Beat,'' by Gene Roberts and Hank Klibanoff; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+      <block class="full_text">
+        <p>Podcast: Scheduled to appear this week are Lee Siegel on Norman Mailer (pictured above); Alan Wolfe on Dinesh D'Souzza; Kiesk Schillinger on Roddy Doyle; and Dwight Garner, serior editor, with best-seller news. Sam Tanenhause, the editor of the Book Review, is the host.</p>
+        <p>Featued Author: A retrospective on the career of Norman Mailer, the author of ''The Castle in the Forest.''</p>
+        <p>First Chapters: Excerpts from ''The Castle in the Forest,'' by Norman Mailer; ''The Race Beat,'' by Gene Roberts and Hank Klibanoff; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

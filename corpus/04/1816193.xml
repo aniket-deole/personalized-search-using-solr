@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BARBER, HUGH, M.D.</title>
+    <meta content="dn010407" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816193"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BARBER, HUGH, M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1DC1E3AF937A35752C0A9619C8B63" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BARBER, HUGH, M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BARBER--Hugh, M.D. The Senior Society of Nacoms, Columbia University, notes with great sadness the passing of Dr. Hugh Barber. He was a true and loyal son of Columbia College and a great supporter of the Society. We send our deepest sympathies to his family. The Alumni Advisory Committee</p>
+      </block>
+      <block class="full_text">
+        <p>BARBER--Hugh, M.D. The Senior Society of Nacoms, Columbia University, notes with great sadness the passing of Dr. Hugh Barber. He was a true and loyal son of Columbia College and a great supporter of the Society. We send our deepest sympathies to his family. The Alumni Advisory Committee</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

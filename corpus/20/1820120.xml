@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Belarus: Leader Warns Of Hard Times</title>
+    <meta content="20briefs-3" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820120"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">Belarus</location>
+        <location class="indexing_service">Russia</location>
+        <person class="indexing_service">Myers, Steven Lee</person>
+        <person class="indexing_service">Lukashenko, Aleksandr G (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Belarus</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E5D71E30F933A15752C0A9619C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Belarus: Leader Warns Of Hard Times</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVEN LEE MYERS</byline>
+      <byline class="normalized_byline">Myers, Steven Lee</byline>
+      <abstract>
+        <p>Pres Aleksandr G Lukashenko of Belarus, confronted with higher natural gas and oil prices after confrontation with Russia, says that energy conservation has become national security priority (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Confronted with higher natural gas and oil prices after a New Year's confrontation with Russia, President Aleksandr G. Lukashenko of Belarus said that energy conservation had become a national security priority. Belarus long enjoyed discounted prices for energy from Russia, subsidizing its industries and generating profits from the refining and export of gasoline and other oil products. Russia more than doubled the price of natural gas -- $100 per cubic meter, compared with $46 -- beginning Jan. 1. Belarus imposed a retaliatory fee on the transit of oil, but backed down last week after Russia turned off its main oil pipeline through Belarus, disrupting supplies across Europe. Mr. Lukashenko appeared to be bracing the country for austerity as energy-saving measures are adopted. ''The next three, four years will not be an easy time,'' he said, according to Interfax, ''but we will have to bear it.''</p>
+        <p>STEVEN LEE MYERS</p>
+      </block>
+      <block class="full_text">
+        <p>Confronted with higher natural gas and oil prices after a New Year's confrontation with Russia, President Aleksandr G. Lukashenko of Belarus said that energy conservation had become a national security priority. Belarus long enjoyed discounted prices for energy from Russia, subsidizing its industries and generating profits from the refining and export of gasoline and other oil products. Russia more than doubled the price of natural gas -- $100 per cubic meter, compared with $46 -- beginning Jan. 1. Belarus imposed a retaliatory fee on the transit of oil, but backed down last week after Russia turned off its main oil pipeline through Belarus, disrupting supplies across Europe. Mr. Lukashenko appeared to be bracing the country for austerity as energy-saving measures are adopted. ''The next three, four years will not be an easy time,'' he said, according to Interfax, ''but we will have to bear it.''</p>
+        <p>STEVEN LEE MYERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

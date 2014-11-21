@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Natalie Brown, Michael Shirts</title>
+    <meta content="07brown" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817098"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Brown, Natalie Elisabeth (Natalie Elisabeth Shirts)</person>
+        <person class="indexing_service">Shirts, Michael Randall</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EEDA1430F934A35752C0A9619C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Natalie Brown, Michael Shirts</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Natalie Elisabeth Brown, the daughter of Mary Anderson Brown and Dr. Paul N. Brown of Birmingham, Mich., was married yesterday in Bloomfield Hills, Mich., to Michael Randall Shirts, a son of Kathryn Hanson Shirts and Dr. Randall Brent Shirts of Provo, Utah. Keith Holden, a Mormon counselor, performed the ceremony at the Detroit Michigan Temple of the Church of Jesus Christ of Latter-day Saints.</p>
+        <p>The bride and bridegroom met at Columbia, where she is a doctoral candidate in English, and he is a National Institutes of Health research fellow studying computer simulations of molecules.</p>
+      </block>
+      <block class="full_text">
+        <p>Natalie Elisabeth Brown, the daughter of Mary Anderson Brown and Dr. Paul N. Brown of Birmingham, Mich., was married yesterday in Bloomfield Hills, Mich., to Michael Randall Shirts, a son of Kathryn Hanson Shirts and Dr. Randall Brent Shirts of Provo, Utah. Keith Holden, a Mormon counselor, performed the ceremony at the Detroit Michigan Temple of the Church of Jesus Christ of Latter-day Saints.</p>
+        <p>The bride and bridegroom met at Columbia, where she is a doctoral candidate in English, and he is a National Institutes of Health research fellow studying computer simulations of molecules.</p>
+        <p>Mrs. Shirts, 24, graduated from the University of Chicago, where she was a founder of The Chicago Scholarly Review, a journal.</p>
+        <p>Her father, an orthodontist who practiced in Bloomfield Hills, is an adjunct professor of orthodontics at the University of Detroit. Her mother is a tennis coach at Cranbrook Schools in Bloomfield Hills.</p>
+        <p>Mr. Shirts, 31, is a founder of Folding@Home, a computer biomedical project managed by the chemistry department of Stanford, where he received a Ph.D. in chemistry. He graduated magna cum laude from Harvard.</p>
+        <p>His mother completed ''A Trial Furnace: Southern Utah's Iron Mission'' (Brigham Young University Press, 2001), a book begun by her father-in-law, the late Morris A. Shirts. The bridegroom's father is a professor of chemistry at Brigham Young.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

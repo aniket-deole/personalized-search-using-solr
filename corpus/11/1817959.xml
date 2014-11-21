@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Vacuum Promises Power Without Heft</title>
+    <meta content="11vacuum" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817959"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: APPLIANCES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Vacuum Cleaners</classifier>
+        <classifier class="indexing_service" type="descriptor">Currents (Times Column)</classifier>
+        <org class="indexing_service">Electrolux Ab</org>
+        <person class="indexing_service">Milioti, Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E6DB1230F932A25752C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Vacuum Promises Power Without Heft</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN MILIOTI</byline>
+      <byline class="normalized_byline">Milioti, Stephen</byline>
+      <abstract>
+        <p>Electrolux introduces new powerful upright vacuum cleaner; photos (Currents column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Electrolux's Intensity upright vacuum is the latest entry in the fierce suction wars. Randall Sandlin, the company's director of industrial design, says the new vacuum has a three-inch gap between the nozzle and the dust bag -- unlike many uprights that have coiling hoses as long as three feet -- which results in better suction because the dirt has a shorter distance to travel. ''Think about it this way,'' he said. ''It's easier to drink through a straw than a garden hose.'' The Electrolux is also compact. It folds down for easy storage and weighs 16 pounds, less than most family dogs. It will be available later this month at Lowe's (lowes.com) for $299.99. For information, (800) 896-9756 or intensityvac.com.</p>
+        <p>STEPHEN MILIOTI</p>
+      </block>
+      <block class="full_text">
+        <p>Electrolux's Intensity upright vacuum is the latest entry in the fierce suction wars. Randall Sandlin, the company's director of industrial design, says the new vacuum has a three-inch gap between the nozzle and the dust bag -- unlike many uprights that have coiling hoses as long as three feet -- which results in better suction because the dirt has a shorter distance to travel. ''Think about it this way,'' he said. ''It's easier to drink through a straw than a garden hose.'' The Electrolux is also compact. It folds down for easy storage and weighs 16 pounds, less than most family dogs. It will be available later this month at Lowe's (lowes.com) for $299.99. For information, (800) 896-9756 or intensityvac.com.</p>
+        <p>STEPHEN MILIOTI  CURRENTS: APPLIANCES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bradford Washburn, Explorer, 96, Dies</title>
+    <meta content="16washburn" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819223"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Explorers</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Bradford Washburn</classifier>
+        <person class="indexing_service">Washburn, Bradford</person>
+        <person class="indexing_service">Pearce, Jeremy</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DA1030F935A25752C0A9619C8B63" item-length="596" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bradford Washburn, Explorer, 96, Dies</hl1>
+      </hedline>
+      <byline class="print_byline">By JEREMY PEARCE</byline>
+      <byline class="normalized_byline">Pearce, Jeremy</byline>
+      <abstract>
+        <p>Bradford Washburn, explorer and cartographer who, as director of Museum of Science in Boston, led landmark mapping of Grand Canyon, dies at age 96; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bradford Washburn, an explorer and cartographer who, as director of the Museum of Science in Boston, led a landmark mapping of the Grand Canyon, died on Wednesday at his home in Lexington, Mass. He was 96.</p>
+        <p>His death was confirmed by his family.</p>
+      </block>
+      <block class="full_text">
+        <p>Bradford Washburn, an explorer and cartographer who, as director of the Museum of Science in Boston, led a landmark mapping of the Grand Canyon, died on Wednesday at his home in Lexington, Mass. He was 96.</p>
+        <p>His death was confirmed by his family.</p>
+        <p>An accomplished mountaineer, photographer and mapmaker from his teenage years, Mr. Washburn set out to map the Grand Canyon in the 1970s using lasers and reflecting prisms to measure contours and depths. He called it mapping ''a mountain upside down.''</p>
+        <p>The mapping team, which included staff members of the National Geographic Society, conducted a photographic survey before employing a then-novel technique of flying helicopters to land on unscaled peaks. After cross-checking measurements of what Mr. Washburn described as ''this magnificent but desiccated and vertiginous wilderness,'' the team produced a map of the Inner Canyon in 1974 and then a map of the center of the Grand Canyon in 1978.</p>
+        <p>For those maps, Mr. Washburn drew on his experiences measuring mountains in Alaska and New Hampshire. In 1960, he prepared a map of Mount McKinley in Alaska, also known as Denali, at 20,320 feet the highest peak in North America. The map was based on aerial surveys he had taken in the 1930s and on his fieldwork as a climber.</p>
+        <p>His wife, Barbara, often accompanied him on his expeditions, as she did in 1947, when she became the first woman to climb Mount McKinley. He was making his fourth ascent of the mountain.</p>
+        <p>His wife, the former Barbara Teel Polk, survives him. They were married 67 years. Survivors also include a son, Edward, of Lexington; two daughters, Elizabeth Cabot of Belmont, Mass., and Dorothy Dundas of Newton, Mass.; nine grandchildren; and two great-grandchildren.</p>
+        <p>Mr. Washburn published articles and photographs of his explorations in Life and National Geographic magazines before he was named director of the New England Museum of Natural History in 1939. Among numerous books, Mr. Washburn co-wrote ''Mount McKinley: The Conquest of Denali,'' in which he showcased his photographs.</p>
+        <p>Over the next four decades, Mr. Washburn reshaped the museum, shepherding it from its Back Bay location to a new site -- under a new name, the Museum of Science -- along the Charles River on the border of Boston and Cambridge, Mass., and increased the size of its staff substantially. He retired as director in 1980 but retained an office there for 20 more years.</p>
+        <p>For his work in cartography and photography, the Royal Geographical Society awarded him its Cherry Kearton Medal in 1988.</p>
+        <p>Ioannis N. Miaoulis, the current director of the museum, said Mr. Washburn had taken ''an interesting, but outdated, natural history museum and transformed it into a leading center for science.''</p>
+        <p>Dr. Miaoulis added: ''Brad Washburn introduced physics, geology and astronomy to exhibits in an integrated and interactive way and remained a strong adviser for the way we approach science education.''</p>
+        <p>Henry Bradford Washburn Jr. was born on June 7, 1910, in Cambridge. He received an undergraduate degree from Harvard and returned to the university to earn a master's degree in geology and geography in 1960.</p>
+        <p>In his youth he was a precocious climber, scaling the Matterhorn, in Switzerland, and Mont Blanc, in the French Alps, by the age of 16. He harbored a lifelong interest in a mountain he never climbed -- the world's tallest, Mount Everest.</p>
+        <p>After retiring from the museum, however, he produced maps of Everest's summit using global positioning devices and, in a survey of the mountain, helped to correct its height, to 29,035 feet. He published the findings in a National Geographic Society map.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

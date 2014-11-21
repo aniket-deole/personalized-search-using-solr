@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="03off" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/03/dining/03off.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816047"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Tasca (NYC Restaurant)</org>
+        <org class="indexing_service">Po (NYC Restaurant)</org>
+        <org class="indexing_service">Cambodian Cuisine (NYC Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E3DE1730F930A35752C0A9619C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+        <hl2 class="online_headline">Off the Menu</hl2>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Off the Menu column; restaurants set to open in New York City include Tasca, Po and Cambodian Cuisine; other restaurant news noted; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LOOKING AHEAD</p>
+        <p>TASCA -- The Gaudí-esque tiles on the floor and the bar of this spot, which is to open next week, telegraph the menu of tapas and Spanish wines. The owners, Rob Meller and Craig Wilson, the chef, have even placed barrels on the bar to dispense sangria. Next door, they are building an addition, Central Kitchen, with a raw bar and sushi menu, to open in March: 137 Seventh Avenue South (10th Street), (212) 620-6815.</p>
+        <p>PÓ -- Steven Crane will open a branch of his Greenwich Village spot in Brooklyn next month. The chef, Lee McGrath, right, will oversee both restaurants with a homey Italian menu. The new place is in a brownstone that looks remarkably like the one on Cornelia Street that has housed the restaurant since 1993: 276 Smith Street (DeGraw Street), Carroll Gardens, Brooklyn, (718) 875-1980.</p>
+        <p>CAMBODIAN CUISINE -- Jerry Lay's restaurant, which left Fort Greene, Brooklyn, last summer, will reopen in Manhattan in about a month: 1664 Third Avenue (93rd Street).</p>
+        <p>CHANGING HANDS</p>
+        <p>MAGNOLIA BAKERY -- Allysa Torey, who started the cupcake craze when she opened this Greenwich Village bakery 10 years ago, has sold it to Steven Abrams, a restaurateur. Ms. Torey will continue to be a consultant for the bakery: 401 Bleecker Street (11th Street), (212) 462-2572.</p>
+        <p>NAME CHANGE</p>
+        <p>SUMILE SUSHI -- This is the new name of Sumile, with a sushi bar added to the front of the restaurant. Josh DeChellis, the chef and a partner, said the name was changed to better communicate the restaurant's Japanese food style: 154 West 13th Street, (212) 989-7699.</p>
+        <p>CLOSING</p>
+        <p>DONA -- This restaurant, which opened last March, will close after dinner on Saturday. The building is being sold. Its owners, Donatella Arpaia and the chef Michael Psilakis, are looking for a new location: 208 East 52nd Street, (212) 308-0830.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Brooklyn welcomes a Pó outpost, Magnolia Bakery changes hands and Dona to close on Saturday.</p>
+      </block>
+      <block class="full_text">
+        <p>LOOKING AHEAD</p>
+        <p>TASCA -- The Gaudí-esque tiles on the floor and the bar of this spot, which is to open next week, telegraph the menu of tapas and Spanish wines. The owners, Rob Meller and Craig Wilson, the chef, have even placed barrels on the bar to dispense sangria. Next door, they are building an addition, Central Kitchen, with a raw bar and sushi menu, to open in March: 137 Seventh Avenue South (10th Street), (212) 620-6815.</p>
+        <p>PÓ -- Steven Crane will open a branch of his Greenwich Village spot in Brooklyn next month. The chef, Lee McGrath, right, will oversee both restaurants with a homey Italian menu. The new place is in a brownstone that looks remarkably like the one on Cornelia Street that has housed the restaurant since 1993: 276 Smith Street (DeGraw Street), Carroll Gardens, Brooklyn, (718) 875-1980.</p>
+        <p>CAMBODIAN CUISINE -- Jerry Lay's restaurant, which left Fort Greene, Brooklyn, last summer, will reopen in Manhattan in about a month: 1664 Third Avenue (93rd Street).</p>
+        <p>CHANGING HANDS</p>
+        <p>MAGNOLIA BAKERY -- Allysa Torey, who started the cupcake craze when she opened this Greenwich Village bakery 10 years ago, has sold it to Steven Abrams, a restaurateur. Ms. Torey will continue to be a consultant for the bakery: 401 Bleecker Street (11th Street), (212) 462-2572.</p>
+        <p>NAME CHANGE</p>
+        <p>SUMILE SUSHI -- This is the new name of Sumile, with a sushi bar added to the front of the restaurant. Josh DeChellis, the chef and a partner, said the name was changed to better communicate the restaurant's Japanese food style: 154 West 13th Street, (212) 989-7699.</p>
+        <p>CLOSING</p>
+        <p>DONA -- This restaurant, which opened last March, will close after dinner on Saturday. The building is being sold. Its owners, Donatella Arpaia and the chef Michael Psilakis, are looking for a new location: 208 East 52nd Street, (212) 308-0830.  FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

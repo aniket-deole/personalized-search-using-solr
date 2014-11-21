@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Injuries From Fire Kill Man</title>
+    <meta content="04mbrfs-6" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/nyregion/04mbrfs-fire.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816397"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firefighters</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Lee, Jennifer 8</person>
+        <person class="indexing_service">Grullon, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1D61730F937A35752C0A9619C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Injuries From Fire Kill Man</hl1>
+        <hl2 class="online_headline">Manhattan: Injuries From Fire Kill Man</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lee, Jennifer 8</byline>
+      <abstract>
+        <p>Miguel Grullon dies from injuries in New York City apartment fire (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 65-year-old Washington Heights man was killed in his apartment last night by a fire that residents say was started with a hair dryer left on a bed by a neighbor living one floor below him, city officials and witnesses said. Neighbors said that fire alarms in the building did not go off, so they only became aware of the fire when they felt the heat of the flames and smelled the smoke in their building, at 517 West 160th Street. The man, identified by his brother as Miguel Grullon, was pronounced dead at a hospital a short while later.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A 65-year-old Washington Heights man was killed in his apartment last night by a fire that residents say was started with a hair dryer left on a bed by a neighbor living one floor below him, city officials and witnesses said. Neighbors said that fire alarms in the building did not go off, so they only became aware of the fire when they felt the heat of the flames and smelled the smoke in their building, at 517 West 160th Street. The man, identified by his brother as Miguel Grullon, was pronounced dead at a hospital a short while later.</p>
+      </block>
+      <block class="full_text">
+        <p>A 65-year-old Washington Heights man was killed in his apartment last night by a fire that residents say was started with a hair dryer left on a bed by a neighbor living one floor below him, city officials and witnesses said. Neighbors said that fire alarms in the building did not go off, so they only became aware of the fire when they felt the heat of the flames and smelled the smoke in their building, at 517 West 160th Street. The man, identified by his brother as Miguel Grullon, was pronounced dead at a hospital a short while later.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

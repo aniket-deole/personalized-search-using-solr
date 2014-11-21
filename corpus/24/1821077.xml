@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="24botcorrex-5" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821077"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7DD163FF937A15752C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Market Gauges chart in Business Day on Saturday for the snapshot of Schlumberger, the energy services company, provided incorrect market and financial results. The stock, trading under the ticker symbol SLB, closed at $61, not $14.98. It had a 52-week high of $74.75, not $15.37, and a 52-week low of $54, not $9.57. The price/earnings ratio was 20.27, not 35.7, and the market cap was $72.12 billion, not $3.8 billion. The 12-month E.P.S. was $3.01, not $2.56, with a yield of 1.15 percent, not 2.2 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>The Market Gauges chart in Business Day on Saturday for the snapshot of Schlumberger, the energy services company, provided incorrect market and financial results. The stock, trading under the ticker symbol SLB, closed at $61, not $14.98. It had a 52-week high of $74.75, not $15.37, and a 52-week low of $54, not $9.57. The price/earnings ratio was 20.27, not 35.7, and the market cap was $72.12 billion, not $3.8 billion. The 12-month E.P.S. was $3.01, not $2.56, with a yield of 1.15 percent, not 2.2 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

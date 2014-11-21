@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MATTHEWS, HELEN THOMPSON</title>
+    <meta content="dn010707.1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816810"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MATTHEWS, HELEN THOMPSON</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E3DA1E3AF934A35752C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MATTHEWS, HELEN THOMPSON</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MATTHEWS--Helen Thompson of Wellesley, MA died Thursday, January 4, 2007. Born in Bath, Maine on September 19, 1917, she was the daughter of Helen and Harold Thompson. She graduated from Brunswick High School in Maine and Wellesley College, Class of 1939. She resided in Port Washington, New York for over 45 years with her late husband, William T. Matthews and more recently returned to being a resident of Wellesley where she resided with her grandson, William T. Matthews, II and his wife, Deborah Katz. Grandmother, Role Model, Friend, Scrabble Champion and Beloved -She will be truly missed.</p>
+      </block>
+      <block class="full_text">
+        <p>MATTHEWS--Helen Thompson of Wellesley, MA died Thursday, January 4, 2007. Born in Bath, Maine on September 19, 1917, she was the daughter of Helen and Harold Thompson. She graduated from Brunswick High School in Maine and Wellesley College, Class of 1939. She resided in Port Washington, New York for over 45 years with her late husband, William T. Matthews and more recently returned to being a resident of Wellesley where she resided with her grandson, William T. Matthews, II and his wife, Deborah Katz. Grandmother, Role Model, Friend, Scrabble Champion and Beloved -She will be truly missed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

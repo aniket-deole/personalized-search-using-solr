@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Restless Quick-Draw McGraws</title>
+    <meta content="29deer" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/arts/music/29deer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822340"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Deerhoof (Music Group)</org>
+        <person class="indexing_service">Pareles, Jon</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Deerfhoof</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E1DF143FF93AA15752C0A9619C8B63" item-length="422" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Restless Quick-Draw McGraws</hl1>
+        <hl2 class="online_headline">Restless Quick-Draw McGraws</hl2>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+      <abstract>
+        <p>Jon Pareles reviews performance by Deerhoof at Irving Plaza; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Impatience is a virtue, and an organizing principle, for Deerhoof, the San Francisco band that headlined at Irving Plaza on Friday night.</p>
+        <p>Nothing lingers overtime in a Deerhoof song. Satomi Matsuzaki, on bass, sings bright, poppy tunes full of nonsense syllables in a piping voice, only to stop suddenly and join Greg Saunier on drums and John Dieterich on guitar in a burly hard-rock riff, which sputters into stop-start drumming, which switches to odd-meter funk, which might surge back into a pop tune or come to a crashing halt. The only guarantee is that something dynamically different will show up within seconds, as the songs whipsaw from delicacy to brute force without warning.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Impatience is a virtue, and an organizing principle, for Deerhoof, the San Francisco band that headlined at Irving Plaza on Friday night.</p>
+      </block>
+      <block class="full_text">
+        <p>Impatience is a virtue, and an organizing principle, for Deerhoof, the San Francisco band that headlined at Irving Plaza on Friday night.</p>
+        <p>Nothing lingers overtime in a Deerhoof song. Satomi Matsuzaki, on bass, sings bright, poppy tunes full of nonsense syllables in a piping voice, only to stop suddenly and join Greg Saunier on drums and John Dieterich on guitar in a burly hard-rock riff, which sputters into stop-start drumming, which switches to odd-meter funk, which might surge back into a pop tune or come to a crashing halt. The only guarantee is that something dynamically different will show up within seconds, as the songs whipsaw from delicacy to brute force without warning.</p>
+        <p>Deerhoof's music compresses the elaborate structures of progressive rock for the attention span and sample-happy aesthetics of hip-hop. It's a pastiche that can, at various moments, suggest any of the last four decades, and there's often a utopian longing in the lyrics that recalls the 1960s: ''We will go reeling/seekers of a world to be,'' Ms. Matsuzaki sang in ''The Galaxist,'' a song from Deerhoof's new album, ''Friend Opportunity'' (Kill Rock Stars/5 Rue Christine).</p>
+        <p>But the constant swerves and jolts are contemporary. Deerhoof's continuing challenge is to keep them from becoming predictable: not just alternating loud and soft, but constantly reshuffling tempos and textures, annexing new idioms and, especially in more recent songs, letting melodies breathe before demolishing them, so the music isn't simply a feat of memory and execution. After four years as a quartet, Deerhoof returned last year to the same trio lineup it had in 2002, but without sacrificing variety onstage. On Friday night, Deerhoof played for the length of a punk-rock or hip-hop set -- only about an hour -- but delivered enough ideas to leave both band and audience satiated and buzzing.</p>
+        <p>Busdriver, an underground rapper from Los Angeles, shared the bill and presented his own kind of overload: rhymes in tricky accelerating and decelerating meters that often shifted into triple and quadruple speed. His D.J. supplied stark electronic beats, often close to techno and drum-and-bass.</p>
+        <p>Within the barrage of syllables were inventive rhymes -- ''recreational paranoia'' and ''kill your employer'' -- and complex commentary on politics and culture, not shying away from vocabulary like ''oligarchy.'' But as Busdriver switched between speed-rapping and an occasional mocking pop croon, he put the songs across with as much comedy as self-righteousness.</p>
+        <p>Proton Proton, a Brooklyn band, opened the show with lean, hard-riffing, changeable rockers driven by an unusual instrument: the gass, a combination of guitar and bass.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

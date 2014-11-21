@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Guard Plans Return to Irish</title>
+    <meta content="27hoops" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821806"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COLLEGES: MEN'S BASKETBALL ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Marijuana</classifier>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <org class="indexing_service">University of Notre Dame</org>
+        <person class="indexing_service">McAlarney, Kyle</person>
+        <person class="indexing_service">Thamel, Pete</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marijuana</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E2D9173FF934A15752C0A9619C8B63" item-length="395" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Guard Plans Return to Irish</hl1>
+      </hedline>
+      <byline class="print_byline">By PETE THAMEL</byline>
+      <byline class="normalized_byline">Thamel, Pete</byline>
+      <dateline>SOUTH BEND, Ind., Jan. 26</dateline>
+      <abstract>
+        <p>Notre Dame University point guard Kyle McAlarney says he wants to return to team after arrest for marijuana possession (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kyle McAlarney, the starting point guard for Notre Dame before he was arrested on a possession of marijuana charge last month and suspended from the university, notified Coach Mike Brey on Friday morning that he intended to return to the program.</p>
+        <p>McAlarney, a 19-year-old sophomore from Staten Island, will take classes near New York this semester, said his father, Patrick. He will have to reapply to Notre Dame but could return for summer sessions.</p>
+      </block>
+      <block class="full_text">
+        <p>Kyle McAlarney, the starting point guard for Notre Dame before he was arrested on a possession of marijuana charge last month and suspended from the university, notified Coach Mike Brey on Friday morning that he intended to return to the program.</p>
+        <p>McAlarney, a 19-year-old sophomore from Staten Island, will take classes near New York this semester, said his father, Patrick. He will have to reapply to Notre Dame but could return for summer sessions.</p>
+        <p>McAlarney has entered a pretrial diversion program, which would allow him to have the charge against him dismissed next January if he meets certain requirements.</p>
+        <p>Brey flew to New York this week to meet with McAlarney.</p>
+        <p>''It was like the recruiting process all over again for Coach Brey,'' Patrick McAlarney said. ''Coach Brey is a good man and we trust him. Kyle likes him, and that's why he decided to go back.''</p>
+        <p>McAlarney was Notre Dame's starting point guard for the first 12 games of the season. He was averaging 10.3 points and 5.4 assists. He was arrested after being pulled over on a routine traffic stop near campus hours after he scored a career-high 21 points against Rider on Dec. 28.</p>
+        <p>''I'm just thrilled,'' Brey said at the prospect of McAlarney's return. ''He and I are a good combination and I was happy to see he feels the same way.''</p>
+        <p>He added: ''This is the way this story should end: him graduating and being a great guard at Notre Dame. He understands that.''</p>
+        <p>A.C.C. ADMITS CLOCK ERROR -- The Atlantic Coast Conference admitted yesterday that a timing error was made in the closing seconds of No. 10 Duke's 68-66 victory against 19th-ranked Clemson.</p>
+        <p>The coordinator of basketball officials, John Clougherty, said the league reviewed the game film and discussed the clock controversy with the officials and both coaches.</p>
+        <p>Clougherty said the situation was resolved internally but did not elaborate. (AP)</p>
+        <p>AROUND THE NATION -- Caleb Holmes scored 19 points and Casey Hughes 16 as Yale (6-10, 2-1 Ivy League) beat host Harvard by 88-78. Brian Cusworth scored 28 points for Harvard (8-9, 1-2), giving him 1,023 career points.  Charron Fisher scored 33 points and had 9 rebounds to lead visiting Niagara (11-10, 6-4 Metro Atlantic Athletic Conference) to an 83-75 victory against Marist. Jared Jordan led Marist (15-6, 7-3) with 31 points. (AP)</p>
+        <p>COLLEGES: MEN'S BASKETBALL ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

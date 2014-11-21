@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Chance to Help</title>
+    <meta content="13sat3" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/13/opinion/13sat3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818423"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">New York Times Neediest Cases Fund</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Twins</classifier>
+        <org class="indexing_service">Brooklyn Bureau of Community Service</org>
+        <person class="indexing_service">Townsend, Dorothy</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Twins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Multiple Births</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+        <org class="online_producer">New York Times Neediest Cases Fund</org>
+        <org class="online_producer">Brooklyn Bureau of Community Service</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403EFDA1330F930A25752C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Chance to Help</hl1>
+        <hl2 class="online_headline">Another Chance to Help</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial notes that Brooklyn Bureau of Community Service, beneficiary of New York Times Neediest Cases Fund, is helping Dorothy Townsend take care of her twin grandsons, who are six years old</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three years ago, the mother of Jamaill Burl and his twin brother, Justin, decided she could not take care of them any longer. Since their father was in prison, she left the boys with their grandmother, Dorothy Townsend, and never came back.</p>
+        <p>The twins are now 6 years old. Ms. Townsend cares for them, helps with their homework, and keeps a tidy home. But she has trouble getting around -- the result of a childhood battle with polio and a nasty fall two years ago. She needs physical and financial assistance, and the Brooklyn Bureau of Community Service, a beneficiary of The New York Times Neediest Cases Fund, provides some.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dorothy Townsend needs physical and financial assistance taking care of her two grandchildren, and the Brooklyn Bureau of Community Service, a beneficiary of The New York Times Neediest Cases Fund, provides some.</p>
+      </block>
+      <block class="full_text">
+        <p>Three years ago, the mother of Jamaill Burl and his twin brother, Justin, decided she could not take care of them any longer. Since their father was in prison, she left the boys with their grandmother, Dorothy Townsend, and never came back.</p>
+        <p>The twins are now 6 years old. Ms. Townsend cares for them, helps with their homework, and keeps a tidy home. But she has trouble getting around -- the result of a childhood battle with polio and a nasty fall two years ago. She needs physical and financial assistance, and the Brooklyn Bureau of Community Service, a beneficiary of The New York Times Neediest Cases Fund, provides some.</p>
+        <p>The bureau's workers take the children to school and help chase after them at home. The bureau also bought Ms. Townsend and the boys new clothing, beds and a dining set. Ms. Townsend still struggles to make ends meet, but the bureau helps. ''They did a lot for my boys,'' she said, ''they really did.''</p>
+        <p>All the money donated to the Neediest Cases Fund goes to one of seven charities: the Children's Aid Society; the Brooklyn Bureau of Community Service; Catholic Charities of the Archdiocese of New York; Catholic Charities, Diocese of Brooklyn and Queens; the Community Service Society of New York; the Federation of Protestant Welfare Agencies; and the UJA-Federation of New York.</p>
+        <p>To donate, please send your checks to The New York Times Neediest Cases Fund, 4 Chase Metrotech Center, 7th Floor East, Lockbox 5193, Brooklyn, N.Y. 11245. You may also call (800) 381-0075 and use a credit card, or you may donate online at www.nycharities.org/neediest.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

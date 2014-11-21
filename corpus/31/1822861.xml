@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Staten Island: Woman Shot Dead In Her Car</title>
+    <meta content="31mbrfs-1" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822861"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Lee, Jennifer 8</person>
+        <person class="indexing_service">Kane, Jean</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEFDE153FF932A05752C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Staten Island: Woman Shot Dead In Her Car</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lee, Jennifer 8</byline>
+      <abstract>
+        <p>Jean Kane is shot to death in her car in Staten Island (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A woman was fatally shot in the head as she sat in the driver's seat of her car last evening at a park-and-ride lot near Pleasant Plains Avenue, the police said. The woman, Jean Kane, 58, was declared dead on arrival at Staten Island South Hospital, the police said. An officer who was nearby heard the shot shortly before 6 p.m. and arrived at the scene to find Ms. Kane's body slumped in her four-door gray Volkswagen. Investigators say that someone probably drove up to Ms. Kane's car, got out, shot her through a window and drove away.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+      <block class="full_text">
+        <p>A woman was fatally shot in the head as she sat in the driver's seat of her car last evening at a park-and-ride lot near Pleasant Plains Avenue, the police said. The woman, Jean Kane, 58, was declared dead on arrival at Staten Island South Hospital, the police said. An officer who was nearby heard the shot shortly before 6 p.m. and arrived at the scene to find Ms. Kane's body slumped in her four-door gray Volkswagen. Investigators say that someone probably drove up to Ms. Kane's car, got out, shot her through a window and drove away.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

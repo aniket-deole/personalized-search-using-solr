@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="18botcorrex-10" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819709"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Raine, Craig</person>
+        <person class="indexing_service">Eliot, Thomas Stearns (1888-1965)</person>
+        <object.title class="indexing_service">T S Eliot (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5D81130F93BA25752C0A9619C8B63" item-length="56" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Jan 16 review of book T S Eliot by Craig Raine</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Books of The Times review on Tuesday, about ''T. S. Eliot,'' by Craig Raine, included an erroneous reference in the book to the site where 14,000 people turned out in Minnesota to hear Eliot speak in 1956. It was Williams Arena at the University of Minnesota in Minneapolis, not a baseball stadium in that city.</p>
+      </block>
+      <block class="full_text">
+        <p>The Books of The Times review on Tuesday, about ''T. S. Eliot,'' by Craig Raine, included an erroneous reference in the book to the site where 14,000 people turned out in Minnesota to hear Eliot speak in 1956. It was Williams Arena at the University of Minnesota in Minneapolis, not a baseball stadium in that city.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

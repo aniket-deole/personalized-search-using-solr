@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Evacuations Follow Derailment</title>
+    <meta content="17MBRFS-3" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819534"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Propane</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Vasquez, Emily</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7DD1130F934A25752C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Evacuations Follow Derailment</hl1>
+      </hedline>
+      <byline class="print_byline">By EMILY VASQUEZ; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Vasquez, Emily</byline>
+      <abstract>
+        <p>Derailment of tanker car in Queens, NY, containing propane forces evacuation of about 150 people from homes and businesses; no leak occurs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The derailment of a tanker car containing about 30,000 gallons of propane on a section of railroad track in Maspeth yesterday prompted the evacuation of about 150 people from homes and businesses, fire officials said. The tanker car, attached to nine others, each containing equal amounts of propane, was being backed up when it derailed, hitting another car stopped on the track behind it, they said. Though no leak occurred, the police, Fire Department and Office of Emergency Management worked throughout the day to secure the derailed car and by evening were awaiting the arrival of cranes from Pennsylvania to lift the car back onto the tracks, fire officials said. It was unclear last night when the people who live and work near the site, at Metropolitan Avenue and Fresh Pond Road, would be allowed to return to their homes and businesses.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+      <block class="full_text">
+        <p>The derailment of a tanker car containing about 30,000 gallons of propane on a section of railroad track in Maspeth yesterday prompted the evacuation of about 150 people from homes and businesses, fire officials said. The tanker car, attached to nine others, each containing equal amounts of propane, was being backed up when it derailed, hitting another car stopped on the track behind it, they said. Though no leak occurred, the police, Fire Department and Office of Emergency Management worked throughout the day to secure the derailed car and by evening were awaiting the arrival of cranes from Pennsylvania to lift the car back onto the tracks, fire officials said. It was unclear last night when the people who live and work near the site, at Metropolitan Avenue and Fresh Pond Road, would be allowed to return to their homes and businesses.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

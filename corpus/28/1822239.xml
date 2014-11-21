@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pain Artist</title>
+    <meta content="Crime.t" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/books/review/Crime.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822239"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CRIME"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Stasio, Marilyn</person>
+        <person class="indexing_service">Kellerman, Jesse</person>
+        <person class="indexing_service">Cook, Thomas H</person>
+        <person class="indexing_service">Stabenow, Dana</person>
+        <person class="indexing_service">Ault, Sandi</person>
+        <object.title class="indexing_service">Trouble (Book)</object.title>
+        <object.title class="indexing_service">Cloud of Unknowing, The (Book)</object.title>
+        <object.title class="indexing_service">Deeper Sleep, A (Book)</object.title>
+        <object.title class="indexing_service">Wild Indigo(Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Crime</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Stabenow, Dana</person>
+        <person class="online_producer">Cook, Thomas H</person>
+        <object.title class="online_producer">Trouble (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0D71130F93BA15752C0A9619C8B63" item-length="977" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pain Artist</hl1>
+        <hl2 class="online_headline">Pain Artist</hl2>
+      </hedline>
+      <byline class="print_byline">By MARILYN STASIO</byline>
+      <byline class="normalized_byline">Stasio, Marilyn</byline>
+      <abstract>
+        <p>Marilyn Stasio reviews books Trouble by Jesse Kellerman, The Cloud of Unknowing by Thomas H Cook, A Deeper Sleep by Dana Stabenow and Wild Indigo by Sandi Ault; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In Kellerman's thriller, a woman works her way into his medical-student hero's bloodstream like a slow-acting poison.</p>
+        <p>MONG the many perverse diversions and delights of Jesse Kellerman's unnerving new thriller, TROUBLE (Putnam, $24.95), are his clinically detailed descriptions of all the variables that could drive a third-year medical student like Jonah Stem crazy. The sleep deprivation from putting in 16-hour days, six days a week, might do it alone. But compounding that constant assault on the nervous system are the abusive egomaniacal surgeons, the disgusting scut work on the colorectal ward and the staggering psychic misery of observing all the human suffering. That Kellerman maintains such a grimly hilarious perspective on his subject is its own twisted tribute to the survival instincts of writers who go down to the depths to entertain their readers. In Jonah's words, when he finds himself on the psych wing: ''You had to laugh. If you didn't, you'd drown.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In Jesse Kellerman’s thriller, a woman works her way into his medical-student hero’s bloodstream like a slow-acting poison.</p>
+      </block>
+      <block class="full_text">
+        <p>In Kellerman's thriller, a woman works her way into his medical-student hero's bloodstream like a slow-acting poison.</p>
+        <p>MONG the many perverse diversions and delights of Jesse Kellerman's unnerving new thriller, TROUBLE (Putnam, $24.95), are his clinically detailed descriptions of all the variables that could drive a third-year medical student like Jonah Stem crazy. The sleep deprivation from putting in 16-hour days, six days a week, might do it alone. But compounding that constant assault on the nervous system are the abusive egomaniacal surgeons, the disgusting scut work on the colorectal ward and the staggering psychic misery of observing all the human suffering. That Kellerman maintains such a grimly hilarious perspective on his subject is its own twisted tribute to the survival instincts of writers who go down to the depths to entertain their readers. In Jonah's words, when he finds himself on the psych wing: ''You had to laugh. If you didn't, you'd drown.''</p>
+        <p>As this psychologically complex story develops, it isn't the normal crush of work and study that finally pushes this sensitive hero to the limits of his mental endurance. It's a woman who calls herself Eve Jones. Jonah thought he was rescuing Eve from a violent death when he fought and killed a man he saw attacking her on a dark street on the far West Side of Manhattan. (Indeed, he has his moment of fame as a media hero: ''Superdoc Battles Sicko W/ Knife.'') But Eve works her way into his bloodstream like a slow-acting poison, challenging his devotion to an ex-girlfriend who suffers from a debilitating neurological disorder and wickedly manipulating Jonah's emotional neediness to satisfy her own sadistic sexual tastes. Before Jonah realizes that this pain artist means it literally when she says ''I love you to death,'' she has taken control of his life.</p>
+        <p>Eve may be too much of a monster to pass as a credible human being, but she's a memorable character, with her mad theories on the aesthetics of pain and her genius at recognizing the wolfish impulses Jonah has repressed under his nice-guy persona. (''She knew,'' Jonah acknowledges. ''She could divine latent rage.'') Her feats of pure, guilt-free perversity also make her a wonderful foil for the amusingly clueless friends and family members against whose behavioral norms Jonah is subconsciously rebelling.</p>
+        <p>''He needed to see how it felt to say no,'' Jonah says, when he first blows off one of his routine duty calls on his ex-girlfriend. ''And now he knew: it felt O.K.'' But in a very short while, it will not feel O.K. at all, and Jonah can only wish he were back on the colorectal ward.</p>
+        <p>Thomas H. Cook is one of the most literary of psychological-suspense authors, and sometimes, as in THE CLOUD OF UNKNOWING (Otto Penzler/Harcourt, $24), he allows his lyrical style to swamp his story. But while the suspense is minimal in this first-person account of an underachieving small-town lawyer who fears for the sanity of his gifted but unstable sister, the narrative is sustained by its thematic richness and the subtlety of its psychological portraits of tormented characters.</p>
+        <p>As children, both David Sears and his older sister, Diana, were subjected to grueling intellectual drills by their father, a paranoid schizophrenic given to frightening rages when a little boy stumbles over his lessons in Greek mythology. But unlike David, who resigns himself to being the dunce of the family, Diana is every bit as brilliant as her father -- and perhaps as mad. That suspicion, first raised when Diana accuses her husband of having murdered their mentally disturbed son, becomes an obsession with David when she initiates his teenage daughter into her fanciful way of thinking. Although Cook is maddeningly coy about who actually killed whom, he writes eloquently about the fears that lead people to equate intelligence with madness, suppressing the imagination and taking refuge in mediocrity.</p>
+        <p>When I'm casting about for an antidote to the sugary female sleuths who solve crimes without disrupting their social calendars, Kate Shugak, the Aleut private investigator in Dana Stabenow's Alaskan mysteries, invariably comes to mind. In more than a dozen novels, Kate has demonstrated that she can shoot a rifle, butcher a moose, overhaul an engine and survive in remote regions of the Alaskan wilderness. More amazing yet, her outdoor skills don't alienate the rugged men in her life. A DEEPER SLEEP (St. Martin's Minotaur, $24.95) finds Kate under pressure from her relatives to get tough with a serial wife-killer whose luck at eluding the law has demoralized their entire village. For once, Kate's straight-arrow methods fail her, truth being an arbitrary concept in a community where local custom dictates justice. So forget all those hair-raising treks into the wild; joining the tribal council may well be the most dangerous move Kate has ever made.</p>
+        <p>Meanwhile, thousands of miles away on an Indian pueblo in New Mexico, a young female agent with the Bureau of Land Management puts some muscle into a homicide case with eerie mystical overtones. Making her striking debut in Sandi Ault's WILD INDIGO (Berkley Prime Crime, $23.95), Jamaica Wild watches a man trampled in a buffalo stampede. Despite the expression of rapture she saw on his face, she refuses to accept the Tanoah tribe's judgment that his death was a suicide and doggedly pursues an investigation that strains her relationship with the ''pueblo mother'' who's initiating her into the Tanoah customs. Scenes of the high, dry, glittering landscape are as clean as a sun-bleached bone, and there are thrills galore when Jamaica is trapped in a flash flood that tears down the canyon walls of an ancient mountain sacred to the tribe. But Ault is no less artful at depicting the marriage customs, funeral rites and religious ceremonies that have drawn Jamaica to this tightly knit world and made her lose her heart to its people.</p>
+        <p>CRIME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Newark: Airport Security Official Resigns</title>
+    <meta content="22mbrfs-6" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/nyregion/22mbrfs-resign.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820753"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Newark Liberty International Airport</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <person class="indexing_service">Ramirez, Anthony</person>
+        <person class="indexing_service">Grandinetti, Gerard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Airports</classifier>
+        <classifier class="online_producer" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <location class="online_producer">Newark (NJ)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E3DB1F30F931A15752C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Newark: Airport Security Official Resigns</hl1>
+        <hl2 class="online_headline">Newark: Airport Security Official Resigns</hl2>
+      </hedline>
+      <byline class="print_byline">By ANTHONY RAMIREZ; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Ramirez, Anthony</byline>
+      <abstract>
+        <p>Gerard Grandinetti resigns as federal official in charge of hiring airport screeners at Newark Liberty International Airport (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gerard Grandinetti, the federal official in charge of overseeing and hiring 1,100 airport screeners at Newark Liberty International Airport, has resigned. Ann Davis, a spokeswoman for the Transportation Security Administration, confirmed yesterday that Mr. Grandinetti resigned on Friday, citing personal reasons. Last week The Newark Star-Ledger reported allegations that some job candidates for senior management posts had received questions in advance that were on a test for prospective employees. After the allegations, officials canceled the test and started an internal investigation. Mr. Grandinetti could not be reached for comment.</p>
+        <p>ANTHONY RAMIREZ</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gerard Grandinetti, the federal official in charge of overseeing and hiring 1,100 airport screeners at Newark Liberty International Airport, has resigned. Ann Davis, a spokeswoman for the Transportation Security Administration, confirmed yesterday that Mr. Grandinetti resigned on Friday, citing personal reasons. Last week The Newark Star-Ledger reported allegations that some job candidates for senior management posts had received questions in advance that were on a test for prospective employees. After the allegations, officials canceled the test and started an internal investigation. Mr. Grandinetti could not be reached for comment.</p>
+      </block>
+      <block class="full_text">
+        <p>Gerard Grandinetti, the federal official in charge of overseeing and hiring 1,100 airport screeners at Newark Liberty International Airport, has resigned. Ann Davis, a spokeswoman for the Transportation Security Administration, confirmed yesterday that Mr. Grandinetti resigned on Friday, citing personal reasons. Last week The Newark Star-Ledger reported allegations that some job candidates for senior management posts had received questions in advance that were on a test for prospective employees. After the allegations, officials canceled the test and started an internal investigation. Mr. Grandinetti could not be reached for comment.</p>
+        <p>ANTHONY RAMIREZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

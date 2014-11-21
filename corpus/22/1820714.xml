@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Agency That Harbored 'Saatchi 17' to Close</title>
+    <meta content="22addes-1" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820714"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <org class="indexing_service">Interpublic Group of Companies Inc</org>
+        <org class="indexing_service">One Seven (Ad Agency)</org>
+        <org class="indexing_service">Saatchi &amp; Saatchi Plc</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DC1F30F931A15752C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Agency That Harbored 'Saatchi 17' to Close</hl1>
+      </hedline>
+      <abstract>
+        <p>Interpublic Group of Companies' One Seven advertising agency staffed by former employees of Saatchi &amp; Saatchi is set to close; Interpublic will try to find jobs at other agencies for some employees while others plan to open agencies of their own (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The tale of the ''Saatchi 17'' is coming to a close for now as the Interpublic Group of Companies ends its financing of One Seven, a money-losing agency in New York that is staffed by former employees of Saatchi &amp; Saatchi, part of the Publicis Groupe.</p>
+        <p>The so-called Saatchi 17 quit Saatchi &amp; Saatchi en masse in February 2005, three days after their boss, Michael Burns, the former worldwide director of the General Mills account, left the agency.</p>
+      </block>
+      <block class="full_text">
+        <p>The tale of the ''Saatchi 17'' is coming to a close for now as the Interpublic Group of Companies ends its financing of One Seven, a money-losing agency in New York that is staffed by former employees of Saatchi &amp; Saatchi, part of the Publicis Groupe.</p>
+        <p>The so-called Saatchi 17 quit Saatchi &amp; Saatchi en masse in February 2005, three days after their boss, Michael Burns, the former worldwide director of the General Mills account, left the agency.</p>
+        <p>The employees were all hired by Interpublic, which denied it was hoping that General Mills would follow them to One Seven. Although General Mills never hired One Seven, the agency landed accounts from marketers like ConAgra and Gorton's. Mr. Burns joined One Seven as chairman after the settlement last July of a lawsuit brought against him by Saatchi &amp; Saatchi, which claimed he had arranged the simultaneous departures of the employees.</p>
+        <p>Interpublic, in a statement Friday, said it would try to find jobs at other Interpublic agencies for some One Seven employees, adding that others were planning to open agencies of their own.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

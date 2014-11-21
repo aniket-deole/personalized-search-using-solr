@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="16addes" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819208"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADVERTISING: ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DA1030F935A25752C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <abstract>
+        <p>Round up of past week's advertising account changes (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DeVito/Verdi, New York, was chosen by two marketers as agency of record for accounts with combined spending estimated at $55 million. One, Levitz Furniture, New York, owned by Prentice Capital Management, awarded the agency its creative account, which had been handled internally. The other, the Sidney Frank Importing Company, New Rochelle, expanded its relationship with DeVito/Verdi, which creates ads for its liquor brands like Corazón tequila, by assigning the agency duties like media planning and buying, promotional events and public relations.</p>
+        <p>Virgin Mobile USA, Warren, N.J., placed in review the creative part of its account, with spending estimated at $30 million. The creative duties had been handled by the New York office of Mother, which declined an invitation to take part in the review. Virgin Mobile, a joint venture of the Virgin Group and Sprint Nextel, plans to make a decision by the end of March.</p>
+        <p>SunCom, Berwyn, Pa., a regional wireless carrier, named Bernstein-Rein, Kansas City, Mo., to handle its creative account, which had been at Margeotes Fertitta Powell, New York, part of MDC Partners. Spending was estimated at $25 million.</p>
+      </block>
+      <block class="full_text">
+        <p>DeVito/Verdi, New York, was chosen by two marketers as agency of record for accounts with combined spending estimated at $55 million. One, Levitz Furniture, New York, owned by Prentice Capital Management, awarded the agency its creative account, which had been handled internally. The other, the Sidney Frank Importing Company, New Rochelle, expanded its relationship with DeVito/Verdi, which creates ads for its liquor brands like Corazón tequila, by assigning the agency duties like media planning and buying, promotional events and public relations.</p>
+        <p>Virgin Mobile USA, Warren, N.J., placed in review the creative part of its account, with spending estimated at $30 million. The creative duties had been handled by the New York office of Mother, which declined an invitation to take part in the review. Virgin Mobile, a joint venture of the Virgin Group and Sprint Nextel, plans to make a decision by the end of March.</p>
+        <p>SunCom, Berwyn, Pa., a regional wireless carrier, named Bernstein-Rein, Kansas City, Mo., to handle its creative account, which had been at Margeotes Fertitta Powell, New York, part of MDC Partners. Spending was estimated at $25 million.</p>
+        <p>ADVERTISING: ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

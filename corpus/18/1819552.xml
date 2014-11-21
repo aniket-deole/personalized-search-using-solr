@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DODGE, MARSHALL JEWELL, JR.</title>
+    <meta content="dn011807" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819552"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">DODGE, MARSHALL JEWELL, JR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E4DD1F3AF93BA25752C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DODGE, MARSHALL JEWELL, JR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DODGE--Marshall Jewell, Jr. died peacefully after a long illness in Sarasota, Florida on January 8, 2007. He was the beloved husband of the late Alice Rutgers Dodge, the father of the late Marshall Jewell Dodge II and of Frederic Pratt Dodge, the stepfather of Anthony Drexel Duke, Jr. and Nicholas Rutgers Duke, and the grandfather of Marshall Jewell Dodge II and Alice Rutgers Dodge II. Memorial and burial services will be private and held at St. John's Church, Fishers Island, New York. Contributions in lieu of flowers will be welcome for The Alice and Marshall Dodge Scholarship Fund of The Advanced Studies Program. St. Paul's School. Concord, NH 03301</p>
+      </block>
+      <block class="full_text">
+        <p>DODGE--Marshall Jewell, Jr. died peacefully after a long illness in Sarasota, Florida on January 8, 2007. He was the beloved husband of the late Alice Rutgers Dodge, the father of the late Marshall Jewell Dodge II and of Frederic Pratt Dodge, the stepfather of Anthony Drexel Duke, Jr. and Nicholas Rutgers Duke, and the grandfather of Marshall Jewell Dodge II and Alice Rutgers Dodge II. Memorial and burial services will be private and held at St. John's Church, Fishers Island, New York. Contributions in lieu of flowers will be welcome for The Alice and Marshall Dodge Scholarship Fund of The Advanced Studies Program. St. Paul's School. Concord, NH 03301</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

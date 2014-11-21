@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rethinking Why Crazy Eddie Wouldn't Be Undersold, and Other Mysteries</title>
+    <meta content="11scene" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/11/business/11scene.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818010"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ECONOMIC SCENE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">International Journal of Industrial Organization</org>
+        <person class="indexing_service">Varian, Hal R</person>
+        <person class="indexing_service">Arbatskaya, Maria</person>
+        <person class="indexing_service">Hviid, Morten</person>
+        <person class="indexing_service">Shaffer, Greg</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Economic Scene</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Guarantees and Warranties</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DA1230F932A25752C0A9619C8B63" item-length="867" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rethinking Why Crazy Eddie Wouldn't Be Undersold, and Other Mysteries</hl1>
+        <hl2 class="online_headline">Rethinking Why Crazy Eddie Wouldn’t Be Undersold, and Other Mysteries</hl2>
+      </hedline>
+      <byline class="print_byline">By Hal R. Varian</byline>
+      <byline class="normalized_byline">Varian, Hal R</byline>
+      <abstract>
+        <p>Hal Varian column on study by economists Maria Arbatskaya, Morten Hviid and Greg Shaffer, published in International Journal of Industrial Organization, on whether low-price guarantees discourage price cutting (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT is common to see advertisements that offer to ''meet or beat any price.'' The most natural interpretation of such offers is that they signal strongly competitive behavior.</p>
+        <p>But on further reflection, it's not so obvious that price matching encourages competition; such offers can have exactly the opposite effect. To see how this can happen, consider the following story.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It’s not so obvious that price matching encourages competition; such offers can have exactly the opposite effect.</p>
+      </block>
+      <block class="full_text">
+        <p>IT is common to see advertisements that offer to ''meet or beat any price.'' The most natural interpretation of such offers is that they signal strongly competitive behavior.</p>
+        <p>But on further reflection, it's not so obvious that price matching encourages competition; such offers can have exactly the opposite effect. To see how this can happen, consider the following story.</p>
+        <p>Suppose that two retailers, East Side Tires and West Side Tires, are advertising the same tire for $50.</p>
+        <p>If East Side Tires cuts its advertised price to $45 while the West Side price stays at $50, we would expect that some of those customers on the west side of town would be willing to travel a few extra minutes to save the $5.</p>
+        <p>East Side Tires would then sell more tires at a lower price. If the increase in sales was large enough, its profits would rise.</p>
+        <p>That, in a nutshell, is the basic logic of competition: if customers are sufficiently sensitive to price, then a seller that cuts its price enjoys a surge in sales and an increase in profit.</p>
+        <p>But instead of the situation just described, suppose that West Side Tires continued to charge $50 but added a promise to match any lower price. What happens if East Side cuts its advertised price?</p>
+        <p>Now, those who find West Side Tires more convenient can just bring in the East Side ad and get the discounted price. Then, East Side Tires attracts no new customers from its price cut. In fact, it loses revenue since it sells essentially the same number of tires at a lower price.</p>
+        <p>So, a vendor that offers a low-price guarantee takes away much of its competitors' motivation for cutting prices.</p>
+        <p>Economists have written dozens of papers on low-price guarantees in the last 20 years, exploring many variations on the basic model. It has been extended to situations involving more than two sellers, sequential and simultaneous choice of prices, and differentiated rather than identical products.</p>
+        <p>There are models that incorporate ''hassle costs'' for buyers, which refer to such costs as the drive across town and documenting that the lower price is actually being charged. Strategic analysis has also unveiled some subtle differences between price-matching versus price-beating guarantees and whether the guarantee applies to any price charged or only to advertised prices.</p>
+        <p>These analyses are all very ingenious but you have to wonder if such considerations are really what drives those price-matching offers.</p>
+        <p>In an attempt to answer this question, three economists, Maria Arbatskaya, Morten Hviid and Greg Shaffer, have recently published a paper in the International Journal of Industrial Organization called, ''On the Use of Low-Price Guarantees to Discourage Price Cutting,'' that looks closely at some empirical evidence. (A prepublication version of the paper can be downloaded from www.simon.rochester.edu/fac/shaffer/Published/tires.pdf.)</p>
+        <p>The authors collected data on tire prices advertised in 61 Sunday newspapers in the fall of 1996. In their sample of 213 ads, 98 contained a low-price guarantee. Over 60 percent of these ads offered to beat their rivals' prices, while about 40 percent offered only to meet them. About 80 percent of the price-beating guarantees applied only to advertised prices.</p>
+        <p>The economists paired ads from competing sellers appearing on the same day in the same newspaper that were advertising the same make and model of tires. There were 143 pairs where one seller had a low-price guarantee while the other did not.</p>
+        <p>Evidence can disprove a theory, but it cannot prove it. The most we can ask is that the evidence is not inconsistent with the theory. So what observations would be inconsistent with the theory that low-price guarantees are motivated by the desire to discourage price cutting?</p>
+        <p>If guarantees are being used to discourage price cutting, then two sellers with the same price will each want to offer a low-price guarantee.</p>
+        <p>Similarly, a high-price seller may want to offer a low-price guarantee but there is no reason for a low-price seller to do so. Hence instances where the low-price seller offers a low-price guarantee are inconsistent with the theory, while instances where sellers with the same or higher prices offer such guarantees are consistent.</p>
+        <p>When the economists look at those cases where sellers offer to match any price, advertised or not, they find that the low-price seller makes such an offer only 14 percent of the time. In other words, 86 percent of the data is consistent with the model. That's good news for the theory.</p>
+        <p>But when they look at cases where a seller offers to match only advertised prices, they find that the low-price seller is making the offer in 75 percent of their sample. Hence only 25 percent of these cases are consistent with the theory.</p>
+        <p>Furthermore, instances of price-beating guarantees tend to be inconsistent with theory; it is relatively common for such offers to be made by the low-price seller.</p>
+        <p>So the evidence is mixed. The data is consistent with the simple theory for cases where sellers offer to match any price, but something else seems to be the motivation for price-beating guarantees and guarantees that apply only to advertised prices. Those pages of tire ads in your local paper still contain some economic mysteries.</p>
+        <p>ECONOMIC SCENE Hal R. Varian is a professor of business, economics and information management at the University of California, Berkeley.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Hal R. Varian is a professor of business, economics and information management at the University of California, Berkeley.</tagline>
+    </body.end>
+  </body>
+</nitf>

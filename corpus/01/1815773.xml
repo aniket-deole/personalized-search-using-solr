@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Craig Hugh Smyth, 91, Dies; Renaissance Art Historian</title>
+    <meta content="01smyth" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/01/arts/01smyth.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815773"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Craig Hugh Smyth</classifier>
+        <person class="indexing_service">Smyth, Craig Hugh</person>
+        <person class="indexing_service">Heydarpour, Roja</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EED91630F932A35752C0A9619C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Craig Hugh Smyth, 91, Dies; Renaissance Art Historian</hl1>
+        <hl2 class="online_headline">Craig Hugh Smyth, 91, Dies; Renaissance Art Historian</hl2>
+      </hedline>
+      <byline class="print_byline">By ROJA HEYDARPOUR</byline>
+      <byline class="normalized_byline">Heydarpour, Roja</byline>
+      <abstract>
+        <p>Craig Hugh Smith, art historian who drew attention to importance of conservation and recovery of purloined art and cultural objects, dies at age 91; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Craig Hugh Smyth, an art historian who drew attention to the importance of conservation and the recovery of purloined art and cultural objects, died on Dec. 22 in Englewood, N.J. He was 91 and lived in Cresskill, N.J.</p>
+        <p>The cause was a heart attack, his daughter, Alexandra, said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mr. Smyth drew attention to the importance of conservation and the recovery of purloined art and cultural objects.</p>
+      </block>
+      <block class="full_text">
+        <p>Craig Hugh Smyth, an art historian who drew attention to the importance of conservation and the recovery of purloined art and cultural objects, died on Dec. 22 in Englewood, N.J. He was 91 and lived in Cresskill, N.J.</p>
+        <p>The cause was a heart attack, his daughter, Alexandra, said.</p>
+        <p>Mr. Smyth led the first academic program in conservation in the United States in 1960 as the director of the Institute of Fine Arts at New York University.</p>
+        <p>Long before he began his academic career, he worked in the recovery of stolen art. After the defeat of Germany in World War II, Mr. Smyth was made director of the Munich Central Collecting Point, set up by the Allies for works that they retrieved. There, he received art and cultural relics confiscated by the Nazis, cared for them and tried to return them to their owners or their countries of origin. He served as a lieutenant in the United States Naval Reserve during the war, and the art job was part of his military service. Upon returning from Germany in 1946, he lectured at the Frick Collection and, in 1949, was awarded a Fulbright research fellowship, which took him to Florence, Italy.</p>
+        <p>It was in Florence, a city full of art-loving tourists whose presence could be hard on the works they loved, that his interest in conservation was piqued, said Mariët Westermann, the director of the Institute of Fine Arts. He concentrated on the late-Renaissance drawings of Bronzino, best known as a Mannerist painter. While working on his own research, he took photographs of many other drawings of the 16th century.</p>
+        <p>''He put Mannerist art back on the map,'' Ms. Westermann said.</p>
+        <p>Mr. Smyth received his Ph.D. in art history from Princeton in 1956, six years after he became a professor at the Institute of Fine Arts. He wrote many scholarly articles and books, including, ''Mannerism and Maniera'' and ''Repatriation of Art From the Collecting Point in Munich After World War II.''</p>
+        <p>Mr. Smyth was an honorary trustee of the Metropolitan Museum of Art and was the director of the Harvard University Center for Italian Renaissance Studies at Villa I Tatti in Florence. He was also chairman of the advisory committee of the J. Paul Getty Research Institute for the History of Art and the Humanities.</p>
+        <p>Mr. Smyth is survived by his wife, Barbara Linforth Smyth of Cresskill; two children, Alexandra, of New York City, and Ned, of Sag Harbor, N.Y.; and two grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

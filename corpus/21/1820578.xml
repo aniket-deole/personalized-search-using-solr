@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CORRECTIONS</title>
+    <meta content="21rcxn-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820578"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Barbanel, Josh</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E2DE1F30F932A15752C0A9619C8B63" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CORRECTIONS</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Dec 31, 2006, Big Deal column about sale of brownstone on East 94th Street misidentified professional position of buyer</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the Big Deal column on Dec. 31, about the sale of a brownstone on East 94th Street for $4.15 million, listed an outdated executive position for the buyer, Andreas Y. Gruson. Mr. Gruson is no longer chairman and chief executive of Regus Industries, a waste disposal company in West Seneca, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the Big Deal column on Dec. 31, about the sale of a brownstone on East 94th Street for $4.15 million, listed an outdated executive position for the buyer, Andreas Y. Gruson. Mr. Gruson is no longer chairman and chief executive of Regus Industries, a waste disposal company in West Seneca, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

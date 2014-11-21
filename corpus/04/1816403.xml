@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shakespeare's Church Is Crumbling</title>
+    <meta content="04shak" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816403"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E4DD1130F937A35752C0A9619C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shakespeare's Church Is Crumbling</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The church where Shakespeare is buried is ''urgently'' seeking nearly $400,000 for repairs to its tower and spire, Agence France-Presse reported.</p>
+        <p>''The New Year brings with it a focus on the fund to help solve the immediate crisis of the tower and spire,'' said the fund-raisers, Friends of Shakespeare's Church. The building is the Holy Trinity Church in Stratford-on-Avon, where Shakespeare was baptized, worshiped with his family and was buried in the chancel in 1616.</p>
+      </block>
+      <block class="full_text">
+        <p>The church where Shakespeare is buried is ''urgently'' seeking nearly $400,000 for repairs to its tower and spire, Agence France-Presse reported.</p>
+        <p>''The New Year brings with it a focus on the fund to help solve the immediate crisis of the tower and spire,'' said the fund-raisers, Friends of Shakespeare's Church. The building is the Holy Trinity Church in Stratford-on-Avon, where Shakespeare was baptized, worshiped with his family and was buried in the chancel in 1616.</p>
+        <p>The Friends said the church, dating to the 13th century, needs as much as $2 million in renovations, including work on the chancel roof, windows and stonework.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

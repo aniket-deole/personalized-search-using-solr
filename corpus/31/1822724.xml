@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Hotel Room With Views Of 5 Couples' Relationships</title>
+    <meta content="31room" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822724"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Knowles, Michael</person>
+        <person class="indexing_service">Bennett, Sarah</person>
+        <object.title class="indexing_service">Room 314 (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3D7143FF932A05752C0A9619C8B63" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Hotel Room With Views Of 5 Couples' Relationships</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film Room 314, written and directed by Michael Knowles; photo of cast member Sarah Bennett (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Room 314'' cracks open the door of an anonymous hotel room where, at different times, five couples navigate critical moments in their relationships. But whether dealing with unrequited love, suicidal depression or what appears to be a booty call gone awry, no one is permitted to check out without a dose of self-knowledge. You certainly don't get that at a Holiday Inn.</p>
+        <p>Written and directed by Michael Knowles (who is also the cinematographer), ''Room 314'' is an actor's dream. Shot in self-contained episodes and entirely without music (except for the credits), it has a vérité look and a voyeuristic atmosphere that complement the intimacy of the material.</p>
+      </block>
+      <block class="full_text">
+        <p>''Room 314'' cracks open the door of an anonymous hotel room where, at different times, five couples navigate critical moments in their relationships. But whether dealing with unrequited love, suicidal depression or what appears to be a booty call gone awry, no one is permitted to check out without a dose of self-knowledge. You certainly don't get that at a Holiday Inn.</p>
+        <p>Written and directed by Michael Knowles (who is also the cinematographer), ''Room 314'' is an actor's dream. Shot in self-contained episodes and entirely without music (except for the credits), it has a vérité look and a voyeuristic atmosphere that complement the intimacy of the material.</p>
+        <p>As you might expect in a movie about a hotel room, alcohol and sex feature prominently, though mainly as a cover for deeper issues. This is handled most insightfully in a segment in which a pair of co-workers (Robyn Myhr and the versatile Mr. Knowles) flirt with adultery while fending off self-loathing -- though I doubt that many would-be philanderers face each other with this degree of emotional honesty.</p>
+        <p>Like most films of this type, ''Room 314'' demands a great deal from its performers, not all of whom withstand the intense scrutiny. Fortunately, the action is bookended by four of the best: Matthew Del Negro and Joelle Carter as a couple who drunkenly connect at a bachelor party, and Michael Mosley and Jennifer Marlowe as friends with benefits and an unresolved past. In this hotel room unresolved pasts are as common as the continental breakfast.</p>
+        <p>Room 314  Opens today in Manhattan.</p>
+        <p>Written, directed and edited by Michael Knowles; director of photography, Mr. Knowles; song by Kate Fenner and Chris Brown; produced by Laura Knight; released by Room 314 L.L.C./7A Productions. At the Two Boots Pioneer Theater, 155 East Third Street, at Avenue A, East Village. Running time: 100 minutes. This film is not rated.</p>
+        <p>WITH: Joelle Carter (Stacey), Matthew Del Negro (Nick), Sarah Bennett (Gretchen), Michael Laurence (Harry), Robyn Myhr (Kathy), Michael Knowles (Jack), Monique Vukovic (Tracey), Todd Swenson (Matt), Jennifer Marlowe (Caly) and Michael Mosley (David).</p>
+        <p>FILM REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

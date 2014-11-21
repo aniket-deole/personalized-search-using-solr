@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Entry in Push-to-Talk</title>
+    <meta content="04phone" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/technology/04phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816300"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Cingular Wireless</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6D81730F937A35752C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Entry in Push-to-Talk</hl1>
+        <hl2 class="online_headline">A New Entry in Push-to-Talk</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>CU400 cellular phone from Cingular offers push-to-talk service allowing users to connect to each other; sells for $30 with two-year contract or $230 without; unlimited service plan costs $10-to-$20 per month; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Push-to-talk, another name for walkie-talkie cellphone features, has been popular for years, but until recently it was largely available on Nextel phones. Now you can get push-to-talk from Cingular as well, and the LG CU400 cellphone it recently began offering adds high-speed data services to the mix.</p>
+        <p>The CU400 is a G.S.M. phone that will work on cellular networks overseas. The push-to-talk service allows you to connect to another user of the service on Cingular or even send a broadcast message to up to 30 contacts.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Cingular's new G.S.M. push-to-talk phone will work on cellular networks overseas.</p>
+      </block>
+      <block class="full_text">
+        <p>Push-to-talk, another name for walkie-talkie cellphone features, has been popular for years, but until recently it was largely available on Nextel phones. Now you can get push-to-talk from Cingular as well, and the LG CU400 cellphone it recently began offering adds high-speed data services to the mix.</p>
+        <p>The CU400 is a G.S.M. phone that will work on cellular networks overseas. The push-to-talk service allows you to connect to another user of the service on Cingular or even send a broadcast message to up to 30 contacts.</p>
+        <p>The phone has a monochrome external screen, a bright main screen, a basic camera, Bluetooth wireless capabilities and supports Cingular's streaming audio and video services. It offers about five hours of talk time on one charge and weighs three ounces.</p>
+        <p>The CU400 sells for $30 with a two-year contract and rebate or $230 without a contract. Unlimited push-to-talk is $10 a month for each phone or $20 for a family plan.</p>
+        <p>Sleek styling and a rubberized finish ensure that nobody will mistake this phone for a walkie-talkie.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

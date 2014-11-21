@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>4 Schools Added to List as Failing Under U.S. Law</title>
+    <meta content="14weweekWC-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818959"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">Ossining (NY)</location>
+        <location class="indexing_service">Dobbs Ferry (NY)</location>
+        <location class="indexing_service">Tarrytown (NY)</location>
+        <location class="indexing_service">Yonkers (NY)</location>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <org class="indexing_service">Education Department (NYS)</org>
+        <person class="indexing_service">Fessenden, Ford</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E3DE1030F937A25752C0A9619C8B63" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>4 Schools Added to List as Failing Under U.S. Law</hl1>
+      </hedline>
+      <byline class="print_byline">By FORD FESSENDEN</byline>
+      <byline class="normalized_byline">Fessenden, Ford</byline>
+      <abstract>
+        <p>New York Department of Education reports 23 schools in Westchester County failed to meet requirements of federal No Child left Behind law, including four new ones in Ossining, Dobbs Ferry, Tarrytown and Yonkers (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Twenty three schools in Westchester failed to meet requirements outlined by the federal No Child Left Behind law, including four schools that were newly identified as in need of improvement, the State Education Department announced last week.</p>
+        <p>They are Ossining High School, Greenburgh Eleven High School in Dobbs Ferry, Sleepy Hollow Middle School in Tarrytown and School 23 in Yonkers.</p>
+      </block>
+      <block class="full_text">
+        <p>Twenty three schools in Westchester failed to meet requirements outlined by the federal No Child Left Behind law, including four schools that were newly identified as in need of improvement, the State Education Department announced last week.</p>
+        <p>They are Ossining High School, Greenburgh Eleven High School in Dobbs Ferry, Sleepy Hollow Middle School in Tarrytown and School 23 in Yonkers.</p>
+        <p>Schools are designated in need of improvement when students do not show enough progress on statewide tests in English and mathematics. For the first time this year, schools were judged on the scores of students in the third, fifth, sixth and seventh grades, in addition to fourth, eighth and 11th graders. Not only must schools show improvement over all, but they must also meet achievement targets for component groups, like racial categories and special education.</p>
+        <p>Under the federal No Child Left Behind Act, schools that receive federal money must replace administrators or close schools if they do not improve after several years. Roosevelt High School and Emerson Middle School in Yonkers have already reorganized, and two other Yonkers middle schools, Commerce and Museum, are planning to do so this year.</p>
+        <p>''We made the decision to redesign Roosevelt so it became two schools, with designated administrative staff for each,'' said Jerilynne Fierstein, spokeswoman for the district. ''The idea is to personalize the instruction and stay more focused on the curriculum.''</p>
+        <p>The state also removed three schools from the list because of improvements in scores, including two high schools in Yonkers, Lincoln and Gorton, that reversed several consecutive years of failure. ''We are thrilled,'' Ms. Fierstein said. ''It was quite an accomplishment for the staffs of those schools.''</p>
+        <p>Schools that do not receive federal money are not subject to No Child Left Behind sanctions, but are required to meet state demands for improvement if their students do not meet targets. Twelve of the 23 failing schools are on that list, which is referred to as ''schools requiring academic progress.''</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

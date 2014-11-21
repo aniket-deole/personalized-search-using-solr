@@ -44,16 +44,16 @@ public class BasicIndexer extends HttpServlet {
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
 
-		/*
-		 * SolrInputDocument document = new SolrInputDocument();
-		 * document.addField("id", count + 1); document.addField("name",
-		 * "Gouda cheese wheel"); document.addField("price", "49.99"); try {
-		 * UpdateResponse updateResponse = solrServer.add(document); } catch
-		 * (SolrServerException e1) { // TODO Auto-generated catch block
-		 * e1.printStackTrace(); } document = new SolrInputDocument();
-		 * document.addField("id", "12333"); document.addField("name",
-		 * "Gouda chutiya cheese wheel"); document.addField("price", "8723");
-		 */
+		
+/*		 SolrInputDocument document = new SolrInputDocument();
+		  document.addField("id", count + 1); document.addField("name",
+		  "Gouda cheese wheel"); document.addField("price", "49.99"); try {
+		  UpdateResponse updateResponse = solrServer.add(document); } catch
+		  (SolrServerException e1) { // TODO Auto-generated catch block
+		  e1.printStackTrace(); } document = new SolrInputDocument();
+		  document.addField("id", "12333"); document.addField("name",
+		  "Gouda chutiya cheese wheel"); document.addField("price", "8723");
+*/		 
 		SolrDocumentGenerator generatror = new SolrDocumentGenerator();
 		List<SolrInputDocument> solrDocuments = generatror
 				.createSolrDocuments();
@@ -63,6 +63,7 @@ public class BasicIndexer extends HttpServlet {
 				UpdateResponse updateResponse = solrServer
 						.add(solrInputDocument);
 				docCount++;
+				solrServer.commit();
 			} catch (SolrServerException e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();

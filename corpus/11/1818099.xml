@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ONLINE</title>
+    <meta content="11biztoday-3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818099"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TODAY IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EFD81230F932A25752C0A9619C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ONLINE</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTIN FACKLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sony has sold about 534,000 PlayStation 3 consoles in Japan since their debut on Nov. 11, far short of its goal of one million, according to sales estimates. By contrast, rival Nintendo has sold 1.14 million of its less expensive new game console, Wii, since its introduction on Dec. 2. The Xbox 360 from Microsoft has sold 311,053 units since arriving in December 2005.</p>
+        <p>MARTIN FACKLER</p>
+      </block>
+      <block class="full_text">
+        <p>Sony has sold about 534,000 PlayStation 3 consoles in Japan since their debut on Nov. 11, far short of its goal of one million, according to sales estimates. By contrast, rival Nintendo has sold 1.14 million of its less expensive new game console, Wii, since its introduction on Dec. 2. The Xbox 360 from Microsoft has sold 311,053 units since arriving in December 2005.</p>
+        <p>MARTIN FACKLER</p>
+        <p>TODAY IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

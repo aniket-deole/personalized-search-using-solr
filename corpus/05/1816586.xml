@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Burgeoning Geometries</title>
+    <meta content="05gall-1" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816586"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Whitney Museum of American Art (NYC)</org>
+        <person class="indexing_service">Scott, Andrea K</person>
+        <person class="indexing_service">Cooper, Diana</person>
+        <person class="indexing_service">Donovan, Tara</person>
+        <person class="indexing_service">Goldman, Charles</person>
+        <person class="indexing_service">Rogenes, Jason</person>
+        <person class="indexing_service">South, Jane</person>
+        <person class="indexing_service">Washburn, Phoebe</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EFDB1430F936A35752C0A9619C8B63" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Burgeoning Geometries</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREA K. SCOTT</byline>
+      <byline class="normalized_byline">Scott, Andrea K</byline>
+      <abstract>
+        <p>Andrea K Scott reviews group show featuring works by Diana Cooper, Tara Donovan, Charles Goldman, Jason Rogenes, Jane South and Phoebe Washburn at Whitney Museum of American Art; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Constructed Abstractions  Whitney Museum of American Art at Altria  120 Park Avenue, at 42nd Street  Through March 4</p>
+        <p>Slow is beautiful. That could be the motto of the six artists (Diana Cooper, Tara Donovan, Charles Goldman, Jason Rogenes, Jane South and Phoebe Washburn) in this spirited, if uneven, show organized by Apsara DiQuinzio, a curatorial associate at the San Francisco Museum of Modern Art. All favor a time-intensive, process-oriented approach in 10 hybrid works -- 11, counting Mr. Goldman's MySpace page, cited on the checklist -- that traverse painting, drawing, sculpture and installation.</p>
+      </block>
+      <block class="full_text">
+        <p>Constructed Abstractions  Whitney Museum of American Art at Altria  120 Park Avenue, at 42nd Street  Through March 4</p>
+        <p>Slow is beautiful. That could be the motto of the six artists (Diana Cooper, Tara Donovan, Charles Goldman, Jason Rogenes, Jane South and Phoebe Washburn) in this spirited, if uneven, show organized by Apsara DiQuinzio, a curatorial associate at the San Francisco Museum of Modern Art. All favor a time-intensive, process-oriented approach in 10 hybrid works -- 11, counting Mr. Goldman's MySpace page, cited on the checklist -- that traverse painting, drawing, sculpture and installation.</p>
+        <p>The unifying thread is a kind of magpie postminimalism, which invigorates familiar abstract strategies -- grids, serial repetition, reductive forms -- using materials scavenged from everyday life. A short list includes woodchips, oil drums, straight pins, electrical cords and live snails. The best works rely on recycled ingredients, Dumpster-diving their way to a sustainable art.</p>
+        <p>The Whitney's Altria branch, a modest gallery and a sprawling public atrium, is an architectural Jekyll and Hyde. The maniacal side wins out here in a pair of visionary large-scale installations by Mr. Rogenes and Ms. Washburn that bookend the sculpture court. (An underwhelming selection of bucket-based objects by Mr. Goldman is also displayed.)</p>
+        <p>An ingenious composite of Brancusi's ''Endless Column,'' Dan Flavin's fluorescence, and pyramid power, Mr. Rogenes's 40-foot-high construction pairs an illuminated totem pole of found polystyrene packaging with a cardboard construction that recalls the modular polygons of Buckminster Fuller. Ms. Washburn's ambitious structure, modestly titled ''A Minor In-House Brain Storm,'' is a winningly ramshackle, self-contained ecosystem, complete with aquatic plants (and the snails).</p>
+        <p>By contrast, the sparse trio of works inside the gallery looks staid. Ms. Donovan's shimmering cube of straight pins lacks menace, and Ms. South's verdigris-colored cut-and-folded paper relief appears diagrammatic. Only Ms. Cooper's wall-work -- a viral concoction of vinyl, paper, felt and ink -- surprises as it sprouts from itself around a column like a cartoon spore.</p>
+        <p>ANDREA K. SCOTT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

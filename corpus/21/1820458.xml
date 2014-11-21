@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Crisis Hot Line That's Still Open</title>
+    <meta content="l21city-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820458"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hot Lines</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Helpline</org>
+        <org class="indexing_service">Samaritans of New York (Orgn)</org>
+        <person class="indexing_service">Ross, Alan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E5D81E30F932A15752C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Crisis Hot Line That's Still Open</hl1>
+      </hedline>
+      <abstract>
+        <p>Samaritans of New York executive director Alan Ross letter on January 14 article on closing of New York City's oldest crisis intervention hot line, HelpLine; notes Samaritans of New York hot line remains open</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The closing of New York City's oldest crisis intervention hot line, HelpLine, was a sad event that affected both the people who used that service and the caring volunteers who staffed the line.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The closing of New York City's oldest crisis intervention hot line, HelpLine, was a sad event that affected both the people who used that service and the caring volunteers who staffed the line.</p>
+        <p>That said, your Jan. 14 article ''For Desperate Souls, a Last Chance No More'' did not include significant information that New York City residents who are depressed or suicidal should know. The nonreligious Samaritans of New York, in contract with the city's Department of Health and Mental Hygiene, provides a free, confidential emotional-support hot line 24 hours a day to people dealing with any kind of problem, from a bad day to a broken heart to some traumatic event or mental illness, at (212) 673-3000.</p>
+        <p>The hot line, staffed by 100 professionally trained volunteers from the city's diverse communities, answered close to 43,000 calls in 2006. New Yorkers in crisis are not alone.</p>
+        <p>Alan Ross  Executive Director  Samaritans of New York  Greenwich Village</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

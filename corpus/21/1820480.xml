@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Many Investigations, One Department</title>
+    <meta content="21toons" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820480"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE NATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="indexing_service" type="descriptor">Royalties</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">Gulf of Mexico</location>
+        <org class="indexing_service">Interior Department</org>
+        <org class="indexing_service">Minerals Management Service</org>
+        <person class="indexing_service">Andrews, Edmund L</person>
+        <person class="indexing_service">Clinton, Bill</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E7D71E30F932A15752C0A9619C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Many Investigations, One Department</hl1>
+      </hedline>
+      <byline class="print_byline">By EDMUND L. ANDREWS</byline>
+      <byline class="normalized_byline">Andrews, Edmund L</byline>
+      <abstract>
+        <p>Interior Dept Minerals Management Service admitted in 2006 that it had signed leases in 1998 and 1999 allowing oil companies drilling in Gulf of Mexico to escape $7 to $10 billion in royalties over five years; giveaway came from mistake made under Pres Bill Clinton, but Bush administration senior officials ignored it as oil prices reached new highs; Congress is investigating alleged mismanagement, poor oversight and possible criminal misbehavior; photos; chart (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE Minerals Management Service, an obscure agency in the Interior Department, collects more than $10 billion a year from companies that pump oil and gas from federal lands and federal waters in the Gulf of Mexico. To encourage drilling when oil prices were low, Congress waived many royalties for companies drilling in very deep water. But the ''royalty relief'' was supposed to stop if oil cost more than $34 a barrel, when deepwater drilling was assumed to be profitable.</p>
+        <p>A year ago, the minerals agency admitted what midlevel officials had known for six years: that it had signed leases in 1998 and 1999 allowing oil companies drilling in the Gulf of Mexico to escape $7 billion to $10 billion in royalties over the next five years -- even if energy prices remain at record levels. The giveaway came from a mistake made under President Bill Clinton, but Bush administration senior officials ignored it as oil prices shot to new highs. Last week, Interior's inspector general, Earl E. Devaney, called the agency's response ''shockingly cavalier'' and ''a jaw dropping example of bureaucratic bungling.''</p>
+      </block>
+      <block class="full_text">
+        <p>THE Minerals Management Service, an obscure agency in the Interior Department, collects more than $10 billion a year from companies that pump oil and gas from federal lands and federal waters in the Gulf of Mexico. To encourage drilling when oil prices were low, Congress waived many royalties for companies drilling in very deep water. But the ''royalty relief'' was supposed to stop if oil cost more than $34 a barrel, when deepwater drilling was assumed to be profitable.</p>
+        <p>A year ago, the minerals agency admitted what midlevel officials had known for six years: that it had signed leases in 1998 and 1999 allowing oil companies drilling in the Gulf of Mexico to escape $7 billion to $10 billion in royalties over the next five years -- even if energy prices remain at record levels. The giveaway came from a mistake made under President Bill Clinton, but Bush administration senior officials ignored it as oil prices shot to new highs. Last week, Interior's inspector general, Earl E. Devaney, called the agency's response ''shockingly cavalier'' and ''a jaw dropping example of bureaucratic bungling.''</p>
+        <p>There are investigations by Congress, the inspector general at Interior and the Justice Department into alleged mismanagement, poor oversight of oil companies and possibly even criminal misbehavior.</p>
+        <p>The agency is also accused of lax oversight of oil company payments. Four of its own auditors have accused superiors of blocking findings that major companies cheated the government. Mr. Devaney criticized the enforcement efforts, saying they rely heavily on unverified reports by oil companies -- ''an honor system,'' he told lawmakers Thursday. Here is a guide to investigations at the Interior Department.</p>
+        <p>EDMUND L. ANDREWS</p>
+        <p>THE NATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

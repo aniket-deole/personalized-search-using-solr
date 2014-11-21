@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Fearless Fighter, Gone</title>
+    <meta content="l26armenia" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821528"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Assassinations and Attempted Assassinations</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <location class="indexing_service">Turkey</location>
+        <person class="indexing_service">Evans, John M</person>
+        <person class="indexing_service">Dink, Hrant</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Turkey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assassinations and Attempted Assassinations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E2DE173FF935A15752C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Fearless Fighter, Gone</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from John M Evans, former US ambassador to Armenia, abhors murder of Hrant Dink; calls him fighter for truth and human dignity (Jan 20 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Editor Who Spoke for Turkey's Ethnic Armenians Is Slain'' (news article, Jan. 20):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Editor Who Spoke for Turkey's Ethnic Armenians Is Slain'' (news article, Jan. 20):</p>
+        <p>Hrant Dink, whom I met in Yerevan, Armenia, in 2005, was a fearless fighter for truth and human dignity. His assassination strikes a heavy blow against Turks, Armenians and all who strive for proper acknowledgment of the 1915 Armenian genocide and for reconciliation between the two nations.</p>
+        <p>His death should be a wake-up call: the last stage of genocide is denial.</p>
+        <p>John M. Evans  Sag Harbor, N.Y., Jan. 20, 2007</p>
+        <p>The writer was the United States ambassador to Armenia, 2004-6.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BUT THANKS FOR ASKING</title>
+    <meta content="14suits-4" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818859"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <org class="indexing_service">Emmis Communications Corp</org>
+        <person class="indexing_service">Smulyan, Jeffrey H</person>
+        <person class="indexing_service">Mcgeehan, Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE3DA1330F937A25752C0A9619C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BUT THANKS FOR ASKING</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+      <abstract>
+        <p>Emmis Communications's board declines to consider shareholder proposal to eliminate Class B shares which gives founder, chairman and chief executive Jeffrey H Smulyan control of company despite owning less than 20 percent of stock; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There is no doubt about who commands the microphone in the boardroom of Emmis Communications.</p>
+        <p>An investor was asking his fellow shareholders to vote to eliminate Emmis's Class B shares, which carry 10 votes each and give Jeffrey H. Smulyan, the founder, chairman and chief executive, control of the company though he owns less than 20 percent of its stock.</p>
+      </block>
+      <block class="full_text">
+        <p>There is no doubt about who commands the microphone in the boardroom of Emmis Communications.</p>
+        <p>An investor was asking his fellow shareholders to vote to eliminate Emmis's Class B shares, which carry 10 votes each and give Jeffrey H. Smulyan, the founder, chairman and chief executive, control of the company though he owns less than 20 percent of its stock.</p>
+        <p>Emmis's board did not support or oppose the proposal. It just declined to even consider it at all. The board said the issue was ''moot'' because the change required the cooperation of Mr. Smulyan, and he had already said he'd withhold it.</p>
+        <p>PATRICK McGEEHAN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

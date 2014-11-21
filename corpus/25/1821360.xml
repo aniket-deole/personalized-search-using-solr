@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'Idol' and President Win for Fox</title>
+    <meta content="25arts-4" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821360"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Fox Entertainment Group</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <object.title class="indexing_service">American Idol (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EFD9163FF936A15752C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'Idol' and President Win for Fox</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>Fox wins ratings for Tuesday with hit series American Idol, despite interruption in night's programming by Pres Bush's State of Union speech (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the night of President Bush's State of the Union address, the ''American Idol'' judges kicked off prime time in Memphis with imposing ratings as usual. According to Nielsen's estimates, which do not account for time zone discrepancies due to interruptions for the president's live speech, the series yielded 31.2 million viewers in the 8 p.m. hour Tuesday, significantly ahead of second place ''NCIS'' on CBS (14.3 million). As a result, Fox retained a substantial lead going into State of the Union programming at 9. Ratings for the 49-minute address weren't immediately available, but preliminary approximations show Fox's coverage on top, followed by NBC and CBS in a close race for second, and ABC in fourth. On Sunday, ''Ocean's Deadliest,'' the documentary Steve Irwin was filming when he was killed, attracted 3.2 million viewers. It was carried on two cable channels, Discovery (1.7 million) and Animal Planet (1.5 million), from 8 p.m. to 9:30.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>On the night of President Bush's State of the Union address, the ''American Idol'' judges kicked off prime time in Memphis with imposing ratings as usual. According to Nielsen's estimates, which do not account for time zone discrepancies due to interruptions for the president's live speech, the series yielded 31.2 million viewers in the 8 p.m. hour Tuesday, significantly ahead of second place ''NCIS'' on CBS (14.3 million). As a result, Fox retained a substantial lead going into State of the Union programming at 9. Ratings for the 49-minute address weren't immediately available, but preliminary approximations show Fox's coverage on top, followed by NBC and CBS in a close race for second, and ABC in fourth. On Sunday, ''Ocean's Deadliest,'' the documentary Steve Irwin was filming when he was killed, attracted 3.2 million viewers. It was carried on two cable channels, Discovery (1.7 million) and Animal Planet (1.5 million), from 8 p.m. to 9:30.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

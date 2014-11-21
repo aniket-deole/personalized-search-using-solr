@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What Should a Billionaire Give - and What Should You?</title>
+    <meta content="07letters.t-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816953"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <person class="indexing_service">Maney, Russ</person>
+        <person class="indexing_service">Culross, Patti</person>
+        <person class="indexing_service">Roth, William (Lr Writer)</person>
+        <person class="indexing_service">Singer, Peter</person>
+        <person class="indexing_service">Gates, Bill</person>
+        <person class="indexing_service">Buffett, Warren E</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E2DA1730F934A35752C0A9619C8B63" item-length="392" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What Should a Billionaire Give - and What Should You?</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on Dec 17, 2006, Peter Singer article on what people should donate to charity depending on income level; Russ Maney agrees that more fortunate people should be more generous; Patti Culross contends private philanthropy cannot--and should not--sustain scale of interventions that governments can accomplish; William Roth argues against making annual donations, saying money could be reinvested to earn more and given as lump sum; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was all set not to like Peter Singer's article (Dec. 17). I think that the freedom to choose what one does with one's own money is a fundamental building block of a free society. That said, I found myself agreeing with nearly all of what he wrote. As a Christian, I strongly believe that the more fortunate should give generously to those in need. Also, I agree that one's capacity to give greatly increases after one's basic needs are met, so the calculation methods and their underlying assumptions rang true to me, too.</p>
+      </block>
+      <block class="full_text">
+        <p>I was all set not to like Peter Singer's article (Dec. 17). I think that the freedom to choose what one does with one's own money is a fundamental building block of a free society. That said, I found myself agreeing with nearly all of what he wrote. As a Christian, I strongly believe that the more fortunate should give generously to those in need. Also, I agree that one's capacity to give greatly increases after one's basic needs are met, so the calculation methods and their underlying assumptions rang true to me, too.</p>
+        <p>It seems to me that the only real way to permanently eradicate poverty is to attack the conditions that create it -- overpopulation, the lack of the means to produce food, clothing and shelter locally, the lack of other viable jobs and industries, etc. Perhaps these are the sorts of things the United Nations Millennium Summit has in mind as ways to meet the goals listed in the article.</p>
+        <p>I think most people's inclination to give is increased by knowing that their gifts will be carefully channeled into projects that deliver long-term benefits. Equally important is knowing there are safeguards, audits and independent watchers in place to make sure the charitable organizations themselves are handling the monies efficiently and ethically.</p>
+        <p>Russ Maney</p>
+        <p>Louisville, Ky.</p>
+        <p>Private philanthropy allows for the kind of risk-taking that governments won't and, frankly, can't do. That's good. But private philanthropy cannot sustain the scale of global interventions needed over the long term the way governments can. Philanthropists may get bored and want to move on to other issues. Or they may not want to get involved in the difficult and complex politics often needed, perhaps for fear of offending the richest markets for their business-related products.</p>
+        <p>Patti Culross</p>
+        <p>Crockett, Calif.</p>
+        <p>Why does Singer suggest that wealth should be given away as earned each year? Warren Buffett and Bill Gates are able to give away many billions of dollars only because they continued, over a period of many years, to reinvest in building their companies, as opposed to spending or giving away their wealth. Are they even now giving it away too soon? Assuming a 15 percent annual rate of return, if they waited five more years, they could give away twice as much as today.</p>
+        <p>William Roth</p>
+        <p>Avon, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

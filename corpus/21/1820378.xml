@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why Women Pay Higher Interest</title>
+    <meta content="21mort" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/realestate/21mort.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820378"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MORTGAGES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <org class="indexing_service">Consumer Federation of America</org>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Subprime Lending</classifier>
+        <classifier class="online_producer" type="descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="descriptor">Credit</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DF1E30F932A15752C0A9619C8B63" item-length="633" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why Women Pay Higher Interest</hl1>
+        <hl2 class="online_headline">Why Women Pay Higher Interest</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Mortgages column on finding by Consumer Federation of America that women are 32 percent more likely to carry mortgages with high interest rates than men with similar incomes; Federation study focused on subprime loans, typically given to those with credit ratings under 660; says most likely reason for disparity is that women are less familiar with mortgage market than men and less likely to seek best deal (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WOMEN generally have better credit scores than men, so why do they pay considerably more for mortgages than men?</p>
+        <p>That is the question at the heart of a study released last month by the Consumer Federation of America, a nonprofit advocacy group, showing that women are 32 percent more likely to carry mortgages with high interest rates than men with similar incomes. And wealthier women were 50 percent more likely to carry expensive loans than their male counterparts.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Women generally have better credit scores than men, so why do they pay considerably more for mortgages than men?</p>
+      </block>
+      <block class="full_text">
+        <p>WOMEN generally have better credit scores than men, so why do they pay considerably more for mortgages than men?</p>
+        <p>That is the question at the heart of a study released last month by the Consumer Federation of America, a nonprofit advocacy group, showing that women are 32 percent more likely to carry mortgages with high interest rates than men with similar incomes. And wealthier women were 50 percent more likely to carry expensive loans than their male counterparts.</p>
+        <p>''When people are paying 7.5 percent or 9.5 percent interest on a mortgage loan, it really slows the wealth-building effect of home ownership,'' said Allen Fishbein, the federation's director of housing and credit policy. ''It can be a tremendous drain.''</p>
+        <p>The study, which relied on 2005 federal data on mortgages from across the country, focused on so-called subprime loans, which lenders typically market to those with credit ratings lower than 660 and with other credit characteristics that make them higher-risk borrowers. In 2005, interest rates on prime mortgage loans averaged 5.87 percent, Mr. Fishbein said, compared with 7.66 percent for subprime loans, and more than 9.66 percent for the highest-cost category of subprime loans.</p>
+        <p>In 2005, according to the study, 10 percent of women who took out mortgages received the highest-cost subprime loans, compared with about 7.5 percent of men.</p>
+        <p>Mr. Fishbein said that although the data he used for the study did not include credit scores and debt-to-income ratios, this would not have been enough to explain the mortgage discrepancies between men and women.</p>
+        <p>Mr. Fishbein said the most likely reason for the disparity was that women were less familiar with the mortgage market than men and were therefore less likely to shop around for the best mortgage deal. ''There is some research indicating that women are, on the whole, less likely than men to bargain for major consumer purchases and credit transactions,'' he said.</p>
+        <p>''And one of the things that's still relatively unknown is that mortgage loans can be negotiated with lenders and brokers,'' Mr. Fishbein added.</p>
+        <p>Mortgage industry executives and consumer advocates alike say that borrowers should start their mortgage shopping by getting free credit reports from major reporting bureaus like Experian, TransUnion and Equifax. (Borrowers can often spruce up their ratings by getting errors and black marks removed.)</p>
+        <p>After that, borrowers should research the going rates for mortgage loans given to prime borrowers. Rates typically quoted on banks' Web sites and by aggregators like BankRate.com reflect prime interest rates. The lower borrowers' credit scores, the higher the interest rates they can expect to pay, but lenders and brokers compete aggressively for business, and they will often reduce their fees and interest rates if borrowers bring in competing offers.</p>
+        <p>African-American women are particularly likely to take out subprime loans, according to the study. In fact, those who earn less than the median income in their region are nearly two and a half times more likely to receive a subprime mortgage than white men with the same incomes. Upper-income African-American women are nearly five times more likely to receive such loans than upper-income white men.</p>
+        <p>Ellen Bitton, the chief executive of the Park Avenue Mortgage Group, a brokerage firm in Manhattan, said she was surprised by the findings. ''Maybe there are other markets in the country where the numbers are really coming from,'' she said, ''but it doesn't seem to me to reflect the market in New York City.''</p>
+        <p>In some cases, Ms. Bitton said, a couple with a bankruptcy or a foreclosure on their record will take out a subprime mortgage because it is the only option. ''And many times the husband has the lower credit score, so they might put the mortgage into the wife's name,'' she said.</p>
+        <p>Otherwise, Ms. Bitton said, ''I'm really shocked by this data.''</p>
+        <p>MORTGAGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

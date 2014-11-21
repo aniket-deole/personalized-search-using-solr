@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Obese Children, Increased Risks in Surgery</title>
+    <meta content="23scal" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820814"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: ON THE SCALES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weight</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Surgery and Surgeons</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">University of Michigan</org>
+        <org class="indexing_service">Journal of National Medical Assn</org>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <person class="indexing_service">Nafiu, Olubukola O (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Obesity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pediatrics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EEDB1F30F930A15752C0A9619C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Obese Children, Increased Risks in Surgery</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Dr Olubukola O Nafiu of University of Michigan Health System leads study that suggests growing problem of childhood obesity is impacting surgical events for children; obese children face similar surgical risks as do obese adults; research, which discusses medical complications that often accompany obesity, is published in Journal of the National Medical Assn (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The risks associated with the growing problem of obesity among young people may be extending to the operating room table.</p>
+        <p>Researchers at the University of Michigan Health System have found that almost a third of the children who needed surgery there over a four-year period were overweight. Of those, more than half could be considered obese. The study appears in the current Journal of the National Medical Association.</p>
+      </block>
+      <block class="full_text">
+        <p>The risks associated with the growing problem of obesity among young people may be extending to the operating room table.</p>
+        <p>Researchers at the University of Michigan Health System have found that almost a third of the children who needed surgery there over a four-year period were overweight. Of those, more than half could be considered obese. The study appears in the current Journal of the National Medical Association.</p>
+        <p>The researchers, led by Dr. Olubukola O. Nafiu, said it was widely accepted among surgeons and anesthesiologists that obese adult patients presented ''enormous'' challenges. With a threefold increase in weight problems among American children and adolescents over the past three decades, they said, doctors who operate on younger patients are already facing the same issues.</p>
+        <p>In adult patients, surgery is often complicated by other illnesses brought on by obesity, like diabetes and high blood pressure. ''Unfortunately,'' the study said, ''many of these co-morbidities are becoming prevalent in obese children.''</p>
+        <p>The extra weight in itself can cause difficulties, including maintaining open air passages for patients who are anesthetized. There is also evidence that in overweight people, surgical wounds are more likely to become infected.</p>
+        <p>The researchers looked at operations performed on more than 6,000 children at a University of Michigan hospital from 2000 to 2004. Weight problems were found at all ages, but especially when the children were 8 to 12.</p>
+        <p>It is possible, the study said, that the problem is not as bad elsewhere in the United States, since Michigan has a particularly high rate of obesity.</p>
+        <p>VITAL SIGNS: ON THE SCALES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

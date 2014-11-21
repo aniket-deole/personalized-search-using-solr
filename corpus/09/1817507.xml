@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Surfing, It Seems, Is Safer Than Some Sports</title>
+    <meta content="09exer" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/health/nutrition/09exer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817507"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: EXERCISE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Surfing</classifier>
+        <classifier class="indexing_service" type="descriptor">Emergency Medical Treatment</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <org class="indexing_service">Brown University</org>
+        <org class="indexing_service">American Journal of Sports Medicine</org>
+        <person class="indexing_service">Bakalar, Nicholas</person>
+        <person class="indexing_service">Nathanson, Andrew T (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Surfing</classifier>
+        <classifier class="online_producer" type="descriptor">Surfing</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surfing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7D91530F93AA35752C0A9619C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Surfing, It Seems, Is Safer Than Some Sports</hl1>
+        <hl2 class="online_headline">Exercise: Surfing, It Seems, Is Safer Than Some Sports</hl2>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+      <abstract>
+        <p>Dr Andrew T Nathanson, Brown University assistant emergency medicine professor, leads study that finds surfing is one of safest sports; research is published in American Journal of Sports Medicine; most common injuries are caused by impact with surfboard; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It may be safer to go surfing than to play college football, soccer or basketball, according to a six-year study of professional and amateur surfing competitions.</p>
+        <p>Using on-site medical support staff members, researchers recorded all injuries at 10 amateur and 22 professional surfing competitions from March 1999 to September 2005. Injuries that left the athlete unable to continue surfing, resulted in a hospital visit or required on-site stitches were classified as ''significant.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It may be safer to go surfing than to play college football, soccer or basketball, according to a new study.</p>
+      </block>
+      <block class="full_text">
+        <p>It may be safer to go surfing than to play college football, soccer or basketball, according to a six-year study of professional and amateur surfing competitions.</p>
+        <p>Using on-site medical support staff members, researchers recorded all injuries at 10 amateur and 22 professional surfing competitions from March 1999 to September 2005. Injuries that left the athlete unable to continue surfing, resulted in a hospital visit or required on-site stitches were classified as ''significant.''</p>
+        <p>Over the course of the 32 events, the researchers recorded 6.6 significant injuries per 1,000 hours of surfing. About one-half of 1 percent of the athletes, men and women alike, suffered some significant injury, with sprains and strains the most common, followed by cuts, bruises and fractures. Impact with the surfboard caused almost one-third of the injuries, and a quarter were caused by crashing into the ocean floor. Most of the rest were a result of the surfer's own body motion or the hydraulic force of a wave.</p>
+        <p>''I've cut my leg with the fin of my board, which is a pretty common occurrence,'' said Dr. Andrew T. Nathanson, the lead author of the paper and an assistant professor of emergency medicine at Brown University. ''I needed a few stitches. That's the most common scenario -- falling into a sharp part of the board and getting cut. But on average, when you look at competitive surfing, the risk of significant injury seems to be low.''</p>
+        <p>According to background information in the paper, which appears in the January issue of The American Journal of Sports Medicine, the National Collegiate Athletic Association reported that college basketball results in 9 significant injuries per 1,000 hours of competition, soccer in 18.8 injuries per 1,000 hours, and football in 33.</p>
+        <p>VITAL SIGNS: EXERCISE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

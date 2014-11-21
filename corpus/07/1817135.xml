@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Not the Manager. It's the Liquidity.</title>
+    <meta content="07stra" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/business/mutfund/07stra.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817135"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUTUAL FUNDS REPORT: STRATEGIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Mutual Funds</classifier>
+        <person class="indexing_service">Alexander, Gordon J (Prof)</person>
+        <person class="indexing_service">Gibson, Scott (Prof)</person>
+        <person class="indexing_service">Cici, Gjergji (Prof)</person>
+        <person class="indexing_service">Hulbert, Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Strategies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4D91430F934A35752C0A9619C8B63" item-length="947" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Not the Manager. It's the Liquidity.</hl1>
+        <hl2 class="online_headline">It’s Not the Manager. It’s the Liquidity.</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK HULBERT</byline>
+      <byline class="normalized_byline">Hulbert, Mark</byline>
+      <abstract>
+        <p>Strategies column discusses mutual funds managers and how they are often unfairly blamed for performance of their funds; new study by profs Gordon J Alexander, Scott Gibson and Gjergji Cici defends average fund manager with research based on motivations to buy or sell stocks; graph compares valuation-motivated trades with liquidity-motivated trades (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MUTUAL fund managers are unfairly blamed for poor performance of their funds. The track record of the average manager doesn't lag that of a simple buy-and-hold strategy because the manager is an awful stock picker. Instead, the underperformance results from unprofitable transactions that are forced by the buy-and-sell decisions of shareholders.</p>
+        <p>This defense of the average fund manager comes from a new study called ''Does Motivation Matter When Assessing Trade Performance? An Analysis of Mutual Funds.'' The authors of the study, which has been circulating as an academic working paper, are three finance professors: Gordon J. Alexander of the University of Minnesota and Scott Gibson and Gjergji Cici, both at the Mason Business School of the College of William and Mary. A version is at papers.ssrn.com/sol3/papers.cfm?abstract-id=641743.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mutual fund underperformance typically results from unprofitable transactions that are forced by the buy-and-sell decisions of shareholders.</p>
+      </block>
+      <block class="full_text">
+        <p>MUTUAL fund managers are unfairly blamed for poor performance of their funds. The track record of the average manager doesn't lag that of a simple buy-and-hold strategy because the manager is an awful stock picker. Instead, the underperformance results from unprofitable transactions that are forced by the buy-and-sell decisions of shareholders.</p>
+        <p>This defense of the average fund manager comes from a new study called ''Does Motivation Matter When Assessing Trade Performance? An Analysis of Mutual Funds.'' The authors of the study, which has been circulating as an academic working paper, are three finance professors: Gordon J. Alexander of the University of Minnesota and Scott Gibson and Gjergji Cici, both at the Mason Business School of the College of William and Mary. A version is at papers.ssrn.com/sol3/papers.cfm?abstract-id=641743.</p>
+        <p>The professors' research builds on fund managers' motivations to buy or sell a stock. The most obvious, of course, is that they believe that the stock they're buying will climb and that the stock they're selling will fall. But only some trades purely reflect such convictions. When investors are pouring money into the fund or selling in droves, managers have to buy or sell stocks that they would not have traded otherwise.</p>
+        <p>The study used a new method for segregating fund trades according to these different motivations, allowing the professors to measure managers' pure stock-picking abilities as well as the effects of fund inflows and outflows on fund performance.</p>
+        <p>The key to the approach was measuring how much money was being invested in a fund, or withdrawn from it, at the time of each transaction. Consider a large purchase that a fund manager made during a period when investors were, on balance, withdrawing a lot of money from the fund. The professors assumed that because the manager didn't have to buy the stock in order to invest a large inflow of cash, he must have believed that it would be an above-average performer -- a ''valuation-motivated buy,'' in the professors' parlance. Similarly, a ''valuation-motivated sell'' would be a big sale that occurred when there was a large net inflow of cash into a fund.</p>
+        <p>The professors built two hypothetical portfolios, one for the valuation-motivated buys and the other for the valuation-motivated sells. The portfolios changed composition every quarter. From January 1980 through December 2003, the professors found, the first portfolio performed 2.8 percentage points a year better than the stock market as a whole, on average, while the second trailed the market by an average of 0.7 percentage point a year. The study says this means that ''when fund managers make purely valuation-motivated trades, they beat the market by a substantial margin.''</p>
+        <p>Then there are the trades that are intended primarily to meet redemption requests or to put new cash to work in the market. The professors assume that ''liquidity-motivated buys'' are those that occur when there is a large inflow of new cash, while ''liquidity-motivated sells'' occur amid a large number of redemption requests. They acknowledge that some of these trades may be motivated by considerations other than liquidity. But, they say, the average trade in their liquidity-motivated categories is less likely than that of the valuation-motivated groups to be a pure reflection of managers' beliefs about a stock's potential.</p>
+        <p>The professors built two portfolios of stocks in these liquidity-motivated categories, one for the buys and one for the sells.</p>
+        <p>The relative performance of the two liquidity portfolios was nearly opposite that of the valuation-motivated versions, with the buys now lagging the market and the sells outperforming it. In fact, the liquidity-motivated sells outperformed the buys by two percentage points a year, on average. In other words, the transactions that managers must make to meet liquidity needs eliminate much of the profit from trades made for valuation reasons. Transaction costs, which were not included in the calculations, coupled with management fees, eliminate the rest of that profit for the average fund.</p>
+        <p>The professors interpret their findings to mean that mutual fund investors pay a high price for the chance to invest or withdraw money at any time. And the cost is borne by all investors, whether or not they take advantage of the opportunity. The investment implication is clear: don't pay for liquidity unless you need daily access to your money.</p>
+        <p>Are closed-end funds the preferred alternative for long-term investors? It might appear that way. After all, the amount of assets under management at closed-end funds doesn't change when investors buy or sell shares, because the number of shares outstanding is fixed. This means the managers of closed-end funds are immune from rapid inflows and outflows of cash.</p>
+        <p>But Professor Gibson said in an interview that he did not think closed-end funds were the way to go. Because the funds' assets under management don't change even when performance is awful, the closed-end fund industry ''helps entrench poor-performing managers,'' he said. And because these funds won't receive new money even when performance is spectacular, he said, they tend to ''turn away the best managers who want to grow asset-based fees.''</p>
+        <p>Because of those considerations, Professor Gibson says he instead favors open-end mutual funds that significantly restrict short-term trades. Such funds, he says, are more likely than closed-end funds to attract better managers and offer a powerful incentive for them to beat the market. And because of the restrictions on short-term trades, long-term investors don't subsidize the liquidity needs of the short-term traders.</p>
+        <p>Professor Gibson says he particularly likes funds that charge redemption fees on short-term trades, especially when the fees go back into the fund. It's easy to see why short-term traders don't like these fees, he said, but ''if you're a long-term investor, they are your best friend.''</p>
+        <p>MUTUAL FUNDS REPORT: STRATEGIES Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

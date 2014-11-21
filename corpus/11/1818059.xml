@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Blue Jay Lets It Fly About the Mets</title>
+    <meta content="11thomson" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818059"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">Toronto Blue Jays</org>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Thomson, John</person>
+        <person class="indexing_service">Lo Duca, Paul</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Toronto Blue Jays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E7D81230F932A25752C0A9619C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Blue Jay Lets It Fly About the Mets</hl1>
+      </hedline>
+      <abstract>
+        <p>Toronto Blue Jays pitcher John Thomson says he did not accept New York Mets offer this off-season because he did not want to pitch to Mets catcher Paul Lo Duca (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John Thomson is a journeyman pitcher with a career mark of 62-84 over a decade of service in the major leagues, including a forgettable 2-6 record with the Mets during a portion of the team's very forgettable 2002 season.</p>
+        <p>On Tuesday, the 33-year-old Thomson agreed to a one-year, $500,000 deal with Toronto. Nothing startling about that. But on Wednesday, in a conference call with Toronto reporters, Thomson made some waves, saying he had decided to pass up an offer from the Mets because he did not like the catching style of Paul Lo Duca, the Mets' All-Star catcher.</p>
+      </block>
+      <block class="full_text">
+        <p>John Thomson is a journeyman pitcher with a career mark of 62-84 over a decade of service in the major leagues, including a forgettable 2-6 record with the Mets during a portion of the team's very forgettable 2002 season.</p>
+        <p>On Tuesday, the 33-year-old Thomson agreed to a one-year, $500,000 deal with Toronto. Nothing startling about that. But on Wednesday, in a conference call with Toronto reporters, Thomson made some waves, saying he had decided to pass up an offer from the Mets because he did not like the catching style of Paul Lo Duca, the Mets' All-Star catcher.</p>
+        <p>''As far as just looking at Paul Lo Duca across the field, I'm not really into how he acts behind the plate,'' said Thomson, who said he preferred the catching style of Toronto's Gregg Zaun.</p>
+        <p>Thomson went on to add that he also was not particularly thrilled with the way Cliff Floyd played the outfield, calling him a ''little shaky.'' Thomson was apparently unaware that the Mets and Floyd have parted ways and that Floyd will not be patrolling left field in Shea Stadium next season.</p>
+        <p>Thomson and Lo Duca have never been teammates. Attempts to reach Lo Duca for comment yesterday were unsuccessful, and an attempt to reach Chris Arnold, Thomson's agent, were to no avail, too. But perhaps Lo Duca's critique of Thomson's pitching style, and his career earned run average of 4.69, will be forthcoming.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

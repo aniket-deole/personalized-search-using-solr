@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>30 SECONDS WITH REESE HOFFA</title>
+    <meta content="28seconds" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/sports/othersports/28seconds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822141"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="30 Seconds"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Track and Field</classifier>
+        <classifier class="indexing_service" type="descriptor">Shot Put</classifier>
+        <person class="indexing_service">Litsky, Frank</person>
+        <person class="indexing_service">Hoffa, Reese</person>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD8173FF93BA15752C0A9619C8B63" item-length="302" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>30 SECONDS WITH REESE HOFFA</hl1>
+        <hl2 class="online_headline">With Reese Hoffa</hl2>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+      <abstract>
+        <p>Interview with shot-putter Reese Hoffa; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Reese Hoffa, the fourth-best shot-putter in the United States in 2005, burst past the others last year. He won the world indoor title with the year's longest indoor put (72 feet 6 1/2 inches) and was ranked first in the world by Track and Field News. Hoffa, 29, graduated from the University of Georgia. About 6 feet and 305 pounds, he propels the shot with a fast, low line drive. On Friday, with the Madison Square Garden lights dimmed, with all other competition stopped and the music almost deafening, Hoffa will try to win the Millrose Games title for the third straight year.</p>
+        <p>FRANK LITSKY</p>
+        <p>DO YOU LIKE THE MILLROSE THEATRICS? To me, throwing should be about having fun. It makes the crowd think there is something exciting going on out there. If it means doing a back flip when I'm introduced, I'll do that. I'm not confident enough to go out there and actually pull it off, but who knows?</p>
+        <p>IS TRAINING MORE DIFFICULT BECAUSE ADAM NELSON, YOUR TRAINING PARTNER, HAS MOVED? At first, I thought it was great. I was kind of playing second fiddle to him, even in my own mind. But ultimately, I miss him. When I go to practice, I can tell it's not the same kind of intensity as when he was there.</p>
+        <p>HOW FAR CAN YOU THROW? I like to think I can touch the world indoor record, which is almost two feet away from my best. The world outdoor record is a foot and a half beyond that and might be a little tough, but anything's possible. I just let it rip. I've seen some training throws that are getting close to a world indoor record.</p>
+        <p>ARE YOU HAPPY WITH YOUR CAREER? So far, it's been absolutely incredible.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Reese Hoffa won the world indoor title with the year’s longest indoor put (72 feet 6½ inches) and was ranked first in the world by Track and Field News.</p>
+      </block>
+      <block class="full_text">
+        <p>Reese Hoffa, the fourth-best shot-putter in the United States in 2005, burst past the others last year. He won the world indoor title with the year's longest indoor put (72 feet 6 1/2 inches) and was ranked first in the world by Track and Field News. Hoffa, 29, graduated from the University of Georgia. About 6 feet and 305 pounds, he propels the shot with a fast, low line drive. On Friday, with the Madison Square Garden lights dimmed, with all other competition stopped and the music almost deafening, Hoffa will try to win the Millrose Games title for the third straight year.</p>
+        <p>FRANK LITSKY</p>
+        <p>DO YOU LIKE THE MILLROSE THEATRICS? To me, throwing should be about having fun. It makes the crowd think there is something exciting going on out there. If it means doing a back flip when I'm introduced, I'll do that. I'm not confident enough to go out there and actually pull it off, but who knows?</p>
+        <p>IS TRAINING MORE DIFFICULT BECAUSE ADAM NELSON, YOUR TRAINING PARTNER, HAS MOVED? At first, I thought it was great. I was kind of playing second fiddle to him, even in my own mind. But ultimately, I miss him. When I go to practice, I can tell it's not the same kind of intensity as when he was there.</p>
+        <p>HOW FAR CAN YOU THROW? I like to think I can touch the world indoor record, which is almost two feet away from my best. The world outdoor record is a foot and a half beyond that and might be a little tough, but anything's possible. I just let it rip. I've seen some training throws that are getting close to a world indoor record.</p>
+        <p>ARE YOU HAPPY WITH YOUR CAREER? So far, it's been absolutely incredible.  30 Seconds</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

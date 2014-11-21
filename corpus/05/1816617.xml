@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: School Complaints Rise</title>
+    <meta content="05mbrfs-3" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/05/nyregion/05mbrfs-SCHOOLCOMPLA_BRF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816617"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Cheating</classifier>
+        <classifier class="indexing_service" type="descriptor">Teachers and School Employees</classifier>
+        <classifier class="indexing_service" type="descriptor">Robberies and Thefts</classifier>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Herszenhorn, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cheating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E2DA1430F936A35752C0A9619C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: School Complaints Rise</hl1>
+        <hl2 class="online_headline">Manhattan: School Complaints Rise</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID M. HERSZENHORN; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Herszenhorn, David</byline>
+      <abstract>
+        <p>Misconduct complaints in New York City schools rose to 2,552 in 2006, 38 percent more than in 2005; complaints can include allegations of cheating, abuse of students by teachers and theft (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Misconduct complaints in the New York City schools system climbed 38 percent in 2006 compared with the previous year, the special commissioner for investigation of the city schools said in an annual report. The commissioner, Richard J. Condon, said his office received 2,552 complaints in 2006, compared with 1,849 in 2005. Complaints can include allegations of cheating, abuse of students and theft. The report said 259 cases were substantiated, with 101 referred to prosecutors, compared with 251 substantiated cases and 60 referrals to prosecutors in 2005. Mr. Condon attributed the increase to use of the city's 311 hot line and pressure on workers to report misdeeds.</p>
+        <p>DAVID M. HERSZENHORN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Misconduct complaints in the New York City schools system climbed 38 percent in 2006 compared with the previous year, the special commissioner for investigation of the city schools said in an annual report. The commissioner, Richard J. Condon, said his office received 2,552 complaints in 2006, compared with 1,849 in 2005. Complaints can include allegations of cheating, abuse of students and theft. The report said 259 cases were substantiated, with 101 referred to prosecutors, compared with 251 substantiated cases and 60 referrals to prosecutors in 2005. Mr. Condon attributed the increase to use of the city’s 311 hot line and pressure on workers to report misdeeds.</p>
+      </block>
+      <block class="full_text">
+        <p>Misconduct complaints in the New York City schools system climbed 38 percent in 2006 compared with the previous year, the special commissioner for investigation of the city schools said in an annual report. The commissioner, Richard J. Condon, said his office received 2,552 complaints in 2006, compared with 1,849 in 2005. Complaints can include allegations of cheating, abuse of students and theft. The report said 259 cases were substantiated, with 101 referred to prosecutors, compared with 251 substantiated cases and 60 referrals to prosecutors in 2005. Mr. Condon attributed the increase to use of the city's 311 hot line and pressure on workers to report misdeeds.</p>
+        <p>DAVID M. HERSZENHORN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

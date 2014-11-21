@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A VOTE FOR A HOTEL CHAIN</title>
+    <meta content="28mail-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821905"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <location class="indexing_service">Europe</location>
+        <org class="indexing_service">Apsis Hotels</org>
+        <person class="indexing_service">Higgins, Michelle</person>
+        <person class="indexing_service">Moritz, Elliot J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EEDE163FF93BA15752C0A9619C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A VOTE FOR A HOTEL CHAIN</hl1>
+      </hedline>
+      <abstract>
+        <p>Elliot J Moritz letter on Michelle Higgins' travel article on budget hotels in Europe; praises Spain's Apsis Hotels chain</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: ''Budget Hotels in Europe: A Little Style, a Little Room and a Little Price'' by Michelle Higgins prompted me to inform your readers about Apsis Hotels, a small Spanish chain. There are seven hotels in Barcelona, one in Madrid, two in Girona, two in Andorra and one in Luchon, France.</p>
+        <p>My wife and I recently stayed at the Gran Ducat, a centrally located hotel off the Plaza Catalunya and La Rambla. Our four-night stay was about $450. The rooms were very small, but had private facilities. We were upgraded to a Comfort Room which was in the rear of the hotel and less noisy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: ''Budget Hotels in Europe: A Little Style, a Little Room and a Little Price'' by Michelle Higgins prompted me to inform your readers about Apsis Hotels, a small Spanish chain. There are seven hotels in Barcelona, one in Madrid, two in Girona, two in Andorra and one in Luchon, France.</p>
+        <p>My wife and I recently stayed at the Gran Ducat, a centrally located hotel off the Plaza Catalunya and La Rambla. Our four-night stay was about $450. The rooms were very small, but had private facilities. We were upgraded to a Comfort Room which was in the rear of the hotel and less noisy.</p>
+        <p>The hotel was a real bargain at a little over $100 a night. Barcelona can be expensive as the dollar continues to fall against the euro.</p>
+        <p>Elliot J. Moritz  Chestnut Ridge, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

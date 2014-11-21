@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Now It's Belarus's Turn</title>
+    <meta content="03wed4" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/03/opinion/03wed4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816104"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">Russia</location>
+        <location class="indexing_service">Europe</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Belarus</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Russia</location>
+        <location class="online_producer">Belarus</location>
+        <org class="online_producer">Gazprom</org>
+        <org class="online_producer">Royal Dutch/Shell Group</org>
+        <person class="online_producer">Lukashenko, Aleksandr G</person>
+        <person class="online_producer">Putin, Vladimir V</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E0DC1730F930A35752C0A9619C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Now It's Belarus's Turn</hl1>
+        <hl2 class="online_headline">Now It’s Belarus’s Turn</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Western companies and governments need to warn Russia that its power to raise price of Russian gas has limits; says Russia's European customers could increase their leverage if they negotiated jointly with state-controlled gas company, rather than making separate deals</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A year after Russia put the gas squeeze on Ukraine, it was Belarus's turn. Unlike Ukraine, Belarus blinked two minutes before the Jan. 1 deadline and Russia had its booty: a 50 percent share of Belarus's pipeline network and a more than doubling of the price Belarus will now pay for Russian gas.</p>
+        <p>There was no global outcry this time. President Aleksandr Lukashenko, the utterly Soviet boss of Belarus, has no friends in the West. But this latest squeeze is another warning that the Kremlin will let nothing -- personal loyalty, contracts, the law -- halt its drive to reimpose state control on Russia's energy sector. It is also another reminder that the West, a big consumer of Russian energy, remains vulnerable to President Vladimir Putin's whims.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Kremlin will let nothing  personal loyalty, contracts, the law  halt its drive to reimpose state control on Russia’s energy sector.</p>
+      </block>
+      <block class="full_text">
+        <p>A year after Russia put the gas squeeze on Ukraine, it was Belarus's turn. Unlike Ukraine, Belarus blinked two minutes before the Jan. 1 deadline and Russia had its booty: a 50 percent share of Belarus's pipeline network and a more than doubling of the price Belarus will now pay for Russian gas.</p>
+        <p>There was no global outcry this time. President Aleksandr Lukashenko, the utterly Soviet boss of Belarus, has no friends in the West. But this latest squeeze is another warning that the Kremlin will let nothing -- personal loyalty, contracts, the law -- halt its drive to reimpose state control on Russia's energy sector. It is also another reminder that the West, a big consumer of Russian energy, remains vulnerable to President Vladimir Putin's whims.</p>
+        <p>The Belarus deal came less than two weeks after Royal Dutch Shell gave in to the Kremlin's pressure and sold a controlling share in the Sakhalin-2 oil and gas project to Gazprom, Russia's state gas monopoly. Moscow is now leaning on the British-Russian joint venture, TNK-BP, to give Gazprom a large and possibly controlling stake.</p>
+        <p>A year ago, when the democratic revolutions in Georgia and Ukraine were seen as serious threats to the Kremlin's influence, Mr. Putin was eager to prop up Mr. Lukashenko. But once Mr. Lukashenko successfully stole the March presidential election, the new gas bill arrived in Minsk. That included half ownership for the Kremlin of Beltransgaz, the state pipeline operator that not only fuels Belarus but also supplies a fifth of Europe's gas.</p>
+        <p>Russia's European customers could increase their leverage -- and possibly improve the Kremlin's behavior -- if they negotiated jointly with Gazprom, rather than scurrying to cut separate deals. Western companies and governments also need to warn Moscow that its leverage has limits. Russia will need the expertise and capital of foreign companies if it wants to keep developing its natural resources. No one wants to do business with a bully.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

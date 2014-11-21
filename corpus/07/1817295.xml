@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Black Seminoles</title>
+    <meta content="07inbox-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817295"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="indexing_service" type="descriptor">Mascots</classifier>
+        <classifier class="indexing_service" type="descriptor">Indians, American</classifier>
+        <classifier class="indexing_service" type="descriptor">Seminole Indians</classifier>
+        <location class="indexing_service">Florida</location>
+        <org class="indexing_service">Florida State University</org>
+        <person class="indexing_service">Williams-Myers, A J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mascots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indians, American</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E5DC1530F934A35752C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Black Seminoles</hl1>
+      </hedline>
+      <abstract>
+        <p>A J Williams-Myers letter discusses history of seminole tribe in Florida, where Florida State University has adopted seminole as contentious mascot (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>''Bonding Over a Mascot'' (Dec. 29) was heartwarming on the one hand in terms of Seminole pride and heritage, but disheartening for using the term ''escaped slaves'' to describe descendant Africans as part of ''an amalgam'' that make up the Seminoles. The blanket use of ''escaped slaves'' fails to point out that among the Seminoles were descendant Africans whose presence among them went back decades. They were not there as slaves but as vassals or allies, or both, resident in their own village, Peliklakaha in central Florida, and under strong leadership. They were referred to as Black Seminoles, and were so interrelated with the tribe that Chief Micanopy took up official residence among them.</p>
+        <p>A. J. Williams-Myers, Ph.D.  New Paltz, N.Y.</p>
+        <p>The writer is a professor of black studies at the State University of New York at New Paltz.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>''Bonding Over a Mascot'' (Dec. 29) was heartwarming on the one hand in terms of Seminole pride and heritage, but disheartening for using the term ''escaped slaves'' to describe descendant Africans as part of ''an amalgam'' that make up the Seminoles. The blanket use of ''escaped slaves'' fails to point out that among the Seminoles were descendant Africans whose presence among them went back decades. They were not there as slaves but as vassals or allies, or both, resident in their own village, Peliklakaha in central Florida, and under strong leadership. They were referred to as Black Seminoles, and were so interrelated with the tribe that Chief Micanopy took up official residence among them.</p>
+        <p>A. J. Williams-Myers, Ph.D.  New Paltz, N.Y.</p>
+        <p>The writer is a professor of black studies at the State University of New York at New Paltz.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

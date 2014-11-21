@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Bevel Is in the Details</title>
+    <meta content="07NUGGETbevel" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817688"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DD1130F93AA35752C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Bevel Is in the Details</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE ULRICH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Sunday: Nissan Bevel design study</p>
+        <p>Is it real? As real as the faux solar panel that's supposed to power a 110-volt tailgate outlet. To be fair, the Bevel probably sets a new standard for the largest blind spot in any vehicle.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Sunday: Nissan Bevel design study</p>
+        <p>Is it real? As real as the faux solar panel that's supposed to power a 110-volt tailgate outlet. To be fair, the Bevel probably sets a new standard for the largest blind spot in any vehicle.</p>
+        <p>What's the point? Tokyo whimsy; a showcase of ideas that should go no further.</p>
+        <p>What they said: Nissan aims the Bevel at men ''entering their second act,'' ages 45-60. According to Nissan's research, these retreads drive alone roughly 90 percent of the time.</p>
+        <p>What they didn't say: To its credit, Nissan has discovered a large, previously untapped demographic: lonely, divorced middle-age guys.</p>
+        <p>What makes it tick? The Bevel features seats that fold to create an easy-to-clean aluminum load floor; a fold-out rear work platform, a ''ribbon'' instrument panel that slides into position and pop-up ''pucks'' on the roof to carry cargo. If none of this makes sense to you, you're not alone.</p>
+        <p>How much, how soon? We are grateful that the Bevel is strictly a one-shot concept for the show circuit.</p>
+        <p>How's it look? The Bevel is a manga Matchbox toy with overtones of a vacuum cleaner attachment, resplendent in a watery yellow-bronze sheen that appears to be a symptom of kidney disease.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Lonely Newspaper Reader</title>
+    <meta content="01carr" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/01/business/media/01carr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815822"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MEDIA EQUATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <person class="indexing_service">Carr, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Minnesota</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota/Minneapolis and St. Paul</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Minneapolis (Minn)</location>
+        <org class="online_producer">Minneapolis Star Tribune</org>
+        <org class="online_producer">McClatchy Co</org>
+        <org class="online_producer">Knight-Ridder Inc</org>
+        <org class="online_producer">Philadelphia Inquirer</org>
+        <org class="online_producer">Dow Jones &amp; Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E5D71630F932A35752C0A9619C8B63" item-length="1105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Lonely Newspaper Reader</hl1>
+        <hl2 class="online_headline">The Lonely Newspaper Reader</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID CARR</byline>
+      <byline class="normalized_byline">Carr, David</byline>
+      <abstract>
+        <p>David Carr column on whether morning newspaper will become extinct; cites recent sales of newspapers to private equity firms, which are often viewed with suspicion, in part because they have limited investment horizons and tend to milk properties for cash flow, clean up balance sheet and then flip property to what is technically known as 'greater fool' (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the house where I grew up, everybody ate breakfast at the same time. The younger ones would sit at the table elbowing one another for toast while my dad stood, drinking coffee and reading The Minneapolis Star Tribune.</p>
+        <p>He would mumble and curse at the headlines, check the sports and then tell us it was time to go. When my brother John became a teenager, he left the table and would eat his toast, leaning against the washing machine and reading the paper as well.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What does the sale by the McClatchy Company of The Minneapolis Star Tribune at a reduced price to a private equity group say about the future of newspapers?</p>
+      </block>
+      <block class="full_text">
+        <p>In the house where I grew up, everybody ate breakfast at the same time. The younger ones would sit at the table elbowing one another for toast while my dad stood, drinking coffee and reading The Minneapolis Star Tribune.</p>
+        <p>He would mumble and curse at the headlines, check the sports and then tell us it was time to go. When my brother John became a teenager, he left the table and would eat his toast, leaning against the washing machine and reading the paper as well.</p>
+        <p>This, I thought, is what it means to be a grown-up. You eat your food standing up, and you read the newspaper. So I did the same thing when I turned 13. I still do.</p>
+        <p>Last Wednesday morning at my house, one of my daughters back from college was staying at a friend's house in the city, no doubt getting alerts on her cellphone for new postings to her Facebook page. Her sister got up, skipped breakfast and checked the mail for her NetFlix movies. My wife left early before the papers even arrived to commute to her job in the city while listening to the iPod she got for Christmas.</p>
+        <p>True enough, my 10-year-old gave me five minutes over a bowl of Cheerios, but then she went into the dining room and opened the laptop to surf the Disney Channel on broadband, leaving me standing in the kitchen with my four newspapers. A few of those included news about the sale of The Star Tribune, a newspaper that found itself in reduced circumstances and sold at a reduced price to a private equity group.</p>
+        <p>I looked around me and realized I didn't really need to read the papers to know why.</p>
+        <p>Sure, the consolidation of department stores and the flight of classified ads to the Web hurt big metropolitan dailies like The Star Tribune. This summer's downturn in overall newspaper advertising landed hard on the paper, with ads off 6.1 percent in the last year from the year before.</p>
+        <p>The McClatchy Company, which bought the paper's parent company with a great deal of fanfare in 1998 for $1.2 billion, looked at those numbers -- and the fact that it had lost 26,000 or so daily readers since it bought the paper -- and decided to sell the paper for $530 million. The chain was equally bullish when it bought Knight Ridder for $4.5 billion last summer and then turned around and sold 12 of the papers, including another newspaper in the Twin Cities, The Pioneer Press in St. Paul.</p>
+        <p>But the sale of The Star Tribune came completely out of the blue, in part because, as the chain's biggest paper, it was viewed as a marquee property. The parties were able to keep it quiet in part because they all knew each other. The principals for the buyers, Avista Capital Partners, were once a part of a private equity arm of Credit Suisse, which represented McClatchy in the sale.</p>
+        <p>McClatchy's chief executive, Gary B. Pruitt, said that tax advantages of $160 million made it a good time to sell, partly to offset capital gains from the sale of the Knight Ridder papers. When the stealth auction for the paper ended and word of the sale came out the day after Christmas, Mr. Pruitt said, ''I don't feel good about the paper being sold.''</p>
+        <p>Me either. The paper, around in one version or another since 1867, may not have knocked down a lot of Pulitzers, but with its vigorous political reporting and thoughtful cultural coverage, it has served as a center for civic life in Minneapolis and beyond. The Star Tribune was not a great paper, but then my first car, a very used '64 Ford Falcon, wasn't great either. I still have a great deal of affection for both.</p>
+        <p>There are two ways to look at the sale: the second-biggest newspaper operator in the country, with its stock dropping in the wake of the Knight Ridder deal, dumped a paper with near 20 percent profit margins in what looked like a fire sale because big papers are doomed. Or, more brightly, a private equity firm saw an opportunity for a savvy investor who could operate the property without the quarter-to-quarter franticness that comes with making Wall Street happy.</p>
+        <p>It is a cliché of the media business that the assets go up and down the elevator every day. In Minneapolis, many of those assets are pals from my days of working as a reporter and editor at a weekly there, so I wondered: Who would be controlling their professional destinies, bottom feeders or benefactors?</p>
+        <p>Private equity owners are often viewed with suspicion, in part because they have limited investment horizons and tend to milk properties for cash flow, clean up the balance sheet and then flip the property to what is technically known as a ''greater fool.'' The sale of The Philadelphia Inquirer and Daily News by McClatchy to a local group of investors has resulted, after a sharp downturn this summer, in a great deal of strife and talks of significant layoffs.</p>
+        <p>I talked to OhSang Kwon, one of the partners in Avista Capital Partners. ''We don't want to rule out anything, but the idea that we bought this paper with a quick exit in mind or that we were going to cut our way to profitability is not correct,'' he said. ''I don't have the hubris to say that we have the answers -- we are new to the newspaper business -- but the old way was not working. Maybe it is time for a different approach.''</p>
+        <p>Maybe it is. Tomorrow, The Wall Street Journal, which is owned by Dow Jones &amp; Company, will hit my doorstep in a smaller size and with a different approach, pushing much of the so-called commoditized news -- the daily reports and incremental articles that everyone has -- to the Web and filling the physical paper with more analysis and deeper reporting. Google, which has been dining to some degree on ads diverted from newspapers, announced last week that it is expanding a program to sell newspaper advertising using its own auction approach.</p>
+        <p>As I sat at the kitchen table, I marveled at the low price of a newspaper that had once preoccupied the conversation around my dinner table. Then I looked at the four papers on the table and the empty chairs that surrounded them. Before my second cup of coffee, the rest of my household had already started the day in a way that had nothing to do with the paper artifacts in front of me. Maybe I was the greater fool.</p>
+        <p>THE MEDIA EQUATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

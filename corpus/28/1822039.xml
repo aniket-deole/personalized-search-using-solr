@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Amanda Low, Peter Trautmann</title>
+    <meta content="28LOW" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/fashion/weddings/28LOW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822039"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Low, Amanda Abbott (Amanda Abbott Trautmann)</person>
+        <person class="indexing_service">Trautmann, Peter Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E5DC173FF93BA15752C0A9619C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Amanda Low, Peter Trautmann</hl1>
+        <hl2 class="online_headline">Amanda Low, Peter Trautmann</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Amanda Abbott Low and Peter Mark Trautmann were married yesterday at the First Congregational Church in Manchester, Vt. The Rev. Martin B. Copenhaver performed the ceremony.</p>
+        <p>Mrs. Trautmann, 32, works in New Brunswick, N.J., as a marketing manager for Johnson &amp; Johnson; she advises the company on its sponsorship of the 2008 Summer Olympic Games. She graduated from Princeton and has both an M.B.A. and a master's degree in international affairs from the University of Pennsylvania.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Amanda Abbott Low and Peter Mark Trautmann were married yesterday at the First Congregational Church in Manchester, Vt. The Rev. Martin B. Copenhaver performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Amanda Abbott Low and Peter Mark Trautmann were married yesterday at the First Congregational Church in Manchester, Vt. The Rev. Martin B. Copenhaver performed the ceremony.</p>
+        <p>Mrs. Trautmann, 32, works in New Brunswick, N.J., as a marketing manager for Johnson &amp; Johnson; she advises the company on its sponsorship of the 2008 Summer Olympic Games. She graduated from Princeton and has both an M.B.A. and a master's degree in international affairs from the University of Pennsylvania.</p>
+        <p>She is the daughter of Nancy O. Low and David B. Low of Bethesda, Md. Her father retired as the national intelligence officer for transnational threats at the National Intelligence Counsel in Washington. Her mother, also retired, was the chief executive of Low &amp; Associates, a marketing firm in Chevy Chase, Md.</p>
+        <p>Mr. Trautmann, 35, is the New York University campus director for the Navigators, a Christian organization that provides college students with mentoring services and a sense of community. He graduated from N.Y.U. and received a Master of Divinity degree from Gordon-Conwell Theological Seminary.</p>
+        <p>He is the son of Marieanna E. Trautmann and Peter Charles Trautmann of Glendale, Queens. His mother is retired as a nurse at La Guardia Hospital in Forest Hills, Queens. His father, also retired, was the foreman of mechanics for the City of New York.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

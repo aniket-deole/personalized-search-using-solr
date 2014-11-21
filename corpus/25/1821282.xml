@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Online Nordic Banking Theft Stirs Talk of Russian Hacker</title>
+    <meta content="25hack" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/technology/25hack.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821282"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Identity Fraud</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Software</classifier>
+        <org class="indexing_service">Nordea Bank Ab</org>
+        <person class="indexing_service">Kramer, Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Sweden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Sweden</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identity Fraud</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Sweden</location>
+        <location class="online_producer">Russia</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E2DB163FF936A15752C0A9619C8B63" item-length="767" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Online Nordic Banking Theft Stirs Talk of Russian Hacker</hl1>
+        <hl2 class="online_headline">Online Nordic Banking Theft Stirs Talk of Russian Hacker</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW E. KRAMER</byline>
+      <byline class="normalized_byline">Kramer, Andrew</byline>
+      <dateline>MOSCOW, Jan. 24</dateline>
+      <abstract>
+        <p>$1 million online banking theft is traced to Russian hacker who used program designed to defraud customers of Nordea Bank's online banking service; software records keystrokes to capture passwords to gain access to accounts; identity of hacker, known only as the Corpse, is otherwise unknown (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Word has started spreading in Sweden about the discovery last week of a $1 million online banking theft traced to a Russian hacker who goes by the sobriquet ''the Corpse.''</p>
+        <p>The case opens a window into the dark world of Russian programming and underlines risks in online banking. Nordea Bank, the Scandinavian financial services company involved, emphasized that only customers whose computers were not protected by antivirus programs had become victims.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In Sweden, there is talk that a $1 million online banking theft has been traced to a Russian hacker known as “the Corpse.”</p>
+      </block>
+      <block class="full_text">
+        <p>Word has started spreading in Sweden about the discovery last week of a $1 million online banking theft traced to a Russian hacker who goes by the sobriquet ''the Corpse.''</p>
+        <p>The case opens a window into the dark world of Russian programming and underlines risks in online banking. Nordea Bank, the Scandinavian financial services company involved, emphasized that only customers whose computers were not protected by antivirus programs had become victims.</p>
+        <p>The Swedish police said the virus was distributed with spam e-mail and programmed to infiltrate home computers of customers at several European and American banks. Police officers have arrested Swedish nationals and foreigners who withdrew cash from Nordea branches after making online transfers.</p>
+        <p>The Corpse's identity is unknown to computer virus specialists. The virus in question, a so-called Trojan horse program, surreptitiously logged keystrokes while banking customers entered their passwords.</p>
+        <p>The police identified the program as a variant of the Haxdoor Trojan. The Corpse is thought to be the author of the original Haxdoor program and several iterations, under names including A311 Death and Nuclear Grabber. Those are offered for sale on a Russian Web site at prices ranging from several hundred dollars to several thousand dollars, depending on the version.</p>
+        <p>The site, which displays a thumbnail image of Lenin making a rude gesture, offers to customize the software for clients for an unspecified amount.</p>
+        <p>Thieves using the program in Sweden defrauded 250 customers of Nordea's online banking service over a period of 15 months. The bank has compensated its clients.</p>
+        <p>The case has drawn new attention to the bizarre world of Russian hacking. Russia's weak laws and a strong tradition of scientific education have combined to create a flourishing culture of computer hacking, specialists in the programming industry say.</p>
+        <p>The prevalence of pornography and fraud on the Russian Internet has contributed to the country's image as a digital Wild West of spammers and hackers. And foiling Western banking security resonates with Russian programmers, technology specialists say. Russian hackers are driven by ''curiosity, greed or the desire to prove they are clever,'' said Denis Kalinin, chief executive of Rambler, a successful Russian search engine company.</p>
+        <p>This latest version of the Haxdoor Trojan program was activated when a customer typed the bank's address into a browser. The rogue software then recorded keystrokes to capture passwords. Later, money was transferred to newly opened accounts and cash was withdrawn at bank branches.</p>
+        <p>''It's a highly advanced form of I.T. fraud, and it's never happened before outside of industrial espionage,'' said Daniel Goldberg, a writer for Computer Sweden, a technology magazine in Stockholm that first reported the fraud, in a telephone interview Wednesday.</p>
+        <p>Aleksandr Gostev, a virus researcher at Kaspersky Labs in Moscow, said the Corpse was known as a hacker who had sold programs to other hackers. That meant, Mr. Gostev said, that he might not be connected to the group that defrauded the Nordea bank customers, even if he were the author of the keystroke-logging program.</p>
+        <p>''In the case of Nordea bank, somebody who wanted to steal from clients ordered a customized version,'' Mr. Gostev said. ''The hacker could be from anywhere in the world.''</p>
+        <p>The Corpse's site carries a disclaimer in rough English that the programs are to be used ''exclusively in the educational purposes.'' Questions mailed to the site were not answered on Wednesday.</p>
+        <p>The Swedish police say that the Russian connection in the fraud goes beyond the source of the virus.</p>
+        <p>Anders Ahlqvist, chief inspector in the cybercrime division of the Swedish National Criminal Investigations Department, said in a telephone interview that stolen passwords had been transmitted to a computer server in the United States that forwarded the information to a server in Russia.</p>
+        <p>Also, some of the money was sent to ''the eastern shore of the Baltic Sea'' after the attack, he said, meaning Russia.</p>
+        <p>He played down the complexity of the virus, saying the fraud depended on the carelessness of customers who downloaded it to their computers. ''If people used a little common sense when they received e-mails, these attacks would never appear,'' Mr. Ahlqvist said. ''This Trojan is very much alive and well in computers in Sweden today. I would be surprised if it wasn't. People are not careful enough with their machines.''</p>
+        <p>And Mr. Kalinin said: ''When you are rich and you have enough of everything, you usually don't do things harmful to other people. When that's not the case, and you have to fight for a place to work and a good life, but you are clever enough and you can show it, that is dangerous.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

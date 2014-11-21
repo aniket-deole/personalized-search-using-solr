@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Too Much Information?</title>
+    <meta content="supplements--goldman" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816862"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BLACKBOARD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <person class="indexing_service">Goldman, Victoria</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E1DC1F31F934A35752C0A9619C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Too Much Information?</hl1>
+      </hedline>
+      <byline class="print_byline">By VICTORIA GOLDMAN</byline>
+      <byline class="normalized_byline">Goldman, Victoria</byline>
+      <abstract>
+        <p>Common Application is basic form students can use to apply to colleges and eases stress of responding to same questions again and again; some schools ask students to respond to supplemental questions; examples noted (special section, Education Life) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TO ease the trauma of filling in the same blanks over and over, the Common Application -- a four-page form that asks for basic information and a 250- to 500-word essay -- was created. But even Common App colleges want to get their two cents in, so they make students fill out supplements.</p>
+      </block>
+      <block class="full_text">
+        <p>TO ease the trauma of filling in the same blanks over and over, the Common Application -- a four-page form that asks for basic information and a 250- to 500-word essay -- was created. But even Common App colleges want to get their two cents in, so they make students fill out supplements.</p>
+        <p>Completing Northwestern's supplement is worthy of course credit. It asks for an essay of up to 500 words, a personal statement of up to 300 words and two shorter statements. Then there are the ''optional'' questions. The University of Pennsylvania requires an essay beyond the Common App's and invites a third should you need to make a further point about ''your intellectual abilities, your sense of imagination and your creativity.''</p>
+        <p>Are these truly optional? ''On occasion, they can get you in,'' says Bruce Breimer, principal and director of college relations at the Collegiate School in Manhattan. ''Kids grumble, but they do them.''</p>
+        <p>VICTORIA GOLDMAN</p>
+        <p>Supersize Supplements  California Institute of Technology  Pages: 4  Sample question: ''Please fill the rectangle below with something you think is interesting.''</p>
+        <p>Northwestern  Pages: 5  Sample question: ''If you could pose for a formal oil portrait in the style of Hans Holbein's 'The Ambassadors,' what possessions would surround you and why?''</p>
+        <p>University of Pennsylvania  Pages: 4  Sample question: ''You have just completed your 300-page autobiography. Please submit page 217.''</p>
+        <p>Princeton  Pages: 7  Sample question: ''Your favorite word.''</p>
+        <p>BLACKBOARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

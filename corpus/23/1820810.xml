@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALLY?</title>
+    <meta content="23real" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/health/23real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820810"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Really?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tea</classifier>
+        <classifier class="indexing_service" type="descriptor">Stress (Human)</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">O'Connor, Anahad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Stress (Human)</classifier>
+        <classifier class="online_producer" type="descriptor">Tea</classifier>
+        <classifier class="online_producer" type="descriptor">Stress (Human)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tea</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stress (Human)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFDB1F30F930A15752C0A9619C8B63" item-length="291" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALLY?</hl1>
+        <hl2 class="online_headline">The Claim: Drinking Tea Reduces Stress.</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+      <byline class="normalized_byline">O'Connor, Anahad</byline>
+      <abstract>
+        <p>Research shows that there may be small stress-relieving benefits from drinking tea; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM -- Drinking tea reduces stress.</p>
+        <p>THE FACTS -- Some call it nature's tranquilizer, able to smooth away stress and lift the spirits. But are the stress-reducing powers of tea fact or fiction?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some call it nature’s tranquilizer, but are the stress-reducing powers of tea fact or fiction?</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM -- Drinking tea reduces stress.</p>
+        <p>THE FACTS -- Some call it nature's tranquilizer, able to smooth away stress and lift the spirits. But are the stress-reducing powers of tea fact or fiction?</p>
+        <p>Although the association between tea and relaxation dates back centuries, few independent scientific studies have put that idea to the test. Much of the research has been focused only on animals. But a new study on humans suggests that it may hold only a sliver of truth.</p>
+        <p>The study was published this month in the journal Psychopharmacology and financed by the British Heart Foundation. It found that adult men who drank black tea four times a day for six weeks reacted no differently in the face of stress from men given a caffeinated placebo. But there was some indication that they were able to calm down more quickly.</p>
+        <p>The two groups in the study, consisting of about 75 men who were forced to give up their normal caffeinated beverages, were subjected to stressful social situations while their blood pressure, hormone levels and other indicators of stress were measured. All of the subjects showed the same substantial increases in those measures, with no positive effect on heart rate or blood pressure in the tea group. But those who drank tea had slightly lower levels of the stress hormone cortisol an hour later, suggesting that their levels of the hormone were returning to baseline sooner.</p>
+        <p>Whether that has any long-term benefit is unclear. Previous studies on animals have pointed to sedative effects of certain compounds in tea, but so far the evidence is weak.</p>
+        <p>THE BOTTOM LINE -- There is some evidence, but not much, that tea affects stress levels.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>Really?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

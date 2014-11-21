@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   JACOBS, STANLEY N.</title>
+    <meta content="dn012707" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821686"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">JACOBS, STANLEY N.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1D81F3AF934A15752C0A9619C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   JACOBS, STANLEY N.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JACOBS--Stanley N. Died on December 15, 2006, at the age of 70 after a short illness. He was predeceased by domestic partner of 37 years, Howard Bender. Survived by cousins Sydney and Rita Rose, and their daughter Barbara Weisman and her sons Max and Ross of Plymouth Meeting, PA; Cousin Naomi Aires of La Jolla, CA and her sons Julian and Ian and daughter Beryl Frank. Member of Congregation Beth Simchat Torah, New York City. Supporter for numerous charities benefiting the sick, infirmed and disadvantaged. Stan's business career in the retail and fashion industries included 24 years with Vanity Fair Mills, a leader in intimate apparel. He had a life time love of fashion, the theater, music, the arts and New York City.</p>
+      </block>
+      <block class="full_text">
+        <p>JACOBS--Stanley N. Died on December 15, 2006, at the age of 70 after a short illness. He was predeceased by domestic partner of 37 years, Howard Bender. Survived by cousins Sydney and Rita Rose, and their daughter Barbara Weisman and her sons Max and Ross of Plymouth Meeting, PA; Cousin Naomi Aires of La Jolla, CA and her sons Julian and Ian and daughter Beryl Frank. Member of Congregation Beth Simchat Torah, New York City. Supporter for numerous charities benefiting the sick, infirmed and disadvantaged. Stan's business career in the retail and fashion industries included 24 years with Vanity Fair Mills, a leader in intimate apparel. He had a life time love of fashion, the theater, music, the arts and New York City.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

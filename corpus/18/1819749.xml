@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Colts Confident Against Pats</title>
+    <meta content="18playoff-2" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819749"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL: PLAYOFF ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">New England Patriots</org>
+        <org class="indexing_service">Indianapolis Colts</org>
+        <person class="indexing_service">Battista, Judy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Indianapolis Colts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New England Patriots</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEED81130F93BA25752C0A9619C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Colts Confident Against Pats</hl1>
+      </hedline>
+      <byline class="print_byline">By JUDY BATTISTA</byline>
+      <byline class="normalized_byline">Battista, Judy</byline>
+      <dateline>INDIANAPOLIS, Jan. 17</dateline>
+      <abstract>
+        <p>Indianapolis Colts prepare to face New England Patriots in playoff game (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tom Brady has an impeccable reputation for postseason heroics. But when the Colts beat the Patriots in November, Brady threw four interceptions. And when the Patriots beat the Chargers last week, Brady was picked off three times.</p>
+        <p>The conclusion?</p>
+      </block>
+      <block class="full_text">
+        <p>Tom Brady has an impeccable reputation for postseason heroics. But when the Colts beat the Patriots in November, Brady threw four interceptions. And when the Patriots beat the Chargers last week, Brady was picked off three times.</p>
+        <p>The conclusion?</p>
+        <p>''He will throw you some,'' Colts cornerback Nick Harper said. ''No quarterback is perfect. If you have great coverage, sometimes he tends to throw the ball into coverage. I guess he feels like all his receivers are better than the defensive backs. He will throw the ball into coverage. We watched the New England game. He threw a lot of balls to the opposing team, but they didn't catch them.''</p>
+        <p>Brady and the Patriots, who will face the Colts at the RCA Dome in the A.F.C. championship game Sunday, have beaten the Colts twice recently in the playoffs: in the A.F.C. title game in Foxborough after the 2003 season, and in a second-round game the next year. But the Colts have won regular-season games the past two years.</p>
+        <p>Brady's play in the November loss was particularly uncharacteristic. It was a low point in a season in which Brady and his revamped corps of receivers struggled to find a chemistry, something that has come together only in recent weeks. Brady threw for 24 touchdowns and 12 interceptions in the regular season; he never threw more than two interceptions in any other game.</p>
+        <p>Still, Harper's harsh assessment is likely to find its way to a New England bulletin board this week. His comments stood out on a day when the Colts hewed to the company line that past performance meant nothing in the rivalry.</p>
+        <p>Brady's postseason record is beyond reproach; he is 12-1 in playoff games, losing only to the Broncos last season. But Harper said he thought Brady's recent struggles against the Indianapolis might be a sign that Colts were planted firmly in his head.</p>
+        <p>''I would think so,'' Harper said. ''He knows if he makes a mistake, we're good enough to take advantage of it.''</p>
+        <p>JUDY BATTISTA</p>
+        <p>PRO FOOTBALL: PLAYOFF ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

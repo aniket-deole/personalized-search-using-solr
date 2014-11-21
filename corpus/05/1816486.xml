@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Home, And Name, She Left Behind</title>
+    <meta content="05breef" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816486"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2DE1430F936A35752C0A9619C8B63" item-length="44" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Home, And Name, She Left Behind</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In ''My Name Is Iran,'' the National Public Radio producer Iran Davar Ardalan -- who stopped using her first name years ago -- recounts the conflicts of a life caught between her Iranian heritage and her life in America.</p>
+        <p>Michiko Kakutani's review is on Page 43.</p>
+      </block>
+      <block class="full_text">
+        <p>In ''My Name Is Iran,'' the National Public Radio producer Iran Davar Ardalan -- who stopped using her first name years ago -- recounts the conflicts of a life caught between her Iranian heritage and her life in America.</p>
+        <p>Michiko Kakutani's review is on Page 43.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

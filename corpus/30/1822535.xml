@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Turks Arrest 47 On Suspicion Of Terror Links</title>
+    <meta content="30turkey" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/world/europe/30turkey.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822535"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Islam</classifier>
+        <location class="indexing_service">Turkey</location>
+        <org class="indexing_service">Al Qaeda (Terrorist Group)</org>
+        <person class="indexing_service">Arsu, Sebnem</person>
+        <person class="indexing_service">Ekrem K (Turkish Al Qaeda Leader)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Turkey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Turkey</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Islam</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <location class="online_producer">Turkey</location>
+        <org class="online_producer">Al Qaeda</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EEDB143FF933A05752C0A9619C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Turks Arrest 47 On Suspicion Of Terror Links</hl1>
+        <hl2 class="online_headline">Turks Arrest 47 on Suspicion of Terror Links</hl2>
+      </hedline>
+      <byline class="print_byline">By SEBNEM ARSU</byline>
+      <byline class="normalized_byline">Arsu, Sebnem</byline>
+      <dateline>TRABZON, Turkey, Jan. 29</dateline>
+      <abstract>
+        <p>Turkish police in five cities simultaneously arrest 47 people suspected of being Islamic militants, including Turkey's Al Qaeda leader Ekrem K (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In simultaneous operations carried out in five Turkish cities on Monday, the police arrested 47 people suspected of being Islamic militants, including the leader of Al Qaeda in Turkey, the semi-official Anatolian news agency reported.</p>
+        <p>Police acted on information warning of ''sensational attacks'' by Turkish groups in coordination with Al Qaeda, the report said. No details were available on the nature of possible targets.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The detainees included the leader of Al Qaeda in Turkey.</p>
+      </block>
+      <block class="full_text">
+        <p>In simultaneous operations carried out in five Turkish cities on Monday, the police arrested 47 people suspected of being Islamic militants, including the leader of Al Qaeda in Turkey, the semi-official Anatolian news agency reported.</p>
+        <p>Police acted on information warning of ''sensational attacks'' by Turkish groups in coordination with Al Qaeda, the report said. No details were available on the nature of possible targets.</p>
+        <p>Turkey is home to a deadly Islamic militant movement that has managed a number of spectacular attacks in the last several years, though none recently. In 2003, small trucks laden with explosives fixed on two synagogues, the British Consulate and the Turkish headquarters of the British-owned HSBC bank in Istanbul, killing more than 60 people and wounding hundreds.</p>
+        <p>More than 60 people are on trial for those crimes, though the police say many of the ringleaders managed to flee the country.</p>
+        <p>On Friday, a Turkish court jailed seven Islamists accused of plotting to kill President Bush during a NATO summit meeting in Istanbul in 2004, Reuters reported. The men were members of Ansar al Islam, an Islamist group believed to have links to Al Qaeda.</p>
+        <p>Among those taken into custody on Monday was Ekrem K, identified as the suspected leader locally of Al Qaeda. Ekrem K, who the police said went by the name Usame, was captured in Konya, 150 miles south of Ankara, along with 22 other suspects, according to the Anatolian report.</p>
+        <p>He was suspected of communicating with Al Qaeda in a coded language and also of training new recruits for the network.</p>
+        <p>Late last year, the police detained another man, a lawyer, who claimed to be the leader of Al Qaeda in Turkey.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calls and Fliers Delay Vote on Gunmaker's Plan</title>
+    <meta content="28weweekWC-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822192"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Firearms</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <location class="indexing_service">Yonkers (NY)</location>
+        <org class="indexing_service">Kimber Manufacturing (Co)</org>
+        <person class="indexing_service">Duggan, Erin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E7DF143FF93BA15752C0A9619C8B63" item-length="410" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calls and Fliers Delay Vote on Gunmaker's Plan</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIN DUGGAN</byline>
+      <byline class="normalized_byline">Duggan, Erin</byline>
+      <abstract>
+        <p>City Council in Yonkers, NY, responding to complaints from Lincoln Park residents who received fliers saying their property values would be lowered, delays vote on request by Kimber Manufacturing to expand its gun manufacturing plant; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Yonkers City Council delayed a vote on a gunmaker's request to expand its plant in Lincoln Park after nearby residents received fliers saying a larger plant would lower property values and pose a potential target for terrorists.</p>
+        <p>The vote was put off after the mayor's office received 20 calls and a dozen residents showed up at a council meeting on Tuesday night in response to fliers that warned neighbors that Kimber Manufacturing wanted to expand its gun manufacturing plant.</p>
+      </block>
+      <block class="full_text">
+        <p>The Yonkers City Council delayed a vote on a gunmaker's request to expand its plant in Lincoln Park after nearby residents received fliers saying a larger plant would lower property values and pose a potential target for terrorists.</p>
+        <p>The vote was put off after the mayor's office received 20 calls and a dozen residents showed up at a council meeting on Tuesday night in response to fliers that warned neighbors that Kimber Manufacturing wanted to expand its gun manufacturing plant.</p>
+        <p>The council had planned to vote on whether to deem Kimber's proposal a ''regionally significant project,'' a step necessary for the state to approve the company's inclusion in the Empire Zone tax-break program.</p>
+        <p>Kimber, which makes high-end handguns, rifles and shotguns for recreational users and the military, is partly situated in an Empire Zone and needs the council's approval to receive tax benefits, said Frank J. Rubino, the city's corporation counsel. The company said the expanded plant would add 50 jobs; the plant now has about 110 employees.</p>
+        <p>The author of the flier, Kevin Gorman, a 32-year resident of Lincoln Park, said he believed the plant could be targeted by terrorists and predicted that houses near the Empire Zone could lose their value or, if the plant expanded even more, could be taken by the city through eminent domain.</p>
+        <p>''I fear for my neighbors and fear for my family,'' said Mr. Gorman, who said he worked in the Department of Homeland Security before retiring recently.</p>
+        <p>David Simpson, a spokesman for the mayor, Philip A. Amicone, rejected those fears, saying the gun plant has been there since the 1980s, with few complaints from neighbors.</p>
+        <p>''Most people who live in that neighborhood don't even realize that facility is there because they've been such a good neighbor,'' Mr. Simpson said.</p>
+        <p>Mr. Simpson said the outcry over the plant's expansion was based on misinformation and a knee-jerk reaction to firearms.</p>
+        <p>''You wouldn't be calling me if a manufacturing facility making Pop-Tarts wanted to add 50 jobs,'' he said.</p>
+        <p>A spokesman for Kimber did not return a call.</p>
+        <p>Because Empire Zones were designed to aid economically depressed areas, much of Yonkers is included in the program. The tax breaks have been awarded to a range of businesses, from a limousine service and an auto collision repair shop to a woodworking design store, Mr. Rubino said.</p>
+        <p>The City Council could vote on the issue at its next meeting, scheduled for Feb. 13.</p>
+        <p>ERIN DUGGAN</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

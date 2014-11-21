@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   PATTON, ROBERT E.</title>
+    <meta content="dn011007" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817721"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">PATTON, ROBERT E.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE3D81E3AF933A25752C0A9619C8B63" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   PATTON, ROBERT E.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PATTON--Robert E. Age 85, of Slingerlands, NY on Monday January 8, 2007; loving father of Susan Patton Bloom and Duncan Patton. Services will be in Delmar, NY. Mr. Patton was employed with New York State Department of Mental Hygiene from 1953 to 1978. Memorial contributions may be made to First United Methodist Church of Delmar, Endowment Fund, 428 Kenwood Ave, Delmar, NY 12054 or the Empire State Youth Orchestra, 432 State St., Schenectady, NY 12305</p>
+      </block>
+      <block class="full_text">
+        <p>PATTON--Robert E. Age 85, of Slingerlands, NY on Monday January 8, 2007; loving father of Susan Patton Bloom and Duncan Patton. Services will be in Delmar, NY. Mr. Patton was employed with New York State Department of Mental Hygiene from 1953 to 1978. Memorial contributions may be made to First United Methodist Church of Delmar, Endowment Fund, 428 Kenwood Ave, Delmar, NY 12054 or the Empire State Youth Orchestra, 432 State St., Schenectady, NY 12305</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

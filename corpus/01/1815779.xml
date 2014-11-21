@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Muslim's Swearing-In</title>
+    <meta content="l01prager" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815779"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bible</classifier>
+        <classifier class="indexing_service" type="descriptor">Koran</classifier>
+        <classifier class="indexing_service" type="descriptor">Islam</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">Minnesota</location>
+        <org class="indexing_service">Congress (US)</org>
+        <org class="indexing_service">House of Representatives (US)</org>
+        <person class="indexing_service">Prager, Dennis</person>
+        <person class="indexing_service">Ellison, Keith</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota</classifier>
+        <classifier class="online_producer" type="general_descriptor">Koran</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bible</classifier>
+        <classifier class="online_producer" type="general_descriptor">Islam</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7D81630F932A35752C0A9619C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Muslim's Swearing-In</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Dennis Prager, syndicated radio talk show host, disputes Dec 23, 2006, editorial suggesting that he is demanding that entire nation follow one particular theology; says he suggested that Keith Ellison, newly elected representative from Minnesota, should bring Bible along with his Koran to his swearing-in ceremony--not to swear on it but to honor it, as has been done since George Washington's inauguration</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Regarding your editorial suggesting that I am ''demanding that the entire nation follow one particular theology'' (''Fear and Bigotry in Congress,'' Dec. 23), I have never even hinted at such a thing.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Regarding your editorial suggesting that I am ''demanding that the entire nation follow one particular theology'' (''Fear and Bigotry in Congress,'' Dec. 23), I have never even hinted at such a thing.</p>
+        <p>As a practicing Jew, I do not share Christian theology. I am interested in America's moral and civic values, not its theology.</p>
+        <p>And those values, including the religious liberty that made it possible for non-Christians like Keith Ellison, the newly elected representative from Minnesota, and me to freely practice our religions in America, have come overwhelmingly from the Bible as understood by America's Christians.</p>
+        <p>So I have suggested that Mr. Ellison bring a Bible along with his Koran to his ceremonial swearing-in -- not to swear on it but to honor it, as has been done since George Washington's inauguration.</p>
+        <p>This gesture could make an important contribution to both American unity and the image of Islam in America.</p>
+        <p>Dennis Prager  Los Angeles, Dec. 27, 2006</p>
+        <p>The writer is a nationally syndicated radio talk show host.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

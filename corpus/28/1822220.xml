@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUT-BOX</title>
+    <meta content="28outbox" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822220"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E3DF143FF93BA15752C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUT-BOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The five most e-mailed articles from nytimes.com/sports for Jan. 20 to 26.</p>
+        <p>1. EXPERT TIES EX-PLAYER'S SUICIDE TO BRAIN DAMAGE -- Neuropathologist examines Andre Waters's brain. (Published Jan. 18)</p>
+        <p>2. UNEASY AT FIRST, METS EMBRACE THEIR NEW ORLEANS CONNECTION -- Mr. Met on Bourbon Street to promote the team's new Class AAA affiliate. (Jan. 19)</p>
+        <p>3. AN ALTERNATIVE TO LONG IRONS, AND IT'S LEGAL -- Hybrid golf clubs catching on with pros and average players. (Jan. 23)</p>
+        <p>4. BEARS COACH SMITH REFLECTS ON HIS ROOTS -- Colts Coach Tony Dungy blazed a trail for Lovie Smith. (Jan. 23)</p>
+        <p>5. WITH FIELD-GOAL ACCURACY ON THE RISE, ARE KICKERS TOO GOOD? At this rate, the N.F.L. may have to answer that question. (Jan. 21)</p>
+      </block>
+      <block class="full_text">
+        <p>The five most e-mailed articles from nytimes.com/sports for Jan. 20 to 26.</p>
+        <p>1. EXPERT TIES EX-PLAYER'S SUICIDE TO BRAIN DAMAGE -- Neuropathologist examines Andre Waters's brain. (Published Jan. 18)</p>
+        <p>2. UNEASY AT FIRST, METS EMBRACE THEIR NEW ORLEANS CONNECTION -- Mr. Met on Bourbon Street to promote the team's new Class AAA affiliate. (Jan. 19)</p>
+        <p>3. AN ALTERNATIVE TO LONG IRONS, AND IT'S LEGAL -- Hybrid golf clubs catching on with pros and average players. (Jan. 23)</p>
+        <p>4. BEARS COACH SMITH REFLECTS ON HIS ROOTS -- Colts Coach Tony Dungy blazed a trail for Lovie Smith. (Jan. 23)</p>
+        <p>5. WITH FIELD-GOAL ACCURACY ON THE RISE, ARE KICKERS TOO GOOD? At this rate, the N.F.L. may have to answer that question. (Jan. 21)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

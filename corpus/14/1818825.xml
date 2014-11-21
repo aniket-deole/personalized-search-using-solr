@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Tour of Israel, Bottle by Bottle</title>
+    <meta content="14wine" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Books; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/dining/14wine.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818825"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WINE UNDER $20"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <location class="indexing_service">Israel</location>
+        <person class="indexing_service">Rogov, Daniel</person>
+        <person class="indexing_service">Goldberg, Howard G</person>
+        <object.title class="indexing_service">Rogov's Guide to Israeli Wines (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Wine Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DB1330F937A25752C0A9619C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Tour of Israel, Bottle by Bottle</hl1>
+        <hl2 class="online_headline">A Tour of Israel, Bottle by Bottle</hl2>
+      </hedline>
+      <byline class="print_byline">By HOWARD G. GOLDBERG</byline>
+      <byline class="normalized_byline">Goldberg, Howard G</byline>
+      <abstract>
+        <p>2007 edition of Rogov's Guide to Israeli Wines, by Daniel Rogov, has just been published (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Admirers of Israel's kosher and nonkosher wines need the 2007 edition of ''Rogov's Guide to Israeli Wines'' (Toby Press, $19.95). Daniel Rogov, Israel's leading critic, rates 1,792 wines through 2005 and 129 wineries.</p>
+        <p>His top producers remain Golan Heights Winery, Castel, Flam, Margalit, Yatir, Galil Mountain, Saslove, Amphorae, Recanati and Carmel.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Admirers of Israel’s kosher and nonkosher wines need the 2007 edition of “Rogov’s Guide to Israeli Wines” (Toby Press, $19.95). Daniel Rogov, Israel’s leading critic, rates 1,792 wines through 2005 and 129 wineries.</p>
+      </block>
+      <block class="full_text">
+        <p>Admirers of Israel's kosher and nonkosher wines need the 2007 edition of ''Rogov's Guide to Israeli Wines'' (Toby Press, $19.95). Daniel Rogov, Israel's leading critic, rates 1,792 wines through 2005 and 129 wineries.</p>
+        <p>His top producers remain Golan Heights Winery, Castel, Flam, Margalit, Yatir, Galil Mountain, Saslove, Amphorae, Recanati and Carmel.</p>
+        <p>''Up and coming'' are Clos de Gat, Chateau Golan, Ella Valley, Sea Horse, Carmei Yosef, Alexander, Gustavo &amp; Jo, Bazelet ha Golan, Orna Chillag and La Terra Promessa.</p>
+        <p>HOWARD G. GOLDBERG</p>
+        <p>WINE UNDER $20</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

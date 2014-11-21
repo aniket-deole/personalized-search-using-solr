@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bombing Kills 14 Pakistanis, Mostly Police</title>
+    <meta content="28pakistan" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/world/asia/28pakistan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822156"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">Shiite Muslims</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Pakistan</location>
+        <location class="indexing_service">Peshawar (Pakistan)</location>
+        <person class="indexing_service">Khan, Ismail</person>
+        <person class="indexing_service">Saad, Malik Muhammad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Pakistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Pakistan</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shiite Muslims</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <location class="online_producer">Pakistan</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EED7173FF93BA15752C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bombing Kills 14 Pakistanis, Mostly Police</hl1>
+        <hl2 class="online_headline">Bombing Kills 14 Pakistanis</hl2>
+      </hedline>
+      <byline class="print_byline">By ISMAIL KHAN</byline>
+      <byline class="normalized_byline">Khan, Ismail</byline>
+      <dateline>PESHAWAR, Pakistan, Jan. 27</dateline>
+      <abstract>
+        <p>Suicide bombing in Peshawar, Pakistan, kills at least 14 people, most of them police officers, shortly before Shiite religious procession was to come through; dead include police chief Malik Muhammad Saad and several government representatives; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At least 14 people were killed, most of them policemen, and several others were wounded Saturday in what appeared to be a suicide bombing here shortly before a Shiite religious procession was to come through, the police said.</p>
+        <p>The police said the incident occurred in the old part of Peshawar, the capital of North-West Frontier Province, late in the evening, as police and city workers were clearing a narrow street near a Shiite mosque to make way for the procession. Among the dead were the city police chief, Malik Muhammad Saad, and several government representatives from the neighborhood, the police said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Among the dead were the city police chief and several government representatives from the neighborhood.</p>
+      </block>
+      <block class="full_text">
+        <p>At least 14 people were killed, most of them policemen, and several others were wounded Saturday in what appeared to be a suicide bombing here shortly before a Shiite religious procession was to come through, the police said.</p>
+        <p>The police said the incident occurred in the old part of Peshawar, the capital of North-West Frontier Province, late in the evening, as police and city workers were clearing a narrow street near a Shiite mosque to make way for the procession. Among the dead were the city police chief, Malik Muhammad Saad, and several government representatives from the neighborhood, the police said.</p>
+        <p>The police said they believed the attack was by a lone suicide bomber who detonated his explosives after being stopped by a police cordon at the mouth of the street. The remains of a person the police thought was the bomber had been sent for forensic analysis, and the search for more evidence continued, said Ghulam Muhammad, a police official in the city.</p>
+        <p>The Edhi Foundation, a charity group that runs ambulance services, said it had taken at least 14 bodies to a local hospital, where people had thronged to give blood donations for the wounded.</p>
+        <p>The explosion also damaged the local power network, plunging the entire area into darkness as police and local volunteers searched for the dead and wounded.</p>
+        <p>Security in Peshawar was already on alert after a suicide bombing outside a Marriott hotel in Islamabad on Friday and in preparation for Ashura, one of Shiite Islam's holiest days.</p>
+        <p>But the leader of the province's religious government, Akram Khan Durrani, told reporters that precautions would be further increased.</p>
+        <p>Still, the police said there was little any one could do to head off a determined suicide bomber.</p>
+        <p>''How do you know who is the suicide bomber among a multitude of people?'' a policeman said at the scene.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

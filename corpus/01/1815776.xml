@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Department of Household Security</title>
+    <meta content="01mon3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/01/opinion/01mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815776"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Handicapped</classifier>
+        <classifier class="indexing_service" type="descriptor">Asylum (Political)</classifier>
+        <classifier class="indexing_service" type="descriptor">Disability Insurance</classifier>
+        <classifier class="indexing_service" type="descriptor">Citizenship</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="descriptor">Citizenship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="general_descriptor">Citizenship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asylum (Political)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Federal Bureau of Investigation</org>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">House of Representatives</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7D81630F932A35752C0A9619C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Department of Household Security</hl1>
+        <hl2 class="online_headline">Department of Household Security</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial holds that Congress understood special plight of handicapped immigrants who are granted asylum and made sure they are entitled to monthly disability benefits of $603 each as they go through citizenship process; notes that over 6,000 people have had their benefits cut off because they exceeded seven-year deadline Congress set for obtaining citizenship; maintains that handicapped immigrants are special cases who do not deserve loss of benefits in crush of antiterrorist concerns</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thousands of handicapped immigrants who received asylum to enter the United States are beginning the new year caught up in the immense backlog of background checks that now chokes government administration in the wake of 9/11. The glut of all cases from years past is 2.7 million and growing, according to the F.B.I., as investigators receive a weekly torrent of 67,000 new requests -- half of them from the immigration services dealing with the normal flood of mostly healthy newcomers.</p>
+        <p>Congress understood the special plight of handicapped immigrants who are granted asylum and made sure they are entitled to monthly disability benefits of $603 each as they go through the citizenship process. But it turns out that more than 6,000 people, including some who are amputees or blind, have already found their benefits cut off, and tens of thousands more face a similar fate, because they exceeded the seven-year deadline Congress originally considered adequate for obtaining citizenship.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Thousands of handicapped immigrants who received asylum to enter the U.S. are beginning the new year caught up in an immense backlog of background checks.</p>
+      </block>
+      <block class="full_text">
+        <p>Thousands of handicapped immigrants who received asylum to enter the United States are beginning the new year caught up in the immense backlog of background checks that now chokes government administration in the wake of 9/11. The glut of all cases from years past is 2.7 million and growing, according to the F.B.I., as investigators receive a weekly torrent of 67,000 new requests -- half of them from the immigration services dealing with the normal flood of mostly healthy newcomers.</p>
+        <p>Congress understood the special plight of handicapped immigrants who are granted asylum and made sure they are entitled to monthly disability benefits of $603 each as they go through the citizenship process. But it turns out that more than 6,000 people, including some who are amputees or blind, have already found their benefits cut off, and tens of thousands more face a similar fate, because they exceeded the seven-year deadline Congress originally considered adequate for obtaining citizenship.</p>
+        <p>Lawyers for the handicapped are suing the government, pointing out that these cases increasingly are victims of the background backlog. Unless a solution is ordered, officials estimate another 46,000 will have their benefits cut off by 2012 as they become delayed in the pipeline.</p>
+        <p>Here is a classic problem of overstrained bureaucracy in which culpability is diffuse and the results are all too poignant. Social Security officials say that there is no way around the law's seven-year deadline, while background investigators are overwhelmed by security checks with no relief in sight. One solution is to flag the handicapped immigrants as special cases who don't deserve a loss of benefits in the crush of antiterrorist concerns. The immigration law has a host of problems to be tackled by the new Congress, and handicapped newcomers should be among the first to get some attention.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

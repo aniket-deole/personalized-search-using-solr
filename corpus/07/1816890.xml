@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Will to Believe</title>
+    <meta content="Letters.t-5" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816890"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Gerrard, Steven (Prof)</person>
+        <person class="indexing_service">Goldstein, Rebecca Newberger</person>
+        <person class="indexing_service">Richardson, Robert D</person>
+        <person class="indexing_service">James, William</person>
+        <object.title class="indexing_service">William James: In the Maelstrom of American Modernism (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E3DF1630F934A35752C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Will to Believe</hl1>
+      </hedline>
+      <abstract>
+        <p>Steven B Gerrard letter comments on Rebecca Newberger Goldstein Dec 17 review of Robert D Richardson book William James: In the Maelstrom of American Modernism: A Biography</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Taking a break from grading Introduction to Metaphysics and Epistemology papers on Dec. 17 to read the Book Review, I noticed that Rebecca Newberger Goldstein's sensitive review of Robert D. Richardson's biography of William James discussed the same issue as one of the assigned paper topics: Compare Pascal's wager with James's will to believe.</p>
+        <p>Goldstein properly points to some similarities, but there is a major difference. If you win Pascal's wager you win salvation; if you win James's bet you gain something more suitable to a philosopher: new evidence. For some people the world looks entirely different after taking an art class than it did before. They see the same material objects; but everything takes on a different meaning. James is raising the possibility that the same is true for a spiritual universe. Before the leap the universe is solely material; afterward, thanks to our openness, we see the same universe as invested with religious meaning. James, the perfect amalgamation of religious and scientific temperaments, tried his entire life to make this leap, but was never satisfied with the evidence he saw.</p>
+        <p>Steven B. Gerrard  Williamstown, Mass.</p>
+        <p>The writer is chairman of the program in Jewish studies at Williams College.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Taking a break from grading Introduction to Metaphysics and Epistemology papers on Dec. 17 to read the Book Review, I noticed that Rebecca Newberger Goldstein's sensitive review of Robert D. Richardson's biography of William James discussed the same issue as one of the assigned paper topics: Compare Pascal's wager with James's will to believe.</p>
+        <p>Goldstein properly points to some similarities, but there is a major difference. If you win Pascal's wager you win salvation; if you win James's bet you gain something more suitable to a philosopher: new evidence. For some people the world looks entirely different after taking an art class than it did before. They see the same material objects; but everything takes on a different meaning. James is raising the possibility that the same is true for a spiritual universe. Before the leap the universe is solely material; afterward, thanks to our openness, we see the same universe as invested with religious meaning. James, the perfect amalgamation of religious and scientific temperaments, tried his entire life to make this leap, but was never satisfied with the evidence he saw.</p>
+        <p>Steven B. Gerrard  Williamstown, Mass.</p>
+        <p>The writer is chairman of the program in Jewish studies at Williams College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

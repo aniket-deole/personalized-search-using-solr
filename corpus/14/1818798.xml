@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meow</title>
+    <meta content="14street" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/14street.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818798"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Coats</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DB1330F937A25752C0A9619C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meow</hl1>
+        <hl2 class="online_headline">Meow</hl2>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <abstract>
+        <p>Photos of women and several dogs wearing fake leopard coats in Manhattan</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fashion's fascination with spotted cats has a new canvas this winter, the handbag. In exotic patterns, some unknown in nature, most are printed or stenciled on fabric or calfskin and, thankfully, the real thing is as rare as a snow leopard. A few women are spotted from hat to shoes, and the occasional dog wears cat's clothing, too.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Fashion’s fascination with spotted cats has a new canvas this winter, the handbag.</p>
+      </block>
+      <block class="full_text">
+        <p>Fashion's fascination with spotted cats has a new canvas this winter, the handbag. In exotic patterns, some unknown in nature, most are printed or stenciled on fabric or calfskin and, thankfully, the real thing is as rare as a snow leopard. A few women are spotted from hat to shoes, and the occasional dog wears cat's clothing, too.  ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

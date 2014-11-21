@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Children's Book Award Winners</title>
+    <meta content="23arts-2" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820936"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Newbery Medal</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <person class="indexing_service">Bosman, Julie</person>
+        <person class="indexing_service">Patron, Susan</person>
+        <object.title class="indexing_service">Higher Power of Lucky, the (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E7D71F30F930A15752C0A9619C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Children's Book Award Winners</hl1>
+      </hedline>
+      <byline class="print_byline">By JULIE BOSMAN; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Bosman, Julie</byline>
+      <abstract>
+        <p>Book The Higher Power of Lucky by Susan Patron wins 2007 John Newbery Medal, most prestigious award in children's literature; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''The Higher Power of Lucky,'' by Susan Patron, has won the 2007 John Newbery Medal, the most prestigious award in children's literature. The prize was announced yesterday by the American Library Association at its midwinter meeting in Seattle. The book, the story of a scrappy orphan who searches for a higher power in her small, dusty California town, was published by Atheneum/Richard Jackson Books, an imprint of Simon &amp; Schuster. The Randolph Caldecott Medal for the most distinguished children's picture book was awarded to David Wiesner for ''Flotsam,'' the story of a little boy who embarks on a photographic adventure at the beach. It was published by Clarion Books, an imprint of Houghton Mifflin. Publishers place a high value on the literary awards, signified by silver and gold seals on the covers of award-winning books.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+      <block class="full_text">
+        <p>''The Higher Power of Lucky,'' by Susan Patron, has won the 2007 John Newbery Medal, the most prestigious award in children's literature. The prize was announced yesterday by the American Library Association at its midwinter meeting in Seattle. The book, the story of a scrappy orphan who searches for a higher power in her small, dusty California town, was published by Atheneum/Richard Jackson Books, an imprint of Simon &amp; Schuster. The Randolph Caldecott Medal for the most distinguished children's picture book was awarded to David Wiesner for ''Flotsam,'' the story of a little boy who embarks on a photographic adventure at the beach. It was published by Clarion Books, an imprint of Houghton Mifflin. Publishers place a high value on the literary awards, signified by silver and gold seals on the covers of award-winning books.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

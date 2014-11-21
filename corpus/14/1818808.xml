@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alison Yaeger, Todd Krueger</title>
+    <meta content="14yaeger" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/weddings/14yaeger.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818808"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Yaeger, Alison Marcia</person>
+        <person class="indexing_service">Krueger, Todd</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E4DB1330F937A25752C0A9619C8B63" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alison Yaeger, Todd Krueger</hl1>
+        <hl2 class="online_headline">Alison Yaeger and Todd Krueger</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alison Marcia Yaeger, the daughter of Ellen Hope Yaeger of Cortland Manor, N.Y., and Franklin Elliot Yaeger of Putnam Valley, N.Y., was married last evening to Todd Krueger, a son of Barbara and Sheldon Krueger of Del Mar, Calif. Rabbi Mel Hecht officiated at the Bali Hai Golf Club in Las Vegas.</p>
+        <p>The bride, 33, will continue to use her name professionally. Dr. Yaeger is the program director for teenagers with depression at the Langley Porter Psychiatric Hospital and Clinics, part of the psychiatry department of the University of California, San Francisco. She also has a practice in San Francisco. She graduated cum laude from the State University at Buffalo and received both a master's and a doctoral degree in psychology from Albert Einstein College of Medicine.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Alison Marcia Yaeger was married Saturday evening to Todd Krueger at the Bali Hai Golf Club in Las Vegas.</p>
+      </block>
+      <block class="full_text">
+        <p>Alison Marcia Yaeger, the daughter of Ellen Hope Yaeger of Cortland Manor, N.Y., and Franklin Elliot Yaeger of Putnam Valley, N.Y., was married last evening to Todd Krueger, a son of Barbara and Sheldon Krueger of Del Mar, Calif. Rabbi Mel Hecht officiated at the Bali Hai Golf Club in Las Vegas.</p>
+        <p>The bride, 33, will continue to use her name professionally. Dr. Yaeger is the program director for teenagers with depression at the Langley Porter Psychiatric Hospital and Clinics, part of the psychiatry department of the University of California, San Francisco. She also has a practice in San Francisco. She graduated cum laude from the State University at Buffalo and received both a master's and a doctoral degree in psychology from Albert Einstein College of Medicine.</p>
+        <p>Her mother is a program manager at Morningside House in the Bronx, a nursing home. Her father retired as a mathematics teacher at Lehman High School in the Bronx.</p>
+        <p>The bridegroom, 38, is a senior director of business development at Applied Biosystems, a maker of genetic analysis instruments in Foster City, Calif. He is also on the board of the National Marfan Foundation, a nonprofit organization in Port Washington, N.Y., for treatment of those with Marfan syndrome, a connective tissue disorder. He graduated from Northwestern, where he also received a master's degree in management.</p>
+        <p>His mother retired as the president of SeniorResource.com, a Web site she helped found for adult children with elderly parents. His father, a retired chemical engineer, was a partner in Del Mar in HK Consultants, manufacturers' representatives to the oil and gas industry.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

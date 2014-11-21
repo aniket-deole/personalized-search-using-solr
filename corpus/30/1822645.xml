@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="30ednote" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822645"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Obama, Barack (Sen)</person>
+        <person class="indexing_service">Biden, Joseph R Jr (Sen)</person>
+        <person class="indexing_service">Klain, Ron</person>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E4D8143FF933A05752C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+      </hedline>
+      <abstract>
+        <p>Editors' Note about Jan 28 front-page article on Sen Barack Obama's years at Harvard Law School; quotation from Ron Klain questioning Obama's leadership style should have noted Klain's afffiliation with Sen Joseph R Biden Jr, who is expected to announce that he is running for president</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article on Sunday reported on Barack Obama's years at Harvard Law School. It included a quotation from Ron Klain, former chief of staff to Vice President Al Gore, who said that Mr. Obama's inclusive leadership style as president of the Harvard Law Review would not be as effective in running a country.</p>
+        <p>The Times later learned that Mr. Klain is an informal adviser to Senator Joseph R. Biden Jr., Democrat of Delaware, who is expected to announce on Wednesday that he is running for president. Mr. Klain's affiliation with the Biden campaign should have been disclosed in the article.</p>
+        <p>Also, a picture caption with the continuation of the article misstated the timing of the photograph, taken in the apartment of one of Mr. Obama's friends. It was taken during the 1990 midterm elections, not during the 1990 election for the Harvard Law Review.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article on Sunday reported on Barack Obama's years at Harvard Law School. It included a quotation from Ron Klain, former chief of staff to Vice President Al Gore, who said that Mr. Obama's inclusive leadership style as president of the Harvard Law Review would not be as effective in running a country.</p>
+        <p>The Times later learned that Mr. Klain is an informal adviser to Senator Joseph R. Biden Jr., Democrat of Delaware, who is expected to announce on Wednesday that he is running for president. Mr. Klain's affiliation with the Biden campaign should have been disclosed in the article.</p>
+        <p>Also, a picture caption with the continuation of the article misstated the timing of the photograph, taken in the apartment of one of Mr. Obama's friends. It was taken during the 1990 midterm elections, not during the 1990 election for the Harvard Law Review.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

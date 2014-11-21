@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the Mix</title>
+    <meta content="28street" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/fashion/28street.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822043"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Coats</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4DC173FF93BA15752C0A9619C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the Mix</hl1>
+        <hl2 class="online_headline">In the Mix</hl2>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <abstract>
+        <p>Photos of women wearing black and white winter coats with bold patterns</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The graphic images of black and white winter coats are in evidence this season in a variety of patterns: plaids, subtle checks, bold houndstooth checks, chevrons, zebra stripes, dots, spots and a skeletal appliqué on a man's jacket. Some wearers chose to mix several of the patterns.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The graphic images of black and white winter coats are in evidence this season in a variety of patterns.</p>
+      </block>
+      <block class="full_text">
+        <p>The graphic images of black and white winter coats are in evidence this season in a variety of patterns: plaids, subtle checks, bold houndstooth checks, chevrons, zebra stripes, dots, spots and a skeletal appliqué on a man's jacket. Some wearers chose to mix several of the patterns.  ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

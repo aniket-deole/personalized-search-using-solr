@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rethinking the Death Penalty</title>
+    <meta content="05fri4" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/05/opinion/05fri4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816529"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New Jersey</location>
+        <person class="online_producer">Corzine, Jon S</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE3DC1430F936A35752C0A9619C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rethinking the Death Penalty</hl1>
+        <hl2 class="online_headline">Rethinking the Death Penalty</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial applauds New Jersey panel for recommending that New Jersey become first state in 35 years to abolish death penalty</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Jersey could take the lead among states in abolishing the death penalty if it follows the recommendation that a legislative commission made this week. It is the right thing to do, and not just because capital punishment is barbaric and a poor deterrent. It has become increasingly clear as the use of DNA evidence has grown that there is simply too great a risk of making an irreversible mistake.</p>
+        <p>While we would have used stronger language, we applaud the 13-member panel for having the courage to recommend that New Jersey become the first state to abolish the death penalty since states began reinstating it 35 years ago. The commission included two prosecutors, a police chief, members of the clergy and a man whose daughter was murdered in 2000. Only one member, a former state senator who wrote the death penalty law, dissented.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>We applaud a legislative commission in New Jersey for having the courage to recommend that the state become the first to abolish the death penalty since states began reinstating it 35 years ago.</p>
+      </block>
+      <block class="full_text">
+        <p>New Jersey could take the lead among states in abolishing the death penalty if it follows the recommendation that a legislative commission made this week. It is the right thing to do, and not just because capital punishment is barbaric and a poor deterrent. It has become increasingly clear as the use of DNA evidence has grown that there is simply too great a risk of making an irreversible mistake.</p>
+        <p>While we would have used stronger language, we applaud the 13-member panel for having the courage to recommend that New Jersey become the first state to abolish the death penalty since states began reinstating it 35 years ago. The commission included two prosecutors, a police chief, members of the clergy and a man whose daughter was murdered in 2000. Only one member, a former state senator who wrote the death penalty law, dissented.</p>
+        <p>Although it has nine people on death row, New Jersey has had a moratorium on executions since 2005 and has not put anyone to death since 1963. Nevertheless, the panel's recommendation that the death penalty be replaced with life imprisonment without parole is likely to have significant influence both inside and outside the state. It comes as about 10 of the 38 states with death penalties, including New York, have suspended executions and as recent developments, like DNA exonerations and a botched lethal injection in Florida last month, have created a growing unease about executions.</p>
+        <p>With Gov. Jon Corzine opposed to the death penalty, and substantial numbers of capital punishment opponents in both houses of the Legislature, there is a reasonable chance the commission's recommendations will become law. That would make New Jersey's criminal justice system more civilized and fair. It could also prod other states to abandon their own use of what Justice Harry Blackmun called the ''machinery of death.''</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

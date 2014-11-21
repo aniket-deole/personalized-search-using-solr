@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Apple Waves Its Wand At the Phone</title>
+    <meta content="11pogue" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/11/technology/11pogue.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818106"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Inventions and Patents</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Apple Inc</org>
+        <person class="indexing_service">Pogue, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Apple Computer Inc</org>
+        <person class="online_producer">Jobs, Steven P</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05EED81230F932A25752C0A9619C8B63" item-length="1372" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Apple Waves Its Wand At the Phone</hl1>
+        <hl2 class="online_headline">Apple Waves Its Wand at the Phone</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+      <byline class="normalized_byline">Pogue, David</byline>
+      <dateline>SAN FRANCISCO</dateline>
+      <abstract>
+        <p>David Pogue State of the Art column discusses new iPhone from Apple; touch-screen cellular phone and music player will be available in June for $499 for 4-gigabyte version and $599 for 8-gigabyte model; iPhone includes Internet capabilities; article gives detailed review of features and possibilities of device; drawing; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Remember the fairy godmother in ''Cinderella''? She'd wave her wand and turn some homely and utilitarian object, like a pumpkin or a mouse, into something glamorous and amazing, like a carriage or fully accessorized coachman.</p>
+        <p>Evidently, she lives in some back room at Apple.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The new iPhone is so packed with possibilities that the cellphone may actually be the least interesting part.</p>
+      </block>
+      <block class="full_text">
+        <p>Remember the fairy godmother in ''Cinderella''? She'd wave her wand and turn some homely and utilitarian object, like a pumpkin or a mouse, into something glamorous and amazing, like a carriage or fully accessorized coachman.</p>
+        <p>Evidently, she lives in some back room at Apple.</p>
+        <p>Every time Steve Jobs spies some hopelessly ugly, complex machine that cries out for the Apple touch -- computers, say, or music players -- he lets her out.</p>
+        <p>At the annual Macworld Expo in San Francisco, Mr. Jobs demonstrated the latest result of godmother wand-waving. He granted the wishes of millions of Apple followers and rumormongers by turning the ordinary cellphone into  the iPhone.</p>
+        <p>At the moment, the iPhone is in an advanced prototype stage, which I was allowed to play with for only an hour; the finished product won't be available in the United States until June, or in Europe until the fourth quarter. So this column is a preview, not a review.</p>
+        <p>Already, though, one thing is clear: the name iPhone may be doing Apple a disservice. This machine is so packed with possibilities that the cellphone may actually be the least interesting part.</p>
+        <p>As Mr. Jobs pointed out in his keynote presentation, the iPhone is at least three products merged into one: a phone, a wide-screen iPod and a wireless, touch-screen Internet communicator. That helps to explain its price: $499 or $599 (with four or eight gigabytes of storage).</p>
+        <p>As you'd expect of Apple, the iPhone is gorgeous. Its face is shiny black, rimmed by mirror-finish stainless steel. The back is textured aluminum, interrupted only by the lens of a two-megapixel camera and a mirrored Apple logo. The phone is slightly taller and wider than a Palm Treo, but much thinner (4.5 by 2.4 by 0.46 inches).</p>
+        <p>You won't complain about too many buttons on this phone; it comes very close to having none at all. The front is dominated by a touch screen (320 by 480 pixels) operated by finger alone. The only physical buttons, in fact, are volume up/down, ringer on/off (hurrah!), sleep/wake and, beneath the screen, a Home button.</p>
+        <p>The iPhone's beauty alone would be enough to prompt certain members of the iPod cult to dig for their credit cards. But its Mac OS X-based software makes it not so much a smartphone as something out of ''Minority Report.''</p>
+        <p>Take the iPod features, for example. As on any iPod, scrolling through lists of songs and albums is a blast -- but there's no scroll wheel. Instead, you flick your finger on the glass to send the list scrolling freely, according to the speed of your flick. The scrolling spins slowly to a stop, as though by its own inertia. The effect is both spectacular and practical, because as the scrolling slows, you can see where you are before flicking again if necessary.</p>
+        <p>The same flicking lets you flip through photos or album covers as though they're on a 3-D rack. All of this -- photos, music collection, address book, podcasts, videos and so on -- are synched to the iPhone from Apple's iTunes software running on a Mac or Windows PC, courtesy of the charging/synching dock that is included.</p>
+        <p>Movies are especially satisfying on this iPod. That's partly because of the wide-screen orientation, and partly because the screen is so much bigger (3.5 inches) and sharper (160 pixels per inch) than those on other iPods.</p>
+        <p>The iPhone can get onto the Internet in two ways: using Wi-Fi, at least when you're in the presence of a wireless hot spot, or using Cingular's disappointingly slow Edge network.</p>
+        <p>That's right: the iPhone's exclusive carrier will be Cingular. (Nor is the phone ''unlocked''; you can't use it with any other carrier.) At least it's a quad-band G.S.M. phone, so it will work overseas.</p>
+        <p>You can also conduct text-message conversations that appear as a continuous chat thread. And like any smartphone, the iPhone can download e-mail from standard accounts at regular intervals. In fact, Yahoo will offer free ''push'' e-mail -- that is, messages will arrive on the iPhone in real time, just as on a corporate BlackBerry.</p>
+        <p>The iPhone is not, however, a BlackBerry killer. The absence of a physical keyboard makes it versatile, but also makes typing tedious.</p>
+        <p>Instead of raised alphabet keys, you get virtual keys on the screen. They're fairly small, and of course you can't feel them. So typing is slow going, especially for the fat of finger.</p>
+        <p>Fortunately, you don't have to be especially precise. Even if you hit the wrong ''keys'' accidentally, the super-smart software considers adjacent keys -- and corrects your typos automatically. If what you actually managed to type is ''wrclme,'' the software proposes ''welcome.'' You tap the Space bar to accept the fix. It works beautifully.</p>
+        <p>The real magic, however, awaits when you browse the Web. You get to see the entire Web page on the iPhone's screen, although with tiny type. To enlarge it, you can double-tap any spot; then you drag your finger to scroll in any direction.</p>
+        <p>Alternatively, you can use a brand-new feature that Apple calls multitouch: you slide your thumb and forefinger together (like pinching) or apart on the glass. As you do so, the Web page before you grows or shrinks in real time, as though it's printed on a sheet of latex. It works with photos, too, and it's wicked cool.</p>
+        <p>All of this is cooked up with Apple's traditional secret sauce of simplicity, intelligence and whimsy. It's these ingredients, not the features themselves, that inspire such technolust in Applephiles.</p>
+        <p>For example, voice mail messages appear in a list, like an e-mail in-box; you can listen to them in any order. A proximity sensor turns off the touch screen when the phone is up to your ear, saving power and avoiding accidental touches. The screen image rotates when you turn the phone to see, for example, a landscape-orientation photo. A light sensor brightens the screen in bright light. Finger smudges and streaks are inevitable, but are visible only when the screen is turned off. (They disappear with a wipe on your sleeve.)</p>
+        <p>The speaker is on the bottom edge, rather than the back, where it would be muffled when the phone is set down. The optional tiny Bluetooth wireless earpiece has its own little charging hole in the iPhone's charging/synching dock -- and it snaps in magnetically for convenience. Apple says that this earpiece ''pairs'' with the iPhone automatically, sparing you the usual ritual of pressing buttons in a baffling sequence.</p>
+        <p>Nonetheless, the iPhone won't be the smartphone for everybody. You may well consider the Cingular exclusivity or the price a deal-breaker. You may also be disappointed that the iPhone can't open Microsoft Office documents, as the Treo can (although Apple says it can open PDF documents), or wonder why it's not a 3G cellphone that can exploit higher-speed, next-generation cellular towers as they arrive in the coming years. And you may worry about putting all your digital eggs into one losable, droppable, glass-front basket.</p>
+        <p>Note, too, that the software is still unfinished, and many questions are still unanswered. Will you be able to turn your own songs into ring tones? Will there be a voice recorder? Will the camera record video? Can you use Skype to make free Internet calls? Will the battery really last for five hours of talking, video and Web browsing (or 16 hours of audio playback)? Will you someday be able to buy songs and videos from the iTunes Store right on the phone?</p>
+        <p>At this point, Apple doesn't yet have the answers, or isn't revealing them.</p>
+        <p>What it does have, however, is a real shot at redefining the cellphone. How many millions of people are, at this moment, carrying around both an iPod and a cellphone? How many would love to carry a single combo device that imposes no feature or design penalties? Considering that the cellphone is many people's most personal gadget, how many would leap at the chance to replace their current awkward models with something with the class, the looks and the effortlessness of an iPod?</p>
+        <p>Apple has done its part: it has packed more features into less space, and with more elegance, than anyone before it. The rest is up to the godmother.</p>
+        <p>STATE OF THE ART E-mail: Pogue@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Pogue@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

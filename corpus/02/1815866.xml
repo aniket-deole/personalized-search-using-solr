@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HAMBERGER, ANITA</title>
+    <meta content="dn010207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815866"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HAMBERGER, ANITA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E4DD1E3AF931A35752C0A9619C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HAMBERGER, ANITA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HAMBERGER--Anita, 97, of White Plains, NY. Loving mother of Barnett Hamberger and Judith Lewis. Adored grandmother of Joshua, Elizabeth, and Samantha Lewis, and Jennifer Berkey, caring mother-in-law of Jeffrey Lewis and grandmother-in-law of Steve Berkey. She is also survived by an extended family of nieces and nephews. Funeral services Wednesday, 10am at Gutterman's, Inc., 175 Long Beach Road, Rockville Centre, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>HAMBERGER--Anita, 97, of White Plains, NY. Loving mother of Barnett Hamberger and Judith Lewis. Adored grandmother of Joshua, Elizabeth, and Samantha Lewis, and Jennifer Berkey, caring mother-in-law of Jeffrey Lewis and grandmother-in-law of Steve Berkey. She is also survived by an extended family of nieces and nephews. Funeral services Wednesday, 10am at Gutterman's, Inc., 175 Long Beach Road, Rockville Centre, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

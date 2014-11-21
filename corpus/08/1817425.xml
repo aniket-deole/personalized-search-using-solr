@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>G.E. in Deal to Buy Oil and Gas Concern</title>
+    <meta content="08ge" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/business/08ge.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817425"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">General Electric Co</org>
+        <org class="indexing_service">Vetco Gray</org>
+        <org class="indexing_service">Vetco International</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">General Electric Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E3DA1530F93BA35752C0A9619C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>G.E. in Deal to Buy Oil and Gas Concern</hl1>
+        <hl2 class="online_headline">G.E. in Deal to Buy Oil and Gas Concern</hl2>
+      </hedline>
+      <abstract>
+        <p>General Electric agrees to buy Vetco Gray oil and gas operations from Vetco International for $1.9 billion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>General Electric agreed yesterday to acquire the oil and gas operations from Vetco International for $1.9 billion, people familiar with the situation said yesterday. The deal, which is expected to be announced today, is part of G.E.'s efforts to grow its energy business as the industry continues its boom.</p>
+        <p>G.E. will be acquiring the oil and gas operations, called Vetco Gray, from a consortium of private equity firms that includes Candover, 3i and JPMorgan Partners. Vetco Gray makes drilling and production equipment as well as systems used to extract oil and gas from beneath the ocean.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>General Electric agreed to acquire the oil and gas operations from Vetco International for $1.9 billion, people familiar with the situation said.</p>
+      </block>
+      <block class="full_text">
+        <p>General Electric agreed yesterday to acquire the oil and gas operations from Vetco International for $1.9 billion, people familiar with the situation said yesterday. The deal, which is expected to be announced today, is part of G.E.'s efforts to grow its energy business as the industry continues its boom.</p>
+        <p>G.E. will be acquiring the oil and gas operations, called Vetco Gray, from a consortium of private equity firms that includes Candover, 3i and JPMorgan Partners. Vetco Gray makes drilling and production equipment as well as systems used to extract oil and gas from beneath the ocean.</p>
+        <p>Vetco Gray is expected to be merged into G.E.'s infrastructure unit, which had $41.8 billion in sales in 2005. G.E.'s chief executive, Jeffrey R. Immelt, has been outspoken about his intention to increase his company's share of the market to service the energy industry. The deal with Vetco is the first part of a long-range plan to increase the exposure of G.E.'s infrastructure unit, which also includes turbines, to the energy world</p>
+        <p>The private equity consortium was represented by Lehman Brothers and JPMorgan Chase &amp; Company.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

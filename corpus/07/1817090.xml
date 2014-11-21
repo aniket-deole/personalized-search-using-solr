@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alexis Chiang, Thomas Colvin</title>
+    <meta content="07chiang" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/fashion/weddings/07chiang.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070121T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1817090"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Chiang, Dr. Alexis Shih-Wen (Dr. Alexis Shih-Wen Colvin)</person>
+        <person class="indexing_service">Colvin, Thomas Orlin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EFDA1430F934A35752C0A9619C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alexis Chiang, Thomas Colvin</hl1>
+        <hl2 class="online_headline">Alexis Chiang and Thomas Colvin</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Alexis Shih-Wen Chiang, a daughter of Ning Chiang and Dr. George C. Chiang of Wilmington, Del., was married yesterday afternoon to Thomas Orlin Colvin, the son of Ava Maria Colvin and Judge John O. Colvin of Arlington, Va. The bridegroom's father, who is the chief judge of the United States Tax Court, officiated at the Princeton University Chapel.</p>
+        <p>The bride, 30, will be known as Dr. Colvin. She is a chief resident in orthopedic surgery at New York University Hospital for Joint Diseases. She graduated from Princeton and received her medical degree from the Mount Sinai School of Medicine in New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married Saturday afternoon. The bridegroom’s father, who is the chief judge of the United States Tax Court, officiated at the Princeton University Chapel.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Alexis Shih-Wen Chiang, a daughter of Ning Chiang and Dr. George C. Chiang of Wilmington, Del., was married yesterday afternoon to Thomas Orlin Colvin, the son of Ava Maria Colvin and Judge John O. Colvin of Arlington, Va. The bridegroom's father, who is the chief judge of the United States Tax Court, officiated at the Princeton University Chapel.</p>
+        <p>The bride, 30, will be known as Dr. Colvin. She is a chief resident in orthopedic surgery at New York University Hospital for Joint Diseases. She graduated from Princeton and received her medical degree from the Mount Sinai School of Medicine in New York.</p>
+        <p>Her father is a business consultant on buying and selling chemicals. Her mother is a senior database administrator at Wilmington Trust, a bank.</p>
+        <p>The bridegroom, who is 31 and also a Princeton graduate, is a second-year M.B.A. student at New York University.</p>
+        <p>His mother retired as a librarian at Zachary Taylor Elementary School in Arlington.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+        <p>Correction:  January 21, 2007, Sunday  A report on Jan. 7, about the Chiang-Colvin wedding, misstated the bridegroom's given name. He is Timothy Colvin, not Thomas.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 21, 2007, Sunday</p>
+        <p>A report on Jan. 7, about the Chiang-Colvin wedding, misstated the bridegroom's given name. He is Timothy Colvin, not Thomas.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SITTING DOWN TO FALAFEL</title>
+    <meta content="14MAIL-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818669"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">L'As Du Fallafel (Paris Restaurant)</org>
+        <person class="indexing_service">Bittman, Mark</person>
+        <person class="indexing_service">Kushner, Enid</person>
+        <person class="indexing_service">Kushner, Irving</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0DC1230F937A25752C0A9619C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SITTING DOWN TO FALAFEL</hl1>
+      </hedline>
+      <abstract>
+        <p>Enid and Irving Kushner letter on Mark Bittman's December 31, 2006, review of L'As du Fallafel restaurant in Paris</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Mark Bittman's ''Paris: L'As du Fallafel'' (Bites, Dec. 31) was evocative of many delicious falafel sandwiches we have purchased, if not at L'As du Fallafel, then at one of the other excellent falafel purveyors on Rue de Rosiers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Mark Bittman's ''Paris: L'As du Fallafel'' (Bites, Dec. 31) was evocative of many delicious falafel sandwiches we have purchased, if not at L'As du Fallafel, then at one of the other excellent falafel purveyors on Rue de Rosiers.</p>
+        <p>However, we have not found it necessary to eat standing up. There is a tiny but charming park, a short distance to the west, where one may eat while sitting on a bench. Walk to the end of the street, turn right onto Rue Vieille du Temple and take the first left onto Clos des Blancs Manteaux. About 22 yards down you will find the park in question.</p>
+        <p>Enid and Irving Kushner  Shaker Heights, Ohio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

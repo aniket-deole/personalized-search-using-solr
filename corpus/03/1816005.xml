@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BRECK, RACHEL HAMMOND</title>
+    <meta content="dn010307" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816005"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BRECK, RACHEL HAMMOND</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEFDD1E3AF930A35752C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BRECK, RACHEL HAMMOND</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BRECK--Rachel Hammond, on January 1, 2007, aged 98. A cattle breeder and for many years owner of Hedgerows Farm, West Cornwall, CT, she was sometimes referred to as ''First Lady of the Angus Industry'' and was inducted into the Aberdeen Angus Hall of Fame. She is survived by her daughter Leith Speiden, by her grandchildren, Terry McClenahan, Barbara McClenahan Shephard, Adam Klauber, Blake Klauber, Rachel Klauber Speiden, and by five great-grandchildren. Services on Saturday, January 6, at 2 pm at Christ Church Episcopal, Sharon, CT. In lieu of flowers, contributions may be made to Miss Porter's School, Farmington, CT.</p>
+      </block>
+      <block class="full_text">
+        <p>BRECK--Rachel Hammond, on January 1, 2007, aged 98. A cattle breeder and for many years owner of Hedgerows Farm, West Cornwall, CT, she was sometimes referred to as ''First Lady of the Angus Industry'' and was inducted into the Aberdeen Angus Hall of Fame. She is survived by her daughter Leith Speiden, by her grandchildren, Terry McClenahan, Barbara McClenahan Shephard, Adam Klauber, Blake Klauber, Rachel Klauber Speiden, and by five great-grandchildren. Services on Saturday, January 6, at 2 pm at Christ Church Episcopal, Sharon, CT. In lieu of flowers, contributions may be made to Miss Porter's School, Farmington, CT.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

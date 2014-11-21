@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Curiosity Known as Jazz</title>
+    <meta content="21alsmail-3" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820295"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="JAZZ EDUCATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Jazz</classifier>
+        <person class="indexing_service">Mazza, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jazz</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E1D91130F932A15752C0A9619C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Curiosity Known as Jazz</hl1>
+      </hedline>
+      <abstract>
+        <p>Bill Mazza letter about Jan 7 article on jazz education</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Nate Chinen's article refers to a narrow or ''straight ahead'' jazz exemplified by the often-excellent recordings of the Blue Note label. A more useful definition would include a range of jazz's many improvisational children. As an artist who takes part in New York City's Vision Festival, I'm tired of declarations of jazz's impending death. This is an exciting time for improvised music with an unprecedented diversity of performances and recordings. Why perpetuate the myth that jazz is a historical curiosity, discouraging jazz attendance?</p>
+        <p>Bill Mazza  Brooklyn</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Nate Chinen's article refers to a narrow or ''straight ahead'' jazz exemplified by the often-excellent recordings of the Blue Note label. A more useful definition would include a range of jazz's many improvisational children. As an artist who takes part in New York City's Vision Festival, I'm tired of declarations of jazz's impending death. This is an exciting time for improvised music with an unprecedented diversity of performances and recordings. Why perpetuate the myth that jazz is a historical curiosity, discouraging jazz attendance?</p>
+        <p>Bill Mazza  Brooklyn</p>
+        <p>JAZZ EDUCATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

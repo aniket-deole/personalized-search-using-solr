@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Case Against Ex-F.B.I. Agent Can Proceed</title>
+    <meta content="10mbrfs-6" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817907"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Crime</classifier>
+        <classifier class="indexing_service" type="descriptor">Immunity From Prosecution</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <org class="indexing_service">Colombo Crime Family</org>
+        <person class="indexing_service">Brick, Michael</person>
+        <person class="indexing_service">Block, Frederic (Judge)</person>
+        <person class="indexing_service">Devecchio, R Lindley</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Crime</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immunity From Prosecution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEFDC1230F933A25752C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Case Against Ex-F.B.I. Agent Can Proceed</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL BRICK; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Brick, Michael</byline>
+      <abstract>
+        <p>Judge Frederic Block rules in Brooklyn federal court that retired FBI supervisor R Lindley DeVecchio is not immune from prosecution in state court; DeVecchio is charged with playing role in four killings between 1984 and 1992 by providing information to Colombo crime family (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A retired F.B.I. supervisor accused of aiding in Mafia murders is not immune from prosecution in state court, a Federal District Court judge ruled yesterday. The retired agent, R. Lindley DeVecchio, 66, was charged with four counts of murder last March in State Supreme Court. Prosecutors say Mr. DeVecchio, who was responsible for managing confidential informants, played a role in four killings between 1984 and 1992 by giving information to the Colombo crime family. In April, Mr. DeVecchio's lawyers sought to remove the case to federal court, arguing that the evidence was subject to federal grants of immunity and that his defense was based on federal law. But Judge Frederic Block ruled that Mr. DeVecchio had not presented a valid argument.</p>
+        <p>MICHAEL BRICK</p>
+      </block>
+      <block class="full_text">
+        <p>A retired F.B.I. supervisor accused of aiding in Mafia murders is not immune from prosecution in state court, a Federal District Court judge ruled yesterday. The retired agent, R. Lindley DeVecchio, 66, was charged with four counts of murder last March in State Supreme Court. Prosecutors say Mr. DeVecchio, who was responsible for managing confidential informants, played a role in four killings between 1984 and 1992 by giving information to the Colombo crime family. In April, Mr. DeVecchio's lawyers sought to remove the case to federal court, arguing that the evidence was subject to federal grants of immunity and that his defense was based on federal law. But Judge Frederic Block ruled that Mr. DeVecchio had not presented a valid argument.</p>
+        <p>MICHAEL BRICK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

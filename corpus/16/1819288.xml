@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="16obse" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819288"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Lobsters</classifier>
+        <classifier class="indexing_service" type="descriptor">Fishing, Commercial</classifier>
+        <classifier class="indexing_service" type="descriptor">Whales and Whaling</classifier>
+        <classifier class="indexing_service" type="descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Butterflies and Moths</classifier>
+        <classifier class="indexing_service" type="descriptor">Crying</classifier>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Rafflesia</classifier>
+        <classifier class="indexing_service" type="descriptor">Odors</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Magpies</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <location class="indexing_service">Maine</location>
+        <location class="indexing_service">Atlantic Ocean</location>
+        <location class="indexing_service">Madagascar</location>
+        <org class="indexing_service">Dalhousie University (Halifax)</org>
+        <org class="indexing_service">Current Biology (Journal)</org>
+        <org class="indexing_service">University of Ulm (Germany)</org>
+        <org class="indexing_service">Biology Letters (Journal)</org>
+        <org class="indexing_service">Harvard University</org>
+        <org class="indexing_service">Science (Journal)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">Myers, Ransom A (Dr)</person>
+        <person class="indexing_service">Hilgartner, Roland</person>
+        <person class="indexing_service">Davis, Charles C (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Maine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Madagascar</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Madagascar</classifier>
+        <classifier class="online_producer" type="general_descriptor">Odors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Whales and Whaling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Butterflies and Moths</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobsters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Emotions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E6D81030F935A25752C0A9619C8B63" item-length="771" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Dr Ransom A Myers of Dalhousie University, Nova Scotia, leads study that suggests Maine lobstermen could shorten trapping season and still maintain same yearly harvest of lobsters; shortening season is suggested to help protect endangered Atlantic right whales, who are often accidentally harmed by fishing boats and nets; research is published in journal Current Biology; Roland Hilgartner of University of Ulm, Germany, observes species of moth in Madagascar drink tears from sleeping magpie, bird; reports observation in journal Biology Letters; moths have been known to drink tears of other animals, but this is first-ever sighting of moth drinking from bird's eyes; Rafflesia arnoldii, world's largest flower, has been classified as member of spurge family, which includes poinsettias and rubber plants; flower is known for its smell, which is said to resemble rotting flesh; Dr Charles C Davis, Harvard University evolutionary biologist who categorized plant through genetic testing, publishes findings in journal Science; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Same Lobsters, More Whales</p>
+        <p>Maine lobstermen work extremely hard, baiting, setting, hauling and repairing traps just about every day of the year.</p>
+        <p>But do they work too hard? Ransom A. Myers of Dalhousie University in Nova Scotia and colleagues argue that they do, and that by slacking off a bit they could help protect the North Atlantic right whale.</p>
+      </block>
+      <block class="full_text">
+        <p>Same Lobsters, More Whales</p>
+        <p>Maine lobstermen work extremely hard, baiting, setting, hauling and repairing traps just about every day of the year.</p>
+        <p>But do they work too hard? Ransom A. Myers of Dalhousie University in Nova Scotia and colleagues argue that they do, and that by slacking off a bit they could help protect the North Atlantic right whale.</p>
+        <p>The whales have been in dire straits for decades, and currently number about 350 individuals off the coast of North America. Although they are a protected species, accidental deaths have slowed their recovery. Major causes of death are collisions with ships and entanglement in fishing gear, including the lines connecting lobster traps to surface buoys and to one another.</p>
+        <p>In a study in Current Biology, the researchers compared lobstering on the American and Canadian sides of the Gulf of Maine. On the Canadian side, southwest of Nova Scotia, lobstering is allowed from December to May, and fewer than 400,000 traps are used. In Maine, lobstering is an all-year activity, with 3.2 million traps.</p>
+        <p>Yet for all those differences, the Maine harvest is just 30 percent greater than on the Canadian side. The researchers estimate that Maine lobstermen could cut their season in half, reduce the number of traps by a factor of 10 and still harvest as many lobsters.</p>
+        <p>Most sightings of right whales in the Gulf of Maine occur in spring and summer. By shifting the Maine lobstering season and greatly reducing the number of traps, the researchers say, the risk to the whales would be greatly reduced.</p>
+        <p>Moths and a Drink of Tears</p>
+        <p>Moths and butterflies obtain moisture wherever they can find it -- in Africa, Asia and South America, even from the tears of mammals and reptiles. But until now, no moth or butterfly has been seen drinking tears from a bird.</p>
+        <p>Roland Hilgartner of the University of Ulm in Germany and colleagues observed a species of moth in Madagascar, Hemiceratoides hieroglyphica, that alights on the neck of a sleeping magpie or Newtonia bird and sticks its long proboscis between the bird's closed eyelids. Moths were observed in this position for 30 minutes or longer, presumably drinking the bird's tears. The finding was reported in Biology Letters.</p>
+        <p>The moth's proboscis is about half an inch long (about half the moth's length), with a sharp point and many tiny spines and barbs. The researchers suggest that it functions somewhat like a harpoon, because it has to go not only between upper and lower eyelids, but also through the bird's nictitating membrane, which further protects the eyes.</p>
+        <p>In this way it is more like bloodsucking moths and less like other tear drinkers, which generally have soft-tipped proboscises.</p>
+        <p>A Smelly Puzzle, Solved</p>
+        <p>Rafflesia arnoldii is no shrinking violet. At up to three feet in diameter, it's the world's largest flower. It's also possibly the most repulsive -- it looks and smells like rotting flesh (the better to attract flies, which act as pollinators).</p>
+        <p>But while Rafflesia may be easy to describe, it has been much harder to classify. It's a parasite, embedding itself in vines in the understory of pristine rainforests in Indonesia, and it lacks the roots, stems, leaves and photosynthesizing machinery that would give scientists a clue as to its evolutionary background.</p>
+        <p>Rafflesia and related species ''really have remained a mystery,'' said Charles C. Davis, an evolutionary biologist at Harvard. Genetic analysis is required, and although initial work by Dr. Davis and others put them in the order Malpighiales, the research was insufficient to pinpoint their place within the order.</p>
+        <p>Now, Dr. Davis and colleagues have done more genetic research to solve the puzzle. Their conclusion, published online  by the journal Science, is that the Rafflesiaceae, as this family of species is known, are nestled within the spurge family, which includes rubber plants, castor, cassava and poinsettia. ''They are smack dab in the middle,'' Dr. Davis said.</p>
+        <p>In some ways this is a surprise, because spurges are so well known. On the other hand, Dr. Davis said, the Rafflesiaceae ''are so off on their own trip that their position within any group would require some explaining.''</p>
+        <p>One thing that requires explaining, Dr. Davis said, is the remarkable range in size. Among the spurges are some with very small flowers. The researchers estimated that as the Rafflesiaceae diverged over 46 million years, floral size increased 79-fold.</p>
+        <p>''These plants flower in understory rainforest environments, which are dimly lit, so they are not easily seen by pollinators,'' Dr. Davis said. ''They would have had incredible incentive to increase their surface area, to maximize odor production and bring in these pollinators.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

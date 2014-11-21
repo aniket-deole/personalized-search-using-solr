@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WEBB TO RUN MILE IN MANHATTAN</title>
+    <meta content="11sportsbriefs-3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818126"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: TRACK AND FIELD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Track and Field</classifier>
+        <classifier class="indexing_service" type="descriptor">New Balance Games</classifier>
+        <person class="indexing_service">Litsky, Frank</person>
+        <person class="indexing_service">Webb, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5D71230F932A25752C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WEBB TO RUN MILE IN MANHATTAN</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+      <abstract>
+        <p>Alan Webb will run mile at New Balance Games (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alan Webb, who in 2001 became the only high school miler to run faster than four minutes indoors, will return Jan. 20 to the Armory Track and Field Center in Manhattan, where he achieved that feat.</p>
+        <p>Webb's record time of 3 minutes 59.86 seconds came in the New Balance Games. He will run again in that meet in the men's elite mile against James Thie of Wales, Adrian Blincoe of New Zealand, Andy Badderly of England and Jason Lunn of Redwood City, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>Alan Webb, who in 2001 became the only high school miler to run faster than four minutes indoors, will return Jan. 20 to the Armory Track and Field Center in Manhattan, where he achieved that feat.</p>
+        <p>Webb's record time of 3 minutes 59.86 seconds came in the New Balance Games. He will run again in that meet in the men's elite mile against James Thie of Wales, Adrian Blincoe of New Zealand, Andy Badderly of England and Jason Lunn of Redwood City, Calif.</p>
+        <p>Carmen Douma-Hussar of Canada, who won the women's elite mile two years ago, heads the field for that race. Her opposition includes Sara Hall of Palo Alto, Calif.; Amy Mortimer of West Roxbury, Mass.; Marina Muncan of Serbia and Marry Cullen of Ireland.</p>
+        <p>FRANK LITSKY</p>
+        <p>SPORTS BRIEFING: TRACK AND FIELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

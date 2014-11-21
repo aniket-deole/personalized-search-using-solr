@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'American Fascists'</title>
+    <meta content="EdNote.t" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822256"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Hedges, Chris</person>
+        <person class="indexing_service">Perlstein, Rick</person>
+        <object.title class="indexing_service">American Fascists (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6DB1E30F93BA15752C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'American Fascists'</hl1>
+      </hedline>
+      <abstract>
+        <p>Chris Hedges letter comments on Rick Perlstein Jan 7 review of his book American Fascists: The Christian Right and the War on America</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his Jan. 7 review of my book ''American Fascists: The Christian Right and the War on America,'' Rick Perlstein mistakenly claims that I make ''the supposed imminence of mass violence the reason the rest of us should be fighting for the open society.'' The reason we should fight Christian fascists, I write in the conclusion, is not because they will become violent, although they may, but because ''I will not engage in a dialogue with those who deny my right to be, who delegitimize my faith and denounce my struggle before God as worthless. All dialogue must include respect and tolerance for the beliefs, worth and dignity of others, including those outside of the nation and the faith. When this respect is denied, this clash of ideologies ceases to be merely a difference of opinion and becomes a fight for survival.''</p>
+        <p>Chris Hedges  Princeton, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his Jan. 7 review of my book ''American Fascists: The Christian Right and the War on America,'' Rick Perlstein mistakenly claims that I make ''the supposed imminence of mass violence the reason the rest of us should be fighting for the open society.'' The reason we should fight Christian fascists, I write in the conclusion, is not because they will become violent, although they may, but because ''I will not engage in a dialogue with those who deny my right to be, who delegitimize my faith and denounce my struggle before God as worthless. All dialogue must include respect and tolerance for the beliefs, worth and dignity of others, including those outside of the nation and the faith. When this respect is denied, this clash of ideologies ceases to be merely a difference of opinion and becomes a fight for survival.''</p>
+        <p>Chris Hedges  Princeton, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

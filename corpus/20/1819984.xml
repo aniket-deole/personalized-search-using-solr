@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metaphysical Ruminations, Glowing With Winter Light</title>
+    <meta content="20hers" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/20/arts/music/20hers.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819984"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Holden, Stephen</person>
+        <person class="indexing_service">Hersch, Fred</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Lincoln Center for the Performing Arts</org>
+        <person class="online_producer">Hersch, Fred</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E1DB1E30F933A15752C0A9619C8B63" item-length="401" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metaphysical Ruminations, Glowing With Winter Light</hl1>
+        <hl2 class="online_headline">Metaphysical Ruminations, Glowing With Winter Light</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+      <byline class="normalized_byline">Holden, Stephen</byline>
+      <abstract>
+        <p>Stephen Holden reviews performance by pianist Fred Hersch; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jazz is the nominal domain of Fred Hersch, the ferociously prolific pianist and composer who sidelines as a first-class accompanist. But in all of his work, jazz invention and lyrical fancy are tethered to an analytical mind that bows to the structure and balance of formal, notated music; chaos is not allowed.</p>
+        <p>In recent years Mr. Hersch has turned to setting texts to music, most notably in ''Leaves of Grass,'' his powerful setting of Whitman poems for two voices and octet. On Thursday evening ''Songs by Fred Hersch,'' at the Allen Room, attested to his emergence as an elegant composer of what, for lack of a better description, might be called pop-jazz art songs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jazz is the nominal domain of the ferociously prolific pianist Fred Hersch. But in all of his work, chaos is not allowed.</p>
+      </block>
+      <block class="full_text">
+        <p>Jazz is the nominal domain of Fred Hersch, the ferociously prolific pianist and composer who sidelines as a first-class accompanist. But in all of his work, jazz invention and lyrical fancy are tethered to an analytical mind that bows to the structure and balance of formal, notated music; chaos is not allowed.</p>
+        <p>In recent years Mr. Hersch has turned to setting texts to music, most notably in ''Leaves of Grass,'' his powerful setting of Whitman poems for two voices and octet. On Thursday evening ''Songs by Fred Hersch,'' at the Allen Room, attested to his emergence as an elegant composer of what, for lack of a better description, might be called pop-jazz art songs.</p>
+        <p>While including excerpts from ''Leaves of Grass,'' the concert concentrated on his collaborations with the poet Mary Jo Salter on ''Rooms of Light,'' a far-reaching song cycle in progress on the theme of photography, and with the British lyricist and singer Norma Winstone.</p>
+        <p>The evening's nearly 20 songs were distributed among four excellent singers: Kate McGarry, Jessica Molaskey, Michael Winther and Peter Eldridge, accompanied by a quintet (woodwinds, cello, bass and drums), with Mr. Hersch on piano. Ms. McGarry and Mr. Eldridge lean toward jazz, and Ms. Molaskey and Mr. Winther toward theater.</p>
+        <p>The tone of the evening (part of Lincoln Center's American Songbook series) was contemplative, verging on melancholic, especially in its strongest section, the seven-song suite from ''Rooms of Light,'' which began the evening on a searching, metaphysical note.</p>
+        <p>All seven songs were contemplations of distance: between two people, between then and now, between the mysterious photographic image and the observer, between illumination and nothingness. ''Light Years,'' a great song, is a birth-to-death biography whose words begin by describing the hand of a newborn child held up to the light and end with an understanding that light is virtually synonymous with life itself.</p>
+        <p>Mr. Hersch's music for the suite is continuously melodic in an elevated style evocative of the winter sky in northern latitudes. The flowing vocal lines allowed the singers to sustain a mood of deep rumination and voice the words with impeccable clarity, while the rhythm section freed Mr. Hersch's piano to float comfortably behind the singers and to extend the poetry into trailing lyrical passages.</p>
+        <p>As snowflakes dusted the floor-to-ceiling windows of the Allen Room, you were transported to a quiet place where prayers are murmured and memories buried.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

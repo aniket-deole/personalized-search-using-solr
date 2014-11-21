@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tethers to the Senate</title>
+    <meta content="30pintro" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822556"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="POLITICAL ACTION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <person class="indexing_service">Broder, John M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E3DA143FF933A05752C0A9619C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tethers to the Senate</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN M. BRODER</byline>
+      <byline class="normalized_byline">Broder, John M</byline>
+      <abstract>
+        <p>Most senators running for president are reluctant to miss votes on issues in order to campaign, due to Senate's close partisan divide; various presidential contenders' schedules are noted (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The senators eyeing the White House -- there are six or seven, depending on whether one counts Chuck Hagel, Republican of Nebraska -- face a scheduling problem that does not torture their non-Senate rivals. Because of the Senate's close partisan divide, most members are reluctant to miss votes to hit the campaign trail.</p>
+        <p>So while Mitt Romney, the former Republican governor of Massachusetts, was able to meet voters and donors in South Carolina yesterday and John Edwards, the former Democratic senator from North Carolina, can do the same in New Hampshire and New York tomorrow, members of the Senate presidential caucus will be glued to Washington for a vote on raising the minimum wage.</p>
+      </block>
+      <block class="full_text">
+        <p>The senators eyeing the White House -- there are six or seven, depending on whether one counts Chuck Hagel, Republican of Nebraska -- face a scheduling problem that does not torture their non-Senate rivals. Because of the Senate's close partisan divide, most members are reluctant to miss votes to hit the campaign trail.</p>
+        <p>So while Mitt Romney, the former Republican governor of Massachusetts, was able to meet voters and donors in South Carolina yesterday and John Edwards, the former Democratic senator from North Carolina, can do the same in New Hampshire and New York tomorrow, members of the Senate presidential caucus will be glued to Washington for a vote on raising the minimum wage.</p>
+        <p>Next week, it is all hands on the Senate deck for a vote on a resolution disapproving of President Bush's plan to send 21,000 additional troops to Iraq.</p>
+        <p>That explains why Senator Hillary Rodham Clinton of New York is spending her weekends in Iowa and New Hampshire. Senator Barack Obama of Illinois was in New Orleans yesterday for a hearing on domestic security but planned to return to Washington today. One exception is Senator Sam Brownback, the Kansas Republican. He will be in Iowa, Michigan, South Carolina and Florida today through Friday. A spokesman said he would be in Washington for votes on the Iraq deployment or any other critical questions.</p>
+        <p>JOHN M. BRODER</p>
+        <p>POLITICAL ACTION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

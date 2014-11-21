@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CAMPUS PLAYBOOK</title>
+    <meta content="27wisconsin" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821761"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COLLEGES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <person class="indexing_service">Litsky, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DA173FF934A15752C0A9619C8B63" item-length="402" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CAMPUS PLAYBOOK</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+      <abstract>
+        <p>Developments in college basketball discussed; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Side Trip for Wisconsin</p>
+        <p>The Wisconsin men's team is making an extra stop this weekend.</p>
+      </block>
+      <block class="full_text">
+        <p>Side Trip for Wisconsin</p>
+        <p>The Wisconsin men's team is making an extra stop this weekend.</p>
+        <p>This afternoon, Wisconsin-Platteville will name its court for Bo Ryan, who coached the Division III university to four national titles in 15 seasons. Ryan has coached at Wisconsin's main campus in Madison since 2001. His current players will attend the ceremony, then drive three hours to Iowa City for a Big Ten game tomorrow against Iowa.</p>
+        <p>Ryan has led Wisconsin to at least 19 victories and an N.C.A.A. tournament berth every season. Games at the Kohl Center, which seats 17,190, have been sold out for five years. The Badgers are 20-1 this season and rank second in the nation to Florida. Alando Tucker, Wisconsin's 6-foot-6 senior small forward, is a contender for national player of the year.</p>
+        <p>''We're not a slowdown team, as some people think,'' Ryan said in a telephone interview. ''We push the ball and score a lot. We use a swing offense, with a lot of movement off a screen. We play man defense all the time. We have been fundamentally sound. We're playing well together. I'm not sure how good we can be, but we're doing things right so far.''</p>
+        <p>Army Bounces Back</p>
+        <p>Last season, the Army women's team went from high to absolute low. Now it is climbing back, sadly but surely.</p>
+        <p>In April, only weeks after Army finished a 20-11 season that included a Patriot League title and the program's first N.C.A.A. tournament berth, the team's 28-year-old coach, Maggie Dixon, died because of a faulty heart valve. Dave Magarity, an assistant, had been planning to leave for an N.B.A. scouting job. But he stayed as the coach, and now the team is winning again.</p>
+        <p>Army, with four returning starters, is 18-3 over all, the best start in West Point history.</p>
+        <p>The Black Knights are 5-1 in the league and tied with Bucknell for first place. The teams will meet this afternoon in Lewisburg, Pa.</p>
+        <p>''We've won nine games on the road this season, which blows my mind,'' Magarity said in a telephone interview. ''I coached men for 30 years and never had that.</p>
+        <p>''It's been an incredible year considering what we went through. It's unbelievable. Losing Maggie was devastating to the players, each one differently. They've handled it. People think kids here know how to deal with death and loss, but they're still kids.''</p>
+        <p>FRANK LITSKY</p>
+        <p>COLLEGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

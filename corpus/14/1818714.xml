@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Anytown, Online</title>
+    <meta content="14RhyperlocalWC" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818714"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <org class="indexing_service">AmericanTowns.com</org>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E1D71230F937A25752C0A9619C8B63" item-length="1047" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Anytown, Online</hl1>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Article on rise in town-specific and neighborhood-specific Web sites, emphsizing local news and information, that are cropping up across New York metropolitan area; AmericanTowns service, based in Fairfield, Conn, like other community-oriented sites, offers users chance to post information free, to bolster postings by site editors; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BEFORE the days of the printing press, town squares served as the main forum for exchanging community news and gossip. Now comes the virtual town square.</p>
+        <p>Across the United States, citizen bloggers and deep-pocketed entrepreneurs are creating town-specific, and even neighborhood-specific, Web sites where the public can read and contribute items too small or too fleeting for weekly newspapers. Suburban towns across the greater New York area are joining in, giving residents a new way to avoid traffic snags, find a lost dog or just vent about a local hot-button issue.</p>
+      </block>
+      <block class="full_text">
+        <p>BEFORE the days of the printing press, town squares served as the main forum for exchanging community news and gossip. Now comes the virtual town square.</p>
+        <p>Across the United States, citizen bloggers and deep-pocketed entrepreneurs are creating town-specific, and even neighborhood-specific, Web sites where the public can read and contribute items too small or too fleeting for weekly newspapers. Suburban towns across the greater New York area are joining in, giving residents a new way to avoid traffic snags, find a lost dog or just vent about a local hot-button issue.</p>
+        <p>''It replaces the guy from 200 years ago who rang the bell in town,'' said Chris Marengo, a lawyer in Pleasantville, N.Y., who visits www.Pleasantville.AmericanTowns.com  every few days to stay abreast of local events. ''It's as provincial as it gets.''</p>
+        <p>Mr. Marengo lost his girlfriend's miniature schnauzer, Chip, in a September rainstorm, and posted news about it on the Pleasantville site. Within 24 hours, he had heard from two people who had seen the dog. Ultimately Chip was corralled by someone who had seen a ''missing dog'' flier on a telephone pole. ''But the site definitely got the word around,'' Mr. Marengo said.</p>
+        <p>Pleasantville is one of thousands of municipalities on the AmericanTowns service, which is based in Fairfield, Conn. Like other community-oriented sites, AmericanTowns offers users the chance to post information free, to bolster postings by site editors.</p>
+        <p>Jim Maglione, the company's co-president, said the Pleasantville site is like those of Huntington, N.Y., and Wilton, Conn., in that the information on the site is almost entirely from users. In addition to listing information about lost pets, users post scheduled meetings of religious and community organizations, suggestions for family activities and links to news from local papers, among other things. Community organizations can also create their own Web pages on the site for free.</p>
+        <p>In December, Mr. Maglione said, AmericanTowns vastly expanded the number of communities it serves, to cover about half of the country's municipalities, and next month he expects to begin allowing users to post photos. With that feature, Mr. Maglione said, he expects more users to post breaking news items along the lines of those featured on WestportNow.com, which has gained national attention in the emerging realm of so-called citizen journalism.</p>
+        <p>That site, founded in 2003 by Gordon F. Joseloff, a veteran journalist who is now Westport's first selectman, is more concerned with covering town events than with offering a community calendar or service postings. Mr. Joseloff, who stepped back from his duties as chief writer for the Web site when he was elected to his post in Westport in 2005, said he created the site ''because the town wasn't being covered in real time.''</p>
+        <p>''We'd like people to hear sirens or see traffic jams and go to WestportNow to see what happened,'' Mr. Joseloff said. ''Before this, there was a lot that happened in Westport that didn't see the light of day.''</p>
+        <p>The site is a more of a news organization than most town-specific sites in that it employs a full-time professional journalist, Jennifer Connic, who used to cover Westport as a newspaper reporter for The Hour of Norwalk. In addition to writing for the Web site and taking photographs, she edits articles and photos contributed by readers.</p>
+        <p>Alongside features about the best trick-or-treating neighborhoods, the site offers breaking news about accidents, power failures and police reports shortly after they happen, and items about home and building teardowns before they happen.</p>
+        <p>Such a hard-news bent puts Mr. Joseloff in a tricky ethical position, since he signs Ms. Connic's paychecks, and she covers his actions as town leader. ''By the Society of Professional Journalists' rules am I in conflict of interest?'' Mr. Joseloff asked. ''I plead guilty, but it's a service to the town, and I'll let the readers judge whether it's objective.''</p>
+        <p>Readership is growing, he said, with between 5,000 and 7,000 visitors clicking on the site daily. Advertising revenues are also increasing, he said. Although the site still loses money, Mr. Joseloff said he hoped to develop similar sites elsewhere in Fairfield County.</p>
+        <p>Another high-profile regional entry in what is also called the hyperlocal journalism movement is Baristanet (www.baristanetnj.com), which focuses mostly on Montclair, N.J. The site, which has operated since early 2004, is unlike WestportNow in that roughly 75 percent of its contributions come from readers.</p>
+        <p>According to Liz George, a co-owner of the site, Baristanet can attract more than 10,000 visitors on peak days, like the day when the site posted pictures and breaking news of a high-speed police chase through Montclair, Glen Ridge and Bloomfield in November.</p>
+        <p>''There's a hunger for people wanting to know what's going on, and that's not being met by the local paper,'' Ms. George said. ''The paper has a site, but it's not updated as frequently, and it's not as interactive. We publish stories, and all the readers can comment.''</p>
+        <p>Indeed, Ms. George said some of the more compelling information on the site can come from the running dialogue that often accompanies controversial articles. At times those comments are sprinkled with profanity, she said. ''Some people are annoyed by that, but there are a lot of people who come to the site because it can get nasty at times,'' she said. ''It's like reality TV.''</p>
+        <p>Like reality TV, the site sometimes shines an uncomfortably close spotlight on its subjects -- in this case, issues that may not make the local newspaper. For instance, Ms. George said the site wrote last fall about referees ''being abused by soccer parents.''</p>
+        <p>''Normally you'd talk about it with a girlfriend at the coffee shop, but someone sent it to us because they knew we'd publish it,'' Ms. George added. ''It makes people a little wary, I think. It keeps people honest.''</p>
+        <p>For Martta Rose, a public relations executive from Verona, N.J., who has read Baristanet since 2004, the site is both an outlet for her own conservative commentary and a source of important community information.</p>
+        <p>Last fall, Ms. Rose was at work in Manhattan when she clicked to Baristanet and found news about a traffic jam in northern New Jersey.</p>
+        <p>''I took a later bus, and the problem was cleared up by that time,'' Ms. Rose said. ''And I got to work a little longer.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

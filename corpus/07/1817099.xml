@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Daniela Nied, Stephen Somary</title>
+    <meta content="07nied" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/fashion/weddings/07nied.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817099"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Nied, Daniela Desir�e (Daniela Desir�e Somary)</person>
+        <person class="indexing_service">Somary, Stephen Johannes</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EEDA1430F934A35752C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Daniela Nied, Stephen Somary</hl1>
+        <hl2 class="online_headline">Daniela Nied and Stephen Somary</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Daniela Desirée Nied and Stephen Johannes Somary were married on Monday evening at Blessed Sacrament Church in Manhattan by Msgr. Robert B. O'Connor. The Rev. Bernard McMahon took part in the ceremony.</p>
+        <p>Mrs. Somary is the managing director of the Mendelssohn Project, a nonprofit organization founded in Manhattan and Stuttgart, Germany, by the bridegroom, its music director. Its goal is to record all the works of Felix Mendelssohn, and Fanny Mendelssohn Hensel, his sister.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married on Monday evening at Blessed Sacrament Church in Manhattan by Msgr. Robert B. O’Connor.</p>
+      </block>
+      <block class="full_text">
+        <p>Daniela Desirée Nied and Stephen Johannes Somary were married on Monday evening at Blessed Sacrament Church in Manhattan by Msgr. Robert B. O'Connor. The Rev. Bernard McMahon took part in the ceremony.</p>
+        <p>Mrs. Somary is the managing director of the Mendelssohn Project, a nonprofit organization founded in Manhattan and Stuttgart, Germany, by the bridegroom, its music director. Its goal is to record all the works of Felix Mendelssohn, and Fanny Mendelssohn Hensel, his sister.</p>
+        <p>The bride, 28, graduated from Ruhr-Universität Bochum in Germany. She is a daughter of Ingeborg and Karl Nied of Heilbronn, Germany. Her father is a municipal surveying engineer for Heilbronn.</p>
+        <p>Mr. Somary, 42, has conducted the Bronx Arts Ensemble and the Amor Artis Chorus and Orchestra.</p>
+        <p>He is a son of Anne and Johannes Somary of Riverdale, the Bronx, who retired as music teachers at Horace Mann High School there. The bridegroom's father, a choral conductor, is the music director of Amor Artis, which he founded.</p>
+        <p>Mendelssohn's ''Wedding March'' would have seemed a certainty for the wedding. But the couple chose the ''Trumpet Voluntary'' of Jeremiah Clarke.</p>
+        <p>''As great a piece as the Mendelssohn 'Wedding March' is, it has become such a cliché,'' Mr. Somary said.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

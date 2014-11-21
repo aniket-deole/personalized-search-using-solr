@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Daniel R. Raichel, 71, an Expert On the Characteristics of Sound</title>
+    <meta content="08raichel" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/science/08raichel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817382"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Daniel Richter Raichel</classifier>
+        <person class="indexing_service">Raichel, Daniel Richter</person>
+        <person class="indexing_service">Pearce, Jeremy</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Acoustics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acoustics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE5DB1530F93BA35752C0A9619C8B63" item-length="458" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Daniel R. Raichel, 71, an Expert On the Characteristics of Sound</hl1>
+        <hl2 class="online_headline">Daniel R. Raichel, 71, an Expert on the Characteristics of Sound, Is Dead</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY PEARCE</byline>
+      <byline class="normalized_byline">Pearce, Jeremy</byline>
+      <abstract>
+        <p>Daniel Richter Raichel, mechanical engineer and expert on acoustics, dies at age 71 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Daniel R. Raichel, a mechanical engineer and an expert on acoustics who studied how sound travels in symphony halls and across industrial workplaces and wrote a leading textbook on the subject, died on Dec. 22 in El Cajon, Calif. He was 71.</p>
+        <p>The cause was melanoma, his family said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Daniel R. Raichel was a mechanical engineer who studied how sound travels in symphony halls and across industrial workplaces.</p>
+      </block>
+      <block class="full_text">
+        <p>Daniel R. Raichel, a mechanical engineer and an expert on acoustics who studied how sound travels in symphony halls and across industrial workplaces and wrote a leading textbook on the subject, died on Dec. 22 in El Cajon, Calif. He was 71.</p>
+        <p>The cause was melanoma, his family said.</p>
+        <p>The roots of much of Dr. Raichel's work were in his life experience; his own hearing had been severely impaired since childhood, and he wore hearing aids throughout his life.</p>
+        <p>Dr. Raichel had taught acoustical theory and noise control at Cooper Union and the Pratt Institute in New York City and worked as a consultant on sound in the aerospace and electronics industries. He was interested in understanding how sound carries through urban locales and in developing ways to help dampen excessive noise.</p>
+        <p>His book, ''The Science and Applications of Acoustics'' (2000), was intended for graduate students and covered the field from the propagation of sound waves to human perception of music and vibrations. It also addressed the effects of architecture on sound, how it behaves underwater and how musical instruments work.</p>
+        <p>Ilene J. Busch-Vishniac, a professor of mechanical engineering at Johns Hopkins University, said the book remained in wide use, as ''one of the best surveys of acoustics, written by a master teacher and an ardent striver for improvements in noise control in an urban environment.''</p>
+        <p>Earlier in his career, as a consultant to a range of industries, Dr. Raichel conducted noise studies at airports and construction sites, helped design stereo speakers and looked at how equipment sent into space might better withstand vibrations. He also studied how bats and other animals use sound to hunt and navigate, in a process known as echolocation.</p>
+        <p>At Cooper Union, where he was director of the Acoustics Research Center from 1991 to 1998, he participated in a project to improve acoustic quality in the school's renowned Great Hall, site of a famous speech by Lincoln.</p>
+        <p>Daniel Richter Raichel was born in Paterson, N.J. He earned an undergraduate degree from Rensselaer Polytechnic Institute and a master's degree in nuclear engineering from the Massachusetts Institute of Technology. In 1970, he received his doctorate in engineering science from New York University.</p>
+        <p>Dr. Raichel taught at Case Western Reserve and the New Jersey Institute of Technology before joining Cooper Union. He retired in 2000 but continued to consult, and he published a revised edition of his textbook in 2006.</p>
+        <p>Dr. Raichel is survived by his wife of 39 years, the former Geri Wahrman. The couple lived in Wyckoff, N.J., and moved to Fort Collins, Colo., about seven years ago.</p>
+        <p>He is also survived by a son, Adam, of Chicago; a daughter, Dr. Dina Raichel, a veterinarian, of El Cajon; and a grandchild.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

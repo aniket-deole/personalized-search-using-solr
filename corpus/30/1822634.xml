@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'Cold Case' Carries the Night for CBS</title>
+    <meta content="30arts-3" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822634"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Cbs Broadcasting Inc</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <object.title class="indexing_service">Cold Case (TV Program)</object.title>
+        <object.title class="indexing_service">60 Minutes (TV Program)</object.title>
+        <object.title class="indexing_service">Valley of Light, The (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E5D8143FF933A05752C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'Cold Case' Carries the Night for CBS</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>CBS wins ratings for Sunday night with series Cold Case, news show 60 Minutes and TV movie The Valley of Light (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With ABC showing repeats, CBS easily drew the most viewers in every hour on Sunday night, according to Nielsen's estimates. ''Cold Case,'' the night's most-watched program, garnered 15.1 million viewers at 8 p.m. It was preceded by ''60 Minutes'' at 7 (14.3 million), and followed by the Hallmark Hall of Fame movie ''The Valley of Light,'' with Chris Klein, which attracted 14.7 million viewers from 9 to 11. ABC won the night among adults 18 to 49 and finished second in total viewers. NBC ranked third, as the first live edition of ''Grease: You're the One That I Want'' posted the series's lowest rating yet, averaging 7.3 million viewers from 7 to 9 p.m. Following it ''The Apprentice'' improved over its week-ago performance, drawing 8.4 million viewers and finishing No. 2 in the 9 p.m. hour among adults 18 to 49.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>With ABC showing repeats, CBS easily drew the most viewers in every hour on Sunday night, according to Nielsen's estimates. ''Cold Case,'' the night's most-watched program, garnered 15.1 million viewers at 8 p.m. It was preceded by ''60 Minutes'' at 7 (14.3 million), and followed by the Hallmark Hall of Fame movie ''The Valley of Light,'' with Chris Klein, which attracted 14.7 million viewers from 9 to 11. ABC won the night among adults 18 to 49 and finished second in total viewers. NBC ranked third, as the first live edition of ''Grease: You're the One That I Want'' posted the series's lowest rating yet, averaging 7.3 million viewers from 7 to 9 p.m. Following it ''The Apprentice'' improved over its week-ago performance, drawing 8.4 million viewers and finishing No. 2 in the 9 p.m. hour among adults 18 to 49.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

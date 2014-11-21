@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Metropolitan Opera Manager Leaks 'Ring' Lineup</title>
+    <meta content="09arts-1" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817611"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Opera</classifier>
+        <org class="indexing_service">Metropolitan Opera</org>
+        <person class="indexing_service">Tommasini, Anthony</person>
+        <person class="indexing_service">Gelb, Peter</person>
+        <person class="indexing_service">Lepage, Robert</person>
+        <person class="indexing_service">Voight, Deborah</person>
+        <person class="indexing_service">Heppner, Ben</person>
+        <person class="indexing_service">Terfel, Bryn</person>
+        <person class="indexing_service">Wagner, Richard (1813-83)</person>
+        <object.title class="indexing_service">Ring Des Nibelungen, Der (Opera Cycle)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0D71530F93AA35752C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Metropolitan Opera Manager Leaks 'Ring' Lineup</hl1>
+      </hedline>
+      <byline class="print_byline">By ANTHONY TOMMASINI; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Tommasini, Anthony</byline>
+      <abstract>
+        <p>General Manager of Metropolitan Opera Peter Gelb leaks details about new production of Wagner's Ring cycle for 2010-2011 season; says Robert Lepage will direct and Deborah Voight, Ben Heppner and Bryn Terfel will sing; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>General managers of opera companies tend to be very cagey about artistic plans until details are nailed down and contacts signed. Such reticence was particularly true during Joseph Volpe's tenure at the Metropolitan Opera. He seldom announced plans more than one season in advance. But Peter Gelb, who is trying to make the Met a more open and accessible place, is proving very bad at keeping secrets when exciting plans are afoot. On Friday night during a Times Talk at the CUNY Graduate Center, part of The New York Times Arts &amp; Leisure Weekend, Mr. Gelb, right with Renée Fleming, needed little prodding to divulge some of the cast for the Met's new production of Wagner's four-opera ''Ring'' cycle that Robert Lepage will direct starting in the 2010-11 season. The soprano Deborah Voigt will sing Brünnhilde, a role her loyal fans have been hoping she would take on. And the tenor Ben Heppner, who, like some fine Tristans before him, had drawn the line at tackling the vocally punishing role of Siegfried, has agreed to sing it for the Met. Finally, the powerhouse bass-baritone Bryn Terfel will be Wotan. Mr. Gelb did not mention other cast choices. But don't be surprised if he lets this information and other casting news slip out before long. (The Met will present its current ''Ring'' production by Otto Schenk once more during the 2008-9 season, before retiring it.)</p>
+        <p>ANTHONY TOMMASINI</p>
+      </block>
+      <block class="full_text">
+        <p>General managers of opera companies tend to be very cagey about artistic plans until details are nailed down and contacts signed. Such reticence was particularly true during Joseph Volpe's tenure at the Metropolitan Opera. He seldom announced plans more than one season in advance. But Peter Gelb, who is trying to make the Met a more open and accessible place, is proving very bad at keeping secrets when exciting plans are afoot. On Friday night during a Times Talk at the CUNY Graduate Center, part of The New York Times Arts &amp; Leisure Weekend, Mr. Gelb, right with Renée Fleming, needed little prodding to divulge some of the cast for the Met's new production of Wagner's four-opera ''Ring'' cycle that Robert Lepage will direct starting in the 2010-11 season. The soprano Deborah Voigt will sing Brünnhilde, a role her loyal fans have been hoping she would take on. And the tenor Ben Heppner, who, like some fine Tristans before him, had drawn the line at tackling the vocally punishing role of Siegfried, has agreed to sing it for the Met. Finally, the powerhouse bass-baritone Bryn Terfel will be Wotan. Mr. Gelb did not mention other cast choices. But don't be surprised if he lets this information and other casting news slip out before long. (The Met will present its current ''Ring'' production by Otto Schenk once more during the 2008-9 season, before retiring it.)</p>
+        <p>ANTHONY TOMMASINI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

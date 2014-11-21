@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="0trans" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815806"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFD81630F932A35752C0A9619C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>N.B.A.</p>
+        <p>GOLDEN STATE WARRIORS--Assigned C Patrick O'Bryant to Bakersfield of the NBA Development League.</p>
+        <p>N.H.L.</p>
+        <p>LEAGUE--Suspended Rangers F Colton Orr for five games and Washington F Donald Brashear for one game for their actions in a Dec. 30 game.</p>
+        <p>COLLEGE</p>
+        <p>TENNESSEE--Announced men's basketball freshman G Marques Johnson will transfer.</p>
+      </block>
+      <block class="full_text">
+        <p>N.B.A.</p>
+        <p>GOLDEN STATE WARRIORS--Assigned C Patrick O'Bryant to Bakersfield of the NBA Development League.</p>
+        <p>N.H.L.</p>
+        <p>LEAGUE--Suspended Rangers F Colton Orr for five games and Washington F Donald Brashear for one game for their actions in a Dec. 30 game.</p>
+        <p>COLLEGE</p>
+        <p>TENNESSEE--Announced men's basketball freshman G Marques Johnson will transfer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

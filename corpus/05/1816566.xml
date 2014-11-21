@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Sugar Bowl Victory for Fox</title>
+    <meta content="05arts-5" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816566"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Sugar Bowl</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Fox Entertainment Group Inc</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4DB1430F936A35752C0A9619C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Sugar Bowl Victory for Fox</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>Fox wins ratings for Wednesday night with broadcast of Sugar Bowl (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Football once again reigned in the ratings on Wednesday, as Fox's coverage of the Sugar Bowl led the night in every half-hour, according to Nielsen's estimates. In the race for No. 2, CBS outdrew NBC, and both networks overshadowed the premieres on ABC. CBS's only new show of the night, ''The King of Queens,'' ranked second at 8 p.m. with 8.6 million viewers. It was followed by repeats of ''Two and a Half Men'' at 8:30 (8.5 million), ''Criminals Minds'' at 9 (11.9 Million) and ''CSI: New York'' at 10 (10.4 million). NBC was not far behind, getting a boost from ''Deal or No Deal'' at 9 (11.3 million) and ''Medium'' at 10 (9.3 million). Faring less well for NBC, ''Friday Night Lights'' earned 6.3 million viewers at 8. ABC was last over all, despite the season premiere of ''According to Jim'' at 8 (7.4 million). Neither of ABC's new comedies, ''Knights of Prosperity'' at 9 (7.2 million) or ''In Case of Emergency'' at 9:30 (6.3 million), fared better than fourth place.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>Football once again reigned in the ratings on Wednesday, as Fox's coverage of the Sugar Bowl led the night in every half-hour, according to Nielsen's estimates. In the race for No. 2, CBS outdrew NBC, and both networks overshadowed the premieres on ABC. CBS's only new show of the night, ''The King of Queens,'' ranked second at 8 p.m. with 8.6 million viewers. It was followed by repeats of ''Two and a Half Men'' at 8:30 (8.5 million), ''Criminals Minds'' at 9 (11.9 Million) and ''CSI: New York'' at 10 (10.4 million). NBC was not far behind, getting a boost from ''Deal or No Deal'' at 9 (11.3 million) and ''Medium'' at 10 (9.3 million). Faring less well for NBC, ''Friday Night Lights'' earned 6.3 million viewers at 8. ABC was last over all, despite the season premiere of ''According to Jim'' at 8 (7.4 million). Neither of ABC's new comedies, ''Knights of Prosperity'' at 9 (7.2 million) or ''In Case of Emergency'' at 9:30 (6.3 million), fared better than fourth place.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

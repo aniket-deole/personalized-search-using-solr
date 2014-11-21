@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="22missile--refer" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820699"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E3DC1F30F931A15752C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>U.S. Tries to Interpret China's Silence on Test  Bush administration officials said that they had been unable to get even the most basic diplomatic response from China after their detection of a successful test to destroy a satellite 10 days ago, and that they were uncertain whether China's top leaders were fully aware of the test or the reaction it would cause.</p>
+        <p>PAGE A3</p>
+        <p>Passports Required  Beginning tomorrow, American citizens returning by air from any country in the Western Hemisphere will be required to present a passport, rather than merely a driver's license or birth certificate.</p>
+        <p>PAGE A16</p>
+        <p>Roommate Discrimination  Fair housing and free speech are colliding on a Web site where people seek roommates. ''Sidebar,'' a new column on the legal world by Adam Liptak.</p>
+        <p>PAGE A12</p>
+        <p>Lebanon Slow in Rebuilding  With Lebanon's government enmeshed in political crisis, rebuilding in southern towns like Bint Jbail has not lived up to promises made after the war with Israel.</p>
+        <p>PAGE A8</p>
+        <p>Seeking a Perfect Pitch  With the State of the Union address coming tomorrow, President Bush's speechwriters are dealing with their editor in chief.</p>
+        <p>PAGE A14</p>
+      </block>
+      <block class="full_text">
+        <p>U.S. Tries to Interpret China's Silence on Test  Bush administration officials said that they had been unable to get even the most basic diplomatic response from China after their detection of a successful test to destroy a satellite 10 days ago, and that they were uncertain whether China's top leaders were fully aware of the test or the reaction it would cause.</p>
+        <p>PAGE A3</p>
+        <p>Passports Required  Beginning tomorrow, American citizens returning by air from any country in the Western Hemisphere will be required to present a passport, rather than merely a driver's license or birth certificate.</p>
+        <p>PAGE A16</p>
+        <p>Roommate Discrimination  Fair housing and free speech are colliding on a Web site where people seek roommates. ''Sidebar,'' a new column on the legal world by Adam Liptak.</p>
+        <p>PAGE A12</p>
+        <p>Lebanon Slow in Rebuilding  With Lebanon's government enmeshed in political crisis, rebuilding in southern towns like Bint Jbail has not lived up to promises made after the war with Israel.</p>
+        <p>PAGE A8</p>
+        <p>Seeking a Perfect Pitch  With the State of the Union address coming tomorrow, President Bush's speechwriters are dealing with their editor in chief.</p>
+        <p>PAGE A14</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

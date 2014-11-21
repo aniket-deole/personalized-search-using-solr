@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>7 Megapixels and a 7X Zoom in a Rather Small Package</title>
+    <meta content="25camera" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/technology/25camera.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821253"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Cameras</classifier>
+        <org class="indexing_service">Casio Corp</org>
+        <person class="indexing_service">Katz, Marty</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E6DB163FF936A15752C0A9619C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>7 Megapixels and a 7X Zoom in a Rather Small Package</hl1>
+        <hl2 class="online_headline">7 Megapixels and a 7X Zoom in a Rather Small Package</hl2>
+      </hedline>
+      <byline class="print_byline">By MARTY KATZ</byline>
+      <byline class="normalized_byline">Katz, Marty</byline>
+      <abstract>
+        <p>Casio's 7-megapixel EX-V7 packs features often found in larger, more expensive cameras into its 2.4-by-3.8-by-1-inch body; costs $399; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Casio's 7-megapixel EX-V7 packs an inordinate number of features into its diminutive 2.4-by-3.8-by-1-inch body. The 7X zoom lens is long enough to catch action across the soccer field.</p>
+        <p>At these lengths, zoom lenses let in less light, forcing cameras to use slower shutter speeds, which can result in blurred action. The EX-V7, which will go on sale in early March for $399, addresses this age-old problem by tracking moving objects and boosting both shutter speed and the camera's sensitivity -- the ISO speed -- which can reach a high 1600.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For online retailers, the EX-V7 features an auto-macro mode, which shoots ultraclose-ups while remaining in focus for regular-distance shots.</p>
+      </block>
+      <block class="full_text">
+        <p>Casio's 7-megapixel EX-V7 packs an inordinate number of features into its diminutive 2.4-by-3.8-by-1-inch body. The 7X zoom lens is long enough to catch action across the soccer field.</p>
+        <p>At these lengths, zoom lenses let in less light, forcing cameras to use slower shutter speeds, which can result in blurred action. The EX-V7, which will go on sale in early March for $399, addresses this age-old problem by tracking moving objects and boosting both shutter speed and the camera's sensitivity -- the ISO speed -- which can reach a high 1600.</p>
+        <p>To counter the increased graininess of images taken at higher ISO speeds, the camera applies noise reduction to areas where it is most noticeable, like skin and sky. An image stabilization circuit further reduces blur from hand motion that can be magnified by the long lens.</p>
+        <p>Also on the EX-V7's laundry list of features is an eBay mode that is designed to help you sell your stuff online. This auto-macro mode shoots ultraclose-ups while remaining in focus for regular-distance shots. Images are automatically reduced for Web display and placed in a folder marked ''eBay'' for easy uploading and offloading.</p>
+        <p>MARTY KATZ</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

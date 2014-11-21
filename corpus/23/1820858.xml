@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REIT to Consider Another Takeover Bid</title>
+    <meta content="23reals" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/business/23reals.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820858"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Equity Office Properties Trust</org>
+        <org class="indexing_service">Blackstone Group</org>
+        <org class="indexing_service">Vornado Realty Trust</org>
+        <org class="indexing_service">Starwood Capital</org>
+        <org class="indexing_service">Walgreen Street Capital</org>
+        <person class="indexing_service">Pristin, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Equity Office Properties Trust</org>
+        <org class="online_producer">Blackstone Group</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E6D91F30F930A15752C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REIT to Consider Another Takeover Bid</hl1>
+        <hl2 class="online_headline">REIT to Consider Another Takeover Bid</hl2>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <abstract>
+        <p>Equity Office Properties, which agreed to be bought by Blackstone Group for $36 billion, says it will begin discussions with rival group led by Vornado Realty Trust after Vornado and its partners Starwood Capital Group and Walgreen Street Capital offer to pay $52 a share, or 7.2 percent more than Blackstone's bid (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Equity Office Properties, which agreed in November to be bought by a private equity company, the Blackstone Group, for $36 billion, including debt, said yesterday that it would begin discussions with a rival group that has offered to top that price.</p>
+        <p>Equity Office, the nation's largest office landlord, with 585 buildings in 24 metropolitan areas, also said it would open its books to the challengers, a consortium led by Vornado Realty Trust.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Equity Office Properties, which agreed in November to be bought by a private equity company, the Blackstone Group, for $36 billion, including debt, said yesterday that it would begin discussions with a rival group that has offered to top that price.</p>
+      </block>
+      <block class="full_text">
+        <p>Equity Office Properties, which agreed in November to be bought by a private equity company, the Blackstone Group, for $36 billion, including debt, said yesterday that it would begin discussions with a rival group that has offered to top that price.</p>
+        <p>Equity Office, the nation's largest office landlord, with 585 buildings in 24 metropolitan areas, also said it would open its books to the challengers, a consortium led by Vornado Realty Trust.</p>
+        <p>Raising the stakes in what was already the largest buyout battle ever, Vornado and its partners, Starwood Capital Group and Walton Street Capital, proposed last week to pay $52 a share for Equity Office, or 7.2 percent more than what Blackstone has offered. Vornado, a real estate investment trust that owns more than 100 million square feet of office, retail and showroom property, said its offer would include about $10.6 billion of its stock.</p>
+        <p>Setting a Jan. 31 deadline for the Vornado group to submit a formal proposal, Equity Office said it continued to recommend approval of the Blackstone merger.</p>
+        <p>A Blackstone spokesman, John Ford, had no comment, except to point out that the Blackstone deal could close three days after Equity Office shareholders approve the transaction. The vote is scheduled for Feb. 5.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

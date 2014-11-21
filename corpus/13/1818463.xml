@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CAMPUS PLAYBOOK</title>
+    <meta content="13ucla" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818463"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COLLEGE BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <person class="indexing_service">Litsky, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E6D81330F930A25752C0A9619C8B63" item-length="547" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CAMPUS PLAYBOOK</hl1>
+      </hedline>
+      <byline class="print_byline">By Frank Litsky</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+      <abstract>
+        <p>College basketball developments discussed; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An Imperfect Feeling</p>
+        <p>Until last Saturday, the U.C.L.A. men were riding high with a No. 1 national ranking and, at 14-0, aspirations of an undefeated season. Then came reality, in the form of a 68-66 loss at Oregon.</p>
+        <p>Before U.C.L.A.'s next game, against Southern California tonight, they had all week to reflect on that loss.</p>
+      </block>
+      <block class="full_text">
+        <p>An Imperfect Feeling</p>
+        <p>Until last Saturday, the U.C.L.A. men were riding high with a No. 1 national ranking and, at 14-0, aspirations of an undefeated season. Then came reality, in the form of a 68-66 loss at Oregon.</p>
+        <p>Before U.C.L.A.'s next game, against Southern California tonight, they had all week to reflect on that loss.</p>
+        <p>Arron Afflalo, a junior guard for the Bruins, did not accept it well.</p>
+        <p>''On a scale of 1 to 10, the loss ranks a zero,'' he said. ''Initially, it hurt me more than last year's national championship loss. Now that I have had a couple of days to put it in perspective, it wasn't as bad. But when you are chasing history, when you are chasing the rarity of being undefeated, losing a close game like that hurts. The way I look at it, championship seasons come every year, but undefeated seasons are a lot rarer.''</p>
+        <p>Turnaround at Rutgers</p>
+        <p>Last season, the Rutgers women's team finished 16-0 in the Big East, 27-5 over all and reached the N.C.A.A. tournament's Round of 16. This season, after a 2-4 start, the Scarlet Knights are 8-5 over all, 3-1 in the conference and playing aggressively again.</p>
+        <p>Rutgers's early-season problems, Coach C. Vivian Stringer said, were inexperience and injuries. The team has no seniors, three juniors, two sophomores and five freshmen, and Stringer said the freshmen, out of necessity, were probably playing more than they should. An injury to the gifted junior point guard Matee Ajavon forced Essence Carson, a post player, to replace her. As a result, Stringer said, ''Essence had no one who looked familiar to her on the floor, no one who understood the reads.''</p>
+        <p>Now, with Ajavon healthy and the team on track, Stringer's teaching has taken a mental approach. She has her players reading books and talking about movies that she said ''have an impact.''</p>
+        <p>''Different books to learn more about each other and use it with basketball to improve our game and ourselves,'' she said.</p>
+        <p>Long Odds at Caltech</p>
+        <p>California Institute of Technology, better known for aeronautical engineering, applied mathematics and Nobel laureates, is losing again.</p>
+        <p>When the Caltech men defeated Bard, 81-52, last Saturday, they snapped a 207-game losing streak, the longest in N.C.A.A. history. They lost their next game, 103-40, to Occidental on Thursday night, and tonight they will play Pomona-Pitzer.</p>
+        <p>Coach Roy Dow says he understands that his Caltech players may become stars in NASA, but never the N.B.A. In a telephone interview, he recited more sad numbers: 245 consecutive conference losses and counting and a 1-11 record this season.</p>
+        <p>''I don't anticipate losing,'' he said. ''I knew what I was getting into when I took this job. I won't let Caltech be an excuse for us being a bad basketball team. The players want something to show for hard work. They don't want to be lovable losers. Losing is not fun, but at the same time, it's a game.</p>
+        <p>''This year, we've been outmatched before we've gone onto the floor. Of our 15 players, only six played high school basketball and only three of those six started as seniors. We're trying to play a college schedule with that. I don't anticipate winning another game this year.''</p>
+        <p>FRANK LITSKY</p>
+        <p>COLLEGE BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

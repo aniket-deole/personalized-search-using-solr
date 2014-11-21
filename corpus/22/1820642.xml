@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treasury Bills Scheduled for This Week</title>
+    <meta content="22bonds" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/business/22bonds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820642"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E6DD1F30F931A15752C0A9619C8B63" item-length="448" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treasury Bills Scheduled for This Week</hl1>
+        <hl2 class="online_headline">Treasury Bills Scheduled for This Week</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5.13 percent. The rate on the six-month issue was 5.16 percent. The rate on the four-week issue was 4.93 percent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Treasury’s schedule of financing this week includes today’s regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+      </block>
+      <block class="full_text">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5.13 percent. The rate on the six-month issue was 5.16 percent. The rate on the four-week issue was 4.93 percent.</p>
+        <p>The following tax-exempt fixed-income issues are scheduled for pricing this week:</p>
+        <p>TAX EXEMPT  TODAY</p>
+        <p>Plainfield, Ill., Community Consolidated School District No. 202, $86.7 million of general obligation bonds. Competitive.  Round Rock, Tex., Independent School District, $103.1 million of general obligation bonds. Competitive.</p>
+        <p>TOMORROW</p>
+        <p>Washington State, $770.1 million of general obligation bonds. Competitive.</p>
+        <p>WEDNESDAY</p>
+        <p>Metropolitan Council, St. Paul, $80 million of wastewater general obligation bonds. Competitive.  Virginia, $83.4 million of revenue bonds. Competitive.</p>
+        <p>TAX EXEMPT  ONE DAY DURING THE WEEK</p>
+        <p>Allen, Tex., Independent School District, $52.2 million of debt securities. Citigroup.  Arizona State University, $77 million of debt securities. Lehman Brothers.  Birdville, Tex., Independent School District, $103 million of school building bonds. UBS.  California Health and Human Services Agency, $475 million of debt securities for Kaiser Permanente. Citigroup.  Citrus County, Fla., Water and Wastewater System, $54 million of revenue bonds. Bank of America.  Colorado Hospital Authority, $75 million of debt securities for University of Colorado. Citigroup.  Dormitory Authority of the State of New York, $165.7 million of revenue bonds. Morgan Stanley.  Ector County, Tex., Independent School District, $56.4 million of unlimited tax refunding bonds. First Southwest.  Inglewood, Calif., Unified School District, $55 million of debt securities. Siebert Brandford Shank.  Kentucky Housing Corporation, $50 million of housing revenue bonds. UBS.  Midland, Tex., $56.7 million of certificate of obligation limited tax general obligation bonds. A.G. Edwards &amp; Sons.  Missouri Health and Educational Facilities Authority, $59 million of senior living facilities revenue bonds for Lutheran Senior Services. Ziegler Capital Markets.  Missouri Housing Development Commission, $50 million of single-family mortgage revenue bonds for the homeownership loan program. George K. Baum.  Nebraska Public Power District, $500 million of debt securities for the Whelan Energy Center. Bear Stearns.  New Jersey Tobacco Settlement Finance Corporation, $3.6 billion of debt securities. Bear Stearns.  New Mexico Mortgage Finance Authority, $50 million of debt securities for the single-family mortgage program. George K. Baum.  Roseville, Calif., $195 million of gas revenue bonds. Merrill Lynch.  San Antonio, $350 million of water system revenue bonds. UBS.  Spring Branch, Tex., Independent School District, $165 million of school building bonds. UBS.  Sprinfield, Mass., $140 million of general obligation bonds. UBS.  Walton County, Ga., $59 million of debt securities. Citigroup.  Washington, D.C., Convention Center Authority, $482.6 million of debt securities. Morgan Stanley.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

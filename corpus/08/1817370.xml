@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Personal Computer To Carry In a Pocket</title>
+    <meta content="08mobile" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/technology/08mobile.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070111T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1817370"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <org class="indexing_service">Apple Computer Inc</org>
+        <org class="indexing_service">Nokia</org>
+        <org class="indexing_service">Motorola Inc</org>
+        <org class="indexing_service">Sony Ericsson Mobile Communications</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05EEDC1530F93BA35752C0A9619C8B63" item-length="1064" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Personal Computer To Carry In a Pocket</hl1>
+        <hl2 class="online_headline">A Personal Computer to Carry in a Pocket</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Desktop computers and cellphones are converging into so-called 'fourth screen' devices, which include functions such as Internet access, e-mail and text, voice and instant messaging; Apple computer is expected to announce highly anticipated phone device with at least some convergence features; faces competition from Nokia, Motorola, Sony Ericsson and Microsoft among others; new devices with innovative form factors are emerging as technologies are adopted; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The world of desktop computing is finally going mobile, and the shift can be seen in the explosive growth of wireless data for cellular carriers.</p>
+        <p>To handle functions from text and instant messaging to mobile MySpace and ESPN, computer users are increasingly turning to the cellphone.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The newest cellphone screens are evolving to adopt more and more characteristics of a personal computer.</p>
+      </block>
+      <block class="full_text">
+        <p>The world of desktop computing is finally going mobile, and the shift can be seen in the explosive growth of wireless data for cellular carriers.</p>
+        <p>To handle functions from text and instant messaging to mobile MySpace and ESPN, computer users are increasingly turning to the cellphone.</p>
+        <p>''We are seeing the emergence of a fourth screen,'' said Jerry Panagrossi, vice president for operations at Symbian, a developer of advanced cellphone operating systems, citing a historical progression of ''movie, television, computer and now the smart-phone screen.''</p>
+        <p>The newest screen is evolving to adopt more and more characteristics of a personal computer. And many believe that the next big shift will be the convergence of many forms of communication encompassing voice, e-mail, instant messaging and video telephony.</p>
+        <p>That shift may well be underscored tomorrow when Steven P. Jobs, the chief executive of Apple Computer, is expected to unveil an Apple phone representing his company's new mobile communications strategy -- highlighted by a device that may include Jobsian refinements such as a sleek ceramic case and a transparent touch screen.</p>
+        <p>Industry executives and competitors believe that Apple has developed the first of a new generation of devices that are closer to personal computers in pocket form, meaning that they will easily handle music, entertainment, productivity tasks and communications on cellular and other wireless networks.</p>
+        <p>But while Apple was able to monopolize the music-player category quickly after it introduced the iPod in 2001, its challenge with a phone would be far more difficult.</p>
+        <p>While Apple was early to portable digital music, it would be distinctly late in entering the world of Internet-connected digital hand-helds. Arrayed against it are giants including Nokia, Motorola, Sony Ericsson and Microsoft, in addition to entrenched hand-held companies like Palm and Research in Motion.</p>
+        <p>Also waiting to enter the fray are powerful Internet companies like Google, who cannot afford to be cut off from users who now rely on them in the desktop computing world.</p>
+        <p>''Apple is about to touch off a nuclear war,'' said Paul Mercer, a software designer and president of Iventor, a designer of software for hand-helds based in Palo Alto, Calif. ''The Nokias and the Motorolas will have to respond.''</p>
+        <p>And the coming convergence -- or possibly collision -- between cellphones and desktop computers is also yielding new forms of hybrid devices. Nokia and Sony have recently introduced hand-helds with innovative physical designs and new combinations of communication features.</p>
+        <p>What they share is designs that make them more portable than laptop computers and screens that are more readable than those on cellphones.</p>
+        <p>Another entry is the Oqo Model 2, a hand-held computer being spotlighted this week at the Consumer Electronics Show in Las Vegas, including a mention in a keynote address by Bill Gates, the Microsoft chairman.</p>
+        <p>Developed in a San Francisco warehouse office by a small team of portable-computer designers who have previously worked for Apple and I.B.M., the device is a complete Windows Vista computer that fits comfortably in the palm of a hand.</p>
+        <p>With a slide-out keyboard as well as the ability to connect to both Wi-Fi networks and high-speed cellular service, its selling price will start at $1,499. Those who wish to use it as a phone can add a Bluetooth headset and use an Internet phone service like Skype.</p>
+        <p>''Our main goal is to reinvent the PC in a pocketable form,'' said Jory Bell, a computer designer who is one of the Oqo's founders.</p>
+        <p>What all of the hardware makers are hunting for is a way to capitalize on the cultural shift in mobile messaging and search that has finally led the United States to close the gap with Asia and Europe, which have in the past been far ahead in mobile data wireless applications.</p>
+        <p>The data revenue for American cellular carriers grew at an annual rate of more than 70 percent in the first half of last year. In the third quarter, Verizon Wireless, Cingular and Sprint each crossed $1 billion a quarter in data revenue for the first time. They were ranked fourth, fifth and seventh in the world in data revenue for the first nine months of the year.</p>
+        <p>''We've basically caught up with Europe,'' said Roger Entner, a telecommunications industry analyst with Ovum Research.</p>
+        <p>Analysts say Japanese and Korean companies have moved almost 50 percent of their customers to the new generation of data-oriented wireless networks known as 3-G. But the United States is only about a year behind the Asian countries in that evolution, analysts said.</p>
+        <p>''This is happening because of a number of factors,'' said Chetan Sharma, a telecommunications analyst based in Issaquah, Wash. ''Some have to do with culture and the others are purely business-related. The carriers are now realizing that wireless data is a substantial part of the business.''</p>
+        <p>And not all of the traffic is being driven by messaging, as a remarkable variety of wireless data software applications is emerging.</p>
+        <p>When students at Montclair State University in New Jersey feel concerned for their safety at night, they can send a wireless digital alert from their cellphone, setting a timer in the campus security office. If they do not turn it off remotely at the specified time, officers are alerted to their location. The program was developed by Rave Wireless, a New York-based maker of cellphone software for academic customers.</p>
+        <p>For Apple, one advantage in entering the wireless data market may be that it can develop both the hardware and the software for its own phone. But it would still need to rely on the cellular carriers.</p>
+        <p>In the past Mr. Jobs has cited the carriers' control of handsets in the United States as a reason he had not introduced an Apple phone. Now that has apparently changed, and Apple's business strategy in offering an Apple phone will potentially be as intriguing as its industrial design.</p>
+        <p>Mr. Jobs has been rumored to have entered into an alliance with Cingular. That would suggest he has patched up a reported split in 2005 that came when Apple introduced its iPod Nano on the same day that Cingular and Motorola introduced the Rokr, an iPod-compatible phone.</p>
+        <p>Whatever his business strategy, Mr. Jobs is certain to have an impact. Recently, he told two associates, who asked not to be identified to avoid damaging their relationship with him, that he was more excited about his current project than he was about the Macintosh.</p>
+        <p>Correction:  January 11, 2007, Thursday  A picture caption in Business Day on Monday with an article about cellphones and other small devices that take on desktop computers' functions referred incorrectly to four officials from Oqo, which makes a pocket-sized computer. While the four pictured are executives, only three were among its founders. Bob Rosin, second from right, is the senior vice president for marketing and alliances and joined the company later.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 11, 2007, Thursday</p>
+        <p>A picture caption in Business Day on Monday with an article about cellphones and other small devices that take on desktop computers' functions referred incorrectly to four officials from Oqo, which makes a pocket-sized computer. While the four pictured are executives, only three were among its founders. Bob Rosin, second from right, is the senior vice president for marketing and alliances and joined the company later.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

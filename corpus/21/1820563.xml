@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE DRIBBLE</title>
+    <meta content="21nbarail" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070127T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1820563"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <person class="indexing_service">Hoffman, Benjamin</person>
+        <person class="indexing_service">Bierman, Fred</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DE1F30F932A15752C0A9619C8B63" item-length="395" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE DRIBBLE</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN HOFFMAN AND FRED BIERMAN</byline>
+      <byline class="normalized_byline">Hoffman, Benjamin; Bierman, Fred</byline>
+      <abstract>
+        <p>Developments in NBA discussed; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Turnaround in Toronto</p>
+        <p>The Toronto Raptors have won 12 of their last 20 games and are a game and a half behind the Nets in the weak Atlantic Division, a nice turnaround for a team that started 5-10. Since Chris Bosh's return from an injury Jan. 3, the Raptors have gone 6-4, with two of the losses coming against the Mavericks and the Suns -- the only teams in the N.B.A. with 30 or more victories -- by a combined 3 points. Bosh is averaging 21.4 points and 11.4 rebounds this season.</p>
+        <p>No Substitute</p>
+        <p>Kelenna Azubuike, a reserve guard for the Warriors and a recent call-up from the N.B.A. Development League, played all 48 minutes of a Warriors loss Wednesday after the team's eight-player trade with the Pacers. It was the 15th time this season that a player had played 48 minutes in a nonovertime game. Azubuike's teammate Baron Davis has done it three times this season, to lead the league.</p>
+      </block>
+      <block class="full_text">
+        <p>Turnaround in Toronto</p>
+        <p>The Toronto Raptors have won 12 of their last 20 games and are a game and a half behind the Nets in the weak Atlantic Division, a nice turnaround for a team that started 5-10. Since Chris Bosh's return from an injury Jan. 3, the Raptors have gone 6-4, with two of the losses coming against the Mavericks and the Suns -- the only teams in the N.B.A. with 30 or more victories -- by a combined 3 points. Bosh is averaging 21.4 points and 11.4 rebounds this season.</p>
+        <p>No Substitute</p>
+        <p>Kelenna Azubuike, a reserve guard for the Warriors and a recent call-up from the N.B.A. Development League, played all 48 minutes of a Warriors loss Wednesday after the team's eight-player trade with the Pacers. It was the 15th time this season that a player had played 48 minutes in a nonovertime game. Azubuike's teammate Baron Davis has done it three times this season, to lead the league.</p>
+        <p>Other repeat performers include Chris Paul of the Hornets and Ben Wallace of the Bulls, who have done it twice.</p>
+        <p>Brown Takes the Cake</p>
+        <p>In what may have been the oddest news item so far this season, Lakers center Kwame Brown, above, reportedly took a man's 2-by-2-foot birthday cake and threw it before taking off in a limousine. After a 109-106 victory against the Magic on Jan. 12, Brown and some teammates went to a nightclub in Hermosa Beach, Calif. Alexander Martinez was celebrating his 30th birthday at a restaurant near the nightclub and crossed paths with Brown on the street. Brown then took the cake from Martinez and threw it at him, hitting Martinez in the back. No charges were filed, and Lakers Coach Phil Jackson joked that it was ''natural'' that Brown could not hold on to the cake.</p>
+        <p>Nothing but Net</p>
+        <p>For a more cerebral look at the league, check out Truehoop.com, a Web site run by the sportswriter Henry Abbot, who discovered basketball by listening to Bill Schonley calling Trail Blazers games in the 1980s. ''I have been a sucker for it ever since,'' he said in an e-mail message. A recent trip to True Hoop found a list of the best young European players and a peek at next season's possible first draft picks.</p>
+        <p>BENJAMIN HOFFMAN AND FRED BIERMAN</p>
+        <p>Correction:  January 27, 2007, Saturday  A report in the Off the Dribble roundup on Sunday about the basketball Web site Truehoop.com misspelled the surname of the sportswriter who runs the site. It is Henry Abbott, not Abbot.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 27, 2007, Saturday</p>
+        <p>A report in the Off the Dribble roundup on Sunday about the basketball Web site Truehoop.com misspelled the surname of the sportswriter who runs the site. It is Henry Abbott, not Abbot.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

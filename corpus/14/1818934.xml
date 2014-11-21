@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Infant's Death Prompts Inquiry</title>
+    <meta content="14baby" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818934"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Domestic Violence</classifier>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="indexing_service" type="descriptor">Shaken Baby Syndrome</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Santos, Fernanda</person>
+        <person class="indexing_service">Flores, Demetro</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Babies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Domestic Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03EFDF1030F937A25752C0A9619C8B63" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Infant's Death Prompts Inquiry</hl1>
+      </hedline>
+      <byline class="print_byline">By FERNANDA SANTOS; Kate Hammer contributed reporting.</byline>
+      <byline class="normalized_byline">Santos, Fernanda</byline>
+      <abstract>
+        <p>Police question mother of Demetro Flores, who admits she shook boy at their Harlem apartment to stop him from crying before he died; mother has history of domestic violence (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 20-year-old woman was being questioned last night in connection with the death of her 2-month-old son at their home in Harlem, the police said. The woman told detectives that she had shaken her son because he would not stop crying, according to the police.</p>
+        <p>The boy, whom the authorities identified as Demetro Flores, did not appear to have bruises or other visible signs of abuse, the police said. The medical examiner's office was scheduled to perform an autopsy this morning, the agency's spokeswoman, Ellen Borakove, said.</p>
+      </block>
+      <block class="full_text">
+        <p>A 20-year-old woman was being questioned last night in connection with the death of her 2-month-old son at their home in Harlem, the police said. The woman told detectives that she had shaken her son because he would not stop crying, according to the police.</p>
+        <p>The boy, whom the authorities identified as Demetro Flores, did not appear to have bruises or other visible signs of abuse, the police said. The medical examiner's office was scheduled to perform an autopsy this morning, the agency's spokeswoman, Ellen Borakove, said.</p>
+        <p>The police did not release the woman's name last night because charges had not been filed.</p>
+        <p>The woman was sleeping alongside Demetro on the floor of her fourth-floor apartment on West 135th Street yesterday morning when the boy's father came home and noticed something was not right with the baby, the police said.</p>
+        <p>The man, whom the authorities did not identify, woke the woman and then called 911 at about 11:30 a.m., the police said. Demetro was taken to St. Luke's-Roosevelt Hospital Center, where he was pronounced dead, the police said.</p>
+        <p>His parents have no known history of domestic violence, the police said. The woman has another child, a 1-year-old daughter who has a different father. The girl was removed from the home yesterday by child welfare workers, who were working to locate the father, the police said.</p>
+        <p>Sharman Stein, a spokeswoman with the Administration for Children's Services, the city's child welfare agency, said it was investigating the infant's death, but could not provide further details.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

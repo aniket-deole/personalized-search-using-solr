@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Subway Rider Dies On Tracks</title>
+    <meta content="16mbrfs-4" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819325"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Subways</classifier>
+        <classifier class="indexing_service" type="descriptor">Falls</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Vasquez, Emily</person>
+        <person class="indexing_service">Montanez, Jose</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE0D81030F935A25752C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Subway Rider Dies On Tracks</hl1>
+      </hedline>
+      <byline class="print_byline">By EMILY VASQUEZ; Compiled by Andy Newman</byline>
+      <byline class="normalized_byline">Vasquez, Emily</byline>
+      <abstract>
+        <p>Jose Montanez dies after falling between two cars of subway train in Manhattan (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 58-year-old subway rider died early yesterday when he fell to the tracks beneath a moving No. 6 train just south of Brooklyn Bridge station, the police said. The man, Jose Montanez, of Brooklyn, was standing between two cars, urinating, when the train began to loop around, having come to the last stop on the line, the police said. During the tight turn, Mr. Montanez's head was pinched between the ends of the cars and he was thrown to the tracks, the police said. He was pronounced dead at the scene.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+      <block class="full_text">
+        <p>A 58-year-old subway rider died early yesterday when he fell to the tracks beneath a moving No. 6 train just south of Brooklyn Bridge station, the police said. The man, Jose Montanez, of Brooklyn, was standing between two cars, urinating, when the train began to loop around, having come to the last stop on the line, the police said. During the tight turn, Mr. Montanez's head was pinched between the ends of the cars and he was thrown to the tracks, the police said. He was pronounced dead at the scene.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

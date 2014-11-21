@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="02qna" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815960"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Flowers and Plants</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E1DF1730F931A35752C0A9619C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column discusses daily cycles of plants (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sleeping Vines</p>
+        <p>Q. Do plants sleep?</p>
+        <p>A. Plants do not sleep in the sense of daily passing into a state of reduced consciousness, but many species exhibit sleeplike states, like the dormancy of winter or the overnight shutdown of photosynthesis in the absence of sunlight. As in the human body, hormones come into play to regulate the timing of the cyclical physical changes that occur.</p>
+      </block>
+      <block class="full_text">
+        <p>Sleeping Vines</p>
+        <p>Q. Do plants sleep?</p>
+        <p>A. Plants do not sleep in the sense of daily passing into a state of reduced consciousness, but many species exhibit sleeplike states, like the dormancy of winter or the overnight shutdown of photosynthesis in the absence of sunlight. As in the human body, hormones come into play to regulate the timing of the cyclical physical changes that occur.</p>
+        <p>One well-known and well-studied sleeplike state is called nyctinasty, or night movement. This occurs in the many plants that fold or shift their leaves or petals on a daily schedule, including beans, morning glories and four o'clocks.</p>
+        <p>Darwin studied nyctinasty and hypothesized that it might protect against lower nighttime temperatures.</p>
+        <p>Other scientists suggest that in rainforest plants, nyctinasty allows for maximum daytime sun exposure while folding sheds excess water at night.</p>
+        <p>Such movement takes place on a 24-hour cycle, which can continue even when the plant is cut off from light. The plants' internal chemical signals, which vary by species, keep the system running on its own, though it gradually loses synchronization with light stimuli.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>News Summary</title>
+    <meta content="07summary" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817237"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DD1530F934A35752C0A9619C8B63" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>News Summary</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INTERNATIONAL 3-16</p>
+        <p>A Hint of Bush's New Iraq Plan  President Bush's new Iraq strategy calls for a phased troop influx that could add as many as 20,000 Americans to Baghdad, but it would be supplemented with a billion-dollar jobs program, according to American officials who are piecing together the last parts of the initiative.</p>
+        <p>1</p>
+        <p>Scars Linger on Baghdad Block  A suicide attack in Baghdad two years ago killed 34 Iraqi children as they were getting candy from U.S. soldiers. The incident tore a hole in the life of their block, and many people have been unable to put their lives back together.</p>
+        <p>1</p>
+        <p>Report Details Iraq Killings  A military report on the killing of 24 Iraqis, including several women and children, by marines in the village of Haditha in 2005 supports allegations by prosecutors that a few marines illegally killed civilians.  16</p>
+        <p>NATIONAL 17-19</p>
+        <p>Plans for New Nuclear Warhead  The Bush administration is expected to announce a major step forward in the building of the country's first nuclear warhead in nearly two decades. The plan will combine elements of designs from two weapons laboratories in an approach that some experts argue is untested and risky. 1</p>
+        <p>A New Era for Democrats  In the days before the 1994 Republican takeover, Democratic chairmen ruled their committees with impunity. Now Democrats say they hope to strike a more productive balance.  1</p>
+        <p>'Botnet' Data Crimes Up  With growing sophistication, identity thieves are taking advantage of programs that secretly install themselves on thousands or even millions of personal computers and use the collective power of the dragooned networks, called botnets, to commit Internet crimes. 1</p>
+        <p>NEW YORK/REGION 21-25</p>
+        <p>Toys 'R' Us Alters Ruling  Toys ''R'' Us reversed its decision and awarded three $25,000 savings bonds to babies born on New Year's Day, including one whose parents are not legal residents.  23</p>
+        <p>Chess 25  Weather 28</p>
+      </block>
+      <block class="full_text">
+        <p>INTERNATIONAL 3-16</p>
+        <p>A Hint of Bush's New Iraq Plan  President Bush's new Iraq strategy calls for a phased troop influx that could add as many as 20,000 Americans to Baghdad, but it would be supplemented with a billion-dollar jobs program, according to American officials who are piecing together the last parts of the initiative.</p>
+        <p>1</p>
+        <p>Scars Linger on Baghdad Block  A suicide attack in Baghdad two years ago killed 34 Iraqi children as they were getting candy from U.S. soldiers. The incident tore a hole in the life of their block, and many people have been unable to put their lives back together.</p>
+        <p>1</p>
+        <p>Report Details Iraq Killings  A military report on the killing of 24 Iraqis, including several women and children, by marines in the village of Haditha in 2005 supports allegations by prosecutors that a few marines illegally killed civilians.  16</p>
+        <p>NATIONAL 17-19</p>
+        <p>Plans for New Nuclear Warhead  The Bush administration is expected to announce a major step forward in the building of the country's first nuclear warhead in nearly two decades. The plan will combine elements of designs from two weapons laboratories in an approach that some experts argue is untested and risky. 1</p>
+        <p>A New Era for Democrats  In the days before the 1994 Republican takeover, Democratic chairmen ruled their committees with impunity. Now Democrats say they hope to strike a more productive balance.  1</p>
+        <p>'Botnet' Data Crimes Up  With growing sophistication, identity thieves are taking advantage of programs that secretly install themselves on thousands or even millions of personal computers and use the collective power of the dragooned networks, called botnets, to commit Internet crimes. 1</p>
+        <p>NEW YORK/REGION 21-25</p>
+        <p>Toys 'R' Us Alters Ruling  Toys ''R'' Us reversed its decision and awarded three $25,000 savings bonds to babies born on New Year's Day, including one whose parents are not legal residents.  23</p>
+        <p>Chess 25  Weather 28</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

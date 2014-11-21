@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; World of Warcraft Expands</title>
+    <meta content="17arts-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819490"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="indexing_service" type="descriptor">World of Warcraft (Online Game)</classifier>
+        <classifier class="indexing_service" type="descriptor">Burning Crusade (Online Game)</classifier>
+        <org class="indexing_service">Blizzard Entertainment</org>
+        <person class="indexing_service">Schiesel, Seth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E7DE1130F934A25752C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; World of Warcraft Expands</hl1>
+      </hedline>
+      <byline class="print_byline">By SETH SCHIESEL; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Schiesel, Seth</byline>
+      <abstract>
+        <p>Blizzard Entertainment releases first retail expansion for World of Warcraft, online computer role-playing game; expansion, known as Burning Crusade, is expected to be one of this year's top-selling games and may confirm World of Warcraft's perch atop online gaming sector (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sending legions of gamers around the world into a full-fledged tizzy, Blizzard Entertainment yesterday released the first retail expansion for World of Warcraft, the online computer role-playing game that has reshaped the electronic entertainment industry by attracting more than 8 million paying subscribers. The expansion, known as the Burning Crusade, is expected to be one of this year's top-selling games and may confirm World of Warcraft's perch atop the online gaming sector, one of the fastest-growing segments of the entertainment economy. World of Warcraft has been the first American video game to achieve truly global success. Most players pay around $15 a month for access to the game, which means it is on pace to take in more than $1 billion in subscription revenue this year. Online games like World of Warcraft are regularly updated by their makers through software upgrades known as patches. But the Burning Crusade is World of Warcraft's first full expansion, which must be purchased at retail (for $40). Players who do not upgrade can continue to play the game, but will not have access to the new features included in Burning Crusade.</p>
+        <p>SETH SCHIESEL</p>
+      </block>
+      <block class="full_text">
+        <p>Sending legions of gamers around the world into a full-fledged tizzy, Blizzard Entertainment yesterday released the first retail expansion for World of Warcraft, the online computer role-playing game that has reshaped the electronic entertainment industry by attracting more than 8 million paying subscribers. The expansion, known as the Burning Crusade, is expected to be one of this year's top-selling games and may confirm World of Warcraft's perch atop the online gaming sector, one of the fastest-growing segments of the entertainment economy. World of Warcraft has been the first American video game to achieve truly global success. Most players pay around $15 a month for access to the game, which means it is on pace to take in more than $1 billion in subscription revenue this year. Online games like World of Warcraft are regularly updated by their makers through software upgrades known as patches. But the Burning Crusade is World of Warcraft's first full expansion, which must be purchased at retail (for $40). Players who do not upgrade can continue to play the game, but will not have access to the new features included in Burning Crusade.</p>
+        <p>SETH SCHIESEL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

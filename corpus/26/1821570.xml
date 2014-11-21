@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Screamers</title>
+    <meta content="26roun-2" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821570"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Garapedian, Carla</person>
+        <object.title class="indexing_service">Screamers (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4DD173FF935A15752C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Screamers</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews Carla Garapedian documentary film Screamers (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in New York, Chicago and Boston  Directed by Carla Garapedian  In English and Armenian, with English subtitles  89 minutes</p>
+        <p>Like Atom Egoyan's 2002 fiction film ''Ararat,'' the documentary ''Screamers'' takes as its jumping-off point the 1915 massacre of Armenians by the Ottoman Turks. Unlike Mr. Egoyan, however, the director Carla Garapedian has a wider agenda: to show how continued refusal to acknowledge the genocide, by the United States and Britain as well as by Turkey, has given governments all over the world courage to instigate their own versions of ethnic cleansing.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in New York, Chicago and Boston  Directed by Carla Garapedian  In English and Armenian, with English subtitles  89 minutes</p>
+        <p>Like Atom Egoyan's 2002 fiction film ''Ararat,'' the documentary ''Screamers'' takes as its jumping-off point the 1915 massacre of Armenians by the Ottoman Turks. Unlike Mr. Egoyan, however, the director Carla Garapedian has a wider agenda: to show how continued refusal to acknowledge the genocide, by the United States and Britain as well as by Turkey, has given governments all over the world courage to instigate their own versions of ethnic cleansing.</p>
+        <p>The relationship between denial of the Armenian tragedy and later atrocities like the Holocaust, Rwanda and present-day Darfur remains far from proven, but ''Screamers'' loses no power as a result of its shaky argument. Focusing on the alternative metal band System of a Down, whose members are descended from Armenian survivors, this invigorating and articulate film unfolds at the sensitive intersection of entertainment and politics. Interviewing fans, family members and a wide range of public figures, Ms. Garapedian traces the historical path of genocide and reveals the continuing success of the band's attempts to raise awareness about global suffering.</p>
+        <p>Part rockumentary, part howl of outrage, ''Screamers'' would have benefited from less concert film and more historical background. Though the decibel level occasionally threatens to drown out the movie's quieter voices, the harrowing reminiscences of the lead singer Serj Tankian's grandfather, one of the few remaining Armenian eyewitnesses, make the suffering personal. ''This band just started to make you ask questions,'' Mr. Tankian tells his audience. That would seem a good place to start.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>''Screamers'' is rated R (Under 17 requires accompanying parent or adult guardian). It has strong language and disturbing images of genocide.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

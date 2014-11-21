@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMINGS &amp; GOINGS</title>
+    <meta content="28comings" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/travel/28comings.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822277"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E5DA1F30F93BA15752C0A9619C8B63" item-length="285" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMINGS &amp; GOINGS</hl1>
+        <hl2 class="online_headline">Comings and Goings</hl2>
+      </hedline>
+      <byline class="print_byline">By HILARY HOWARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If a civilized game of croquet -- complete with understated players swinging polished mallets on a manicured lawn -- makes you want to scream ''Anarchy!'' and dive into the nearest body of water, then perhaps you'd prefer a round of extreme croquet. In addition to its traditional croquet lawn, the Somerset on Grace Bay in the Turks and Caicos (www.thesomerset.com) is now offering extreme croquet on the beach. The biggest difference between traditional versus extreme croquet is the terrain; the extreme course shifts from short grass on flat land to beaches and hills, and on occasion, mud and water. Traditional croquet rules apply to the Somerset extreme course, with a few variations, including a ball being fair play if it's whacked into the water, each player having to complete his turn within 10 seconds, and an arm wrestling match that determines who starts the game. Reservations: (649) 946-5900. This month, Zagat Survey published its first New Orleans guidebook since Hurricane Katrina devastated the city in 2005. The 2007 Best of New Orleans edition includes 390 restaurants, 94 night spots, 29 attractions and 18 hotels. For top food and service in a restaurant, August won top billing; Galatoire's received the title of most popular restaurant; and Hansen's Sno-Bliz ranked No. 1 in the best buy category. The Windsor Court was named top hotel (www.zagat.com).  On Feb. 20, the Grand Hotel Kempinski Geneva is set to unveil 230 rooms in time for the 77th International Motor Show in March. The hotel, on the lakefront and formerly known as the Noga Hotel, is undergoing a refurbishment that will include 200 additional rooms and conference facilities, all of which are scheduled to open in May (www.kempinski.com).</p>
+        <p>HILARY HOWARD</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The latest travel news from around the globe.</p>
+      </block>
+      <block class="full_text">
+        <p>If a civilized game of croquet -- complete with understated players swinging polished mallets on a manicured lawn -- makes you want to scream ''Anarchy!'' and dive into the nearest body of water, then perhaps you'd prefer a round of extreme croquet. In addition to its traditional croquet lawn, the Somerset on Grace Bay in the Turks and Caicos (www.thesomerset.com) is now offering extreme croquet on the beach. The biggest difference between traditional versus extreme croquet is the terrain; the extreme course shifts from short grass on flat land to beaches and hills, and on occasion, mud and water. Traditional croquet rules apply to the Somerset extreme course, with a few variations, including a ball being fair play if it's whacked into the water, each player having to complete his turn within 10 seconds, and an arm wrestling match that determines who starts the game. Reservations: (649) 946-5900. This month, Zagat Survey published its first New Orleans guidebook since Hurricane Katrina devastated the city in 2005. The 2007 Best of New Orleans edition includes 390 restaurants, 94 night spots, 29 attractions and 18 hotels. For top food and service in a restaurant, August won top billing; Galatoire's received the title of most popular restaurant; and Hansen's Sno-Bliz ranked No. 1 in the best buy category. The Windsor Court was named top hotel (www.zagat.com).  On Feb. 20, the Grand Hotel Kempinski Geneva is set to unveil 230 rooms in time for the 77th International Motor Show in March. The hotel, on the lakefront and formerly known as the Noga Hotel, is undergoing a refurbishment that will include 200 additional rooms and conference facilities, all of which are scheduled to open in May (www.kempinski.com).</p>
+        <p>HILARY HOWARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

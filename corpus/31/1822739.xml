@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="31trsale" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822739"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EED7143FF932A05752C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSALIE R. RADOMSKY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Recent Sale  $31.6 million  Crosswest Office Center  399 Knollwood Road  White Plains  A real estate investment company has bought this 1986 four-story, 146,125-square-foot office building, near Exit 4 of Interstate 287.  Buyer: SL Green  Seller: RPW Group  Brokers: Andrew Merin and Patrick Colwell, Cushman &amp; Wakefield</p>
+        <p>Recent Lease  $35/sq. ft.  approximate annual rent $88,000  444 Park Avenue South  (at 30th Street)  Manhattan  An Indian global outsourcing firm, which provides services for the financial industry and research firms, has taken 2,500 square feet on the 12th floor of this 13-story building.  Tenant: Adventity Inc.  Tenant brokers: Marc S. Miller and Erica Rubinstein, Miller &amp; Partners  Landlord: GMD Realty Inc.  Landlord broker: Alex DeFortuna, Hudson Realty Enterprises Ltd.</p>
+        <p>For Sale or Lease  $1.6 million  or for lease for about $135,000 a year with a 10-year lease  26 Beaver Street  (between Broad and New Streets)  Manhattan  A 2,518-square-foot retail co-op encompassing the ground floor and a mezzanine is available in this 19-story residential building built in 1909 in the financial district.  Owner: Beaver Tower Inc.  Broker: Harris C. Bulow, Signature Partners L.L.C.</p>
+        <p>ROSALIE R. RADOMSKY</p>
+      </block>
+      <block class="full_text">
+        <p>Recent Sale  $31.6 million  Crosswest Office Center  399 Knollwood Road  White Plains  A real estate investment company has bought this 1986 four-story, 146,125-square-foot office building, near Exit 4 of Interstate 287.  Buyer: SL Green  Seller: RPW Group  Brokers: Andrew Merin and Patrick Colwell, Cushman &amp; Wakefield</p>
+        <p>Recent Lease  $35/sq. ft.  approximate annual rent $88,000  444 Park Avenue South  (at 30th Street)  Manhattan  An Indian global outsourcing firm, which provides services for the financial industry and research firms, has taken 2,500 square feet on the 12th floor of this 13-story building.  Tenant: Adventity Inc.  Tenant brokers: Marc S. Miller and Erica Rubinstein, Miller &amp; Partners  Landlord: GMD Realty Inc.  Landlord broker: Alex DeFortuna, Hudson Realty Enterprises Ltd.</p>
+        <p>For Sale or Lease  $1.6 million  or for lease for about $135,000 a year with a 10-year lease  26 Beaver Street  (between Broad and New Streets)  Manhattan  A 2,518-square-foot retail co-op encompassing the ground floor and a mezzanine is available in this 19-story residential building built in 1909 in the financial district.  Owner: Beaver Tower Inc.  Broker: Harris C. Bulow, Signature Partners L.L.C.</p>
+        <p>ROSALIE R. RADOMSKY  e-mail: realprop@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">e-mail: realprop@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

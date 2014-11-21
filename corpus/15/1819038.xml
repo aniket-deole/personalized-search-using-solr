@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Despite 11 Spades, Taking the No-Trump Path</title>
+    <meta content="15card" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/crosswords/bridge/15card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819038"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Alder, Phillip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE6DD1030F936A25752C0A9619C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Despite 11 Spades, Taking the No-Trump Path</hl1>
+        <hl2 class="online_headline">Despite 11 Spades, Taking the No-Trump Path</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+      <abstract>
+        <p>Phillip Alder bridge column on deal at Senior Pairs at Edgar Kaplan Winter Regional in Midtown Manhattan; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the Senior Pairs at the Edgar Kaplan Winter Regional in Midtown Manhattan on Dec. 27, Augie Boehm and Seymour Reich of New York finished first, ahead of Al Pagan of Hackensack, N.J., and Martin Weiss of Fort Lee, N.J.; and Michael Kallman and Jean Ludwig of New York.</p>
+        <p>The winners did well on the diagramed deal.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the Senior Pairs at the Edgar Kaplan Winter Regional in Midtown Manhattan on Dec. 27, Augie Boehm and Seymour Reich of New York finished first.</p>
+      </block>
+      <block class="full_text">
+        <p>In the Senior Pairs at the Edgar Kaplan Winter Regional in Midtown Manhattan on Dec. 27, Augie Boehm and Seymour Reich of New York finished first, ahead of Al Pagan of Hackensack, N.J., and Martin Weiss of Fort Lee, N.J.; and Michael Kallman and Jean Ludwig of New York.</p>
+        <p>The winners did well on the diagramed deal.</p>
+        <p>West opened one heart in the modern style. (When you are thinking of opening with minimum values, consider two things: Are you going to bid a suit that you are happy for partner to lead at trick one, in particular if he holds king-doubleton; and do you have a comfortable rebid whatever partner responds? This hand answers positively to these questions.) East's decision to pass is strange. With three-card heart support and a singleton, it would seem normal to raise to two hearts. If you had been South, what would you have done now?</p>
+        <p>You could jump to four spades or to three no-trump, trusting partner to have a few useful goodies. But Boehm decided to double, keeping his options open and hoping to learn something beneficial for the play.</p>
+        <p>Surprise, surprise: West passed, and partner advanced one spade. Now, not wanting a heart lead straight through his king-jack, South felt endplayed into bidding three no-trump. Boehm might also have been influenced by his own workmanlike book, ''Three Notrump in Depth'' (HNB Publishing, 2006). In it he discusses the bidding, declarer play and defense of our favorite contract.</p>
+        <p>Notice that four spades, even when played by South, should lose four tricks: two hearts, one diamond and one club.</p>
+        <p>If West had led fourth-highest from his longest and strongest, he would have defeated three no-trump. But he tried a sneak attack, selecting the club six. Declarer won with his jack and played the diamond king. To keep South to his contract, East had to hold up his ace, but understandably he did not, so Boehm took 10 tricks (six spades, two diamonds and two clubs) for a shared top.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

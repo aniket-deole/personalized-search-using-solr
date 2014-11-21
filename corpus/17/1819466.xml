@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Safeguarding Reactors</title>
+    <meta content="l17nuke" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819466"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <org class="indexing_service">Nuclear Regulatory Commission</org>
+        <org class="indexing_service">Homeland Security Department</org>
+        <person class="indexing_service">Klein, Dale E</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E5DF1130F934A25752C0A9619C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Safeguarding Reactors</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Dale E Klein, chairman of Nuclear Regulatory Commission, replies to Dec 25 article, saying nuclear industry did not ask commission for tougher design standards to deal with possibility of airplane attacks, but rather for last-minute change to proposed regulations for licensing new reactors currently in front of commission for vote; says commission's evaluations of new reactor designs could result in design modifications before construction</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Nuclear Firms Request Rules to Combat Aerial Attacks'' (news article, Dec. 25):</p>
+        <p>The Nuclear Regulatory Commission was considering aircraft impacts at new nuclear reactor designs long before the nuclear industry's letter of Dec. 8, 2006, which was portrayed as asking for new standards. That letter does not ask for tougher design standards. Instead, the industry asked us for a last-minute change to proposed regulations for licensing new reactors that are currently in front of the commission for a vote. New reactor licensing rules are not the place to take up security, which has its own set of rules.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Nuclear Firms Request Rules to Combat Aerial Attacks'' (news article, Dec. 25):</p>
+        <p>The Nuclear Regulatory Commission was considering aircraft impacts at new nuclear reactor designs long before the nuclear industry's letter of Dec. 8, 2006, which was portrayed as asking for new standards. That letter does not ask for tougher design standards. Instead, the industry asked us for a last-minute change to proposed regulations for licensing new reactors that are currently in front of the commission for a vote. New reactor licensing rules are not the place to take up security, which has its own set of rules.</p>
+        <p>The N.R.C. has already evaluated the operating reactor fleet's ability to safely deal with the aftermath of an aircraft impact, and my fellow commissioners and I are currently considering how to evaluate new reactor designs. These evaluations could result in design modifications before construction. The commission will consider all proposals -- those of its staff, industry and others -- and will accept public comment before we decide how best to move forward.</p>
+        <p>The rulemaking process is a carefully considered process that maintains the N.R.C.'s pledge to keep public health and safety as our top priority, along with conducting our work as publicly and transparently as possible.</p>
+        <p>Dale E. Klein  Chairman, U.S. Nuclear Regulatory Commission  Rockville, Md., Jan. 10, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

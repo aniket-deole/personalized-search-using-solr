@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Somebody Wake Up Aurora; She's Missing a Lot of Debuts</title>
+    <meta content="09beau" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/arts/dance/09beau.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817521"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">New York City Ballet</org>
+        <person class="indexing_service">Kourlas, Gia</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <person class="online_producer">Martins, Peter</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E5D91530F93AA35752C0A9619C8B63" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Somebody Wake Up Aurora; She's Missing a Lot of Debuts</hl1>
+        <hl2 class="online_headline">Somebody Wake Up Aurora; She’s Missing a Lot of Debuts</hl2>
+      </hedline>
+      <byline class="print_byline">By GIA KOURLAS</byline>
+      <byline class="normalized_byline">Kourlas, Gia</byline>
+      <abstract>
+        <p>Gia Kourlas reviews New York City Ballet production of Sleeping Beauty; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two more Auroras were given the magic wake-up kiss on Thursday and Friday at the New York State Theater in Peter Martins's ''Sleeping Beauty.''</p>
+        <p>Jenifer Ringer returned to the role on Thursday with emblematic, lyrical splendor. Performing opposite Philip Neal as her stiffly dignified Prince Désiré, Ms. Ringer was all loveliness; she is one of those ballerinas who seem to tease and caress the music. In the Rose Adagio she held her attitude poses admirably, finishing with a striking unsupported balance.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Performances on Thursday and Friday featured fine debuts by Sara Mearns, Melissa Barak and Sterling Hyltin.</p>
+      </block>
+      <block class="full_text">
+        <p>Two more Auroras were given the magic wake-up kiss on Thursday and Friday at the New York State Theater in Peter Martins's ''Sleeping Beauty.''</p>
+        <p>Jenifer Ringer returned to the role on Thursday with emblematic, lyrical splendor. Performing opposite Philip Neal as her stiffly dignified Prince Désiré, Ms. Ringer was all loveliness; she is one of those ballerinas who seem to tease and caress the music. In the Rose Adagio she held her attitude poses admirably, finishing with a striking unsupported balance.</p>
+        <p>On Friday Yvonne Borree was full of gumption as Aurora but lacked the fullness and the strength to keep up with the role's demands. While she began reasonably well, you could sense her confidence and technique faltering; in the Rose Adagio her balances and positions were tenuous.</p>
+        <p>As the Lilac Fairy, Thursday's cast featured the elegant Teresa Reichlen, who enhanced the role with her natural serenity as well as a newly acquired rigor in her technique. Making a debut in the same role on Friday was Sara Mearns, the image of refined wisdom and plush, velvet expansion.</p>
+        <p>Maria Kowroski, with her glamour and her flair for deadpan, lent Carabosse, the spurned fairy, a decided bad-girl allure. Melissa Barak, making her debut in the role on Friday, took a more full-bodied approach; her imaginative interpretation was full of wicked zest.</p>
+        <p>Other debuts included Savannah Lowery as Diamond on Thursday, and Rebecca Krohn the following night. Ms. Krohn lost her footing in a sweeping series of turns, and Ms. Lowery, with more sparkle, had difficulty coordinating her long, strong legs with her upper body.</p>
+        <p>Making a debut as Princess Florine on Thursday was Sterling Hyltin, who would have been delightful if not for her bizarre, sideways head movements. (Florine is a princess, not a bird, but on Friday Tiler Peck did the same.) Daniel Ulbricht's Bluebird was bristly, but Antonio Carmena on Friday came closer to soaring.</p>
+        <p>Among the Fairy debuts, Ashley Laracey (Tenderness) and Faye Arthurs (Generosity) held the stage better than most, but 19th-century classicism doesn't come easily to many at City Ballet.</p>
+        <p>The Danish dancer Nikolaj Hübbe, as the Prince on Friday in place of an injured Jared Angle, was an impeccable vision of nuanced acting. He, along with Ms. Mearns, was the real beauty.</p>
+        <p>The New York City Ballet performs ''The Sleeping Beauty'' through Sunday at the New York State Theater, Lincoln Center; (212) 870-5570 or nycballet.com.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

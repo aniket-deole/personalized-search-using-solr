@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Investors Start the New Year Indecisively</title>
+    <meta content="07data" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/business/yourmoney/07data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817153"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DataBank"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <person class="indexing_service">Sommer, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E1D91430F934A35752C0A9619C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Investors Start the New Year Indecisively</hl1>
+        <hl2 class="online_headline">Investors Start the New Year Indecisively</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+      <abstract>
+        <p>Round up of past week's stock market results; graphs (M)8</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The year got off to an uneven start on Wall Street last week, with the Dow Jones industrial average and the broader Standard &amp; Poor's 500-stock index both dropping modestly. But the Nasdaq composite index, in which technology stocks dominate, eked out a small gain.</p>
+        <p>Many analysts expect technology earnings to be strong this year. On Thursday, after Banc of America Securities issued a bullish earnings projection for Intel, the chip maker, tech shares rose sharply. But on Friday, the sector's shares dropped on a disappointing earnings report by Motorola, the cellphone maker, whose stock had a one-day loss of 7.8 percent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Many analysts expect technology earnings to be strong this year.</p>
+      </block>
+      <block class="full_text">
+        <p>The year got off to an uneven start on Wall Street last week, with the Dow Jones industrial average and the broader Standard &amp; Poor's 500-stock index both dropping modestly. But the Nasdaq composite index, in which technology stocks dominate, eked out a small gain.</p>
+        <p>Many analysts expect technology earnings to be strong this year. On Thursday, after Banc of America Securities issued a bullish earnings projection for Intel, the chip maker, tech shares rose sharply. But on Friday, the sector's shares dropped on a disappointing earnings report by Motorola, the cellphone maker, whose stock had a one-day loss of 7.8 percent.</p>
+        <p>For the week, Intel had the best performance in the Dow, with a gain of 4.2 percent. Goodyear Tire's gain of 10.9 percent led the S.&amp; P. 500. The company said it had reached an agreement with striking workers that would enable it to cut costs.</p>
+        <p>For the week, the Dow lost 65.14 points, or 0.5 percent, to close at 12,398.01. The S.&amp; P. 500 lost 8.59 points, or 0.6 percent, to close at 1,409.71. The Nasdaq composite index rose 18.96 points, or 0.8 percent, to close at 2,434.25.</p>
+        <p>The yield on the benchmark 10-year Treasury note slipped to 4.64 percent from 4.70 percent the previous week.</p>
+        <p>JEFF SOMMER</p>
+        <p>DataBank</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Pope Is Coming! The Pope Is Coming!</title>
+    <meta content="05popefloater" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1816537"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Benedict Xvi (Pope)</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E2DC1430F936A35752C0A9619C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Pope Is Coming! The Pope Is Coming!</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of nuns peering out windows of soup kitchen near Roman Colosseum in anticipation of visit from Pope Benedict XVI</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

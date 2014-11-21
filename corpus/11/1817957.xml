@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From Rural Afghanistan, Rugs That Support Villages</title>
+    <meta content="11rug" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817957"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: CARPETS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Carpets and Rugs</classifier>
+        <classifier class="indexing_service" type="descriptor">Currents (Times Column)</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <location class="indexing_service">Afghanistan</location>
+        <org class="indexing_service">Arzu (Afghan Collective)</org>
+        <org class="indexing_service">Abc Carpet and Home</org>
+        <person class="indexing_service">Green, Penelope</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carpets and Rugs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE7DB1230F932A25752C0A9619C8B63" item-length="237" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From Rural Afghanistan, Rugs That Support Villages</hl1>
+      </hedline>
+      <byline class="print_byline">By PENELOPE GREEN</byline>
+      <byline class="normalized_byline">Green, Penelope</byline>
+      <abstract>
+        <p>Arzu, not-for-profit collective of more than 700 Afghan women in rural villages, offers rugs through ABC Carpet and Home and other stores; photo (Currents column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Ethical shopping'' may become the buzz phrase of the year. While stores like Home Depot struggle with the labor practices of overseas vendors, high-end retailers like ABC Carpet &amp; Home and others are searching for ''ethical'' sources for furniture and crafts.</p>
+        <p>Arzu, a not-for-profit collective of over 700 Afghan women in eight rural villages, left and above, is a good example of what they're after. Beyond fair labor wages, the money Arzu rugs bring in provides for literacy classes, schools and health care. And the rugs are glorious looking: traditional and modern patterns in four collections, ranging from $900 to about $16,000.</p>
+      </block>
+      <block class="full_text">
+        <p>''Ethical shopping'' may become the buzz phrase of the year. While stores like Home Depot struggle with the labor practices of overseas vendors, high-end retailers like ABC Carpet &amp; Home and others are searching for ''ethical'' sources for furniture and crafts.</p>
+        <p>Arzu, a not-for-profit collective of over 700 Afghan women in eight rural villages, left and above, is a good example of what they're after. Beyond fair labor wages, the money Arzu rugs bring in provides for literacy classes, schools and health care. And the rugs are glorious looking: traditional and modern patterns in four collections, ranging from $900 to about $16,000.</p>
+        <p>''There's a 'woman-made' craft made in virtually every remote region in the world,'' said Connie K. Duckworth, a retired partner of Goldman Sachs who traveled to Afghanistan in 2002 as part of the U.S.-Afghan Women's Council and is now the president of Arzu. ''The key is to connect them with the biggest consumer market in the world, which is us.''</p>
+        <p>Laura Bush, who said she was impressed by the rugmakers' ''skill and their desire to work and support their families'' when she was in Afganistan in 2005, has purchased two rugs: a runner called Journey, top, from the Tribal Collection, for the White House, and a custom 12-by-12-foot rug called Hope, for the ranch in Texas, which arrived last month. Arzu rugs can be ordered at (312) 321-8663 or arzurugs.org.</p>
+        <p>PENELOPE GREEN</p>
+        <p>CURRENTS: CARPETS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

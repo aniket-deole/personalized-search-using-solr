@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Web</title>
+    <meta content="Upfront.t-1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822254"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6DB1E30F93BA15752C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Web</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Podcast: Scheduled to appear this week are Thomas Mallon on Thomas Hardy (in a 1913 photograph, above); Jim Harrison on Karl Shapiro; Dave Marsh on ''Something in the Air''; and Dwight Garner, senior editor, with best-seller news. Sam Tanenhaus, the editor of the Book Review, is the host.</p>
+        <p>First Chapters: Excerpts from ''Arlington Park,'' by Rachel Cusk; ''John Osborne,'' by John Heilpern; and other books.</p>
+        <p>Links: Read reviews of the books listed in the Editors' Choice and Paperback Row features.</p>
+        <p>Forums: Respond to a review, discuss literary topics or join a monthly Reading Group.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+      <block class="full_text">
+        <p>Podcast: Scheduled to appear this week are Thomas Mallon on Thomas Hardy (in a 1913 photograph, above); Jim Harrison on Karl Shapiro; Dave Marsh on ''Something in the Air''; and Dwight Garner, senior editor, with best-seller news. Sam Tanenhaus, the editor of the Book Review, is the host.</p>
+        <p>First Chapters: Excerpts from ''Arlington Park,'' by Rachel Cusk; ''John Osborne,'' by John Heilpern; and other books.</p>
+        <p>Links: Read reviews of the books listed in the Editors' Choice and Paperback Row features.</p>
+        <p>Forums: Respond to a review, discuss literary topics or join a monthly Reading Group.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

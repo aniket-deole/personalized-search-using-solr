@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Canada's Good Example</title>
+    <meta content="30tue2" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/opinion/30tue2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822578"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Torture</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom and Human Rights</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">Canada</location>
+        <location class="indexing_service">Syria</location>
+        <person class="indexing_service">Arar, Maher</person>
+        <person class="indexing_service">Leahy, Patrick J (Sen)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Syria</classifier>
+        <classifier class="online_producer" type="descriptor">Torture</classifier>
+        <classifier class="online_producer" type="descriptor">Deportation</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Torture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Canada</location>
+        <org class="online_producer">Justice Department</org>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">Harper, Stephen</person>
+        <person class="online_producer">Arar, Maher</person>
+        <person class="online_producer">Gonzales, Alberto R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E7D9143FF933A05752C0A9619C8B63" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Canada's Good Example</hl1>
+        <hl2 class="online_headline">Canada’s Good Example</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Sen Patrick Leahy, chairman of Senate Judiciary Committee, is right to demand that Bush administration face up to its bad behavior in case of Maher Arar, Canadian who was wrongly suspected of terrorist ties, deported to Syria and tortured as part of America's extraordinary rendition policy; says that policy should be renounced to restore reputation of United States as defender and protector of human rights</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Canada set an important example of decency when it offered a formal apology and compensation worth millions of dollars to a Syrian-born Canadian citizen who was a victim of President Bush's use of open-ended detention, summary deportation and even torture in the name of fighting terrorism.</p>
+        <p>Last week's announcement by Prime Minister Stephen Harper came more than four years after the nightmare began for the Canadian, Maher Arar, a 36-year-old software engineer. On his way back from a family vacation, he was detained by U.S. officials at Kennedy Airport on the basis of unsubstantiated information from the Canadian police. After being held in solitary confinement in a Brooklyn detention center and interrogated without proper access to legal counsel, he was sent to Syria, where he was imprisoned for nearly a year and tortured.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Canada set an important example of decency when it offered an apology and compensation to a Canadian citizen who was a victim of President Bush’s use of detention, deportation and torture in the name of fighting terrorism.</p>
+      </block>
+      <block class="full_text">
+        <p>Canada set an important example of decency when it offered a formal apology and compensation worth millions of dollars to a Syrian-born Canadian citizen who was a victim of President Bush's use of open-ended detention, summary deportation and even torture in the name of fighting terrorism.</p>
+        <p>Last week's announcement by Prime Minister Stephen Harper came more than four years after the nightmare began for the Canadian, Maher Arar, a 36-year-old software engineer. On his way back from a family vacation, he was detained by U.S. officials at Kennedy Airport on the basis of unsubstantiated information from the Canadian police. After being held in solitary confinement in a Brooklyn detention center and interrogated without proper access to legal counsel, he was sent to Syria, where he was imprisoned for nearly a year and tortured.</p>
+        <p>It was all part of a legally and morally unsupportable practice known as extraordinary rendition, the deportation of terrorism suspects to countries where the regimes are known to use torture and to disdain basic human rights protections.</p>
+        <p>Four months ago, a Canadian government panel concluded that Mr. Arar had never had a terrorism connection, and that Americans had misled Canada about their plans for him. The Bush administration stonewalled the inquiry. It has responded to a new Canadian request to remove Mr. Arar from a United States security watch list by rudely telling Canada, its democratic northern neighbor and strategic ally, to mind its own business.</p>
+        <p>Not only has the Bush administration refused to apologize to Mr. Arar, but Justice Department lawyers are also brandishing a dubious claim of state secrets and fighting a lawsuit brought by Mr. Arar in this country. Bush administration officials insist that they have ''new intelligence'' that justifies keeping Mr. Arar on the watch list. That intelligence has not been disclosed, but Canadian officials who have reviewed the information are unpersuaded.</p>
+        <p>Questioned about the Arar case at a recent Senate Judiciary Committee hearing, Attorney General Alberto Gonzales provided no specifics that would explain Mr. Arar's continued presence on the watch list, or why he had been deported to Syria in the first place. The committee's chairman, Senator Patrick Leahy, Democrat of Vermont, is right to demand that the administration face up to its bad behavior in this case and renounce its renditions policy.</p>
+        <p>This is not just about making amends with Canada, or doing the right thing by someone who appears to be an innocent man. It is a matter of trying to restore this country's reputation as a defender and protector of human rights.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

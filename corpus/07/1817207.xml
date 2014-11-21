@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="07edsnote" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/magazine/07edsnote.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817207"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00EFDF1530F934A35752C0A9619C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+        <hl2 class="online_headline">Editors’ Note</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in The Times Magazine on April 9 reported on the effects of laws that make all abortions illegal in El Salvador. One case the article described was that of Carmen Climaco, who is serving a 30-year prison sentence in El Salvador.</p>
+        <p>The article said she was convicted in 2002 of aggravated homicide, and it presented the recollections of the judge who adjudicated Ms. Climaco's case during the pretrial stage. The judge, Margarita Sanabria, told The Times that she believed that Ms. Climaco had an abortion when she was 18 weeks pregnant, and that she regretted allowing the case to be tried as a homicide. The judge based her legal decision on two reports by doctors.</p>
+        <p>The first, by a doctor who examined Ms. Climaco after the incident, concluded that she had been 18 weeks pregnant and had an abortion. A second medical report, based on an examination of the body that was found under Ms. Climaco's bed, concluded that her child was carried to term, was born alive and died in its first minutes of life.</p>
+        <p>The three-judge panel that received the case from Judge Sanabria concluded that the second report was more credible than the first, and the panel convicted Ms. Climaco of aggravated homicide.</p>
+        <p>The Times should have obtained the text of the ruling of the three-judge panel before the article was published, but did not vigorously pursue the document until details of the ruling were brought to the attention of editors in late November.</p>
+        <p>A picture caption with the article also misstated the facts of the ruling. Ms. Climaco was sentenced to 30 years in prison for a case that was initially thought to be an abortion but was later ruled to be a homicide; she was not given 30 years in prison for an abortion that was ruled a homicide.</p>
+        <p>Ms. Climaco is now preparing to appeal her conviction. The Times is continuing to investigate the case.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An article in The Times Magazine on April 9 reported on the effects of laws that make all abortions illegal in El Salvador. One case the article described was that of Carmen Climaco, who is serving a 30-year prison sentence in El Salvador.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in The Times Magazine on April 9 reported on the effects of laws that make all abortions illegal in El Salvador. One case the article described was that of Carmen Climaco, who is serving a 30-year prison sentence in El Salvador.</p>
+        <p>The article said she was convicted in 2002 of aggravated homicide, and it presented the recollections of the judge who adjudicated Ms. Climaco's case during the pretrial stage. The judge, Margarita Sanabria, told The Times that she believed that Ms. Climaco had an abortion when she was 18 weeks pregnant, and that she regretted allowing the case to be tried as a homicide. The judge based her legal decision on two reports by doctors.</p>
+        <p>The first, by a doctor who examined Ms. Climaco after the incident, concluded that she had been 18 weeks pregnant and had an abortion. A second medical report, based on an examination of the body that was found under Ms. Climaco's bed, concluded that her child was carried to term, was born alive and died in its first minutes of life.</p>
+        <p>The three-judge panel that received the case from Judge Sanabria concluded that the second report was more credible than the first, and the panel convicted Ms. Climaco of aggravated homicide.</p>
+        <p>The Times should have obtained the text of the ruling of the three-judge panel before the article was published, but did not vigorously pursue the document until details of the ruling were brought to the attention of editors in late November.</p>
+        <p>A picture caption with the article also misstated the facts of the ruling. Ms. Climaco was sentenced to 30 years in prison for a case that was initially thought to be an abortion but was later ruled to be a homicide; she was not given 30 years in prison for an abortion that was ruled a homicide.</p>
+        <p>Ms. Climaco is now preparing to appeal her conviction. The Times is continuing to investigate the case.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

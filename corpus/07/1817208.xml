@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="07qod" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817208"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EFDF1530F934A35752C0A9619C8B63" item-length="35" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''I kept thinking how life is cheap, how so many innocent people are killed.''</p>
+        <p>HADI FARIS, whose son Hamza, 11, was one of 34 boys killed in a 2005 suicide bombing in Baghdad. [16]</p>
+      </block>
+      <block class="full_text">
+        <p>''I kept thinking how life is cheap, how so many innocent people are killed.''</p>
+        <p>HADI FARIS, whose son Hamza, 11, was one of 34 boys killed in a 2005 suicide bombing in Baghdad. [16]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

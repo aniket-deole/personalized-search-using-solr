@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gloria Connors, 82; Fueled Son's Tennis Drive</title>
+    <meta content="13connors" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Obituaries; Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/13/sports/tennis/13connors.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818401"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Sports</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Gloria Connors</classifier>
+        <person class="indexing_service">Connors, Gloria</person>
+        <person class="indexing_service">Goldstein, Richard</person>
+        <person class="indexing_service">Connors, Jimmy</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+        <person class="online_producer">Connors, Jimmy</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2DA1330F930A25752C0A9619C8B63" item-length="379" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gloria Connors, 82; Fueled Son's Tennis Drive</hl1>
+        <hl2 class="online_headline">Gloria Connors, 82, Who Fueled Son’s Tennis Drive, Is Dead</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD GOLDSTEIN</byline>
+      <byline class="normalized_byline">Goldstein, Richard</byline>
+      <abstract>
+        <p>Gloria Connors, who honed skills that made her son Jimmy Connors one of greatest players in tennis history, dies at age 82; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gloria Connors, who forged the competitive fire and honed the skills that made her son Jimmy Connors one of the greatest players in tennis history, died Monday in Belleville, Ill. She was 82.</p>
+        <p>Her death was announced by the International Tennis Hall of Fame.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gloria Connors forged the competitive fire and honed the skills that made her son Jimmy Connors one of the greatest players in tennis history.</p>
+      </block>
+      <block class="full_text">
+        <p>Gloria Connors, who forged the competitive fire and honed the skills that made her son Jimmy Connors one of the greatest players in tennis history, died Monday in Belleville, Ill. She was 82.</p>
+        <p>Her death was announced by the International Tennis Hall of Fame.</p>
+        <p>Mrs. Connors competed in the United States national championships at Forest Hills in 1942 and 1943. She also taught tennis, emphasizing strong ground strokes.</p>
+        <p>Jimmy Connors, her No. 1 pupil, learned to play as a youngster on his family's backyard tennis court in East St. Louis, Ill., where his mother routinely overpowered him, hoping it would goad him into developing an aggressive attitude.</p>
+        <p>''See, Jimmy, even your own mother will do that to you,'' she was quoted as having said after slamming shots past him.</p>
+        <p>When Jimmy was a teenager, Mrs. Connors envisioned him as an elite player and took him to Southern California for tutelage by Pancho Segura, the renowned player and teacher. But she remained as his coach. ''All my life she taught me -- made me a world champion,'' Connors said upon his mother's death.</p>
+        <p>Ken Flach, a leading doubles player of the 1980s, took lessons from Mrs. Connors in St. Louis as a young player.</p>
+        <p>''I remember she used to sit on the baseline and watch me hit with Jimmy's brother Johnny,'' Flach told The Kansas City Star in 1993. ''She'd always be barking orders at me. She was a really good player herself, very feisty, very competitive.''</p>
+        <p>But the former tennis star Chris Evert, Jimmy Connors's onetime fiancée, told Sports Illustrated in 2004: ''Gloria wasn't pushy when it came to tennis, not like the fathers of some of the girls on the circuit nowadays. She just wanted Jimmy to be happy. He put enough pressure on himself.''</p>
+        <p>In addition to her sons Jimmy and John, Mrs. Connors is survived by five grandchildren.</p>
+        <p>When Jimmy Connors, a winner of eight Grand Slam singles titles, was inducted into the International Tennis Hall of Fame at Newport, R.I., in 1998, his mother was on hand. He told of his debt to her and to her own mother, Bertha Thompson, whom he called Two-Mom and who also coached him in childhood.</p>
+        <p>As Connors put it, ''They allowed me to reach my dreams.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Mystery On the Radio: Stern's Show Is Heard Free</title>
+    <meta content="26stern" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/26/nyregion/26stern.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821554"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Censorship</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Federal Communications Commission</org>
+        <org class="indexing_service">Sirius Satellite Radio Inc</org>
+        <person class="indexing_service">Steinberg, Jacques</person>
+        <person class="indexing_service">Stern, Howard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Censorship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <location class="online_producer">Bronx (NYC)</location>
+        <person class="online_producer">Stern, Howard</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7DD173FF935A15752C0A9619C8B63" item-length="555" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Mystery On the Radio: Stern's Show Is Heard Free</hl1>
+        <hl2 class="online_headline">A Mystery Heard on Radio: It’s Stern’s Show, No Charge</hl2>
+      </hedline>
+      <byline class="print_byline">By JACQUES STEINBERG</byline>
+      <byline class="normalized_byline">Steinberg, Jacques</byline>
+      <abstract>
+        <p>For at least 10 minutes on morning of Jan 25, some listeners in New York City region who were tuned into 88.1 FM, unused frequency, heard Howard Stern morning broadcast, radio show available only to Sirius satellite subscribers; Stern moved show from free commercial airwaves to satellite transmission to avoid interference from Federal Communications Commission; theories explaining mysterious transmission discussed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Howard Stern, whose satellite radio show is typically available only to subscribers willing to pay $12.95 a month, has sworn that he will never return his morning show to the free commercial airwaves.</p>
+        <p>But for 10 minutes yesterday morning, at least, a listener parked near 239th Street in the Bronx who happened to pause on 88.1 FM on a car radio heard the unmistakable voices of Mr. Stern and his sidekick, Robin Quivers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For a few minutes in the Bronx, the voice of Howard Stern, who has left the free commercial airwaves, was heard at 88.1 FM on the radio dial.</p>
+      </block>
+      <block class="full_text">
+        <p>Howard Stern, whose satellite radio show is typically available only to subscribers willing to pay $12.95 a month, has sworn that he will never return his morning show to the free commercial airwaves.</p>
+        <p>But for 10 minutes yesterday morning, at least, a listener parked near 239th Street in the Bronx who happened to pause on 88.1 FM on a car radio heard the unmistakable voices of Mr. Stern and his sidekick, Robin Quivers.</p>
+        <p>The signal was crystal clear, and peppered with the kind of language that used to draw the host heavy fines from the Federal Communications Commission, before Mr. Stern went to satellite, where the content is beyond the agency's jurisdiction.</p>
+        <p>Had the radio host made an unannounced return?</p>
+        <p>Probably not, though his reappearance -- at least at that moment (about 10:15 a.m.) on that particular car radio -- is something of a mystery.</p>
+        <p>There are, however, several possible explanations.</p>
+        <p>In one, the unwitting culprit may have been a nearby driver who had subscribed to Sirius, which carries Mr. Stern's show, and had been listening in his or her car -- using an adapter that would have transmitted the show from a portable satellite device onto the car's radio via an unused frequency (typically at the low end of the dial, at or near 88.1).</p>
+        <p>Last year, the F.C.C. received complaints that drivers within close proximity to other cars were picking up satellite radio signals, because the adapters, known as modulators, were so powerful. Since then, Sirius and its main rival, XM, have worked with their manufacturers to, in effect, tone down those transmitters.</p>
+        <p>Patrick Reilly, a Sirius spokesman, said yesterday, ''All satellite radios need to be approved by and in compliance with applicable F.C.C. rules, and all of our radios are compliant.'' Still, some of the older, more powerful transmitters probably remain in use.</p>
+        <p>Another possibility would involve a pirate radio station, broadcasting a bootleg version of Mr. Stern's show without permission. Last January, not long after Mr. Stern arrived on Sirius, The Daily News said the show was being heard on otherwise unused frequencies in Brooklyn and New Jersey. Sirius later sought to stop those transmissions by complaining to the F.C.C., though it is possible that they or others could have resurfaced.</p>
+        <p>One potential suspect that would seem to have been ruled out yesterday is a tiny Long Island station that broadcasts adult contemporary music on the frequency 88.1, under the call letters WXBA. It is operated by the public high school in Brentwood, in Suffolk County.</p>
+        <p>Its signal can, typically, be heard for only a few miles -- making it unlikely to come anywhere close to the Bronx. Regardless, Russell Skadl, the station's faculty adviser, seemed to have an airtight alibi. At about 10:15 yesterday, he said, listeners would have heard it playing Christopher Cross's ''Ride Like the Wind'' followed by Carly Simon's ''You're So Vain.''</p>
+        <p>Asked if his students might have been playing some prank, Mr. Skadl said, ''I was the only one here at the time.''</p>
+        <p>Still, Mr. Skadl provided an account that could further deepen the mystery. While driving to work yesterday, east on Sunrise Highway, Mr. Skadl said that he suddenly had difficulty hearing his own station's signal.</p>
+        <p>Instead, he said, he clearly heard Mr. Stern's voice, though, after several minutes, it disappeared when he exited the highway.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

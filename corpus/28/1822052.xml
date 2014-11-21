@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Goldface Names</title>
+    <meta content="28goyard" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822052"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Handbags and Purses</classifier>
+        <org class="indexing_service">Goyard (Co)</org>
+        <person class="indexing_service">Guerrero, Susan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E3DC173FF93BA15752C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Goldface Names</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN GUERRERO</byline>
+      <byline class="normalized_byline">Guerrero, Susan</byline>
+      <abstract>
+        <p>French handbag maker Goyard offers personalized bags; photo (Pulse column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Goyard, the French maker of must-have handbags and totes, may have out-luxed itself. Historically, customers have personalized the company's carryalls with hand-painted monograms and stripes in a palette of bright racing-stable colors. Now, Goyard has raised the glamour ante, offering personalization in eye-catching gold and silver; the Goyard Boutique at Bergdorf Goodman (212-872-2517) will start taking orders for the new shades around Feb. 10. ''The new metallic colors are certain to create a frenzy on Fifth Avenue,'' said Edwin Burstell, a senior vice president of the store. The St. Jeanne bag in medium is $1,490 to $1,940. As for its gilded and silvered adornments -- which take about a month to complete -- three initials will set you back $190, stripes at least $310.</p>
+        <p>SUSAN GUERRERO</p>
+      </block>
+      <block class="full_text">
+        <p>Goyard, the French maker of must-have handbags and totes, may have out-luxed itself. Historically, customers have personalized the company's carryalls with hand-painted monograms and stripes in a palette of bright racing-stable colors. Now, Goyard has raised the glamour ante, offering personalization in eye-catching gold and silver; the Goyard Boutique at Bergdorf Goodman (212-872-2517) will start taking orders for the new shades around Feb. 10. ''The new metallic colors are certain to create a frenzy on Fifth Avenue,'' said Edwin Burstell, a senior vice president of the store. The St. Jeanne bag in medium is $1,490 to $1,940. As for its gilded and silvered adornments -- which take about a month to complete -- three initials will set you back $190, stripes at least $310.</p>
+        <p>SUSAN GUERRERO  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

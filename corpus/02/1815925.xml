@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Plan for Darfur</title>
+    <meta content="l02darfur" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815925"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <location class="indexing_service">Sudan</location>
+        <location class="indexing_service">Darfur (Sudan)</location>
+        <person class="indexing_service">Teitelbaum, H David (Rabbi)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Sudan</classifier>
+        <classifier class="online_producer" type="general_descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E2D61630F931A35752C0A9619C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Plan for Darfur</hl1>
+      </hedline>
+      <abstract>
+        <p>Rabbi H David Teitelbaum letter says Americans can no longer remain innocent bystanders to genocide in Darfur (Dec 23 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I was heartened by ''No Sanctuary'' (editorial, Dec. 23), in which you urge long-overdue action on Sudan.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I was heartened by ''No Sanctuary'' (editorial, Dec. 23), in which you urge long-overdue action on Sudan.</p>
+        <p>Whether it's sending United Nations peacekeepers into Darfur; freezing the assets of all Sudanese officials involved in the genocide; imposing a no-flight zone over Darfur; or using all three measures, we can no longer remain innocent bystanders to genocide.</p>
+        <p>(Rabbi) H. David Teitelbaum  Redwood City, Calif., Dec. 23, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

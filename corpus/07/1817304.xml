@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Top This: A Mercedes S-Class Convertible</title>
+    <meta content="07NUGGETmercedes" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817304"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">Zetsche, Dieter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E3DD1130F934A35752C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Top This: A Mercedes S-Class Convertible</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM DIEM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Sunday: Mercedes-Benz Ocean Drive design study</p>
+        <p>Is it real? It's a dream car now, based on the S600 sedan, but seemingly destined for production.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Sunday: Mercedes-Benz Ocean Drive design study</p>
+        <p>Is it real? It's a dream car now, based on the S600 sedan, but seemingly destined for production.</p>
+        <p>What's the point? The upper-crust of Mercedes-Benz customers might want to get a sun tan in a four-door convertible with a folding cloth top -- and they might not want a Maybach.</p>
+        <p>What they said: ''It could be an automotive star of the future,'' Dieter Zetsche, chief executive of DaimlerChrysler, said. ''It will inspire all of us to dream of spring and summer in the middle of this relatively mild winter.''</p>
+        <p>What they didn't say: Open cars are sexy in a parade, but given 21st-century security concerns the folks waving from the back seat are more likely to be pop icons than politicians. Emmitt Smith, the ex-Dallas Cowboy, and the dancer Cheryl Burke, winners of TV's ''Dancing with the Stars,'' filled the role at the introduction.</p>
+        <p>What makes it tick? The same 5.5-liter 517-horsepower twin-turbo V-12 from the S600, with a new engine cover design.</p>
+        <p>How much, how soon? Figure $200,000, in round numbers.</p>
+        <p>How's it look? A beautiful low sleek look, with a coupé windshield that slopes back 2 degrees more than the sedan version.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

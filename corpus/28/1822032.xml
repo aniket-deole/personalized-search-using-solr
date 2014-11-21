@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Serious Money: Top Deals at Four Auctions</title>
+    <meta content="28DOLLARS" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/automobiles/collectibles/28DOLLARS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822032"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COLLECTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <org class="indexing_service">General Motors Corp</org>
+        <person class="indexing_service">Garrett, Jerry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E0D6163FF93BA15752C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Serious Money: Top Deals at Four Auctions</hl1>
+        <hl2 class="online_headline">Serious Money: Top Deals at Four Auctions</hl2>
+      </hedline>
+      <byline class="print_byline">By KEITH MARTIN</byline>
+      <abstract>
+        <p>General Motors revamps its design system to create more interaction and cooperation among 11 studios in US and abroad; photos of GM concept cars, including two with bold retro look: Buick Blackhawk, which was disowned by GM despite critical acclaim it received in 2000, and Holden Efijy (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>These cars brought the highest prices at each of the four recent Arizona auctions:</p>
+        <p>1966 SHELBY COBRA SUPER SNAKE ($5.5 million at Barrett-Jackson) Promoted as the ''Cobra to end all Cobras,'' this Shelby has a supercharged 427 V-8 said to develop more than 800 horsepower. One of two modified with superchargers, it is the only remaining original.</p>
+        <p>1937 DUESENBERG MODEL SJ CABRIOLET ($2.8 million at RM Auctions) The last Duesenberg built, described by the auction company as the last unrestored Duesenberg. Designed by the artist Rudolf Bauer with bright colors and exaggerated shapes, it was stored for 45 years after Bauer's death in 1953. The car is original down to the whitewall tires, chrome, paint, interior and World War II gas-rationing stamp.</p>
+        <p>1965 SHELBY DAYTONA SUPER COUPE ($1.32 million at Russo &amp; Steele) The only Cobra coupe built with the 427 V-8, this car was never completed by Shelby American. Sold in pieces when the company was liquidated, it was eventually built in Colorado and is now operational. Russo &amp; Steele previously sold this car for $1.46 million in August 2005.</p>
+        <p>1957 CHEVY NOMAD CUSTOM  ($113,400 at Silver) Fitted with a Corvette suspension, 350 V-8 and 4-speed automatic, this much-modified wagon combined a classic look with modern performance.</p>
+        <p>KEITH MARTIN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>These four cars brought the highest prices at each of the recent Arizona auctions.</p>
+      </block>
+      <block class="full_text">
+        <p>These cars brought the highest prices at each of the four recent Arizona auctions:</p>
+        <p>1966 SHELBY COBRA SUPER SNAKE ($5.5 million at Barrett-Jackson) Promoted as the ''Cobra to end all Cobras,'' this Shelby has a supercharged 427 V-8 said to develop more than 800 horsepower. One of two modified with superchargers, it is the only remaining original.</p>
+        <p>1937 DUESENBERG MODEL SJ CABRIOLET ($2.8 million at RM Auctions) The last Duesenberg built, described by the auction company as the last unrestored Duesenberg. Designed by the artist Rudolf Bauer with bright colors and exaggerated shapes, it was stored for 45 years after Bauer's death in 1953. The car is original down to the whitewall tires, chrome, paint, interior and World War II gas-rationing stamp.</p>
+        <p>1965 SHELBY DAYTONA SUPER COUPE ($1.32 million at Russo &amp; Steele) The only Cobra coupe built with the 427 V-8, this car was never completed by Shelby American. Sold in pieces when the company was liquidated, it was eventually built in Colorado and is now operational. Russo &amp; Steele previously sold this car for $1.46 million in August 2005.</p>
+        <p>1957 CHEVY NOMAD CUSTOM  ($113,400 at Silver) Fitted with a Corvette suspension, 350 V-8 and 4-speed automatic, this much-modified wagon combined a classic look with modern performance.</p>
+        <p>KEITH MARTIN  COLLECTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

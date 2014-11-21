@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making Modern Horsepower the Old-Fashioned Way</title>
+    <meta content="14VIPER" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/automobiles/14VIPER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818781"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DETROIT AUTO SHOW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Engines</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="indexing_service" type="descriptor">North American International Auto Show</classifier>
+        <location class="indexing_service">Detroit (Mich)</location>
+        <org class="indexing_service">Daimlerchrysler Ag</org>
+        <person class="indexing_service">Sherman, Don</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan/Detroit</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Engines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Engines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E1DF1330F937A25752C0A9619C8B63" item-length="1060" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making Modern Horsepower the Old-Fashioned Way</hl1>
+        <hl2 class="online_headline">Making Modern Horsepower the Old-Fashioned Way</hl2>
+      </hedline>
+      <byline class="print_byline">By DON SHERMAN</byline>
+      <byline class="normalized_byline">Sherman, Don</byline>
+      <abstract>
+        <p>Monstrous new DaimlerChrysler Viper engine on display at North American International Auto Show has full complement of bells and whistles, like variable valve timing, which makes it possible to tune engine for both high power and low emissions with some carefully controlled adjustments; challenges of increasing power while making engines seem small and economical discussed; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT a Detroit auto show press conference last week, Dodge announced that for 2008 the Viper SRT10 would get a boost of 90 horsepower -- to 600, from a mere 510. Some reporters in the crowd might have thought that DaimlerChrysler engineers had at last modernized the Viper's brute-force V-10 engine with dual overhead cams and four-valve cylinder heads.</p>
+        <p>They would have been wrong.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dodge is unveiling a new 600-horsepower engine in its Viper, providing more evidence that the venerable pushrod engine is still alive and breathing.</p>
+      </block>
+      <block class="full_text">
+        <p>AT a Detroit auto show press conference last week, Dodge announced that for 2008 the Viper SRT10 would get a boost of 90 horsepower -- to 600, from a mere 510. Some reporters in the crowd might have thought that DaimlerChrysler engineers had at last modernized the Viper's brute-force V-10 engine with dual overhead cams and four-valve cylinder heads.</p>
+        <p>They would have been wrong.</p>
+        <p>Instead, they learned, the monstrous Viper engine would continue to breathe through two valves in each cylinder, and those valves would still be opened by pushrods, a venerable mechanism that has all but vanished from modern cars. Still, the Viper V-10 would have a full complement of technology tricks inside, like variable valve timing, which makes it possible to tune the engine for both high power and low emissions with a few computer-controlled adjustments.</p>
+        <p>High horsepower and high technology usually march in lockstep, advances in performance arriving whenever mechanical innovations permit. Fuel injection, turbochargers and four-valve-per-cylinder designs have all made it possible for automakers to deliver the power that makes drivers reach for their checkbooks, yet remain in compliance with air-quality regulations and often with little penalty in fuel economy.</p>
+        <p>After the energy squeezes of the 1970s, the future of automobiles seemed to be small -- downsized cars and trucks powered by engines with fewer cylinders and smaller displacements. To compensate for the reduction in brawn, engineers set out to fine-tune the coming generations of engines. Inevitably, producing V-8 power from a four- or six-cylinder engine pushed the engineers in the direction of higher engine speeds -- more revolutions per minute to extract equivalent performance on less fuel.</p>
+        <p>Of course, imports from Europe, where gasoline has long been expensive, were already using overhead cam engines to extract the best performance from their small size. Moving all the mechanical parts that open and close the valves to the top of the engine -- thus eliminating the pushrods -- yields a stiffer valvetrain that in turn makes it possible to spin the engine faster, a key to maximum power.</p>
+        <p>Stacking the cams on top of the cylinder head also clears the way for larger, more efficient ports, the pathways that direct gases into and away from the combustion chamber. A third benefit is that operating four valves for each cylinder is impractical with pushrods but a cinch with overhead cams. Doubling the number of valves can improve combustion, lower exhaust emissions and increase mileage.</p>
+        <p>But bucking this prevailing wisdom has long been a Motor City specialty. Wouldn't you know it, Detroit's seemingly old-tech pushrod engines, also called overhead valve designs, have become horsepower heroes. It's as if the 505-horse V-8 that lets the Corvette Z06 run with Ferraris, the engines in G.M.'s bread-and-butter full-size trucks, Chrysler Group's Hemi V-8, and the Dodge Viper's thundering V-10 never got the memo that pushrods are obsolete.</p>
+        <p>So why do pushrods persist? Because they are superior in certain areas and inventors keep coming up with fresh ideas to keep them in the game.</p>
+        <p>Packaging is where the overhead valve engines trounce the overhead cam alternatives. Extra camshafts, and the chains or belts needed to drive them, increase weight, cost and complexity -- but especially size. Pushrod engines, notably V-8's, can fit in spaces that may be too small for an overhead cam design. Because the top of a pushrod engine is so compact, engineers can load the bottom half with larger pistons that sweep through a longer stroke.</p>
+        <p>As an example, consider two current cars with V-8 engines of about 500-horsepower, the 7-liter Corvette Z06, a classic pushrod design, and the 4.3-liter Ferrari F430, a high-tech dual-cam engine. While the horsepower is similar, the Corvette V-8 produces 470 pound-feet of torque compared with the Ferrari's tepid 343 pound-feet. Torque is what spins the tires when a rambunctious driver tromps the gas pedal, and it's what helps pull a heavy trailer over a mountain pass.</p>
+        <p>The Viper holsters a magnum V-10 under its low hood. Along with the arrival of new technology deep inside, this engine grows to a strapping 8.4 liters for 2008. Extra camshafts aren't necessary when you've got 10 huge pistons answering every nudge of the throttle.</p>
+        <p>The challenge is to make large engines seem small and economical at the gas pumps. To do that, G.M. and DaimlerChrysler disable half of the cylinders in some of their V-8s during cruising, when all their muscle isn't required. Cylinder deactivation is easy to accomplish with pushrods, but more difficult with overhead cams.</p>
+        <p>To coax their pushrod designs to rev higher without running out of breath, engineers have designed lighter, stiffer, lower-friction valvetrains. Pushrod V-8 engines racing in Nascar routinely rev to 9,000 rpm. Thanks to natural trickle-down, the lightweight valves, low-friction lifters and high-tension valve springs made of exotic steels have filtered into production pushrod engines, giving them the speed and stamina to compete with Ferrari's V-8. While the F-430's screaming 8,500 r.p.m. maximum speed is still out of reach, the 7,000-r.p.m. redline of the Corvette outdoes the 6,600-r.p.m. maximum of the Porsche 911 Turbo. The new Viper engine revs to 6,200 r.p.m., 200 more than before.</p>
+        <p>To fill the cylinders with the air and fuel needed to sustain high-speed operation, Detroit engine designers have packed larger intake ports into the space available between the pushrods. Lacking the room to go wider, engineers increased the capacity of the intake passages by making them taller.</p>
+        <p>Variable valve timing is another emerging technology that engineers employ to minimize emissions, improve smoothness and enhance power. Changing the timing of specific operations -- when valves open and close in relation to each other and to the position of the pistons -- is not difficult in a dual-cam engine, which controls the intake and exhaust valves independently.</p>
+        <p>Accomplishing variable valve timing with a single camshaft is a different matter entirely, because the lobes that lift the valves are locked in relation to each other.</p>
+        <p>Engineers at Dodge, working with the British firm Mechadyne, redesigned the camshaft to create two concentric shafts, one inside the other. The hollow outer tube holds the intake lobes while an inner tube carries the exhaust lobes.</p>
+        <p>This allows continual adjustment of valve operation, according to the needs of the engine at different speeds.</p>
+        <p>The cam-within-a-cam concept has existed for decades, but perfecting it for production might just add another decade to the life of the pushrod engine.</p>
+        <p>DETROIT AUTO SHOW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

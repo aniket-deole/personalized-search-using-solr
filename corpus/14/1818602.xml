@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What Wills Meant</title>
+    <meta content="Letters.t-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818602"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Wills, Garry</person>
+        <person class="indexing_service">Linker, Damon</person>
+        <object.title class="indexing_service">What Paul Meant (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E1DA1430F937A25752C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What Wills Meant</hl1>
+      </hedline>
+      <abstract>
+        <p>Garry Wills letter comments on Damon Linker Dec 31 review of his book What Paul Meant</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am grateful for Damon Linker's generous and generally accurate review of my ''What Paul Meant'' (Dec. 31).But he has no grounds for saying that I ''reject ... the early church councils, the church fathers and even, in many instances, the Gospels themselves.'' I invoked the early creeds and councils as a basis for my faith in ''Why I Am a Catholic,'' have written often of the church father Augustine, and am now composing a book on the authenticity of the four Gospels, a point that was implicit in my ''What Jesus Meant'' but whose reasons I am now explicitly expounding.</p>
+        <p>Garry Wills  Evanston, Ill.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am grateful for Damon Linker's generous and generally accurate review of my ''What Paul Meant'' (Dec. 31).But he has no grounds for saying that I ''reject ... the early church councils, the church fathers and even, in many instances, the Gospels themselves.'' I invoked the early creeds and councils as a basis for my faith in ''Why I Am a Catholic,'' have written often of the church father Augustine, and am now composing a book on the authenticity of the four Gospels, a point that was implicit in my ''What Jesus Meant'' but whose reasons I am now explicitly expounding.</p>
+        <p>Garry Wills  Evanston, Ill.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

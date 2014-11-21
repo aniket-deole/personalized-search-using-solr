@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stage Mother</title>
+    <meta content="21letters.t-5" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Theater; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820270"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <person class="indexing_service">Cohen, Randy</person>
+        <person class="indexing_service">ullian, peter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE1DC1130F932A15752C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stage Mother</hl1>
+      </hedline>
+      <abstract>
+        <p>Jan 7 Ethicist column endorsing unauthorized editing of play by theater group at seniors' community</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A playwright's work is his or her intellectual property as long as it remains in copyright (The Ethicist, Jan. 7). Cutting or revising it is like renting a house and then renovating without permission. The Ethicist claims that ''if a play is well known, no production, however nutty, can do its author much harm.'' But this assumes that the entire audience will be familiar with the play in its intended form. This is not always the case. It's one thing if an audience encounters a bad production, but another one entirely if it encounters a version of the show that is not even representative of the playwright's work.</p>
+        <p>Peter Ullian</p>
+        <p>Beacon, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>A playwright's work is his or her intellectual property as long as it remains in copyright (The Ethicist, Jan. 7). Cutting or revising it is like renting a house and then renovating without permission. The Ethicist claims that ''if a play is well known, no production, however nutty, can do its author much harm.'' But this assumes that the entire audience will be familiar with the play in its intended form. This is not always the case. It's one thing if an audience encounters a bad production, but another one entirely if it encounters a version of the show that is not even representative of the playwright's work.</p>
+        <p>Peter Ullian</p>
+        <p>Beacon, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

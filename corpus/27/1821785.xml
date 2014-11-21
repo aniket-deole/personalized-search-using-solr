@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chemical Security: How the Industry Sees It</title>
+    <meta content="l27chemical" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821785"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Chemicals</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <org class="indexing_service">American Chemistry Council</org>
+        <person class="indexing_service">Gerard, Jack N</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E6D9173FF934A15752C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chemical Security: How the Industry Sees It</hl1>
+      </hedline>
+      <abstract>
+        <p>American Chemistry Council pres Jack N Gerard letter notes that American Chemistry Council companies have voluntarily invested over $3.7 billion enhancing security at their facilities since 9/11 (Jan 23 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Chemical Insecurity'' (editorial, Jan. 23):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Chemical Insecurity'' (editorial, Jan. 23):</p>
+        <p>Without government prompting, American Chemistry Council companies have voluntarily invested more than $3.7 billion enhancing security at their facilities since 9/11 under the A.C.C.'s Responsible CareSecurity Code.</p>
+        <p>The council's Security Code is so robust that officials in New Jersey, New York and Maryland developed their programs using our code as their guide.</p>
+        <p>Our members comply with these state programs, and we do not believe that the new federal law pre-empts them in their current form.</p>
+        <p>Far from trying to ''ward off any significant new federal rules'' that would make our members spend money on security, we led the charge for over three years to pass federal chemical security legislation.</p>
+        <p>As a result of last year's law, the Department of Homeland Security has proposed an important rule requiring thousands of chemical facilities to implement security measures meeting 19 risk-based performance standards.</p>
+        <p>Instead of calling for more Congressional debate, the best way to protect America is to support this new rule, which will rapidly and comprehensively improve security at chemical facilities nationwide.</p>
+        <p>Jack N. Gerard  President and Chief Executive  American Chemistry Council  Arlington, Va., Jan. 24, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

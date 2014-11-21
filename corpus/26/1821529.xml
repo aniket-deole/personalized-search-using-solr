@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What a Teacher Needs</title>
+    <meta content="l26classroom" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821529"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Teachers and School Employees</classifier>
+        <org class="indexing_service">United Federation of Teachers</org>
+        <person class="indexing_service">Moore, Tom</person>
+        <person class="indexing_service">Weingarten, Randi</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E2DE173FF935A15752C0A9619C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What a Teacher Needs</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Randi Weingarten, president of United Federation of Teachers, says effective teachers need smaller class sizes and safe, supportive environment (Jan 19 Tom Moore Op-Ed article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bravo to Tom Moore for ''Classroom Distinctions'' (Op-Ed, Jan. 19)!</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bravo to Tom Moore for ''Classroom Distinctions'' (Op-Ed, Jan. 19)!</p>
+        <p>Sainthood and martyrdom should not be prerequisites for successful teaching in high-poverty schools. While many teachers qualify on both counts, that is not the sine qua non for making a difference in a child's life.</p>
+        <p>Effective teachers will tell you they need smaller class sizes and a safe, adequately staffed, supportive environment where they are treated as professionals and asked for input.</p>
+        <p>That's what we fight for every day; and it's the least we can do to help our teachers help our students.</p>
+        <p>Randi Weingarten  President  United Federation of Teachers  New York, Jan. 22, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

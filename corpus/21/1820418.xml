@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Hungry Stroller</title>
+    <meta content="21rest" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/dining/21rest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820418"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOOD EATING/NOHO"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">Noho (NYC)</location>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Good Eating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E2DB1E30F932A15752C0A9619C8B63" item-length="432" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Hungry Stroller</hl1>
+        <hl2 class="online_headline">The Hungry Stroller</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by Kris Ensminger</byline>
+      <abstract>
+        <p>Excerpts from previously published reviews of restaurants in NoHo section of Manhattan (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Less than a square mile in area, NoHo, short for north of Houston, is a stroller's paradise, with wide cobblestone streets and few cars. Though zoning rules have limited the types of businesses that can occupy ground floors, restaurants are trickling in, broadening the food options.</p>
+        <p>BIANCA  (212) 260-4666; 5 Bleecker Street (Bowery); $; Diner's Journal: 2/20/04.  Bianca, an inexpensive and charming neighborhood restaurant, evokes an Italian latteria, or dairy store, as outfitted by someone with a keen eye for architectural detail.</p>
+        <p>The menu is from Emilia-Romagna, in Northern Italy, with plates of delicate, fragrant gnocco fritto, or yeasty, pillow-shaped fritters, served alongside dabs of stracchino cheese or fans of salume: coppa, mortadella, salami and silky prosciutto di Parma.</p>
+        <p>CHINATOWN BRASSERIE  * [Rating: One Star]  (212) 533-7000; 380 Lafayette Street (Great Jones Street); $$$; Review: 8/9/06.  Chinatown Brasserie takes dim sum seriously. The executive chef Joe Ng's thoughtful, prolific output includes not only soup dumplings but also steamed dumplings filled with shrimp and snow pea leaf. Chinatown Brasserie offers pork pot stickers as well as green chili peppers stuffed with shrimp and encased in tempura batter.</p>
+        <p>HEDEH  (212) 473-8458; 57 Great Jones Street (Bowery); $$; Article: 9/29/04.  Hedeh's sleek bar is decorated with rows of sake bottles. The dining room has a menu of sushi and sashimi along with fusion dishes like shrimp with spinach and red miso sauce; salmon with red beans in a soy milk sauce; fillet of beef with chive oil and tofu sauce; and green-tea crème brûlée.</p>
+        <p>IL BUCO  * [Rating: One Star]  (212) 533-1932; 47 Bond Street (Lafayette Street); $$$; Review: 5/3/96, Diner's Journal: 10/21/05.  The building that houses Il Buco once belonged to a friend of Edgar Allan Poe, and the cellar supposedly inspired ''The Cask of Amontillado.'' The Mediterranean menu is as beguiling as the antiques-strewn dining room. Most of a short list of main courses changes daily, but there are some standards like slow-roasted heritage pork with wild arugula salad and quince mustard; and grilled sirloin steak with red wine, onion marmalade, Yukon potatoes and romesco.</p>
+        <p>SPARKY'S ALL-AMERICAN FOOD  (212) 334-3035; 333 Lafayette (Bleecker Street); $; $25 and Under: 12/28/05.  Sparky's steamed organic all-beef hot dogs, from Dines Farms in Oak Hill, N.Y., nestled in fresh-baked buns from Amy's Bread, are the top of the pile. Juicy without being mushy, they can practically be eaten plain, though Sparky's offers dressed-up dogs, including one with blue cheese and Buffalo wings sauce and the Sparky dog with chili, cheese, bacon and onions.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Manhattan’s NoHo neighborhood, less than a square mile in area, is a stroller’s paradise offering a range of great restaurant options.</p>
+      </block>
+      <block class="full_text">
+        <p>Less than a square mile in area, NoHo, short for north of Houston, is a stroller's paradise, with wide cobblestone streets and few cars. Though zoning rules have limited the types of businesses that can occupy ground floors, restaurants are trickling in, broadening the food options.</p>
+        <p>BIANCA  (212) 260-4666; 5 Bleecker Street (Bowery); $; Diner's Journal: 2/20/04.  Bianca, an inexpensive and charming neighborhood restaurant, evokes an Italian latteria, or dairy store, as outfitted by someone with a keen eye for architectural detail.</p>
+        <p>The menu is from Emilia-Romagna, in Northern Italy, with plates of delicate, fragrant gnocco fritto, or yeasty, pillow-shaped fritters, served alongside dabs of stracchino cheese or fans of salume: coppa, mortadella, salami and silky prosciutto di Parma.</p>
+        <p>CHINATOWN BRASSERIE  * [Rating: One Star]  (212) 533-7000; 380 Lafayette Street (Great Jones Street); $$$; Review: 8/9/06.  Chinatown Brasserie takes dim sum seriously. The executive chef Joe Ng's thoughtful, prolific output includes not only soup dumplings but also steamed dumplings filled with shrimp and snow pea leaf. Chinatown Brasserie offers pork pot stickers as well as green chili peppers stuffed with shrimp and encased in tempura batter.</p>
+        <p>HEDEH  (212) 473-8458; 57 Great Jones Street (Bowery); $$; Article: 9/29/04.  Hedeh's sleek bar is decorated with rows of sake bottles. The dining room has a menu of sushi and sashimi along with fusion dishes like shrimp with spinach and red miso sauce; salmon with red beans in a soy milk sauce; fillet of beef with chive oil and tofu sauce; and green-tea crème brûlée.</p>
+        <p>IL BUCO  * [Rating: One Star]  (212) 533-1932; 47 Bond Street (Lafayette Street); $$$; Review: 5/3/96, Diner's Journal: 10/21/05.  The building that houses Il Buco once belonged to a friend of Edgar Allan Poe, and the cellar supposedly inspired ''The Cask of Amontillado.'' The Mediterranean menu is as beguiling as the antiques-strewn dining room. Most of a short list of main courses changes daily, but there are some standards like slow-roasted heritage pork with wild arugula salad and quince mustard; and grilled sirloin steak with red wine, onion marmalade, Yukon potatoes and romesco.</p>
+        <p>SPARKY'S ALL-AMERICAN FOOD  (212) 334-3035; 333 Lafayette (Bleecker Street); $; $25 and Under: 12/28/05.  Sparky's steamed organic all-beef hot dogs, from Dines Farms in Oak Hill, N.Y., nestled in fresh-baked buns from Amy's Bread, are the top of the pile. Juicy without being mushy, they can practically be eaten plain, though Sparky's offers dressed-up dogs, including one with blue cheese and Buffalo wings sauce and the Sparky dog with chili, cheese, bacon and onions.</p>
+        <p>GOOD EATING/NOHO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

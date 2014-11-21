@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: North Bellmore: Two Killed In Accident</title>
+    <meta content="22mbrfs-1" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/nyregion/22mbrfs-dead.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820748"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <location class="indexing_service">North Bellmore (NY)</location>
+        <person class="indexing_service">Lueck, Thomas J</person>
+        <person class="indexing_service">Benitez, Juan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Long Island (NY)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4DB1F30F931A15752C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: North Bellmore: Two Killed In Accident</hl1>
+        <hl2 class="online_headline">North Bellmore, N.Y.: Two Killed in Accident</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lueck, Thomas J</byline>
+      <abstract>
+        <p>Juan Benitez and female passenger whose identity is not disclosed are killed when their car crashes near North Bellmore, NY; male passenger in car is injured (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two people were killed and a third was critically injured when their Honda Accord careered off the Southern State Parkway near Newbridge Road in Nassau County just before 2:30 a.m. yesterday, according to the New York State Police. The driver, Juan Benitez, 22, of Brentwood, and a 16-year-old female front-seat passenger, whose identity was not disclosed, were pronounced dead at the scene, the police said. A 17-year-old male passenger, whose identity was also not disclosed, was ejected from the back seat and sustained a head injury. He was in critical condition late yesterday at Nassau University Medical Center in East Meadow, the police said. The cause of the accident remained under investigation yesterday, the police said.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two people were killed and a third was critically injured when their Honda Accord careered off the Southern State Parkway near Newbridge Road in Nassau County just before 2:30 a.m. yesterday, according to the New York State Police. The driver, Juan Benitez, 22, of Brentwood, and a 16-year-old female front-seat passenger, whose identity was not disclosed, were pronounced dead at the scene, the police said. A 17-year-old male passenger, whose identity was also not disclosed, was ejected from the back seat and sustained a head injury. He was in critical condition late yesterday at Nassau University Medical Center in East Meadow, the police said. The cause of the accident remained under investigation yesterday, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>Two people were killed and a third was critically injured when their Honda Accord careered off the Southern State Parkway near Newbridge Road in Nassau County just before 2:30 a.m. yesterday, according to the New York State Police. The driver, Juan Benitez, 22, of Brentwood, and a 16-year-old female front-seat passenger, whose identity was not disclosed, were pronounced dead at the scene, the police said. A 17-year-old male passenger, whose identity was also not disclosed, was ejected from the back seat and sustained a head injury. He was in critical condition late yesterday at Nassau University Medical Center in East Meadow, the police said. The cause of the accident remained under investigation yesterday, the police said.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

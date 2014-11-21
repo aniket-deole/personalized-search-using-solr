@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="11askk" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/11/technology/11askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817994"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+        <org class="online_producer">Skype Technologies</org>
+        <org class="online_producer">Apple Computer Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E6DA1230F932A25752C0A9619C8B63" item-length="670" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Getting Graphic With Vista</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Getting Graphic With Vista</p>
+        <p>Q. When shopping for a new computer, what kind of graphics card will be necessary to run Microsoft's Windows Vista?</p>
+        <p>A. The Windows Vista operating system, due at the end of the month for consumers, will be available in several versions with a range of system requirements, so your graphics-card needs will vary. Most hardware makers are labeling new computers as either Vista Capable to run the basic version, or Vista Premium Ready for a PC that can handle more Vista features.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When shopping for a new computer, what kind of graphics card will be necessary to run Microsoft’s Windows Vista?</p>
+      </block>
+      <block class="full_text">
+        <p>Getting Graphic With Vista</p>
+        <p>Q. When shopping for a new computer, what kind of graphics card will be necessary to run Microsoft's Windows Vista?</p>
+        <p>A. The Windows Vista operating system, due at the end of the month for consumers, will be available in several versions with a range of system requirements, so your graphics-card needs will vary. Most hardware makers are labeling new computers as either Vista Capable to run the basic version, or Vista Premium Ready for a PC that can handle more Vista features.</p>
+        <p>To run the low-end Vista Home Basic version of the system, Microsoft states that a compatible PC needs to have at least an 800-megahertz processor, 512 megabytes of system memory and a graphics processor that can run the DirectX 9 multimedia software and has at least 32 megabytes of graphics memory.</p>
+        <p>While these hardware requirements are designed for the simplest version of Vista, they are not enough to display Windows Aero, its sophisticated graphical interface. Windows Aero -- which works with the Vista Home Premium, Vista Business, Vista Enterprise and Vista Ultimate editions of the system -- features shimmering effects like translucent windows and 3-D graphics.</p>
+        <p>According to Microsoft, a Windows Aero-compatible graphics card must be able to handle DirectX 9, Pixel Shader 2.0 technology and support 32 bits per pixel for color depth. The card needs at least 128 megabytes of graphics memory (although 256 megabytes of dedicated graphics memory is often recommended) and be able to run the Windows Display Driver Model software. Also known as W.D.D.M., that is the code that lets Vista and the graphics card communicate properly.</p>
+        <p>The Windows Vista home page of Microsoft's site has the full system requirements at www.microsoft.com/windowsvista.</p>
+        <p>Many PC makers now have areas of their Web sites devoted to Vista systems and information (www.dell.com/vista, for example) and may be helpful for research. For those looking to upgrade existing computers, graphics-card manufacturers like Nvidia (www.nvidia.com) and ATI (ati.amd.com) detail their product specifications on their Web sites and tell which cards work best with Microsoft's new system.</p>
+        <p>Voice Quality On the Internet</p>
+        <p>Q. Is there a way to make VoIP phone calls sound smoother, with fewer gaps in the audio?</p>
+        <p>A. Voice-over-Internet protocol, or VoIP, is technology that converts a phone conversation into data that can travel over a computer network -- and uses the Internet's cables instead of the telephone company's wires to carry the chat.</p>
+        <p>VoIP can be used for free computer-to-computer audio calls with software like Skype (www.skype.com). Many companies also offer residential and business VoIP phone plans that work pretty much like standard telephone service except for the use of Internet networking to carry the calls.</p>
+        <p>One factor that can affect call quality is network traffic. If your home or office network is being used to upload, download or stream a lot of data while you are trying to talk over your VoIP connection, the audio quality of the call may suffer from the lack of available bandwidth. Most VoIP services require a broadband Internet connection.</p>
+        <p>Call fidelity may vary by VoIP provider, and several consumer-oriented product sites and magazines have compared the different services for value and call quality. Consumer Reports has tested VoIP service, and sites like ConsumerSearch (www.consumersearch.com) have also done VoIP roundups.</p>
+        <p>New Background For a Mac Desktop</p>
+        <p>Q. How do I make my Mac automatically change its desktop background?</p>
+        <p>A. In recent versions of Mac OS X, you can set the computer to change its desktop background image at specified intervals in the System Preferences area. To get there, go to the Apple menu to System Preferences. Click on the Desktop &amp; Screen Saver icon and click the Desktop tab.</p>
+        <p>In the dialog box, you can select a folder of photos or iPhoto album to use as background images. Put a check in the box next to ''Change picture'' and use the drop-down menu to select the length of time to display each image.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

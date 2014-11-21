@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ted Hughes Letters Go to Emory University</title>
+    <meta content="10hughes" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817913"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E0DD1130F933A25752C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ted Hughes Letters Go to Emory University</hl1>
+      </hedline>
+      <byline class="print_byline">By JULIE BOSMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emory University has acquired letters from Ted Hughes to Assia Wevill, his mistress during his marriage to Sylvia Plath. Mr. Hughes continued his relationship with Ms. Wevill after Ms. Plath's suicide in 1963, but the two never married. The letters allow ''unprecedented access to Hughes's state of mind at a time of crisis in his personal and professional life,'' said a statement from Stephen Enniss, the director of Emory's Manuscript, Archives and Rare Book Library. The collection includes more than 60 letters from 1963 to 1969, sketches, diary entries and photographs. One letter implores Ms. Wevill to ''burn all my letters.'' A biography of Ms. Wevill, ''Lover of Unreason,'' by Yehuda Koren and Eilat Negev, was published in December.</p>
+      </block>
+      <block class="full_text">
+        <p>Emory University has acquired letters from Ted Hughes to Assia Wevill, his mistress during his marriage to Sylvia Plath. Mr. Hughes continued his relationship with Ms. Wevill after Ms. Plath's suicide in 1963, but the two never married. The letters allow ''unprecedented access to Hughes's state of mind at a time of crisis in his personal and professional life,'' said a statement from Stephen Enniss, the director of Emory's Manuscript, Archives and Rare Book Library. The collection includes more than 60 letters from 1963 to 1969, sketches, diary entries and photographs. One letter implores Ms. Wevill to ''burn all my letters.'' A biography of Ms. Wevill, ''Lover of Unreason,'' by Yehuda Koren and Eilat Negev, was published in December.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

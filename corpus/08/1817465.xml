@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Zest From Cayenne</title>
+    <meta content="08NUGGETporsche" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817465"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">Wiedeking, Wendelin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1DD1130F93BA35752C0A9619C8B63" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Zest From Cayenne</hl1>
+      </hedline>
+      <byline class="print_byline">By JERRY GARRETT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Monday: 2008 Porsche Cayenne and Cayenne Turbo</p>
+        <p>Is it real? So real that even as the wraps were being taken off the new S.U.V.'s in Detroit, production had already begun in Leipzig, Germany.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Monday: 2008 Porsche Cayenne and Cayenne Turbo</p>
+        <p>Is it real? So real that even as the wraps were being taken off the new S.U.V.'s in Detroit, production had already begun in Leipzig, Germany.</p>
+        <p>What's the point? When the venerable sports car maker brought out the Cayenne in 2002, Porsche purists were horrified -- like a trashy in-law had joined the family. Over the years, this upstart has not only gained acceptance, it became Porsche's biggest seller in North America. Sales have slipped enough, though, that a fresh dose of zest was needed.</p>
+        <p>What they said: ''The Cayenne features a new line of direct-injection engines, which are a first for Porsche; they offer a dynamic combination of both increased power and increased fuel economy,'' said Dr. Wendelin Wiedeking, president of Porsche.</p>
+        <p>What they didn't say: Does everyone who ever wanted a Cayenne already have one? That's the question. If they do, will more sass from the engine compartment be enough to coax current owners to buy another?</p>
+        <p>What makes it tick? Bigger, yet less thirsty engines: the base V-6 grows to 3.6 liters and 290 horsepower. The V-8s increase to 4.8 liters, 385 horses for the naturally aspirated one and 500 for the turbo V-8. Was that a Shelby Mustang we just dusted?</p>
+        <p>How much, how soon? Expected in showrooms in March as 2008 models. The V-6 model will start at $43,400, with the V-8 S and Turbo going for $57,900 and $93,700, respectively.</p>
+        <p>How's it look? The aggressive new front end styling makes it even more garish than it was; disturbingly compelling, in a leopard-skin jumpsuit kind of way.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

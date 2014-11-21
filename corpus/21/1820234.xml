@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHY WE TRAVEL: MONT BLANC, FRANCE</title>
+    <meta content="21why" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1820234"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mountain Climbing</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Mont Blanc</location>
+        <location class="indexing_service">France</location>
+        <person class="indexing_service">Strobel, Felix</person>
+        <person class="indexing_service">Considine, Austin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mountain Climbing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E1DB1030F932A15752C0A9619C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHY WE TRAVEL: MONT BLANC, FRANCE</hl1>
+      </hedline>
+      <byline class="print_byline">As told to Austin Considine</byline>
+      <byline class="normalized_byline">Considine, Austin</byline>
+      <dateline>ENJOYING THE VIEW FROM 15,771 FEET, SEPT. 22, 2006</dateline>
+      <abstract>
+        <p>German law student Felix Strobel comments on his family's hike to top of Mont Blanc, France</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Felix Strobel, 24, a law student from Freiburg, Germany: ''My family and I started hiking the Alps maybe 10 years ago, and after a while it became a dream of ours to hike the highest mountain there, Mont Blanc. It took us two days, and on the first night I got elevation sickness. When we woke up at 3 the next morning and started to climb, I really wasn't in good condition. Each step was difficult; I felt powerless; I had a headache. But when I reached the top, the sickness and the pain were gone, and I was just happy my whole family had made it. It was a clear morning -- the sun had just risen a couple of minutes before. There were clouds beneath us, and you could see for hundreds of kilometers. Sometimes it was freezing on the way up, but when you're at the top, suddenly you stop freezing because you're so happy.''</p>
+        <p>As told to Austin Considine</p>
+      </block>
+      <block class="full_text">
+        <p>Felix Strobel, 24, a law student from Freiburg, Germany: ''My family and I started hiking the Alps maybe 10 years ago, and after a while it became a dream of ours to hike the highest mountain there, Mont Blanc. It took us two days, and on the first night I got elevation sickness. When we woke up at 3 the next morning and started to climb, I really wasn't in good condition. Each step was difficult; I felt powerless; I had a headache. But when I reached the top, the sickness and the pain were gone, and I was just happy my whole family had made it. It was a clear morning -- the sun had just risen a couple of minutes before. There were clouds beneath us, and you could see for hundreds of kilometers. Sometimes it was freezing on the way up, but when you're at the top, suddenly you stop freezing because you're so happy.''</p>
+        <p>As told to Austin Considine</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   STARFIELD, MIMI</title>
+    <meta content="dn012708.1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821657"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">STARFIELD, MIMI</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2DE173AF934A15752C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   STARFIELD, MIMI</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STARFIELD--Mimi, on January 5, 2008. A native New Yorker, she loved politics, books, and opera. Beloved mother of David and Lawrence, loving grandmother of Bonnie, Andy, Kim, and Daniele, dearest sister of Bobby, and darling daughter of the late Ruth and Irving. She had an independent spirit, strong principles, and a great sense of humor. She will be missed by all who knew her. In lieu of flowers, the family kindly requests donations to the charity of your choice.</p>
+      </block>
+      <block class="full_text">
+        <p>STARFIELD--Mimi, on January 5, 2008. A native New Yorker, she loved politics, books, and opera. Beloved mother of David and Lawrence, loving grandmother of Bonnie, Andy, Kim, and Daniele, dearest sister of Bobby, and darling daughter of the late Ruth and Irving. She had an independent spirit, strong principles, and a great sense of humor. She will be missed by all who knew her. In lieu of flowers, the family kindly requests donations to the charity of your choice.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

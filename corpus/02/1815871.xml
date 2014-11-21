@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MELTZER, JULIE W.</title>
+    <meta content="dn010207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815871"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MELTZER, JULIE W.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E4DD1E3AF931A35752C0A9619C8B63" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MELTZER, JULIE W.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MELTZER--Julie W. on December 30, 2006. Beloved wife of the late George. Loving mother of Laurie Meltzer, Donna Meltzer, MD, Cathy Alexander and Shelley Egnor. Dear mother-in-law of Michael Egnor, MD. Cherished grandmother of Daniel, Julie, Emily, Scott and Justin. As a Captain in the US Army Nurse Corps, Julie served with the Ninth Evacuation Hospital (Roosevelt Unit) in Europe and North Africa during WW II. We will love, cherish and miss you always.</p>
+      </block>
+      <block class="full_text">
+        <p>MELTZER--Julie W. on December 30, 2006. Beloved wife of the late George. Loving mother of Laurie Meltzer, Donna Meltzer, MD, Cathy Alexander and Shelley Egnor. Dear mother-in-law of Michael Egnor, MD. Cherished grandmother of Daniel, Julie, Emily, Scott and Justin. As a Captain in the US Army Nurse Corps, Julie served with the Ninth Evacuation Hospital (Roosevelt Unit) in Europe and North Africa during WW II. We will love, cherish and miss you always.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

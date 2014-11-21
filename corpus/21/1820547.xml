@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vatican Urges 'Dialogue' With China to Rebuild Ties</title>
+    <meta content="21vatican" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/world/europe/21vatican.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820547"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diplomatic Recognition</classifier>
+        <location class="indexing_service">China</location>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Fisher, Ian</person>
+        <person class="indexing_service">Benedict Xvi (Pope)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="descriptor">Popes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Popes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">China</location>
+        <org class="online_producer">Roman Catholic Church</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E7DE1F30F932A15752C0A9619C8B63" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vatican Urges 'Dialogue' With China to Rebuild Ties</hl1>
+        <hl2 class="online_headline">Vatican Urges ‘Dialogue’ With China to Rebuild Ties</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN FISHER</byline>
+      <byline class="normalized_byline">Fisher, Ian</byline>
+      <dateline>ROME, Jan. 20</dateline>
+      <abstract>
+        <p>Vatican issues statement calling for dialogue to rebuild diplomatic ties with China; Pope Benedict XVI and Chinese officials have expressed desire to restore diplomatic ties, but any concrete steps were frozen after government-sanctioned official Chinese church appointed several bishops last year without Vatican's consent; statement also praises bravery of Chinese Catholics who are loyal to Rome, rather than to Chinese authorities (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Vatican issued a measured statement on Saturday on its future relations with China, saying it wanted a ''respectful and constructive dialogue'' to rebuild diplomatic ties but still noting the ''suffering'' of Chinese Catholics.</p>
+        <p>The statement was issued after two days of high-level talks at the Vatican on rebuilding relations with China. The statement said Pope Benedict XVI intended to write a letter to Catholics in China, though it did not say when or hint at any message.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Vatican said it wanted a “respectful and constructive dialogue” after two days of high-level talks at the Vatican on rebuilding relations with China.</p>
+      </block>
+      <block class="full_text">
+        <p>The Vatican issued a measured statement on Saturday on its future relations with China, saying it wanted a ''respectful and constructive dialogue'' to rebuild diplomatic ties but still noting the ''suffering'' of Chinese Catholics.</p>
+        <p>The statement was issued after two days of high-level talks at the Vatican on rebuilding relations with China. The statement said Pope Benedict XVI intended to write a letter to Catholics in China, though it did not say when or hint at any message.</p>
+        <p>The pope and Chinese officials have expressed a desire to restore diplomatic ties broken in 1951 when the Communist government took over. But any concrete steps were frozen after the official Chinese church, which answers to the government, appointed several bishops last year without the Vatican's consent.</p>
+        <p>The pope issued statements protesting the appointment of the bishops, saying that China had violated a long-standing, if informal, agreement in which the Vatican was able to have a tacit role in the process.</p>
+        <p>But the statement on Saturday was even in its tone, avoiding harsh criticism of China as it spoke of ''following the road of a respectful and constructive dialogue with the governing authority to overcome the misunderstandings of the past.''</p>
+        <p>The reconciliatory tone seemed aimed at encouraging more talks with the government. Still, the statement strongly praised the bravery of Catholics in China who are loyal to Rome, rather than to the Chinese authorities. An ''official church'' of five million Catholics, presided over by the government, exists beside with an underground church of 10 million.</p>
+        <p>''It is noted, with deep recognition, the luminous testimony offered by bishops, priests and the faithful, who without ceding to compromises, have maintained their faith to Seat of St. Peter, at times even at the price of grave suffering,'' the statement read.</p>
+        <p>The pope did not take part in the meetings, though the statement said he was fully briefed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

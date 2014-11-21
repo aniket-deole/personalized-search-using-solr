@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Diamond Club To Stay Put</title>
+    <meta content="09mbrfs-1" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/nyregion/09mbrfs-diamond.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817678"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Jewels and Jewelry</classifier>
+        <classifier class="indexing_service" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="indexing_service" type="descriptor">Diamonds</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Diamond Dealers Club</org>
+        <person class="indexing_service">Bagli, Charles V</person>
+        <person class="indexing_service">Barnett, Gary</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diamonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jewels and Jewelry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EFD61530F93AA35752C0A9619C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Diamond Club To Stay Put</hl1>
+        <hl2 class="online_headline">Manhattan: Diamond Club to Stay Put</hl2>
+      </hedline>
+      <byline class="print_byline">By CHARLES V. BAGLI; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Bagli, Charles V</byline>
+      <abstract>
+        <p>New York City Diamond Dealers Club renews lease at longtime home on Fifth Avenue in Manhattan despite attempt by developer Gary Barnett to lure club to nearby planned tower, which he says will revitalize city's diamond and jewelry industry (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a setback for the developer Gary Barnett, the Diamond Dealers Club, a mainstay of the diamond district, has renewed its lease at its longtime home, 580 Fifth Avenue, near 47th Street. Mr. Barnett had hoped to lure the club to his planned 35-story tower on 47th Street, which he said would revitalize the city's diamond and jewelry industry. In November, the developer got a $49.6 million subsidy package from the city, to the annoyance of the owners of 580 Fifth and other landlords. Jacob Banda, president of the diamond club, said yesterday that in the end he had doubts about whether Mr. Barnett's tower would materialize. He said his landlord offered him a good deal on a 10-year lease, so he took it. Mr. Barnett insisted yesterday that his project was going forward, and he said the club had made ''a major, major mistake.''</p>
+        <p>CHARLES V. BAGLI</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In a setback for the developer Gary Barnett, the Diamond Dealers Club, a mainstay of the diamond district, has renewed its lease at its longtime home, 580 Fifth Avenue, near 47th Street. Mr. Barnett had hoped to lure the club to his planned 35-story tower on 47th Street, which he said would revitalize the city’s diamond and jewelry industry. In November, the developer got a $49.6 million subsidy package from the city, to the annoyance of the owners of 580 Fifth and other landlords. Jacob Banda, president of the diamond club, said yesterday that in the end he had doubts about whether Mr. Barnett’s tower would materialize. He said his landlord offered him a good deal on a 10-year lease, so he took it. Mr. Barnett insisted yesterday that his project was going forward, and he said the club had made “a major, major mistake.”.</p>
+      </block>
+      <block class="full_text">
+        <p>In a setback for the developer Gary Barnett, the Diamond Dealers Club, a mainstay of the diamond district, has renewed its lease at its longtime home, 580 Fifth Avenue, near 47th Street. Mr. Barnett had hoped to lure the club to his planned 35-story tower on 47th Street, which he said would revitalize the city's diamond and jewelry industry. In November, the developer got a $49.6 million subsidy package from the city, to the annoyance of the owners of 580 Fifth and other landlords. Jacob Banda, president of the diamond club, said yesterday that in the end he had doubts about whether Mr. Barnett's tower would materialize. He said his landlord offered him a good deal on a 10-year lease, so he took it. Mr. Barnett insisted yesterday that his project was going forward, and he said the club had made ''a major, major mistake.''</p>
+        <p>CHARLES V. BAGLI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

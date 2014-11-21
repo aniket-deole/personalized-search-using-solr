@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   FORTOUL, PAUL</title>
+    <meta content="dn012708.1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821668"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">FORTOUL, PAUL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E1DE173AF934A15752C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   FORTOUL, PAUL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FORTOUL--Paul. A memorial service for Paul E. Fortoul, who died of kidney cancer in December, will be held on Sunday, February 10th at Fieldston High School, 3901 Fieldston Rd., Riverdale, NY 10471. The service will start promptly at 1:30pm with a reception to immediately follow. Donations may be made in Paul's memory to: ''Ethical Culture Fieldston School'', E. C. F. S. Development Office, 33 Central Park West, New York, NY 10023 and write ''Paul Fortoul Swim'' on the memo line; or ''Asphalt Green Waterproofing'' (children's swim program), Molly Honigsfeld, Asphalt Green, 555 E. 90 St., New York, NY 10128; or a charity of your choice that you think would be meaningful to Paul. For additional information, see the web page in memory of Paul at: http://kfortoul.home .comcast.net/paul/</p>
+      </block>
+      <block class="full_text">
+        <p>FORTOUL--Paul. A memorial service for Paul E. Fortoul, who died of kidney cancer in December, will be held on Sunday, February 10th at Fieldston High School, 3901 Fieldston Rd., Riverdale, NY 10471. The service will start promptly at 1:30pm with a reception to immediately follow. Donations may be made in Paul's memory to: ''Ethical Culture Fieldston School'', E. C. F. S. Development Office, 33 Central Park West, New York, NY 10023 and write ''Paul Fortoul Swim'' on the memo line; or ''Asphalt Green Waterproofing'' (children's swim program), Molly Honigsfeld, Asphalt Green, 555 E. 90 St., New York, NY 10128; or a charity of your choice that you think would be meaningful to Paul. For additional information, see the web page in memory of Paul at: http://kfortoul.home .comcast.net/paul/</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

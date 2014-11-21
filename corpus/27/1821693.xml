@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SNIDER, CLARA FOX</title>
+    <meta content="dn012707" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821693"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SNIDER, CLARA FOX</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E0D81F3AF934A15752C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SNIDER, CLARA FOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SNIDER--Clara Fox. December 2, 1910 -January 25, 2007. Beloved wife of the late Silas Snider, mother of Amy and Jenny, grandmother of Ivy, great-grandmother of Lily, and aunt of Alan, Carol, and Joan. She was a deeply caring and generous person; a woman of intelligence; an early feminist who remained committed to a progressive political view of the world. She especially loved music, poetry and the movies. Her last and happiest years were spent at the Isabella Residence in Manhattan with her beloved cat, Rosie, where she became an enthusiastic student of painting, pottery and games of chance. Memorial Services will be held at the Plaza Jewish Community Chapel on Sunday, January 28th at 10am.</p>
+      </block>
+      <block class="full_text">
+        <p>SNIDER--Clara Fox. December 2, 1910 -January 25, 2007. Beloved wife of the late Silas Snider, mother of Amy and Jenny, grandmother of Ivy, great-grandmother of Lily, and aunt of Alan, Carol, and Joan. She was a deeply caring and generous person; a woman of intelligence; an early feminist who remained committed to a progressive political view of the world. She especially loved music, poetry and the movies. Her last and happiest years were spent at the Isabella Residence in Manhattan with her beloved cat, Rosie, where she became an enthusiastic student of painting, pottery and games of chance. Memorial Services will be held at the Plaza Jewish Community Chapel on Sunday, January 28th at 10am.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

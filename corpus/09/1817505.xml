@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>So Now You're What Your Children Eat?</title>
+    <meta content="09nutr" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/health/nutrition/09nutr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817505"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: NUTRITION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Families and Family Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="indexing_service" type="descriptor">Oils and Fats</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">University of Iowa</org>
+        <org class="indexing_service">Journal of American Board of Family Medicine</org>
+        <person class="indexing_service">Bakalar, Nicholas</person>
+        <person class="indexing_service">Laroche, Helena H (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oils and Fats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEEDA1530F93AA35752C0A9619C8B63" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>So Now You're What Your Children Eat?</hl1>
+        <hl2 class="online_headline">Nutrition: So Now You’re What Your Children Eat?</hl2>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+      <abstract>
+        <p>Dr Helena H Laroche, University of Iowa associate internal medicine professor, leads study that finds adults who live with children consume more fat and saturated fat than adults who do not have children in home; research is published in Journal of American Board of Family Medicine; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Adults who live with children eat more fat, and more saturated fat, than those who do not, according to a new study.</p>
+        <p>The report, published online last week in The Journal of the American Board of Family Medicine, was based on data from the Third National Health and Nutrition Survey, a six-year nationwide study of more than 33,000 people carried out by the Centers for Disease Control and Prevention.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Adults who live with children eat more fat, and more saturated fat, than those who do not, according to a new study.</p>
+      </block>
+      <block class="full_text">
+        <p>Adults who live with children eat more fat, and more saturated fat, than those who do not, according to a new study.</p>
+        <p>The report, published online last week in The Journal of the American Board of Family Medicine, was based on data from the Third National Health and Nutrition Survey, a six-year nationwide study of more than 33,000 people carried out by the Centers for Disease Control and Prevention.</p>
+        <p>According to background information in the article, the correlation between adults' and children's diets has usually been attributed to parental influence. But in the case of fat intake, it may be that children and teenagers, who consume more fat than other age groups, influence the diets of their parents.</p>
+        <p>The researchers gathered data based on 24-hour dietary recall from 6,600 adults, 48 percent of whom had at least one child under 17 in their household. After controlling for other variables, the presence of children was associated with an increased total fat consumption of 4.9 grams per day in adults, and an increased saturated fat consumption of 1.7 grams per day. Together, the total fat and saturated fat are the equivalent of a daily three-ounce serving of lean ham.</p>
+        <p>There was no association between the presence of children and the total number of calories consumed, but adults with children were more likely to eat pizza, cheese, cookies, ice cream, bacon and other high-fat foods.</p>
+        <p>''I think the important thing we should take away from this study,'' said Dr. Helena H. Laroche, the lead author and an associate professor of internal medicine at the University of Iowa, ''is that healthy nutrition should focus on the entire family, and not only on specific individuals within the family.''</p>
+        <p>VITAL SIGNS: NUTRITION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

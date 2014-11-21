@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sun Microsystems Will Use Intel Chips</title>
+    <meta content="23intel" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/technology/23intel.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070126T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1820850"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <org class="indexing_service">Sun Microsystems</org>
+        <org class="indexing_service">Intel Corp</org>
+        <org class="indexing_service">Advanced Micro Devices</org>
+        <person class="indexing_service">Flynn, Laurie J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Sun Microsystems Inc</org>
+        <org class="online_producer">Intel Corp</org>
+        <org class="online_producer">Advanced Micro Devices Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E7D91F30F930A15752C0A9619C8B63" item-length="615" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sun Microsystems Will Use Intel Chips</hl1>
+        <hl2 class="online_headline">Sun Microsystems Will Use Intel Chips</hl2>
+      </hedline>
+      <byline class="print_byline">By LAURIE J. FLYNN</byline>
+      <byline class="normalized_byline">Flynn, Laurie J</byline>
+      <dateline>SAN FRANCISCO, Jan. 22</dateline>
+      <abstract>
+        <p>Sun Microsystems and Intel announce deal for Sun to use Intel chips on some of its computer servers; will allow Sun to offer servers based on range of chips, following strategy used by other industry leaders; deal is setback for rival chip maker Advanced Micro Devices (M)s</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sun Microsystems and Intel, two technology companies that have rarely found themselves on the same side of the aisle, announced a deal on Monday for Sun to use Intel chips in some of its computer servers, a setback for the rival chip maker Advanced Micro Devices.</p>
+        <p>The deal is of particular significance for Sun, which has been struggling to recover since becoming a prominent casualty of the dot-com bust that started in 2000.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sun Microsystems and Intel announced a deal for Sun to use Intel chips in some of its computer servers, a setback for the rival chip maker Advanced Micro Devices.</p>
+      </block>
+      <block class="full_text">
+        <p>Sun Microsystems and Intel, two technology companies that have rarely found themselves on the same side of the aisle, announced a deal on Monday for Sun to use Intel chips in some of its computer servers, a setback for the rival chip maker Advanced Micro Devices.</p>
+        <p>The deal is of particular significance for Sun, which has been struggling to recover since becoming a prominent casualty of the dot-com bust that started in 2000.</p>
+        <p>''To us, this is an historic moment,'' Jonathan Schwartz, chief executive of Sun, said Monday. ''This is an enormous expansion of market potential.''</p>
+        <p>Under the deal, Sun will use Intel's Xeon chip in some servers starting late in the first half of this year. Sun will continue to sell machines using Advanced Micro's Opteron server chip, as well as those using its own Sparc processor.</p>
+        <p>By doing so, Sun will be able to offer servers based on a range of chips, following a strategy adopted by Dell, I.B.M. and Hewlett-Packard, three rivals to which Sun has lost considerable market share in the last several years.</p>
+        <p>The deal comes at an opportune time for Intel as well. ''We're coming together at a time when both companies have great momentum,'' the chief of Intel, Paul S. Otellini, said. ''And I've always believed that momentum breeds momentum.''</p>
+        <p>After several quarters of losing market share to Advanced Micro, Intel has been gaining steam, the result of a restructuring and the success of Intel's new line of processors.</p>
+        <p>As part of the agreement, Intel is providing an endorsement of Sun's Solaris operating system, including dedicating development resources to ensure the software runs well on Intel chips.</p>
+        <p>Last year, Sun made Solaris, long a highly proprietary system, into an open-source program that is available for free, making it a more viable competitor to Microsoft Windows and Linux. Since then, there have been more than seven million downloads of the Sun program, Mr. Schwartz said.</p>
+        <p>Mr. Schwartz and Mr. Otellini stressed that the deal, which joins two companies that invest heavily in research and development, was a significant technical collaboration, not simply a sales agreement.</p>
+        <p>It remains unclear just what direct impact the Sun-Intel deal will have on Advanced Micro, though it clearly comes at a bad time for the company, which is set to announce quarterly earnings on Tuesday.</p>
+        <p>Henri Richard, chief sales and marketing officer at Advanced Micro, moved Monday to deflect concern that Sun's deal with Intel would hurt the company, which less than two weeks ago issued a warning that it would miss Wall Street's quarterly earnings targets. Mr. Richard said that the deal would have little impact on Advanced Micro and that the company will continue to be a ''strong, strategic supplier'' to Sun.</p>
+        <p>Analysts, however, agreed that the Sun-Intel deal will probably hurt Advanced Micro much more than it will help Intel.</p>
+        <p>''Up until recently, A.M.D. was consistently gaining share in most all markets, while Intel struggled,'' an analyst with Stifel Nicolaus, Cody Acree, said in a research note. ''Now Intel has missed the last two quarters, Sun appears to be steadily improving, and now Sun is giving Intel obvious market share.''</p>
+        <p>Advanced Micro shares fell slightly after the deal was reported, declining 20 cents a share to close at $17.53; Intel declined 3 cents a share, to $20.79. Sun declined 2 cents, to $5.75.</p>
+        <p>Neither Sun nor Intel would discuss the financial impact of the deal, but it is not expected to have a huge impact on Intel's $35 billion in annual sales. Still, Mr. Otellini said the deal would help Intel expand in certain markets where Solaris has a strong following, most notably financial services and telecommunications.</p>
+        <p>Correction:  January 26, 2007, Friday  An article in Business Day on Tuesday about a chip deal between Sun Microsystems and Intel and its effect on an Intel rival, Advanced Micro Devices, rendered incorrectly a quotation from a research note by an analyst with Stifel Nicolaus, Cody Acree. He wrote, ''Now A.M.D. has missed the last two quarters'' -- not that ''Intel'' has missed the last two quarters.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 26, 2007, Friday</p>
+        <p>An article in Business Day on Tuesday about a chip deal between Sun Microsystems and Intel and its effect on an Intel rival, Advanced Micro Devices, rendered incorrectly a quotation from a research note by an analyst with Stifel Nicolaus, Cody Acree. He wrote, ''Now A.M.D. has missed the last two quarters'' -- not that ''Intel'' has missed the last two quarters.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

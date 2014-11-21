@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Shockey, A Fast Start Winds Down With a Fizzle</title>
+    <meta content="08shockey" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817429"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">New York Giants</org>
+        <org class="indexing_service">Philadelphia Eagles</org>
+        <person class="indexing_service">Picker, David</person>
+        <person class="indexing_service">Shockey, Jeremy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Philadelphia Eagles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE3DA1530F93BA35752C0A9619C8B63" item-length="408" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Shockey, A Fast Start Winds Down With a Fizzle</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID PICKER</byline>
+      <byline class="normalized_byline">Picker, David</byline>
+      <dateline>PHILADELPHIA, Jan. 7</dateline>
+      <abstract>
+        <p>New York Giants tight end Jeremy Shockey struggles in playoff loss to Philadelphia Eagles; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There was doubt last week whether Giants tight end Jeremy Shockey would play, but he started in Sunday's 23-20 first-round playoff loss against the Philadelphia Eagles.</p>
+        <p>Early in the game, it was not clear how effective Shockey would be. He caught an 8-yard pass in the first quarter but he frequently limped after plays because of a left ankle injury he sustained two weeks ago.</p>
+      </block>
+      <block class="full_text">
+        <p>There was doubt last week whether Giants tight end Jeremy Shockey would play, but he started in Sunday's 23-20 first-round playoff loss against the Philadelphia Eagles.</p>
+        <p>Early in the game, it was not clear how effective Shockey would be. He caught an 8-yard pass in the first quarter but he frequently limped after plays because of a left ankle injury he sustained two weeks ago.</p>
+        <p>In the second quarter, he looked more like the Shockey of old.</p>
+        <p>With the Giants trailing by 10-7, quarterback Eli Manning completed a short pass to Shockey on first down. Shockey's helmet flew off as he was hit by an Eagles defender, but he remained on his feet and stretched the play into an 11-yard reception that gave the Giants a first down at their 42.</p>
+        <p>With his helmet still off, he distanced himself from the players near him and then spun the ball on the Lincoln Financial Field grass. Shockey the showboat was officially back.</p>
+        <p>Two plays after that reception, the Giants faced a third-and-2 at midfield. Manning again looked to Shockey, who kept the drive alive by reaching for a pass and gaining 6 yards and a first down at the Eagles' 44.</p>
+        <p>On the next play, Tiki Barber rode the momentum that Shockey had generated, running for 41 yards.</p>
+        <p>Shockey was unable to corral a lob from Manning near the left corner of the end zone three plays later, and the Giants settled for Jay Feely's 20-yard field goal to tie the score, 10-10.</p>
+        <p>Shockey finished the first half with a team-high three receptions for 25 yards. Unfortunately for the Giants, Shockey did not add to those numbers in the second half. He had a total of three catches in last year's 23-0 playoff loss to the Carolina Panthers.</p>
+        <p>Shockey played in every game in the regular season except the finale, a 34-28 road victory against the Washington Redskins that sealed a playoff berth for the Giants. Shockey was injured six days earlier going for a pass from Manning in a 30-7 loss at home to the New Orleans Saints. His swollen and sore left ankle kept him out of practice until last Wednesday.</p>
+        <p>Shockey said last week that he would do everything in his power to play against the Eagles and help erase the memories of last season's loss to the Panthers. But the few first-half plays he made Sunday were not enough to accomplish that.</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

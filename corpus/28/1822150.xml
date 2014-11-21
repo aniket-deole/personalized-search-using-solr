@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Brooklyn And Queens, Two Killings In Two Hours</title>
+    <meta content="28murders" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/nyregion/28murders.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822150"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+        <location class="online_producer">Queens (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0D7173FF93BA15752C0A9619C8B63" item-length="365" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Brooklyn And Queens, Two Killings In Two Hours</hl1>
+        <hl2 class="online_headline">In Brooklyn and Queens, Two Killings in Two Hours</hl2>
+      </hedline>
+      <byline class="print_byline">By CARA BUCKLEY; Ann Farmer and Kate Hammer contributed reporting.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 34-year-old woman was stabbed to death by her companion at a Queens playground late Friday, the police said.</p>
+        <p>Less than two hours later, in an unrelated case, a 34-year-old man was found fatally shot in a sport utility vehicle on a Brooklyn street.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A woman was stabbed to death by her companion at a Queens playground, and in an unrelated case, a man was found fatally shot on a Brooklyn street.</p>
+      </block>
+      <block class="full_text">
+        <p>A 34-year-old woman was stabbed to death by her companion at a Queens playground late Friday, the police said.</p>
+        <p>Less than two hours later, in an unrelated case, a 34-year-old man was found fatally shot in a sport utility vehicle on a Brooklyn street.</p>
+        <p>The woman, whose name was not immediately released, had gone to a party at the Ravenswood Houses, a project that straddles the border of Astoria and Long Island City, with her companion, Warren Johnson, 36, of Brooklyn, the police said. The couple left the party just before 11 p.m. and started quarreling in the elevator, according to the police.</p>
+        <p>Mr. Johnson began hitting the woman, investigators said, and once they were outside, he plunged a knife into her neck.</p>
+        <p>Neighbors said they had heard yelling followed by a woman's screams. A witness, Angela Hayes, 32, who lives in the complex, said she was walking past a playground adjacent to the building when she saw a woman lying on her side, with her back exposed and her jacket pulled over her head.</p>
+        <p>A man was standing over the woman, Ms. Hayes said, and imploring, ''Come on, man, come on, man, get up!'' she said. The police said that they found a bloody knife nearby, and that Mr. Johnson, who said he and the woman lived at an address on Fulton Street, stayed at the scene. He was arrested and charged with murder and criminal possession of a weapon, the police said.</p>
+        <p>About 12:30 a.m., on Flatlands Avenue near East 102nd Street in Canarsie, Brooklyn, two officers on patrol stopped to check on a 2003 GMC Envoy, which was parked with its engine running, the police said. Inside, they saw a man in the driver's seat slumped over the wheel with a gunshot wound to his head. He had also been shot in the torso multiple times, the police said. The man's name was not immediately released, and the vehicle bore Maryland license plates, the police said.</p>
+        <p>None of the Envoy's windows were shattered, making it likely that the man was shot from inside the vehicle, detectives said. No arrests have been made.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

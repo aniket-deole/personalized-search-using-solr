@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Arthur and the Invisibles</title>
+    <meta content="12roun-2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070119T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1818280"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Genzlinger, Neil</person>
+        <person class="indexing_service">Besson, Luc</person>
+        <person class="indexing_service">Fallon, Jimmy</person>
+        <person class="indexing_service">Madonna</person>
+        <person class="indexing_service">Highmore, Freddie</person>
+        <object.title class="indexing_service">Arthur and the Invisibles (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E2DD1330F931A25752C0A9619C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Arthur and the Invisibles</hl1>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+      <abstract>
+        <p>Neil Genzlinger reviews animated film Arthur and the Invisibles, directed by Luc Besson and featuring voices of Jimmy Fallon, Madonna and Freddie Highmore; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today nationwide  Directed by Luc Besson  Not rated; 102 minutes</p>
+        <p>In the latest wowzer merging of the real and the fabricated, ''Arthur and the Invisibles'' takes actual human actors and, through a complex process involving Slim-Fast and a Maytag dryer, shrinks them to the size of bacteria so they can interact with the microscopic beings who live in your backyard along with Rick Moranis and his family.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today nationwide  Directed by Luc Besson  Not rated; 102 minutes</p>
+        <p>In the latest wowzer merging of the real and the fabricated, ''Arthur and the Invisibles'' takes actual human actors and, through a complex process involving Slim-Fast and a Maytag dryer, shrinks them to the size of bacteria so they can interact with the microscopic beings who live in your backyard along with Rick Moranis and his family.</p>
+        <p>Or something like that. The press packet for ''Arthur,'' a children's film directed by Luc Besson, includes lots of tidbits on the magic that enabled the merging of live actors and a computer-generated world, but who can really keep track of this technogoo anymore, or get excited about it? The real question isn't how these hybrid movies are made, but why. In this case, it's a tad unclear.</p>
+        <p>The film begins in the conventional human world of the early 1960s, where Arthur (Freddie Highmore) and his grandmother (Mia Farrow) have troubles galore: Grandpa went missing a few years ago, and developers are on the verge of taking over the family homestead. Arthur manages to shrink himself to near-invisibility so he can enter a secret world and search for some gems that will solve all the problems.</p>
+        <p>At this point the film becomes computer-generated, and also resembles, at various times, ''Honey, I Shrunk the Kids,'' ''The Sword in the Stone,'' ''Fraggle Rock'' and assorted others. The computer-generated world is visually rich, but short on the droll humor that makes good children's films bearable for adults. It's also too frenetically paced and confusing for adults or children. But many of the voices are familiar: Madonna, Jimmy Fallon, Snoop Dogg, David Bowie, Harvey Keitel, Robert De Niro and other famous names provide them. There are so many famous names that the question arises: Would this movie have been more enjoyable with the real humans instead of just their voices? Yes. Although that would have required Madonna to have a budding romance with a 'tweenage boy. Hmm.</p>
+        <p>NEIL GENZLINGER</p>
+        <p>Correction:  January 19, 2007, Friday  Movie details with a film review of ''Arthur and the Invisibles'' in Weekend last Friday included an erroneous running time provided by the distributor and referred incorrectly to the movie's rating. The film is 94 minutes, not 102, and it is rated PG; it is not unrated.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 19, 2007, Friday</p>
+        <p>Movie details with a film review of ''Arthur and the Invisibles'' in Weekend last Friday included an erroneous running time provided by the distributor and referred incorrectly to the movie's rating. The film is 94 minutes, not 102, and it is rated PG; it is not unrated.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

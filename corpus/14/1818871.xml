@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="14laugh" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/weekinreview/14laugh.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818871"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <person class="online_producer">Leno, Jay</person>
+        <person class="online_producer">O'Brien, Conan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E3D71330F937A25752C0A9619C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+        <hl2 class="online_headline">Laugh Lines: Jay Leno and Conan O’Brian</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>Today, an Iraqi judge officially dropped all remaining charges against Saddam Hussein. Well, that's nice. You don't want to leave a guy hanging.</p>
+        <p>The prime minister of Iraq said that he would like to step down. I guess it didn't turn out to be the dream job that he thought it was going to be.</p>
+        <p>Last week gas prices dropped 10 percent while the price of a gallon of gas rose 2 percent. How does that work? See, it's all supply and demand. The oil companies have the supply and they demand all our money.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Excerpts from television talk show monologues.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>Today, an Iraqi judge officially dropped all remaining charges against Saddam Hussein. Well, that's nice. You don't want to leave a guy hanging.</p>
+        <p>The prime minister of Iraq said that he would like to step down. I guess it didn't turn out to be the dream job that he thought it was going to be.</p>
+        <p>Last week gas prices dropped 10 percent while the price of a gallon of gas rose 2 percent. How does that work? See, it's all supply and demand. The oil companies have the supply and they demand all our money.</p>
+        <p>President Bush tonight announced that he is creating 20,000 new jobs. They are all in Iraq.</p>
+        <p>Governor Arnold Schwarzenegger has called for universal health care coverage for all Californians. He came up with this idea while breaking his leg falling down the ski slopes in Idaho.</p>
+        <p>Conan O'Brien</p>
+        <p>Today, New York City was blanketed with a bad odor, and officials aren't sure what caused it. Apparently, New Yorkers knew something was wrong because it smelled bad when they got out of their taxis.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

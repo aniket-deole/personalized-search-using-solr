@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Winter Garden's Drive Time Ends</title>
+    <meta content="03arts-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/03/theater/30gard.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816146"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Winter Garden Theater (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Cadillac Winter Garden Theater (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Names, Organizational</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Theaters (Buildings)</classifier>
+        <org class="indexing_service">General Motors Corp</org>
+        <person class="indexing_service">Robertson, Campbell</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Names, Organizational</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E1DB1730F930A35752C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Winter Garden's Drive Time Ends</hl1>
+        <hl2 class="online_headline">Winter Garden's Drive Time Ends</hl2>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Robertson, Campbell</byline>
+      <abstract>
+        <p>Winter Garden Theater officially returns to Broadway with original name after almost five years of working under name Cadillac Winter Garden; sponsor General Motors chose not to renew agreement that expired in 2006 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Winter Garden Theater officially returned to Broadway on Monday as simply the Winter Garden Theater, after almost five years of working under another name: the Cadillac Winter Garden. In 2002 General Motors and the Shubert Organization, which owns the Winter Garden, entered into a multimillion-dollar sponsorship deal, under which the automaker had naming rights to the theater. Though the specifics were never released, the deal was reported at the time to be worth $1 million a year to the Shuberts. General Motors chose not to renew the agreement when it expired at the end of 2006. Robert E. Wankel, the executive vice president of the Shubert Organization, said there were no imminent plans to change the Winter Garden's name to something else.  While Broadway posted record-breaking grosses for the holiday week, ''Wicked'' hit a theatrical grand slam. It posted the highest weekly grosses ever recorded for a show on Broadway. It also, according to producers, broke the record for weekly grosses on the West End in London. And Chicago. And Toronto. In each place, ''Wicked'' was breaking the record previously held by ''Wicked.''</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Winter Garden Theater officially returns to Broadway, and "Wicked" hits a theatrical grand slam.</p>
+      </block>
+      <block class="full_text">
+        <p>The Winter Garden Theater officially returned to Broadway on Monday as simply the Winter Garden Theater, after almost five years of working under another name: the Cadillac Winter Garden. In 2002 General Motors and the Shubert Organization, which owns the Winter Garden, entered into a multimillion-dollar sponsorship deal, under which the automaker had naming rights to the theater. Though the specifics were never released, the deal was reported at the time to be worth $1 million a year to the Shuberts. General Motors chose not to renew the agreement when it expired at the end of 2006. Robert E. Wankel, the executive vice president of the Shubert Organization, said there were no imminent plans to change the Winter Garden's name to something else.  While Broadway posted record-breaking grosses for the holiday week, ''Wicked'' hit a theatrical grand slam. It posted the highest weekly grosses ever recorded for a show on Broadway. It also, according to producers, broke the record for weekly grosses on the West End in London. And Chicago. And Toronto. In each place, ''Wicked'' was breaking the record previously held by ''Wicked.''</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

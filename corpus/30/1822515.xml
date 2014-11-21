@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Police Will Kick Off The Grammys</title>
+    <meta content="30gram" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/arts/music/30gram.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822515"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Grammy Awards</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <org class="indexing_service">Police, the (Music Group)</org>
+        <person class="indexing_service">Leeds, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Grammy Awards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grammy Awards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grammy Awards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Sting</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DB143FF933A05752C0A9619C8B63" item-length="413" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Police Will Kick Off The Grammys</hl1>
+        <hl2 class="online_headline">The Police Will Kick Off the Grammys</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF LEEDS</byline>
+      <byline class="normalized_byline">Leeds, Jeff</byline>
+      <abstract>
+        <p>Band The Police will reunite to kick off 49th Grammy Awards; performance heightens speculation that band will soon launch full tour (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Police, who leapt from the British punk scene to become one of the world's biggest rock acts before breaking up in 1984, will reunite for a performance to kick off the 49th Grammy Awards on Feb. 11.</p>
+        <p>The scheduled performance by the band members, who last played together when they were inducted into the Rock and Roll Hall of Fame in 2003, is likely to heighten speculation that the Police will soon mount a full tour. The group would join a growing list of reunited acts expected to perform this year, including Van Halen and Rage Against the Machine.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The band, which last played together as inductees at the Rock and Roll Hall of Fame in 2003, will reunite for a performance to kick off the Grammy Awards.</p>
+      </block>
+      <block class="full_text">
+        <p>The Police, who leapt from the British punk scene to become one of the world's biggest rock acts before breaking up in 1984, will reunite for a performance to kick off the 49th Grammy Awards on Feb. 11.</p>
+        <p>The scheduled performance by the band members, who last played together when they were inducted into the Rock and Roll Hall of Fame in 2003, is likely to heighten speculation that the Police will soon mount a full tour. The group would join a growing list of reunited acts expected to perform this year, including Van Halen and Rage Against the Machine.</p>
+        <p>The Police -- known for ''Roxanne,'' ''Message in a Bottle'' and other hits -- have won five Grammy trophies, but have never performed on the annual telecast. The prime-time Sunday performance on CBS, televised live from the Staples Center in Los Angeles, would come 30 years after the release of the band's first single, ''Fall Out.''</p>
+        <p>This month Sting alluded to a Police reunion when he told the Television Critics Association that all the former members were talking. ''We started 30 years ago, so it would be nice to do something to celebrate,'' Sting was quoted as saying. ''We don't quite know what, but we're talking about it.''</p>
+        <p>Oddly enough, the band's reunion -- announced by the National Academy of Recording Arts and Sciences, which awards the Grammys -- comes not long after perhaps the most public analysis of its breakup. Stewart Copeland, the Police's co-founder and drummer, made a splash at last year's Sundance Film Festival with a film, ''Everyone Stares,'' a first-person account of the band's rise to prominence and subsequent disintegration.</p>
+        <p>After the band splintered amid internal tension in 1984, the Police's singer, Sting, pursued a successful solo career, meandering from the band's reggae-influenced rock and experimenting with other forms of world music. Sting has also become a reliable concert box-office draw in his own right. His 2004 tour with Annie Lennox, for example, rang up box office sales of more than $50 million and ranked as one of the 10 best-selling tours of the year, according to the trade magazine Pollstar.</p>
+        <p>Last year Sting's first classical album, ''Songs From the Labyrinth,'' featuring music written by the 16th-century composer John Dowland, topped the classical album sales chart for 2006. His reunited band now joins a lineup of performers for this year's Grammy telecast that includes Mary J. Blige, the Red Hot Chili Peppers, the Dixie Chicks and Gnarls Barkley, among others.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

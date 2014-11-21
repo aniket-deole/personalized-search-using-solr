@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Highbridge Hedge Fund Buys Stake In Louis Dreyfus Energy Business</title>
+    <meta content="08deal" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/business/08deal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817359"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Hedge Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Highbridge Capital Management</org>
+        <org class="indexing_service">Louis Dreyfus Group</org>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E0DC1530F93BA35752C0A9619C8B63" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Highbridge Hedge Fund Buys Stake In Louis Dreyfus Energy Business</hl1>
+        <hl2 class="online_headline">Highbridge Hedge Fund Buys Stake in Louis Dreyfus Energy Business</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross</byline>
+      <abstract>
+        <p>Highbridge Capital Management takes major equity stake in energy business of Louis Dreyfus Group, in deal worth about $1 billion; reflects trend among hedge funds to try to diversify investment offerings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Highbridge Capital Management hedge fund will announce today that it has taken a major equity stake in the energy business of the Louis Dreyfus Group, the old-line commodities trading firm, in a deal worth about $1 billion.</p>
+        <p>Highbridge Capital, a $17 billion hedge fund headquartered in New York that is majority owned by JPMorgan Chase, said it invested in Louis Dreyfus to gain more access to energy delivery and trading markets on its own.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The deal, worth about $1 billion, reflects a trend among larger hedge funds to try to diversify their investment offerings in an attempt to gather more capital.</p>
+      </block>
+      <block class="full_text">
+        <p>The Highbridge Capital Management hedge fund will announce today that it has taken a major equity stake in the energy business of the Louis Dreyfus Group, the old-line commodities trading firm, in a deal worth about $1 billion.</p>
+        <p>Highbridge Capital, a $17 billion hedge fund headquartered in New York that is majority owned by JPMorgan Chase, said it invested in Louis Dreyfus to gain more access to energy delivery and trading markets on its own.</p>
+        <p>The venture with Louis Dreyfus reflects a trend among larger hedge funds to try to diversify their investment offerings in an attempt to gather more capital.</p>
+        <p>''We saw this as a real opportunity that is uncorrelated to everything else we're doing,'' said Glenn Dubin, managing partner of Highbridge. He explained that he had considered trying to get Highbridge into the energy trading business more heavily on its own, but concluded, ''there was no way we could do this by ourselves.''</p>
+        <p>Commodities have proved tricky for some multi-strategy funds. Amaranth, the $9 billion multistrategy fund that failed, had roots in a traditional investment strategy that then expanded aggressively into energy trading. Its initial success caused investors to pour billions into the fund, but when one energy trader made a series of bets that soured, the fund lost $6 billion in a week.</p>
+        <p>Highbridge and Dreyfus will jointly manage the venture, which will be called Louis Dreyfus Highbridge Energy and maintain its headquarters in Wilton, Conn. Before the Highbridge investment, Louis Dreyfus Energy was one of the 10 largest natural gas marketers in the United States and had worldwide interests in both the physical delivery of petroleum and natural gas as well as financial interests in energy.</p>
+        <p>JPMorgan Chase bought its stake in Highbridge in 2004 to gain exposure to the fast-growing hedge fund sector. The deal proved to be well-timed, as pension funds and other institutions continued to pour billions in to hedge funds, including Highbridge.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

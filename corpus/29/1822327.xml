@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   PALEY, GEORGE E. M.D.</title>
+    <meta content="dn012907" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822327"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">PALEY, GEORGE E. M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4D61F3AF93AA15752C0A9619C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   PALEY, GEORGE E. M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PALEY--George E. M.D., on January 27th, 2007. Beloved father of James Paley and Janet Sapir; Father-in-law of Donald Sapir and Sharon Paley; devoted Grandfather of Jeremy and Erica Paley and Jesse Sapir; and Matthew and Sonya Sapir; adoring great-grandfather of Colden Sapir. Predeceased by his wife of 49 years Marilyn Breakstone Paley. You were a caring and compassionate Physician, a brilliant Diagnostician, and most importantly a loving Father, Grandfather, and great-grandfather. What incredible strength you demonstrated in your sight against Cancer. We love you and miss you; you will be with us always. A Private memorial will be held at a later date.</p>
+      </block>
+      <block class="full_text">
+        <p>PALEY--George E. M.D., on January 27th, 2007. Beloved father of James Paley and Janet Sapir; Father-in-law of Donald Sapir and Sharon Paley; devoted Grandfather of Jeremy and Erica Paley and Jesse Sapir; and Matthew and Sonya Sapir; adoring great-grandfather of Colden Sapir. Predeceased by his wife of 49 years Marilyn Breakstone Paley. You were a caring and compassionate Physician, a brilliant Diagnostician, and most importantly a loving Father, Grandfather, and great-grandfather. What incredible strength you demonstrated in your sight against Cancer. We love you and miss you; you will be with us always. A Private memorial will be held at a later date.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

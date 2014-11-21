@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Asia: Nepal: U.N. Creates New Political Mission</title>
+    <meta content="24briefs-6" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821126"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <location class="indexing_service">Nepal</location>
+        <org class="indexing_service">United Nations</org>
+        <org class="indexing_service">Security Council (Un)</org>
+        <person class="indexing_service">Hoge, Warren</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Nepal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00EEDD163FF937A15752C0A9619C8B63" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Asia: Nepal: U.N. Creates New Political Mission</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN HOGE</byline>
+      <byline class="normalized_byline">Hoge, Warren</byline>
+      <abstract>
+        <p>United Nations Security Council votes to set up mission in Nepal to oversee disarmament and cease-fire accord between government and former Maoist rebels and plan elections of constitutional assembly (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United Nations Security Council voted to set up a mission to oversee a disarmament and cease-fire accord between the government and former Maoist rebels and plan elections of a constitutional assembly in June. The vote creates a force of military monitors, police and civil administration teams and poll watchers, which was requested by each sides and will last a year.</p>
+        <p>WARREN HOGE</p>
+      </block>
+      <block class="full_text">
+        <p>The United Nations Security Council voted to set up a mission to oversee a disarmament and cease-fire accord between the government and former Maoist rebels and plan elections of a constitutional assembly in June. The vote creates a force of military monitors, police and civil administration teams and poll watchers, which was requested by each sides and will last a year.</p>
+        <p>WARREN HOGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

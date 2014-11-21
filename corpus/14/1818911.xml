@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mets Set to Add Sosa to Their Pitching Mix</title>
+    <meta content="14mets" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818911"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Sosa, Jorge</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E6DF1030F937A25752C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mets Set to Add Sosa to Their Pitching Mix</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Mets are close to siging pitcher Jorge Sosa to one-year contract (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With three open spots in their starting rotation and no top-flight pitchers left on the free-agent market, the Mets have turned toward a lower-tier starter.</p>
+        <p>The Mets are close to signing Jorge Sosa to a one-year contract, said a baseball official with direct knowledge of the deal. The official spoke on the condition of anonymity because the deal was not complete.</p>
+      </block>
+      <block class="full_text">
+        <p>With three open spots in their starting rotation and no top-flight pitchers left on the free-agent market, the Mets have turned toward a lower-tier starter.</p>
+        <p>The Mets are close to signing Jorge Sosa to a one-year contract, said a baseball official with direct knowledge of the deal. The official spoke on the condition of anonymity because the deal was not complete.</p>
+        <p>Sosa had his best season in 2005, going 13-3 with a 2.55 earned run average, but he struggled last season with the Atlanta Braves and the St. Louis Cardinals, going 3-11 with a 5.42 E.R.A. In five major league seasons, Sosa, 29, has a 27-40 record with a 4.61 E.R.A.</p>
+        <p>General Manager Omar Minaya and Manager Willie Randolph made it clear last week at the Mets' minicamp in Port St. Lucie, Fla., that the only two guaranteed spots in the Mets' rotation belonged to Tom Glavine and Orlando Hernández.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

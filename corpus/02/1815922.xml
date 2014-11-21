@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Holding the Line</title>
+    <meta content="02tue2" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/02/opinion/02tue2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815922"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Justice Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE3D61630F931A35752C0A9619C8B63" item-length="293" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Holding the Line</hl1>
+        <hl2 class="online_headline">Holding the Line</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says stock option scandal involving 120 companies is particularly disturbing because it coincides with broad-based effort from business advocates to relax stiff enforcement laws</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The old year was certainly a boom one for American business, with record profits for companies and record bonuses on Wall Street. But in the background a major accounting scandal has quietly spread, now encompassing more than 120 companies. Fudging the grant date for stock options doesn't quite have the spotlight-grabbing immediacy of Enron's collapse, but it is still gaming the system at the expense of shareholders.</p>
+        <p>A study sponsored by Harvard Law School suggests that a large number of board members, instead of watching out for self-enriching tricks, were sharing in the lucre. As Eric Dash reported in The Times recently, the study found that board members at roughly 460 companies, around 1,400 outside directors, likely received stock options that were manipulated, unnaturally boosting their value. In other words, many directors saw their stock holdings goosed along with executives'. So much for independent oversight.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Fudging the grant date for stock options doesn't have the spotlight-grabbing immediacy of Enron’s collapse, but it is still gaming the system at the expense of shareholders.</p>
+      </block>
+      <block class="full_text">
+        <p>The old year was certainly a boom one for American business, with record profits for companies and record bonuses on Wall Street. But in the background a major accounting scandal has quietly spread, now encompassing more than 120 companies. Fudging the grant date for stock options doesn't quite have the spotlight-grabbing immediacy of Enron's collapse, but it is still gaming the system at the expense of shareholders.</p>
+        <p>A study sponsored by Harvard Law School suggests that a large number of board members, instead of watching out for self-enriching tricks, were sharing in the lucre. As Eric Dash reported in The Times recently, the study found that board members at roughly 460 companies, around 1,400 outside directors, likely received stock options that were manipulated, unnaturally boosting their value. In other words, many directors saw their stock holdings goosed along with executives'. So much for independent oversight.</p>
+        <p>What is particularly disturbing is that the news of this malfeasance, far from leading to full-throated calls for investigation and punishment, has coincided with a broad-based effort from business advocates to roll back the stiffer regime of enforcement devised in the wake of Enron and WorldCom.</p>
+        <p>There is no legislative push to loosen laws and reverse rule changes precisely because there is little support for it among voters at a time when executive pay is skyrocketing and traders are bemoaning the fact that the Ferrari dealer is fresh out of quarter-million-dollar cars.</p>
+        <p>Some logical tweaks were needed. The Justice Department's prosecution tactics in corporate cases had become a little too aggressive, and small companies deserved a break on requirements under the Sarbanes-Oxley law -- a reform inspired by the malfeasance of large, complicated companies. But the relaxation of a few miscalibrated, onerous provisions is where this effort should end.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

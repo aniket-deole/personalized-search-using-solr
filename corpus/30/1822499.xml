@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When the Simple Solution Is the Right One</title>
+    <meta content="30case" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/health/30case.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822499"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CASES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Feet</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Doctors</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Kolata, Gina</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Cases</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Feet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E1DC143FF933A05752C0A9619C8B63" item-length="880" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When the Simple Solution Is the Right One</hl1>
+        <hl2 class="online_headline">When the Simple Solution Is the Right One</hl2>
+      </hedline>
+      <byline class="print_byline">By GINA KOLATA</byline>
+      <byline class="normalized_byline">Kolata, Gina</byline>
+      <abstract>
+        <p>Gina Kolata Cases column describes foot injury and possible causes and treatments; suggests complete examination by doctor can save costly tests; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I had run way too far for my level of training, and I knew it. But I had gotten lost, and the fastest way back to my car was to run. The next day, my left forefoot hurt so much I could hardly walk, so I did just what you might expect -- I checked the Internet to see what sort of injury I might have and what to do about it.</p>
+        <p>My search was frustrating and unhelpful. But I ended up getting just the advice I needed from an unexpected source. And I came away with this lesson: These days, when it is oh so easy to order sophisticated medical tests, sometimes the best test, and the best treatment, can be low-tech.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>These days, when it is oh so easy to order sophisticated medical tests, sometimes the best test, and the best treatment, can be low-tech.</p>
+      </block>
+      <block class="full_text">
+        <p>I had run way too far for my level of training, and I knew it. But I had gotten lost, and the fastest way back to my car was to run. The next day, my left forefoot hurt so much I could hardly walk, so I did just what you might expect -- I checked the Internet to see what sort of injury I might have and what to do about it.</p>
+        <p>My search was frustrating and unhelpful. But I ended up getting just the advice I needed from an unexpected source. And I came away with this lesson: These days, when it is oh so easy to order sophisticated medical tests, sometimes the best test, and the best treatment, can be low-tech.</p>
+        <p>After I was hurt, I did just what doctors worry that their patients will do. I searched medical Web sites for a diagnosis I could accept. When I did not like the one I found, I tried to convince myself that it had to be wrong.</p>
+        <p>The Web diagnosis was a stress fracture, a hairline crack in a bone. It sounded bad. It could take months to heal. I might need to immobilize the entire foot and walk around on crutches and then go through weeks of rehabilitation.</p>
+        <p>I told myself that I didn't have a stress fracture, that there were aspects of my injury that did not seem to fit. I kept running, four to six miles every other day. Still, I was not getting better.</p>
+        <p>Finally, in December, six weeks after the injury, I gave in and called one of the few orthopedists in my area who accepts my health insurance. The first available appointment was for Jan. 16. I took it.</p>
+        <p>Then I wrote about my injury, as part of a longer article for The New York Times about running while hurt. As soon as it appeared, on Jan. 11, I began getting e-mail from readers. A podiatrist told me that I definitely had a stress fracture and had better stop running. A trainer said I had injured a tendon attached to my big toe (he had no way of knowing that the injury was at the base of my third toe). And Paul A. April, a rheumatologist in Tulsa, Okla., said he thought it was either a stress fracture or something called extensor tendinitis. ''I'd love to hear what the doctor finds,'' he added.</p>
+        <p>I looked up extensor tendinitis online: an inflammation of a tendon that straightens the toe. I hadn't found that injury when I first searched the Web, but it sounded right.</p>
+        <p>On Jan. 16, I finally saw the orthopedist and, of course, mentioned extensor tendinitis. All I got was a cursory exam and an X-ray. When the X-ray showed normal bone, the orthopedist said I needed an M.R.I. His office said someone would call me when my insurer approved it. Then I could schedule it. Then I could return to see the doctor and learn what the scan showed.</p>
+        <p>I e-mailed Dr. April in Oklahoma telling him what had happened. ''Gratuitous advice may be worth nothing, but here goes,'' he replied. ''Hands-on examination should have revealed tenderness in the distal forefoot and even an increase in pain with forced downward pressure on the toes. If that was the case, then a local injection of a corticosteroid in a small amount with lidocaine or something similar into the extensor tendon sheath would produce relief of pain within minutes and hopefully this would last.''</p>
+        <p>That sounded great. I could rule out a stress fracture and cure the inflammation all at once. If that did not work, I did not have extensor tendinitis.</p>
+        <p>I called the orthopedist to see whether he would give an injection. All I could get was an assistant's voicemail saying not to expect a reply for 48 hours because she was busy and, by the way, she does not work on Fridays. It was a Wednesday. (Thirteen days later, I still have not heard from her.) I also called my internist to see whether she would give an injection. The answer, her nurse said, was no.</p>
+        <p>Finally, I called an orthopedist who does not accept my insurance and asked whether he would inject cortisone into the tendon sheath of my foot. His assistant knew just what I was talking about.</p>
+        <p>''You want to rule out a stress fracture?'' she asked.</p>
+        <p>The doctor would do it, for $277. I said that I would be there the next day and that I would pay.</p>
+        <p>The injection cured me. It also saved my insurer more than $1,000 for an M.R.I. and subsequent doctors' appointments. But how much simpler to do what the Tulsa doctor recommended and the second orthopedist did: carefully examine my foot, ask about the injury, see that my symptoms seemed more like tendinitis than a stress fracture and simply give the injection.</p>
+        <p>As for Dr. April, my correspondent in Tulsa, he has learned something, too.</p>
+        <p>''The idea of telephone medicine seems to be an easy way to make a living if I were inclined to that,'' he wrote. ''In your case, I was intrigued by a simple problem, the solution of which seemed to be stalled. It really was no big deal, but I loved doing it.''</p>
+        <p>CASES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

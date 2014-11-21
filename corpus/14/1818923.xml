@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Germans Push Europe on Holocaust</title>
+    <meta content="14germany" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/world/europe/14germany.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818923"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom and Human Rights</classifier>
+        <location class="indexing_service">Europe</location>
+        <org class="indexing_service">European Union</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="descriptor">Hate Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hate Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <location class="online_producer">Germany</location>
+        <org class="online_producer">European Union</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E0DF1030F937A25752C0A9619C8B63" item-length="280" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Germans Push Europe on Holocaust</hl1>
+        <hl2 class="online_headline">Germans Push Europe on Holocaust</hl2>
+      </hedline>
+      <byline class="print_byline">By DAN BILEFSKY</byline>
+      <dateline>BERLIN, Jan. 13</dateline>
+      <abstract>
+        <p>European Union justice ministers in next six months will debate German proposal to criminalize denial of Holocaust in all 27 member states; proposal would also seek to criminalize racist declarations inciting violence against person or group; question has divided Europe, as countries other than Germany have resisted common rules as infringing on free speech and civil liberties (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Germany wants to use its European Union presidency to push through legislation that would make denying the Holocaust punishable by stiff prison sentences in all 27 of the union's member states.</p>
+        <p>Germany's justice minister, Brigitte Zypries, said Thursday night that Germany's commitment to combating racism and xenophobia -- and keeping the memory of the Holocaust alive -- was both an enduring historical obligation and a present-day political necessity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Germany wants to use its European Union presidency to pass legislation that would make denying the Holocaust punishable by stiff prison sentences.</p>
+      </block>
+      <block class="full_text">
+        <p>Germany wants to use its European Union presidency to push through legislation that would make denying the Holocaust punishable by stiff prison sentences in all 27 of the union's member states.</p>
+        <p>Germany's justice minister, Brigitte Zypries, said Thursday night that Germany's commitment to combating racism and xenophobia -- and keeping the memory of the Holocaust alive -- was both an enduring historical obligation and a present-day political necessity.</p>
+        <p>''We have always said that it can't be the case that it should still be acceptable in Europe to say the Holocaust never existed and that six million Jews were never killed,'' she said. Under the German proposal, she said, those who deny the Nazi slaughter of Jews during World War II could face up to three years in prison if convicted.</p>
+        <p>Ms. Zypries said the proposal, which will be debated by the bloc's justice ministers in the next six months, would also seek to criminalize racist declarations that are an incitement to violence against a person or group. The aim, she said, was to harmonize national legal systems in their approach to combating racism and xenophobia.</p>
+        <p>Unifying the handling of hate crimes in countries with vastly different legal cultures could prove difficult, legal analysts said. European leaders have been unanimous in condemning those who deny the Holocaust, and they sharply criticized the Iranian government for sponsoring a recent conference that sought to cast doubt on it.</p>
+        <p>But the question of whether to criminalize such acts has divided Europe. Germany sees a European Union law on denial as a moral imperative, but other countries, like Britain, Italy and Denmark, have resisted common rules as infringing on free speech and civil liberties.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

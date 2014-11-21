@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   FOLEY, REGULA (NEE VON MURALT)</title>
+    <meta content="dn011707" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819351"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">FOLEY, REGULA (NEE VON MURALT)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EFDE1F3AF934A25752C0A9619C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   FOLEY, REGULA (NEE VON MURALT)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOLEY--Regula (nee von Muralt), 73, died peacefully January 7th, in Glen Cove Hospital. Born in Switzerland, she came to the US as a young woman and became a UN interpreter. She spoke six languages. Later she became a licensed tour guide for the City of New York, and a real estate broker for the firm of Edward Lee Cave. She loved the water, and sailing in particular. She traveled extensively, and loved to communicate with her many friends from all over the world. Her daughter Alix Foley, pre-deceased her. She is survived by Louis R. Norris of Oyster Bay, and two sisters residing in Switzerland, Lottie von Graffenried and Elizabeth von Muralt.</p>
+      </block>
+      <block class="full_text">
+        <p>FOLEY--Regula (nee von Muralt), 73, died peacefully January 7th, in Glen Cove Hospital. Born in Switzerland, she came to the US as a young woman and became a UN interpreter. She spoke six languages. Later she became a licensed tour guide for the City of New York, and a real estate broker for the firm of Edward Lee Cave. She loved the water, and sailing in particular. She traveled extensively, and loved to communicate with her many friends from all over the world. Her daughter Alix Foley, pre-deceased her. She is survived by Louis R. Norris of Oyster Bay, and two sisters residing in Switzerland, Lottie von Graffenried and Elizabeth von Muralt.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

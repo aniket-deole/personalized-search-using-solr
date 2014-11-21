@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chocolate Morsels and Free Will</title>
+    <meta content="09lett-2" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817630"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="indexing_service" type="descriptor">Psychoanalysis</classifier>
+        <classifier class="indexing_service" type="descriptor">Buddhism</classifier>
+        <person class="indexing_service">Kirsch, Albert S</person>
+        <person class="indexing_service">Dorn, Harold</person>
+        <person class="indexing_service">Rutkowski, Edwin H</person>
+        <person class="indexing_service">Levin, Bruce J (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Psychiatry and Psychiatrists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buddhism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E7D61530F93AA35752C0A9619C8B63" item-length="452" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chocolate Morsels and Free Will</hl1>
+      </hedline>
+      <abstract>
+        <p>Albert S Kirsch letter on January 2 article about free will says that Buddhists have studied human consciousness for 2,500 years; Harold Dorn letter jests about how people are not responsible for their actions; Edwin H Rutkowski letter suggests that regret can play part in decisions; Dr Bruce J Levin letter says that looking at facts with psychoanalytic perspective clarifies some issues about free will; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Free Will: Now You Have It, Now You Don't'' (Jan. 2): Dennis Overbye writes knowledgeably about the status of current research on consciousness and free will. However, any scientist worth his salt knows that before beginning a project, a literature search must be done so as to make sure your question hasn't already been answered.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Free Will: Now You Have It, Now You Don't'' (Jan. 2): Dennis Overbye writes knowledgeably about the status of current research on consciousness and free will. However, any scientist worth his salt knows that before beginning a project, a literature search must be done so as to make sure your question hasn't already been answered.</p>
+        <p>For something like 2,500 years, human consciousness has been studied by Buddhists, and none of their observations or conclusions seem to have been taken into account. The problem may be twofold: Buddhist thought is wrapped up in a religious garment, which is unpalatable to Westerners; and lacking M.R.I. and other modern instruments, the Buddhists have studied the only consciousness possible, their own, which is unpalatable to our Western way of studying only others. Still, some mention of this work should be in order.</p>
+        <p>Albert S. Kirsch  Bal Harbour, Fla.</p>
+        <p>To the Editor:</p>
+        <p>''Free Will: Now You Have It, Now You Don't'' expresses the common concern that in the absence of free will, ''people are no more responsible for their actions than asteroids or planets.''</p>
+        <p>Criminals can't help themselves. But we can take comfort from the thought that the cops who arrest them and the judges and juries who send them to prison also can't help themselves.</p>
+        <p>Harold Dorn  Hoboken, N.J.</p>
+        <p>To the Editor:</p>
+        <p>Dennis Overbye's survey of scientific attempts to find the source of free will completely neglects the frequent presence of regret when we confront choices that we (presumably) made in our past.</p>
+        <p>Is this reaction meaningless? Or has evolution supplied us with a physical gene that jumps ahead into the future by showing alternative possibilities? Somehow all this is a stretch. We can only wonder whether the whole discussion is really asking the right questions.</p>
+        <p>Edwin H. Rutkowski  Vestal, N.Y.</p>
+        <p>To the Editor:</p>
+        <p>Dennis Overbye draws us into the issues of ''free will'' when his private wish to seek pleasure by indulging in chocolate cake conflicts with his health concerns and his wife's disapproval. We are then taken on a fascinating journey of the struggles facing researchers in physics, philosophy, cognitive science and computer science exploring ''free will.''</p>
+        <p>But the article makes it seem that something new is being discovered, when the restrictive effect that unconscious neurotic conflict has on ''free will'' has been studied in depth by psychoanalytic clinicians and researchers for over a century. This is unfortunate because a psychoanalytic perspective would have clarified and illuminated crucial aspects of these issues for your readers. Why are you feeding us only morsels when we could sink our teeth into the whole cake?</p>
+        <p>Bruce J. Levin, M.D.  Plymouth Meeting, Penn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

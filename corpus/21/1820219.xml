@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Is Greed Good?</title>
+    <meta content="Letters.t-4" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820219"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Hilgart, Art</person>
+        <person class="indexing_service">O'Rourke, P J</person>
+        <person class="indexing_service">Sloan, Allan</person>
+        <object.title class="indexing_service">On 'the Wealth of Nations' (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E2D91330F932A15752C0A9619C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Is Greed Good?</hl1>
+      </hedline>
+      <abstract>
+        <p>Art Hilgart letter comments Allan Sloan Jan 7 review of P J O'Rourke book On 'The Wealth of Nations'</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of P. J. O'Rourke's ''On 'The Wealth of Nations' '' (Jan. 7), Allan Sloan apparently endorses O'Rourke's claim that Smith's view of the merits of unregulated free markets and free trade apply anywhere and everywhere.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of P. J. O'Rourke's ''On 'The Wealth of Nations' '' (Jan. 7), Allan Sloan apparently endorses O'Rourke's claim that Smith's view of the merits of unregulated free markets and free trade apply anywhere and everywhere.</p>
+        <p>But Smith's model requires markets in which many sellers offer interchangeable products to many informed buyers, and that there be no government grants of monopolies like patents, copyrights, licenses and trademarks. These conditions apply in our present economy in only some transactions -- like used cars, yard sales, the nails in Sloan's example and most wages. They do not apply to prescription drugs, the services of physicians, lawyers and hospitals, Pentagon contracts, Windows software, DVDs or local utilities, among many other sectors.</p>
+        <p>Smith's model depends on the greed of sellers to offer more goods when profit margins are high. The increased supply in a free market (like the one for nails) drives down prices and margins, and therefore greed serves the general interest. In the absence of all the conditions of a free market, greed becomes rapacity.</p>
+        <p>Art Hilgart  Kalamazoo, Mich.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

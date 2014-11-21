@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GOLDMAN, MURIEL</title>
+    <meta content="dn012107.1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820146"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GOLDMAN, MURIEL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EFDC1F3AF932A15752C0A9619C8B63" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GOLDMAN, MURIEL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOLDMAN--Muriel. Died on January 18, 2007. Born March 7, 1922, in Paterson, New Jersey, to Samuel and Marion Fogelman Katz. Devoted and adored wife of the late Stanley A. Goldman. Loving and beloved friend and mother of Cathy and Ladd Weinberg and Peggy Goldman. Proud and doting grandmother of the ever appreciative Gillian Ladd, Joanna Weinberg and Spike Friedman. Caring and treasured sister of Florence and Harvey L. Shulman.</p>
+      </block>
+      <block class="full_text">
+        <p>GOLDMAN--Muriel. Died on January 18, 2007. Born March 7, 1922, in Paterson, New Jersey, to Samuel and Marion Fogelman Katz. Devoted and adored wife of the late Stanley A. Goldman. Loving and beloved friend and mother of Cathy and Ladd Weinberg and Peggy Goldman. Proud and doting grandmother of the ever appreciative Gillian Ladd, Joanna Weinberg and Spike Friedman. Caring and treasured sister of Florence and Harvey L. Shulman.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

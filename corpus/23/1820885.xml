@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Weekend Of Death in Iraq</title>
+    <meta content="l23iraq" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820885"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Pelosi, Nancy (Speaker)</person>
+        <person class="indexing_service">Greenwood, Emma</person>
+        <person class="indexing_service">Durrett, Derrell</person>
+        <person class="indexing_service">Hudson, Earl</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0D91F30F930A15752C0A9619C8B63" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Weekend Of Death in Iraq</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on situation in Iraq; Emma Greenwood, prompted by Jan 22 article, bemoans continuing deaths of United States service members; Derrell Durrett contends there are two options: stay and plan to win or acknowledge failure and leave (Jan 21 Frank Rich Op-Ed column); Earl Hudson comments on White House criticism of Speaker Nancy Pelosi statement (Jan 20 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''U.S. Toll in Iraq Is 27 for Deadly Weekend''(front page, Jan. 22):</p>
+        <p>There were 27 more unwelcome knocks at the door in the United States this past weekend, following more than 3,000 others since this war began.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''U.S. Toll in Iraq Is 27 for Deadly Weekend''(front page, Jan. 22):</p>
+        <p>There were 27 more unwelcome knocks at the door in the United States this past weekend, following more than 3,000 others since this war began.</p>
+        <p>Each one revealed to a loving family the devastating death of an American soldier, and to the nation a painful yet significant opportunity to stop, reassess what's gone wrong in Iraq and do whatever possible to prevent a bad situation from becoming much, much worse.</p>
+        <p>President Bush, can you hear the knocking? The sound reverberates constantly, dreadfully and with deafening force in those of us with loved ones in Iraq. My husband is currently deployed in Iraq. Please, for our families' and country's sake, stop, end the escalation and get our men and women out of Iraq.</p>
+        <p>Emma Greenwood  New York, Jan. 22, 2007</p>
+        <p>To the Editor:</p>
+        <p>Re ''Lying Like It's 2003,'' by Frank Rich (column, Jan. 21):</p>
+        <p>There are only two viable plans for Iraq: stay and play to win, or acknowledge failure and pack it in.</p>
+        <p>There is no political will for the first option, since it would require a draft to achieve a force nearing, if not exceeding, a million troops, as well as years of effort to secure the borders, provide security and give the Iraqis time to build a viable government -- something they've shown little talent for so far.</p>
+        <p>There is some growing political will for the ''pack it in'' option, if only to stop feeding the meat grinder that this occupation has become. The Bush administration's mendacious treatment of its ''strategy'' serves only to delay acknowledgment of our failure.</p>
+        <p>Derrell Durrett  Boulder, Colo., Jan. 21, 2007</p>
+        <p>To the Editor:</p>
+        <p>The White House has called Speaker Nancy Pelosi's comments about President Bush's motives for moving the surge troops into Iraq quickly ''poisonous'' (news article, Jan. 20).</p>
+        <p>Here is what Ms. Pelosi should have responded:</p>
+        <p>''Poisonous? I'll tell you what poison is: a misbegotten war in Iraq that drains our treasury, decimates our military readiness, undermines our prestige in the world, splits our nation and proceeds contrary to the message the voters sent in the election. That, my friends, is poison. What I'm looking for is an antidote.''</p>
+        <p>Earl Hudson  Carrollton, Tex., Jan. 20, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

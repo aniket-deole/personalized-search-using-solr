@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUICK BITE/Bridgeport; As Authentic as They Come</title>
+    <meta content="28ctqbiteCN" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/nyregion/nyregionspecial2/28ctqbite.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821955"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <location class="online_producer">Connecticut</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E3D8163FF93BA15752C0A9619C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUICK BITE/Bridgeport; As Authentic as They Come</hl1>
+        <hl2 class="online_headline">As Authentic as They Come</hl2>
+      </hedline>
+      <byline class="print_byline">By PATRICIA BROOKS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There are diners and there are diners, but few like White's Diner in Bridgeport, which has been owned for 30 years by the same couple -- Greg and Linda Cerminara, with Greg in charge of the cooking. They kept the name White's (for the original owner, who opened the diner around 1935), and over time the place has become a local institution.</p>
+        <p>''We still have some of our original patrons,'' Ms. Cerminara said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There are diners and there are diners, but few like White’s Diner in Bridgeport, which has been owned for 30 years by the same couple  Greg and Linda Cerminara, with Greg in charge of the cooking. They kept the name White’s (for the original owner, who opened the diner around 1935), and over time the place has become a local institution.</p>
+      </block>
+      <block class="full_text">
+        <p>There are diners and there are diners, but few like White's Diner in Bridgeport, which has been owned for 30 years by the same couple -- Greg and Linda Cerminara, with Greg in charge of the cooking. They kept the name White's (for the original owner, who opened the diner around 1935), and over time the place has become a local institution.</p>
+        <p>''We still have some of our original patrons,'' Ms. Cerminara said.</p>
+        <p>Now their children and grandchildren come for the traditional diner fare -- super-large cholesterol-be-darned breakfasts featuring more than a dozen omelets (try the spinach and feta cheese) and other egg dishes, griddlecakes and French toast, and sides like bacon, sausage, ham and home fries. A favorite omelet is the Farmer's Market, with onions, peppers, tomatoes, bacon, ham and sausage, at $7.95. (For the dieting faithful, Egg Beater omelets are also available.)</p>
+        <p>White's also features hearty lunch dishes like thick, hambone-simmered split-pea soup; goulash; escarole and beans; and scores of sandwich combinations. Greg's creamy rice pudding -- he prides himself on cooking almost everything from scratch -- has devotees returning just for it.</p>
+        <p>In appearance, White's is as authentic as diners come, with stools lining a long, long counter and booths edging the windows. Vintage photos of old Bridgeport decorate the walls; the only modern touches are the bamboo shades on the overhead lamps above each booth.</p>
+        <p>The diner seats 85, with space for an additional 50 in the adjoining dining room (used on weekends for family parties). Anyone seeking a cross section of local life will find it all day long at White's, where clothes, class, income and ethnicity mingle over coffee, pancakes, omelets and other full-bodied fare.</p>
+        <p>White's Diner, 280 Boston Avenue, Bridgeport; (203) 366-7486. Open daily, 5:30 a.m. to 3 p.m.; cash only.</p>
+        <p>PATRICIA BROOKS</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

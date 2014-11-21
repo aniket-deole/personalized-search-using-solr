@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LEIBLER, FRIEDA</title>
+    <meta content="dn012207" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820604"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LEIBLER, FRIEDA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DB1F3AF931A15752C0A9619C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LEIBLER, FRIEDA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEIBLER--Frieda The Officers, Trustees, and members of the Forest Hills Jewish Center mourn the death of Frieda Leibler, beloved mother of our member and past president, Jack Leibler. Our thoughts and prayers are with Jack and Valerie and their family at this painful time. Rabbi Gerald C. Skolnik Cantor Adam Frei Meir Toshav, President</p>
+        <p>$(6$)LEIBLER--Frieda. Loving wife of the late Charles. Beloved mother of Jack and Valerie, and Sylvia and Leo. Adored and adoring Bomma of Carine and Bruce, Philippe, Jennifer and Daniel, Lauren, Nicole and Jeremy. Cherished sister of Hilda and Berthe. May her memory be for a blessing.</p>
+      </block>
+      <block class="full_text">
+        <p>LEIBLER--Frieda The Officers, Trustees, and members of the Forest Hills Jewish Center mourn the death of Frieda Leibler, beloved mother of our member and past president, Jack Leibler. Our thoughts and prayers are with Jack and Valerie and their family at this painful time. Rabbi Gerald C. Skolnik Cantor Adam Frei Meir Toshav, President</p>
+        <p>$(6$)LEIBLER--Frieda. Loving wife of the late Charles. Beloved mother of Jack and Valerie, and Sylvia and Leo. Adored and adoring Bomma of Carine and Bruce, Philippe, Jennifer and Daniel, Lauren, Nicole and Jeremy. Cherished sister of Hilda and Berthe. May her memory be for a blessing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

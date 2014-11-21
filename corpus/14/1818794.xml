@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Andrée Finkle, Carter Worth</title>
+    <meta content="14finkle" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/weddings/14finkle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818794"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Finkle, Andr�e Jill (Andr�e Jill Worth)</person>
+        <person class="indexing_service">Worth, Carter Braxton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E5DB1330F937A25752C0A9619C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Andrée Finkle, Carter Worth</hl1>
+        <hl2 class="online_headline">Andrée Finkle and Carter Worth</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andrée Jill Finkle was married last evening to Carter Braxton Worth in New York. The Rev. Christiane M. Lang performed the ceremony at Brick Presbyterian Church.</p>
+        <p>Mrs. Worth, 30, is a sales associate in the showroom of Donghia, the furniture and textiles design firm in New York. She graduated from Lehigh.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Andrée Jill Finkle was married last evening to Carter Braxton Worth in New York. The Rev. Christiane M. Lang performed the ceremony at Brick Presbyterian Church.</p>
+      </block>
+      <block class="full_text">
+        <p>Andrée Jill Finkle was married last evening to Carter Braxton Worth in New York. The Rev. Christiane M. Lang performed the ceremony at Brick Presbyterian Church.</p>
+        <p>Mrs. Worth, 30, is a sales associate in the showroom of Donghia, the furniture and textiles design firm in New York. She graduated from Lehigh.</p>
+        <p>She is the daughter of Penny Finkle and Clifford Brown Finkle III of Essex Fells, N.J. Her father is the owner of Clifford B. Finkle Jr., a Clifton, N.J., company named for the bride's paternal grandfather, which trucks mail under a government contract. Her mother is a trustee of Montclair Kimberly Academy in Montclair, N.J.</p>
+        <p>Mr. Worth, 40, is the chief market technician at Oppenheimer &amp; Company, the investment bank in New York. He graduated from Boston University.</p>
+        <p>He is a son of Merwin Braxton Worth and Theron O. Worth Jr. of New York. His mother is a nurse administrator at Kirby Forensic Psychiatric Center, a maximum security hospital on Wards Island in New York. His father retired as the administrator of a New York office of Smith Barney, the securities brokerage firm.</p>
+        <p>The bridegroom is a descendant of William Brewster, a religious leader of Plymouth Colony; of Carter Braxton, a signer of the Declaration of Independence; and of Chief Justice John Marshall.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

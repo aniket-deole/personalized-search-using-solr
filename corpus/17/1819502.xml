@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="17botcorrex-7" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819502"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <org class="indexing_service">Wrigley, Wm Jr, Co</org>
+        <person class="indexing_service">Perez, William D</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4DE1130F934A25752C0A9619C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Jan 12 article about large severance payouts for executives; S C Johnson was company mentioned by Wrigley chief executive William D Perez</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day on Friday about the role that employment contracts play in the large severance payouts for executives gave an incorrect spelling in some copies for the name of a company that the chief executive of Wrigley, William D. Perez, mentioned during a discussion of contracts. It is S. C. Johnson, not S. C. Johnston.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day on Friday about the role that employment contracts play in the large severance payouts for executives gave an incorrect spelling in some copies for the name of a company that the chief executive of Wrigley, William D. Perez, mentioned during a discussion of contracts. It is S. C. Johnson, not S. C. Johnston.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

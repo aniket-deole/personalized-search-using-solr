@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Quicksand of Debt</title>
+    <meta content="l20debt" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820049"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Credit and Money Cards</classifier>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <classifier class="indexing_service" type="descriptor">Usury Laws (US State)</classifier>
+        <person class="indexing_service">Mintz, Morton</person>
+        <person class="indexing_service">Lee, Joe</person>
+        <person class="indexing_service">Parrish, Thomas</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2D91E30F933A15752C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Quicksand of Debt</hl1>
+      </hedline>
+      <abstract>
+        <p>Morton Mintz letter holds that Congressional committee should call in heads of banks and credit-card companies that charge unreasonably high interest rates and ask them at what point interest rate becomes usury (Joe Lee and Thomas Parrish Jan 13 Op-Ed)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Banks Gone Wild,'' by Joe Lee and Thomas Parrish (Op-Ed, Jan. 13):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Banks Gone Wild,'' by Joe Lee and Thomas Parrish (Op-Ed, Jan. 13):</p>
+        <p>A dictionary definition of usury is: ''The illegal action or practice of lending money at unreasonably high rates of interest.''</p>
+        <p>Is 29.99 percent -- the rate paid by ''T. P.,'' a credit-card holder mentioned by Mr. Lee and Mr. Parrish -- usurious?</p>
+        <p>It's a simple question. A Congressional committee could call in the heads of the banks and credit-card companies who charge such rates and ask them to respond to this and other simple questions, for example:</p>
+        <p>At what point does an interest rate become usurious? Forty percent? Fifty percent?</p>
+        <p>According to a personal-finance columnist cited in the article, ''If T. P. continued to pay little more than the monthly minimum, it could take him more than 30 years to pay off his balance -- even if he never went shopping again.''</p>
+        <p>Is T. P. a customer or an indentured servant?</p>
+        <p>Morton Mintz  Washington, Jan. 13, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

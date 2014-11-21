@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Supportive Community At an East Side S.R.O.</title>
+    <meta content="l14city-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818867"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Single-Room Occupancy</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Gottlieb, Leslie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Welfare (US)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5D71330F937A25752C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Supportive Community At an East Side S.R.O.</hl1>
+      </hedline>
+      <abstract>
+        <p>Leslie Gottlieb letter disputes impression given in December 24 article about residents living at single-room-occupancy building in Manhattan</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a longtime board member of the Neighborhood Coalition for Shelter, I was distressed by the impression given in ''A One-Room Christmas,'' by Saki Knafo (Dec. 24).</p>
+        <p>Having just volunteered there this Christmas, I can assure your readers that the residents of 211 East 81st Street are not alone -- on Christmas or any other day.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a longtime board member of the Neighborhood Coalition for Shelter, I was distressed by the impression given in ''A One-Room Christmas,'' by Saki Knafo (Dec. 24).</p>
+        <p>Having just volunteered there this Christmas, I can assure your readers that the residents of 211 East 81st Street are not alone -- on Christmas or any other day.</p>
+        <p>They are, in fact, supported by friendly and caring staff and volunteers, much individual attention and a wide array of services, including counseling, job assistance, education, G.E.D. training and recreation.</p>
+        <p>This Christmas many residents gathered for caroling, celebrating, opening presents and a bountiful dinner in a warm environment. One woman was especially pleased that she received the gift she hoped for -- membership in the American Museum of Natural History.</p>
+        <p>She and her fellow residents are part of a caring community that helped them have a merry Christmas and enables them to lead more productive and fulfilling lives.</p>
+        <p>Leslie Gottlieb  Upper East Side</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Love Ya, Really, From Way Over Here</title>
+    <meta content="23pabsent" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/23/us/politics/23pabsent.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820895"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="POLITICAL ACTION: PROTESTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Abortion</classifier>
+        <classifier class="indexing_service" type="descriptor">Roe V Wade (Supreme Court Decision)</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <org class="indexing_service">Supreme Court (US)</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Stolberg, Sheryl Gay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="descriptor">Abortion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Abortion</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E5D81F30F930A15752C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Love Ya, Really, From Way Over Here</hl1>
+        <hl2 class="online_headline">Love Ya, Really, From Way Over Here</hl2>
+      </hedline>
+      <byline class="print_byline">By SHERYL GAY STOLBERG</byline>
+      <byline class="normalized_byline">Stolberg, Sheryl Gay</byline>
+      <abstract>
+        <p>Pres Bush has been away from Washington every Jan 22, when abortion opponents protest on anniversary of Supreme Court's Roe v Wade decision; he addresses them by telephone (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Talk about phoning it in. President Bush's opposition to abortion is well known, but every Jan. 22, when opponents of abortion descend on Washington to protest on the anniversary of the Supreme Court's decision in Roe v. Wade, the president manages to be out of town, addressing protesters by telephone, not in person.</p>
+        <p>Over the years, calls have come from Camp David, Kansas, Missouri, New Mexico and West Virginia. The exception was 2001, when the protest fell on Mr. Bush's first official workday as president. That year, he sent a statement, read by Representative Christopher H. Smith, Republican of New Jersey.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When opponents of abortion descend on Washington to protest on the anniversary of the Supreme Court’s decision in Roe v. Wade, the president manages to be out of town.</p>
+      </block>
+      <block class="full_text">
+        <p>Talk about phoning it in. President Bush's opposition to abortion is well known, but every Jan. 22, when opponents of abortion descend on Washington to protest on the anniversary of the Supreme Court's decision in Roe v. Wade, the president manages to be out of town, addressing protesters by telephone, not in person.</p>
+        <p>Over the years, calls have come from Camp David, Kansas, Missouri, New Mexico and West Virginia. The exception was 2001, when the protest fell on Mr. Bush's first official workday as president. That year, he sent a statement, read by Representative Christopher H. Smith, Republican of New Jersey.</p>
+        <p>Yesterday found Mr. Bush again at Camp David. He made the call at 12:07 p.m., and left for Washington 12 minutes later.</p>
+        <p>SHERYL GAY STOLBERG</p>
+        <p>POLITICAL ACTION: PROTESTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

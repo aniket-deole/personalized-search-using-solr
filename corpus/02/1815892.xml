@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Exercising Helps Dieters Preserve Bone Strength</title>
+    <meta content="02onth" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/02/health/nutrition/02onth.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815892"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: ON THE SCALES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weight</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Exercise</classifier>
+        <classifier class="indexing_service" type="descriptor">Bones</classifier>
+        <org class="indexing_service">Washington University (St Louis)</org>
+        <org class="indexing_service">Archives of Internal Medicine</org>
+        <person class="indexing_service">Bakalar, Nicholas</person>
+        <person class="indexing_service">Villareal, Dennis T (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Dieting</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Dieting</classifier>
+        <classifier class="online_producer" type="descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="descriptor">Bones</classifier>
+        <classifier class="online_producer" type="descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dieting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E7D61630F931A35752C0A9619C8B63" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Exercising Helps Dieters Preserve Bone Strength</hl1>
+        <hl2 class="online_headline">On the Scales: Exercising Helps Dieters Preserve Bone Strength</hl2>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+      <abstract>
+        <p>Dr Dennis T Villareal of Washington University, St Louis, leads study that finds people who diet without exercise are at risk of losing bone mineral density; research is published in Archives of Internal Medicine; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When overweight people lose weight, they often lose bone mineral density as well, increasing their risk for osteoporosis. But new research suggests that losing weight with exercise rather than calorie restriction can preserve bone strength.</p>
+        <p>Scientists randomly assigned 48 healthy, non-obese people in their 50s to three groups for a one-year study. The first group reduced calorie intake by 16 percent in the first three months and then 20 percent for the rest of the year. The second increased daily energy expenditure -- exercise, in other words -- by 16 percent in the first three months and then by 20 percent for the following nine months, carefully tracked by trainers using heart rate monitors. A control group was monitored without being assigned a diet or exercise program. The results appear in the Dec. 11 issue of The Archives of Internal Medicine.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New research suggests that losing weight with exercise rather than calorie restriction can preserve bone strength.</p>
+      </block>
+      <block class="full_text">
+        <p>When overweight people lose weight, they often lose bone mineral density as well, increasing their risk for osteoporosis. But new research suggests that losing weight with exercise rather than calorie restriction can preserve bone strength.</p>
+        <p>Scientists randomly assigned 48 healthy, non-obese people in their 50s to three groups for a one-year study. The first group reduced calorie intake by 16 percent in the first three months and then 20 percent for the rest of the year. The second increased daily energy expenditure -- exercise, in other words -- by 16 percent in the first three months and then by 20 percent for the following nine months, carefully tracked by trainers using heart rate monitors. A control group was monitored without being assigned a diet or exercise program. The results appear in the Dec. 11 issue of The Archives of Internal Medicine.</p>
+        <p>The diet group lost an average of about 17 pounds; the exercise group about 14 pounds. But the people on the low-calorie diet also lost bone mineral density -- more than 2 percent at the spine, hips and leg. Those in the exercise group experienced no significant change in bone density, and the controls lost neither weight nor bone density.</p>
+        <p>The authors acknowledge that their sample was not large and did not examine sex differences in bone mineral density responses.</p>
+        <p>Dr. Dennis T. Villareal, the lead author of the study and an associate professor of medicine at Washington University in St. Louis, recommends diet and exercise together in a weight-loss program. ''That way, you get the weight loss benefits of the diet,'' he said, ''but prevent the negative effect on bone health.''</p>
+        <p>VITAL SIGNS: ON THE SCALES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

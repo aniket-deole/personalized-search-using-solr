@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 + 2</title>
+    <meta content="06refers" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816785"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DF1530F935A35752C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 + 2</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kicking and scheming, 8 of the N.F.L.'s 12 playoff teams will be in action this weekend in back-to-back doubleheaders.</p>
+        <p>KANSAS CITY AT INDIANAPOLIS  4:30 p.m., NBC</p>
+        <p>DALLAS AT SEATTLE  8 p.m., NBC</p>
+        <p>TODAY -- The games include a team that was in last year's Super Bowl (the Seahawks), a team that can't seem to get to the Super Bowl (the Colts) and a coach (the Cowboys' Bill Parcells) who would like to get there one more time.</p>
+        <p>JETS AT NEW ENGLAND  1 p.m., CBS</p>
+        <p>GIANTS  AT PHILADELPHIA  4:30 p.m., Fox</p>
+        <p>TOMORROW -- The pairings feature division rivals, with the Jets trying to upset the Patriots for the second time this season and the slumping, but fortunate, Giants trying to justify their presence by surprising the Eagles.</p>
+      </block>
+      <block class="full_text">
+        <p>Kicking and scheming, 8 of the N.F.L.'s 12 playoff teams will be in action this weekend in back-to-back doubleheaders.</p>
+        <p>KANSAS CITY AT INDIANAPOLIS  4:30 p.m., NBC</p>
+        <p>DALLAS AT SEATTLE  8 p.m., NBC</p>
+        <p>TODAY -- The games include a team that was in last year's Super Bowl (the Seahawks), a team that can't seem to get to the Super Bowl (the Colts) and a coach (the Cowboys' Bill Parcells) who would like to get there one more time.</p>
+        <p>JETS AT NEW ENGLAND  1 p.m., CBS</p>
+        <p>GIANTS  AT PHILADELPHIA  4:30 p.m., Fox</p>
+        <p>TOMORROW -- The pairings feature division rivals, with the Jets trying to upset the Patriots for the second time this season and the slumping, but fortunate, Giants trying to justify their presence by surprising the Eagles.  PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

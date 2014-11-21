@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Orchestra in Transition Tackles an Unfinished Work</title>
+    <meta content="25carn" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/arts/music/25carn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821226"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Philadelphia Orchestra</org>
+        <org class="online_producer">Carnegie Hall</org>
+        <person class="online_producer">Eschenbach, Christoph</person>
+        <person class="online_producer">Shaham, Gil</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE4DC163FF936A15752C0A9619C8B63" item-length="407" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Orchestra in Transition Tackles an Unfinished Work</hl1>
+        <hl2 class="online_headline">An Orchestra in Transition Tackles an Unfinished Work</hl2>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Corporate success does not necessarily mean mutual admiration between worker and management. Some orchestras do best while actively disliking the person conducting them, but that is usually a short-term transaction. The Philadelphia Orchestra and its music director, Christoph Eschenbach, played Bruckner very well at Carnegie Hall on Tuesday night with the full knowledge that Mr. Eschenbach will complete his contract next season and leave. His tenure has been too startlingly short to avoid the conclusion that players wanted him to go, and no news other than boilerplate press releases indicate that Mr. Eschenbach goes willingly.</p>
+        <p>Yet there they all were at Carnegie Hall, not only putting a good face on things but also doing their best. Who likes whom is less important than Bruckner's unfinished skyscraper of a symphony, the Ninth. Mr. Eschenbach's programs have been thoughtful, if a little somber, and this one was to set the ''Kindertotenlieder,'' perhaps the closest Mahler ever came to miniature and brevity, against Brucknerian grandness.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Philadelphia Orchestra and its music director, Christoph Eschenbach, played Bruckner very well with the full knowledge that Mr. Eschenbach will complete his contract next season and leave.</p>
+      </block>
+      <block class="full_text">
+        <p>Corporate success does not necessarily mean mutual admiration between worker and management. Some orchestras do best while actively disliking the person conducting them, but that is usually a short-term transaction. The Philadelphia Orchestra and its music director, Christoph Eschenbach, played Bruckner very well at Carnegie Hall on Tuesday night with the full knowledge that Mr. Eschenbach will complete his contract next season and leave. His tenure has been too startlingly short to avoid the conclusion that players wanted him to go, and no news other than boilerplate press releases indicate that Mr. Eschenbach goes willingly.</p>
+        <p>Yet there they all were at Carnegie Hall, not only putting a good face on things but also doing their best. Who likes whom is less important than Bruckner's unfinished skyscraper of a symphony, the Ninth. Mr. Eschenbach's programs have been thoughtful, if a little somber, and this one was to set the ''Kindertotenlieder,'' perhaps the closest Mahler ever came to miniature and brevity, against Brucknerian grandness.</p>
+        <p>So Thomas Quasthoff's cancellation as baritone soloist must have been a disappointment. The violinist Gil Shaham was willing and available and brought along a spillover from the Mozart year, the last of the violin concertos in A (K.219). Mr. Shaham descends from a Russian tradition by way of Israel, with big technique, electrically charged tone and general effusiveness. He smothered Mozart in love, playing the outer movements a little too fast with ease and interrupting the music's train of thought with long cadenzas out of scale with the music's terseness. Yet who can tire of following Mozart's Adagio through its astonishing harmonic maze?</p>
+        <p>Not enough listeners have the patience to discover what a great man Bruckner really was. A Mahler symphony is like a treasure hunt along circuitous and ever-changing routes. The Bruckner Ninth plants its feet and looks in all directions. It sees a lot. The landscapes are immense and their prospect is deeply moving, and the Philadelphia, with its string resonance and magnificent brass players, had the means to sustain it all.</p>
+        <p>The ensemble was tighter in the bigger piece than in the cut-down Mozart ensemble, where players may have simply been trying to make their soloist feel at home. Mr. Eschenbach's broadness played to the Bruckner's bigness of both sound and heart. I like this piece trailing away with a slow movement. Bruckner was trying to write the finale on his deathbed, but God proved a more decisive editor.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

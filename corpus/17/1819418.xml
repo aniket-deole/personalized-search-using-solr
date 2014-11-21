@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Somalia Lifts Ban On 3 Radio Stations</title>
+    <meta content="17somalia" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/17/world/africa/17somalia.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819418"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Censorship</classifier>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <location class="indexing_service">Somalia</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Somalia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Somalia</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Censorship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Somalia</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E6D61030F934A25752C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Somalia Lifts Ban On 3 Radio Stations</hl1>
+        <hl2 class="online_headline">Somalia Lifts Ban on 3 Radio Stations</hl2>
+      </hedline>
+      <dateline>MOGADISHU, Somalia, Jan. 16</dateline>
+      <abstract>
+        <p>Somalia's transitional government lifts brief media ban, allowing three radio stations to resume broadcasting (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three radio stations were back on the air on Tuesday after the transitional government, which took control of Mogadishu, the capital, last month, lifted a brief media ban.</p>
+        <p>Gen. Mohammed Warsame Farah, the head of national security, said that as long as broadcasters did not carry antigovernment propaganda they would be allowed to operate.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The head of national security said that as long as broadcasters did not carry antigovernment propaganda they would be allowed to operate.</p>
+      </block>
+      <block class="full_text">
+        <p>Three radio stations were back on the air on Tuesday after the transitional government, which took control of Mogadishu, the capital, last month, lifted a brief media ban.</p>
+        <p>Gen. Mohammed Warsame Farah, the head of national security, said that as long as broadcasters did not carry antigovernment propaganda they would be allowed to operate.</p>
+        <p>''They were releasing things that were not right,'' Mr. Farah said after a meeting with several broadcasters. ''Everything is settled now. We will work together.''</p>
+        <p>In Baidoa, the inland town where the transitional parliament still meets, Prime Minister Ali Mohammed Gedi told lawmakers on Tuesday that African peacekeepers, from Nigeria, South Africa, Malawi and Uganda, would arrive in two weeks, but only Uganda has publicly committed to sending soldiers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

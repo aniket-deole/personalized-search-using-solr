@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOKING AHEAD</title>
+    <meta content="15ahead" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/business/15ahead.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819026"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E7DD1030F936A25752C0A9619C8B63" item-length="333" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOKING AHEAD</hl1>
+        <hl2 class="online_headline">Looking Ahead</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EXECUTIVE SENTENCING -- The former chairman of the Cendant Corporation, Walter A. Forbes (below), is to be sentenced Wednesday after his conviction at the end of October on charges related to large-scale accounting fraud at the conglomerate, which has since been broken up. It took eight years and three trials for federal prosecutors to prevail against Mr. Forbes.</p>
+        <p>EXPERT WITNESS -- The Federal Reserve chairman, Ben S. Bernanke, will testify before the Senate Budget Committee on Thursday, and he is expected to discuss the outlook for the economy. Mr. Bernanke has said in the past that he would try not to take partisan sides on specific budget matters. President Bush will present his budget proposal on Feb. 5.</p>
+        <p>RETAILERS CONVENE -- The National Retail Federation's big annual conference, which started Sunday, will continue through Wednesday at the Javits Convention Center in New York. The trade group plans to show off a ''store of the future,'' which it describes as an environmentally friendly boutique aimed at those 17 to 24.</p>
+        <p>NUMBERS THAT MATTER -- The week will bring snapshots of inflation, with the Producer Price Index for December (Wednesday) and the Consumer Price Index for December (Thursday). Other reports include the Federal Reserve's ''beige book'' of regional economic conditions as well as industrial production and capacity utilization for December (Wednesday); December housing starts and the Conference Board's index of leading economic indicators (Thursday); and the University of Michigan's consumer sentiment index (Friday).</p>
+        <p>MANY EARNINGS REPORTS -- Earnings season starts to pick up steam, primarily in technology and financial services industries. Among the companies reporting are Intel and Wells Fargo (Tuesday); Apple, JPMorgan Chase, Kinder Morgan, Mellon Financial, Northern Trust, Parker Hannifin, Southwest Airlines, State Street and Washington Mutual (Wednesday); Bank of New York, Capital One Financial, Harley-Davidson, Merrill Lynch, Novartis and UnitedHealth Group (Thursday); and Citigroup, General Electric and Motorola (Friday).</p>
+        <p>HOLIDAY SCHEDULE -- Financial markets are closed on Monday in observance of Martin Luther King's Birthday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>EXECUTIVE SENTENCING The former chairman of the Cendant Corporation, Walter A. Forbes (below), is to be sentenced Wednesday after his conviction at the end of October on charges related to large-scale accounting fraud at the conglomerate, which has since been broken up. It took eight years and three trials for federal prosecutors to prevail against Mr. Forbes.</p>
+      </block>
+      <block class="full_text">
+        <p>EXECUTIVE SENTENCING -- The former chairman of the Cendant Corporation, Walter A. Forbes (below), is to be sentenced Wednesday after his conviction at the end of October on charges related to large-scale accounting fraud at the conglomerate, which has since been broken up. It took eight years and three trials for federal prosecutors to prevail against Mr. Forbes.</p>
+        <p>EXPERT WITNESS -- The Federal Reserve chairman, Ben S. Bernanke, will testify before the Senate Budget Committee on Thursday, and he is expected to discuss the outlook for the economy. Mr. Bernanke has said in the past that he would try not to take partisan sides on specific budget matters. President Bush will present his budget proposal on Feb. 5.</p>
+        <p>RETAILERS CONVENE -- The National Retail Federation's big annual conference, which started Sunday, will continue through Wednesday at the Javits Convention Center in New York. The trade group plans to show off a ''store of the future,'' which it describes as an environmentally friendly boutique aimed at those 17 to 24.</p>
+        <p>NUMBERS THAT MATTER -- The week will bring snapshots of inflation, with the Producer Price Index for December (Wednesday) and the Consumer Price Index for December (Thursday). Other reports include the Federal Reserve's ''beige book'' of regional economic conditions as well as industrial production and capacity utilization for December (Wednesday); December housing starts and the Conference Board's index of leading economic indicators (Thursday); and the University of Michigan's consumer sentiment index (Friday).</p>
+        <p>MANY EARNINGS REPORTS -- Earnings season starts to pick up steam, primarily in technology and financial services industries. Among the companies reporting are Intel and Wells Fargo (Tuesday); Apple, JPMorgan Chase, Kinder Morgan, Mellon Financial, Northern Trust, Parker Hannifin, Southwest Airlines, State Street and Washington Mutual (Wednesday); Bank of New York, Capital One Financial, Harley-Davidson, Merrill Lynch, Novartis and UnitedHealth Group (Thursday); and Citigroup, General Electric and Motorola (Friday).</p>
+        <p>HOLIDAY SCHEDULE -- Financial markets are closed on Monday in observance of Martin Luther King's Birthday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

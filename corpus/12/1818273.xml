@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="12trans" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818273"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E4DD1330F931A25752C0A9619C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  KANSAS CITY ROYALS--Agreed to terms with LHP Jimmy Gobble on a one-year contract.</p>
+        <p>National League  CHICAGO CUBS--Named Peter Chase director of media relations.  METS--Agreed to terms with RHP Duaner Sanchez on a one-year contract.</p>
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  DENVER NUGGETS--Traded G Earl Boykins, G Julius Hodge and cash to Milwaukee for G Steve Blake.  PHILADELPHIA 76ERS--Waived F Chris Webber.  UTAH JAZZ--Assigned G C.J. Miles to Idaho of the NBA Development League.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  BUFFALO BILLS--Signed WR Chris Denney, WR Daunta Peterson and P Josh Brazen, and allocated them to NFL Europe.  DENVER BRONCOS--Named Jim Bates assistant head coach of defense and Bob Slowik defensive coordinator.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  KANSAS CITY ROYALS--Agreed to terms with LHP Jimmy Gobble on a one-year contract.</p>
+        <p>National League  CHICAGO CUBS--Named Peter Chase director of media relations.  METS--Agreed to terms with RHP Duaner Sanchez on a one-year contract.</p>
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  DENVER NUGGETS--Traded G Earl Boykins, G Julius Hodge and cash to Milwaukee for G Steve Blake.  PHILADELPHIA 76ERS--Waived F Chris Webber.  UTAH JAZZ--Assigned G C.J. Miles to Idaho of the NBA Development League.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  BUFFALO BILLS--Signed WR Chris Denney, WR Daunta Peterson and P Josh Brazen, and allocated them to NFL Europe.  DENVER BRONCOS--Named Jim Bates assistant head coach of defense and Bob Slowik defensive coordinator.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

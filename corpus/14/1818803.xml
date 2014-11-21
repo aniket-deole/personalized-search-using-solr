@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alyssa Feinsmith, Matthew Grodin</title>
+    <meta content="14feinsmith" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/weddings/14feinsmith.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818803"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Feinsmith, Alyssa (Alyssa Grodin)</person>
+        <person class="indexing_service">Grodin, Matthew Lawrence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E4DB1330F937A25752C0A9619C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alyssa Feinsmith, Matthew Grodin</hl1>
+        <hl2 class="online_headline">Alyssa Feinsmith, Matthew Grodin</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alyssa Feinsmith, a daughter of Dr. and Mrs. Norman Feinsmith of Cherry Hill, N.J., is to be married this evening to Matthew Lawrence Grodin, a son of Mr. and Mrs. James A. Grodin of Aurora, Ohio. Rabbi Joshua Skoff is to officiate at the Ritz-Carlton Cleveland.</p>
+        <p>The bride, 27, is a lawyer in New York. She graduated cum laude from Syracuse and received her law degree from New York Law School.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Alyssa Feinsmith, a daughter of Dr. and Mrs. Norman Feinsmith of Cherry Hill, N.J., is to be married this evening to Matthew Lawrence Grodin, a son of Mr. and Mrs. James A. Grodin of Aurora, Ohio. Rabbi Joshua Skoff is to officiate at the Ritz-Carlton Cleveland.</p>
+      </block>
+      <block class="full_text">
+        <p>Alyssa Feinsmith, a daughter of Dr. and Mrs. Norman Feinsmith of Cherry Hill, N.J., is to be married this evening to Matthew Lawrence Grodin, a son of Mr. and Mrs. James A. Grodin of Aurora, Ohio. Rabbi Joshua Skoff is to officiate at the Ritz-Carlton Cleveland.</p>
+        <p>The bride, 27, is a lawyer in New York. She graduated cum laude from Syracuse and received her law degree from New York Law School.</p>
+        <p>Her father is an associate clinical professor at the University of Pennsylvania School of Medicine. He is also the director of the cardiology clinic at Penn Presbyterian Medical Center and was its chief of staff from 1998 to 2000.</p>
+        <p>The bridegroom, 28, is a real estate investment analyst at Spectrum Group Management, a hedge fund in New York. He graduated from Cornell.</p>
+        <p>His mother, Randi Grodin, is a real estate agent in the Pepper Pike, Ohio, office of Prudential Select Properties. His father is the vice president for marketing at River Recycling Industries in Cleveland, which recycles copper and copper-base metals.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

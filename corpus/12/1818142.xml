@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GLASHOW, DR. JULES LEWIS</title>
+    <meta content="dn011207" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818142"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GLASHOW, DR. JULES LEWIS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE2D71E3AF931A25752C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GLASHOW, DR. JULES LEWIS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GLASHOW--Dr. Jules Lewis, 88, January 10, 2007. Graduate of Washington University School of Medicine 1942. Served as general Eisenhower's surgeon, Versailles Shaef. First American Physician to liberate Dachau. He practiced in NYC for 45 years. Predeceased by his beloved wife of 46 years, Judith Magill. Survived by daughter Jamie Pardell, sons Jonathan Lewis and Jeffrey Lawrence, brother Sheldon (1979 Nobel Prize Winner in Physics) and four grandchildren. Services today 1:30PM, Robert Schoem's Menorah Chapel, W-150 Rt. 4 East, Paramus, NJ. Donations in his memory to Mount Sinai Medical Center Box 1049, 1 Gustave Levy Place, New York, NY 10029</p>
+      </block>
+      <block class="full_text">
+        <p>GLASHOW--Dr. Jules Lewis, 88, January 10, 2007. Graduate of Washington University School of Medicine 1942. Served as general Eisenhower's surgeon, Versailles Shaef. First American Physician to liberate Dachau. He practiced in NYC for 45 years. Predeceased by his beloved wife of 46 years, Judith Magill. Survived by daughter Jamie Pardell, sons Jonathan Lewis and Jeffrey Lawrence, brother Sheldon (1979 Nobel Prize Winner in Physics) and four grandchildren. Services today 1:30PM, Robert Schoem's Menorah Chapel, W-150 Rt. 4 East, Paramus, NJ. Donations in his memory to Mount Sinai Medical Center Box 1049, 1 Gustave Levy Place, New York, NY 10029</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

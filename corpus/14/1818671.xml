@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SOUVENIRS OF RUSSIA</title>
+    <meta content="14MAIL-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818671"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Seasons and Months</classifier>
+        <location class="indexing_service">Russia</location>
+        <person class="indexing_service">Ziony, Ruth Kramer</person>
+        <person class="indexing_service">Dougherty, Steve</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Seasons and Months</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFDC1230F937A25752C0A9619C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SOUVENIRS OF RUSSIA</hl1>
+      </hedline>
+      <abstract>
+        <p>Ruth Kramer Ziony letter on Steve Dougherty's December 31, 2006, article on winter travels in Russia</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Regarding ''Holiday on Ice: With a Shot of Vodka on the Side'' by Steve Dougherty (Dec. 31): I am a 60-something female, and last December I traveled on my own to Moscow and St. Petersburg.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Regarding ''Holiday on Ice: With a Shot of Vodka on the Side'' by Steve Dougherty (Dec. 31): I am a 60-something female, and last December I traveled on my own to Moscow and St. Petersburg.</p>
+        <p>I'd like to mention more wonderful things about St. Petersburg. The Puppet Fairy Tale Theater puts on a magical series of plays for children based on classic nursery tales. Also, a trip to the post office yielded some of the most amazing souvenirs of my trip. There, I bought embossed stamps of the zodiac, which now hang over my computer.</p>
+        <p>Ruth Kramer Ziony  Los Feliz, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

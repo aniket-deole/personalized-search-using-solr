@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOKING AHEAD</title>
+    <meta content="08ahead" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/08/business/08ahead.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817366"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EFDC1530F93BA35752C0A9619C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOKING AHEAD</hl1>
+        <hl2 class="online_headline">Looking Ahead</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CONFERENCE SEASON -- Three major consumer-oriented business conferences will be vying for headlines this week, with new product announcements from participating companies expected to be flying thick and fast. New cars, computers, televisions, electronic gadgets -- there will be plenty for nearly any taste. The 2007 North American International Auto Show started yesterday in Detroit; press previews are through Tuesday and industry previews are on Wednesday and on Thursday. The auto show opens to the public on Saturday, through Jan. 21. The 2007 International C.E.S. (consumer electronics show) takes place on Monday through Thursday in Las Vegas. Apple's Macworld conference opens on Tuesday in San Francisco. Among possible new products is a combination iPod and cellphone.</p>
+        <p>FED SPEECHES -- A market sell-off followed the release last week of Federal Reserve minutes suggesting continued concerns about inflation and a possible need to raise interest rates. This week, inflation-watchers will be following a few presentations by influential Federal Reserve governors. On Monday, Donald L. Kohn, a Fed vice chairman, will speak at the Rotary Club of Atlanta on the outlook for the economy. On Thursday, Timothy F. Geithner, left, president of the New York Fed, will speak at a Council on Foreign Relations roundtable on developments in the global economy and their implications for the United States. Also on Thursday, Susan Schmidt Bies, a member of the Fed's board of governors, will talk at the United States Chamber of Commerce about risk management.</p>
+        <p>ECONOMIC REPORTS -- This week's potentially market-moving economic reports will include consumer credit for November (Monday); November trade deficit and November wholesale trade (Wednesday); and December retail sales, December import prices and November business inventories (Friday).</p>
+        <p>SCANT EARNINGS REPORTS -- Alcoa will begin the earnings season by posting fourth-quarter results (Tuesday).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>CONFERENCE SEASON Three major consumer-oriented business conferences will be vying for headlines this week, with new product announcements from participating companies expected to be flying thick and fast. New cars, computers, televisions, electronic gadgets  there will be plenty for nearly any taste. The 2007 North American International Auto Show started yesterday in Detroit; press previews are through Tuesday and industry previews are on Wednesday and on Thursday. The auto show opens to the public on Saturday, through Jan. 21. The 2007 International C.E.S. (consumer electronics show) takes place on Monday through Thursday in Las Vegas. Apple’s Macworld conference opens on Tuesday in San Francisco. Among possible new products is a combination iPod and cellphone.</p>
+      </block>
+      <block class="full_text">
+        <p>CONFERENCE SEASON -- Three major consumer-oriented business conferences will be vying for headlines this week, with new product announcements from participating companies expected to be flying thick and fast. New cars, computers, televisions, electronic gadgets -- there will be plenty for nearly any taste. The 2007 North American International Auto Show started yesterday in Detroit; press previews are through Tuesday and industry previews are on Wednesday and on Thursday. The auto show opens to the public on Saturday, through Jan. 21. The 2007 International C.E.S. (consumer electronics show) takes place on Monday through Thursday in Las Vegas. Apple's Macworld conference opens on Tuesday in San Francisco. Among possible new products is a combination iPod and cellphone.</p>
+        <p>FED SPEECHES -- A market sell-off followed the release last week of Federal Reserve minutes suggesting continued concerns about inflation and a possible need to raise interest rates. This week, inflation-watchers will be following a few presentations by influential Federal Reserve governors. On Monday, Donald L. Kohn, a Fed vice chairman, will speak at the Rotary Club of Atlanta on the outlook for the economy. On Thursday, Timothy F. Geithner, left, president of the New York Fed, will speak at a Council on Foreign Relations roundtable on developments in the global economy and their implications for the United States. Also on Thursday, Susan Schmidt Bies, a member of the Fed's board of governors, will talk at the United States Chamber of Commerce about risk management.</p>
+        <p>ECONOMIC REPORTS -- This week's potentially market-moving economic reports will include consumer credit for November (Monday); November trade deficit and November wholesale trade (Wednesday); and December retail sales, December import prices and November business inventories (Friday).</p>
+        <p>SCANT EARNINGS REPORTS -- Alcoa will begin the earnings season by posting fourth-quarter results (Tuesday).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

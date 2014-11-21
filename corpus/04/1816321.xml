@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yanks Still Seek Help at First</title>
+    <meta content="04yanks" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/sports/baseball/04yanks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816321"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Trades (Sports)</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Lee, Travis</person>
+        <person class="indexing_service">Johnson, Randy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trades (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Yankees</org>
+        <person class="online_producer">Johnson, Randy</person>
+        <person class="online_producer">Lee, Travis</person>
+        <person class="online_producer">Mientkiewicz, Doug</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E7D71730F937A35752C0A9619C8B63" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yanks Still Seek Help at First</hl1>
+        <hl2 class="online_headline">After Rotation, Yankees Still Seek Help at First</hl2>
+      </hedline>
+      <abstract>
+        <p>New York Yankees are still trying to trade pitcher Randy Johnson, and may pursue first baseman Travis Lee (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Yankees continued their attempt to trade Randy Johnson yesterday, talking with multiple teams about a deal. The most likely match remains Johnson's former team, the Arizona Diamondbacks, but Arizona has not been granted a 72-hour window to speak with him. Johnson must approve a trade and it is not clear how the Diamondbacks would afford him.</p>
+        <p>While the Johnson talks have absorbed most of the Yankees' attention, they have other needs. They are still interested in signing a first baseman, with Travis Lee emerging as an option if they cannot agree to terms with Doug Mientkiewicz on a one-year deal.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While the Randy Johnson trade talks have absorbed most of the Yankees’ attention, they are still interested in signing a first baseman, with Travis Lee emerging as an option if they cannot sign Doug Mientkiewicz.</p>
+      </block>
+      <block class="full_text">
+        <p>The Yankees continued their attempt to trade Randy Johnson yesterday, talking with multiple teams about a deal. The most likely match remains Johnson's former team, the Arizona Diamondbacks, but Arizona has not been granted a 72-hour window to speak with him. Johnson must approve a trade and it is not clear how the Diamondbacks would afford him.</p>
+        <p>While the Johnson talks have absorbed most of the Yankees' attention, they have other needs. They are still interested in signing a first baseman, with Travis Lee emerging as an option if they cannot agree to terms with Doug Mientkiewicz on a one-year deal.</p>
+        <p>Signing Mientkiewicz is the Yankees' priority because of his exceptional glove and decent left-handed bat. Lee is also a left-hander and a strong defender, but he hit only .224 for Tampa Bay last season. He played briefly for the Yankees in 2004.</p>
+        <p>Mientkiewicz had back surgery last August after hitting .283 for Kansas City. He has discussed a one-year deal with the Yankees.</p>
+        <p>The Yankees already have two right-handers at first base in Andy Phillips and Josh Phelps, with only one expected to make the team. If they want to add another right-handed first baseman, they could still turn to the free agent Craig Wilson, who hit .212 in 40 games for the Yankees last season.</p>
+        <p>For now, the Yankees do not have a roster spot for Bernie Williams, the longtime center fielder, and they also need a backup infielder. They would also like another left-handed reliever to complement Mike Myers. They have signed the left-hander Ben Kozlowski, a minor leaguer, but have made no formal offers to veteran left-handers on the free-agent market.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

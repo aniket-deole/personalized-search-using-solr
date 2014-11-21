@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'American Speeches'</title>
+    <meta content="Letters.t-2" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820217"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Widmer, Ted</person>
+        <person class="indexing_service">Buckley, William F Jr</person>
+        <object.title class="indexing_service">American Speeches (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E2D91330F932A15752C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'American Speeches'</hl1>
+      </hedline>
+      <abstract>
+        <p>Ted Widmer letter comments on William F Buckley Jr Jan 7 review of book American Speeches, which he edited</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am grateful to William F. Buckley Jr. for the kind attention he paid to the two volumes of ''American Speeches'' I recently edited for the Library of America (Jan. 7). But I wanted to correct one misconception in his review. As is well known, the Library of America does not allow introductions or lengthy editorial explanations in its books, believing the American people quite capable of reading their classic texts for themselves. Still, it was exciting to see Buckley calling for more academic interference in the political realm.</p>
+        <p>Ted Widmer  Providence, R.I.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am grateful to William F. Buckley Jr. for the kind attention he paid to the two volumes of ''American Speeches'' I recently edited for the Library of America (Jan. 7). But I wanted to correct one misconception in his review. As is well known, the Library of America does not allow introductions or lengthy editorial explanations in its books, believing the American people quite capable of reading their classic texts for themselves. Still, it was exciting to see Buckley calling for more academic interference in the political realm.</p>
+        <p>Ted Widmer  Providence, R.I.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

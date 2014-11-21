@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lagging Judicial Pay</title>
+    <meta content="05fri2" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/05/opinion/05fri2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816527"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Judges</classifier>
+        <person class="indexing_service">Roberts, John G Jr (Chief Justice)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Judges</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Supreme Court</org>
+        <person class="online_producer">Roberts, John G Jr</person>
+        <person class="online_producer">Rehnquist, William H</person>
+        <person class="online_producer">Leahy, Patrick J</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DC1430F936A35752C0A9619C8B63" item-length="410" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lagging Judicial Pay</hl1>
+        <hl2 class="online_headline">Lagging Judicial Pay</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial agrees with Chief Justice John Roberts Jr's call for substantial pay raise for federal judges; says judges considering future, more lucrative jobs may be less willing to issue unpopular rulings upholding important rights</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chief Justice John Roberts Jr. is embracing with gusto a cause championed by his predecessor, William Rehnquist: the need for a substantial pay raise for federal judges. Justice Roberts devoted his second annual year-end report to this issue, and it should be required reading in Congress.</p>
+        <p>Getting Congress to act promptly on judicial salaries may not be easy, if history is any guide. But Mr. Roberts is right to note the link between maintaining an adequate standard of judicial compensation and preserving the quality and independence of the judiciary, and to prod Congress on this issue.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The nation would be well-served by a bipartisan package that grants federal judges a sizable raise and requires judges to forgo privately financed junkets that cast an ethical cloud on the courts.</p>
+      </block>
+      <block class="full_text">
+        <p>Chief Justice John Roberts Jr. is embracing with gusto a cause championed by his predecessor, William Rehnquist: the need for a substantial pay raise for federal judges. Justice Roberts devoted his second annual year-end report to this issue, and it should be required reading in Congress.</p>
+        <p>Getting Congress to act promptly on judicial salaries may not be easy, if history is any guide. But Mr. Roberts is right to note the link between maintaining an adequate standard of judicial compensation and preserving the quality and independence of the judiciary, and to prod Congress on this issue.</p>
+        <p>For starters, an immediate increase in the neighborhood of 30 percent would help make up for dual blows of inflation and Congress's periodic withholding of cost-of-living adjustments. The last time federal judges received a substantial pay raise was 1989.</p>
+        <p>By statute, a sitting federal trial judge makes $165,200 a year. That's a lot of money, the same pay as a member of Congress. But as the chief justice notes in his report, judges have fallen well behind the American labor force as a whole in keeping up with inflation. Since 1969, a judge's pay has declined by 23.9 percent, adjusted for inflation, while the national average for all wages rose by 17.8 percent.</p>
+        <p>Federal judges at every level earn significantly less than law school deans, senior law school professors, and even junior associates at some big-time law firms. There is no definitive study, but it cannot be just coincidental that federal judges are leaving the bench at an increasing rate, thereby ''threatening the viability of life tenure,'' as Justice Roberts put it. Considering the impact on a future job could make judges less willing to issue unpopular rulings upholding important rights.</p>
+        <p>It is tempting to dismiss as hyperbole the chief justice's characterization of this issue as a ''constitutional crisis.'' But the salary issue is a serious one, touching as it does on the two constitutional provisions designed to ensure an independent judiciary -- the one granting life tenure, and the other ensuring no reduction in judicial pay.</p>
+        <p>The chief justice's focus on judicial pay has drawn praise from Senator Patrick Leahy, the new Judiciary Committee chairman and a longtime champion of improved judicial salaries. The nation would be well-served by a comprehensive bipartisan package that grants federal judges a sizable raise, ends the linkage between judicial and Congressional salaries, and requires judges to forgo privately financed junkets that cast an ethical cloud on the courts.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

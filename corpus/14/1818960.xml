@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Disabled Gain Bathroom In Senator's Office Choice</title>
+    <meta content="14weweekWC-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818960"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="indexing_service" type="descriptor">Handicapped</classifier>
+        <classifier class="indexing_service" type="descriptor">Bathrooms</classifier>
+        <location class="indexing_service">Yonkers (NY)</location>
+        <org class="indexing_service">GCS Realty</org>
+        <person class="indexing_service">Stewart-Cousins, Andrea</person>
+        <person class="indexing_service">Duggan, Erin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Handicapped</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bathrooms and Toilets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E3DE1030F937A25752C0A9619C8B63" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Disabled Gain Bathroom In Senator's Office Choice</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIN DUGGAN</byline>
+      <byline class="normalized_byline">Duggan, Erin</byline>
+      <abstract>
+        <p>GCS Realty, at request of State Senator-elect Andrea Stewart-Cousins, submits application to begin work in bringing bathroom at office building in Yonkers that will house her district office into compliance with Americans With Disabilities Act; Stewart-Cousins, who has no handicapped members on her staff, says she will delay moving until improvements are made (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andrea Stewart-Cousins has not introduced a bill yet as a freshman state senator, but she is already bringing change to Westchester, one bathroom at a time.</p>
+        <p>After Ms. Stewart-Cousins, a Democrat, defeated the 20-year incumbent, Nicholas A. Spano, in November, she began looking for space for a district office. She found it in the heart of Yonkers, a six-story building at 35 East Grassy Sprain Road. It had plenty of square footage, a fair rent and was ready for occupancy. What it did not have, Ms. Stewart-Cousins said last week, was a handicapped-accessible bathroom.</p>
+      </block>
+      <block class="full_text">
+        <p>Andrea Stewart-Cousins has not introduced a bill yet as a freshman state senator, but she is already bringing change to Westchester, one bathroom at a time.</p>
+        <p>After Ms. Stewart-Cousins, a Democrat, defeated the 20-year incumbent, Nicholas A. Spano, in November, she began looking for space for a district office. She found it in the heart of Yonkers, a six-story building at 35 East Grassy Sprain Road. It had plenty of square footage, a fair rent and was ready for occupancy. What it did not have, Ms. Stewart-Cousins said last week, was a handicapped-accessible bathroom.</p>
+        <p>So she told the management company that she would not sign a lease unless they renovated the bathroom to comply with the Americans With Disabilities Act. She said that even though the building was built before the law was passed in 1990, older buildings are expected to meet the law's requirements.</p>
+        <p>Cristina Sullivan-Magidson, vice president of G.C.S. Realty, which owns the building, said the company had submitted an application to begin working on the bathroom to make it A.D.A. compliant.</p>
+        <p>Ms. Stewart-Cousins, who represents most of Yonkers, Greenburgh and Mount Pleasant, said the upgraded bathroom should be ready in a few weeks. She said the delay in opening her headquarters was a small price to pay. ''The fact that we could help create needed improvements made it worth the while to stay and push,'' she said.</p>
+        <p>Other tenants include the Hudson Valley Bank, the Yonkers Federation of Teachers and several private lawyers.</p>
+        <p>Ms. Stewart-Cousins said she did not have any handicapped staff members, but one woman who has worked in the building for about 20 years and uses a wheelchair said working there had been difficult.</p>
+        <p>''I am very happy,'' said the woman, Frances Bentivenga, the executive assistant for the Yonkers Federation of Teachers.</p>
+        <p>ERIN DUGGAN</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Square Feet; TRANSACTIONS</title>
+    <meta content="24trsale" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821170"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E0D61F30F937A15752C0A9619C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Square Feet; TRANSACTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSALIE R. RADOMSKY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Recent Sale</p>
+        <p>$3.65 million  32-45 Hunters Point Avenue  Queens</p>
+        <p>A jewelry and giftware retailer has bought this 18,000-square-foot two-story early 1960s warehouse in Long Island City, which it plans to use as a distribution center.</p>
+        <p>Buyer: Michael C. Fina  Seller: Prime Lavatories  Broker: Joseph P. Meyerson, Sholom &amp; Zuckerbrot Realty L.L.C.</p>
+        <p>Recent Lease</p>
+        <p>$60/sq. ft.  approximate annual rent $180,000</p>
+        <p>P. F. Collier &amp; Son Building  416 West 13th Street  Manhattan</p>
+        <p>A Paris-based digital photography concern has taken 3,000 square feet of office space being renovated in this three-story 1902 building in the meatpacking district.</p>
+        <p>Tenant: B'Pong  Landlord: Greenway Mews Realty  Brokers: Matt Cohen and Roger Eulau, Lansco Corp.</p>
+        <p>For Lease</p>
+        <p>$34/sq. ft.</p>
+        <p>750 East Main Street  Stamford, Conn.</p>
+        <p>This 11-story 1986 downtown office building with 100,000 square feet is available with 7- to 15-year leases to one or several tenants. It has been the headquarters of Diageo.</p>
+        <p>Owner: 750 Stamford Partners  Brokers: Stephen Baker and Adam Klimek, Cushman &amp; Wakefield</p>
+      </block>
+      <block class="full_text">
+        <p>Recent Sale</p>
+        <p>$3.65 million  32-45 Hunters Point Avenue  Queens</p>
+        <p>A jewelry and giftware retailer has bought this 18,000-square-foot two-story early 1960s warehouse in Long Island City, which it plans to use as a distribution center.</p>
+        <p>Buyer: Michael C. Fina  Seller: Prime Lavatories  Broker: Joseph P. Meyerson, Sholom &amp; Zuckerbrot Realty L.L.C.</p>
+        <p>Recent Lease</p>
+        <p>$60/sq. ft.  approximate annual rent $180,000</p>
+        <p>P. F. Collier &amp; Son Building  416 West 13th Street  Manhattan</p>
+        <p>A Paris-based digital photography concern has taken 3,000 square feet of office space being renovated in this three-story 1902 building in the meatpacking district.</p>
+        <p>Tenant: B'Pong  Landlord: Greenway Mews Realty  Brokers: Matt Cohen and Roger Eulau, Lansco Corp.</p>
+        <p>For Lease</p>
+        <p>$34/sq. ft.</p>
+        <p>750 East Main Street  Stamford, Conn.</p>
+        <p>This 11-story 1986 downtown office building with 100,000 square feet is available with 7- to 15-year leases to one or several tenants. It has been the headquarters of Diageo.</p>
+        <p>Owner: 750 Stamford Partners  Brokers: Stephen Baker and Adam Klimek, Cushman &amp; Wakefield  e-mail: realprop@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">e-mail: realprop@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Antiwar Movement</title>
+    <meta content="l11antiwar" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818043"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Grandmothers Against the War (Orgn)</org>
+        <person class="indexing_service">Wile, Joan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E2D91230F932A25752C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Antiwar Movement</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Joan Wile, director of Grandmothers Against the War, takes issue with language in Jan 4 article that describes antiwar Democrats as left wing; says members of her group consider themselves to be patriots and seek to end catastrophic and immoral occupation of Iraq</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Ethics Overhaul Tops the Agenda as the Democrats Take Over'' (news article, Jan. 4):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Ethics Overhaul Tops the Agenda as the Democrats Take Over'' (news article, Jan. 4):</p>
+        <p>You report that ''the scene vividly illustrated the pressure that Democrats will face from the left wing of their party to challenge President Bush more aggressively on Iraq,'' referring to antiwar demonstrators who interrupted the Democrats' news conference introducing ethics legislation.</p>
+        <p>I feel compelled, as the director of Grandmothers Against the War, to say that very few of us grannies would characterize ourselves as leftists.</p>
+        <p>We consider ourselves patriots as we desperately seek to end the catastrophic and immoral occupation of Iraq. I'm sure that you are well aware that using such language tends to dismiss us in the minds of many Americans -- who have been continually badgered by the Bush administration -- into thinking that people on the left are subversive, thereby undermining the peace movement.</p>
+        <p>Inasmuch as the antiwar movement seems to be the only hope for saving lives in the hopeless Iraq quagmire, and salvaging America's reputation around the world, I would advise a more judicious choice of words.</p>
+        <p>Joan Wile  New York, Jan. 4, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

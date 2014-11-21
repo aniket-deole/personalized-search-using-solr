@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>55 Are Killed in Attacks in India's Northeast</title>
+    <meta content="07assam" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070112T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1817215"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E3DE1530F934A35752C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>55 Are Killed in Attacks in India's Northeast</hl1>
+      </hedline>
+      <dateline>NEW DELHI, Dec. 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A series of coordinated attacks over the last two days in India's troubled northeast have killed at least 55 people, including six government officials, the authorities said.</p>
+        <p>The police said they suspected rebels fighting for the independence of Assam, the oil-producing state bordering Myanmar. The group the police identified, the United Liberation Front of Assam, also demands ouster of non-Assamese, Hindi-speaking workers and traders. It has been engaged in armed rebellion against Delhi's rule since 1979. Peace talks failed in September.</p>
+      </block>
+      <block class="full_text">
+        <p>A series of coordinated attacks over the last two days in India's troubled northeast have killed at least 55 people, including six government officials, the authorities said.</p>
+        <p>The police said they suspected rebels fighting for the independence of Assam, the oil-producing state bordering Myanmar. The group the police identified, the United Liberation Front of Assam, also demands ouster of non-Assamese, Hindi-speaking workers and traders. It has been engaged in armed rebellion against Delhi's rule since 1979. Peace talks failed in September.</p>
+        <p>Forty-eight of the civilians killed were Hindi-speaking migrant laborers, who were tied up before being shot, the police said. The six government officials, some of them policemen, were killed in a bomb attack on their vehicle.</p>
+        <p>''When pushed to a tight corner, rebels attack soft targets to show their presence,'' R. N. Mathur, Assam's police chief, said by telephone. ''Police killed three rebels and arrested four during last week in counterinsurgency operations, and these killings seem to be in retaliation of that.''</p>
+        <p>Security forces were rushed to the region and heavy police patrolling has been ordered, and a curfew has been imposed in some areas.</p>
+        <p>Correction:  January 12, 2007, Friday  An article on Sunday about separatist rebel attacks in the northeast Indian state of Assam misstated its precise location. Assam borders several other Indian states and the kingdom of Bhutan; it does not border Myanmar.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 12, 2007, Friday</p>
+        <p>An article on Sunday about separatist rebel attacks in the northeast Indian state of Assam misstated its precise location. Assam borders several other Indian states and the kingdom of Bhutan; it does not border Myanmar.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

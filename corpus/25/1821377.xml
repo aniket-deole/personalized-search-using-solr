@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Albany: New Head Of Long Island Power Authority</title>
+    <meta content="25mbrfs-2" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821377"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Long Island Power Authority</org>
+        <person class="indexing_service">Lambert, Bruce</person>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <person class="indexing_service">Law, Kevin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D8163FF936A15752C0A9619C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Albany: New Head Of Long Island Power Authority</hl1>
+      </hedline>
+      <byline class="print_byline">By BRUCE LAMBERT; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lambert, Bruce</byline>
+      <abstract>
+        <p>New York Gov Eliot Spitzer appoints Kevin S Law as new chairman of Long Island Power Authority; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer appointed the Suffolk County executive's chief deputy, Kevin S. Law, left, the new chairman of the Long Island Power Authority yesterday. Mr. Law succeeds Richard M. Kessel, who headed the agency under Govs. Mario M. Cuomo and George E. Pataki. Mr. Kessel is expected to take on the vacant post of chief executive officer for several months and then retire. Mr. Law is then expected to succeed him as the chief executive officer, at which point a new chairman will be appointed.</p>
+        <p>BRUCE LAMBERT</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer appointed the Suffolk County executive's chief deputy, Kevin S. Law, left, the new chairman of the Long Island Power Authority yesterday. Mr. Law succeeds Richard M. Kessel, who headed the agency under Govs. Mario M. Cuomo and George E. Pataki. Mr. Kessel is expected to take on the vacant post of chief executive officer for several months and then retire. Mr. Law is then expected to succeed him as the chief executive officer, at which point a new chairman will be appointed.</p>
+        <p>BRUCE LAMBERT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

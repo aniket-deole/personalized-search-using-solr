@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: Britain: Reins Tighten on BBC Financing</title>
+    <meta content="19fobriefs-1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819960"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <org class="indexing_service">British Broadcasting Corp (Bbc)</org>
+        <person class="indexing_service">Pfanner, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFDC1E30F93AA25752C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: Britain: Reins Tighten on BBC Financing</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC PFANNER</byline>
+      <byline class="normalized_byline">Pfanner, Eric</byline>
+      <abstract>
+        <p>World Business Briefing: Britain: Reins</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The BBC said it might have to cut back on the creation of television shows and other programming after the government awarded it less public financing over the next six years than it had requested. The BBC's license fee, which every British household with a television is required to pay, will rise to £148 ($290) in 2012, from £131.50 last year. The fee will generate more than £20 billion ($39.4 billion) for the BBC over the six years, about £2 billion less than the BBC had requested, the broadcaster said. ''We now face not just a tight settlement but daunting investment challenges in distribution, infrastructure and technology that risk diverting money away from content creation,'' said Mark Thompson, above, the director general of the BBC.</p>
+        <p>ERIC PFANNER</p>
+      </block>
+      <block class="full_text">
+        <p>The BBC said it might have to cut back on the creation of television shows and other programming after the government awarded it less public financing over the next six years than it had requested. The BBC's license fee, which every British household with a television is required to pay, will rise to £148 ($290) in 2012, from £131.50 last year. The fee will generate more than £20 billion ($39.4 billion) for the BBC over the six years, about £2 billion less than the BBC had requested, the broadcaster said. ''We now face not just a tight settlement but daunting investment challenges in distribution, infrastructure and technology that risk diverting money away from content creation,'' said Mark Thompson, above, the director general of the BBC.</p>
+        <p>ERIC PFANNER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

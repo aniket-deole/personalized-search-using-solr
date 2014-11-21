@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'Apocalypto' Stirs Furor</title>
+    <meta content="05arts-3" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816564"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Violence</classifier>
+        <location class="indexing_service">Italy</location>
+        <org class="indexing_service">Eagle Films</org>
+        <person class="indexing_service">Rutelli, Francesco (Min)</person>
+        <person class="indexing_service">Gibson, Mel</person>
+        <object.title class="indexing_service">Apocalypto (Movie)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E4DB1430F936A35752C0A9619C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'Apocalypto' Stirs Furor</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER KIEFER; Compiled by Lawrence Van Gelder</byline>
+      <abstract>
+        <p>Italy's cultural minister Francesco Rutelli asks Eagle Films, distributor of violent Mel Gibson film Apocalypto, to send letters to movie theaters discouraging entry of unaccompanied minors after country's ratings board votes to not restrict film (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Italy's culture minister, Francesco Rutelli, stepped into a festering controversy yesterday over Mel Gibson's violent new film, ''Apocalypto,'' after the national ratings board voted not to restrict the admission of minors. With the film (which is rated R in the United States) scheduled to open today in Italy, Mr. Rutelli asked the distributor, Eagle Films, to send letters to theaters to ''discourage'' the entry of unchaperoned minors. Eagle responded by saying it would ask theater owners to exercise discretion but that no child would be denied admission.</p>
+        <p>PETER KIEFER</p>
+      </block>
+      <block class="full_text">
+        <p>Italy's culture minister, Francesco Rutelli, stepped into a festering controversy yesterday over Mel Gibson's violent new film, ''Apocalypto,'' after the national ratings board voted not to restrict the admission of minors. With the film (which is rated R in the United States) scheduled to open today in Italy, Mr. Rutelli asked the distributor, Eagle Films, to send letters to theaters to ''discourage'' the entry of unchaperoned minors. Eagle responded by saying it would ask theater owners to exercise discretion but that no child would be denied admission.</p>
+        <p>PETER KIEFER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

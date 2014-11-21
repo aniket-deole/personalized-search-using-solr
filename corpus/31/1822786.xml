@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Ode to All the Magnificent Horses</title>
+    <meta content="l31barbaro" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822786"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Horse Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Cruelty to Animals</classifier>
+        <classifier class="indexing_service" type="descriptor">Horses</classifier>
+        <org class="indexing_service">Animal Welfare Advocacy (Orgn)</org>
+        <person class="indexing_service">Weisgrau, Gail C</person>
+        <person class="indexing_service">Woodham, Martha A</person>
+        <person class="indexing_service">Goldberg, Brad</person>
+        <person class="indexing_service">Jackson, Gretchen</person>
+        <person class="indexing_service">Jackson, Roy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cruelty to Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E4DF153FF932A05752C0A9619C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Ode to All the Magnificent Horses</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on Jan 30 article and editorial about Barbaro; Gail C Weisgrau says owners Roy and Gretchen Jackson made correct decision to euthanize horse; Martha A Woodham praises editorial tribute; Brad Goldberg, president of Animal Welfare Advocacy, says all horses deserve to be treated as well as Barbaro; cites cruel slaughter of horses for food; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''After 8 Months Filled by Hope, Setback Ends Barbaro's Battle'' (front page, Jan. 30):</p>
+        <p>After eight months of struggling to survive, the Kentucky Derby winner Barbaro was euthanized because, as his co-owner Roy Jackson said, ''we just reached a point where it was going to be difficult for him to go on without pain.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''After 8 Months Filled by Hope, Setback Ends Barbaro's Battle'' (front page, Jan. 30):</p>
+        <p>After eight months of struggling to survive, the Kentucky Derby winner Barbaro was euthanized because, as his co-owner Roy Jackson said, ''we just reached a point where it was going to be difficult for him to go on without pain.''</p>
+        <p>The fact that Roy and Gretchen Jackson, and all the veterinarians involved, spent so much time in trying to help this magnificent racehorse is testament to the principle that all life is sacred and worth saving.</p>
+        <p>But when the life cannot be lived without experiencing unbearable pain, it is time to make the agonizing decision that was made.</p>
+        <p>But the Jacksons and the vets should feel immense pride that they tried, and tried again, to save Barbaro's life. They did all that was humanly possible.</p>
+        <p>Gail C. Weisgrau  Clifton, N.J., Jan. 30, 2007</p>
+        <p>To the Editor:</p>
+        <p>Re ''One Horse Dies'' (editorial, Jan. 30):</p>
+        <p>Thank you for the lovely tribute to Barbaro and his fellow equines, obviously written by someone who appreciates these wonderful animals.</p>
+        <p>Although not champions like Barbaro, my horses amaze and delight me daily with their antics and generosity. Horses are so forgiving of us humans, and what great personalities they have! I am convinced that they are the key to life and happiness.</p>
+        <p>Martha A. Woodham  Sharpsburg, Ga., Jan. 30, 2007</p>
+        <p>To the Editor:</p>
+        <p>An addendum should be made to your editorial's point that all horses deserve the ''generosity of conscience'' that was expended to save Barbaro.</p>
+        <p>Just days before Barbaro was humanely put down, the American Horse Slaughter Prevention Act was reintroduced in Congress. In an incredible juxtaposition to the fanfare of Barbaro, more than 100,000 horses were slaughtered last year in the United States and shipped to Europe and Japan for human consumption.</p>
+        <p>Each one of these animals suffered extreme cruel and inhumane conditions in the transportation and slaughter process.</p>
+        <p>Surely a nation and a national press that can expend so much attention on the life and death of one racehorse should be able to muster the compassion to pass legislation that would end this cruelty.</p>
+        <p>Brad Goldberg  President  Animal Welfare Advocacy  Mamaroneck, N.Y., Jan. 30, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

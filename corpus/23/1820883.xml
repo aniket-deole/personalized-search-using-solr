@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fighting Drug Abuse</title>
+    <meta content="l23drugs" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820883"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <person class="indexing_service">Cohrssen, John J</person>
+        <person class="indexing_service">Patterson, Orlando</person>
+        <person class="indexing_service">Nixon, Richard Milhous (1913-94)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0D91F30F930A15752C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fighting Drug Abuse</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from John J Cohrssen, former member of President's Advisory Council on Executive Organization, defends Pres Nixon's effort to combat drug abuse (Jan 13 Orlando Patterson Op-Ed article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The Other Losing War,'' by Orlando Patterson (column, Jan. 13), implies that President Richard M. Nixon's efforts against drug abuse exclusively attacked their supply. To the contrary, in 1970 Nixon's President's Advisory Council on Executive Organization urged much greater emphasis on demand reduction and proposed the creation of a new drug abuse treatment, education and research administration.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The Other Losing War,'' by Orlando Patterson (column, Jan. 13), implies that President Richard M. Nixon's efforts against drug abuse exclusively attacked their supply. To the contrary, in 1970 Nixon's President's Advisory Council on Executive Organization urged much greater emphasis on demand reduction and proposed the creation of a new drug abuse treatment, education and research administration.</p>
+        <p>In 1971 Nixon established within the White House the Special Action Office for Drug Abuse Prevention to aggressively address drug demand. A few years later when the National Institute on Drug Abuse was established, it absorbed the demand reduction responsibilities of the Special Action Office.</p>
+        <p>John J. Cohrssen  Arlington, Va., Jan. 13, 2007</p>
+        <p>The writer was on the staff of the President's Advisory Council on Executive Organization in 1970.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

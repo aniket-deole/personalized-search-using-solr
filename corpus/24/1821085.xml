@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Americas: Canada: Bid for Shell Canada Shares Is Raised</title>
+    <meta content="24fobriefs-3" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821085"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Shell Canada Ltd</org>
+        <org class="indexing_service">Royal Dutch Shell</org>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E5DD163FF937A15752C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Americas: Canada: Bid for Shell Canada Shares Is Raised</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>World Business Bri�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After an earlier offer received a cool reception from minority shareholders, Royal Dutch Shell increased its bid for the portion of Shell Canada it does not own to 45 Canadian dollars ($38.10) a share from 40 Canadian dollars. The new offer values the 22 percent of Shell Canada not held by the parent company at 8.7 billion Canadian dollars ($7.4 billion). About 150,000 barrels of Shell Canada's daily production of 230,000 barrels comes from oil sands projects in Alberta rather than conventional sources. When it made its opening bid in October, Royal Dutch Shell said that full control of Shell Canada would allow it to increase its reported reserves. An accounting problem forced the parent company to lower its reserve levels in 2004. The higher bid still may face difficulty since some Canadian fund managers have said recently that they are looking for a price near 50 Canadian dollars a share.</p>
+        <p>IAN AUSTEN</p>
+      </block>
+      <block class="full_text">
+        <p>After an earlier offer received a cool reception from minority shareholders, Royal Dutch Shell increased its bid for the portion of Shell Canada it does not own to 45 Canadian dollars ($38.10) a share from 40 Canadian dollars. The new offer values the 22 percent of Shell Canada not held by the parent company at 8.7 billion Canadian dollars ($7.4 billion). About 150,000 barrels of Shell Canada's daily production of 230,000 barrels comes from oil sands projects in Alberta rather than conventional sources. When it made its opening bid in October, Royal Dutch Shell said that full control of Shell Canada would allow it to increase its reported reserves. An accounting problem forced the parent company to lower its reserve levels in 2004. The higher bid still may face difficulty since some Canadian fund managers have said recently that they are looking for a price near 50 Canadian dollars a share.</p>
+        <p>IAN AUSTEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At the Market: Whiting</title>
+    <meta content="10mark" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817746"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Whiting (Fish)</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7DF1230F933A25752C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At the Market: Whiting</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Whiting is inexpensive fish that is often breaded; availability in New York City noted; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Before you pillage your purse for the fish you usually buy, consider whiting. It's an unsung treat, a local winter catch selling for $3 or so a pound.</p>
+        <p>Buy the silvery-skinned fish whole, just cleaned. Dip it in milk, roll it in white cornmeal mixed with flour, and fry in butter or oil. The flesh will lift off the sturdy central bone with ease. Lemon wedges, tartar sauce or brown butter will dress it up.</p>
+      </block>
+      <block class="full_text">
+        <p>Before you pillage your purse for the fish you usually buy, consider whiting. It's an unsung treat, a local winter catch selling for $3 or so a pound.</p>
+        <p>Buy the silvery-skinned fish whole, just cleaned. Dip it in milk, roll it in white cornmeal mixed with flour, and fry in butter or oil. The flesh will lift off the sturdy central bone with ease. Lemon wedges, tartar sauce or brown butter will dress it up.</p>
+        <p>You can figure on a largish fish (about a pound) or two smaller ones per person. Whiting are $2.49 a pound at New Star Fish in the Essex Street Market, $2.99 at Citarella and Fairway markets and $3 at PE &amp; DD Seafood at the Union Square Greenmarket on Saturdays.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

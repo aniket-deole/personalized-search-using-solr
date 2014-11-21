@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Samsung to Unveil Large L.C.D. TVs</title>
+    <meta content="04chip" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/technology/04chip.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070105T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1816323"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Samsung Group</org>
+        <person class="indexing_service">Taub, Eric A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television Sets</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television Sets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E7D71730F937A35752C0A9619C8B63" item-length="310" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Samsung to Unveil Large L.C.D. TVs</hl1>
+        <hl2 class="online_headline">Samsung to Unveil Slimmer Rear-Projection TVs</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC A. TAUB</byline>
+      <byline class="normalized_byline">Taub, Eric A</byline>
+      <abstract>
+        <p>Samsung will introduce new line of rear-projection LCD televisions not much thicker than flat-panel sets but 30 percent cheaper; 50-60-inch sets can be hung on wall (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Samsung, the world's largest seller of televisions, will introduce at next week's Consumer Electronics Show a new line of rear-projection L.C.D. televisions that will not be much thicker than flat-panel TVs but will cost about 30 percent less.</p>
+        <p>The new sets, aimed at those who want a bigger set but cannot afford a plasma TV, will come in 50- to 60-inch sizes. At 10 inches deep, they can be hung on a wall.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new line of rear-projection D.L.P. televisions will not be much thicker than flat-panel TVs but will cost about 30 percent less.</p>
+      </block>
+      <block class="full_text">
+        <p>Samsung, the world's largest seller of televisions, will introduce at next week's Consumer Electronics Show a new line of rear-projection L.C.D. televisions that will not be much thicker than flat-panel TVs but will cost about 30 percent less.</p>
+        <p>The new sets, aimed at those who want a bigger set but cannot afford a plasma TV, will come in 50- to 60-inch sizes. At 10 inches deep, they can be hung on a wall.</p>
+        <p>While consumers are embracing L.C.D. flat-panel TVs in ever-larger sizes, Samsung has also recommitted itself to plasma TV and will double its current plasma production capacity later this year, said G. S. Choi, the company's president for digital media, in an interview from South Korea.</p>
+        <p>Plasma will continue to dominate in larger sizes, and the company will add an 80-inch model to its lineup this year, Mr. Choi said. To help consumers fit these larger sizes in their homes, Samsung said it was redesigning the TV frames to make them up to 30 percent thinner.</p>
+        <p>At the electronics show, held annually in Las Vegas, Samsung will also introduce a wireless plasma TV that will be able to receive HDTV programming sent from an HD-DVD or Blu-ray player or set-top box. Because there will be no cables to hide, consumers may be more likely to hang such a plasma display on a wall.</p>
+        <p>The company, which was the first to introduce a Blu-ray high-definition DVD player last year, will announce its second-generation player next week. The new model is expected to cost about 20 percent less than the current version, but will have more interactive functions.</p>
+        <p>Although LG will introduce a dual format HD-DVD/Blu-ray player, Samsung has no plans to do the same. ''If the market is still divided, we could do a dual-format player, but we will wait and see,'' Mr. Choi said.</p>
+        <p>Correction:  January 5, 2007, Friday  An article and a headline in some copies of Business Day yesterday about plans by Samsung to introduce new rear-projection televisions next week at the Consumer Electronics Show misstated the technology the TVs will employ. They will use digital light processing, or D.L.P. technology -- not liquid crystal display or L.C.D. technology.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 5, 2007, Friday</p>
+        <p>An article and a headline in some copies of Business Day yesterday about plans by Samsung to introduce new rear-projection televisions next week at the Consumer Electronics Show misstated the technology the TVs will employ. They will use digital light processing, or D.L.P. technology -- not liquid crystal display or L.C.D. technology.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

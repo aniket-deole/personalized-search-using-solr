@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Lawyer's Free Speech</title>
+    <meta content="l22gitmo" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820691"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Prisoners of War</classifier>
+        <classifier class="indexing_service" type="descriptor">Legal Profession</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <location class="indexing_service">Guantanamo Bay Naval Base (Cuba)</location>
+        <person class="indexing_service">Stimson, Charles D</person>
+        <person class="indexing_service">Dershowitz, Alan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Cuba</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisoners of War</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisoners of War</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EEDD1F30F931A15752C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Lawyer's Free Speech</hl1>
+      </hedline>
+      <abstract>
+        <p>Alan Dershowitz letter, prompted by Jan 19 editorial, says he shares outrage at attempt to punish lawyers who represent inmates of Guantanamo; disagrees with proposal that Charles D Stimson, who suggested sanctions, be investigated by bar disciplinary committee and defends Stimson's right to express views</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Apology Not Accepted'' (editorial, Jan. 19):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Apology Not Accepted'' (editorial, Jan. 19):</p>
+        <p>I share your outrage at Charles D. Stimson's ''loathsome attempt to punish lawyers who represent inmates of the Guantánamo Bay internment camp.''</p>
+        <p>As a lawyer who has often been condemned for representing the despised, I understand how important it is to our legal system that lawyers remain entirely free to choose their clients without fear of governmentally imposed or suggested sanctions.</p>
+        <p>But I cannot join you in your proposal that the bar disciplinary committee investigate Mr. Stimson for conduct ''prejudicial to the administration of justice.''</p>
+        <p>That open-ended criterion was itself misused during the McCarthy period and holds the potential for silencing controversial lawyers.</p>
+        <p>As an individual lawyer, Mr. Stimson has the right to express his views without fear of bar discipline.</p>
+        <p>As a senior Pentagon official, a purported representative of the United States government, he should be fired if his views do not reflect that of the government, as I surely hope they do not.</p>
+        <p>Alan Dershowitz  Cambridge, Mass., Jan. 19, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

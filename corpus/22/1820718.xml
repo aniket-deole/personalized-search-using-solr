@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tuition Steady At Princeton; Other Fees Rise</title>
+    <meta content="22princeton" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/education/22princeton.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820718"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Tuition</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Princeton University</org>
+        <person class="indexing_service">Arenson, Karen W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Tuition</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tuition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Princeton University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E0DC1F30F931A15752C0A9619C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tuition Steady At Princeton; Other Fees Rise</hl1>
+        <hl2 class="online_headline">Princeton to Hold the Line on Tuition Next Year, but Other Costs Will Rise</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREN W. ARENSON</byline>
+      <byline class="normalized_byline">Arenson, Karen W</byline>
+      <abstract>
+        <p>Princeton University will not raise its $33,000 tuition in coming academic year but room and board will increase 19 percent, to $10,980; decision marks first time in 40 years that Princeton will not increase tuition (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the first time in 40 years, Princeton University will not raise tuition for the next academic year, the university announced yesterday. Tuition will remain $33,000, but room and board costs will jump.</p>
+        <p>University officials said that their strong investment performance last year -- a return of almost 20 percent -- helped clear the way for the decision, along with ''generous'' alumni donations and an increase in enrollment.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The stay will be the first in 40 years without an increase, but the costs for room and board will jump 19 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>For the first time in 40 years, Princeton University will not raise tuition for the next academic year, the university announced yesterday. Tuition will remain $33,000, but room and board costs will jump.</p>
+        <p>University officials said that their strong investment performance last year -- a return of almost 20 percent -- helped clear the way for the decision, along with ''generous'' alumni donations and an increase in enrollment.</p>
+        <p>Officials said a decision by trustees to spend more of the endowment, which totaled about $13 billion in June, also helped. ''We are aware of the concerns people have about the high cost of sending kids to college,'' said Robert K. Durkee, vice president and secretary of the university.</p>
+        <p>Princeton said its tuition increases have been ''at the bottom end of the university's peer group'' over the past 10 years.</p>
+        <p>Colleges and universities have faced sharp criticism from Congress and elsewhere in recent years because their tuition increases often outstrip inflation. The College Board said in an annual report that on average, tuition and fees had increased 5.9 percent, to $22,218, in the current academic year at private four-year campuses, and 6.3 percent, to $5,836, at public four-year colleges.</p>
+        <p>Although Princeton will not increase tuition, it said it will raise the price of room and board by 19 percent, to $10,980. That will increase the annual cost by 4.2 percent, to $43,980, for an undergraduate with a full meal contract.</p>
+        <p>Financial aid will be raised for students who qualify, officials said. Princeton will still be among the country's most expensive colleges.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

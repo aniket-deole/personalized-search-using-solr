@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LAZARUS, ELEANOR S.</title>
+    <meta content="dn013007" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822485"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LAZARUS, ELEANOR S.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EFD61F3AF933A05752C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LAZARUS, ELEANOR S.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LAZARUS--Eleanor S. The American Jewish Committee mourns with great sadness the passing of Eleanor Lazarus, a member of our Board of Governors who served in a range of leadership posts. Eleanor was profoundly dedicated to advancing human rights and strengthening intergroup understanding. All of us at AJC were uplifted by her leadership, friendship, and counsel. We send our heartfelt condolences to her husband David and to her family. E. Robert Goodkind, AJC President David A. Harris, AJC Executive Director</p>
+      </block>
+      <block class="full_text">
+        <p>LAZARUS--Eleanor S. The American Jewish Committee mourns with great sadness the passing of Eleanor Lazarus, a member of our Board of Governors who served in a range of leadership posts. Eleanor was profoundly dedicated to advancing human rights and strengthening intergroup understanding. All of us at AJC were uplifted by her leadership, friendship, and counsel. We send our heartfelt condolences to her husband David and to her family. E. Robert Goodkind, AJC President David A. Harris, AJC Executive Director</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

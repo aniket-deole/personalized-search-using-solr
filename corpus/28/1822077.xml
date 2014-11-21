@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making a Good System Better</title>
+    <meta content="CIcampaign" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/opinion/nyregionopinions/CIcampaign.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822077"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The City"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Campaign Finance Board</org>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E0DC173FF93BA15752C0A9619C8B63" item-length="456" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making a Good System Better</hl1>
+        <hl2 class="online_headline">Making a Good System Better</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York's campaign finance system has been a model for cities seeking ways to insulate politicians from special interest money while shoring up public confidence in the political system. But this enviable system is hardly free of loopholes, and gaming it has become commonplace. With Mayor Michael Bloomberg, the City Council and the Campaign Finance Board having expressed a desire to strengthen the program, this seems an especially auspicious time for reform.</p>
+        <p>The heavy lifting will have to take place in the Council. Last year, Speaker Christine Quinn persuaded the 51-member body to take a promising first step by restricting contributions from lobbyists. Further reforms are certain to inspire resistance among lawmakers who are always looking for more ways to raise cash. But the truth is that real reform could inspire more New Yorkers to contribute and to participate in the political process.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New York’s enviable campaign finance system is hardly free of loopholes, and gaming it has become commonplace.</p>
+      </block>
+      <block class="full_text">
+        <p>New York's campaign finance system has been a model for cities seeking ways to insulate politicians from special interest money while shoring up public confidence in the political system. But this enviable system is hardly free of loopholes, and gaming it has become commonplace. With Mayor Michael Bloomberg, the City Council and the Campaign Finance Board having expressed a desire to strengthen the program, this seems an especially auspicious time for reform.</p>
+        <p>The heavy lifting will have to take place in the Council. Last year, Speaker Christine Quinn persuaded the 51-member body to take a promising first step by restricting contributions from lobbyists. Further reforms are certain to inspire resistance among lawmakers who are always looking for more ways to raise cash. But the truth is that real reform could inspire more New Yorkers to contribute and to participate in the political process.</p>
+        <p>What has made the city's program special is its system of matching funds, which has helped candidates who are not political insiders to run. Council candidates, for instance, receive $4 in public money for each private contribution up to $250, or up to $1,000 per qualified donor, and a total $82,500 per candidate. The program is considerably more generous for citywide office seekers.</p>
+        <p>The system has not been helped by candidates who opt out, like Mr. Bloomberg, whose self-financed campaigns cost an estimated $150 million. Other candidates resent the system's requirements on fundraising, spending and public debates.</p>
+        <p>Encouraging candidate participation should be a priority. For its part, the Campaign Finance Board should listen closely to suggestions from the candidates themselves, who would like to see simplified record keeping and quicker audits so that every qualified dollar is matched in a timely way.</p>
+        <p>In exchange, though, the Council must finally correct one of the system's great weaknesses -- its failure to govern the ''pay to play'' money that flows from individuals and businesses with city contracts. What's needed to stop this flow, besides sheer political will, is a dependable database and an enforcement mechanism. The Council must quickly mandate a database that includes not just vendors but also real estate interests. And cash from limited liability corporations and partnerships should be prohibited if ways cannot be found to regulate it.</p>
+        <p>The Council could learn from Connecticut and New Jersey, which wisely took the onus off campaigns by requiring contractors to divulge any campaign contributions. New Yorkers are also depending on their representatives to stop incumbents in noncompetitive races from collecting matching public money, and to put better controls on how campaigns spend taxpayer dollars.</p>
+        <p>The majority of Council members have benefited from public financing. Historically, the lawmaking body has supported the Campaign Finance Board. Now it needs to reinforce its commitment with these important reforms.</p>
+        <p>The City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

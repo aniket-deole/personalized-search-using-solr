@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MEISLIN, NATHAN</title>
+    <meta content="dn011707" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819361"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MEISLIN, NATHAN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EEDE1F3AF934A25752C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MEISLIN, NATHAN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MEISLIN--Nathan, 84, of Allentown, PA., died Monday after a stroke. A World War II veteran and Lehigh University graduate, he retired in 1988 as president of Fountain Hill Mills, a knitwear manufacturing concern he owned with late father Paul and late brother Ira. Survived by his wife of 58 years, Eleanor, daughter Carol Springer (Ralph) and son Richard, and grandchildren Ian and Anna Springer. A horseman until 79, he pursued joy with gusto and shared it with all he knew through humor, song and kindness. Service 1pm Thursday, Bachman Kulik Funeral Home, 17th and Hamilton Sts., Allentown. In lieu of flowers, please contribute to American Stroke Association.</p>
+      </block>
+      <block class="full_text">
+        <p>MEISLIN--Nathan, 84, of Allentown, PA., died Monday after a stroke. A World War II veteran and Lehigh University graduate, he retired in 1988 as president of Fountain Hill Mills, a knitwear manufacturing concern he owned with late father Paul and late brother Ira. Survived by his wife of 58 years, Eleanor, daughter Carol Springer (Ralph) and son Richard, and grandchildren Ian and Anna Springer. A horseman until 79, he pursued joy with gusto and shared it with all he knew through humor, song and kindness. Service 1pm Thursday, Bachman Kulik Funeral Home, 17th and Hamilton Sts., Allentown. In lieu of flowers, please contribute to American Stroke Association.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

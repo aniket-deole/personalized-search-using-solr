@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Catch a Falling Star</title>
+    <meta content="13sat4" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/13/opinion/13sat4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818424"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Soccer</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Hispanic-Americans</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <org class="indexing_service">Los Angeles Galaxy</org>
+        <person class="indexing_service">Beckham, David</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="descriptor">Soccer</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+        <org class="online_producer">English Premier League</org>
+        <person class="online_producer">Beckham, David</person>
+        <person class="online_producer">Dempsey, Clint</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EFDA1330F930A25752C0A9619C8B63" item-length="397" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Catch a Falling Star</hl1>
+        <hl2 class="online_headline">Catch a Falling Star</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial notes that British soccer star David Beckham grabbed headlines when he signed with Los Angeles Galaxy, but holds that future of sport in America probably rests on Latino immigrants who arrive with love of game and pass it on to their children</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The planned departure for Los Angeles of the British soccer star and tabloid darling David Beckham grabbed headlines and kicked off a fresh round of soccer optimism. Once again, boosters could claim that what the rest of the world calls football would finally hit the big time in the United States -- for a mere $250 million over five years.</p>
+        <p>Cannier observers pointed out the similarity to the multimillion-dollar signing of the legendary Brazilian soccer star Pelé by the New York Cosmos three decades ago. That gave the sport a brief jolt in this country but one that quickly faded, followed by the failure of that era's professional league.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The story of British soccer star David Beckham’s departure for Los Angeles appeals to us because it matches a notion we Americans cherish about ourselves: We are a destination.</p>
+      </block>
+      <block class="full_text">
+        <p>The planned departure for Los Angeles of the British soccer star and tabloid darling David Beckham grabbed headlines and kicked off a fresh round of soccer optimism. Once again, boosters could claim that what the rest of the world calls football would finally hit the big time in the United States -- for a mere $250 million over five years.</p>
+        <p>Cannier observers pointed out the similarity to the multimillion-dollar signing of the legendary Brazilian soccer star Pelé by the New York Cosmos three decades ago. That gave the sport a brief jolt in this country but one that quickly faded, followed by the failure of that era's professional league.</p>
+        <p>The news of Mr. Beckham's move -- and that of his paparazzi-magnet wife, the former Posh Spice -- overshadowed this week's announcement that Clint Dempsey would be leaving.</p>
+        <p>Who is Clint Dempsey?</p>
+        <p>He is a 23-year-old firebrand midfielder who scored the only goal by an American in last year's World Cup (the Italians scored one on themselves for us) and briefly raised hopes that the United States could advance to the second round. He was the 2006 player of the year for the United States national team, but that hardly makes him a household name.</p>
+        <p>Naturally, Mr. Dempsey is on his way to Europe -- the English Premier League team Fulham -- where arguably the best professional soccer is played. While Mr. Dempsey has a bright future, Mr. Beckham, at 31, may have his best days behind him. Don't get us wrong, he is still good. But he decided to cross the Atlantic only after losing a step, and his position as captain of the English national team.</p>
+        <p>Beyond the money and the glamour, Mr. Beckham's story appeals to us because it matches a notion we Americans cherish about ourselves: We are a destination. The best want to come here, play here and live here. We aren't accustomed to sending our children abroad to seek their fortunes the way other countries have, be they Ireland or Mexico.</p>
+        <p>Mr. Beckham has made a sizable splash, but the future of the sport in America probably rests on the Latino immigrants who arrive with a love of the game and pass it on to their children. Until then our homegrown talents will blossom abroad. We are still the most powerful nation in the world and the largest economy, but we aren't the only game in town.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

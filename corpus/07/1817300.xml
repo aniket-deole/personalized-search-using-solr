@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>JOHNSON'S DEAL NOT COMPLETED</title>
+    <meta content="07sportsbriefs-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817300"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Trades (Sports)</classifier>
+        <org class="indexing_service">Arizona Diamondbacks</org>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Schmidt, Michael S</person>
+        <person class="indexing_service">Johnson, Randy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trades (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E4DC1530F934A35752C0A9619C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>JOHNSON'S DEAL NOT COMPLETED</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+      <byline class="normalized_byline">Schmidt, Michael S</byline>
+      <abstract>
+        <p>New York Yankees' trade of pitcher Randy Johnson to Arizona Diamondbacks is not yet complete (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Negotiations on a one-year contract extension for Randy Johnson have not been completed, but Johnson's agents said yesterday that they were confident the deal with the Arizona Diamondbacks would be finished before a 72-hour window to negotiate closes at 5 p.m. today.</p>
+        <p>Johnson was traded from the Yankees back to the Diamondbacks on Thursday.</p>
+        <p>MICHAEL S. SCHMIDT</p>
+      </block>
+      <block class="full_text">
+        <p>Negotiations on a one-year contract extension for Randy Johnson have not been completed, but Johnson's agents said yesterday that they were confident the deal with the Arizona Diamondbacks would be finished before a 72-hour window to negotiate closes at 5 p.m. today.</p>
+        <p>Johnson was traded from the Yankees back to the Diamondbacks on Thursday.</p>
+        <p>MICHAEL S. SCHMIDT</p>
+        <p>SPORTS BRIEFING: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Officers Hurt In Attack, 1 Critically</title>
+    <meta content="21crash" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820532"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E0DF1F30F932A15752C0A9619C8B63" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Officers Hurt In Attack, 1 Critically</hl1>
+      </hedline>
+      <byline class="print_byline">By CARA BUCKLEY; Cassi Feldman and Kate Hammer contributed reporting.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two off-duty police officers were injured, one of them critically, when three people attacked them early yesterday after a car accident on the West Side of Manhattan, the police said.</p>
+        <p>The officers were driving north on 10th Avenue near West 28th Street in Chelsea shortly before 4 a.m. when their Ford Explorer slid on ice and rear-ended a Nissan Maxima, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>Two off-duty police officers were injured, one of them critically, when three people attacked them early yesterday after a car accident on the West Side of Manhattan, the police said.</p>
+        <p>The officers were driving north on 10th Avenue near West 28th Street in Chelsea shortly before 4 a.m. when their Ford Explorer slid on ice and rear-ended a Nissan Maxima, the police said.</p>
+        <p>The officer who had been driving the Explorer got out and called 911, the police said, but by then the Nissan's three occupants had gotten out and begun attacking him and his passenger, who had also stepped out of the Explorer.</p>
+        <p>Officers from the 10th Precinct who were on patrol saw the attack and arrested the three people who had been in the Nissan, the police said. They were identified as Lamont Lafoucade, 33, and Durvell Williams, 21, both of Brooklyn, and Thelma Lopez, 28, of the Bronx.</p>
+        <p>All three were charged with assault and with criminal possession of a weapon after a switchblade was found in the Nissan, the police said. Mr. Lafoucade was also charged with driving while intoxicated, the police said.</p>
+        <p>Both officers were taken to St. Vincent's Hospital Manhattan. The one who was driving, Richard Lomax, 29, who works in the Bronx, suffered severe head trauma with a fractured skull, and was in critical condition, the police said.</p>
+        <p>His passenger, who is 21 and works in Brooklyn, was in stable condition; he was not identified by the Police Department yesterday. Both joined the force in July, the police said.</p>
+        <p>At least two of the suspects have criminal histories. Mr. Lafoucade, who lives in Bedford-Stuyvesant and appears to also go by the name Lamont Williams, served nearly 10 years in prison for armed robbery, and was let out on conditional release last March, according to state corrections records. He was also arrested late last month in Suffolk County on a charge of possessing about $20,000 worth of unstamped cigarettes, state court records show.</p>
+        <p>The police said Mr. Williams, of East New York, had previously been arrested for attempted murder and criminal possession of a weapon. No one answered the door at either man's apartment yesterday.</p>
+        <p>Ms. Lopez pleaded guilty to a charge of criminal possession of a controlled substance in October, records show.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

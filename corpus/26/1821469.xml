@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2nd Republican Enters Race For Presidency</title>
+    <meta content="26hunter" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821469"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Hunter, Duncan (Rep)</person>
+        <person class="indexing_service">Abruzzese, Sarah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E7DF173FF935A15752C0A9619C8B63" item-length="287" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2nd Republican Enters Race For Presidency</hl1>
+      </hedline>
+      <byline class="print_byline">By SARAH ABRUZZESE</byline>
+      <byline class="normalized_byline">Abruzzese, Sarah</byline>
+      <dateline>WASHINGTON, Jan. 25</dateline>
+      <abstract>
+        <p>California Republican Rep Duncan Hunter announces bid for presidency; career highlights; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Representative Duncan Hunter, Republican of California, announced his bid for the presidency on Thursday in Spartanburg, S.C., then boarded a motor home to tour the state, where he hopes to gain support from a conservative electorate.</p>
+        <p>Mr. Hunter, 58, said his candidacy would emphasize his support for the war in Iraq, his opposition to abortion and his belief in free trade.</p>
+      </block>
+      <block class="full_text">
+        <p>Representative Duncan Hunter, Republican of California, announced his bid for the presidency on Thursday in Spartanburg, S.C., then boarded a motor home to tour the state, where he hopes to gain support from a conservative electorate.</p>
+        <p>Mr. Hunter, 58, said his candidacy would emphasize his support for the war in Iraq, his opposition to abortion and his belief in free trade.</p>
+        <p>Serving his 14th term as a congressman, Mr. Hunter, of San Diego, is a Vietnam veteran and a lawyer. He was the chairman of the House Armed Services Committee until this year and is now the ranking Republican on the panel.</p>
+        <p>In a release earlier this month, he paved the way for his candidacy, saying, ''America needs a way ahead in the ongoing war against terrorists and a policy of economic opportunity, with a reaffirmation of faith in the principles of our founding.''</p>
+        <p>He said yesterday that he would also emphasize the need to restore the balance of trade with China.</p>
+        <p>''This is not free trade, this is not fair trade,'' Mr. Hunter said according to the text of his speech. ''It is cheating.''</p>
+        <p>Mr. Hunter, who has a 92 percent lifetime conservative rating from the American Conservative Union, repeated his opposition to abortion this week, telling thousands of anti-abortion demonstrators here that, if elected, he would not nominate judges who supported abortion.</p>
+        <p>Mr. Hunter also opposes embryonic stem cell research and supports tighter controls on illegal immigration. Mr. Hunter is the second Republican to announce his intention to run for the presidency. Senator Sam Brownback of Kansas did last week. Senator John McCain of Arizona and Rudolph W. Giuliani, the former mayor of New York, are also expected to seek the nomination.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

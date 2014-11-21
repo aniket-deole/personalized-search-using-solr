@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: East Orange: Store Owner Is Killed</title>
+    <meta content="04mbrfs-8" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/nyregion/04mbrfs-Jersey.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816399"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">East Orange (NJ)</location>
+        <person class="indexing_service">Holl, John</person>
+        <person class="indexing_service">Cuff, Allan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0D61730F937A35752C0A9619C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: East Orange: Store Owner Is Killed</hl1>
+        <hl2 class="online_headline">East Orange, N.J.: Store Owner Is Killed</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>Allan Cuff is fatally shot in his East Orange, NJ (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The owner of a clothing store was fatally shot yesterday afternoon in his shop by a gunman who entered it and opened fire, the authorities said. The shooting took place around 2:30 p.m. inside 353 Clothing on Main Street, said Paul M. Loriquet, a spokesman for the Essex County prosecutor's office. No arrests had been made as of last night, and investigators were trying to determine a motive. The victim was identified by the East Orange Police Department as Allan Cuff, 34, of East Orange.</p>
+        <p>JOHN HOLL</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>EAST ORANGE: STORE OWNER IS KILLED The owner of a clothing store was fatally shot yesterday afternoon in his shop by a gunman who entered it and opened fire, the authorities said. The shooting took place around 2:30 p.m. inside 353 Clothing on Main Street, said Paul M. Loriquet, a spokesman for the Essex County prosecutor’s office. No arrests had been made as of last night, and investigators were trying to determine a motive. The victim was identified by the East Orange Police Department as Allan Cuff, 34, of East Orange.</p>
+      </block>
+      <block class="full_text">
+        <p>The owner of a clothing store was fatally shot yesterday afternoon in his shop by a gunman who entered it and opened fire, the authorities said. The shooting took place around 2:30 p.m. inside 353 Clothing on Main Street, said Paul M. Loriquet, a spokesman for the Essex County prosecutor's office. No arrests had been made as of last night, and investigators were trying to determine a motive. The victim was identified by the East Orange Police Department as Allan Cuff, 34, of East Orange.</p>
+        <p>JOHN HOLL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

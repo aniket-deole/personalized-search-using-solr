@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Substitute for Nutrients</title>
+    <meta content="30lett-3" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822630"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="indexing_service" type="descriptor">Niacin</classifier>
+        <classifier class="indexing_service" type="descriptor">Cholesterol</classifier>
+        <person class="indexing_service">Challem, Jack</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cholesterol</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7D8143FF933A05752C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Substitute for Nutrients</hl1>
+      </hedline>
+      <abstract>
+        <p>Jack Challem letter on January 23 article about cholesterol says that good nutrition in key to keeping healthy cholesterol balance</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''An Old Cholesterol Remedy Is New Again'' (Jan. 23): Medicine's faith in pharmaceuticals is another example of how people mistakenly believe they can change fundamental processes in nature. The age-old problem with pharmaceutical treatments is that no drug can replace the function of a nutrient, in this instance niacin (vitamin B3).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''An Old Cholesterol Remedy Is New Again'' (Jan. 23): Medicine's faith in pharmaceuticals is another example of how people mistakenly believe they can change fundamental processes in nature. The age-old problem with pharmaceutical treatments is that no drug can replace the function of a nutrient, in this instance niacin (vitamin B3).</p>
+        <p>Drugs work -- if one can call it ''work'' -- by interfering with normal biochemical processes. In contrast, nutrients function by providing the normal biochemical substrates for more complex chemicals and reactions. All roads eventually point back to nutrition: our entire biochemistry, including our genes, depends on nutrients, not drugs.</p>
+        <p>Jack Challem  Tucson</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

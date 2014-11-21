@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; New Hall of Famers For Rock 'n' Roll</title>
+    <meta content="09arts-3" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817613"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E0D71530F93AA35752C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; New Hall of Famers For Rock 'n' Roll</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Van Halen, the Ronettes (above with Phil Spector), Grandmaster Flash and the Furious Five, R.E.M. and Patti Smith will be inducted into the Rock and Roll Hall of Fame this year, in the 22nd annual round of honors, the organization announced yesterday. The members of Van Halen to be inducted include Alex Van Halen, Eddie Van Halen, Michael Anthony and David Lee Roth, as well as Sammy Hagar, who traded places with Mr. Roth more than once as singer. Gary Cherone, who sang with the group in the late 1990s, was not recognized. The ceremony, at the Waldorf-Astoria in Manhattan on March 12, will include a tribute to Ahmet Ertegun, the co-founder of Atlantic Records who died last month. Mr. Ertegun was a founder of the Rock and Roll Hall of Fame and Museum, which is in Cleveland, and was inducted in 1987 as a nonperformer. The nominees who did not make the cut this year are Chic, the Dave Clark Five, the Stooges and Joe Tex. Artists become eligible 25 years after the release of their first record and are voted on by a panel of musicians, music-industry professionals and journalists.</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>Van Halen, the Ronettes (above with Phil Spector), Grandmaster Flash and the Furious Five, R.E.M. and Patti Smith will be inducted into the Rock and Roll Hall of Fame this year, in the 22nd annual round of honors, the organization announced yesterday. The members of Van Halen to be inducted include Alex Van Halen, Eddie Van Halen, Michael Anthony and David Lee Roth, as well as Sammy Hagar, who traded places with Mr. Roth more than once as singer. Gary Cherone, who sang with the group in the late 1990s, was not recognized. The ceremony, at the Waldorf-Astoria in Manhattan on March 12, will include a tribute to Ahmet Ertegun, the co-founder of Atlantic Records who died last month. Mr. Ertegun was a founder of the Rock and Roll Hall of Fame and Museum, which is in Cleveland, and was inducted in 1987 as a nonperformer. The nominees who did not make the cut this year are Chic, the Dave Clark Five, the Stooges and Joe Tex. Artists become eligible 25 years after the release of their first record and are voted on by a panel of musicians, music-industry professionals and journalists.</p>
+        <p>BEN SISARIO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

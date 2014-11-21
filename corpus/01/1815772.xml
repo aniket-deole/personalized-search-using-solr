@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dennis Linde, 63, Hit Songwriter</title>
+    <meta content="01linde" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/01/arts/01linde.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815772"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Dennis Linde</classifier>
+        <person class="indexing_service">Linde, Dennis</person>
+        <person class="indexing_service">Sweetland, Phil</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Linde, Dennis</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EED91630F932A35752C0A9619C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dennis Linde, 63, Hit Songwriter</hl1>
+        <hl2 class="online_headline">Dennis Linde, 63, Hit Songwriter, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By PHIL SWEETLAND</byline>
+      <byline class="normalized_byline">Sweetland, Phil</byline>
+      <abstract>
+        <p>Dennis Linde, influential and publicity-shy country songwriter who composed Elvis Presley's soulful 1972 hit Burning Love and Dixie Chicks mordantly humorous 1999 anthem Goodbye Earl, dies at age 63 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dennis Linde, an influential and publicity-shy country songwriter who composed Elvis Presley's soulful 1972 hit ''Burning Love'' and the Dixie Chicks' mordantly humorous 1999 anthem ''Goodbye Earl,'' died on Dec. 22 in Nashville. He was 63.</p>
+        <p>The cause was idiopathic pulmonary fibrosis, a lung disease, family members told The Tennessean newspaper.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mr. Linde composed Elvis Presley’s soulful 1972 hit “Burning Love” and the Dixie Chicks’ mordantly humorous 1999 anthem “Goodbye Earl.”</p>
+      </block>
+      <block class="full_text">
+        <p>Dennis Linde, an influential and publicity-shy country songwriter who composed Elvis Presley's soulful 1972 hit ''Burning Love'' and the Dixie Chicks' mordantly humorous 1999 anthem ''Goodbye Earl,'' died on Dec. 22 in Nashville. He was 63.</p>
+        <p>The cause was idiopathic pulmonary fibrosis, a lung disease, family members told The Tennessean newspaper.</p>
+        <p>''Burning Love'' reached No. 2 on the Billboard pop listings and was Presley's second-highest-charting single in a decade. Mr. Linde said he wrote the song about his recent marriage to Pam Beckham.</p>
+        <p>''I was a newlywed, and 'Burning Love' was a great newlywed title,'' Mr. Linde said in an interview with The New York Times in 2005. ''I had it done in 20 minutes.''</p>
+        <p>His wife survives him, along with their son, Will Linde, and two daughters, Lisa Marsden and Katie Brown.</p>
+        <p>Mr. Linde cited influences as diverse as Mark Twain and George Gershwin and had a songwriting methodology as quirky as he was. On a wall of his home, he hung a map of his own fictitious town, where the offbeat characters in his songs lived and worked, drank and died. Like Hank Williams but unlike nearly all modern country writers, Mr. Linde composed both the words and music for his songs, without co-writers.</p>
+        <p>Dennis Linde was born in 1943 at Abilene, Tex. He worked in blues and rock bands in St. Louis and finally moved to Nashville in 1969. The music publisher Bob Beckham, whose firm already represented a young Kris Kristofferson, signed Mr. Linde. Mr. Beckham also eventually became Mr. Linde's father-in-law.</p>
+        <p>Mr. Linde habitually avoided awards shows, even when he knew he had won. EMI, his current publisher, described him in a statement as ''a publicist's nightmare and a singer's dream.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

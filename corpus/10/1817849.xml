@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Ted Hughes Letters Go to Emory University</title>
+    <meta content="10arts-1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/books/10hughes.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817849"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <org class="indexing_service">Emory University</org>
+        <person class="indexing_service">Bosman, Julie</person>
+        <person class="indexing_service">Hughes, Ted (1930-98)</person>
+        <person class="indexing_service">Wevill, Assia</person>
+        <person class="indexing_service">Plath, Sylvia (1932-63)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EFDD1230F933A25752C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Ted Hughes Letters Go to Emory University</hl1>
+        <hl2 class="online_headline">Ted Hughes Letters Go to Emory University</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIE BOSMAN; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Bosman, Julie</byline>
+      <abstract>
+        <p>Emory University acquires collection of 60 letters from Ted Hughes to Assia Wevill, his mistress during his marriage to Sylvia Plath, along with sketches, diary entries and photographs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emory University has acquired letters from Ted Hughes to Assia Wevill, his mistress during his marriage to Sylvia Plath. Mr. Hughes continued his relationship with Ms. Wevill after Ms. Plath's suicide in 1963, but the two never married. The letters allow ''unprecedented access to Hughes's state of mind at a time of crisis in his personal and professional life,'' said a statement from Stephen Enniss, the director of Emory's Manuscript, Archives and Rare Book Library. The collection includes more than 60 letters from 1963 to 1969, sketches, diary entries and photographs. One letter implores Ms. Wevill to ''burn all my letters.'' A biography of Ms. Wevill, ''Lover of Unreason,'' by Yehuda Koren and Eilat Negev, was published in December.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The letters are from Ted Hughes to Assia Wevill, his mistress during his marriage to Sylvia Plath.</p>
+      </block>
+      <block class="full_text">
+        <p>Emory University has acquired letters from Ted Hughes to Assia Wevill, his mistress during his marriage to Sylvia Plath. Mr. Hughes continued his relationship with Ms. Wevill after Ms. Plath's suicide in 1963, but the two never married. The letters allow ''unprecedented access to Hughes's state of mind at a time of crisis in his personal and professional life,'' said a statement from Stephen Enniss, the director of Emory's Manuscript, Archives and Rare Book Library. The collection includes more than 60 letters from 1963 to 1969, sketches, diary entries and photographs. One letter implores Ms. Wevill to ''burn all my letters.'' A biography of Ms. Wevill, ''Lover of Unreason,'' by Yehuda Koren and Eilat Negev, was published in December.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Clinic Is Open</title>
+    <meta content="22mon2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/opinion/22mon2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820702"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <person class="online_producer">Freudenheim, Milt</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E2DC1F30F931A15752C0A9619C8B63" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Clinic Is Open</hl1>
+        <hl2 class="online_headline">The Clinic Is Open</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial lauds American companies with in-house health clinics for employees, but says health care is national issue that requires comprehensive solution</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Companies are proving that when it comes to health care, you can re-teach old dogs an old trick. On-site health clinics in the workplace, which had been disappearing since their peak in the 1970s, are staging a comeback. Corporations are waking up to the fact that healthy employees are more productive, while sick workers are a drag on the bottom line. And they're trying to do something about it.</p>
+        <p>The sky-high cost of health care in the United States isn't just a challenge for the families that struggle to pay rising premiums and co-payments. It's also a serious issue for American companies, whose competitors in other countries often benefit from national health insurance programs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Innovative as they are, office and factory infirmaries will hardly solve the nation’s entrenched health care crisis.</p>
+      </block>
+      <block class="full_text">
+        <p>Companies are proving that when it comes to health care, you can re-teach old dogs an old trick. On-site health clinics in the workplace, which had been disappearing since their peak in the 1970s, are staging a comeback. Corporations are waking up to the fact that healthy employees are more productive, while sick workers are a drag on the bottom line. And they're trying to do something about it.</p>
+        <p>The sky-high cost of health care in the United States isn't just a challenge for the families that struggle to pay rising premiums and co-payments. It's also a serious issue for American companies, whose competitors in other countries often benefit from national health insurance programs.</p>
+        <p>As Milt Freudenheim reported recently in The Times, some big American-based companies have rediscovered that it's cheaper in the long run to spend a little more on in-house health clinics. Companies from the Pepsi Bottling Group to Credit Suisse have opened or expanded their clinics. More than a quarter of the nation's 1,000 largest employers will likely offer some kind of on-site health services by the end of the year.</p>
+        <p>For employees, a clinic is a major time saver, convenient and cheap (or even free). For companies, spending a relatively small amount of money on early detection and basic preventive care can save on expensive hospital bills down the line. It's an interesting stopgap solution, provided companies do not abuse their knowledge of employee medical conditions and remain focused on the long-term health of their workers, instead of just steering them away from expensive procedures.</p>
+        <p>Innovative as they are, office and factory infirmaries will hardly solve the nation's entrenched health care crisis.</p>
+        <p>Total health spending reached nearly $2 trillion in 2005, accounting for 16 percent of the economy. It is a bit scary that the 6.9 percent increase in health spending that year -- rather than a cause for alarm -- is celebrated as the slowest pace of increase in six years. There are 47 million uninsured people in this country. State governments, like those in Massachusetts and California, are trying to chip away at the problem and business groups are lobbying in Washington for help with out-of-control costs.</p>
+        <p>While it is a welcome sign that businesses and states are trying to come up with answers, health care is a national issue that requires a comprehensive solution.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

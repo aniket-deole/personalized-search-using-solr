@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FROM THE DESK OF DAVID POGUE: How Secure Is Your Wi-Fi Connection?</title>
+    <meta content="04pogue-email" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816402"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E4DD1130F937A35752C0A9619C8B63" item-length="758" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FROM THE DESK OF DAVID POGUE: How Secure Is Your Wi-Fi Connection?</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Long-time readers know that I'm not exactly one of the privacy paranoid.</p>
+        <p>I've accepted that we all live in thousands of databases. The state of New York knows where and when I drive, thanks to my E-ZPass (electronic toll-booth badge). Stop &amp; Shop knows what I eat, thanks to my grocery discount card. Blockbuster knows what kinds of movies I watch. Verizon knows whom I call, MasterCard knows what I buy--it's just hopeless.</p>
+      </block>
+      <block class="full_text">
+        <p>Long-time readers know that I'm not exactly one of the privacy paranoid.</p>
+        <p>I've accepted that we all live in thousands of databases. The state of New York knows where and when I drive, thanks to my E-ZPass (electronic toll-booth badge). Stop &amp; Shop knows what I eat, thanks to my grocery discount card. Blockbuster knows what kinds of movies I watch. Verizon knows whom I call, MasterCard knows what I buy--it's just hopeless.</p>
+        <p>Frankly, I consider the details of my life so boring to other people that I really couldn't care less. I've got nothing to hide, so why not accept it?</p>
+        <p>That attitude spilled over to a "From the Desk of David Pogue" e-column I wrote in 2004, in which I attempted to throw water on scare-tactic computer-magazine articles that said, in effect: "Ooooh! If you use your Wi-Fi laptop at public Internet hot spots, the bad guys will see everything you're doing and rifle through your files!"</p>
+        <p>I'm back again today to throw that water right back into my own face. On this topic, my eyes have been opened.</p>
+        <p>It came about like this: I recently filmed six episodes of a new TV series ("It's All Geek to Me," which airs in February on The Science Channel, Discovery HD and Discovery Europe). In one of them, I wanted to get to the bottom of this Wi-Fi snooping business. I wanted to see exactly what is, and is not, possible for the bad guys to intercept when you're sitting there in Starbucks or the hotel lobby.</p>
+        <p>I put a note up on my blog, seeking a guest who could appear on the show and show me the hacky ropes. I found John Baer, a technical consultant who seemed just right for the part.</p>
+        <p>We met (John, the camera crew and I) in a Manhattan Wi-Fi coffee shop. Turns out there was absolutely nothing to it. John sat a few feet away with his PowerBook; I fired up my Fujitsu laptop and began doing some e-mail and Web surfing.</p>
+        <p>That's all it took. He turned his laptop around to reveal all of this:</p>
+        <p>* Every copy of every e-mail message I sent *and* received.</p>
+        <p>* A list of the Web sites I visited.</p>
+        <p>* Even, incredibly, the graphics that had appeared on the Web sites I had visited.</p>
+        <p>None of this took any particular effort, hacker skill or fancy software. Anyone could do it. You could do it.</p>
+        <p>All John needed was a "packet sniffing" program; such software is free and widely available. (He used a Mac program called Eavesdrop.) It sniffs the airwaves and displays whatever data it finds being transmitted in the public hot spot.</p>
+        <p>Now, the fact that it's so easy to intercept your Internet signals in a public hot spot doesn't mean that somebody is *doing* it. In fact, of course, most of the time, nobody is.</p>
+        <p>Nonetheless, John's little demonstration made clear that somebody *could* intercept your transmissions extremely easily.</p>
+        <p>So are you supposed to crawl into a hole, turn off your Wi-Fi, and go back to dial-up?</p>
+        <p>Not exactly. You can take steps to protect yourself:</p>
+        <p>* If you see the little padlock in the corner of your Web-browser window (or if the Web address begins with "https://" instead of "http://"), you're connected to a secure Web site. Your transmissions are encrypted in both directions, so you have little to fear from casual packet sniffers. Banking and brokerage sites, for example, are protected in this way.</p>
+        <p>* You can sign up for encrypted e-mail services or programs, too, if avoiding e-mail eavesdropping is that important to you.</p>
+        <p>* You can connect to your company over a VPN (virtual private networking) connection, which encrypts *all* data to and from your laptop. This is something a network geek would have to set up for you.</p>
+        <p>* Otherwise, you can just conduct your online transactions with the awareness that a stranger could be "overhearing" them. Wait to visit Web sites, or to send e-mail messages, of a delicate nature until you're on a wired connection or a private wireless one.</p>
+        <p>Truth be known, since my eyes were opened, my Wi-Fi habits haven't actually changed much. I still open the laptop in the hotel lobby, exchange e-mail with readers, editors and friends, and check a few news sites or blogs. None of it would really mean anything to an evil eavesdropper nearby.</p>
+        <p>But at least I'm aware that I *could* be observed. And isn't it always better to know than not to?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

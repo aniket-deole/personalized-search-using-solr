@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Doctors Stay Optimistic On Barbaro</title>
+    <meta content="12barbaro" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/sports/othersports/12barbaro.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818317"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HORSE RACING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Horse Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Kentucky Derby</classifier>
+        <person class="indexing_service">Finley, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="descriptor">Barbaro (Race Horse)</classifier>
+        <classifier class="online_producer" type="descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kentucky Derby</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE5DC1330F931A25752C0A9619C8B63" item-length="329" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Doctors Stay Optimistic On Barbaro</hl1>
+        <hl2 class="online_headline">Doctors Stay Optimistic on Barbaro</hl2>
+      </hedline>
+      <byline class="print_byline">By BILL FINLEY</byline>
+      <byline class="normalized_byline">Finley, Bill</byline>
+      <dateline>KENNETT SQUARE, PA., JAN. 11</dateline>
+      <abstract>
+        <p>Doctors say they are optimistic Kentucky Derby winner Barbaro can make it through setback in his recovery from broken leg (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A day after it was announced that Barbaro had had a setback in his recovery from the painful hoof disease laminitis, his condition remained largely unchanged Thursday, but his surgeon was cautiously optimistic.</p>
+        <p>''I'm probably no different than the public at large in that I'm disappointed that he had a setback, but I'm not about to go jump off a bridge and neither are the Jacksons,'' said Dr. Dean Richardson, referring to Barbaro's owners, Roy and Gretchen Jackson.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A day after it was announced that Barbaro had had a setback in his recovery, his condition remained largely unchanged Thursday, but his surgeon was cautiously optimistic about his future.</p>
+      </block>
+      <block class="full_text">
+        <p>A day after it was announced that Barbaro had had a setback in his recovery from the painful hoof disease laminitis, his condition remained largely unchanged Thursday, but his surgeon was cautiously optimistic.</p>
+        <p>''I'm probably no different than the public at large in that I'm disappointed that he had a setback, but I'm not about to go jump off a bridge and neither are the Jacksons,'' said Dr. Dean Richardson, referring to Barbaro's owners, Roy and Gretchen Jackson.</p>
+        <p>''We've got some work ahead of us and we are trying to get him back to where we want him to be,'' Richardson said. ''We want to keep him comfortable, which has been our mantra from Day 1. As long as we can keep him comfortable, we will continue to move along.''</p>
+        <p>It was announced Wednesday that a portion of the hoof wall had separated from the rest of Barbaro's left foot. For complete recovery, the hoof, most of which was cut away when Barbaro first came down with laminitis last July, must regrow and support his weight.</p>
+        <p>''It's all about the one area,'' Richardson said of the part of the hoof where there is damaged tissue. ''It's been slow going and it didn't hold up. What happened here, we knew it would have to happen at some point, it's just that it's more sore than we had hoped.''</p>
+        <p>Barbaro was being placed in a sling several hours a day to take weight off the foot. Newly taken X-rays revealed no additional complications in either the left or right hind leg. The right hind leg was broken during the running of the Preakness Stakes, eventually leading to the laminitis in the other leg.</p>
+        <p>Richardson said several procedures were being considered for treatment, but he declined to discuss what his plans might include.</p>
+        <p>''It's a hitch I hope that he gets through,'' Roy Jackson said. ''I don't think anybody knows what's going to happen next. It's a day-to-day thing.''</p>
+        <p>HORSE RACING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

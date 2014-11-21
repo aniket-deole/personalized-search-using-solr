@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Memory of a Pet</title>
+    <meta content="21backpage-2" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820463"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Pets</classifier>
+        <classifier class="indexing_service" type="descriptor">Cemeteries</classifier>
+        <classifier class="indexing_service" type="descriptor">Cats</classifier>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cemeteries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E2D81E30F932A15752C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Memory of a Pet</hl1>
+      </hedline>
+      <abstract>
+        <p>Ann Ferrar letter on January 14 on big spending on burial sites for cats and dogs; suggests people would be better off spending money on donations to humane organizations in name of their pets rather than burial rituals (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Building a Stairway to Paradise, for Your Beloved Pet'' (Jan. 14), which described big spending on burial sites for dogs and cats:</p>
+        <p>If people are going to part with such a huge amount of money, why don't they instead donate it to a humane organization, in the name of their pets? Because so many pets end up in shelters, one could direct the money toward programs that foster responsible pet ownership, spaying and neutering. And because so many pets suffer from abuse, one could consider donating to law enforcement initiatives.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Building a Stairway to Paradise, for Your Beloved Pet'' (Jan. 14), which described big spending on burial sites for dogs and cats:</p>
+        <p>If people are going to part with such a huge amount of money, why don't they instead donate it to a humane organization, in the name of their pets? Because so many pets end up in shelters, one could direct the money toward programs that foster responsible pet ownership, spaying and neutering. And because so many pets suffer from abuse, one could consider donating to law enforcement initiatives.</p>
+        <p>Someday, when my dog is nearing the end of his life, I will spend money to ensure that he is comfortable, pain-free and loved, right up to the very second he begins his ascent up that stairway. Anything after that is a waste.</p>
+        <p>Owners should consider that a dog does not care about burial rituals. He just wants to be loved and taken care of by his master while he's alive.</p>
+        <p>Ann Ferrar  Manchester, N.J., Jan. 15</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

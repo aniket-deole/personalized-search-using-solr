@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treasury Bill Auctions Set for This Week</title>
+    <meta content="29bonds" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/business/29bonds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822371"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E7DE143FF93AA15752C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treasury Bill Auctions Set for This Week</hl1>
+        <hl2 class="online_headline">Treasury Bill Auctions Set for This Week</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5.12 percent. The rate on the six-month issue was 5.17 percent, and the rate on the four-week issue was 4.90 percent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Treasury’s schedule of financing this week includes today’s regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+      </block>
+      <block class="full_text">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5.12 percent. The rate on the six-month issue was 5.17 percent, and the rate on the four-week issue was 4.90 percent.</p>
+        <p>The following tax-exempt fixed-income issues are scheduled for pricing this week:</p>
+        <p>TAX EXEMPT  TOMORROW</p>
+        <p>Industry Public Facility Authority, $173.3 million of revenue bonds. Competitive.</p>
+        <p>WEDNESDAY</p>
+        <p>South Carolina Transportation Infrastructure, $111 million of revenue bonds. Competitive.</p>
+        <p>TAX EXEMPT  ONE DAY DURING THE WEEK</p>
+        <p>Aurora, Ill., and Dupage, Will and Kendall Counties, $75 million of collateralized single-family mortgage revenue bonds. Morgan Keegan.</p>
+        <p>Dormitory Authority of the State of New York, $240 million of debt securities for St. John's University. Morgan Stanley.</p>
+        <p>Ector County Independent School District, Odessa, Tex., $56.4 million of unlimited tax refunding bonds. First Southwest Company.</p>
+        <p>McLennan County Junior College District, Waco, Tex., $74.2 million of limited tax bonds. UBS.</p>
+        <p>Platte River Power Authority, Fort Collins, Colo., $102.5 million of power revenue bonds. Goldman Sachs.</p>
+        <p>Santa Monica, Calif., Community College District, $67.9 million of general obligation bonds. RBC Capital Markets.</p>
+        <p>Oregon Department of Administrative Services, Salem, Ore., $154.2 million of Oregon State Lottery revenue bonds. Bank of America.</p>
+        <p>Wichita Falls, Tex., $108.6 million of priority lien refunding revenue bonds for its water and sewer system. RBC Capital Markets.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

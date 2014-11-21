@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Screening for Down Syndrome</title>
+    <meta content="16slett-1" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819290"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birth Defects</classifier>
+        <classifier class="indexing_service" type="descriptor">Down Syndrome</classifier>
+        <person class="indexing_service">Ryan, Lynn</person>
+        <person class="indexing_service">Goldberg, James (Dr)</person>
+        <person class="indexing_service">Farrington, Jan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Retardation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Defects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E6D81030F935A25752C0A9619C8B63" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Screening for Down Syndrome</hl1>
+      </hedline>
+      <abstract>
+        <p>Lynn Ryan letter on Jan 9 article about Down syndrome disagrees with Dr James Goldberg's statement that losing healthy pregnancy is less traumatic than having child with special needs; Jan Farrington letter discusses her life as mother raising teenage daughter with down syndrome; says experience is difficult, but rewarding</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Screen All Pregnancies for Down Syndrome, Doctors Say'' (Jan. 9): I was appalled at Dr. James Goldberg's statement that to some couples, losing a ''normal'' pregnancy is not as problematic as the birth of a Down syndrome child.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Screen All Pregnancies for Down Syndrome, Doctors Say'' (Jan. 9): I was appalled at Dr. James Goldberg's statement that to some couples, losing a ''normal'' pregnancy is not as problematic as the birth of a Down syndrome child.</p>
+        <p>The issue at hand is not a political one, but rather the fact that all children have the potential to provide joy to their parents' lives. While I'm sure it is distressing to discover that your baby has any kind of ''abnormality,'' the idea that a miscarriage of a healthy pregnancy is a better ''option'' than giving birth to a child with special needs reeks of ignorance.</p>
+        <p>Lynn Ryan  White Plains, N.Y.</p>
+        <p>To the Editor:</p>
+        <p>Of course, younger women should have the option of having prenatal tests for Down syndrome and other abnormalities. But as the mother of a lively, lovely 16-year-old daughter with Down syndrome, I'd like to hope that doctors won't just present the ''down'' side of having a child with special needs.</p>
+        <p>Yes, there are heartaches and worries, but how is that so different from parents with typical children? Our daughter and her friends are quirky, funny, opinionated teenagers who are learning job skills and dreaming of having apartments of their own.</p>
+        <p>Your article doesn't mention the bottom line: that most women choose to terminate a pregnancy that reveals even the possibility of a Down syndrome baby. I have nothing but deep compassion for women struggling to make this choice, but I'd like them to know there is a lot of joy mixed in with the challenges of raising ''special'' kids.</p>
+        <p>Jan Farrington  Fort Worth, Tex.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

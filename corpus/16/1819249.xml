@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Labradors Still No. 1, But Yorkies, Dahling, Move Into Second Place</title>
+    <meta content="16ink" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819249"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="INK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Poodles (Dogs)</classifier>
+        <classifier class="indexing_service" type="descriptor">Labrador Retrievers (Dogs)</classifier>
+        <classifier class="indexing_service" type="descriptor">Yorkshire Terriers (Dogs)</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">American Kennel Club</org>
+        <person class="indexing_service">Ramirez, Anthony</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E7D91030F935A25752C0A9619C8B63" item-length="402" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Labradors Still No. 1, But Yorkies, Dahling, Move Into Second Place</hl1>
+      </hedline>
+      <byline class="print_byline">By ANTHONY RAMIREZ</byline>
+      <byline class="normalized_byline">Ramirez, Anthony</byline>
+      <abstract>
+        <p>Anthony Ramirez Ink column on announcement by American Kennel Club at Rockefeller Center in New York City of most popular dog breeds; Labrador retriever tops list in nation for 16th consecutive year, while Yorkshire terrier moves to number two nationally and in city; poodle is most popular dog in city for second consecutive year (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN a dog-loving nation, the lists seem to say something.</p>
+        <p>The American Kennel Club yesterday announced a shift in its 10 most popular dog breeds in the nation and in the city, or at least in that elite group of purebred dogs whose pedigrees and papers are in order.</p>
+      </block>
+      <block class="full_text">
+        <p>IN a dog-loving nation, the lists seem to say something.</p>
+        <p>The American Kennel Club yesterday announced a shift in its 10 most popular dog breeds in the nation and in the city, or at least in that elite group of purebred dogs whose pedigrees and papers are in order.</p>
+        <p>At a Rockefeller Center news conference filled with handlers, dogs and photographers, the club noted that the dog claming the No. 1 ranking had not changed.</p>
+        <p>Across the country, the most popular dog last year, as it has been for 16 years in a row, was the Labrador retriever, with about 124,000 registrations, or 14 percent of the club's total.</p>
+        <p>In New York, the most popular breed in 2006 was the poodle, with 77 registrations, or about 8 percent of the club's total in the city. It has been the most popular breed for two years in a row, according to the club, which describes itself as the largest purebred-dog registry in the world.</p>
+        <p>But the big news, the club said, was the No. 2 ranking in both the city and the country: the Yorkshire terrier, overtaking larger breeds like the golden retriever and the German shepherd.</p>
+        <p>The tiny Yorkie, favored by the wife played by Eva Gabor in television's ''Green Acres,'' had about 48,000 registrations in the United States, or 5 percent; and 49 in the city, also 5 percent.</p>
+        <p>Daisy Okas, a spokeswoman for the club, said the toy-dog group of breeds, which include Yorkshire terriers, had risen from 12 percent of the registry in the 1970s to about 23 percent today. Among the criteria to register with the club is providing proof of a dog's family tree.</p>
+        <p>Representing No. 1 was Sabrina Fairchild, 5, a tan Labrador retriever owned by Linda Berkeley, 44, a landscape architect from Greenburgh, N.Y.</p>
+        <p>On her head, Sabrina wore a gold-colored fabric crown, and around her shoulders was draped a red velour cape with faux ermine piping. The photographers cooed.</p>
+        <p>There was a small platoon of Yorkies, including Maggie, 8, and Sammie, 3, her granddaughter.</p>
+        <p>Sharon Jones, 55, Maggie's owner and an amateur breeder from Mohrsville, Pa., squeezed a yellow toy to make sure the dogs paid attention to the photographers.</p>
+        <p>Ms. Jones used to acquire aircraft for films like ''Nighthawks,'' the 1981 Roosevelt Island thriller starring Sylvester Stallone.</p>
+        <p>Squeeze toys ''don't work on movie stars,'' Ms. Jones noted. ''Ego too big.''</p>
+        <p>INK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

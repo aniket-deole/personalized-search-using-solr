@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ending the Prison Windfall</title>
+    <meta content="17wed3" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/17/opinion/17wed3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819459"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Census</classifier>
+        <classifier class="indexing_service" type="descriptor">Rural Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <org class="indexing_service">Census Bureau</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="descriptor">Census</classifier>
+        <classifier class="online_producer" type="descriptor">Reapportionment</classifier>
+        <classifier class="online_producer" type="descriptor">Population</classifier>
+        <classifier class="online_producer" type="descriptor">Voter Registration and Requirements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reapportionment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Census</classifier>
+        <classifier class="online_producer" type="general_descriptor">Voter Registration and Requirements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rural Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Census Bureau</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DF1130F934A25752C0A9619C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ending the Prison Windfall</hl1>
+        <hl2 class="online_headline">Ending the Prison Windfall</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says 2010 census should include test of counting nation's 1.4 million prison inmates at their permanent addresses instead of in prisons, which would end corrosive but little-known practice that inflates population in rural areas where prisons are often located; explains that figures are then used to misdirect state and federal aid to 'constituents'</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Census Bureau typically uses the decennial census to test data-collection methods that become routine later on. The 2010 census should include a test run at counting the nation's 1.4 million prison inmates at their permanent addresses instead of in prisons. That would help bring an end to a corrosive but little known practice that distorts the political process in virtually every corner of the country.</p>
+        <p>Inmates are denied the right to vote in all but two states. But state lawmakers treat them as residents of the prisons when drawing legislative maps, to inflate the head count in lightly populated rural areas where prisons are typically built. This creates legislative districts where none would ordinarily be, shifting political influence from the heavily populated urban districts where inmates live.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The 2010 census should include a test run at counting the nation’s 1.4 million prison inmates at their permanent addresses instead of in prisons.</p>
+      </block>
+      <block class="full_text">
+        <p>The Census Bureau typically uses the decennial census to test data-collection methods that become routine later on. The 2010 census should include a test run at counting the nation's 1.4 million prison inmates at their permanent addresses instead of in prisons. That would help bring an end to a corrosive but little known practice that distorts the political process in virtually every corner of the country.</p>
+        <p>Inmates are denied the right to vote in all but two states. But state lawmakers treat them as residents of the prisons when drawing legislative maps, to inflate the head count in lightly populated rural areas where prisons are typically built. This creates legislative districts where none would ordinarily be, shifting political influence from the heavily populated urban districts where inmates live.</p>
+        <p>Once inflated, these towns and counties siphon an outsized portion of state and federal aid. Politicians in districts with prisons sometimes brag openly about the windfall, as they mock ''constituents'' who are powerless to remove them from office and are packed onto buses and driven hundreds of miles to their real homes the minute they leave the prison walls.</p>
+        <p>The Census Bureau was made pointedly aware of this problem last fall. A report it commissioned noted that counting inmates at prisons distorted the political process and raised legitimate concerns about the fairness of the census itself. That report, by the National Research Council, recognized that the methods would not be simple to change, but urged the bureau to seeks ways to do it.</p>
+        <p>Collecting and verifying residential information for prison inmates is a complicated job. But the report suggested a perfectly reasonable interim solution. The bureau could publish detailed counts of the prison populations, so that the inmates could be subtracted at redistricting time. These figures would illuminate corrupt redistricting committees that use prison counts to pad districts that fall short of federal population requirements.</p>
+        <p>The Census Bureau has a crucial role to play in putting and end to this despicable practice. The 2010 census is as good a time as any to get started.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

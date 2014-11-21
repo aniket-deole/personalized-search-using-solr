@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Breakfast Without a Battle</title>
+    <meta content="17dinlett-2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819480"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <person class="indexing_service">Calandro, Ann</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DEFDF1130F934A25752C0A9619C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Breakfast Without a Battle</hl1>
+      </hedline>
+      <abstract>
+        <p>Ann Calandro letter suggests eating healthy breakfast at home rather than fat-laden fare offered at chain restaurants (Jan 10 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Whatever happened to drinking some O.J. and eating a slice of whole-wheat toast or a bowl of whole-grain cereal before venturing out for coffee? (''The Breakfast Wars,'' Jan. 10).</p>
+        <p>Presumably we all know enough about the connection between diet and health to know that store-bought pastries and egg and cheese sandwiches are not the foundation of any healthy eating plan. More people are heavier than ever; Type 2 diabetes is on the rise; diet books are best sellers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Whatever happened to drinking some O.J. and eating a slice of whole-wheat toast or a bowl of whole-grain cereal before venturing out for coffee? (''The Breakfast Wars,'' Jan. 10).</p>
+        <p>Presumably we all know enough about the connection between diet and health to know that store-bought pastries and egg and cheese sandwiches are not the foundation of any healthy eating plan. More people are heavier than ever; Type 2 diabetes is on the rise; diet books are best sellers.</p>
+        <p>The answer is simple. Really. Try eating at home. One could actually brew coffee at home, too, if needed. And sprinkle cinnamon on top.</p>
+        <p>ANN CALANDRO  Flemington, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What You Can't Smell Will Kill You</title>
+    <meta content="21turin" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/opinion/21turin.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820470"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Odors</classifier>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Turin, Luca</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="descriptor">Odors</classifier>
+        <classifier class="online_producer" type="descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Odors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E1D81E30F932A15752C0A9619C8B63" item-length="870" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What You Can't Smell Will Kill You</hl1>
+        <hl2 class="online_headline">What You Can’t Smell Will Kill You</hl2>
+      </hedline>
+      <byline class="print_byline">By Luca Turin</byline>
+      <byline class="normalized_byline">Turin, Luca</byline>
+      <dateline>LONDON</dateline>
+      <abstract>
+        <p>Luca Turin Op-Ed article, prompted by mysterious odor detected recently in New York City, holds that more powerful the odor, less likely it is to do harm; says smell that is associated with natural gas is deliberately put in to warn of its otherwise odorless presence; discusses evolution of human smell and how it cautions against danger; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NOW that the mystery smells of Manhattan have abated, are you still wondering whether the Grim Reaper's cologne will smell like maple syrup or rotten eggs when he comes for you?</p>
+        <p>Don't worry, because here's the thing: the more powerful the stench, the less likely it is to do harm. Indeed, the smell that's typically associated with natural gas is deliberately put in to warn you of its otherwise odorless presence -- you'll call Con Edison before it all goes bang. In this case, it is not the thing that smells that will harm you, but the thing that doesn't smell.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Relax New York: If the scent is bad, you’re probably safe.</p>
+      </block>
+      <block class="full_text">
+        <p>NOW that the mystery smells of Manhattan have abated, are you still wondering whether the Grim Reaper's cologne will smell like maple syrup or rotten eggs when he comes for you?</p>
+        <p>Don't worry, because here's the thing: the more powerful the stench, the less likely it is to do harm. Indeed, the smell that's typically associated with natural gas is deliberately put in to warn you of its otherwise odorless presence -- you'll call Con Edison before it all goes bang. In this case, it is not the thing that smells that will harm you, but the thing that doesn't smell.</p>
+        <p>As a kind of perverse perfumery, Chevron Phillips Chemical Company offers 24 different compositions of sulfur compounds as part of its Scentinel line of gas odorants. A few well-dispersed ounces of Scentinel A, which is made of ethyl mercaptan, the odorant added to natural gas, are enough to stink up all of Manhattan, but by themselves, they won't blow anything up.</p>
+        <p>So why do we find the sulfur smell by itself so objectionable? One hundred years ago, the most feared smells were those of putrefaction, which were thought to carry disease. These days, the chain of cold that takes perishables from fridge to fridge has all but eliminated smells of rot -- though many people still use the expression ''rotten egg smell,'' few have ever encountered it. Instead, what we fear today when we smell sulfur is the possibility that manufactured poisons are present.</p>
+        <p>In response to the widespread suspicion of smells, industry goes to great lengths to avoid generating them, and government agencies pay employees to scour the countryside to identify reported malodors. Nowadays, even huge fragrance plants like Symrise's, which bestrides the bucolic town of Holzminden in central Germany, can be virtually odorless, thanks to better technology. They have to be or they would have been kicked out of town.</p>
+        <p>If, in Lord Palmerston's famous phrase, dirt is ''matter in the wrong place,'' then a stink is a scent in the wrong space. We worry about what we feel and can't see. We want smell to be predictable, to lead us to the object that produces it, and to stay reasonably close to its origin on a leash no more than a few yards long. Anything that reeks beyond a city block is an invisible snarling dog with unknown intentions, even if, in the right context, the smell itself would be innocuous. Therefore, people complain.</p>
+        <p>Yet some of the most dangerous things have no smell at all and generate no complaints. Consider that on a desolate and beautiful stretch of beach near Hartlepool, England, sits a factory that manufactures the smelliest flavors, those that make the instant noodle soup in the office microwave smell of leeks two floors down. Next to it is a nuclear power station. When the wind is from the northeast, the guys producing nuclear waste phone to complain about the smell of noodle soup.</p>
+        <p>Yet there do appear to be two smells that are bad in any context: ammonia and hydrogen sulfide, respectively rotten fish and rotten eggs. Both are products of the decay of proteins, and any early human unable to smell them would have soon died, probably from food poisoning. The wiring of our sense of smell evolved millions of years ago in days when all molecules were ''organic'' in the New Age use of the word, meaning natural. During the last 200 years, proper organic, meaning carbon-based, chemistry has made more than eight million new compounds never seen before on earth. A majority of these compounds turns out to be nontoxic; a minority of them smell.</p>
+        <p>In this great molecular crowd, the chemicals that are both volatile enough to inhale and highly toxic are remarkably sparse. The intensely smelly hydrogen sulfide, the pleasant almond-scented hydrogen cyanide and the totally odorless carbon monoxide all kill you in a similar way. They attach to the iron in your cells and dethrone another small, odorless fellow we rely upon to live: oxygen.</p>
+        <p>Very few people ever die of hydrogen sulfide poisoning because, like the stuff in natural gas, it has such a strong and unpleasant odor that you will run for your life long before it can do any harm. Cyanide too, as long as you recognize you are not smelling amaretto, will give you time to get out. Carbon monoxide, because it doesn't smell, is much more dangerous. Then there are gases used in warfare that are deliberately designed by man to kill.</p>
+        <p>Mario Sartori's textbook on such gases, published in 1939, describes in terrifying detail the properties of many of these chemical Furies, which sometimes even smelled good. Phosgene, responsible for permanently crippling so many World War I soldiers, is described as having a smell reminiscent of hay; while dichlorodiethyl sulfide or Yperite (named after the Belgian city Ypres, where it was first used) is said to smell like mustard. Some of the worst, like sarin, have no smell at all.</p>
+        <p>So relax if you can, and remember that a widespread stench with no obvious source means a powerfully smelly molecule is in the air. If so, a little goes a long way, and a little can do no harm.</p>
+        <p>Op-Ed Contributor Luca Turin, a biophysicist and the head of technology for a perfume company, is the author of ''The Secret of Scent: Adventures in Perfume and the Science of Smell.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Luca Turin, a biophysicist and the head of technology for a perfume company, is the author of ''The Secret of Scent: Adventures in Perfume and the Science of Smell.''</tagline>
+    </body.end>
+  </body>
+</nitf>

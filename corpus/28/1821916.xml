@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marie-Galante</title>
+    <meta content="28Plan10-5" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/travel/28marie.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821916"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE 10 POINT CARIBBEAN ESCAPES PLAN: FOR HERMITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Marie-Galante (Guadeloupe)</location>
+        <location class="indexing_service">Guadeloupe</location>
+        <location class="indexing_service">Caribbean Area</location>
+        <person class="indexing_service">Higgins, Michelle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Guadeloupe</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Guadeloupe</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DD163FF93BA15752C0A9619C8B63" item-length="237" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marie-Galante</hl1>
+        <hl2 class="online_headline">For Hermits: Marie-Galante</hl2>
+      </hedline>
+      <byline class="print_byline">By Michelle Higgins</byline>
+      <byline class="normalized_byline">Higgins, Michelle</byline>
+      <abstract>
+        <p>Michelle Higgins travel article on winter vacations for hermits on Marie-Galante, Guadeloupe; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marie-Galante, one of the larger islands of the Guadeloupe archipelago, is a throwback to a bygone era. Nineteenth-century windmills dot the island and ox-drawn carts, once the chief means of transportation on the island, are not an uncommon sight even today. On Sundays, there are draught ox competitions and cock fights according to Luigy Ssosse, a representative of the Guadeloupe Committee of Tourism.</p>
+        <p>''It's a place which looks like Guadeloupe did 30 year ago,'' he said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One of the larger islands of the Guadeloupe archipelago, this isolated spot is a throwback to a bygone era.</p>
+      </block>
+      <block class="full_text">
+        <p>Marie-Galante, one of the larger islands of the Guadeloupe archipelago, is a throwback to a bygone era. Nineteenth-century windmills dot the island and ox-drawn carts, once the chief means of transportation on the island, are not an uncommon sight even today. On Sundays, there are draught ox competitions and cock fights according to Luigy Ssosse, a representative of the Guadeloupe Committee of Tourism.</p>
+        <p>''It's a place which looks like Guadeloupe did 30 year ago,'' he said.</p>
+        <p>Christopher Columbus gave the island its name, calling it after his flagship Maria Galanda, when he landed there during his second New World voyage in 1493. It is also known as ''la grande galette'' or big pancake due to its round shape and relatively flat surface. (It helps to know some French, although English is spoken in most hotels.)</p>
+        <p>Today, sugar production remains the principal industry and three distilleries produce high-quality rum. But tourism is gaining ground as more visitors learn of its deserted white-sand beaches and Old World charm. Marie-Galante can be reached within 45 minutes by boat or 15 minutes by plane from Pointe-à-Pitre in Guadeloupe.</p>
+        <p>WHERE TO STAY -- Le Village de Ménard, St.-Louis, Marie-Galante. Prices for its 11 small cottages start at 70 euros (about $90 at one euro to $1.29) a night through April. (590-590-97-09-45, www.villagedemenard.com). Cap Reva at La Feuillère beach has studio apartments for 90 euros) in season. (590-590-97-50-00, www.cap-reva.com).</p>
+        <p>THE 10 POINT CARIBBEAN ESCAPES PLAN: FOR HERMITS Michelle Higgins, a staff reporter for the Travel section, writes the Practical Traveler column.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Michelle Higgins, a staff reporter for the Travel section, writes the Practical Traveler column.</tagline>
+    </body.end>
+  </body>
+</nitf>

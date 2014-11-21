@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deer Hunters Spotted, And Neighbors Fret</title>
+    <meta content="28deer" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/nyregion/thecity/28deer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822070"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEIGHBORHOOD REPORT: ROSSVILLE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Hunting and Trapping</classifier>
+        <classifier class="online_producer" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hunting and Trapping</classifier>
+        <location class="online_producer">Staten Island (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E1DC173FF93BA15752C0A9619C8B63" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deer Hunters Spotted, And Neighbors Fret</hl1>
+        <hl2 class="online_headline">Deer Hunters Spotted, and Neighbors Fret</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF VANDAM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the last decade, the management of the Staten Island Golf Practice Center, off Chemical Lane in the Rossville neighborhood, has watched a group of deer steadily grow in number, grazing peacefully at the end of the driving range.</p>
+        <p>Unafraid of humans or, apparently, of flying golf balls, the deer hang out near the woods between the range and the waters of the Arthur Kill.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Deer and hunters have been hanging around the Staten Island Golf Practice Center.</p>
+      </block>
+      <block class="full_text">
+        <p>For the last decade, the management of the Staten Island Golf Practice Center, off Chemical Lane in the Rossville neighborhood, has watched a group of deer steadily grow in number, grazing peacefully at the end of the driving range.</p>
+        <p>Unafraid of humans or, apparently, of flying golf balls, the deer hang out near the woods between the range and the waters of the Arthur Kill.</p>
+        <p>''We had 11 the other night,'' said Douglas Johnstone, owner of the center, which has been open for 16 years. The deer, he said, regularly appear around 4 p.m. ''It's their afternoon meeting,'' he said. ''We've got a pretty extensive family right now.''</p>
+        <p>Until this winter, Mr. Johnstone and his staff kept the deer's presence to themselves, for fear that hunters would come looking for the animals, even though hunting is illegal in the city. Now, it seems, that very thing is happening, with news reports in recent weeks of rifle-toting individuals in nearby Clay Pit Ponds State Park. The story of the deer and the hunters was first reported in The Staten Island Advance.</p>
+        <p>According to the State Department of Environmental Conservation, six complaints about hunters in the state park were made in the past month; Mr. Johnstone has even received word of deer-hunting stands set up there. Lori O'Connell, a department spokeswoman, said the agency's police are now patrolling the park, but by late last week no arrests had been made. The penalty for hunting is up to a year in jail, a $2,000 fine or both.</p>
+        <p>For citizens who monitor the park, news of hunters in the area has been disturbing.</p>
+        <p>''My biggest fear is that they're actually in the park when we're doing projects for the kids,'' said John Semich, a retired firefighter and director for projects of the Friends of Clay Pit Pond State Park. ''I'm a hunter myself, but I wouldn't hesitate to call the State Police if I saw somebody going in with a firearm.''</p>
+        <p>Mr. Semich, whose organization is seeking to have an education center for elementary schools established in the park, said that a volunteer mounted patrol had watched over the park until 2004 and was again needed.</p>
+        <p>As for how the deer arrived on Staten Island, there are few concrete answers, but Mr. Johnstone said that he believed development across the Arthur Kill in New Jersey had pushed them to swim toward Rossville's wooded shores. It is an area, he said, where deer feel at home.</p>
+        <p>''Once you turn off Chemical Lane up into the driving range,'' he said, ''you're in a different world.''</p>
+        <p>JEFF VANDAM</p>
+        <p>NEIGHBORHOOD REPORT: ROSSVILLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

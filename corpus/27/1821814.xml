@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INTEL SAYS CHIPS WILL RUN FASTER, USING LESS POWER</title>
+    <meta content="27chip" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Front Page; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/27/technology/27chip.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070130T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1821814"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">New Models, Design and Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Silicon</classifier>
+        <org class="indexing_service">Intel Corp</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Silicon</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Intel Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E6D8173FF934A15752C0A9619C8B63" item-length="1218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INTEL SAYS CHIPS WILL RUN FASTER, USING LESS POWER</hl1>
+        <hl2 class="online_headline">Intel Says Chips Will Run Faster, Using Less Power</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Intel, world's largest chip maker, has overhauled basic building block of information age, paving way for new generation of faster and more energy-efficient processors; company researchers say advance represents most significant change in materials used to manufacture silicon chips in more than four decades; microprocessor chips, are designed for computers but they could also have applications in consumer devices; work by Intel overcomes potentially crippling technical obstacle that has arisen as transistor's tiny switches are made even smaller: their tendency to leak current as insulating material gets thinner; Intel advance uses new metalic alloys in insulation and in adjacent components; diagram; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Intel, the world's largest chip maker, has overhauled the basic building block of the information age, paving the way for a new generation of faster and more energy-efficient processors.</p>
+        <p>Company researchers said the advance represented the most significant change in the materials used to manufacture silicon chips since Intel pioneered the modern integrated-circuit transistor more than four decades ago.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Intel has overhauled the basic building block of the information age, paving the way for faster and more energy-efficient processors.</p>
+      </block>
+      <block class="full_text">
+        <p>Intel, the world's largest chip maker, has overhauled the basic building block of the information age, paving the way for a new generation of faster and more energy-efficient processors.</p>
+        <p>Company researchers said the advance represented the most significant change in the materials used to manufacture silicon chips since Intel pioneered the modern integrated-circuit transistor more than four decades ago.</p>
+        <p>The microprocessor chips, which Intel plans to begin making in the second half of this year, are designed for computers but they could also have applications in consumer devices. Their combination of processing power and energy efficiency could make it possible, for example, for cellphones to play video at length -- a demanding digital task -- with less battery drain.</p>
+        <p>The work by Intel overcomes a potentially crippling technical obstacle that has arisen as a transistor's tiny switches are made ever smaller: their tendency to leak current as the insulating material gets thinner. The Intel advance uses new metallic alloys in the insulation itself and in adjacent components.</p>
+        <p>Word of the announcement, which is planned for Monday, touched off a war of dueling statements as I.B.M. rushed to announce that it was on the verge of a similar advance.</p>
+        <p>I.B.M. executives said their company was planning to introduce a comparable type of transistor in the first quarter of 2008.</p>
+        <p>Many industry analysts say that Intel retains a six-month to nine-month lead over the rest of the industry, but I.B.M. executives disputed the claim and said the two companies were focused on different markets in the computing industry.</p>
+        <p>The I.B.M. technology has been developed in partnership with Advanced Micro Devices, Intel's main rival. Modern microprocessor and memory chips are created from an interconnected fabric of hundreds of millions and even billions of the tiny switches that process the ones and zeros that are the foundation of digital computing.</p>
+        <p>They are made using a manufacturing process that has been constantly improving for more than four decades. Today transistors, for example, are made with systems that can create wires and other features that are finer than the resolving power of a single wavelength of light.</p>
+        <p>The Intel announcement is new evidence that the chip maker is maintaining the pace of Moore's Law, the technology axiom that states that the number of transistors on a chip doubles roughly every two years, giving rise to a constant escalation of computing power at lower costs.</p>
+        <p>''This is evolutionary as opposed to revolutionary, but it will generate a big sigh of relief,'' said Vivek Subramanian, associate professor of electrical engineering and computer sciences at the University of California, Berkeley.</p>
+        <p>For several decades there have been repeated warnings about the impending end of the Moore's Law pace for chip makers. In response the semiconductor industry has repeatedly found its way around fundamental technical obstacles, inventing techniques that at times seem to defy basic laws of physics.</p>
+        <p>The chip industry measures its progress by manufacturing standards defined by a width of one of the smallest features of a transistor for each generation. Currently much of the industry is building chips in what is known as 90-nanometer technology. At that scale, about 1,000 transistors would fit in the width of a human hair. Intel began making chips at 65 nanometers in 2005, about nine months before its closest competitors.</p>
+        <p>Now the company is moving on to the next stage of refinement, defined by a minimum feature size of 45 nanometers. Other researchers have recently reported progress on molecular computing technologies that could reduce the scale even further by the end of the decade.</p>
+        <p>Intel's imminent advance to 45 nanometers will have a huge impact on the industry, Mr. Subramanian said. ''People have been working on it for over a decade, and this is tremendously significant that Intel has made it work,'' he said.</p>
+        <p>Intel's advance was in part in finding a new insulator composed of an alloy of hafnium, a metallic element that has previously been used in filaments and electrodes and as a neutron absorber in nuclear power plants. They will replace the use of silicon dioxide -- essentially the material that window glass is made of, but only several atoms thick.</p>
+        <p>Intel is also shifting to new metallic alloy materials -- it is not identifying them specifically -- in transistor components known as gates, which sit directly on top of the insulator. These are ordinarily made from a particular form of silicon called polysilicon.</p>
+        <p>The new approach to insulation appears at least temporarily to conquer one of the most significant obstacles confronting the semiconductor industry: the tendency of tiny switches to leak electricity as they are reduced in size. The leakage makes chips run hotter and consume more power.</p>
+        <p>Many executives in the industry say that Intel is still recovering from a strategic wrong turn it made when the company pushed its chips to extremely high clock speeds -- the ability of a processor to calculate more quickly. That obsession with speed at any cost left the company behind its competitors in shifting to low-power alternatives.</p>
+        <p>Now Intel is coming back. Although the chip maker led in the speed race for many years, the company has in recent years shifted its focus to low-power microprocessors that gain speed by breaking up each chip into multiple computing ''cores.'' In its new 45-nanometer generation, Intel will gain the freedom to seek either higher performance or substantially lower power, while at the same time increasing the number of cores per chip.</p>
+        <p>''They can adjust the transistor for high performance or low power,'' said David Lammers, director of WeSRCH.com, a Web portal for technical professionals.</p>
+        <p>The Intel development effort has gone on in a vast automated factory in Beaverton, Ore., that the company calls D1D. It features huge open manufacturing rooms that are kept surgically clean to prevent dust from contaminating the silicon wafers that are whisked around the factory by a robotic conveyor system.</p>
+        <p>The technology effort was led by Mark T. Bohr, a longtime Intel physicist who is director of process architecture and integration. The breakthrough, he said, was in finding a way to deal with the leakage of current. ''Up until five years ago, leakage was thought to increase with each generation,'' he said.</p>
+        <p>Several analysts said that the technology advance could give Intel a meaningful advantage over competitors in the race to build ever more powerful microprocessors.</p>
+        <p>''It's going to be a nightmare for Intel's competitors,'' said G. Dan Hutcheson, chief executive of VLSI Research. ''A lot of Mark Bohr's counterparts are going to wake up in terror.''</p>
+        <p>An I.B.M. executive said yesterday that the company had also chosen hafnium as its primary insulator, but that it would not release details of its new process until technical papers are presented at coming conferences.</p>
+        <p>''It's the difference between can openers and Ferraris,'' said Bernard S. Meyerson, vice president and chief technologist for the systems and technology group at I.B.M. He insisted that industry analysts who have asserted that Intel has a technology lead are not accurate and that I.B.M. had simply chosen to deploy its new process in chips that are part of high-performance systems aimed at the high end of the computer industry.</p>
+        <p>Intel said it had already manufactured prototype microprocessor chips in the new 45-nanometer process that run on three major operating systems: Windows, Mac OS X and Linux.</p>
+        <p>Correction:  January 30, 2007, Tuesday  A front-page article on Saturday about a breakthrough by Intel in chipmaking misidentified the site of a vast automated factory where the development effort took place. It is in Hillsboro, Ore., not Beaverton.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 30, 2007, Tuesday</p>
+        <p>A front-page article on Saturday about a breakthrough by Intel in chipmaking misidentified the site of a vast automated factory where the development effort took place. It is in Hillsboro, Ore., not Beaverton.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

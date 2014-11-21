@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Budget-Minded Hipsters, Rooms That Economize on Space</title>
+    <meta content="04pod" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816238"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: HOTELS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Pod Hotel (NYC)</org>
+        <person class="indexing_service">Cannell, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EFDA1730F937A35752C0A9619C8B63" item-length="296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Budget-Minded Hipsters, Rooms That Economize on Space</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL CANNELL</byline>
+      <byline class="normalized_byline">Cannell, Michael</byline>
+      <abstract>
+        <p>Pod Hotel in New York City offers 100-foot-square hotel rooms that are high on design and low in price; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Imagine if Ian Schrager opened a youth hostel. Such is the concept behind the Pod Hotel, which is opening on East 51st Street in stages this month, with rooms becoming available as they are completed.</p>
+        <p>Formerly the Pickwick Arms, a drab Midtown lodging, the Pod Hotel holds 347 rooms barely larger than walk-in closets. A 100-square-foot hotel room for two may be a tough sell, even in New York. But the owners are betting that guests (target age: 18 to 25) will overlook the cramped quarters if they offer high design at a low price. Rates start at $89 a night for a compact single room, above left, made for the traveler who just wants to dive into bed.</p>
+      </block>
+      <block class="full_text">
+        <p>Imagine if Ian Schrager opened a youth hostel. Such is the concept behind the Pod Hotel, which is opening on East 51st Street in stages this month, with rooms becoming available as they are completed.</p>
+        <p>Formerly the Pickwick Arms, a drab Midtown lodging, the Pod Hotel holds 347 rooms barely larger than walk-in closets. A 100-square-foot hotel room for two may be a tough sell, even in New York. But the owners are betting that guests (target age: 18 to 25) will overlook the cramped quarters if they offer high design at a low price. Rates start at $89 a night for a compact single room, above left, made for the traveler who just wants to dive into bed.</p>
+        <p>''Our guest is the stylish spendthrift,'' said Richard Born, a principal of BD Hotels, which also owns Manhattan hotels like the Maritime and the Mercer.</p>
+        <p>The Pod Hotel is the first of its kind to open in the United States, though capsule hotels have operated in Japan for more than two decades. The stripped-down easyHotel opened in London in 2005, and the chain has since spread through Europe and Asia.</p>
+        <p>Vanessa Guilford, the Pod Hotel's designer, has echoed transportation's efficient use of space. Bunk beds suggest sleeper cars on trains, and in rooms without bathrooms, a symbol above the door turns green when a shared hallway bathroom is vacant -- a detail borrowed from airplanes. Flip-down coat hooks are the same as those found on Amtrak trains.</p>
+        <p>''The idea was to keep it all cheap and cheerful,'' Ms. Guilford said, ''and to simplify it as much as possible.'' In the lounge, above right, a mural by James Rizzi sets the tone. The Pod Hotel is at 230 East 51st Street. For reservations, (212) 355-0300.</p>
+        <p>MICHAEL CANNELL</p>
+        <p>CURRENTS: HOTELS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MUSIC: The Way of All Film</title>
+    <meta content="25ubn01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821385"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E4D8163FF936A15752C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MUSIC: The Way of All Film</hl1>
+      </hedline>
+      <byline class="print_byline">By MELENA RYZIK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''This may be the greatest movie ever made,'' Errol Morris said upon seeing ''Decasia,'' the experimental work by the filmmaker Bill Morrison and the composer Michael Gordon. An ''ineffably beautiful and heartbreaking study of the poetics of disintegrating film stock,'' it features fading images from old silver-nitrate films; when they dissolve before your eyes, the effect is equal parts psychedelic '60s light show and post-post-modern cinema. And it's even better with live accompaniment, Allan Kozinn says. The score for this symphony of decay ''evolves from a faint, metallic rattle to an insistent but pointed rhythm pattern to a pounding, syncopated, clangorous barrage.'' Tonight's all-too-rare performance is in a crumbling former synagogue -- a fitting setting indeed.</p>
+        <p>Tonight through Saturday at 7 and 9:30 p.m., Angel Orensanz Center for the Arts, 172 Norfolk Street, at Houston Street, (212) 352-3101, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>''This may be the greatest movie ever made,'' Errol Morris said upon seeing ''Decasia,'' the experimental work by the filmmaker Bill Morrison and the composer Michael Gordon. An ''ineffably beautiful and heartbreaking study of the poetics of disintegrating film stock,'' it features fading images from old silver-nitrate films; when they dissolve before your eyes, the effect is equal parts psychedelic '60s light show and post-post-modern cinema. And it's even better with live accompaniment, Allan Kozinn says. The score for this symphony of decay ''evolves from a faint, metallic rattle to an insistent but pointed rhythm pattern to a pounding, syncopated, clangorous barrage.'' Tonight's all-too-rare performance is in a crumbling former synagogue -- a fitting setting indeed.</p>
+        <p>Tonight through Saturday at 7 and 9:30 p.m., Angel Orensanz Center for the Arts, 172 Norfolk Street, at Houston Street, (212) 352-3101, $25.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

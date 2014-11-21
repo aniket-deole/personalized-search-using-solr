@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jewish Family Christmas</title>
+    <meta content="07letters.t-6" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816958"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Jews</classifier>
+        <classifier class="indexing_service" type="descriptor">Christmas</classifier>
+        <person class="indexing_service">Lubinsky, Marian S</person>
+        <person class="indexing_service">Gilmore, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christmas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2DA1730F934A35752C0A9619C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jewish Family Christmas</hl1>
+      </hedline>
+      <abstract>
+        <p>Marian S Lubinsky letter says she would prefer to read article about Jews who do not and do not want to celebrate Christmas (Dec 24, 2006, Jennifer Gilmore Lives article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Every year I read articles about Jews who celebrate Christmas or wish they celebrated it (Lives, Jennifer Gilmore, Dec. 24). Just once, I'd like to read about Jews like me, who do not, and never wanted to, celebrate Christmas. I know that for many it is a lovely holiday. It is not my holiday, and I don't celebrate it any more than I celebrate Bastille Day or Cinco de Mayo.</p>
+      </block>
+      <block class="full_text">
+        <p>Every year I read articles about Jews who celebrate Christmas or wish they celebrated it (Lives, Jennifer Gilmore, Dec. 24). Just once, I'd like to read about Jews like me, who do not, and never wanted to, celebrate Christmas. I know that for many it is a lovely holiday. It is not my holiday, and I don't celebrate it any more than I celebrate Bastille Day or Cinco de Mayo.</p>
+        <p>Marian S. Lubinsky</p>
+        <p>South Deerfield, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

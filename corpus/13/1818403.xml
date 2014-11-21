@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wilson Hulme, 60, a Curator And Passionate Stamp Collector</title>
+    <meta content="13hulme" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/13/obituaries/13hulme.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818403"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Wilson Hulme</classifier>
+        <person class="indexing_service">Hulme, Wilson</person>
+        <person class="indexing_service">Healey, Matthew</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Stamps (Postal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Postal Service</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E2DA1330F930A25752C0A9619C8B63" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wilson Hulme, 60, a Curator And Passionate Stamp Collector</hl1>
+        <hl2 class="online_headline">Wilson Hulme, 60, a Curator and Passionate Stamp Collector, Is Dead</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW HEALEY</byline>
+      <byline class="normalized_byline">Healey, Matthew</byline>
+      <abstract>
+        <p>Wilson Hulme, promoter of stamp collecting as hobby and philatelic curator at Smithsonian's National Postal Museum, dies at age 60 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wilson Hulme, an energetic promoter of the stamp collecting hobby and philatelic curator of the Smithsonian's National Postal Museum in Washington, died on Wednesday in Fort Lauderdale, Fla. He was 60.</p>
+        <p>The cause was a heart attack, said Allison Gallaway, a spokeswoman for the museum.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Wilson Hulme was an energetic promoter of the stamp collecting hobby and philatelic curator of the Smithsonian’s National Postal Museum in Washington.</p>
+      </block>
+      <block class="full_text">
+        <p>Wilson Hulme, an energetic promoter of the stamp collecting hobby and philatelic curator of the Smithsonian's National Postal Museum in Washington, died on Wednesday in Fort Lauderdale, Fla. He was 60.</p>
+        <p>The cause was a heart attack, said Allison Gallaway, a spokeswoman for the museum.</p>
+        <p>A stamp collector since childhood, Mr. Hulme accepted in 2002 what he called his dream job as curator of the philatelic collections of the postal museum, which focuses on the history of mail delivery and the importance of the postal system in American history. Before that, Mr. Hulme's business career included long stays at Frito-Lay and Unilever, and he was vice-president of operations at Nabisco from 1997 to 2001.</p>
+        <p>Until Mr. Hulme's arrival, the museum's stamp collections had languished, largely locked away out of visitors' sight. With his mantra, ''Access the inaccessible,'' Mr. Hulme, who was a serious student of philately as well as a collector, quickly set about trying to broaden the appeal of stamp collecting.</p>
+        <p>He made the stamp holdings, including major rarities, easier to visit. He arranged for specimens from the royal collection of Queen Elizabeth II to be exhibited there, in a rare showing outside Britain, and he got the Smithsonian to buy John Lennon's boyhood stamp album, hoping the acquisition would help inspire new collectors.</p>
+        <p>''He knew there was something in the hobby for everyone, and he opened the doors,'' said Ms. Gallaway, the museum spokeswoman. ''I would always say to him, 'Tell me why anyone should care,' and he always would.''</p>
+        <p>Although he was born in Dallas, Mr. Hulme grew up in Ardmore, Okla., and graduated from the United States Naval Academy in 1968. He earned a master's degree from Michigan State University in 1969 and an M.B.A. from Harvard Business School in 1978. He retired from the Navy with the rank of captain.</p>
+        <p>Mr. Hulme was a member of numerous philatelic clubs and societies in the United States and abroad, including the Collectors Club of New York and the Royal Philatelic Society, London, and was president of the United States Philatelic Classics Society at the time of his death.</p>
+        <p>He is survived by his wife of 34 years, the former Susan Thimlar, with whom he lived in Morristown, N.J.; his mother, Anna Ruth Hulme-Shedd of Ardmore; a sister, Barbara Everheart of Dallas; and a brother, Ron Hulme of Houston.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

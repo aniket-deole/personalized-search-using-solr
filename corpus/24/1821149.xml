@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Chinatown Banh Mi Shop Breaks Out of the Mold</title>
+    <meta content="24mott" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821149"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Paris Sandwich (NYC Sandwich Shop)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E7D61F30F937A15752C0A9619C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Chinatown Banh Mi Shop Breaks Out of the Mold</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Paris Sandwich in Chinatown sells banh mi, hearty Vietnamese sandwiches; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shops selling banh mi, the hearty Vietnamese sandwiches that involve various meats, vegetables and pickles layered on crisp baguettes, are usually small mom-and-pop affairs. A slicker, more spacious version, Paris Sandwich, opened a few weeks ago in Chinatown. It serves a dozen kinds of banh mi ($3.25 to $3.50), summer rolls ($3) and some rice and noodle dishes with chicken or pork ($4.25 to $5). The baguettes, which are also sold plain or buttered, are baked on the premises, and the banh mi, especially the somewhat sloppy Vietnamese meatball version, make a satisfying lunch: 113 Mott Street (Canal Street), (212) 226-7221.</p>
+      </block>
+      <block class="full_text">
+        <p>Shops selling banh mi, the hearty Vietnamese sandwiches that involve various meats, vegetables and pickles layered on crisp baguettes, are usually small mom-and-pop affairs. A slicker, more spacious version, Paris Sandwich, opened a few weeks ago in Chinatown. It serves a dozen kinds of banh mi ($3.25 to $3.50), summer rolls ($3) and some rice and noodle dishes with chicken or pork ($4.25 to $5). The baguettes, which are also sold plain or buttered, are baked on the premises, and the banh mi, especially the somewhat sloppy Vietnamese meatball version, make a satisfying lunch: 113 Mott Street (Canal Street), (212) 226-7221.  FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Bronx: Search For Missing Baby</title>
+    <meta content="09mbrfs-4" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/nyregion/09mbrfs-baby.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817681"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Missing Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Vasquez, Emily</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Missing Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EFD61530F93AA35752C0A9619C8B63" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Bronx: Search For Missing Baby</hl1>
+        <hl2 class="online_headline">Bronx: Search for Missing Baby</hl2>
+      </hedline>
+      <byline class="print_byline">By EMILY VASQUEZ; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Vasquez, Emily</byline>
+      <abstract>
+        <p>New York City police search for infant boy whose mother reported him missing in Bronx; mother said man kidnapped child, but police say no abduction had taken place (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The police said they were searching yesterday for an infant boy whose mother reported him missing about 1:30 p.m. at Jacobi Hospital Medical Center. The woman, 28, whose identity was not released, first reported that a man had held a hard object to her back and abducted her son while she was outside the hospital, the police said, but they determined that there had been no abduction.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The police said they were searching yesterday for an infant boy whose mother reported him missing about 1:30 p.m. at Jacobi Hospital Medical Center. The woman, 28, whose identity was not released, first reported that a man had held a hard object to her back and abducted her son while she was outside the hospital, the police said, but they determined that there had been no abduction.</p>
+      </block>
+      <block class="full_text">
+        <p>The police said they were searching yesterday for an infant boy whose mother reported him missing about 1:30 p.m. at Jacobi Hospital Medical Center. The woman, 28, whose identity was not released, first reported that a man had held a hard object to her back and abducted her son while she was outside the hospital, the police said, but they determined that there had been no abduction.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

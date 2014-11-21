@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Colbert-O'Reilly Swap Offers Mutual Benefits</title>
+    <meta content="22arts-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820726"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <person class="indexing_service">Toff, Benjamin</person>
+        <person class="indexing_service">Colbert, Stephen</person>
+        <person class="indexing_service">O'Reilly, Bill</person>
+        <object.title class="indexing_service">O'Reilly Factor, the (TV Program)</object.title>
+        <object.title class="indexing_service">Colbert Report, the (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03EFDC1F30F931A15752C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Colbert-O'Reilly Swap Offers Mutual Benefits</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+      <abstract>
+        <p>Ratings for Comedy Central program The Colbert Report and Fox News program The O'Reilly Factor surge when Stephen Colbert and Bill O'Reilly exchange guest stints on Thursday night (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Comedy Central's Stephen Colbert, who plays a caricature of a self-involved conservative pundit on ''The Colbert Report,'' exchanged guest stints Thursday with Bill O'Reilly, the Fox News host whom Mr. Colbert affectionately calls ''Papa Bear,'' ratings for both shows surged. According to Nielsen, Mr. O'Reilly's appearance helped ''The Colbert Report'' garner 1.7 million viewers at 11:30 p.m., a record high in that show's 15-month history. Earlier in the night, from 8 to 9 p.m., ''The O'Reilly Factor'' saw its ratings soar 46 percent over its fourth-quarter average last year, to nearly 3 million viewers. Among ''Factor'' viewers ages 25 to 54, a demographic in which Mr. Colbert's show regularly draws more viewers, the increase was even more pronounced. Mr. O'Reilly's show improved from an average of 450,000 viewers in that age group to 750,000.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>When Comedy Central's Stephen Colbert, who plays a caricature of a self-involved conservative pundit on ''The Colbert Report,'' exchanged guest stints Thursday with Bill O'Reilly, the Fox News host whom Mr. Colbert affectionately calls ''Papa Bear,'' ratings for both shows surged. According to Nielsen, Mr. O'Reilly's appearance helped ''The Colbert Report'' garner 1.7 million viewers at 11:30 p.m., a record high in that show's 15-month history. Earlier in the night, from 8 to 9 p.m., ''The O'Reilly Factor'' saw its ratings soar 46 percent over its fourth-quarter average last year, to nearly 3 million viewers. Among ''Factor'' viewers ages 25 to 54, a demographic in which Mr. Colbert's show regularly draws more viewers, the increase was even more pronounced. Mr. O'Reilly's show improved from an average of 450,000 viewers in that age group to 750,000.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

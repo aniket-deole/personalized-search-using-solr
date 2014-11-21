@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recycle, but Don't Iron</title>
+    <meta content="l31polyester" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822789"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <location class="indexing_service">Portland (Ore)</location>
+        <person class="indexing_service">Carlson, Leslie</person>
+        <person class="indexing_service">Dering, Alex</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon/Portland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E4DF153FF932A05752C0A9619C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recycle, but Don't Iron</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters comment on Jan 25 article about impact of clothing industry on climate change; Leslie Carlson praises Portland, Ore, designers who are using second-hand clothing to create new fashions; Alexander Dering offers humorous comment about caring for clothing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Can Polyester Save the World?'' (Thursday Styles, Jan. 25):</p>
+        <p>Here in Portland, Ore., savvy local fashion designers have another way to reduce the amount of carbon in their fashions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Can Polyester Save the World?'' (Thursday Styles, Jan. 25):</p>
+        <p>Here in Portland, Ore., savvy local fashion designers have another way to reduce the amount of carbon in their fashions.</p>
+        <p>Portland designers often find clothing at garage sales and resale shops and refashion these articles into new, ingenious creations.</p>
+        <p>I've seen neckties become beautiful belts and arm cuffs; men's suits cut and resewn into unique skirts; and handbags and gloves made out of old sweaters.</p>
+        <p>In the past few years, I've been adding these refashioned pieces to my own wardrobe, proving that one can dress stylishly and be eco-friendly all at the same time.</p>
+        <p>Leslie Carlson  Portland, Ore., Jan. 25, 2007</p>
+        <p>To the Editor:</p>
+        <p>As one of your more slovenly readers, I am amazed to hear that there are people who iron their cotton T-shirts.</p>
+        <p>I've heard about such people. I've also heard about Bigfoot. And I still don't think either exists.</p>
+        <p>Alexander Dering  Princeton, N.J., Jan. 25, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

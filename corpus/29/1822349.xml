@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Courts Turn to Wikipedia, but Selectively</title>
+    <meta content="29wikipedia" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/technology/29wikipedia.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822349"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Encyclopedias</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <org class="indexing_service">Wikipedia</org>
+        <person class="indexing_service">Cohen, Noam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">Wikipedia</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0DF143FF93AA15752C0A9619C8B63" item-length="993" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Courts Turn to Wikipedia, but Selectively</hl1>
+        <hl2 class="online_headline">Courts Turn to Wikipedia, but Selectively</hl2>
+      </hedline>
+      <byline class="print_byline">By NOAM COHEN</byline>
+      <byline class="normalized_byline">Cohen, Noam</byline>
+      <abstract>
+        <p>Internet encyclopedia Wikipedia is frequently cited by judges in their court decisions; over 100 judicial rulings have used site as source for information; Supreme Court has not yet cited Wikipedia in rulings; experts urge judges to use caution when making citations due to site's vulnerability to vandalism and abuse; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When a court-appointed special master last year rejected the claim of an Alabama couple that their daughter had suffered seizures after a vaccination, she explained her decision in part by referring to material from articles in Wikipedia, the collaborative online encyclopedia.</p>
+        <p>The reaction from the court above her, the United States Court of Federal Claims, was direct: the materials ''culled from the Internet do not -- at least on their face -- meet'' standards of reliability. The court reversed her decision.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>More than 100 judicial rulings have relied on Wikipedia, beginning in 2004, including 13 from circuit courts of appeal.</p>
+      </block>
+      <block class="full_text">
+        <p>When a court-appointed special master last year rejected the claim of an Alabama couple that their daughter had suffered seizures after a vaccination, she explained her decision in part by referring to material from articles in Wikipedia, the collaborative online encyclopedia.</p>
+        <p>The reaction from the court above her, the United States Court of Federal Claims, was direct: the materials ''culled from the Internet do not -- at least on their face -- meet'' standards of reliability. The court reversed her decision.</p>
+        <p>Oddly, to cite the ''pervasive, and for our purposes, disturbing series of disclaimers'' concerning the site's accuracy, the same Court of Federal Claims relied on an article called ''Researching With Wikipedia'' found -- where else? -- on Wikipedia. (The family has reached a settlement, their lawyer said.)</p>
+        <p>A simple search of published court decisions shows that Wikipedia is frequently cited by judges around the country, involving serious issues and the bizarre -- such as a 2005 tax case before the Tennessee Court of Appeals concerning the definition of ''beverage'' that involved hundreds of thousands of dollars, and, just this week, a case in Federal District Court in Florida that involved the term ''booty music'' as played during a wet T-shirt contest.</p>
+        <p>More than 100 judicial rulings have relied on Wikipedia, beginning in 2004, including 13 from circuit courts of appeal, one step below the Supreme Court. (The Supreme Court thus far has never cited Wikipedia.)</p>
+        <p>''Wikipedia is a terrific resource,'' said Judge Richard A. Posner of the United States Court of Appeals for the Seventh Circuit, in Chicago. ''Partly because it so convenient, it often has been updated recently and is very accurate.'' But, he added: ''It wouldn't be right to use it in a critical issue. If the safety of a product is at issue, you wouldn't look it up in Wikipedia.''</p>
+        <p>Judge Posner recently cited a Wikipedia article on Andrew Golota, whom he called the ''world's most colorful boxer,'' about a drug case involving the fighter's former trainer, a tangent with no connection to the issues before his court. He did so despite his own experience with Wikipedia, which included an erroneous mention of Ann Coulter, a conservative lightning rod, as being a former clerk of his.</p>
+        <p>''I have never met Ann Coulter,'' he said, but added that he was heartened that the friend who spotted the error could fix it then and there.</p>
+        <p>That friend was Cass R. Sunstein, currently a visiting professor at Harvard Law School. ''I love Wikipedia, but I don't think it is yet time to cite it in judicial decisions,'' he said, adding that ''it doesn't have quality control'' He said he feared that ''if judges use Wikipedia you might introduce opportunistic editing'' to create articles that could influence the outcome of cases.</p>
+        <p>He added, however, that he could not fault a use like Judge Posner's, which ''seems too innocuous for a basis of criticism.''</p>
+        <p>Many citations by judges, often in footnotes, are like Judge Posner's, beside the main judicial point, appear intended to show how hip and contemporary the judge is, reflecting Professor Sunstein's suspicion, ''that law clerks are using Wikipedia a great deal.''</p>
+        <p>The Supreme Court of Iowa cites Wikipedia to explain that ''jungle juice'' is ''the name given to a mix of liquor that is usually served for the sole purpose of becoming intoxicated.'' In the Florida case, the court noted that booty music has ''a slightly higher dance tempo and occasional sexually explicit lyrical content.''</p>
+        <p>As opposed to these tangential references, Wikipedia has also been used for more significant facts.</p>
+        <p>Such cases include a Brooklyn surrogate court's definition of the Jewish marriage ceremony and the Iowa Court of Appeals' declaration that French is the official language of the Republic of Guinea. In 2004, the Court of Appeals for the 11th Circuit, in Georgia, referred to a Wikipedia entry of the Department of Homeland Security's threat levels in a ruling concerning magnetometer searches of antiwar protesters.</p>
+        <p>In a recent letter to The New York Law Journal, Kenneth H. Ryesky, a tax lawyer who teaches at Queens College and Yeshiva University, took exception to the practice, writing that ''citation of an inherently unstable source such as Wikipedia can undermine the foundation not only of the judicial opinion in which Wikipedia is cited, but of the future briefs and judicial opinions which in turn use that judicial opinion as authority.''</p>
+        <p>Recognizing that concern, Lawrence Lessig, a professor at Stanford Law School who frequently writes about technology, said that he favored a system that captures in time online sources like Wikipedia, so that a reader sees the same material that the writer saw.</p>
+        <p>He said he used www.webcitation.org for the online citations in his amicus brief to the Supreme Court in Metro-Goldwyn-Mayer Studios v. Grokster Ltd., which ''makes the particular reference a stable reference, and something someone can evaluate.''</p>
+        <p>Wikipedia is increasingly becoming the default reference for the curious. According to comScore Media Metrix, there were more than 38 million unique visitors to Wikipedia sites in December in the United States, making it the 13th most popular destination.</p>
+        <p>Stephen Gillers, a professor at New York University Law School, saw this as crucial: ''The most critical fact is public acceptance, including the litigants,'' he said. ''A judge should not use Wikipedia when the public is not prepared to accept it as authority.''</p>
+        <p>For now, Professor Gillers said, Wikipedia is best used for ''soft facts'' that are not central to the reasoning of a decision. All of which leads to the question, if a fact isn't central to a judge's ruling, why include it?</p>
+        <p>''Because you want your opinion to be readable,'' said Professor Gillers. ''You want to apply context. Judges will try to set the stage. There are background facts. You don't have to include them. They are not determinitive. But they help the reader appreciate the context.''</p>
+        <p>He added, ''The higher the court the more you want to do it. Why do judges cite Shakespeare or Kafka?''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

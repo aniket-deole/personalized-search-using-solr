@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Economists' Web Sites</title>
+    <meta content="10leonhardt-sites" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817699"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0DD1130F93AA35752C0A9619C8B63" item-length="43" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Economists' Web Sites</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID LEONHARDT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ulrike Malmendier: http://www.econ.berkeley.edu/ulrike/index.html  Stefano DellaVigna: http://elsa.berkeley.edu/sdellavi/  Roland Fryer: http://www.economics.harvard.edu/faculty/fryer/fryer.html  Jesse Rothstein: http://www.princeton.edu/jrothst/  Jesse Shapiro: http://home.uchicago.edu/jmshapir/  Emily Oster: http://home.uchicago.edu/eoster/  Amy Finkelstein: http://www.nber.org/afinkels/  Benjamin Olken: http://www.nber.org/bolken/  Raj Chetty: http://elsa.berkeley.edu/chetty/  Justin Wolfers: http://bpp.wharton.upenn.edu/jwolfers/index.shtml  Xavier Gabiax: http://econ-www.mit.edu/faculty/index.htm?prof--id=xgabaix  Matthew Gentzkow: http://faculty.chicagogsb.edu/matthew.gentzkow/  Dean Karlan: http://www.econ.yale.edu/karlan/</p>
+      </block>
+      <block class="full_text">
+        <p>Ulrike Malmendier: http://www.econ.berkeley.edu/ulrike/index.html  Stefano DellaVigna: http://elsa.berkeley.edu/sdellavi/  Roland Fryer: http://www.economics.harvard.edu/faculty/fryer/fryer.html  Jesse Rothstein: http://www.princeton.edu/jrothst/  Jesse Shapiro: http://home.uchicago.edu/jmshapir/  Emily Oster: http://home.uchicago.edu/eoster/  Amy Finkelstein: http://www.nber.org/afinkels/  Benjamin Olken: http://www.nber.org/bolken/  Raj Chetty: http://elsa.berkeley.edu/chetty/  Justin Wolfers: http://bpp.wharton.upenn.edu/jwolfers/index.shtml  Xavier Gabiax: http://econ-www.mit.edu/faculty/index.htm?prof--id=xgabaix  Matthew Gentzkow: http://faculty.chicagogsb.edu/matthew.gentzkow/  Dean Karlan: http://www.econ.yale.edu/karlan/</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

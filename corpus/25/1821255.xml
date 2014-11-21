@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Laptop Designed to Take a Licking and Keep On Ticking</title>
+    <meta content="25laptop" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/technology/25laptop.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821255"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Dell Inc</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Dell Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E6DB163FF936A15752C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Laptop Designed to Take a Licking and Keep On Ticking</hl1>
+        <hl2 class="online_headline">A Laptop Designed to Take a Licking and Keep on Ticking</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>A Laptop Designed to Take a Licking and Keep On Ticking**</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''All terrain'' is not usually a designation associated with things as delicate as hard drives and high-speed memory chips. Dell, however, is betting that its Latitude ATG D620 -- the ATG stands for All-Terrain Grade -- can change that.</p>
+        <p>The ATG D620, which Dell says is designed to military specifications, includes a spill-resistant keyboard, heavy-duty case and 14-inch screen, which is visible in direct sunlight. It weighs about 6 pounds with the optical disk drive and battery installed, and is about 2 inches thick.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dell's ATG D620 laptop includes a spill-resistant keyboard, heavy-duty case and 14-inch screen, which is visible in direct sunlight.</p>
+      </block>
+      <block class="full_text">
+        <p>''All terrain'' is not usually a designation associated with things as delicate as hard drives and high-speed memory chips. Dell, however, is betting that its Latitude ATG D620 -- the ATG stands for All-Terrain Grade -- can change that.</p>
+        <p>The ATG D620, which Dell says is designed to military specifications, includes a spill-resistant keyboard, heavy-duty case and 14-inch screen, which is visible in direct sunlight. It weighs about 6 pounds with the optical disk drive and battery installed, and is about 2 inches thick.</p>
+        <p>The laptop comes in a metal-and-black finish with protective coverings on its serial, video out, modem, Ethernet and four U.S.B. ports.</p>
+        <p>Inside the hard shell is an Intel Core 2 Duo processor, running at up to 2 gigahertz, and up to 4 gigabytes of memory. The least expensive model ($2,499) runs at 1.6 gigahertz and includes an 80-gigabyte drive and 512 megabytes of memory.</p>
+        <p>Dell includes a fingerprint scanner for security, while military and other security-conscious users can enable the laptop's built-in Smart Card reader and other data encryption technology.</p>
+        <p>While it won't survive a dunk in the deep, the ATG D620 can survive a splash of mud or a good, hard drop.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="15correx-8" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819122"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Kansas City Royals</org>
+        <person class="indexing_service">Meche, Gil</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E6DB1030F936A25752C0A9619C8B63" item-length="51" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction on Jan 7 On Baseball column; Kansas City Royals signed pitcher Gil Meche to five-year, $55 million contract</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the On Baseball column on Jan. 7 about Gil Meche and Ron Guidry, two pitchers from different eras but the same hometown, Lafayette, La., misstated the team that signed Meche to a five-year, $55 million contract this off-season. It is the Kansas City Royals, not the Seattle Mariners.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the On Baseball column on Jan. 7 about Gil Meche and Ron Guidry, two pitchers from different eras but the same hometown, Lafayette, La., misstated the team that signed Meche to a five-year, $55 million contract this off-season. It is the Kansas City Royals, not the Seattle Mariners.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

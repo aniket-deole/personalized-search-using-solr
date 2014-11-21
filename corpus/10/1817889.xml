@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Real Thing</title>
+    <meta content="10lett-3" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817889"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Organic Foods and Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Labeling and Labels</classifier>
+        <person class="indexing_service">Elzinga, Caryl</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organic Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labeling and Labels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2DC1230F933A25752C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Real Thing</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Caryl Elzinga of Alderspring Ranch says it is frustrating for producers who really are small, family, organic or sustainable to see their niche taken over by corporate giants (Jan 3 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It is frustrating for producers who really are small, family, organic or sustainable to have their niche taken over by well-dressed fakers. I have a simple solution for your readers: call the company. If the guy whose name is on the label answers the phone, you've got the real McCoy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It is frustrating for producers who really are small, family, organic or sustainable to have their niche taken over by well-dressed fakers. I have a simple solution for your readers: call the company. If the guy whose name is on the label answers the phone, you've got the real McCoy.</p>
+        <p>We produce Alderspring Ranch organic grass-fed beef, and if you call us, you get us, or one of our kids, or the answering machine (the last the most likely, but we will call people back)! With a little legwork and investigation, people could buy the real thing rather than feel vaguely bamboozled as they leave the store. There's a lot of us out there: we're just a little harder to find than the store on the corner.</p>
+        <p>Caryl Elzinga  May, Idaho</p>
+        <p>The writer is an owner of Alderspring Ranch.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

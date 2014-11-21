@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE COMMON APPLICATION; Typo.com</title>
+    <meta content="commonap" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/education/07commonap.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816855"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BLACKBOARD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <org class="indexing_service">Commonapp.org (Web Site)</org>
+        <org class="indexing_service">Commonap.org (Web Site)</org>
+        <person class="indexing_service">Lagorio, Christine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Facebook.com</org>
+        <org class="online_producer">MySpace.com</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E2DC1F31F934A35752C0A9619C8B63" item-length="269" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE COMMON APPLICATION; Typo.com</hl1>
+        <hl2 class="online_headline">The Common Application: Typo.com</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRISTINE LAGORIO</byline>
+      <byline class="normalized_byline">Lagorio, Christine</byline>
+      <abstract>
+        <p>Similar spellings of names of Web sites can confuse some applicants searching for standard form used by about 300 colleges and universities; Commonapp.org is correct URL, but Commonap.org leads students to advertisers for application services; list of other Web sites with similar names, but dissimilar services; drawing (special section, Education Life) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JOAN RYNEARSON, an education consultant in the state of Washington, got a call last fall from a student who had been tooling around commonap.org for an eternity -- five minutes -- and couldn't find application directions or lists of colleges or even a log-in page. ''It wasn't the right site, and it was very misleading,'' Ms. Rynearson complains.</p>
+        <p>Commonapp.org spelled with two Ps -- is the Web site of the Common Application, the standard form used to apply to about 300 colleges and universities.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some Web sites tinker with domain names to lure unsuspecting students.</p>
+      </block>
+      <block class="full_text">
+        <p>JOAN RYNEARSON, an education consultant in the state of Washington, got a call last fall from a student who had been tooling around commonap.org for an eternity -- five minutes -- and couldn't find application directions or lists of colleges or even a log-in page. ''It wasn't the right site, and it was very misleading,'' Ms. Rynearson complains.</p>
+        <p>Commonapp.org spelled with two Ps -- is the Web site of the Common Application, the standard form used to apply to about 300 colleges and universities.</p>
+        <p>Commonap.org (with one P) is a page of generically labeled links (''My Common Ap,'' ''Download College Application,'' etc.) that lead to still more links for advertisers -- essay-writing services, college-search consultants, travel providers and the like.</p>
+        <p>Commonap.org is one of more than two million sites with content provided by Oversee.net. Corinne Forti, a spokeswoman, says the company does not condone misspelling Web addresses in order to siphon off their traffic and does not monitor all of its sites.</p>
+        <p>Still, isn't wordplay the point? Companies like</p>
+        <p>Oversee fill Web sites with links to advertisers interested in the audience suggested by the domain name. It gets a fee each time a customer is hooked by, say, clicking on a college loan application link found on commonap.org.</p>
+        <p>CHRISTINE LAGORIO</p>
+        <p>Looking for:  Ratemyprofessors.com, the teacher evaluation site  Facebook.com, the social-networking site  MTVu.com, MTV's site for college students  MySpace.com, the social-networking site</p>
+        <p>You might get:  Rateyourprofessor.com, advertising links for online degrees, auto insurance, etc.  Faceboo.com, ''your online source for Romance and Love,'' links to dating sites  Umtv.com, links to companies selling television services  MySpace.org, links to pornographic sites</p>
+        <p>BLACKBOARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

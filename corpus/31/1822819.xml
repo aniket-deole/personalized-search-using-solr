@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sosa Agrees to Minor League Deal With Rangers</title>
+    <meta content="31base" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822819"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Minor Leagues</classifier>
+        <org class="indexing_service">Texas Rangers</org>
+        <person class="indexing_service">Daley, Ken</person>
+        <person class="indexing_service">Sosa, Sammy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Texas Rangers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minor Leagues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6DE153FF932A05752C0A9619C8B63" item-length="410" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sosa Agrees to Minor League Deal With Rangers</hl1>
+      </hedline>
+      <byline class="print_byline">By KEN DALEY</byline>
+      <byline class="normalized_byline">Daley, Ken</byline>
+      <abstract>
+        <p>Texas Rangers sign Sammy Sosa to minor league contract (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sammy Sosa returned to baseball yesterday, agreeing to terms on a minor league contract with the Texas Rangers. The deal carries no guarantees except the opportunity to add a chapter to his once-prominent career.</p>
+        <p>''I feel like I'm born again,'' Sosa said in a conference call from his home in the Dominican Republic. ''This was the first organization to give me an opportunity to be who I am and perform at the major league level. There's still a lot of bullets left in my body, and I'm going to finish everything in Texas.''</p>
+      </block>
+      <block class="full_text">
+        <p>Sammy Sosa returned to baseball yesterday, agreeing to terms on a minor league contract with the Texas Rangers. The deal carries no guarantees except the opportunity to add a chapter to his once-prominent career.</p>
+        <p>''I feel like I'm born again,'' Sosa said in a conference call from his home in the Dominican Republic. ''This was the first organization to give me an opportunity to be who I am and perform at the major league level. There's still a lot of bullets left in my body, and I'm going to finish everything in Texas.''</p>
+        <p>Sosa, 38, is fifth on the career list with 588 career home runs, and he remains the only player in major league history with three seasons of 60 or more homers. But the validity of those numbers, like those compiled by the retired slugger Mark McGwire, has come into question. Sosa, McGwire and others are suspected of using steroids in the late 1990s to bolster their home run totals.</p>
+        <p>Sosa was not asked specifically whether he had used steroids, but he said he was not concerned over a possible tarnished legacy. ''There's a lot of speculation but no evidence,'' Sosa said yesterday. ''I know who I am, and I know the way that I play baseball. And I know that my numbers are there. Numbers don't lie.''</p>
+        <p>Sosa sat out last season after batting only .221 with 14 home runs and 45 runs batted in over 102 games for Baltimore in 2005. If Sosa makes the Rangers' roster, he will most likely serve as a full- or part-time designated hitter, because Nelson Cruz is projected as the right fielder.</p>
+        <p>MORE ON DREW'S DEAL -- The Red Sox will be able to void the final two years of J. D. Drew's contract if he spends 35 days on the disabled list in 2009 with a specified injury. The team could also get out of the deal if Drew finishes the '09 season on the disabled list and cannot play the outfield in 2010, according to terms of the agreement. (AP)</p>
+        <p>ZAMBRANO AGREES TO DEAL -- The former Mets right-hander Víctor Zambrano agreed to a minor league contract with the Blue Jays. Zambrano was 1-2 with a 6.75 earned run average in five starts last year for the Mets in a season cut short because of an elbow injury. He became a free agent when the Mets declined to offer him a contract. (AP)</p>
+        <p>BASEBALL: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

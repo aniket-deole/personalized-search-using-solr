@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  BERKOWITZ, H. DAVID</title>
+    <meta content="dn012607" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821391"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BERKOWITZ, H. DAVID</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7D81F3AF935A15752C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  BERKOWITZ, H. DAVID</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BERKOWITZ--H. David. The law firm of Snow Becker Krauss P.C. deeply mourns the loss of our beloved former colleague, David Berkowitz. David was an integral part of the firms success for many years. He possessed a keen mind, extraordinary character and a quiet and calm demeanor. These attributes were coupled with a ready sense of humor and a fierce work ethic, as well as the rare ability to explain complex tax law in simple terms. We will greatly miss him, and we honor his memory. On behalf of our colleagues, we extend heartfelt condolences to his wife Kathy, their children Stacey and Peter, and the entire Berkowitz family.</p>
+      </block>
+      <block class="full_text">
+        <p>BERKOWITZ--H. David. The law firm of Snow Becker Krauss P.C. deeply mourns the loss of our beloved former colleague, David Berkowitz. David was an integral part of the firms success for many years. He possessed a keen mind, extraordinary character and a quiet and calm demeanor. These attributes were coupled with a ready sense of humor and a fierce work ethic, as well as the rare ability to explain complex tax law in simple terms. We will greatly miss him, and we honor his memory. On behalf of our colleagues, we extend heartfelt condolences to his wife Kathy, their children Stacey and Peter, and the entire Berkowitz family.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

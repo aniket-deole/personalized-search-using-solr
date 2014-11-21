@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Misbegotten' Schedules Its Broadway Run</title>
+    <meta content="16misb" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/theater/16misb.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819147"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E6DC1130F936A25752C0A9619C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Misbegotten' Schedules Its Broadway Run</hl1>
+        <hl2 class="online_headline">‘Misbegotten’ Schedules Its Broadway Run</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As expected, the Brooks Atkinson Theater will be home to Eugene O'Neill's ''Moon for the Misbegotten'' when that Old Vic production, starring Kevin Spacey, Eve Best and Colm Meaney of the London cast, arrives on Broadway in the spring for an 84-performance run.</p>
+        <p>Directed by Howard Davies, the drama about tortured souls, longing and love will begin previews on March 29 and open officially on April 8.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Brooks Atkinson Theater will be home to the Old Vic’s production of Eugene O’Neill’s “Moon for the Misbegotten.”</p>
+      </block>
+      <block class="full_text">
+        <p>As expected, the Brooks Atkinson Theater will be home to Eugene O'Neill's ''Moon for the Misbegotten'' when that Old Vic production, starring Kevin Spacey, Eve Best and Colm Meaney of the London cast, arrives on Broadway in the spring for an 84-performance run.</p>
+        <p>Directed by Howard Davies, the drama about tortured souls, longing and love will begin previews on March 29 and open officially on April 8.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

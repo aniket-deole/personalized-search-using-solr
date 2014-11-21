@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MUSKATT, HELEN (HENNY)</title>
+    <meta content="dn010207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815855"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MUSKATT, HELEN (HENNY)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E5DD1E3AF931A35752C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MUSKATT, HELEN (HENNY)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MUSKATT--Helen (Henny), 86, on December 23rd. Longtime resident of the Hebrew Home for the Aged. Survived by beloved children Phil (Mimy), Rosalie (Jerry) and Mark (Yonina), brother Leo Schechter (Florence), grandchildren Ariella (Tzvi), Adam, Nitzan, Ziv and Dotan, greatgrandchildren Moshe and Daniel, nieces, nephews, cousins and friends. Cherished by all who knew her, she will forever be in our hearts. Donations in her name may be made to Hebrew Home for the Aged, 5901 Palisade Avenue, Riverdale, NY 10471.</p>
+      </block>
+      <block class="full_text">
+        <p>MUSKATT--Helen (Henny), 86, on December 23rd. Longtime resident of the Hebrew Home for the Aged. Survived by beloved children Phil (Mimy), Rosalie (Jerry) and Mark (Yonina), brother Leo Schechter (Florence), grandchildren Ariella (Tzvi), Adam, Nitzan, Ziv and Dotan, greatgrandchildren Moshe and Daniel, nieces, nephews, cousins and friends. Cherished by all who knew her, she will forever be in our hearts. Donations in her name may be made to Hebrew Home for the Aged, 5901 Palisade Avenue, Riverdale, NY 10471.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

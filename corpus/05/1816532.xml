@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Hero In the Subway</title>
+    <meta content="l05hero" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816532"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Rescues</classifier>
+        <classifier class="indexing_service" type="descriptor">Subways</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Falls</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Eisenberg, Joshua S</person>
+        <person class="indexing_service">Sanders, Richard</person>
+        <person class="indexing_service">Pacchiana, Jeanne</person>
+        <person class="indexing_service">Autrey, Wesley</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rescues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E2DC1430F936A35752C0A9619C8B63" item-length="347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Hero In the Subway</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on Jan 3 article about Wesley Autrey, who risked his life to rescue rider who fell on subway tracks; Joshua S Eisenberg, lawyer and captain in Army National Guard, says episode is inspiring, but also is reminder of diminishing encouragement of certain values in many in next generation; Richard Sanders adds his applause for Autrey's selflessness and bravery; Jeanne Pacchiana recalls incident when his father was rescued from subway tracks</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Man Down, a Train Arriving, and a Stranger Makes a Choice'' (front page, Jan. 3):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Man Down, a Train Arriving, and a Stranger Makes a Choice'' (front page, Jan. 3):</p>
+        <p>The story of Wesley Autrey, a construction worker and Navy veteran, risking his own life to come to the assistance of a fellow rider is inspiring, to say the least. But it also reminds us of the diminishing encouragement of certain values in many of our next generation.</p>
+        <p>Perhaps because he was raised that way or because of his Navy roots, the choice Mr. Autrey made was the product of the values of courage, honor and selfless service, values that he will probably pass to his children, who witnessed his incredible act of bravery.</p>
+        <p>All citizens should ask themselves whether they could do what Mr. Autrey did. They should ask whether their kids will.</p>
+        <p>Joshua S. Eisenberg  New York, Jan. 3, 2007</p>
+        <p>The writer is a lawyer and a captain in the Army National Guard.</p>
+        <p>To the Editor:</p>
+        <p>Wesley Autrey's rapid response gives us all hope that we would react the same way when faced with a similar situation.</p>
+        <p>It was helping another individual who needed it, and I want to add my applause.</p>
+        <p>Help one another, and we can all make it through today's crazy world a little more easily. Thank you, Mr. Autrey.</p>
+        <p>Richard Sanders  Boise, Idaho, Jan. 3, 2007</p>
+        <p>To the Editor:</p>
+        <p>Back in the early days of World War I, my father, horseplaying with pals on the subway platform, was pushed to the tracks just as a train was arriving. An anonymous sailor jumped from the platform and protected him, just as Wesley Autrey did.</p>
+        <p>Over the years, I have related the story, only to find that there are a lot of skeptics out there. My father realized that he had been childishly ungrateful but forever believed that he owed his life to the bravery of the anonymous sailor.</p>
+        <p>Congratulations to Mr. Autrey for his swiftness of thought and action and for his own uncommon bravery.</p>
+        <p>Jeanne Pacchiana  North Salem, N.Y., Jan. 3, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

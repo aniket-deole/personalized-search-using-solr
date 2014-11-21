@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MILLROSE TO HOLD WOMEN'S 3,000</title>
+    <meta content="12sportsbriefs-2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818355"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: TRACK AND FIELD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Track and Field</classifier>
+        <classifier class="indexing_service" type="descriptor">Millrose Games</classifier>
+        <person class="indexing_service">Litsky, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Millrose Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05EEDC1330F931A25752C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MILLROSE TO HOLD WOMEN'S 3,000</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+      <abstract>
+        <p>Millrose Games will stage women's 3,000-meter-race for first time at this year's Games (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In its 99 years, the Millrose Games has never staged a women's race longer than a mile. Meet officials said yesterday there would be a women's 3,000-meter race -- almost two miles -- in this year's meet, Feb. 2 at Madison Square Garden, and the field would be led by the world's best women's distance runner.</p>
+        <p>She is 21-year-old Tirunesh Dibaba of Ethiopia, the first runner, male or female, to hold the world championships at 5,000 and 10,000 meters outdoors. She has also won three world championships in cross-country. Her opposition will include Jen Rhines, an American Olympian in 2004 and the national champion at 10,000 meters outdoors in 2005, and Sarah Hall, 12th for the United States in last year's world indoor championships.</p>
+        <p>FRANK LITSKY</p>
+      </block>
+      <block class="full_text">
+        <p>In its 99 years, the Millrose Games has never staged a women's race longer than a mile. Meet officials said yesterday there would be a women's 3,000-meter race -- almost two miles -- in this year's meet, Feb. 2 at Madison Square Garden, and the field would be led by the world's best women's distance runner.</p>
+        <p>She is 21-year-old Tirunesh Dibaba of Ethiopia, the first runner, male or female, to hold the world championships at 5,000 and 10,000 meters outdoors. She has also won three world championships in cross-country. Her opposition will include Jen Rhines, an American Olympian in 2004 and the national champion at 10,000 meters outdoors in 2005, and Sarah Hall, 12th for the United States in last year's world indoor championships.</p>
+        <p>FRANK LITSKY</p>
+        <p>SPORTS BRIEFING: TRACK AND FIELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

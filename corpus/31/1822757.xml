@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crossroads</title>
+    <meta content="31lens" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Theater; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822757"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LENS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Shubert Theater (NYC)</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Romero, Librado</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Lens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4D6143FF932A05752C0A9619C8B63" item-length="43" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crossroads</hl1>
+      </hedline>
+      <byline class="print_byline">By LIBRADO ROMERO</byline>
+      <byline class="normalized_byline">Romero, Librado</byline>
+      <abstract>
+        <p>Librado Romero Lens column photo of street musician in doorway of Shubert Theater in New York City in 1969 superimposed over same theater in 2007</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In 1969, with ''Promises, Promises'' going strong at the Shubert Theater, this violinist gave his own bravura performance just outside. Today, the same Broadway stage is commanded by ''Monty Python's Spamalot.'' But the busking musician left 44th Street long ago.</p>
+      </block>
+      <block class="full_text">
+        <p>In 1969, with ''Promises, Promises'' going strong at the Shubert Theater, this violinist gave his own bravura performance just outside. Today, the same Broadway stage is commanded by ''Monty Python's Spamalot.'' But the busking musician left 44th Street long ago.  LENS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

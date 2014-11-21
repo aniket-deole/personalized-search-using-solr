@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Little Dog' Laughs Its Last</title>
+    <meta content="05dog" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816622"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E4DD1130F936A35752C0A9619C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Little Dog' Laughs Its Last</hl1>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The producers of Douglas Carter Beane's new play ''The Little Dog Laughed,'' about a gay Hollywood star who is kept in the closet by his agent, have announced that the show will close after the matinee on Feb. 18.</p>
+        <p>The play, which cost a little more than $2 million and originally opened Off Broadway last winter at the Second Stage theater, will have played 22 previews and 112 regular performances at the Cort Theater on Broadway.</p>
+      </block>
+      <block class="full_text">
+        <p>The producers of Douglas Carter Beane's new play ''The Little Dog Laughed,'' about a gay Hollywood star who is kept in the closet by his agent, have announced that the show will close after the matinee on Feb. 18.</p>
+        <p>The play, which cost a little more than $2 million and originally opened Off Broadway last winter at the Second Stage theater, will have played 22 previews and 112 regular performances at the Cort Theater on Broadway.</p>
+        <p>The likely prospect to move into the Cort is ''Radio Golf,'' the last of August Wilson's 10-part play cycle on the black experience in the 20th century.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

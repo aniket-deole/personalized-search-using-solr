@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CORRECTIONS</title>
+    <meta content="07corx-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Corrections; Washington; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817271"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Vetoes (US)</classifier>
+        <person class="indexing_service">Ford, Gerald Rudolph Jr (1913-2006)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vetoes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EFDD1530F934A35752C0A9619C8B63" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CORRECTIONS</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction: Dec 31, 2006, article about different interpretations of presidency of Gerald R Ford misstated frequency with which Congress overrode his vetoes</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article last week about different interpretations of the presidency of Gerald R. Ford from across the political spectrum misstated the frequency with which Congress overrode his vetoes. Mr. Ford used his veto power 66 times and his vetoes were overridden 12 times. His vetoes were not ''usually overriden.''</p>
+      </block>
+      <block class="full_text">
+        <p>An article last week about different interpretations of the presidency of Gerald R. Ford from across the political spectrum misstated the frequency with which Congress overrode his vetoes. Mr. Ford used his veto power 66 times and his vetoes were overridden 12 times. His vetoes were not ''usually overriden.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

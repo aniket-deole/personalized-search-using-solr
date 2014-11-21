@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mr. Bush's Oil Security Blanket</title>
+    <meta content="27sat3" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/27/opinion/27sat3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821781"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Strategic Petroleum Reserve</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Bodman, Samuel W (Sec)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Reserves (Natural Resources)</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reserves (Natural Resources)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Energy Department</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E6D9173FF934A15752C0A9619C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mr. Bush's Oil Security Blanket</hl1>
+        <hl2 class="online_headline">Mr. Bush’s Oil Security Blanket</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial contends that one of stranger and unexplained items in Pres Bush's energy program is his proposal to double capacity of Strategic Petroleum Reserve, to 1.5 billion barrels, over next 20 years; holds that proposal carries $65 billion price tag--one of several reasons Congress should question Energy Sec Samuel Bodman closely when he comes looking for money</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the stranger and so far unexplained items in President Bush's energy program is his proposal to double the capacity of the Strategic Petroleum Reserve, to 1.5 billion barrels, over the next 20 years. The proposal carries a $65 billion price tag -- one of several reasons Congress should question Energy Secretary Samuel Bodman closely when he comes looking for the money.</p>
+        <p>The reserve's purpose is to provide an emergency supply of oil in the event of, say, a terrorist attack somewhere along the global oil supply chain or a natural disaster that sharply limits imports for a short time. The United States is highly vulnerable to such interruptions. It has only 3 percent of global oil reserves but accounts for 25 percent of consumption -- more than 20 million barrels a day, about 60 percent of it imported. The reserve now holds 55 days worth of net oil imports. After the increase, there would be an estimated 97 days of protection.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One of the stranger and so far unexplained items in President Bush’s energy program is his proposal to double the capacity of the Strategic Petroleum Reserve.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the stranger and so far unexplained items in President Bush's energy program is his proposal to double the capacity of the Strategic Petroleum Reserve, to 1.5 billion barrels, over the next 20 years. The proposal carries a $65 billion price tag -- one of several reasons Congress should question Energy Secretary Samuel Bodman closely when he comes looking for the money.</p>
+        <p>The reserve's purpose is to provide an emergency supply of oil in the event of, say, a terrorist attack somewhere along the global oil supply chain or a natural disaster that sharply limits imports for a short time. The United States is highly vulnerable to such interruptions. It has only 3 percent of global oil reserves but accounts for 25 percent of consumption -- more than 20 million barrels a day, about 60 percent of it imported. The reserve now holds 55 days worth of net oil imports. After the increase, there would be an estimated 97 days of protection.</p>
+        <p>A larger reserve would seem to make sense in the post-9/11 world, and last year's energy bill did in fact authorize an expansion to one billion barrels. But is there nothing better to do with the money? Might it not be more usefully deployed developing alternative fuels or more efficient vehicles, thus reducing the nation's dependence on oil and its vulnerability to future shocks?</p>
+        <p>The $2.7 billion the administration proposes to spend on this project each year for the next 20 years is three times the amount that Congress authorized last year for the Energy Department's entire research and development program for alternative energy sources. It may be necessary to increase backup supplies. But the administration would be a lot more persuasive if it displayed a deeper commitment to programs that would provide lasting security by reducing Americans' consumption of oil, rather than just squirreling it away.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

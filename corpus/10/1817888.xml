@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spin or Inspiration?</title>
+    <meta content="10lett-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817888"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Containers and Packaging</classifier>
+        <classifier class="indexing_service" type="descriptor">Labeling and Labels</classifier>
+        <person class="indexing_service">Driftmier, Clark</person>
+        <person class="indexing_service">Aurora Organic Dairy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Containers and Packaging</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labeling and Labels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE2DC1230F933A25752C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spin or Inspiration?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Clark Driftmier, marketing executive for Aurora Organic Dairy, takes issue with negative descriptions of packaging on foods noted in article about influence of packaging (Jan 3 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a marketer who managed three of the brands featured in your article on packaging, I must take issue with your negative description of these packages, the companies and their founders as ''spin.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a marketer who managed three of the brands featured in your article on packaging, I must take issue with your negative description of these packages, the companies and their founders as ''spin.''</p>
+        <p>The Cascadian Farm image you mention isn't a marketer's fancy; it's an accurate, if artistic, representation of that company's ''home farm,'' the true place where the company started more than three decades ago. Cascadian's founder, Gene Kahn, helped create the Washington State organic program, served as a member of the National Organic Standards Board and co-founded an organic research institute. Spin? I think not.</p>
+        <p>Annie Bennett, the founder of My Family Farm, is indeed a social worker, founded organizations to help abused children and donates a great deal of her life and personal finances to the cause of benefiting the lives of children. Spin? I think not.</p>
+        <p>You may choose to describe these products, companies and founders as ''greenwashing,'' but I prefer the word ''inspirational.''</p>
+        <p>Clark Driftmier  Boulder, Colo.</p>
+        <p>The writer is senior vice president of marketing for Aurora Organic Dairy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

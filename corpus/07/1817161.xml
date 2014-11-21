@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>He's Not Out of Cash, But Is Out of the Club</title>
+    <meta content="07suits-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817161"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E0D71430F934A35752C0A9619C8B63" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>He's Not Out of Cash, But Is Out of the Club</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC DASH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the very same day that he left Home Depot last week with an exit package worth at least $210 million, Robert L. Nardelli walked away from another prominent position -- without a cent.</p>
+        <p>While he was still Home Depot's chairman and chief executive, Mr. Nardelli volunteered as the chairman of a disaster-response task force at the Business Roundtable, a kind of club for corporate chieftains that lobbies for their interests.</p>
+      </block>
+      <block class="full_text">
+        <p>On the very same day that he left Home Depot last week with an exit package worth at least $210 million, Robert L. Nardelli walked away from another prominent position -- without a cent.</p>
+        <p>While he was still Home Depot's chairman and chief executive, Mr. Nardelli volunteered as the chairman of a disaster-response task force at the Business Roundtable, a kind of club for corporate chieftains that lobbies for their interests.</p>
+        <p>Last month, he met at the White House with Michael Chertoff, the secretary of homeland security, and other top government and military officials to discuss improved collaboration on disaster preparedness.</p>
+        <p>On Tuesday, though, Mr. Nardelli had to quit the group. The Business Roundtable is only for sitting chief executives.</p>
+        <p>At least he is in good company. The roundtable's former chairman, Hank McKinnell, had to quit last year after he was pushed out of Pfizer, coincidentally with his own $200 million severance package.</p>
+        <p>ERIC DASH</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lollygags and Sidereal Days</title>
+    <meta content="30lett-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822628"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Time (Concept)</classifier>
+        <classifier class="indexing_service" type="descriptor">Earth</classifier>
+        <classifier class="indexing_service" type="descriptor">Solar System</classifier>
+        <person class="indexing_service">Paulson, Richard W</person>
+        <person class="indexing_service">Perkoff, Gerald T (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Time</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E7D8143FF933A05752C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lollygags and Sidereal Days</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard W Paulson letter on January 23 article about space says that concept of sidereal and solar days is easier way to explain time on earth and around solar system; Dr Gerald T Perkoff letter suggests using simpler and more appropriate vocabulary to explain point</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Making Sense of Time, Earthbound and Otherwise'' (Jan. 23): There is an important ambiguity in the facts that Natalie Angier presents in her otherwise excellent article: that our planet twirls on its axis every 24 hours and so gives us our days.</p>
+        <p>In fact, the Earth twirls once on its axis every 23 hours, 56 minutes and 4 seconds (approximately). This so-called sidereal day measures the rotation of the Earth with respect to the stars. Because of the Earth's movement in its orbit of the Sun, an additional (approximately) 4 minutes is needed for the Sun to reach an overhead position, the so-called 24-hour solar day.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Making Sense of Time, Earthbound and Otherwise'' (Jan. 23): There is an important ambiguity in the facts that Natalie Angier presents in her otherwise excellent article: that our planet twirls on its axis every 24 hours and so gives us our days.</p>
+        <p>In fact, the Earth twirls once on its axis every 23 hours, 56 minutes and 4 seconds (approximately). This so-called sidereal day measures the rotation of the Earth with respect to the stars. Because of the Earth's movement in its orbit of the Sun, an additional (approximately) 4 minutes is needed for the Sun to reach an overhead position, the so-called 24-hour solar day.</p>
+        <p>The basic concept of sidereal and solar days is far more relevant and understandable by the lay reader than the more complex measures of time that Ms. Angier presents.</p>
+        <p>Richard W. Paulson  St. Michaels, Md.</p>
+        <p>To the Editor:</p>
+        <p>I was brought up short by Natalie Angier's first column. In heaven's name, what are ''chasmic lollygags'' and ''tweener timed life forms?'' And why use ''changing annum(s)'' and ''universal tockers'' when simpler, clearer phrases would do? This too-cute language almost discouraged me from reading what ultimately became an informative story.</p>
+        <p>Gerald T. Perkoff, M.D.  Sanibel, Fla.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

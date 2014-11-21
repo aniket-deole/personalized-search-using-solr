@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Design Site Prefers The Old to the New</title>
+    <meta content="11blog" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817956"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: ON THE WEB"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Interior Design</classifier>
+        <classifier class="indexing_service" type="descriptor">Currents (Times Column)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">eye-to-eyemagazine.com</org>
+        <person class="indexing_service">Cannell, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E7DB1230F932A25752C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Design Site Prefers The Old to the New</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL CANNELL</byline>
+      <byline class="normalized_byline">Cannell, Michael</byline>
+      <abstract>
+        <p>New decorating Web site eye-to-eyemagazine.com focuses on beautiful images of old rooms; photo (Currents column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Internet sites devoted to design seem to multiply by the day, most of them focused on the same new products. Barbara Pershyn-Davis, a decorator in Cherry Valley, N.Y., takes a different tack: her new Web site, eye-to-eyemagazine.com, photographed and written by her, focuses on beautiful images of old rooms.</p>
+      </block>
+      <block class="full_text">
+        <p>Internet sites devoted to design seem to multiply by the day, most of them focused on the same new products. Barbara Pershyn-Davis, a decorator in Cherry Valley, N.Y., takes a different tack: her new Web site, eye-to-eyemagazine.com, photographed and written by her, focuses on beautiful images of old rooms.</p>
+        <p>The first installment, posted on Dec. 26, contains nearly 100 images of poetically tattered rooms from artfully rustic locations near her upstate home. She plans to show places in New York and London in the coming months. ''Eye-to-Eye is more about an aesthetic than about things,'' she said. ''I don't want it to be a buying magazine.''</p>
+        <p>MICHAEL CANNELL</p>
+        <p>CURRENTS: ON THE WEB</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

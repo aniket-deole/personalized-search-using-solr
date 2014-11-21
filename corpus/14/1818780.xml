@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology Comes In Small Packages</title>
+    <meta content="14TECH" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/automobiles/14TECH.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818780"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="indexing_service" type="descriptor">North American International Auto Show</classifier>
+        <location class="indexing_service">Detroit (Mich)</location>
+        <person class="indexing_service">Moran, Tim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan/Detroit</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2DF1330F937A25752C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology Comes In Small Packages</hl1>
+        <hl2 class="online_headline">Technology Comes in Small Packages</hl2>
+      </hedline>
+      <byline class="print_byline">By TIM MORAN</byline>
+      <byline class="normalized_byline">Moran, Tim</byline>
+      <abstract>
+        <p>Several technological innovations in cars on display at North American International Auto Show noted; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TECHNOLOGY at this year's auto show is a lot like the Detroit restaurant Small Plates, where a little of everything is served in snack sizes. Here are some of the technology snacks at the show.</p>
+        <p>General Motors' Chevrolet Volt is a hybrid, but its small gas engine is intended to only charge the batteries and is not connected to the wheels.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A little of everything was served in snack sizes when it came to technology at the auto show.</p>
+      </block>
+      <block class="full_text">
+        <p>TECHNOLOGY at this year's auto show is a lot like the Detroit restaurant Small Plates, where a little of everything is served in snack sizes. Here are some of the technology snacks at the show.</p>
+        <p>General Motors' Chevrolet Volt is a hybrid, but its small gas engine is intended to only charge the batteries and is not connected to the wheels.</p>
+        <p>Ford's Sync system, a voice-activated way to connect cellphones and media players to a car, developed with Microsoft. It offers hands-free phone dialing and reads incoming text messages through the car's audio system.</p>
+        <p>The roof of BMW's 3 Series convertible is a steel hardtop, just 88 pounds heavier than a cloth top. The roof locks in place to prevent it from floating and rattling at high speeds.</p>
+        <p>Ford's Airstream concept has an L.C.D.-screen lava lamp meant to serve as a virtual campfire inside a fuel-cell electric vehicle.</p>
+        <p>Johnson Controls' Vista system for glass roofs that hold entertainment screens, lighting and switches that operate when the user simply points at them.</p>
+        <p>Denso's ''oxygen concentrator,'' a permeable membrane across the air intake allowing oxygen to pass more easily than nitrogen, thus increasing oxygen in the car.</p>
+        <p>TIM MORAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

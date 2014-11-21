@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Is Found Fatally Shot on Brooklyn Street</title>
+    <meta content="09shot" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/nyregion/09shot.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817625"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Lee, Jennifer 8</person>
+        <person class="indexing_service">Raymond, Max</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EED71530F93AA35752C0A9619C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Is Found Fatally Shot on Brooklyn Street</hl1>
+        <hl2 class="online_headline">Man Is Found Fatally Shot on Brooklyn Street</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE; Daryl Khan and Kate Meyer contributed reporting.</byline>
+      <byline class="normalized_byline">Lee, Jennifer 8</byline>
+      <abstract>
+        <p>Max Raymond is found fatally shot on Brooklyn street; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 21-year-old Brooklyn man was fatally shot yesterday evening, two blocks from his home in Flatbush, the police said.</p>
+        <p>The man, Max Raymond, was found shortly after 5 p.m. on East 26th Street near Cortelyou Road, with two bullets in his chest, the police said. He was declared dead at the scene.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A 21-year-old Brooklyn man was fatally shot yesterday evening, two blocks from his home in Flatbush, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>A 21-year-old Brooklyn man was fatally shot yesterday evening, two blocks from his home in Flatbush, the police said.</p>
+        <p>The man, Max Raymond, was found shortly after 5 p.m. on East 26th Street near Cortelyou Road, with two bullets in his chest, the police said. He was declared dead at the scene.</p>
+        <p>As of last night, investigators said they had no suspects and no motive, but said that a hammer found at the scene may have been used in a fight before the killing.</p>
+        <p>Mr. Raymond, the father of a 3-year-old girl, had attended Catholic private school and had recently earned a high school equivalency diploma, friends and relatives said. He had a job as a construction worker, but had dreamed of opening a nightclub in Brooklyn, a cousin said.</p>
+        <p>Brittany Jackson, 19, who said she was Mr. Raymond's girlfriend, said, ''He's so sweet and loving.'' She pointed to a large crowd of grieving friends who had learned of his death. ''He's always involved in the in-crowd,'' she said. ''Everybody loves him. Everybody loves him so much.''</p>
+        <p>Emotions ran high as relatives and friends gathered on the usually quiet one-way residential street where Mr. Raymond was killed. His mother collapsed, screaming, ''My son! My son!''</p>
+        <p>His sisters, Shirley and Nanja Raymond, came to their mother's aid, but were pushed against a van on the street, handcuffed by a police officer and taken to the 67th Precinct station house and later released.</p>
+        <p>A spokesman for the Police Department, Sgt. Michael Wysokowski, said that the officers were not aware that the women were Mr. Raymond's sisters and that they had been arrested for crossing the police line and entering the investigation scene. The women were released and their arrests voided after officers learned their identities at the station house, Sergeant Wysokowski said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

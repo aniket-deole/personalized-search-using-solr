@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Election Could Decide Serbia's Role in Europe</title>
+    <meta content="20serb" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820020"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Legislatures and Parliaments</classifier>
+        <location class="indexing_service">Serbia</location>
+        <person class="indexing_service">Wood, Nicholas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Serbia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Serbia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E0DA1E30F933A15752C0A9619C8B63" item-length="463" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Election Could Decide Serbia's Role in Europe</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WOOD</byline>
+      <byline class="normalized_byline">Wood, Nicholas</byline>
+      <dateline>BELGRADE, Serbia, Jan. 19</dateline>
+      <abstract>
+        <p>Western governments are hoping that Serbia's parliamentary elections will unite nation's divided democratic bloc and prevent ultranationalist Serbian Radical Party from consolidating its position as largest group in Parliament; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While six years of democracy in Serbia have given its people ample opportunities to vote -- in four presidential elections, two parliamentary elections and a nationwide referendum -- many complain that the country has seen little change.</p>
+        <p>Serbia remains isolated from the European Union while most of its former Eastern bloc neighbors -- Hungary to the north and most recently Romania and Bulgaria to the east -- have become members.</p>
+      </block>
+      <block class="full_text">
+        <p>While six years of democracy in Serbia have given its people ample opportunities to vote -- in four presidential elections, two parliamentary elections and a nationwide referendum -- many complain that the country has seen little change.</p>
+        <p>Serbia remains isolated from the European Union while most of its former Eastern bloc neighbors -- Hungary to the north and most recently Romania and Bulgaria to the east -- have become members.</p>
+        <p>Western governments are hoping, though, that parliamentary elections to be held Sunday will make a difference by uniting Serbia's notoriously divided democratic bloc and by preventing the ultranationalist Serbian Radical Party from consolidating its position as the largest group in Parliament.</p>
+        <p>The election's timing is particularly crucial. The parties that form the next government will be faced with the possible loss of Kosovo, the province that has been controlled by the United Nations since 1999 and whose Albanian majority is seeking independence.</p>
+        <p>Martti Ahtisaari, a former president of Finland who is overseeing talks on the future of Kosovo, is expected to unveil his proposals for a settlement soon after the election.</p>
+        <p>Since the fall of Slobodan Milosevic in 2000, successive governments have failed to substantially improve Serbia's ties with the West. The stumbling block has remained the surrender of war crimes suspects to the International Criminal Tribunal for the Former Yugoslavia in The Hague.</p>
+        <p>Last May, talks that were supposed to help forge closer ties with the European Union were suspended after the government of the Serbian prime minister, Vojislav Kostunica, a moderate nationalist, failed to locate Gen. Ratko Mladic -- the former commander of the Bosnian Serb Army and one of the most notorious of the fugitives -- after repeated deadlines set by the regional organization.</p>
+        <p>The ultranationalists are widely expected to receive the largest number of votes over all, but the outcome of the election will probably depend on the success of the party led by Boris Tadic, the Serbian president and a supporter of closer ties with Europe.</p>
+        <p>In recent polls, Mr. Tadic's Democratic Party narrowly trails the Radical Party. Behind them is Mr. Kostunica's coalition, led by the Serbian Democratic Party.</p>
+        <p>There has been a substantial amount of diplomatic and political pressure from abroad to encourage the Democratic Party and the Serbian Democratic Party to work together and seriously consider forming a coalition government.</p>
+        <p>On Thursday, Gerhard Schröder, the former German chancellor, appeared at a Democratic Party rally alongside Mr. Tadic, calling him ''the one who can ensure a European future for Serbia.''</p>
+        <p>On Wednesday, the United States Senate passed a resolution expressing its support for Serbia's democratic forces.</p>
+        <p>''This is really a turning point,'' said Pierre Mirel, a European Commission envoy who visited Belgrade this week. ''The time has come to embark the country on a different relationship with the E.U.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

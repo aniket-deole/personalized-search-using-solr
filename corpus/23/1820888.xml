@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bloomberg's School Push</title>
+    <meta content="l23teach" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820888"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Minorities (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Teach for America (Orgn)</org>
+        <person class="indexing_service">Kopp, Wendy</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0D91F30F930A15752C0A9619C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bloomberg's School Push</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Wendy Kopp, president and founder of Teach for America, praises New York City Mayor Michael Bloomberg for his determination to tackle inequities in education outcomes that persist along socioeconomic and racial lines, while resisting temptation to oversimplify issues</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''In a Sweeping New Vision for Schools, Big Risks for the Mayor'' (news analysis, Jan. 18):</p>
+        <p>On hearing the new wave of reforms outlined in the State of the City address, I was struck once again by the determination of the mayor, the chancellor and their team to take on the inequities in educational outcomes that persist along socioeconomic and racial lines, while resisting temptation to oversimplify the issues.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''In a Sweeping New Vision for Schools, Big Risks for the Mayor'' (news analysis, Jan. 18):</p>
+        <p>On hearing the new wave of reforms outlined in the State of the City address, I was struck once again by the determination of the mayor, the chancellor and their team to take on the inequities in educational outcomes that persist along socioeconomic and racial lines, while resisting temptation to oversimplify the issues.</p>
+        <p>They know that it is possible for kids in our lowest-income communities to excel academically, and that if we are going to accomplish this there is no way around the hard work of doing what we know is essential in ensuring excellence in any institution -- empowered leadership, great people at every level, accountability and sufficient resources and support systems.</p>
+        <p>It is inspiring that after five years of extraordinary effort and tremendous progress, this administration is still saying, ''We're not satisfied,'' and is acting tirelessly on all that has been learned to this point, always with one and only one very clear goal -- educational opportunity for our kids.</p>
+        <p>Wendy Kopp  New York, Jan. 18, 2007</p>
+        <p>The writer is the president and founder of Teach for America.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

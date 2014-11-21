@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: White Plains: Group Says County Fails On Housing</title>
+    <meta content="09mbrfs-2" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/nyregion/09mbrfs-housing.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817679"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD61530F93AA35752C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: White Plains: Group Says County Fails On Housing</hl1>
+        <hl2 class="online_headline">White Plains: Group Says County Fails on Housing</hl2>
+      </hedline>
+      <byline class="print_byline">By JANNY SCOTT; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A fair-housing group accused Westchester County yesterday of failing to pressure towns to accept more low-cost housing as a way to reduce racial segregation. In a lawsuit filed in Federal District Court in Manhattan, the group, the Anti-Discrimination Center of Metro New York, said the county had neither tracked towns' efforts to bring in housing for lower-income people nor penalized those that did nothing. The group said the county was obliged, in return for federal funds, to take steps to ''further fair housing.'' Norma Drummond, the county's deputy planning commissioner, denied the charges. She said that 751 units of low-cost housing had been built since 2000, often with county help, and that 1,174 more units were planned.</p>
+        <p>JANNY SCOTT</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A fair-housing group accused Westchester County yesterday of failing to pressure towns to accept more low-cost housing as a way to reduce racial segregation. In a lawsuit filed in Federal District Court in Manhattan, the group, the Anti-Discrimination Center of Metro New York, said the county had neither tracked towns’ efforts to bring in housing for lower-income people nor penalized those that did nothing. The group said the county was obliged, in return for federal funds, to take steps to “further fair housing.” Norma Drummond, the county’s deputy planning commissioner, denied the charges. She said that 751 units of low-cost housing had been built since 2000, often with county help, and that 1,174 more units were planned.</p>
+      </block>
+      <block class="full_text">
+        <p>A fair-housing group accused Westchester County yesterday of failing to pressure towns to accept more low-cost housing as a way to reduce racial segregation. In a lawsuit filed in Federal District Court in Manhattan, the group, the Anti-Discrimination Center of Metro New York, said the county had neither tracked towns' efforts to bring in housing for lower-income people nor penalized those that did nothing. The group said the county was obliged, in return for federal funds, to take steps to ''further fair housing.'' Norma Drummond, the county's deputy planning commissioner, denied the charges. She said that 751 units of low-cost housing had been built since 2000, often with county help, and that 1,174 more units were planned.</p>
+        <p>JANNY SCOTT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

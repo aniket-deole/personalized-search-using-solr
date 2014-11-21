@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Weak Foundations</title>
+    <meta content="12gall-4" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818297"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <person class="indexing_service">Schwendener, Martha</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EFDD1330F931A25752C0A9619C8B63" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Weak Foundations</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+      <byline class="normalized_byline">Schwendener, Martha</byline>
+      <abstract>
+        <p>Martha Schwendener reviews group show at Momenta Art gallery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Momenta Art  359 Bedford Avenue, near South Fourth Street  Williamsburg, Brooklyn  Through Jan. 22</p>
+        <p>Anyone who has searched for an apartment in an urban real estate market could probably agree with this show's cynical premise: that the ''built environment'' suffers from a ''bankruptcy of its ethical rationale wherein all reason beyond that in the service of self-interest is eclipsed.''</p>
+      </block>
+      <block class="full_text">
+        <p>Momenta Art  359 Bedford Avenue, near South Fourth Street  Williamsburg, Brooklyn  Through Jan. 22</p>
+        <p>Anyone who has searched for an apartment in an urban real estate market could probably agree with this show's cynical premise: that the ''built environment'' suffers from a ''bankruptcy of its ethical rationale wherein all reason beyond that in the service of self-interest is eclipsed.''</p>
+        <p>The individual works in ''Weak Foundations,'' organized by Eric Heist and the artist Michael Ashkin, don't need company to reach that conclusion. Jennifer Dalton's ''Getting to Know the Neighbors,'' a series of inkjet prints bound together in a snaking accordion book, details the activities of local Williamsburg businesses that provide services from ''air release'' and ''toxic release'' to hazardous waste disposal.</p>
+        <p>The Polish artist Józef Robakowski's wonderful black-and-white video ''From My Window,'' made from 1978 to 1999, covers in 20 minutes the alterations to his surroundings brought about by Poland's political changes. The video ends with construction under way on a ''beautiful foreign hotel'' that will obliterate his view.</p>
+        <p>''Weak Foundations'' also includes work by classic urban-decay chroniclers like Martha Rosler and Camilo José Vergara. Ms. Rosler is represented by ''Routes 1 and 9, New Jersey,'' a mid-1990s photo in which a shadowy human skeleton hovers in the sky; Mr. Vergara by four photos of methadone clinics in the Bronx, taken from 1988 to 1992.</p>
+        <p>If there is a missing element in ''Weak Foundations,'' it is greater acknowledgment of the recent real estate boom and its effect on what Mr. Ashkin calls the ''new urban ethics.'' Mr. Ashkin's black-and-white photos of sites in Long Branch, N.J., acquired through eminent domain, nod toward current local developments. Yet over all, the show feels rooted more in New York's (literally) bankrupt past than in its equally complicated ''revitalized'' present.</p>
+        <p>MARTHA SCHWENDENER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

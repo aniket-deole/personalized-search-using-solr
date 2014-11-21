@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Junior Stars</title>
+    <meta content="07jrstars" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817214"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3DE1530F934A35752C0A9619C8B63" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Junior Stars</hl1>
+      </hedline>
+      <abstract>
+        <p>World junior hockey championship players discussed (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The all-tournament team of the World Junior Championship always contains its share of future N.H.L. superstars. Here are the players chosen from the tournament that ended Friday in Sweden:</p>
+        <p>GOAL -- Carey Price, Canada. His .961 save percentage led Canada to its third straight title and earned him the tournament M.V.P. award. Currently a member of the Tri-City Americans of the Western junior league, his N.H.L. rights are held by the Canadiens.</p>
+        <p>DEFENSE -- Erik Johnson, United States. Tied for the lead among all scorers and named the tournament's top defenseman, he led the United States to the bronze medal. Plays for the University of Minnesota; his N.H.L. rights belong to the Blues.</p>
+        <p>DEFENSE -- Kristopher Letang, Canada. The Canadian captain, he had the best plus mark on the team's blue line. Plays for Val d'Or in the Quebec junior league; his N.H.L. rights belong to the Penguins.</p>
+        <p>FORWARD -- Aleksei Cherepanov, Russia. The 17-year-old top scorer for the silver medalists, named the tournament's best forward. A wing who plays for Avangard Omsk in the Superliga; will enter the N.H.L. draft this June.</p>
+        <p>FORWARD -- Patrick Kane, United States. A small, skilled wing who was the Americans' top goal-scorer. Plays for the London Knights of the Ontario junior league; will enter the N.H.L. draft this June.</p>
+        <p>FORWARD -- Jonathan Toews, Canada. Canada's top scorer, a center who will be remembered for his three shootout goals in the semifinal victory over the United States. Plays for the University of North Dakota; his N.H.L. rights belong to the Blackhawks.</p>
+      </block>
+      <block class="full_text">
+        <p>The all-tournament team of the World Junior Championship always contains its share of future N.H.L. superstars. Here are the players chosen from the tournament that ended Friday in Sweden:</p>
+        <p>GOAL -- Carey Price, Canada. His .961 save percentage led Canada to its third straight title and earned him the tournament M.V.P. award. Currently a member of the Tri-City Americans of the Western junior league, his N.H.L. rights are held by the Canadiens.</p>
+        <p>DEFENSE -- Erik Johnson, United States. Tied for the lead among all scorers and named the tournament's top defenseman, he led the United States to the bronze medal. Plays for the University of Minnesota; his N.H.L. rights belong to the Blues.</p>
+        <p>DEFENSE -- Kristopher Letang, Canada. The Canadian captain, he had the best plus mark on the team's blue line. Plays for Val d'Or in the Quebec junior league; his N.H.L. rights belong to the Penguins.</p>
+        <p>FORWARD -- Aleksei Cherepanov, Russia. The 17-year-old top scorer for the silver medalists, named the tournament's best forward. A wing who plays for Avangard Omsk in the Superliga; will enter the N.H.L. draft this June.</p>
+        <p>FORWARD -- Patrick Kane, United States. A small, skilled wing who was the Americans' top goal-scorer. Plays for the London Knights of the Ontario junior league; will enter the N.H.L. draft this June.</p>
+        <p>FORWARD -- Jonathan Toews, Canada. Canada's top scorer, a center who will be remembered for his three shootout goals in the semifinal victory over the United States. Plays for the University of North Dakota; his N.H.L. rights belong to the Blackhawks.</p>
+        <p>HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

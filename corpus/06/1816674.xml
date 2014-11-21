@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Faces on a Coin</title>
+    <meta content="l06spouse" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816674"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Currency</classifier>
+        <classifier class="indexing_service" type="descriptor">First Ladies</classifier>
+        <person class="indexing_service">Rasooly, Irit R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E7D81430F935A35752C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Faces on a Coin</hl1>
+      </hedline>
+      <abstract>
+        <p>Irit R Rasooly letter opposes new set of gold coins honoring several first ladies</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Gold Coins Will Feature Presidential Wives'' (news article, Dec. 21):</p>
+        <p>I am irked by the new set of coins being issued. While some first ladies have influenced our country, should we bestow this honor on people who are unelected, whose only credential is having a prominent spouse?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Gold Coins Will Feature Presidential Wives'' (news article, Dec. 21):</p>
+        <p>I am irked by the new set of coins being issued. While some first ladies have influenced our country, should we bestow this honor on people who are unelected, whose only credential is having a prominent spouse?</p>
+        <p>First ladies too often serve as the face of America. I would much prefer that the coins represent individuals chosen by and responsible to their constituents.</p>
+        <p>There are countless hard-working senators, members of Congress, judges and other officials whom we have selected to make decisions and statements on our behalf. Women are increasingly entering these ranks of government.</p>
+        <p>Wouldn't honoring women who have served as governors, Supreme Court justices or legislators be a more fitting tribute to our country and to this nation's women than coins featuring ''First Spouses''?</p>
+        <p>Irit R. Rasooly  Silver Spring, Md., Dec. 26, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

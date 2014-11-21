@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Higher Pay Is Set For Transit Chief</title>
+    <meta content="06mta" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/06/nyregion/06mta.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816735"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <org class="indexing_service">Metropolitan Transportation Authority</org>
+        <person class="indexing_service">Neuman, William</person>
+        <person class="indexing_service">Hakim, Danny</person>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <person class="indexing_service">Sander, Elliot</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <org class="online_producer">Metropolitan Transportation Authority</org>
+        <person class="online_producer">Spitzer, Eliot L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E7D61430F935A35752C0A9619C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Higher Pay Is Set For Transit Chief</hl1>
+        <hl2 class="online_headline">Higher Pay Is Set for Transit Chief</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN and DANNY HAKIM</byline>
+      <byline class="normalized_byline">Hakim, Danny; Neuman, William</byline>
+      <abstract>
+        <p>New York Gov Eliot Spitzer raises salary of Elliot G Sander, new head of Metropolitan Transportation Authority; adds title of chief executive to post; says salary increase is merited by wider role in agency and shaping policy (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The new leader of the Metropolitan Transportation Authority will be paid $42,000 more than his predecessor, a raise that is justified because he will have a wider role in running the agency and shaping policy, a spokesman for Gov. Eliot Spitzer said yesterday.</p>
+        <p>Elliot G. Sander, who started work this week as the executive director and chief executive of the authority, will receive a salary of $265,000 and a housing allowance of $60,000, according to Christine Anderson, the press secretary for Governor Spitzer, who chose Mr. Sander to run the agency. Mr. Sander will also receive $15,000 in deferred compensation, in the form of payments into a personal retirement account, bringing his total compensation to $340,000 a year.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The new leader of the M.T.A. will be paid $42,000 more than his predecessor to go with his wider roll in running the agency.</p>
+      </block>
+      <block class="full_text">
+        <p>The new leader of the Metropolitan Transportation Authority will be paid $42,000 more than his predecessor, a raise that is justified because he will have a wider role in running the agency and shaping policy, a spokesman for Gov. Eliot Spitzer said yesterday.</p>
+        <p>Elliot G. Sander, who started work this week as the executive director and chief executive of the authority, will receive a salary of $265,000 and a housing allowance of $60,000, according to Christine Anderson, the press secretary for Governor Spitzer, who chose Mr. Sander to run the agency. Mr. Sander will also receive $15,000 in deferred compensation, in the form of payments into a personal retirement account, bringing his total compensation to $340,000 a year.</p>
+        <p>The previous executive director, Katherine N. Lapp, received a salary of $235,000, a housing allowance of $48,000 and a deferred payment of $15,000, for a total pay of $298,000.</p>
+        <p>The words ''chief executive'' have been added to Mr. Sander's title, and his role will include some of the duties previously handled by the authority's chairman, whose unpaid position has had a prominent decision-making function.</p>
+        <p>''His duties are expanding and he's taking more on than his predecessor,'' Ms. Anderson said of Mr. Sander and the 14 percent pay raise. Mr. Sander will make more than Governor Spitzer, who is paid $179,000 a year, according to the office of the state comptroller.</p>
+        <p>But he will earn less than the executives of some other transit agencies around the country. The new general manager of the Washington, D.C., transit system will make more than $375,000 a year, a spokeswoman said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

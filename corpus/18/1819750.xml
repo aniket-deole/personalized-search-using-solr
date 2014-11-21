@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grossman Turns Defensive</title>
+    <meta content="18playoff-3" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819750"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL: PLAYOFF ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">Chicago Bears</org>
+        <org class="indexing_service">New Orleans Saints</org>
+        <person class="indexing_service">Crouse, Karen</person>
+        <person class="indexing_service">Grossman, Rex</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Chicago Bears</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New Orleans Saints</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7D71130F93BA25752C0A9619C8B63" item-length="462" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grossman Turns Defensive</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN CROUSE</byline>
+      <byline class="normalized_byline">Crouse, Karen</byline>
+      <dateline>LAKE FOREST, Ill., Jan 17</dateline>
+      <abstract>
+        <p>Chicago Bears quarterback Rex Grossman is defensive during press conference before playoff game against New Orleans Saints (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The person at the lectern looked like Rex Grossman, but when he started answering questions Wednesday at Halas Hall, his bearing became so wooden it was as if he was a puppet and somebody was throwing his voice.</p>
+        <p>Grossman, the Chicago Bears' quarterback, was refreshingly candid and personable at the start of the season, but 14 victories and 21 interceptions later his cheerful demeanor has turned defensive.</p>
+      </block>
+      <block class="full_text">
+        <p>The person at the lectern looked like Rex Grossman, but when he started answering questions Wednesday at Halas Hall, his bearing became so wooden it was as if he was a puppet and somebody was throwing his voice.</p>
+        <p>Grossman, the Chicago Bears' quarterback, was refreshingly candid and personable at the start of the season, but 14 victories and 21 interceptions later his cheerful demeanor has turned defensive.</p>
+        <p>Despite passing for 3,193 yards in the regular season -- the second most in team history behind Erik Kramer's 3,838 in 1995 -- Grossman has taken more hits from the news media and the public than from opposing linemen. His stature in Chicago has taken on the unpredictability of the city's weather: if you do not like it, wait an hour.</p>
+        <p>Grossman was asked why there had not been more fanfare over his passing numbers. After asking for the question to be repeated, Grossman answered, ''A lot of you guys are glass-half-empty type people.''</p>
+        <p>His flat tone never changed, and neither did his bland expression. ''But it doesn't really matter,'' he said. ''We're focused on beating the Saints.''</p>
+        <p>In the second-round playoff games last weekend, Grossman's passing rating surpassed that of Peyton Manning of the Colts and Tom Brady of the Patriots. Among the four quarterbacks who emerged victorious, only the Saints' Drew Brees was better from a statistical standpoint than Grossman, who completed 21 of 38 passes for 282 yards and a touchdown. He was intercepted once, on a ball that bounced out of the hands of his receiver.</p>
+        <p>Grossman recorded a passer rating of 0.0 in Chicago's regular-season finale, a loss to the Green Bay Packers that did not compromise the Bears' position as the top-rated team in the National Football Conference. Afterward, he admitted that he had not sufficiently prepared for what was essentially a meaningless game.</p>
+        <p>His candor won him a new flock of chirping critics. Grossman responded by announcing that he was finished being approachable. ''I won't talk to you as openly anymore,'' he told Chicago reporters the next week.</p>
+        <p>He was a man of his word Wednesday, giving such clipped answers that one reporter toward the end of the 15-minute briefing asked if this week had been fun for him.</p>
+        <p>''Why wouldn't I have fun?'' Grossman said curtly. ''I'm not sure I really have to explain why this is fun. I mean, this is the N.F.C. championship. I'm the Chicago Bears' quarterback.''</p>
+        <p>As he was getting ready to step down from the podium, somebody asked Grossman if preparing for Sunday's title game against the Saints was like preparing for school finals.</p>
+        <p>He lightened up in spite of himself. ''I didn't study very hard for final exams,'' he said. ''I will study extremely hard for this one.''</p>
+        <p>KAREN CROUSE</p>
+        <p>PRO FOOTBALL: PLAYOFF ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

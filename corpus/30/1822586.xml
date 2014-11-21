@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Plan a Production Company</title>
+    <meta content="30film" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Movies; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/business/media/30film.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822586"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Berman-Braun Productions</org>
+        <org class="indexing_service">Fox Network</org>
+        <org class="indexing_service">Abc Inc</org>
+        <person class="indexing_service">Berman, Gail</person>
+        <person class="indexing_service">Braun, Lloyd</person>
+        <person class="indexing_service">Carter, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <person class="online_producer">Berman, Gail</person>
+        <person class="online_producer">Braun, Lloyd</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E6D9143FF933A05752C0A9619C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Plan a Production Company</hl1>
+        <hl2 class="online_headline">2 Plan a Production Company</hl2>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+      <abstract>
+        <p>Hollywood executives Gail Berman and Lloyd Braun team up to form Berman-Braun Productions which will produce television, films and Internet entertainment; Berman ran entertainment division of Fox network from July 2000 to March 2005; Braun led entertainment division at ABC from July 1999 to April 2004 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gail Berman and Lloyd Braun, two Hollywood executives who formerly ran network entertainment divisions, have created a company to produce entertainment for television, films and the Internet.</p>
+        <p>No details of the partnership have yet been announced, but an entertainment industry executive close to both said yesterday that they had been meeting with potential partners in Hollywood and seeking office space.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two Hollywood executives who formerly ran network entertainment divisions have created a company to produce entertainment for TV, films and the Internet.</p>
+      </block>
+      <block class="full_text">
+        <p>Gail Berman and Lloyd Braun, two Hollywood executives who formerly ran network entertainment divisions, have created a company to produce entertainment for television, films and the Internet.</p>
+        <p>No details of the partnership have yet been announced, but an entertainment industry executive close to both said yesterday that they had been meeting with potential partners in Hollywood and seeking office space.</p>
+        <p>The new company, which is expected to be called Berman-Braun Productions, will bring together two former competitors who are longtime personal friends. Ms. Berman ran the entertainment division of the Fox network from July 2000 to March 2005. Mr. Braun led the entertainment division at ABC from July 1999 to April 2004.</p>
+        <p>Both have been closely linked with hit programs in the recent past. Ms. Berman was instrumental in getting shows like ''24'' and ''House'' on Fox, and Mr. Braun was the executive who initiated and championed ''Lost'' at ABC.</p>
+        <p>About two months ago, Mr. Braun resigned as head of the media division at Yahoo after an effort to develop original entertainment programming for the Web site proved a disappointment.</p>
+        <p>Ms. Berman left her post as president of Paramount Pictures more than two weeks ago after enduring what several studio executives described as a rocky relationship with the chairman, Brad Grey.</p>
+        <p>Both Mr. Braun and Ms. Berman declined comment yesterday.</p>
+        <p>The new company is expected to seek financing from as many as three partners, according to the industry executive, who declined to be named because its creation had not been formally announced.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

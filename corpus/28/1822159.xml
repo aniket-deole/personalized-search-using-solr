@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Williams's Future Still Unclear</title>
+    <meta content="28yankees" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/sports/baseball/28yankees.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822159"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Williams, Bernie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <person class="online_producer">Williams, Bernie</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E7D6173FF93BA15752C0A9619C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Williams's Future Still Unclear</hl1>
+        <hl2 class="online_headline">Bernie Williams’s Future Still Unclear</hl2>
+      </hedline>
+      <abstract>
+        <p>Outfielder Bernie Williams says he is not sure what he will do next year if New York Yankees do not offer him contract (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Not breaking from the laid-back demeanor that has made him a calming presence in the Yankee locker room for 16 years, Bernie Williams said yesterday that he was not sure what he would do if he could control his future.</p>
+        <p>Though Williams previously indicated that he wanted to return to the Yankees, they have made it clear they have little interest in re-signing him.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Not breaking from his laid-back demeanor, Bernie Williams said Saturday that he was not sure what he would do if he could control his future.</p>
+      </block>
+      <block class="full_text">
+        <p>Not breaking from the laid-back demeanor that has made him a calming presence in the Yankee locker room for 16 years, Bernie Williams said yesterday that he was not sure what he would do if he could control his future.</p>
+        <p>Though Williams previously indicated that he wanted to return to the Yankees, they have made it clear they have little interest in re-signing him.</p>
+        <p>''The Yankees expressed a very not secure position regarding my situation with the team and at that point they said they may not offer me a contract,'' Williams said at a fund-raiser for Hillside Food Outreach in New Rochelle.</p>
+        <p>''That was three or four weeks ago. Things may have changed, but I don't know.''</p>
+        <p>Unfortunately for Williams, 38, little has changed in the Yankees' outfield. Johnny Damon, Bobby Abreu, Hideki Matsui and Melky Cabrera are still on the roster, and it does not appear the team will trade Cabrera.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

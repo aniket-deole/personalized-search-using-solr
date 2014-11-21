@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Philharmonic Casts 'My Fair Lady'</title>
+    <meta content="11lady" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/theater/11lady.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817914"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EFDD1130F933A25752C0A9619C8B63" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Philharmonic Casts 'My Fair Lady'</hl1>
+        <hl2 class="online_headline">Philharmonic Casts 'My Fair Lady'</hl2>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The cast of the New York Philharmonic's semistaged performance of ''My Fair Lady'' from March 7 to 10 has been announced: Kelli O'Hara (''The Pajama Game'') will play Eliza Doolittle, and Kelsey Grammer (''Frasier'') will play Prof. Henry Higgins.</p>
+        <p>Rounding out the cast will be Charles Kimbrough as Col. Pickering, Brian Dennehy as Alfred P. Doolittle and Marni Nixon as Mrs. Higgins.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kelli O’Hara will play Eliza Doolittle, and Kelsey Grammer will play Prof. Henry Higgins.</p>
+      </block>
+      <block class="full_text">
+        <p>The cast of the New York Philharmonic's semistaged performance of ''My Fair Lady'' from March 7 to 10 has been announced: Kelli O'Hara (''The Pajama Game'') will play Eliza Doolittle, and Kelsey Grammer (''Frasier'') will play Prof. Henry Higgins.</p>
+        <p>Rounding out the cast will be Charles Kimbrough as Col. Pickering, Brian Dennehy as Alfred P. Doolittle and Marni Nixon as Mrs. Higgins.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

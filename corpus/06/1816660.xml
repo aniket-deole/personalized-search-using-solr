@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A. Richard Newton, 55, Electronic Design Pioneer</title>
+    <meta content="06newton" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/06/business/06newton.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816660"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Arthur Richard Newton</classifier>
+        <person class="indexing_service">Newton, A Richard</person>
+        <person class="indexing_service">Flynn, Laurie J</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EFD91430F935A35752C0A9619C8B63" item-length="440" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A. Richard Newton, 55, Electronic Design Pioneer</hl1>
+        <hl2 class="online_headline">A. Richard Newton, 55, Electronic Design Pioneer, Is Dead</hl2>
+      </hedline>
+      <byline class="print_byline">By LAURIE J. FLYNN</byline>
+      <byline class="normalized_byline">Flynn, Laurie J</byline>
+      <abstract>
+        <p>A Richard Newton, pioneer in electronic design technology who influenced industry as well as being mentor to engineering students, dies at age 55; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A. Richard Newton, a pioneer in electronic design technology who directly influenced the industry as well as being a mentor to countless engineering students, died on Tuesday in San Francisco. He was 55.</p>
+        <p>The cause was pancreatic cancer, according to the University of California, Berkeley, where Professor Newton was dean of the engineering school.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A. Richard Newton directly influenced the electronic design industry and was a mentor to countless engineering students.</p>
+      </block>
+      <block class="full_text">
+        <p>A. Richard Newton, a pioneer in electronic design technology who directly influenced the industry as well as being a mentor to countless engineering students, died on Tuesday in San Francisco. He was 55.</p>
+        <p>The cause was pancreatic cancer, according to the University of California, Berkeley, where Professor Newton was dean of the engineering school.</p>
+        <p>''Rich really played a key part in the semiconductor industry,'' said Paul Gray, his immediate predecessor as head of Berkeley's engineering school and now provost. ''It's unusual for an academic to have such strong ties to industry.''</p>
+        <p>Professor Newton's most notable engineering achievement was in electronic design automation, tools used to create electronic systems like those in semiconductor manufacturing.</p>
+        <p>Professor Newton, an Australian by birth, became interested in the field during his undergraduate days at the University of Melbourne, where he happened upon the work of Donald Pederson, a Berkeley engineering professor who was considered the father of electronic design automation.</p>
+        <p>In 1975, he went to the University of California, Berkeley, for graduate school and continued his work on circuit design automation. His research with Professor Pederson contributed to the founding of SDA Systems -- later Cadence Design Systems, one of Silicon Valley's most prominent technology companies -- as well as of Synopsys, another electronic systems software company.</p>
+        <p>Professor Newton was also founding director of the Gigascale Systems Research Center for design and testing, a joint project of the federal government and the semiconductor industry that coordinates university research.</p>
+        <p>He served as a director of Silicon Valley companies and as an adviser to several prominent venture capital funds that invest in technology.</p>
+        <p>Arthur Richard Newton was born in Melbourne in 1951.</p>
+        <p>Professor Gray said the young Mr. Newton's gifts were so evident as a graduate student that the university took the unusual step of giving him a teaching position in the engineering school directly after he received his Ph.D.</p>
+        <p>He became dean of the engineering school in 2000 and is credited with having doubled the number of women in the engineering faculty since then.</p>
+        <p>Professor Newton was widely known for working to apply engineering technology to challenging social problems, close to home in California as well as in developing countries.</p>
+        <p>In 2001, he led the establishment of the Center for Information Technology Research in the Interest of Society, known as Citris, an effort with other California universities to apply engineering technology to global challenges like poverty, health care and environmental problems.</p>
+        <p>Most recently, Professor Newton championed the study of synthetic biology, a field that applies engineering principles to the life sciences.</p>
+        <p>He is survived by his wife, Petra, and two daughters, Neris and Amrita.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

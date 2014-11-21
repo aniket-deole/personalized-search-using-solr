@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KLASS, STEPHEN I.</title>
+    <meta content="dn012807" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821866"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KLASS, STEPHEN I.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E1D71F3AF93BA15752C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KLASS, STEPHEN I.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KLASS--Stephen I., age 67, of New York, formerly of Boston, MA, on Thursday, January 18, 2007. Loving son of the late David and Ruth (Eisenberg) Klass. A graduate of Boston Latin School, Harvard College and Yale University, Mr. Klass was a retired Professor of English Literature at Adelphi University. Private Funeral Services were held. Contributions in his memory may be made to Adelphi University, P.O. Box 701, Garden City, NY 115300701. A Memorial Service will be held at Adelphi University, Garden City, on a date to be announced. Levine Chapels, Brookline, MA. (617) 277-8300</p>
+      </block>
+      <block class="full_text">
+        <p>KLASS--Stephen I., age 67, of New York, formerly of Boston, MA, on Thursday, January 18, 2007. Loving son of the late David and Ruth (Eisenberg) Klass. A graduate of Boston Latin School, Harvard College and Yale University, Mr. Klass was a retired Professor of English Literature at Adelphi University. Private Funeral Services were held. Contributions in his memory may be made to Adelphi University, P.O. Box 701, Garden City, NY 115300701. A Memorial Service will be held at Adelphi University, Garden City, on a date to be announced. Levine Chapels, Brookline, MA. (617) 277-8300</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

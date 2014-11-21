@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Coram Boy' Is Broadway Bound</title>
+    <meta content="19coram" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/18/theater/19coram.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819757"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EEDC1E30F93BA25752C0A9619C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Coram Boy' Is Broadway Bound</hl1>
+        <hl2 class="online_headline">‘Coram Boy’ Is Broadway Bound</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The acclaimed English National Theater production of "Coram Boy" is to open on Broadway at the Imperial Theater on May 2, after previews beginning on April 16.</p>
+        <p>The play, adapted by Helen Edmundson from a novel by Jamila Gavin, tells of two orphans at a home for deserted children: one saved from an African slave ship, the other the abandoned son of the heir to a great estate.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The acclaimed English National Theater production of “Coram Boy” is to open on Broadway at the Imperial Theater on May 2.</p>
+      </block>
+      <block class="full_text">
+        <p>The acclaimed English National Theater production of "Coram Boy" is to open on Broadway at the Imperial Theater on May 2, after previews beginning on April 16.</p>
+        <p>The play, adapted by Helen Edmundson from a novel by Jamila Gavin, tells of two orphans at a home for deserted children: one saved from an African slave ship, the other the abandoned son of the heir to a great estate.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

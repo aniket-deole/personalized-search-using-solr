@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Street Corner Trap</title>
+    <meta content="NJdrug" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/opinion/NJdrug.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820362"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New Jersey"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Hispanic-Americans</classifier>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">New Jersey</location>
+        <person class="online_producer">Corzine, Jon S</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5DF1E30F932A15752C0A9619C8B63" item-length="422" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Street Corner Trap</hl1>
+        <hl2 class="online_headline">The Street Corner Trap</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial supports demand by New Jersey commission that state legislature take action to reform law on drug-free zones around schools that unfairly singles out urban blacks and Hispanics arrested for dealing drugs</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For years now, it has been common knowledge that many of the harsh drug laws enacted in the 70s and 80s not only do not work, but have an unfair impact on minorities. That is especially true of a 1987 New Jersey law setting up 1,000-foot zones around schools where anyone convicted of a drug crime would automatically be sentenced to extra time in prison.</p>
+        <p>The purpose was obvious: to keep drug dealers away from youngsters. But a commission of New Jersey law enforcement officials, legislators and a retired judge found more than a year ago that the law was not protecting children but instead giving blacks and other minority drug offenders far tougher punishment than whites convicted of the same crimes. That is just not right.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When officials who have dealt with the drug problem on a daily basis conclude that a drug punishment law is neither fair nor serving its purpose, it is time for the Legislature and governor to change it.</p>
+      </block>
+      <block class="full_text">
+        <p>For years now, it has been common knowledge that many of the harsh drug laws enacted in the 70s and 80s not only do not work, but have an unfair impact on minorities. That is especially true of a 1987 New Jersey law setting up 1,000-foot zones around schools where anyone convicted of a drug crime would automatically be sentenced to extra time in prison.</p>
+        <p>The purpose was obvious: to keep drug dealers away from youngsters. But a commission of New Jersey law enforcement officials, legislators and a retired judge found more than a year ago that the law was not protecting children but instead giving blacks and other minority drug offenders far tougher punishment than whites convicted of the same crimes. That is just not right.</p>
+        <p>A study of 90 drug-free zone cases, cited by the commission, showed that not one defendant had sold drugs to a minor. The commission also said that 96 percent of those serving time for drug crimes in drug-free zones were either black or Hispanic. The reason was that in the cities, where more minority members live, almost every street corner or sidewalk is within 1,000 feet of a school, while in mostly white suburban and rural areas it is easy to get outside the thousand-foot zone. With virtually entire cities inside the drug-free zones, the commission said, urban drug offenders have no incentive for staying away from schools.</p>
+        <p>Legislators quickly promised corrective action. An Assembly committee approved a measure narrowing the zones and a state senator said action would be taken in 2006. Nothing has happened on this issue since then.</p>
+        <p>Shaken by this yearlong lack of action and fearful that penalties in the 1,000-foot zones will be increased, the New Jersey commission is about to renew its demand that legislators and Gov. Jon Corzine take action. What the panel wants is a law that would shrink all drug-free zones to 200 feet, toughen penalties for those convicted of drug crimes within that smaller zone and give judges discretion to lessen penalties when circumstances dictate. The new law would increase penalties to 5 to 10 years rather than the existing three to five.</p>
+        <p>When a commission composed in part of officials who have dealt with the drug problem on a daily basis concludes that a drug punishment law is neither fair nor serving its purpose, it is time for the Legislature and governor to change it. Until they do, minorities will continue paying an unfair price and children will not get the protection they deserve.</p>
+        <p>New Jersey</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

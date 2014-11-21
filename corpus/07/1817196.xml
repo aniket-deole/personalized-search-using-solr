@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chandralekha, 79, Dancer Who Blended Indian Forms</title>
+    <meta content="07chandralekha" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/arts/07chandralekha.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817196"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Chandralekha</classifier>
+        <person class="indexing_service">Chandralekha (Choreographer)</person>
+        <person class="indexing_service">Dunning, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Jacob's Pillow Dance Festival</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+        <org class="online_producer">Danspace Project</org>
+        <person class="online_producer">Chandralekha</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E3DF1530F934A35752C0A9619C8B63" item-length="332" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chandralekha, 79, Dancer Who Blended Indian Forms</hl1>
+        <hl2 class="online_headline">Chandralekha, 79, Dancer Who Blended Indian Forms, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+      <abstract>
+        <p>Chandralekha, Indian dancer and choreographer known for fusing classical dance form with martial arts, dies at age 78; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chandralekha, an Indian dancer and choreographer known for her philosophical fusing of the classical Bharata Natyam dance form with martial arts and therapeutic varieties of dance, died on Dec. 30 at her seaside home in the Indian city of Chennai. She was 78.</p>
+        <p>The cause was cervical cancer, said Sadanand Menon, her companion of more than 30 years.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Chandralekha was an Indian dancer and choreographer known for her philosophical fusing of the classical Bharata Natyam dance form with martial arts.</p>
+      </block>
+      <block class="full_text">
+        <p>Chandralekha, an Indian dancer and choreographer known for her philosophical fusing of the classical Bharata Natyam dance form with martial arts and therapeutic varieties of dance, died on Dec. 30 at her seaside home in the Indian city of Chennai. She was 78.</p>
+        <p>The cause was cervical cancer, said Sadanand Menon, her companion of more than 30 years.</p>
+        <p>Born in the small town of Wada in the state of Maharashtra, Chandralekha trained in the early 1950s with Guru Kancheepuram Ellappa Pillai. After making a name for herself as a soloist, she turned away from performing and what she saw as its commercial values. She returned to dance 25 years later, after working as a writer, designer and activist for human rights and feminism.</p>
+        <p>Her ''Raga: In Search of Femininity,'' presented at the Brooklyn Academy of Music in 1998 as part of the Next Wave Festival, partly questioned the culturally perceived duality of male and female in human beings, alluding to the comment of the 10th-century poet Devara Dasimayya that ''the self that hovers in between is neither man nor woman.''</p>
+        <p>In an interview that year with Persona magazine, Chandralekha said: ''My work is about linking inner and outer spaces. We live in the body without understanding its vital parts and points and without the knowledge of how to bridge the inner-outer divide.''</p>
+        <p>Form and expression merged inseparably and hypnotically in her ''Yantra,'' presented in 1994 at the Danspace Project at St. Mark's Church in the East Village. She also danced in the United States at the Jacob's Pillow Dance Festival in Becket, Mass., in addition to performing in India, Indonesia, Japan and throughout Europe.</p>
+        <p>Her last appearances were in late September and early October in Germany, where she presented a piece, ''Shaira,'' and participated in the inaugural events of the Frankfurt Book Fair, which honored India.</p>
+        <p>Chandralekha wrote and designed several books and was the subject of ''Chandralekha: Woman, Dance, Resistance,'' a biography by Rustom Bharucha published in 1995.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

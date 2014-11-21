@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MORSE, JANE H., M.D</title>
+    <meta content="dn010508" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816438"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MORSE, JANE H., M.D</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE1D91F3AF936A35752C0A9619C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MORSE, JANE H., M.D</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MORSE--Jane H., M.D. We are saddened by the passing of Jane H. Morse, Professor Emeritus of Clinical Medicine, College of Physicians &amp; Surgeons. Dr. Morse was not only a scientific pioneer but a truly remarkable woman with tireless energy and a great passion and dedication to discovery. Dr. Morse served as a faculty member for more than 40 years, and discovered the gene for familial primary pulmonary hypertension. In 2007, the Office of Gender Equity and the Center for Women's Health honored Dr. Morse as an exceptional role model for academic scientists and for her lifelong commitment to medical students, residents, and fellows. Jeanine M. D'Armiento, M.D., Ph. D. Associate Dean of Gender Equity Elsa-Grace V. Giardina, M.D. Director, Center for Women's Health</p>
+      </block>
+      <block class="full_text">
+        <p>MORSE--Jane H., M.D. We are saddened by the passing of Jane H. Morse, Professor Emeritus of Clinical Medicine, College of Physicians &amp; Surgeons. Dr. Morse was not only a scientific pioneer but a truly remarkable woman with tireless energy and a great passion and dedication to discovery. Dr. Morse served as a faculty member for more than 40 years, and discovered the gene for familial primary pulmonary hypertension. In 2007, the Office of Gender Equity and the Center for Women's Health honored Dr. Morse as an exceptional role model for academic scientists and for her lifelong commitment to medical students, residents, and fellows. Jeanine M. D'Armiento, M.D., Ph. D. Associate Dean of Gender Equity Elsa-Grace V. Giardina, M.D. Director, Center for Women's Health</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

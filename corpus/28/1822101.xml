@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OTHER LIVES</title>
+    <meta content="28suits-3" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822101"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Retirement</classifier>
+        <org class="indexing_service">Grey Global Group</org>
+        <person class="indexing_service">Meyer, Edward H</person>
+        <person class="indexing_service">Levere, Jane L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retirement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E4DA173FF93BA15752C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OTHER LIVES</hl1>
+      </hedline>
+      <byline class="print_byline">By JANE L. LEVERE</byline>
+      <byline class="normalized_byline">Levere, Jane L</byline>
+      <abstract>
+        <p>Former Grey Global chairman and chief execut�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At a benefit for the Manhattan Theater Club last week, Edward H. Meyer, the former chairman and chief executive of Grey Global, was waxing ecstatic about his month-old retirement from the ad game.</p>
+        <p>''I no longer have clients who demand that I be at certain places at certain times, so I'm much more in control of my time,'' said Mr. Meyer, who has joined Meyer &amp; Company, a privately held investment firm that is based in New York and run by his son, Anthony E. Meyer.</p>
+      </block>
+      <block class="full_text">
+        <p>At a benefit for the Manhattan Theater Club last week, Edward H. Meyer, the former chairman and chief executive of Grey Global, was waxing ecstatic about his month-old retirement from the ad game.</p>
+        <p>''I no longer have clients who demand that I be at certain places at certain times, so I'm much more in control of my time,'' said Mr. Meyer, who has joined Meyer &amp; Company, a privately held investment firm that is based in New York and run by his son, Anthony E. Meyer.</p>
+        <p>''To suddenly wake up one morning and say, 'I can plot this day pretty much as I wish to do it, and if I want to take an hour off, just walk around the city, I can,' that's what's exhilarating,'' the elder Mr. Meyer added.</p>
+        <p>Also at the benefit was David C. Hodgson, managing director of General Atlantic, the private equity fund. He said his personal theatrical experience was limited to performing in ''Rumpelstiltskin'' in fourth grade, near Rochester.</p>
+        <p>''I was good, I gotta tell you,'' he reminisced.</p>
+        <p>JANE L. LEVERE</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

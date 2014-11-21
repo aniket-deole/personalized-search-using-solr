@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Free Counsel And Fairness</title>
+    <meta content="l15defend" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819086"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Legal Aid for the Poor</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Defenders</classifier>
+        <person class="indexing_service">Hoffman, Morris B</person>
+        <person class="indexing_service">Wallace, Jo-Ann</person>
+        <person class="indexing_service">Buenzle, Desiree</person>
+        <person class="indexing_service">Abel, Laura K</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Aid for the Poor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Welfare (US)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3DC1030F936A25752C0A9619C8B63" item-length="486" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Free Counsel And Fairness</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters respond to Morris B Hoffman's Jan 8 Op-Ed about public defender effectiveness; Jo-Ann Wallace says studies show that public defense systems are failing across country; Desiree Buenzle disputes Hoffman's conclusion that marginally indigent defendants who choose public defenders tend to be guilty; Laura K Abel disputes Hoffman's contention that jurisdictions should deny public defenders to anyone charged with crime who is unable to pay for private lawyer, but who has family member able to do so</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Free-Market Justice'' (Op-Ed, Jan. 8): Morris B. Hoffman's study of public defender effectiveness overlooks the biggest challenge to such defense nationwide: its quality is dependent on the state's providing public defenders the tools they need to succeed.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Free-Market Justice'' (Op-Ed, Jan. 8): Morris B. Hoffman's study of public defender effectiveness overlooks the biggest challenge to such defense nationwide: its quality is dependent on the state's providing public defenders the tools they need to succeed.</p>
+        <p>Studies show that across the country, public defense systems are failing. No lawyer can prepare a comprehensive defense for any client when caseloads number in the thousands each year. Without enough resources to investigate cases, conduct testing and hire expert witnesses, public defenders have the odds stacked against them.</p>
+        <p>Their performance can't be compared fairly with that of retained counsel until the systems they operate in function fairly. The Constitution guarantees qualified counsel to those who cannot afford it. Fulfilling this guarantee must be our first priority. Until then, justice will be dependent on the amount of money in one's pocket.</p>
+        <p>Jo-Ann Wallace  Washington, Jan. 9, 2007</p>
+        <p>The writer is president, National Legal Aid and Defender Association.</p>
+        <p>To the Editor:</p>
+        <p>As a public defender with 16 years' experience at the Legal Aid Society in New York City, I disagree with Morris B. Hoffman.</p>
+        <p>While his statistics may be accurate, his conclusion that ''marginally indigent defendants who choose public defenders tend to be guilty'' is ridiculous. That's like saying children in underfinanced schools who don't go elsewhere tend to be stupid.</p>
+        <p>The reality is that money talks. Court officers, judges and juries treat private lawyers and their clients differently from those who cannot pay for representation. There is a reason that even the poorest defendants wear a shirt and tie in the grand jury and to trial. Just as better-dressed diners get prime tables at a restaurant, human nature dictates better results for those who appear to have money.</p>
+        <p>A private lawyer is an indicator to the middle class, which runs the court system and judges the defendant, that the defendant who can hire one is a guy like me.</p>
+        <p>Desirée Buenzle  Bronxville, N.Y., Jan. 8, 2007</p>
+        <p>To the Editor:</p>
+        <p>Morris B. Hoffman argues that jurisdictions should deny public defenders to anyone charged with a crime who is unable to pay for a private lawyer but who has a family member or friend able to do so.</p>
+        <p>This ignores the constitutional obligation that states must appoint counsel for people who cannot afford private lawyers. Whether a person receives representation cannot be left to the discretion of family or friends.</p>
+        <p>Moreover, Mr. Hoffman's recommendation is based on a single study done in Denver. It would be unwise to change course regarding constitutionally mandated services based on a study about one jurisdiction, where the authors made many untested assumptions, and their findings acknowledge a need to be cautious in accepting their conclusions.</p>
+        <p>Laura K. Abel  New York, Jan. 8, 2007</p>
+        <p>The writer is deputy director of the Justice Program, Brennan Center for Justice at New York University School of Law.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

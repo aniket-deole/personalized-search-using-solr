@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Abroad: Border Crossing</title>
+    <meta content="lists" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/education/edlife/07lists.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816859"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LISTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Foreign Study, Teaching and Travel</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Institute of International Education</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E1DC1F31F934A35752C0A9619C8B63" item-length="224" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Abroad: Border Crossing</hl1>
+        <hl2 class="online_headline">Study Abroad: Border Crossing</hl2>
+      </hedline>
+      <abstract>
+        <p>Study abroad is becoming integral part of college curriculum, with some American colleges requiring students to do coursework in another country; about 206,000 students participated in foreign study programs in 2004-2005; chart shows top 20 countries and number of students who studied in each (special section, Education Life) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN the global age, study abroad is becoming a more integrated part of the curriculum. Some American colleges are even requiring that students travel to another country for coursework.</p>
+        <p>This academic year, Yale's School of Management restructured its curriculum and now requires M.B.A. candidates to do intensive study outside the country. Goucher College, in Baltimore, began a new liberal education curriculum this school year that makes study abroad mandatory. Each student gets a $1,200 voucher to offset costs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the global age, study abroad is becoming a more integrated part of the curriculum. Here are the top destinations.</p>
+      </block>
+      <block class="full_text">
+        <p>IN the global age, study abroad is becoming a more integrated part of the curriculum. Some American colleges are even requiring that students travel to another country for coursework.</p>
+        <p>This academic year, Yale's School of Management restructured its curriculum and now requires M.B.A. candidates to do intensive study outside the country. Goucher College, in Baltimore, began a new liberal education curriculum this school year that makes study abroad mandatory. Each student gets a $1,200 voucher to offset costs.</p>
+        <p>About 206,000 students participated in foreign study programs in 2004-5, according to the latest report from the Institute of International Education. Released in November, it shows that Europe continued to attract the most American college students, but China had the biggest jump: 35 percent more students went there than the previous year. Here are the top choices.</p>
+        <p>Destination No. of students  1. Britain 32,071  2. Italy 24,858  3. Spain 20,806  4. France 15,374  5. Australia 10,813  6. Mexico 9,244  7. Germany 6,557  8. China 6,389  9. Ireland 5,083  10. Costa Rica 4,887  11. Japan 4,100  12. Austria 2,757  13. New Zealand 2,657  14. Czech Republic 2,494  15. Greece 2,445  16. Chile 2,393  17. South Africa 2,304  18. Argentina 2,013  19. Brazil 1,994  20. India 1,767</p>
+        <p>LISTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

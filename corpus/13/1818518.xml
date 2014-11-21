@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ESPN CANCELS TALK SHOW</title>
+    <meta content="13sportsbriefs-1" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818518"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: TV SPORTS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EFD71330F930A25752C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ESPN CANCELS TALK SHOW</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ESPN yesterday canceled Stephen A. Smith's nightly series, ''Quite Frankly,'' which had suffered from low viewership since its inception in August 2005. The final episode of the talk show, which also featured Smith providing commentary to a studio audience, was to be shown last night.</p>
+        <p>The program, in its 11 p.m. time slot, attracted an average of 240,000 households, but the figure has been as low as 196,000.</p>
+      </block>
+      <block class="full_text">
+        <p>ESPN yesterday canceled Stephen A. Smith's nightly series, ''Quite Frankly,'' which had suffered from low viewership since its inception in August 2005. The final episode of the talk show, which also featured Smith providing commentary to a studio audience, was to be shown last night.</p>
+        <p>The program, in its 11 p.m. time slot, attracted an average of 240,000 households, but the figure has been as low as 196,000.</p>
+        <p>Smith will be seen more often on ''SportsCenter'' and on ESPN's National Basketball Association programming, and will be host of four interview specials.</p>
+        <p>RICHARD SANDOMIR</p>
+        <p>SPORTS BRIEFING: TV SPORTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

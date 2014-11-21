@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MASLOW, NATALIE SALWEN</title>
+    <meta content="dn012907" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822326"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MASLOW, NATALIE SALWEN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E4D61F3AF93AA15752C0A9619C8B63" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MASLOW, NATALIE SALWEN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MASLOW--Natalie Salwen, on January 27th, 2007. Devoted mother of Jane and the late Jimmy, and dear grandmother of Jamie. A loyal and caring friend and loving mother. A woman of great beauty and intellect. A unique lady among women who rose to great heights in all her endeavors. Funeral services were private.</p>
+        <p>$(6$)MASLOW--Natalie Salwen, All of our family loved you dearly. Liz (Brad), Tom (Jan), and Claudia...and John.</p>
+      </block>
+      <block class="full_text">
+        <p>MASLOW--Natalie Salwen, on January 27th, 2007. Devoted mother of Jane and the late Jimmy, and dear grandmother of Jamie. A loyal and caring friend and loving mother. A woman of great beauty and intellect. A unique lady among women who rose to great heights in all her endeavors. Funeral services were private.</p>
+        <p>$(6$)MASLOW--Natalie Salwen, All of our family loved you dearly. Liz (Brad), Tom (Jan), and Claudia...and John.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

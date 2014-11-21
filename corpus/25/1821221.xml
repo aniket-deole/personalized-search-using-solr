@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stand in the Place Where You Work</title>
+    <meta content="25desk" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821221"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: FURNITURE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Furniture</classifier>
+        <classifier class="indexing_service" type="descriptor">Desks</classifier>
+        <person class="indexing_service">Milioti, Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Furniture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E4DC163FF936A15752C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stand in the Place Where You Work</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN MILIOTI</byline>
+      <byline class="normalized_byline">Milioti, Stephen</byline>
+      <abstract>
+        <p>New Go-2 desk has electronic height adjustment system so you can sit or stand while working; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you like to work both sitting and standing -- or can't decide what table height suits you best -- the new GO-2 desk may be perfect for you. Manufactured by Leuwico, a German company, and distributed in the United States by Topdeq, it has an electronic height adjustment system. With the push of a button, the desktop can be quickly adjusted to any height between 27 and 46 1/2 inches. An optional cable spirals down the side of the desk, neatly containing the wiring. The desk is made of gray powder-coated steel and comes in two sizes and various finishes -- from light beech melamine to an industrial-looking gray melamine. Desks start at $1,345; topdeq.com or (866) 876-3300.</p>
+        <p>STEPHEN MILIOTI</p>
+      </block>
+      <block class="full_text">
+        <p>If you like to work both sitting and standing -- or can't decide what table height suits you best -- the new GO-2 desk may be perfect for you. Manufactured by Leuwico, a German company, and distributed in the United States by Topdeq, it has an electronic height adjustment system. With the push of a button, the desktop can be quickly adjusted to any height between 27 and 46 1/2 inches. An optional cable spirals down the side of the desk, neatly containing the wiring. The desk is made of gray powder-coated steel and comes in two sizes and various finishes -- from light beech melamine to an industrial-looking gray melamine. Desks start at $1,345; topdeq.com or (866) 876-3300.</p>
+        <p>STEPHEN MILIOTI  CURRENTS: FURNITURE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

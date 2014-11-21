@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Say 'Fool'</title>
+    <meta content="Letters.t-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816887"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Cahill, Thomas</person>
+        <person class="indexing_service">Rowland, Ingrid</person>
+        <object.title class="indexing_service">Mysteries of the Middle Ages (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E3DF1630F934A35752C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Say 'Fool'</hl1>
+      </hedline>
+      <abstract>
+        <p>Thomas Cahill letter comments on Ingrid Rowland Dec 24 review of his book Mysteries of the Middle Ages: The Rise of Feminism, Science, and Art From the Cults of Catholic Europe</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of Florence Noiville's biography of Isaac Bashevis Singer (Dec. 24), D. T. Max quotes from Saul Bellow's English translation of Singer's ''Gimpel the Fool'': ''I had seven names in all: imbecile, donkey, flax-head, dope, glump, ninny and fool.'' This, he claims, sounds ''more like Augie March than someone from the old country,'' and he ''wonders'' about what Singer may have thought.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of Florence Noiville's biography of Isaac Bashevis Singer (Dec. 24), D. T. Max quotes from Saul Bellow's English translation of Singer's ''Gimpel the Fool'': ''I had seven names in all: imbecile, donkey, flax-head, dope, glump, ninny and fool.'' This, he claims, sounds ''more like Augie March than someone from the old country,'' and he ''wonders'' about what Singer may have thought.</p>
+        <p>It is surely relevant to note that Bellow's English is a close and direct translation of Singer's Yiddish. The fact is that Yiddish speakers in the ''old country'' had plenty of words for fool, and presumably many occasions to use them. Singer's seven examples, each well rendered by Bellow, far from exhausted the storehouse. If you look in Nahum Stutchkoff's Yiddish thesaurus of 1950, published by YIVO, you will find 11 dense columns under the heading ''narishkayt.''</p>
+        <p>Paul Needham  Summit, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Presidential Libraries</title>
+    <meta content="l26library" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821532"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Archives and Records</classifier>
+        <classifier class="indexing_service" type="descriptor">Libraries and Librarians</classifier>
+        <org class="indexing_service">Roosevelt, Franklin Delano, Library (Hyde Park, NY)</org>
+        <person class="indexing_service">Newton, Verne W</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archives and Records</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E2DE173FF935A15752C0A9619C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Presidential Libraries</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Verne W Newton, former director of Franklin D Roosevelt Presidential Library, calls for central system for archiving presidential papers (Jan 20 Benjamin Hufbauer Op-Ed article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Benjamin Hufbauer is right on the issues he raises in ''Archives of Spin'' (Op-Ed, Jan. 20), but in my view he does not go far enough.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Benjamin Hufbauer is right on the issues he raises in ''Archives of Spin'' (Op-Ed, Jan. 20), but in my view he does not go far enough.</p>
+        <p>Part of the problem is that for the National Archives, a tiny federal agency, planning a president's library is about the only access to power it has in Washington.</p>
+        <p>So archive officials are hardly the ones to tell a president that it would make far more sense in terms of access, cost and processing to leave his papers at a newly created archives unit: the Center for the Study of the Presidency.</p>
+        <p>It does not serve anyone well, except, as Mr. Hufbauer suggests, those who want to impede historical scrutiny, to carve out White House records from the rest of an administration and haul them off to remote locations. As for researchers whose topics cut across more than one administration, the cost of crisscrossing the country can be substantial.</p>
+        <p>Franklin D. Roosevelt established a system to make sure presidential papers are preserved as a public trust. But it is no longer necessary to scatter them around the country to achieve this.</p>
+        <p>If presidents choose to build and operate private, nongovernmental museums to themselves in their hometowns, let them.</p>
+        <p>Verne W. Newton  Hyde Park, N.Y., Jan. 22, 2007</p>
+        <p>The writer is the former director of the Franklin D. Roosevelt Presidential Library.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

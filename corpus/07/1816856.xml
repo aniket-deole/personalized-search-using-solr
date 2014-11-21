@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Education Life</title>
+    <meta content="contents" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816856"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DC1F31F934A35752C0A9619C8B63" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Education Life</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Features</p>
+        <p>16 Pantless parties  It's a tradition at Yale, Brown and other East Coast campuses: wardrobe-free nightlife. Just keep your shoes on. By Rachel Aviv</p>
+        <p>18 The incredibles  Students at high-powered high schools cram in so much material, college can be a letdown. By Laura Pappano</p>
+        <p>22 ultimate distance learning  In cyberclass on Second Life, nothing is real but learning. By Christine Lagorio</p>
+        <p>Cover Story</p>
+        <p>24 LITTLE ASIA ON THE HILL  The undergraduate student body at the University of California, Berkeley, is 41 percent Asian. Other elite colleges are also admitting high numbers of Asian students. Some ask, are those numbers too high? Others, are they high enough? By Timothy Egan</p>
+        <p>Departments</p>
+        <p>7 BLACKBOARD  Not-so-Common Applications, application supplements on steroids, school colors.</p>
+        <p>8 SPENDING IT  The fine art of negotiating financial aid. By Eric Dash</p>
+        <p>10 STRATEGY  How to cut college costs by becoming a resident adviser. By Fran Silverman</p>
+        <p>12 DATA  The gender gap.</p>
+        <p>14 GUIDANCE COUNSELOR  Are you an academic procrastinator or a chronic one? By Michelle Slatalla</p>
+        <p>29 TRENDSPOTTING  Audio antiques as wall art, courtesy of mom and pop's record collection.</p>
+        <p>30 POP QUIZ  Middle East studies.</p>
+        <p>33 BOOKS  Is there an absolute definition of plagiarism? By Charles McGrath</p>
+        <p>34 HELP  Putting SATs aside; getting help to pay for graduate school. By Marek Fuchs</p>
+        <p>38 NOTEBOOK  A young man finds himself in a multicolored poncho. By John Schwartz</p>
+      </block>
+      <block class="full_text">
+        <p>Features</p>
+        <p>16 Pantless parties  It's a tradition at Yale, Brown and other East Coast campuses: wardrobe-free nightlife. Just keep your shoes on. By Rachel Aviv</p>
+        <p>18 The incredibles  Students at high-powered high schools cram in so much material, college can be a letdown. By Laura Pappano</p>
+        <p>22 ultimate distance learning  In cyberclass on Second Life, nothing is real but learning. By Christine Lagorio</p>
+        <p>Cover Story</p>
+        <p>24 LITTLE ASIA ON THE HILL  The undergraduate student body at the University of California, Berkeley, is 41 percent Asian. Other elite colleges are also admitting high numbers of Asian students. Some ask, are those numbers too high? Others, are they high enough? By Timothy Egan</p>
+        <p>Departments</p>
+        <p>7 BLACKBOARD  Not-so-Common Applications, application supplements on steroids, school colors.</p>
+        <p>8 SPENDING IT  The fine art of negotiating financial aid. By Eric Dash</p>
+        <p>10 STRATEGY  How to cut college costs by becoming a resident adviser. By Fran Silverman</p>
+        <p>12 DATA  The gender gap.</p>
+        <p>14 GUIDANCE COUNSELOR  Are you an academic procrastinator or a chronic one? By Michelle Slatalla</p>
+        <p>29 TRENDSPOTTING  Audio antiques as wall art, courtesy of mom and pop's record collection.</p>
+        <p>30 POP QUIZ  Middle East studies.</p>
+        <p>33 BOOKS  Is there an absolute definition of plagiarism? By Charles McGrath</p>
+        <p>34 HELP  Putting SATs aside; getting help to pay for graduate school. By Marek Fuchs</p>
+        <p>38 NOTEBOOK  A young man finds himself in a multicolored poncho. By John Schwartz</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

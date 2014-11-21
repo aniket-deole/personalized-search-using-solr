@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Golden State Gamble</title>
+    <meta content="12krugman" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/12/opinion/12krugman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818231"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <location class="indexing_service">California</location>
+        <person class="indexing_service">Krugman, Paul</person>
+        <person class="indexing_service">Schwarzenegger, Arnold (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">California</location>
+        <person class="online_producer">Schwarzenegger, Arnold</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE5DE1330F931A25752C0A9619C8B63" item-length="714" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Golden State Gamble</hl1>
+        <hl2 class="online_headline">Golden State Gamble</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column says he is of two minds about universal health insurance plan proposed by Gov Arnold Schwarzenegger of California; says it is encouraging that Republican governor would endorse principle that all Americans are entitled to essential health care, but Schwarzenegger's plan has serious flaws; says state-level plans should be seen as pilot projects, because in the end health care should be federal responsibility (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A few days ago. Gov. Arnold Schwarzenegger unveiled an ambitious plan to bring universal health insurance to California. And I'm of two minds about it.</p>
+        <p>On one side, it's very encouraging to see another Republican governor endorse the principle that all Americans are entitled to essential health care. Not long ago we were wondering whether the Bush administration would succeed in dismantling Social Security. Now we're discussing proposals for universal health care. What a difference two years makes!</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I’m of two minds about Governor Schwarzenegger’s plan to bring universal health insurance to California.</p>
+      </block>
+      <block class="full_text">
+        <p>A few days ago. Gov. Arnold Schwarzenegger unveiled an ambitious plan to bring universal health insurance to California. And I'm of two minds about it.</p>
+        <p>On one side, it's very encouraging to see another Republican governor endorse the principle that all Americans are entitled to essential health care. Not long ago we were wondering whether the Bush administration would succeed in dismantling Social Security. Now we're discussing proposals for universal health care. What a difference two years makes!</p>
+        <p>And if California -- America's biggest state, with a higher-than-average percentage of uninsured residents -- can achieve universal coverage, so can the nation as a whole.</p>
+        <p>On the other side, Mr. Schwarzenegger's plan has serious flaws. Maybe those flaws could be fixed once the principle of universal coverage was established -- but there's also the chance that we would end up stuck with those flaws, the way we ended up stuck with a dysfunctional system of insurance tied to employment.</p>
+        <p>Furthermore, in the end health care should be a federal responsibility. State-level plans should be seen as pilot projects, not substitutes for a national system. Otherwise, some states just won't do the right thing. Remember, almost 25 percent of Texans are uninsured.</p>
+        <p>To understand both what's right and what's wrong with Mr. Schwarzenegger's plan, let's compare what he's proposing with the plan he rejected. Last summer, the California Legislature passed a bill that would have created a single-payer health insurance system for the state -- that is, a system similar to Medicare, under which residents would have paid fees into a state fund, which would then have provided insurance to everyone.</p>
+        <p>But the governor vetoed that bill, which would have bypassed private insurance companies. He appears to sincerely want universal coverage, but he also wants to keep insurance companies in the loop. As a result, he came up with a plan that, like the failed Clinton health care plan of the early 1990s, is best described as a Rube Goldberg device -- a complicated, indirect way of achieving what a single-payer system would accomplish simply and directly.</p>
+        <p>There are three main reasons why many Americans lack health insurance. Some healthy people decide to save money and take their chances (and end up being treated in emergency rooms, at the public's expense, if their luck runs out); some people are too poor to afford coverage; some people can't get coverage, at least without paying exorbitant rates, because of pre-existing conditions.</p>
+        <p>Single-payer insurance solves all three problems at a stroke. The Schwarzenegger plan, by contrast, is a series of patches. It forces everyone to buy health insurance, whether they think they need it or not; it provides financial aid to low-income families, to help them bear the cost; and it imposes ''community rating'' on insurance companies, basically requiring them to sell insurance to everyone at the same price.</p>
+        <p>As a result, the plan requires a much more intrusive government role than a single-payer system. Instead of reducing paperwork, the plan adds three new bureaucracies: one to police individuals to make sure they buy insurance, one to determine if they're poor enough to receive aid, and one to police insurers to make sure they don't discriminate against the unwell.</p>
+        <p>The plan's supporters say that it would save money all the same. Those who are currently uninsured would receive preventive care, which is often cheaper than waiting until they show up in emergency rooms. Insurers would spend less money trying to weed out high-risk clients and more money actually paying for health care: the plan would require that insurers spend at least 85 percent of premiums on health care, considerably more than most of them do now.</p>
+        <p>Still, why all the complexity? The smart, well-intentioned economists who devised the plan think they're being more politically realistic than single-payer advocates -- that it's necessary to placate the insurers. But that's what Bill and Hillary Clinton thought, too -- only to find that their plan's complexity confused the public, while the insurance industry went all-out to defeat it anyway.</p>
+        <p>So am I for or against the Schwarzenegger plan? That's a tough question. As a practical matter, however, I suspect that the real question is what to do after the plan founders from its own complexity. And the answer is, damn the insurers -- full speed ahead.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

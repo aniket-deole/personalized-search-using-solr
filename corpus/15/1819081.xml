@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Texas Strategy</title>
+    <meta content="15krugman" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/15/opinion/15krugman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819081"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Savings and Loan Associations</classifier>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Dallas Cowboys</org>
+        <org class="indexing_service">Lincoln Savings &amp; Loan Assn (Irvine, Calif)</org>
+        <person class="indexing_service">Krugman, Paul</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Staubach, Roger</person>
+        <person class="indexing_service">Keating, Charles H Jr</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Dallas Cowboys</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Savings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Savings and Loan Associations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <location class="online_producer">Iraq</location>
+        <org class="online_producer">Defense Department</org>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">Keating, Charles</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E4DC1030F936A25752C0A9619C8B63" item-length="754" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Texas Strategy</hl1>
+        <hl2 class="online_headline">The Texas Strategy</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column notes that news articles and opinion pieces have described Pres Bush's decision to escalate Iraq war as 'Hail Mary pass'; maintains that Bush is not Roger Staubach, trying to pull out win for Dallas Cowboys; says he is Charles Keating, using other people's money to keep Lincoln Savings going long after it should have been shut down; contends that lesson of savings and loan scandal was that when bank has failed, you should not let owner string you along with promises--you should shut it down; asserts that we should do same with Bush's failed war (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hundreds of news articles and opinion pieces have described President Bush's decision to escalate the Iraq war as a ''Hail Mary pass.''</p>
+        <p>But that's the wrong metaphor.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The lesson of the savings and loan scandal of the 1980s was that when a bank has failed, you should shut the thing down. We should do the same with President Bush’s failed war.</p>
+      </block>
+      <block class="full_text">
+        <p>Hundreds of news articles and opinion pieces have described President Bush's decision to escalate the Iraq war as a ''Hail Mary pass.''</p>
+        <p>But that's the wrong metaphor.</p>
+        <p>Mr. Bush isn't Roger Staubach, trying to pull out a win for the Dallas Cowboys. He's Charles Keating, using other people's money to keep Lincoln Savings going long after it should have been shut down -- and squandering the life savings of thousands of investors, not to mention billions in taxpayer dollars, along the way.</p>
+        <p>The parallel is actually quite exact. During the savings and loan scandal of the 1980s, people like Mr. Keating kept failed banks going by faking financial success. Mr. Bush has kept a failed war going by faking military success.</p>
+        <p>The ''surge'' is just another stalling tactic, designed to buy more time.</p>
+        <p>Oh, and one of the favorite techniques used by the owners of savings and loan associations to generate phony profits -- it involved making high-interest loans to crooked or flaky real estate developers -- came to be known as the ''Texas strategy.''</p>
+        <p>What was the point of the Texas strategy? Bank owners were certainly gambling -- with other people's money, of course -- in the hope of a miraculous recovery that would bail out their negative balance sheets.</p>
+        <p>But the real point of the racket was a form of looting: as long as they could keep reporting high paper profits, S.&amp;L. owners could keep rewarding themselves with salaries, dividends and sweetheart business deals.</p>
+        <p>Mr. Keating paid himself a million dollars just weeks before his holding company collapsed.</p>
+        <p>Which brings us to Iraq. The administration has spent the last three years pretending that its splendid little war isn't a big disaster. There have been the bromides (we're making ''good progress''); the promises (we have a ''strategy for victory''); and, as always, attacks on the media for not reporting the good news from Iraq.</p>
+        <p>Who you gonna believe, the president or your lying eyes?</p>
+        <p>Now Mr. Bush has grudgingly sort- of admitted that things aren't going well -- but he says his ''new way forward'' will fix everything.</p>
+        <p>So it's still the Texas strategy: the war's architects are trying to keep their failed venture going as long as possible.</p>
+        <p>The Hail Mary aspect -- the off chance that somehow, things really will turn out all right -- is the least of their motivations. The real intent is a form of looting. I'm not talking mainly about old-fashioned war profiteering, although there is no question that profiteering is taking place on an epic scale. No, I'm saying that the hawks want to keep this war going because it's to their personal and political benefit.</p>
+        <p>True, Mr. Bush can't win another election with phony claims of success in Iraq, the way he did in 2004. But escalation buys him another year or two to claim that we're making progress -- and it gives him another chance to prove that he's the Decider, beyond accountability.</p>
+        <p>And as for pundits who promoted the war and are now trying to sell the surge: for a little while longer they can be Very Important People who have the president's ear.</p>
+        <p>Meanwhile, the nation pays the price. The heaviest burden -- in death, shattered bodies, broken families and ruined careers -- falls on those who serve. To find the personnel for the Bush escalation, the Pentagon must lengthen deployments in Iraq and shorten training time at home.</p>
+        <p>And the back-door draft has become a life sentence: there is no limit on the cumulative amount of time citizen-soldiers can be required to serve on active duty. Mama, don't let your children grow up to be reservists.</p>
+        <p>The rest of us will pay a financial price for the hundreds of billions squandered in Iraq and, more important, a price in reduced security.</p>
+        <p>Escalation won't bring victory in Iraq, but it might bring defeat in Afghanistan, which the administration will continue to neglect. And it has pushed the military to the breaking point.</p>
+        <p>Mr. Bush calls his critics ''irresponsible,'' saying that they don't have an alternative to his strategy. But they do: setting a timetable for withdrawal, so that we can cut our losses, and trying to save what can be saved. It isn't a strategy for victory because that's no longer an option. It's a strategy for acknowledging reality.</p>
+        <p>The lesson of the savings and loan scandal was that when a bank has failed, you shouldn't let the owner string you along with promises -- you should shut the thing down. We should do the same with Mr. Bush's failed war.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

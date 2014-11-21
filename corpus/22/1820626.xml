@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Safely Back Home in Louisiana, Playing It Safe</title>
+    <meta content="22card" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/22/crosswords/bridge/22card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820626"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Alder, Phillip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EFDE1F30F931A15752C0A9619C8B63" item-length="425" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Safely Back Home in Louisiana, Playing It Safe</hl1>
+        <hl2 class="online_headline">Safely Back Home in Louisiana, Playing It Safe</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+      <abstract>
+        <p>Phillip Alder bridge column on deal played at Louisiana Bridge Association daily duplicate; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>We all know of the destruction caused by Hurricane Katrina in 2005. Apart from its far more serious consequences, the Louisiana Bridge Association premises were severely damaged. The club had to relocate temporarily to the American Legion Hall in Harahan. But in October it reopened at 2709 Edenborn Avenue, Metairie, eight miles from downtown New Orleans.</p>
+        <p>The diagramed deal was played during one of the daily duplicates last month. John Brumfield of New Orleans (North) opened one club, being too strong for one no-trump but not strong enough for two no-trump. Carol Hoadley of New Orleans (East) overcalled one diamond in the modern style. (This bid had the advantage of indicating a good lead, but it consumed no bidding space and threatened to make partner's life difficult when a simple overcall can range from 8 to 18 high-card points.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In October the Louisiana Bridge Association reopened at 2709 Edenborn Avenue, Metairie, eight miles from downtown New Orleans.</p>
+      </block>
+      <block class="full_text">
+        <p>We all know of the destruction caused by Hurricane Katrina in 2005. Apart from its far more serious consequences, the Louisiana Bridge Association premises were severely damaged. The club had to relocate temporarily to the American Legion Hall in Harahan. But in October it reopened at 2709 Edenborn Avenue, Metairie, eight miles from downtown New Orleans.</p>
+        <p>The diagramed deal was played during one of the daily duplicates last month. John Brumfield of New Orleans (North) opened one club, being too strong for one no-trump but not strong enough for two no-trump. Carol Hoadley of New Orleans (East) overcalled one diamond in the modern style. (This bid had the advantage of indicating a good lead, but it consumed no bidding space and threatened to make partner's life difficult when a simple overcall can range from 8 to 18 high-card points.)</p>
+        <p>Bonita Gordon of Metairie (South) responded one spade. (Some would make a negative double, but most prefer that call to guarantee at least four-card length in both majors. A few would raise clubs, but we love majors and dislike minors.) Jeffrey Reilly of Harahan (West) raised pre-emptively to three diamonds. (With at least game-invitational values, he would have cue-bid two spades.)</p>
+        <p>North was under pressure with his rebid. Three no-trump would have worked well here, 10 tricks being certain for plus 630. But if West had the ace or king of diamonds, North rated to lose the first five tricks in three no-trump. So North, hoping his partner had five spades, jumped to four spades.</p>
+        <p>West defended well, leading the diamond jack and continuing the suit when declarer let him hold the first trick. How should Gordon have planned the play?</p>
+        <p>If the trumps were 3-3, declarer could win 11 tricks -- for plus 650 -- by ruffing, cashing the spade queen, playing a trump to the king on the board, ruffing the diamond queen, returning to the dummy with a club, pulling the remaining trumps and running the clubs. If the room was making three no-trump with an overtrick, that would have been required to get a good board.</p>
+        <p>But declarer knew that spades were unlikely to break 3-3 and -- correctly as it transpired -- judged that three no-trump would not be the normal contract. So she played safely for her contract, discarding heart losers from her hand on the second and third rounds of diamonds. South then had no trouble taking the last 10 tricks for plus 620. This was worth 11 match points out of 12 en route to victory in the event.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

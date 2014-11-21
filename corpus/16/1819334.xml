@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making a Public Spectacle</title>
+    <meta content="16ubn01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819334"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART, FILM"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E6DC1130F935A25752C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making a Public Spectacle</hl1>
+      </hedline>
+      <byline class="print_byline">By MELENA RYZIK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After advance publicity worthy of a Hollywood blockbuster, New York gets its own arty version of the drive-in tonight, when the exterior of MoMA's big new building becomes a giant (walk-up) movie screen. The artist Doug Aitken's film ''sleepwalkers'' shows five New York characters (including Donald Sutherland, Tilda Swinton, Chan Marshall and Seu Jorge) going about their daily lives in the city -- showering, commuting, performing -- all 30 feet tall. Filmed in the five boroughs, it is Mr. Aitken's tribute to the pace and synchronicity of our urban existence. ''I found the city to be electric, ultra-charged,'' this California artist said. ''Every shadow, fence, parking lot structure was fascinating to me. Probably because I was so immersed in this film, I saw the potential of everything.''</p>
+        <p>''Sleepwalkers,'' continues through Feb. 12. Daily, 5 to 10 p.m., at Museum of Modern Art, 11 West 53rd Street, (212) 708-9400. Best viewed from the sculpture garden or in front of the 53rd Street facade.</p>
+      </block>
+      <block class="full_text">
+        <p>After advance publicity worthy of a Hollywood blockbuster, New York gets its own arty version of the drive-in tonight, when the exterior of MoMA's big new building becomes a giant (walk-up) movie screen. The artist Doug Aitken's film ''sleepwalkers'' shows five New York characters (including Donald Sutherland, Tilda Swinton, Chan Marshall and Seu Jorge) going about their daily lives in the city -- showering, commuting, performing -- all 30 feet tall. Filmed in the five boroughs, it is Mr. Aitken's tribute to the pace and synchronicity of our urban existence. ''I found the city to be electric, ultra-charged,'' this California artist said. ''Every shadow, fence, parking lot structure was fascinating to me. Probably because I was so immersed in this film, I saw the potential of everything.''</p>
+        <p>''Sleepwalkers,'' continues through Feb. 12. Daily, 5 to 10 p.m., at Museum of Modern Art, 11 West 53rd Street, (212) 708-9400. Best viewed from the sculpture garden or in front of the 53rd Street facade.  ART, FILM</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

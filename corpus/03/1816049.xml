@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Switchover to Sandwiches</title>
+    <meta content="03swic" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816049"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Sandwiches</classifier>
+        <org class="indexing_service">Switch (NYC Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3DE1730F930A35752C0A9619C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Switchover to Sandwiches</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Manhattan restaurant Switch offers variety of panini sandwiches; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As career changes go, moving from creating ads for Quiznos Subs to opening a sandwich place is not so surprising. It's what John Gargiulo has done, opening Swich, 104 Eighth Avenue (15th Street).</p>
+        <p>The bright, Kelly green-trimmed storefront with tables has 14 panini presses, lined up at attention to receive various composed sandwiches and heat them in about five minutes. The Trojan Horse, with ground lamb, tomato, yogurt sauce and mint, and the tuna, with marinated artichokes and olive tapenade, are two winners. (But you will find a superior Cuban sandwich a few blocks north at Havana-Chelsea Luncheonette, 190 Eighth Avenue at 20th Street.)</p>
+      </block>
+      <block class="full_text">
+        <p>As career changes go, moving from creating ads for Quiznos Subs to opening a sandwich place is not so surprising. It's what John Gargiulo has done, opening Swich, 104 Eighth Avenue (15th Street).</p>
+        <p>The bright, Kelly green-trimmed storefront with tables has 14 panini presses, lined up at attention to receive various composed sandwiches and heat them in about five minutes. The Trojan Horse, with ground lamb, tomato, yogurt sauce and mint, and the tuna, with marinated artichokes and olive tapenade, are two winners. (But you will find a superior Cuban sandwich a few blocks north at Havana-Chelsea Luncheonette, 190 Eighth Avenue at 20th Street.)</p>
+        <p>The sandwiches ($5.95 to $8.95) are often assembled in advance but custom combinations can also be ordered. Some of the sandwich ingredients are also sold as salads: (212) 488-4800.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Maj-Britt Nilsson, 82, Actress Known For Bergman Films</title>
+    <meta content="21nilsson" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Theater; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/arts/21nilsson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820530"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Nilsson, Maj-Britt</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Sweden</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <location class="online_producer">Sweden</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E0DF1F30F932A15752C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Maj-Britt Nilsson, 82, Actress Known For Bergman Films</hl1>
+        <hl2 class="online_headline">Maj-Britt Nilsson, 82, Actress Known for Bergman Films, Dies</hl2>
+      </hedline>
+      <abstract>
+        <p>Maj-Britt Nilsson, Swedish movie actress of 1940's and 1950's who starred in three of Ingmar Bergman's early films, dies at age 82; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maj-Britt Nilsson, a Swedish movie actress of the 1940s and '50s who starred in three of Ingmar Bergman's early films, died on Dec. 19 in Cannes, France. She was 82.</p>
+        <p>Ms. Nilsson's death, which was not widely reported outside Sweden, was confirmed by Jon Asp, executive editor of the online publication Ingmar Bergman Face to Face. No cause was announced.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Maj-Britt Nilsson was a Swedish movie actress of the 1940s and ’50s who starred in three of Ingmar Bergman’s early films.</p>
+      </block>
+      <block class="full_text">
+        <p>Maj-Britt Nilsson, a Swedish movie actress of the 1940s and '50s who starred in three of Ingmar Bergman's early films, died on Dec. 19 in Cannes, France. She was 82.</p>
+        <p>Ms. Nilsson's death, which was not widely reported outside Sweden, was confirmed by Jon Asp, executive editor of the online publication Ingmar Bergman Face to Face. No cause was announced.</p>
+        <p>Ms. Nilsson was best known for her leading role in Mr. Bergman's 1951 film ''Summer Interlude.'' (Titled ''Sommarlek'' in Swedish, the film was sometimes known as ''Illicit Interlude'' in English.) She also collaborated with Mr. Bergman on ''Till Glädje'' (''To Joy,'' 1950) and ''Kvinnors Väntan'' (''Secrets of Women'' or ''Waiting Women,'' 1952).</p>
+        <p>Maj-Britt Nilsson was born in Stockholm on Dec. 11, 1924, and trained at the drama school of the Royal Dramatic Theater there. In 1951 she married Per Gerhard, a theater director. Ms. Nilsson is survived by her husband.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

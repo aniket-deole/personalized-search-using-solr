@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; San Francisco Opera Names Music Director</title>
+    <meta content="10arts-4" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817852"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Opera</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">San Francisco Opera</org>
+        <person class="indexing_service">Wakin, Danielj</person>
+        <person class="indexing_service">Luisotti, Nicola</person>
+        <person class="indexing_service">Runnicles, Donald</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFDD1230F933A25752C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; San Francisco Opera Names Music Director</hl1>
+      </hedline>
+      <byline class="print_byline">By DANIEL J. WAKIN; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Wakin, Danielj</byline>
+      <abstract>
+        <p>Nicola Luisotti is named music director of San Francisco Opera for 2009-2010 season, replacing Donald Runnicles (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nicola Luisotti, an up-and-coming Italian conductor, will become the new music director of the San Francisco Opera, the company said yesterday. Mr. Luisotti, 45, will assume the job for the 2009-10 season. He will take over for Donald Runnicles, whose contract expires the previous season. Mr. Luisotti, who early in his career was a staff conductor at the Teatro alla Scala in Milan, recently made debuts with the Metropolitan Opera, Seattle Opera and Los Angeles Opera.</p>
+        <p>DANIEL J. WAKIN</p>
+      </block>
+      <block class="full_text">
+        <p>Nicola Luisotti, an up-and-coming Italian conductor, will become the new music director of the San Francisco Opera, the company said yesterday. Mr. Luisotti, 45, will assume the job for the 2009-10 season. He will take over for Donald Runnicles, whose contract expires the previous season. Mr. Luisotti, who early in his career was a staff conductor at the Teatro alla Scala in Milan, recently made debuts with the Metropolitan Opera, Seattle Opera and Los Angeles Opera.</p>
+        <p>DANIEL J. WAKIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

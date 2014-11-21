@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stem Cell Research: When Does Life Begin?</title>
+    <meta content="l25stem" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821318"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Stem Cells</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Fetal Tissue</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <person class="indexing_service">Blass, John P (Dr)</person>
+        <person class="indexing_service">Leeman, Cavin P (Dr)</person>
+        <person class="indexing_service">Levin, Yuval</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stem Cells</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E0DA163FF936A15752C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stem Cell Research: When Does Life Begin?</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters comment on Jan 19 Yuval Levin Op-Ed article on stem cell research; Dr Cavin P Leeman says many embryos that would be used in research would otherwise be destroyed; says question is will that destruction be in vain or will they further human knowledge and, ultimately, health and well-being; Dr John P Blass says claim that human life begins when embryo is created is religious conviction, not biological fact</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Middle Ground for Stem Cells,'' by Yuval Levin (Op-Ed, Jan.19):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Middle Ground for Stem Cells,'' by Yuval Levin (Op-Ed, Jan.19):</p>
+        <p>Mr. Levin, a former executive director of the President's Council on Bioethics, doesn't mention a critical fact: a great many embryos that could supply stem cells for research are left over from efforts at assisted reproduction.</p>
+        <p>These embryos will be destroyed in any case. The choice is whether their destruction will be in vain or will further human knowledge and, ultimately, human health and wellbeing.</p>
+        <p>CAVIN P. LEEMAN, M.D.  New York, Jan. 19, 2007</p>
+        <p>To the Editor:</p>
+        <p>Yuval Levin's claim that ''human life begins when an embryo is created'' is a religious conviction, not, as he claims, a ''simple and uncontroversial biological fact.''</p>
+        <p>There is no consensus among biologists that a fertilized cell is alive in a sense that an unfertilized egg or unused sperm is not.</p>
+        <p>Nor is there a consensus about whether a group of cells without even a rudimentary nervous system is in any sense human.</p>
+        <p>There are no compelling experimental data to decide the nebulous issue of when ''human'' life begins. Mr. Levin uses scientific terminology, but his assertions are scientifically meaningless.</p>
+        <p>JOHN P. BLASS, M.D.  White Plains, Jan. 19, 2007</p>
+        <p>The writer is emeritus professor of neurology, neuroscience and medicine,Weill Cornell Medical College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

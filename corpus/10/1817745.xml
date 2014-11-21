@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cookies With a Bit Of Swagger</title>
+    <meta content="10cook" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817745"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bakeries and Baked Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Cookies</classifier>
+        <location class="indexing_service">Chicago (Ill)</location>
+        <org class="indexing_service">Chocolate Gourmet (Chicago, Ill, Company)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bakeries and Baked Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E7DF1230F933A25752C0A9619C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cookies With a Bit Of Swagger</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Damn Good Cookies from Chicago company Chocolate Gourmet come in five flavors; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Damn Good Cookies do not hide behind false modesty or a fancy box, nor should they. The buttery cookies come in five varieties: sugar with raspberry or macadamia nut; chubby chocolate with a ganache filling; chocolate chip with pecans; and coconut with powdered sugar. Rugelach in flaky hazelnut-chocolate, apricot and cherry flavors are irresistible, too.</p>
+      </block>
+      <block class="full_text">
+        <p>Damn Good Cookies do not hide behind false modesty or a fancy box, nor should they. The buttery cookies come in five varieties: sugar with raspberry or macadamia nut; chubby chocolate with a ganache filling; chocolate chip with pecans; and coconut with powdered sugar. Rugelach in flaky hazelnut-chocolate, apricot and cherry flavors are irresistible, too.</p>
+        <p>The company is a division of Chocolate Gourmet in Chicago (chocolategourmet.com). Cookies are sold by the box, with some of each flavor, starting at $20 for 20. Single-flavor boxes, with 14 to 24 pieces are $10 to $18; rugelach are $20 for 12 and $35 for 24, all plus shipping, at the Web site or (312) 850-1051.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

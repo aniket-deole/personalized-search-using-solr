@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BRAIN GAMES</title>
+    <meta content="19bkids" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070120T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1819794"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPARE TIMES | JAN. 19 - JAN. 25"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4D61130F93AA25752C0A9619C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BRAIN GAMES</hl1>
+      </hedline>
+      <byline class="print_byline">By LAUREL GRAEBER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's easy for adults to feel highly knowledgeable when visiting a children's museum. After all, we've already learned how to read, write, do math and (well, most of the time) play nicely with others. But don't expect to experience such self-assurance at ''Brain Games,'' the latest exhibition at the Children's Museum of Manhattan. Visitors of any generation are likely to respond to this show with intrigued curiosity. Really a combination of three exhibitions -- ''Brain Matters,'' ''Brain Teasers'' and ''Brain Teasers 2,'' all from the Oregon Museum of Science and Industry -- ''Brain Games'' may make you feel like a self-conscious couch potato who has just walked into a gleaming new gym. This exhibition will force you -- or at least your neurons -- to run laps. But children, particularly those of the intended age (over 5), embrace the challenge. ''They'll spend 10 minutes on a puzzle,'' Emily Farmer, the museum's exhibits production coordinator, said. ''It's become something of a quiet place.'' The 40 teasers range from problems reminiscent of sudoku (arranging numbers in patterns so that any row, in any direction, results in a certain sum) to spatial puzzles (fitting six wooden blocks in a box so that none stick out) to hypothetical situations requiring logic. The ''Brain Matters'' section shows just how and why this three-pound organ is equal to such tasks. You can look at a freeze-dried brain through a magnifying lens (above), try experiments that show how the brain learns and switch on light displays that mimic neural pathways. You'll also read that neurons can send messages at speeds as high as 260 miles an hour -- even if, on a bad morning, yours feel stuck in the slow lane. (Through mid-April at the Tisch Building, 212 West 83rd Street, 212-721-1223, cmom.org; $9; $6 for 65+. Open Tuesdays through Fridays, 10 a.m. to 5 p.m.)</p>
+        <p>LAUREL GRAEBER</p>
+      </block>
+      <block class="full_text">
+        <p>It's easy for adults to feel highly knowledgeable when visiting a children's museum. After all, we've already learned how to read, write, do math and (well, most of the time) play nicely with others. But don't expect to experience such self-assurance at ''Brain Games,'' the latest exhibition at the Children's Museum of Manhattan. Visitors of any generation are likely to respond to this show with intrigued curiosity. Really a combination of three exhibitions -- ''Brain Matters,'' ''Brain Teasers'' and ''Brain Teasers 2,'' all from the Oregon Museum of Science and Industry -- ''Brain Games'' may make you feel like a self-conscious couch potato who has just walked into a gleaming new gym. This exhibition will force you -- or at least your neurons -- to run laps. But children, particularly those of the intended age (over 5), embrace the challenge. ''They'll spend 10 minutes on a puzzle,'' Emily Farmer, the museum's exhibits production coordinator, said. ''It's become something of a quiet place.'' The 40 teasers range from problems reminiscent of sudoku (arranging numbers in patterns so that any row, in any direction, results in a certain sum) to spatial puzzles (fitting six wooden blocks in a box so that none stick out) to hypothetical situations requiring logic. The ''Brain Matters'' section shows just how and why this three-pound organ is equal to such tasks. You can look at a freeze-dried brain through a magnifying lens (above), try experiments that show how the brain learns and switch on light displays that mimic neural pathways. You'll also read that neurons can send messages at speeds as high as 260 miles an hour -- even if, on a bad morning, yours feel stuck in the slow lane. (Through mid-April at the Tisch Building, 212 West 83rd Street, 212-721-1223, cmom.org; $9; $6 for 65+. Open Tuesdays through Fridays, 10 a.m. to 5 p.m.)</p>
+        <p>LAUREL GRAEBER  SPARE TIMES | JAN. 19 - JAN. 25</p>
+        <p>Correction:  January 20, 2007, Saturday  An entry in the Spare Times for Children listing in Weekend yesterday, about the ''Brain Games'' exhibition at the Children's Museum of Manhattan, misstated the days the museum is open. It is open Tuesdays through Sundays, 10 a.m. to 5 p.m., not Tuesdays through Fridays.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 20, 2007, Saturday</p>
+        <p>An entry in the Spare Times for Children listing in Weekend yesterday, about the ''Brain Games'' exhibition at the Children's Museum of Manhattan, misstated the days the museum is open. It is open Tuesdays through Sundays, 10 a.m. to 5 p.m., not Tuesdays through Fridays.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Flowers of Evil'</title>
+    <meta content="Letters.t-6" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1818607"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Garron, David C</person>
+        <person class="indexing_service">Clover, Joshua</person>
+        <person class="indexing_service">Waldrop, Keith</person>
+        <person class="indexing_service">Baudelaire, Charles (1821-1867)</person>
+        <person class="indexing_service">Asekoff, Louis</person>
+        <object.title class="indexing_service">Flowers of Evil (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E0DA1430F937A25752C0A9619C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Flowers of Evil'</hl1>
+      </hedline>
+      <abstract>
+        <p>David C Garron and Louis Asekoff letters comments on Joshua Clover Dec 31 review of Keith Waldrop translation of Baudelaire's Flowers of Evil</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Joshua Clover's review of Keith Waldrop's translation of Baudelaire's ''Flowers of Evil'' (Dec. 31) consists of 11 paragraphs. Nine of these summarize Baudelaire's life and poetry and only two discuss the translation at all, if only briefly. The ratio might well be reversed, so that readers might have a better idea of the translation and its relation to the originals.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Joshua Clover's review of Keith Waldrop's translation of Baudelaire's ''Flowers of Evil'' (Dec. 31) consists of 11 paragraphs. Nine of these summarize Baudelaire's life and poetry and only two discuss the translation at all, if only briefly. The ratio might well be reversed, so that readers might have a better idea of the translation and its relation to the originals.</p>
+        <p>David C. Garron  Wilmette, Ill.</p>
+        <p>To the Editor</p>
+        <p>Thank you for publishing Joshua Clover's brilliant review of Keith Waldrop's translation of Baudelaire. It was a delight to read such a thorough and knowledgeable consideration of poetry in the Book Review.</p>
+        <p>Louis Asekoff  Tivoli, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

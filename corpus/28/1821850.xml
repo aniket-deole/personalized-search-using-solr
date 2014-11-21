@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BURSTEIN, ELEANOR MAE COHEN</title>
+    <meta content="dn012807" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821850"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BURSTEIN, ELEANOR MAE COHEN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3D71F3AF93BA15752C0A9619C8B63" item-length="45" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BURSTEIN, ELEANOR MAE COHEN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BURSTEIN--Eleanor Mae Cohen, 70, of Forest Hills, NY, died January 25. NYC Administrative Law Judge. Loving mother to David, Daniel, Jonathan, Michael, and Joshua. Loving grandmother to Emma, Abigail, and Noah. Loving sister of Robert. Funeral Sunday 10 am Schwartz Bros 114-03 Queens Blvd.</p>
+      </block>
+      <block class="full_text">
+        <p>BURSTEIN--Eleanor Mae Cohen, 70, of Forest Hills, NY, died January 25. NYC Administrative Law Judge. Loving mother to David, Daniel, Jonathan, Michael, and Joshua. Loving grandmother to Emma, Abigail, and Noah. Loving sister of Robert. Funeral Sunday 10 am Schwartz Bros 114-03 Queens Blvd.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

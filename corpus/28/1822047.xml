@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mollie Hanna, Thomas Lang</title>
+    <meta content="28HANNA" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822047"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Hanna, Mary Anne (Mary Anne Lang)</person>
+        <person class="indexing_service">Lang, Thomas Justin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E4DC173FF93BA15752C0A9619C8B63" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mollie Hanna, Thomas Lang</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mary Anne Hanna, a daughter of Mary Anne Duffy Hanna and Howard William Hanna III of Pittsburgh, was married last evening to Thomas Justin Lang, a son of Aimee J. Lang of Deerfield, Ill., and Richard A. Lang of Chicago. Rabbi Emanuel Baum officiated at the Heinz Memorial Chapel at the University of Pittsburgh. The Very Rev. Drew Morgan, a Roman Catholic priest, took part in the ceremony.</p>
+        <p>Mrs. Lang, 26, is known as Mollie. She works in Manhattan as the marketing manager for the Americas at Small Luxury Hotels of the World, a marketing and sales association based in Leatherhead, England. She graduated from Syracuse University.</p>
+      </block>
+      <block class="full_text">
+        <p>Mary Anne Hanna, a daughter of Mary Anne Duffy Hanna and Howard William Hanna III of Pittsburgh, was married last evening to Thomas Justin Lang, a son of Aimee J. Lang of Deerfield, Ill., and Richard A. Lang of Chicago. Rabbi Emanuel Baum officiated at the Heinz Memorial Chapel at the University of Pittsburgh. The Very Rev. Drew Morgan, a Roman Catholic priest, took part in the ceremony.</p>
+        <p>Mrs. Lang, 26, is known as Mollie. She works in Manhattan as the marketing manager for the Americas at Small Luxury Hotels of the World, a marketing and sales association based in Leatherhead, England. She graduated from Syracuse University.</p>
+        <p>Her father works in Pittsburgh as the chairman and the chief executive of Howard Hanna Real Estate Services, a real estate brokerage and mortgage banking firm with offices in New York, Ohio, Pennsylvania and West Virginia. The business is named for the bride's paternal grandfather, who also lives in Pittsburgh. The bride's father is the vice chairman of the board for the Children's Hospital of Pittsburgh. Her mother is on the board of Catholic Charities of Pittsburgh.</p>
+        <p>Mr. Lang, 25, is the marketing manager in Purchase, N.Y., for Eos Airlines, which operates between New York and London. He graduated from the University of Wisconsin and received a master's in journalism from Columbia.</p>
+        <p>His mother is a teaching volunteer at the Chicago Children's Museum. His father is a partner in McDermott Will &amp; Emery, a law firm in Chicago.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>HOME AWAY: Online, Marketing and Kvetching</title>
+    <meta content="17gh-home" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819545"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Home Away</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E7DB1E30F934A25752C0A9619C8B63" item-length="705" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>HOME AWAY: Online, Marketing and Kvetching</hl1>
+      </hedline>
+      <byline class="print_byline">By AMY GUNDERSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When promoting his three-bedroom home in Ormond Beach, Fla., Seth Young leaves few corners of the Internet untouched.</p>
+        <p>The house, situated across the street from the beach, has its own Web site, ormondvacationhome.com, and is listed on several other sites that list vacation rentals by owner.</p>
+      </block>
+      <block class="full_text">
+        <p>When promoting his three-bedroom home in Ormond Beach, Fla., Seth Young leaves few corners of the Internet untouched.</p>
+        <p>The house, situated across the street from the beach, has its own Web site, ormondvacationhome.com, and is listed on several other sites that list vacation rentals by owner.</p>
+        <p>But recently Mr. Young tried another way to promote his home: employing social networking and video-sharing sites. He created a page on MySpace, the social networking site, for his beach house; under About Me he listed fishing off the Florida coast and attending NASCAR races in nearby Daytona Beach as some of his interests. He also put together a one-minute video of the property, which he posted on YouTube, the video-sharing Web site. ''YouTube has become my default place to find video, and I already had a personal MySpace page to network,'' Mr. Young said, ''so it seemed natural to create one for the beach house.''</p>
+        <p>The Web frontier for vacation-home owners is vast and continuing to grow as they tap into new resources to market their properties. And networking Web sites can offer a support network for owners navigating the apparently bump-filled rental market.</p>
+        <p>''When people are looking to rent a vacation home they really want to feel like they are inside it and that they know the home,'' said Steve Gilbert, who along with his wife, Beth, owns a four-bedroom 2,200-square-foot home in Bethany Beach, Del. ''Making a video is so much better than trying to put all that into words.''</p>
+        <p>Mr. Gilbert has two videos, both on YouTube and Google Video: One showcases the house and some of its features, like the brand of mattresses in the home. The other focuses on the community, Bear Trap Dunes, which has three golf courses and two swimming pools. Both videos include a link to the Web site for the house, bethanybeachhomerentals.com.</p>
+        <p>From a technical standpoint, YouTube makes it easy to post a video on a personal site, too, Mr. Gilbert said. ''We were trying to show a virtual tour on our Web site but weren't able to do it,'' because of technical hurdles, he said. But posting a video solved this problem.</p>
+        <p>Nevertheless, any vacation-home owner is likely to confess that marketing the house to renters is only half the battle. And, perhaps the easy half, once you read through the postings on Lay my Hat (www.laymyhat.com). The site allows vacation homeowners to hash out the apparently neverending string of problems that arise when renting out their second home.</p>
+        <p>Owners vent about problem guests, like those who complain about the lack of ketchup and mayonnaise in the refrigerator or refuse to obey the no smoking policies. Some get advice on larger issues, like what to do when an hour before a renter arrives the electricity in the house fails. The solution, wrote one poster, is to light candles and ''gets lots of drinks'' for the guests.</p>
+        <p>''There are some terrible things on there,'' said Paolo De Paolis, the founder of Lay My Hat and owner of two vacation homes in France. ''One post told about how a refrigerator was stolen. Not a small one. It was a big one.''</p>
+        <p>European homeowners dominate the discussion on Lay My Hat, but there is a section dedicated to American property owners, who address, among other topics, the difficulty in renting out homes in Orlando because of the oversupply of rental properties. Additionally, Yahoo Groups has a vacation rental group that offers advice on the rental market.</p>
+        <p>Mr. De Paolis started Lay My Hat in 1999 as a place for vacation home owners to get advice on improving their Web sites. It quickly morphed into a hub for owners to trade tips on everything from when to withhold a security deposit to how to remove red wine stains.</p>
+        <p>And often it is those small details that can be the most confounding. In fact one of the most popular topics on Lay My Hat is about towels, with some 247 posts that have been viewed more than 15,000 times. ''It's called 'How Many Towels,' '' said Mr. De Paolis, noting that in the vacation home rental world, this is one of the few certainties. ''Guests, somehow, will always ruin towels.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

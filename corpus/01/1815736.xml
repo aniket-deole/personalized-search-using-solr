@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SYMINGTON, MAUD LEE</title>
+    <meta content="dn010107" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815736"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SYMINGTON, MAUD LEE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EFDE1E3AF932A35752C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SYMINGTON, MAUD LEE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SYMINGTON--Maud Lee, passed away on December 28, 2006 at the age of 72 in her home from complications stemming from Fibromialgia and COPD. She is survived by her son and daughter Tim and Sarah Ives, her grandchildren Grace, Lily and Rowan Ives and her sister Sarah Meyer. Maud was born and raised in Short Hills, NJ. From there her life took her through NYC, Palm Beach, FL, and Cooperstown, NY. Some of Maud's happiest days were spent raising her children in Dorset, Vermont in the 1970's. She spent the 1980's in Bedford, NY and after a divorce in 1990 moved to Scottsdale, AZ. In Scottsdale she pursued her love of poetry and connected with the mountains, new and old friends and the lore of the Southwest. We will always remember her humor and her love of life. There will be a memorial service for her in the spring in Cooperstown.</p>
+      </block>
+      <block class="full_text">
+        <p>SYMINGTON--Maud Lee, passed away on December 28, 2006 at the age of 72 in her home from complications stemming from Fibromialgia and COPD. She is survived by her son and daughter Tim and Sarah Ives, her grandchildren Grace, Lily and Rowan Ives and her sister Sarah Meyer. Maud was born and raised in Short Hills, NJ. From there her life took her through NYC, Palm Beach, FL, and Cooperstown, NY. Some of Maud's happiest days were spent raising her children in Dorset, Vermont in the 1970's. She spent the 1980's in Bedford, NY and after a divorce in 1990 moved to Scottsdale, AZ. In Scottsdale she pursued her love of poetry and connected with the mountains, new and old friends and the lore of the Southwest. We will always remember her humor and her love of life. There will be a memorial service for her in the spring in Cooperstown.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

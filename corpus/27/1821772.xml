@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reserved Seats, and Tone, as a New Defense Chief Meets the Press</title>
+    <meta content="27gates" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/27/washington/27gates.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821772"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <person class="indexing_service">Cloud, David S</person>
+        <person class="indexing_service">Gates, Robert M (Sec)</person>
+        <person class="indexing_service">Rumsfeld, Donald H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Defense Department</org>
+        <person class="online_producer">Gates, Robert M</person>
+        <person class="online_producer">Rumsfeld, Donald H</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E1DA173FF934A15752C0A9619C8B63" item-length="393" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reserved Seats, and Tone, as a New Defense Chief Meets the Press</hl1>
+        <hl2 class="online_headline">Reserved Seats, and Tone, as a New Defense Chief Meets the Press</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID S. CLOUD</byline>
+      <byline class="normalized_byline">Cloud, David S</byline>
+      <dateline>WASHINGTON, Jan. 26</dateline>
+      <abstract>
+        <p>Defense Sec Robert M Gates holds his first Pentagon press conference, and it is nothing like those of his predecessor, Donald H Rumsfeld; Gates answers questions more concisely and without scoffing, teasing or smirking (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Defense Secretary Robert M. Gates held his first Pentagon press conference on Friday, and it was nothing like those of his predecessor, Donald H. Rumsfeld.</p>
+        <p>Over his six years in office, Mr. Rumsfeld's briefings became something like a long-running Broadway variety show, as entertaining as they were familiar.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Defense Secretary Robert M. Gates’s answers were generally more concise than those given by Donald H. Rumsfeld and free of scoffing, teasing or smirking.</p>
+      </block>
+      <block class="full_text">
+        <p>Defense Secretary Robert M. Gates held his first Pentagon press conference on Friday, and it was nothing like those of his predecessor, Donald H. Rumsfeld.</p>
+        <p>Over his six years in office, Mr. Rumsfeld's briefings became something like a long-running Broadway variety show, as entertaining as they were familiar.</p>
+        <p>Mr. Rumsfeld invariably stood behind the lectern in the Pentagon briefing room, often on live television, gleefully sparring with reporters, challenging the premises of their questions, and usually frustrating all efforts to elicit hard information.</p>
+        <p>Mr. Gates seemed to go out of his way to do things differently. Reporters were escorted to his personal conference room on the Pentagon's third floor, which prevented the proceedings from being televised live, though television cameras still recorded it for later broadcast. Seats around the table were reserved for some news organizations, while the rest of the roughly 30 reporters and cameramen who attended were told by press aides to stand in the corner.</p>
+        <p>Mr. Gates opened the session by explaining why he was shunning the Pentagon briefing room. ''I would prefer a more informal setting than the dais and the big sign behind me and so on,'' he said.</p>
+        <p>The crowded conference room was an arrangement that, he acknowledged, ''probably cramps some of you.''</p>
+        <p>For the next half-hour, Mr. Gates answered questions. Very often the substance of his replies was not unlike what Mr. Rumsfeld might have said. Like his predecessor, he even challenged the premise of a question or two. But his answers were generally more concise and free of scoffing, teasing or smirking.</p>
+        <p>''I have no idea,'' Mr. Gates said in response to a question about the number of Iranian operatives in Iraq. If posed to Mr. Rumsfeld, such a question might have prompted a long discourse about ''known knowns'' and ''known unknowns'' and ''unknown unknowns,'' the subtext of which was that the press was slightly ridiculous for even asking.</p>
+        <p>Nor were there any quotes as memorable as Mr. Rumsfeld's riposte that ''stuff happens,'' when asked at a 2003 briefing about looting in Baghdad.</p>
+        <p>But, by the end, Mr. Gates seemed happy with how his first formal meeting with the Pentagon press corps had gone, even while some reporters grumbled about not being able to sit down. ''Maybe do this where there's more room next time,'' he said, standing up to leave.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

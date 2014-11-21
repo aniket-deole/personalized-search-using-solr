@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KRAAR, RONALD</title>
+    <meta content="dn011907" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819772"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KRAAR, RONALD</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DD1F3AF93AA25752C0A9619C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KRAAR, RONALD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KRAAR--Ronald. The leadership and staff of the American Committee for the Weizmann Institute of Science mourn the passing of Dr. Ronald Kraar, beloved brother of our Executive Vice President Martin Kraar. We salute Ronald Kraar's distinguished career and devotion to his patients in his optometric practice. He was a wonderful brother, husband, father, and proud grandfather, and will be missed deeply by family and friends. We send heartfelt condolences to his wife Jeannette, to Marty, and to the entire family. As Ron's life was a blessing, so may his memory be.</p>
+      </block>
+      <block class="full_text">
+        <p>KRAAR--Ronald. The leadership and staff of the American Committee for the Weizmann Institute of Science mourn the passing of Dr. Ronald Kraar, beloved brother of our Executive Vice President Martin Kraar. We salute Ronald Kraar's distinguished career and devotion to his patients in his optometric practice. He was a wonderful brother, husband, father, and proud grandfather, and will be missed deeply by family and friends. We send heartfelt condolences to his wife Jeannette, to Marty, and to the entire family. As Ron's life was a blessing, so may his memory be.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Village Seeks to Hold Election Despite Lawsuit</title>
+    <meta content="28weweekWC-1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822191"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Hispanic-Americans</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <location class="indexing_service">Port Chester (NY)</location>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Whitaker, Barbara</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E7DF143FF93BA15752C0A9619C8B63" item-length="416" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Village Seeks to Hold Election Despite Lawsuit</hl1>
+      </hedline>
+      <byline class="print_byline">By BARBARA WHITAKER</byline>
+      <byline class="normalized_byline">Whitaker, Barbara</byline>
+      <abstract>
+        <p>Officials in Port Chester, NY, contend that suit filed by Justice Department claiming that town's at-large voting system unfairly diminishes Hispanic participation is based on faulty data and should not force delay in Board of Trustees elections scheduled for March (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal lawsuit claiming that Port Chester's at-large voting system unfairly diminishes Hispanic participation is based on faulty data and should not force a delay in Board of Trustees elections scheduled for March, village officials argued in court papers last week.</p>
+        <p>The lawsuit, filed by the Justice Department on Dec. 15, charges that the village's voting system violates the Voting Rights Act and seeks an injunction that could postpone the March elections. The lawsuit pointed out that even though 46 percent of the village's population, and 21.9 percent of its voting-age citizens, are Hispanic, no Hispanic person has been elected to public office.</p>
+      </block>
+      <block class="full_text">
+        <p>A federal lawsuit claiming that Port Chester's at-large voting system unfairly diminishes Hispanic participation is based on faulty data and should not force a delay in Board of Trustees elections scheduled for March, village officials argued in court papers last week.</p>
+        <p>The lawsuit, filed by the Justice Department on Dec. 15, charges that the village's voting system violates the Voting Rights Act and seeks an injunction that could postpone the March elections. The lawsuit pointed out that even though 46 percent of the village's population, and 21.9 percent of its voting-age citizens, are Hispanic, no Hispanic person has been elected to public office.</p>
+        <p>In its response, filed last Wednesday, the village claims that the department's proposal to create six districts, including a minority district to improve Hispanic representation, is flawed, most notably because that district would have only eight Hispanic citizens over the minimum necessary for the government to prove its case.</p>
+        <p>''That's less than a baseball team,'' said Anthony Piscionere, the lawyer representing the village.</p>
+        <p>The government's estimate of the Hispanic population in the proposed district has a margin of error that would be greater than eight people, even according to the government's own experts, he said.</p>
+        <p>''Before the Department of Justice brought this lawsuit, we told the federal government that their data was bad,'' Mr. Piscionere said. ''Now only after the preliminary depositions of the government's experts do we absolutely confirm the profound weakness of their case.''</p>
+        <p>The village also contends that the creation of the minority district is unfair because it is predicated on race only, and it denies the government's contention that the village discriminates.</p>
+        <p>The response also says that the three criteria the government needs to prove its case were not met, including that the minority group is politically cohesive and that the majority votes as a bloc, enabling it to defeat minority candidates.</p>
+        <p>Officials in the United States Attorney's Office said they do not comment on pending cases. A hearing is scheduled to begin Feb. 12.</p>
+        <p>The government's suit has led Assemblyman Peter M. Rivera, a Democrat from the Bronx and chairman of the Assembly's Puerto Rican/Hispanic Task Force, to call for a statewide ban on at-large elections by fall 2009. Some 1,500 municipalities would be affected.</p>
+        <p>Mr. Rivera announced his proposal outside the courthouse in White Plains days after the Justice Department filed its case. With him was Cesar Ruiz, the Hispanic resident whose unsuccessful run for village trustee in 2001 helped prompt the government's attention.</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

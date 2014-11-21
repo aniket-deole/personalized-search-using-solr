@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>G.I.'s in a Tank, Swapping Life Stories In Song</title>
+    <meta content="17part" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/17/theater/reviews/17part.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819400"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THEATER REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Genzlinger, Neil</person>
+        <person class="indexing_service">Zimet, Paul</person>
+        <person class="indexing_service">Roseto, Joe</person>
+        <person class="indexing_service">Badgett, Will</person>
+        <object.title class="indexing_service">Party Time (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <org class="online_producer">Talking Band</org>
+        <object.title class="online_producer">Party Time (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E3D71030F934A25752C0A9619C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>G.I.'s in a Tank, Swapping Life Stories In Song</hl1>
+        <hl2 class="online_headline">G.I.’s in a Tank, Swapping Life Stories in Song</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+      <abstract>
+        <p>Neil Genzlinger reviews Paul Zimet multimedia theater show Party Time, starring Joe Roseto and Will Badgett; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Party Time'' is an aggressively innovative show with attention-grabbing video, an imposing soundscape and other trappings generally associated with the elusive cutting edge of theater. Yet not far into it you come to an incongruous realization: this is nothing but an old-fashioned two-guys-in-a-foxhole story, with a tank replacing the foxhole and the desert replacing the battlefields of Europe.</p>
+        <p>This compact work, by the Talking Band, is a sort of condensed rock-and-electronica musical with a video backdrop. Paul Zimet, who wrote the piece, went by the old polar-opposites formula in choosing his two soldiers: Sal (Joe Roseto) is white and from Brooklyn; Frankie (Will Badgett) is black and from Oklahoma.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This aggressively innovative show, with attention-grabbing video, an imposing soundscape and other trappings, is nothing but an old-fashioned two-guys-in-a-foxhole story.</p>
+      </block>
+      <block class="full_text">
+        <p>''Party Time'' is an aggressively innovative show with attention-grabbing video, an imposing soundscape and other trappings generally associated with the elusive cutting edge of theater. Yet not far into it you come to an incongruous realization: this is nothing but an old-fashioned two-guys-in-a-foxhole story, with a tank replacing the foxhole and the desert replacing the battlefields of Europe.</p>
+        <p>This compact work, by the Talking Band, is a sort of condensed rock-and-electronica musical with a video backdrop. Paul Zimet, who wrote the piece, went by the old polar-opposites formula in choosing his two soldiers: Sal (Joe Roseto) is white and from Brooklyn; Frankie (Will Badgett) is black and from Oklahoma.</p>
+        <p>The men are lost in the desert (presumably in Iraq, though there are no overt references), their tank's high-tech gear having failed. There's not much mystery about what's going to happen, since this is an old playbook: the two will share personal revelations, and ultimately one will go bonkers.</p>
+        <p>The presentation, though, is arresting. Kit Fitzgerald's video mixes scenic images, clips of tanks rolling across sand and gruesome scenes of some battle's aftermath. The men mostly sing their stories, to music by Peter Gordon, letting the rising tension show in small ways: Sal screams at Frankie for shooting a lizard, seeing in the animal's vulnerability a metaphor for their own.</p>
+        <p>''Party Time'' has jolting moments and beautiful ones, but it doesn't really add to our understanding of what soldiers today experience. On the contrary, by falling back on an old model of buddies in peril in its effort to depict modern warfare, it only underscores how little we know about what it's like to be on the ground in Iraq, facing a poorly understood enemy.</p>
+        <p>''Party Time'' continues through Sunday at La MaMa E.T.C., 74A East Fourth Street, East Village; (212) 475-7710 or lamama.org.</p>
+        <p>THEATER REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

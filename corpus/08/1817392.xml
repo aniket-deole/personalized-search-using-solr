@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Biden Joins List of Presidential Contenders</title>
+    <meta content="08biden" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817392"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <person class="indexing_service">Biden, Joseph R Jr (Sen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E2DB1530F93BA35752C0A9619C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Biden Joins List of Presidential Contenders</hl1>
+      </hedline>
+      <dateline>WASHINGTON, Jan. 7</dateline>
+      <abstract>
+        <p>Sen Joseph R Biden Jr of Delaware announces plans to run for president in 2008; is fourth Democrat to enter field (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Senator Joseph R. Biden Jr. of Delaware on Sunday became the fourth Democrat to formally announce plans to run for president next year.</p>
+        <p>''I am running for president,'' Mr. Biden said toward the end of an appearance on ''Meet the Press'' on NBC.</p>
+      </block>
+      <block class="full_text">
+        <p>Senator Joseph R. Biden Jr. of Delaware on Sunday became the fourth Democrat to formally announce plans to run for president next year.</p>
+        <p>''I am running for president,'' Mr. Biden said toward the end of an appearance on ''Meet the Press'' on NBC.</p>
+        <p>''I'm going to be Joe Biden, and I'm going to try to be the best Biden I can be,'' he said. ''If I can, I got a shot. If I can't, I lose.''</p>
+        <p>He said he would file paperwork by the end of the month to establish an exploratory committee to gather support for his bid.</p>
+        <p>Mr. Biden, who was first elected to the Senate in 1972, also sought the presidential nomination in 1988. But he dropped out of the race after admitting that he had used speeches by other politicians without attribution, and after reports that he had plagiarized while in law school.</p>
+        <p>Mr. Biden, chairman of the Committee on Foreign Relations, joins a widening field of Democratic presidential hopefuls. The others who have officially announced their candidacies are former Senator John Edwards of North Carolina, Representative Dennis J. Kucinich of Ohio and Gov. Tom Vilsack of Iowa.</p>
+        <p>Other potential Democratic contenders include Senators Hilary Rodham Clinton of New York and Barack Obama of Illinois. Among Republicans, Senator John McCain of Arizona, former Gov. George E. Pataki of New York and Rudolph W. Giuliani, the former New York City mayor, are expected to run.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

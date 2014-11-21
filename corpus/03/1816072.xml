@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHAT'S ON TONIGHT</title>
+    <meta content="03whtson" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/03/arts/television/0103tvcol.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816072"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Tonight's TV Listings"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907EEDE1730F930A35752C0A9619C8B63" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHAT'S ON TONIGHT</hl1>
+        <hl2 class="online_headline">What’s on Wednesday Night</hl2>
+      </hedline>
+      <byline class="print_byline">By KATHRYN SHATTUCK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>9 P.M. (13, 49) ANNIE LEIBOVITZ: LIFE THROUGH A LENS -- Ms. Leibovitz is arguably the most influential woman photographer in the country. But her private life is rarely exposed. In this documentary, which closes the 20th season of ''American Masters,'' Ms. Leibovitz (above, in her studio in 2003) shares her artistic process with her younger sister, the filmmaker Barbara Leibovitz, as she travels from her Manhattan studio to her idyllic farm in upstate New York, and through countless photo shoots and the creation of her latest retrospective book, while trying to balance career and motherhood.</p>
+        <p>8 P.M. (11) BEAUTY AND THE GEEK -- Osmosis, anyone? Eight physically glowing but intellectually dim women are paired with eight brainy but socially stunted men, with each presumably passing along some of their, um, finer attributes to the other. Oh, but it's difficult.</p>
+        <p>8 P.M. (13, 49) WIRED SCIENCE -- Wired, the science and technology magazine, translates its print content for television in this special, one of three pilots under consideration for development by PBS as a science series. Up for examination: meteorite hunters, viruses in Yellowstone National Park, and Neemo, NASA's extreme astronaut training facility.</p>
+        <p>9 P.M. (ABC) THE KNIGHTS OF PROSPERITY -- They've never even shoplifted a candy bar. But tired of being stuck in dead-end jobs that won't pay for a bottle of premium booze, this new-age Robin Hood (Donal Logue, right) and his Merry Men (one of whom is a woman) decide to finance their heart-felt dreams by plotting a heist of the super-swanky Central Park West apartment of no less than Mick Jagger. Yeah, they'll be giving to the poor: themselves.</p>
+        <p>9:30 P.M. (ABC) IN CASE OF EMERGENCY -- Enjoy the freefall: a group of former high school classmates (David Arquette, Jonathan Silverman, Greg Germann and Kelly Hu) find themselves reunited at a Los Angeles hospital when life starts taking its toll in this new sitcom. The doctor (Lori Loughlin) is a looker.</p>
+        <p>10 P.M. (ESPN) ALI'S 65 -- Muhammad Ali turns 65 on Jan. 17. This hourlong special presents 65 things -- facts, anecdotes, photographs and trivia -- that everyone should know about the heavyweight boxing champion (above, at a news conference in Atlanta in 1970) who liked to call himself ''the greatest of all time.'' And who are we to disagree?</p>
+        <p>KATHRYN SHATTUCK</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>9 P.M. (13, 49) ANNIE LEIBOVITZ: LIFE THROUGH A LENS Ms. Leibovitz is arguably the most influential woman photographer in the country. But her private life is rarely exposed. In this documentary, which closes the 20th season of “American Masters,” Ms. Leibovitz shares her artistic process with her younger sister, the filmmaker Barbara Leibovitz, as she travels from her Manhattan studio to her idyllic farm in upstate New York, and through countless photo shoots and the creation of her latest retrospective book, while trying to balance career and motherhood.</p>
+      </block>
+      <block class="full_text">
+        <p>9 P.M. (13, 49) ANNIE LEIBOVITZ: LIFE THROUGH A LENS -- Ms. Leibovitz is arguably the most influential woman photographer in the country. But her private life is rarely exposed. In this documentary, which closes the 20th season of ''American Masters,'' Ms. Leibovitz (above, in her studio in 2003) shares her artistic process with her younger sister, the filmmaker Barbara Leibovitz, as she travels from her Manhattan studio to her idyllic farm in upstate New York, and through countless photo shoots and the creation of her latest retrospective book, while trying to balance career and motherhood.</p>
+        <p>8 P.M. (11) BEAUTY AND THE GEEK -- Osmosis, anyone? Eight physically glowing but intellectually dim women are paired with eight brainy but socially stunted men, with each presumably passing along some of their, um, finer attributes to the other. Oh, but it's difficult.</p>
+        <p>8 P.M. (13, 49) WIRED SCIENCE -- Wired, the science and technology magazine, translates its print content for television in this special, one of three pilots under consideration for development by PBS as a science series. Up for examination: meteorite hunters, viruses in Yellowstone National Park, and Neemo, NASA's extreme astronaut training facility.</p>
+        <p>9 P.M. (ABC) THE KNIGHTS OF PROSPERITY -- They've never even shoplifted a candy bar. But tired of being stuck in dead-end jobs that won't pay for a bottle of premium booze, this new-age Robin Hood (Donal Logue, right) and his Merry Men (one of whom is a woman) decide to finance their heart-felt dreams by plotting a heist of the super-swanky Central Park West apartment of no less than Mick Jagger. Yeah, they'll be giving to the poor: themselves.</p>
+        <p>9:30 P.M. (ABC) IN CASE OF EMERGENCY -- Enjoy the freefall: a group of former high school classmates (David Arquette, Jonathan Silverman, Greg Germann and Kelly Hu) find themselves reunited at a Los Angeles hospital when life starts taking its toll in this new sitcom. The doctor (Lori Loughlin) is a looker.</p>
+        <p>10 P.M. (ESPN) ALI'S 65 -- Muhammad Ali turns 65 on Jan. 17. This hourlong special presents 65 things -- facts, anecdotes, photographs and trivia -- that everyone should know about the heavyweight boxing champion (above, at a news conference in Atlanta in 1970) who liked to call himself ''the greatest of all time.'' And who are we to disagree?</p>
+        <p>KATHRYN SHATTUCK  Tonight's TV Listings</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Harnessing the Web To Sell Online Security</title>
+    <meta content="29ecom" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/29/technology/29ecom.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822337"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="E-COMMERCE REPORT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Earthlink Inc</org>
+        <person class="indexing_service">Forman, Craig</person>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/E-Commerce</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/E-Commerce Report</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">EarthLink Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2DF143FF93AA15752C0A9619C8B63" item-length="1086" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Harnessing the Web To Sell Online Security</hl1>
+        <hl2 class="online_headline">Harnessing the Web to Sell Online Security</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Earthlink Inc announces new Attack Shield security services aimed at stopping advanced hacker techniques; services could reduce user complaints and reduce service calls about computer viruses; executive vice president Craig Forman stresses importance of security in Internet-based economy; service will cost Earthlink subscribers $24 annually, or $3 per month; will also be available to non-subscribers for $36 annually, or $4 per month; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THIRTY percent of Internet users still do not trust technology enough to buy something online. But will they use the Web to buy security software?</p>
+        <p>The Internet service provider EarthLink hopes that they will. The company said it would announce new security services today, to be available to both EarthLink users and others, aimed at thwarting new hacking techniques that specialists regard as particularly insidious. The new services could also help EarthLink fortify its flagging bottom line and reduce customer service calls from users afflicted by computer viruses.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>EarthLink will announce new security services aimed at thwarting hacking techniques that specialists regard as particularly insidious.</p>
+      </block>
+      <block class="full_text">
+        <p>THIRTY percent of Internet users still do not trust technology enough to buy something online. But will they use the Web to buy security software?</p>
+        <p>The Internet service provider EarthLink hopes that they will. The company said it would announce new security services today, to be available to both EarthLink users and others, aimed at thwarting new hacking techniques that specialists regard as particularly insidious. The new services could also help EarthLink fortify its flagging bottom line and reduce customer service calls from users afflicted by computer viruses.</p>
+        <p>''The whole axis of the world is moving toward an Internet-based economy,'' said Craig Forman, an EarthLink executive vice president, who, among other things, oversees sales of security services. ''Security is a critical portion of the success of that economy.''</p>
+        <p>The new feature, called Attack Shield, is a premium offering intended to complement the company's Protection Control Center security service, which EarthLink subscribers receive free. Attack Shield will cost EarthLink subscribers $24 annually, or $3 a month. Those who are not members, but who pay $36 annually or $4 monthly for the Protection Control Center service, will receive Attack Shield at no added cost.</p>
+        <p>Attack Shield relies on technology from Sana Security, a software vendor based in San Mateo, Calif., that specializes in what is known as behavior-based intrusion detection methods. Such programs essentially watch a personal computer for suspicious-looking software -- for instance, applications hidden in remote areas of the computer that then replicate themselves, or programs that load themselves onto a PC unbidden.</p>
+        <p>Antivirus software companies like McAfee, Symantec and others, using conventional Internet security methods, find a copy of such a malicious program, identify a signature string of computer code unique to it, then circulate to customers a software application to block programs with that signature.</p>
+        <p>The signature-based approach, though, does little for those who are victimized by a new attack before security companies have had a chance to obtain the program's signature and circulate an antidote. And because many hackers now are sophisticated financial criminals, rather than the rascals of old, their programs are more likely to mutate so quickly that the signature they leave on one person's computer could look nothing like the signature left on someone else's machine.</p>
+        <p>These new ''malware'' programs, as they are known in the computer security field, are the most popular distribution method for programs that have turned an estimated 11 percent of the world's computers into ''zombie'' machines used in fraud, spam distribution and online identity theft.</p>
+        <p>By opening a new front in cyber crime, hackers have also opened a new market for security companies. This month, Symantec announced a behavior-based detection technology, called Sonar, to thwart malware intrusions, and analysts said other companies were working hard to introduce competing technology or refine what they already have.</p>
+        <p>EarthLink has offered Attack Shield on a trial basis since early in the month, according to Mr. Forman, who declined to say how many customers the service had.</p>
+        <p>''Most of the users are EarthLink customers, but we're very happy with its progress among those who aren't EarthLink customers,'' he said. ''This is part of our strategy to widen out the potential universe of folks who EarthLink can reach. And security is a huge part of why our existing members are loyal to EarthLink.''</p>
+        <p>He said the security service was also an important way for EarthLink to increase revenue as it tries to persuade Attack Shield users to become full EarthLink subscribers. The company lost $3.2 million in the third quarter of 2006, the latest quarter for which EarthLink has reported financial results. Revenue increased 4.5 percent over the 2005 quarter, to $331.3 million.</p>
+        <p>EarthLink, like AOL, has struggled to grow amid heavy competition from cable Internet providers and phone companies. It has had to glean revenue from its 5.3 million existing customers by selling them more services like Internet telephony and online video subscriptions.</p>
+        <p>Such efforts have paid dividends, Mr. Forman said, as well as the company's emphasis on selling security services. ''Security is very much a moneymaker for us,'' he said.</p>
+        <p>According to Andrew Jacquith, an analyst with the Yankee Group, a technology consulting firm based in Boston, the Attack Shield effort is likely to appeal to a small percentage of the market at first, even though he said it was ''a step ahead'' of other security services in effectiveness and simplicity.</p>
+        <p>''A certain amount of education needs to happen before customers figure out that this is what they'll want to have,'' Mr. Jacquith said. ''So having companies like EarthLink behind it will help a lot.'' He added that other Internet providers would offer similar services to their customers in the coming months, accelerating the process.</p>
+        <p>The consumer market for security software, which the research firm IDC said reached $1.6 billion last year, has increasingly moved online in recent years, as vendors like McAfee and CA align themselves with Internet service providers to gain market share.</p>
+        <p>Selling software to consumers online is much more efficient than selling through retail stores. But analysts have criticized security vendors for distributing their software through Internet providers. As good as such deals are for gaining new customers, they yield far less revenue for each subscriber -- as little as $3 a customer, by some estimates -- compared with the $30 they can make by selling through a retailer.</p>
+        <p>Sana has no such concerns, because it has traditionally sold to businesses, not consumers. Sana's revenue was under $20 million last year, according to Timothy Eades, its senior vice president for marketing, though last year's sales were five times in 2005.</p>
+        <p>Symantec, one of the biggest security software vendors, also distributes its software through Internet providers, but Erin Hintz, the vice president for worldwide consumer marketing, said the company had been careful not to give its products away too cheaply.</p>
+        <p>''We've been pretty good about striking partnerships where it's beneficial for both parties, while some of our competitors haven't,'' Ms. Hintz said. Over all, though, consumers have ''absolutely shifted more and more online as their preferred buying channel,'' she said, as banks and other financial services companies joined Internet providers in selling security software to their customers.</p>
+        <p>Try as they may, such efforts will do little to attract the nearly one-third of consumers who, according to Forrester Research, are still leery of buying anything online.</p>
+        <p>''That's why people will often purchase for the first time in a retail store,'' Ms. Hintz said. ''Then when they renew their subscription, they're more comfortable doing the transaction online.''</p>
+        <p>E-COMMERCE REPORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

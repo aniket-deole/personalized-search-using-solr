@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Data Breach Could Affect Millions of TJX Shoppers</title>
+    <meta content="19data" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/19/business/19data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819933"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit and Money Cards</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Identity Fraud</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Tjx Companies</org>
+        <person class="indexing_service">Dash, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Identity Fraud</classifier>
+        <classifier class="online_producer" type="descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identity Fraud</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">TJX Companies Incorporated</org>
+        <org class="online_producer">Marshall's</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E3DC1E30F93AA25752C0A9619C8B63" item-length="717" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Data Breach Could Affect Millions of TJX Shoppers</hl1>
+        <hl2 class="online_headline">Data Breach Could Affect Millions of TJX Shoppers</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC DASH</byline>
+      <byline class="normalized_byline">Dash, Eric</byline>
+      <abstract>
+        <p>Tens of millions of credit and debit cards might have been compromised by computer security breach at TJX Companies stores including T J Maxx and Marshall's; fraud affects cards from all major credit card companies (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tens of millions of credit and debit cards might have been compromised by a computer security breach at the retailer that operates T. J. Maxx and Marshall's in what could emerge as the country's biggest case of stolen consumer data.</p>
+        <p>While the investigation is in its early stages, the number of accounts potentially exposed at the TJX Companies could exceed the 40 million involved in a data breach at the payment processor CardSystems Solutions in 2005, people briefed on the findings said yesterday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Millions of credit and debit cards might have been compromised in what could emerge as the country’s biggest case of stolen consumer data.</p>
+      </block>
+      <block class="full_text">
+        <p>Tens of millions of credit and debit cards might have been compromised by a computer security breach at the retailer that operates T. J. Maxx and Marshall's in what could emerge as the country's biggest case of stolen consumer data.</p>
+        <p>While the investigation is in its early stages, the number of accounts potentially exposed at the TJX Companies could exceed the 40 million involved in a data breach at the payment processor CardSystems Solutions in 2005, people briefed on the findings said yesterday.</p>
+        <p>Still, these people cautioned, the total number of accounts at risk might be far less if thieves only looked at but did not download the information.</p>
+        <p>TJX's vice president for investor and public relations, Sherry Lang, said yesterday that the amount of information removed was ''substantially less than millions,'' but conceded that many more could have been ''potentially exposed.''</p>
+        <p>She provided few details of the investigations.</p>
+        <p>The millions of card accounts compromised, belonging to all the major credit card companies, were among a trove of sensitive customer information potentially exposed. On Wednesday, TJX revealed that an intruder had gained access to a computer system that contained other customer information, including drivers' license numbers and checking accounts linked to transactions for returned merchandise.</p>
+        <p>Over the last two days, the nation's banks and card brands -- including Visa, MasterCard Worldwide and American Express -- said they were monitoring their customer accounts for potential fraud. TJX, which has about 2,300 stores in the United States and Canada, suggested that customers review their accounts, and it set up a tip sheet on its Internet site and a toll-free number -- 866-484-6978 -- to handle questions.</p>
+        <p>Both of TJX's flagship stores were affected, as well as its HomeGoods and A. J. Wright stores in the United States, and its Winners and HomeSense chains in Canada. The company is still trying to assess whether customer data from its 36 Bob's Stores had been affected.</p>
+        <p>Yesterday, Fifth Third Bank of Cincinnati was identified as the sponsoring bank that handles TJX's accounts, which makes it responsible for ensuring that the retailer met the industry's data security standards.</p>
+        <p>''We are not in a position to confirm or deny if we do have a relationship with T. J. Maxx,'' a spokeswoman for Fifth Third, Stephanie L. Honan, said. Asked about whether all of its merchants were compliant with the rules, she declined further comment.</p>
+        <p>Fifth Third may be required to cover some of the card issuers' losses. TJX could also faces hundreds of thousands of dollars in fines from government regulators, Fifth Third and the payment associations like Visa and MasterCard.</p>
+        <p>Meanwhile, federal and company investigators tried to untangle what TJX called an unauthorized intrusion into its computer system going back at least four years. One likely entry point may have been through checkout terminals, which are typically connected to the Internet. That could enable thieves to obtain sensitive data like that on the magnetic strips of credit cards, which security experts advise companies not to keep.</p>
+        <p>While there was only a single compromise, TJX's statement suggested it may have occurred in two waves. During portions of 2003, the company suggested, the intruder gained access to credit and debit card information that was stored, possibly unencrypted, on its computers. From May to December last year, the disclosure suggests, live data on the network ''may have been accessed in an intrusion'' using hacker tools.</p>
+        <p>Hard Drive Lost at Bank  By The New York Times</p>
+        <p>OTTAWA, Jan. 18 -- The Canadian Imperial Bank of Commerce said Thursday that it had lost a computer hard drive containing personal financial information for about 470,000 mutual fund customers.</p>
+        <p>Rob McLeod, a spokesman for the bank, said the drive, a backup for its Talvest mutual fund, disappeared while being moved from Montreal to Toronto ''just prior to Christmas holidays.''</p>
+        <p>While the bank immediately notified Canada's privacy commissioner as well as its bank regulator, Mr. McLeod said the public announcement was delayed by the need to identify the affected customers and to establish a call center to handle their inquiries.</p>
+        <p>The lost records cover current and former Talvest customers and includes their names, addresses, signatures, dates of birth, account numbers, beneficiary information and social insurance numbers. The bank said it has offered to cover any losses related to the missing drive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

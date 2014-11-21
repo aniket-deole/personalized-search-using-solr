@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Electronic Watchdog Will Follow You to a New Home</title>
+    <meta content="25alarm" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/25/technology/25alarm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821251"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Lasersight</org>
+        <person class="indexing_service">Furchgott, Roy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7DB163FF936A15752C0A9619C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Electronic Watchdog Will Follow You to a New Home</hl1>
+        <hl2 class="online_headline">An Electronic Watchdog Will Follow You to a New Home</hl2>
+      </hedline>
+      <byline class="print_byline">By ROY FURCHGOTT</byline>
+      <byline class="normalized_byline">Furchgott, Roy</byline>
+      <abstract>
+        <p>An Electronic Watchdog Will F</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Those who rent their homes are just as vulnerable to burglars as homeowners, but they are less likely to have burglar alarms. And who can blame them? What renter wants to pay to install a system that has to be left behind in a move, or be locked into a monitoring company's contract that is longer than the lease?</p>
+        <p>Into the breach comes LaserShield, a portable burglar alarm system available at CompUSA, Costco and Kmart stores.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The LaserShield $200 starter kit comes with a master alarm unit, a wireless detection unit and two keychain remotes.</p>
+      </block>
+      <block class="full_text">
+        <p>Those who rent their homes are just as vulnerable to burglars as homeowners, but they are less likely to have burglar alarms. And who can blame them? What renter wants to pay to install a system that has to be left behind in a move, or be locked into a monitoring company's contract that is longer than the lease?</p>
+        <p>Into the breach comes LaserShield, a portable burglar alarm system available at CompUSA, Costco and Kmart stores.</p>
+        <p>The $200 starter kit comes with a master alarm unit, a wireless detection unit and two keychain remotes. The detection unit can monitor rooms of up to 1,200 square feet. As many as 11 additional wireless units can be added to a system, costing mansion renters an extra $60 each.</p>
+        <p>When a motion detector's infrared beam is broken it signals the master alarm unit, which can be placed up to 150 feet away. The system lets out a 105-decibel siren and calls a monitoring service. The monitoring service charges a monthly fee of $20, after a $25 activation charge. The master unit and detectors have backup batteries that last for 12 hours, and they are easy to pack up and move when the time comes.</p>
+        <p>ROY FURCHGOTT</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

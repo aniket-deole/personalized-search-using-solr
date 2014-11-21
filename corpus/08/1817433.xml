@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="08choi-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817433"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Pareles, Jon</person>
+        <person class="indexing_service">Sexsmith, Ron</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DA1530F93BA35752C0A9619C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+      <abstract>
+        <p>Jon Pareles reviews new CD by Ron Sexsmith (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ron Sexsmith</p>
+        <p>''Time Being'' (Ironworks)</p>
+        <p>On ''Time Being'' Ron Sexsmith ponders mortality while his music offers whatever consolations it can. Sometimes the reassurance is in the promises he sings: ''All in good time, the bad time will be gone,'' or ''I'd never give up on you,'' or ''I'll take you to a place I know where the cold hearted wind don't go.'' And when he can't help admitting things look dire in a song like ''I Think We're Lost,'' he couches the bad news in an uplifting melody.</p>
+      </block>
+      <block class="full_text">
+        <p>Ron Sexsmith</p>
+        <p>''Time Being'' (Ironworks)</p>
+        <p>On ''Time Being'' Ron Sexsmith ponders mortality while his music offers whatever consolations it can. Sometimes the reassurance is in the promises he sings: ''All in good time, the bad time will be gone,'' or ''I'd never give up on you,'' or ''I'll take you to a place I know where the cold hearted wind don't go.'' And when he can't help admitting things look dire in a song like ''I Think We're Lost,'' he couches the bad news in an uplifting melody.</p>
+        <p>Other songwriters have long praised Mr. Sexsmith's tunes, with their 1960s roots and echoes of the Beatles and Neil Young, matched to the artful simplicity of his lyrics. His voice, hinting at Ray Davies and Tim Hardin along with Paul McCartney, wavers and droops with a breathy modesty that only makes him sound more sincere. He keeps his music uncluttered; a preternaturally slow ballad, ''Reason for Our Love'' uses only guitar, bass and brushed drums behind Mr. Sexsmith's intimate croon. But he's no ascetic; in songs like ''Some Dusty Things'' and ''Hands of Time'' superstructures of guitars and keyboards arise wherever he needs them.</p>
+        <p>Mr. Sexsmith is a mild-mannered guy. ''Snow Angel,'' a pretty song about an ex-lover's suicide, cushions all its grief in memories. The most annoyance he can summon is in ''Jazz at the Bookstore,'' about hearing deep blues as coffee-shop background music. But tucked into his own neat songs, and fortifying them, is a disquiet that all his kindliness can't wish away.</p>
+        <p>Mr. Sexsmith is to perform tomorrow night at Maxwell's in Hoboken and Friday night at the Bowery Ballroom on the Lower East Side.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

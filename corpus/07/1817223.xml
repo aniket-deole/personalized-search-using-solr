@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Attack of the Zombie Computers Is a Growing Threat, Experts Say</title>
+    <meta content="07net" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/technology/07net.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817223"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EEDE1530F934A35752C0A9619C8B63" item-length="1503" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Attack of the Zombie Computers Is a Growing Threat, Experts Say</hl1>
+        <hl2 class="online_headline">Attack of the Zombie Computers Is Growing Threat</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In their persistent quest to breach the Internet's defenses, the bad guys are honing their weapons and increasing their firepower.</p>
+        <p>With growing sophistication, they are taking advantage of programs that secretly install themselves on thousands or even millions of personal computers, band these computers together into an unwitting army of zombies, and use the collective power of the dragooned network to commit Internet crimes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Thousands or even millions of PCs are being hijacked by malicious programs to commit Internet crimes.</p>
+      </block>
+      <block class="full_text">
+        <p>In their persistent quest to breach the Internet's defenses, the bad guys are honing their weapons and increasing their firepower.</p>
+        <p>With growing sophistication, they are taking advantage of programs that secretly install themselves on thousands or even millions of personal computers, band these computers together into an unwitting army of zombies, and use the collective power of the dragooned network to commit Internet crimes.</p>
+        <p>These systems, called botnets, are being blamed for the huge spike in spam that bedeviled the Internet in recent months, as well as fraud and data theft.</p>
+        <p>Security researchers have been concerned about botnets for some time because they automate and amplify the effects of viruses and other malicious programs.</p>
+        <p>What is new is the vastly escalating scale of the problem -- and the precision with which some of the programs can scan computers for specific information, like corporate and personal data, to drain money from online bank accounts and stock brokerages.</p>
+        <p>''It's the perfect crime, both low-risk and high-profit,'' said Gadi Evron, a computer security researcher for an Israeli-based firm, Beyond Security, who coordinates an international volunteer effort to fight botnets. ''The war to make the Internet safe was lost long ago, and we need to figure out what to do now.''</p>
+        <p>Last spring, a program was discovered at a foreign coast guard agency that systematically searched for documents that had shipping schedules, then forwarded them to an e-mail address in China, according to David Rand, chief technology officer of Trend Micro, a Tokyo-based computer security firm. He declined to identify the agency because it is a customer.</p>
+        <p>Although there is a wide range of estimates of the overall infection rate, the scale and the power of the botnet programs have clearly become immense. David Dagon, a Georgia Institute of Technology researcher who is a co-founder of Damballa, a start-up company focusing on controlling botnets, said the consensus among scientists is that botnet programs are present on about 11 percent of the more than 650 million computers attached to the Internet.</p>
+        <p>Plagues of viruses and other malicious programs have periodically swept through the Internet since 1988, when there were only 60,000 computers online. Each time, computer security managers and users have cleaned up the damage and patched holes in systems.</p>
+        <p>In recent years, however, such attacks have increasingly become endemic, forcing increasingly stringent security responses. And the emergence of botnets has alarmed not just computer security experts, but also specialists who created the early Internet infrastructure.</p>
+        <p>''It represents a threat but it's one that is hard to explain,'' said David J. Farber, a Carnegie Mellon computer scientist who was an Internet pioneer. ''It's an insidious threat, and what worries me is that the scope of the problem is still not clear to most people.'' Referring to Windows computers, he added, ''The popular machines are so easy to penetrate, and that's scary.''</p>
+        <p>So far botnets have predominantly infected Windows-based computers, although there have been scattered reports of botnet-related attacks on computers running the Linux and Macintosh operating systems. The programs are often created by small groups of code writers in Eastern Europe and elsewhere and distributed in a variety of ways, including e-mail attachments and downloads by users who do not know they are getting something malicious. They can even be present in pirated software sold on online auction sites. Once installed on Internet-connected PCs, they can be controlled using a widely available communications system called Internet Relay Chat, or I.R.C.</p>
+        <p>ShadowServer, a voluntary organization of computer security experts that monitors botnet activity, is now tracking more than 400,000 infected machines and about 1,450 separate I.R.C. control systems, which are called Command &amp; Control servers.</p>
+        <p>The financial danger can be seen in a technical report presented last summer by a security researcher who analyzed the information contained in a 200-megabyte file that he had intercepted. The file had been generated by a botnet that was systematically harvesting stolen information and then hiding it in a secret location where the data could be retrieved by the botnet master.</p>
+        <p>The data in the file had been collected during a 30-day period, according to Rick Wesson, chief executive of Support Intelligence, a San Francisco-based company that sells information on computer security threats to corporations and federal agencies. The data came from 793 infected computers and it generated 54,926 log-in credentials and 281 credit-card numbers. The stolen information affected 1,239 companies, he said, including 35 stock brokerages, 86 bank accounts, 174 e-commerce accounts and 245 e-mail accounts.</p>
+        <p>Sensor information collected by his company is now able to identify more than 250,000 new botnet infections daily, Mr. Wesson said.</p>
+        <p>''We are losing this war badly,'' he said. ''Even the vendors understand that we are losing the war.''</p>
+        <p>According to the annual intelligence report of MessageLabs, a New York-based computer security firm, more than 80 percent of all spam now originates from botnets. Last month, for the first time ever, a single Internet service provider generated more than one billion spam e-mail messages in a 24-hour period, according to a ranking system maintained by Trend Micro, the computer security firm. That indicated that machines of the service providers' customers had been woven into a giant network, with a single control point using them to pump out spam.</p>
+        <p>The extent of the botnet threat was underscored in recent months by the emergence of a version of the stealthy program that adds computers to the botnet. The recent version of the program, which security researchers are calling ''rustock,'' infected several hundred thousand Internet-connected computers and then began generating vast quantities of spam e-mail messages as part of a ''pump and dump'' stock scheme.</p>
+        <p>The author of the program, who is active on Internet technical discussion groups and claims to live in Zimbabwe, has found a way to hide the infecting agent in such a way that it leaves none of the traditional digital fingerprints that have been used to detect such programs.</p>
+        <p>Moreover, although rustock is currently being used for distributing spam, it is a more general tool that can be used with many other forms of illegal Internet activity.</p>
+        <p>''It could be used for other types of malware as well,'' said Joe Stewart, a researcher at SecureWorks, an Atlanta-based computer security firm. ''It's just a payload delivery system with extra stealth.''</p>
+        <p>Last month Mr. Stewart tracked trading around a penny stock being touted in a spam campaign. The Diamant Art Corporation was trading for 8 cents on Dec. 15 when a series of small transactions involving 11,532,726 shares raised the price of the stock to 11 cents. After the close of business that day, a Friday, a botnet began spewing out millions of spam messages, he said.</p>
+        <p>On the following Monday, the stock went first to 19 cents per share and then ultimately to 25 cents a share. He estimated that if the spammer then sold the shares purchased at the peak on Monday he would realize a $20,000 profit. (By Dec. 20, it was down to 12 cents.)</p>
+        <p>Computer security experts warn that botnet programs are evolving faster than security firms can respond and have now come to represent a fundamental threat to the viability of the commercial Internet. The problem is being compounded, they say, because many Internet service providers are either ignoring or minimizing the problem.</p>
+        <p>''It's a huge scientific, policy, and ultimately social crisis, and no one is taking any responsibility for addressing it,'' said K. C. Claffy , a veteran Internet researcher at the San Diego Supercomputer Center.</p>
+        <p>The $6 billion computer security industry offers a growing array of products and services that are targeted at network operators, corporations and individual computer users. Yet the industry has a poor track record so far in combating the plague, according to computer security researchers.</p>
+        <p>''This is a little bit like airlines advertising how infrequently they crash into mountains,'' said Mr. Dagon, the Georgia Tech researcher.</p>
+        <p>The malicious software is continually being refined by ''black hat'' programmers to defeat software that detects the malicious programs by tracking digital fingerprints.</p>
+        <p>Some botnet-installed programs have been identified that exploit features of the Windows operating system, like the ability to recognize recently viewed documents. Botnet authors assume that any personal document that a computer owner has used recently will also be of interest to a data thief, Mr. Dagon said.</p>
+        <p>Serry Winkler, a sales representative in Denver, said that she had turned off the network-security software provided by her Internet service provider because it slowed performance to a crawl on her PC, which was running Windows 98. A few months ago four sheriff's deputies pounded on her apartment door to confiscate the PC, which they said was being used to order goods from Sears with a stolen credit card. The computer, it turned out, had been commandeered by an intruder who was using it remotely.</p>
+        <p>''I'm a middle-aged single woman living here for six years,'' she said. ''Do I sound like a terrorist?''</p>
+        <p>She is now planning to buy a more up-to-date PC, she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

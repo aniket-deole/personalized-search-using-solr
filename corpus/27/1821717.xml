@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flamenco That Finds Its Fit In a Space Between Two Styles</title>
+    <meta content="27cont" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/27/arts/dance/27cont.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821717"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Del Conte, Andrea, Danza Espana</org>
+        <person class="indexing_service">Dunning, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="descriptor">Flamenco (Dance)</classifier>
+        <classifier class="online_producer" type="descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flamenco (Dance)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Joyce SoHo</org>
+        <person class="online_producer">Martinez, Barbara</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E7DB173FF934A15752C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flamenco That Finds Its Fit In a Space Between Two Styles</hl1>
+        <hl2 class="online_headline">Flamenco That Finds Its Fit in a Space Between Two Styles</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+      <abstract>
+        <p>Jennifer Dunning reviews performance by Andrea Del Conte Danza Espana at Joyce SoHo; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Not everyone wants to perform pure traditional gypsy flamenco. A grass-roots genre of flamenco Latino has sprung up in New York in recent years. The program presented by Andrea Del Conte Danza España on Thursday night at the Joyce SoHo fits somewhere between those styles, but never created the crucial flamenco feeling of an internal fire reaching up into the soul from the core of the earth.</p>
+        <p>Ms. Del Conte, an American who trained in ballet before taking on Spanish dancing, was closer to the traditional in her Seguiriyas and Farruca, but without that fire. A sweet-faced, elegant woman, she might have been the youngish director of a school for young dancers. Barbara Martinez, who sang and danced, made something fresh of the Latino style in several numbers. But Marco de Ana was unprepossessing, a major problem for a male flamenco artist, in a company of dancers completed by Mieko Sato and Sol Koeraus.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Andrea Del Conte Danza España presented a program that was a mix of traditional gypsy flamenco and a flamenco Latino on Thursday at the Joyce SoHo.</p>
+      </block>
+      <block class="full_text">
+        <p>Not everyone wants to perform pure traditional gypsy flamenco. A grass-roots genre of flamenco Latino has sprung up in New York in recent years. The program presented by Andrea Del Conte Danza España on Thursday night at the Joyce SoHo fits somewhere between those styles, but never created the crucial flamenco feeling of an internal fire reaching up into the soul from the core of the earth.</p>
+        <p>Ms. Del Conte, an American who trained in ballet before taking on Spanish dancing, was closer to the traditional in her Seguiriyas and Farruca, but without that fire. A sweet-faced, elegant woman, she might have been the youngish director of a school for young dancers. Barbara Martinez, who sang and danced, made something fresh of the Latino style in several numbers. But Marco de Ana was unprepossessing, a major problem for a male flamenco artist, in a company of dancers completed by Mieko Sato and Sol Koeraus.</p>
+        <p>The musicians were more fun, in an ensemble that included Alfonso Cid, Arturo Martinez, Cristian Puig and Sean Kupisz. The evening's choreographers included Juana Cala and José Galvan.</p>
+        <p>Andrea Del Conte Danza España performs through tomorrow night at the Joyce SoHo, 155 Mercer Street, between Houston and Prince Streets; (212) 334-7479.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

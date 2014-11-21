@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW JERSEY TACKLE PICKS RUTGERS</title>
+    <meta content="07sportsbriefs-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817299"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: COLLEGE FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <org class="indexing_service">Rutgers University</org>
+        <person class="indexing_service">Evans, Thayer</person>
+        <person class="indexing_service">Davis, Anthony</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E4DC1530F934A35752C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW JERSEY TACKLE PICKS RUTGERS</hl1>
+      </hedline>
+      <byline class="print_byline">By THAYER EVANS</byline>
+      <byline class="normalized_byline">Evans, Thayer</byline>
+      <abstract>
+        <p>New Jersey high school football player Anthony Davis decides to attend Rutgers University (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As he was about to travel 1,800 miles to San Antonio for the U.S. Army All-American Bowl, offensive tackle Anthony Davis realized he could not leave his family in Piscataway, N.J., for college. So he decided he would remain close and attend Rutgers.</p>
+        <p>''I just wanted to stay at home,'' Davis said. ''I wouldn't want to live nowhere else but Jersey.''</p>
+      </block>
+      <block class="full_text">
+        <p>As he was about to travel 1,800 miles to San Antonio for the U.S. Army All-American Bowl, offensive tackle Anthony Davis realized he could not leave his family in Piscataway, N.J., for college. So he decided he would remain close and attend Rutgers.</p>
+        <p>''I just wanted to stay at home,'' Davis said. ''I wouldn't want to live nowhere else but Jersey.''</p>
+        <p>Before the second half of Saturday's game, Davis made his commitment public by slipping a Rutgers ball cap on his head before a nationwide television audience. He selected the Scarlet Knights over Ohio State and Southern California.</p>
+        <p>''They're a rising program and I want to be a big part of it,'' Davis said.</p>
+        <p>Davis, 17, who is 6 feet 5 inches and 330 pounds, is rated as the nation's second-best offensive tackle by Scout.com and is Rutgers's highest-ranked incoming recruit.</p>
+        <p>THAYER EVANS</p>
+        <p>SPORTS BRIEFING: COLLEGE FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

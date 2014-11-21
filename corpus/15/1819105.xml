@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="15choi-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819105"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Ratliff, Ben</person>
+        <person class="indexing_service">Martirio (Singer)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EFDC1030F936A25752C0A9619C8B63" item-length="372" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+      <byline class="normalized_byline">Ratliff, Ben</byline>
+      <abstract>
+        <p>Ben Ratliff reviews new CD by Martirio; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Martirio  ''Primavera en Nueva York''  (Calle 54 Records)</p>
+        <p>The Spanish singer Martirio has become famous in her country by mixing elements of flamenco with elements of pop and jazz; since the 1980s she has worked hard to keep her style mongrelized and a little elusive. And because her voice isn't the most flexible, supple or pitch-accurate instrument in the world, she's one of those singers who can make you wonder how she does it so well.</p>
+      </block>
+      <block class="full_text">
+        <p>Martirio  ''Primavera en Nueva York''  (Calle 54 Records)</p>
+        <p>The Spanish singer Martirio has become famous in her country by mixing elements of flamenco with elements of pop and jazz; since the 1980s she has worked hard to keep her style mongrelized and a little elusive. And because her voice isn't the most flexible, supple or pitch-accurate instrument in the world, she's one of those singers who can make you wonder how she does it so well.</p>
+        <p>A little cloudy, suffused with tragic overtones, looming and retreating before the microphone, that voice is at the center of ''Primavera en Nueva York,'' an album of boleros recorded with jazz musicians in New York. It's a well-played tightrope act; Martirio is patient, endlessly reserved and inventive, meting out phrases in tremulous whispers. Her performance here represents a distant cousin to what the jazz singer Shirley Horn used to do.</p>
+        <p>All the songs are about love as obsession and agony. On ''Si Te Contara'' -- a duet with the bass player George Mraz -- when she sings the line ''Si te dijera que en mí ya no queda ni luz ni alegría'' (''If I were to tell you that in me no light or joy remains''), she enters a funny liminal zone: she seems both sapped of energy and ready to break into a flamenco wail. This is a music in which words are of no small consequence, and it's advisable to read along as she sings because the low, murmuring subtlety in her delivery can hustle a lot of good ideas past you. (The record is available only as a Spanish import, through online stores; soon it is to be released in the United States with English translations.)</p>
+        <p>There is a carefully chosen set of songs here, most of them by Cuban composers, and most from the 1940s and '50s. The core band -- with the pianist Kenny Drew Jr., Mr. Mraz and the drummer Dafnis Prieto -- plays softly and sympathetically behind her; it takes guest musicians, like Houston Person on tenor saxophone and Paquito D'Rivera on clarinet, to push against her with liveliness. She creates a settled melancholy at the center of the music, and it's a singular pleasure, skillfully rendered.</p>
+        <p>BEN RATLIFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

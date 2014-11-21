@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>And Today, Work Begins On First Wall</title>
+    <meta content="11slurry" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/11/nyregion/11slurry.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818006"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Walls</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">Area Planning and Renewal</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Collins, Glenn</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <org class="online_producer">Port Authority of New York and New Jersey</org>
+        <org class="online_producer">New York City Ballet</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE5DA1230F932A25752C0A9619C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>And Today, Work Begins On First Wall</hl1>
+        <hl2 class="online_headline">And Today, Work Begins on First Wall</hl2>
+      </hedline>
+      <byline class="print_byline">By GLENN COLLINS</byline>
+      <byline class="normalized_byline">Collins, Glenn</byline>
+      <abstract>
+        <p>Work begins on construction of first wall at World Trade Center site in New York City; resting on bedrock more than 70 feet deep, wall will keep groundwater from inundating site (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It looks like nothing more than a 22-foot-long, 4-foot-wide hole in the ground. But today, when a 180-foot-tall crane lowers a gigantic steel cage down into the trench, construction will begin on the first section of a $174 million wall more than 1,200 feet long.</p>
+        <p>Resting on bedrock more than 70 feet deep, the concrete wall will keep groundwater from inundating four ground zero office towers, a new transit hub and half a million square feet of retail space.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>On Thursday at ground zero, construction will begin on the first section of a $174 million wall more than 1,200 feet long.</p>
+      </block>
+      <block class="full_text">
+        <p>It looks like nothing more than a 22-foot-long, 4-foot-wide hole in the ground. But today, when a 180-foot-tall crane lowers a gigantic steel cage down into the trench, construction will begin on the first section of a $174 million wall more than 1,200 feet long.</p>
+        <p>Resting on bedrock more than 70 feet deep, the concrete wall will keep groundwater from inundating four ground zero office towers, a new transit hub and half a million square feet of retail space.</p>
+        <p>The wall's unglamorous official name is the East Bathtub, and it will encompass the margins of Liberty, Church and Vesey Streets, connecting to the concrete bulwark surrounding the World Trade Center.</p>
+        <p>Filling the trench, at Greenwich and Liberty Streets, ''is a significant first step in beginning the commercial and retail components of the site,'' said Anthony R. Coscia, chairman of the Port Authority of New York and New Jersey.</p>
+        <p>GLENN COLLINS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

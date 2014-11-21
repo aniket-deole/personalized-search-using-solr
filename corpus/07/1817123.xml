@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Priorities for New York's New Year</title>
+    <meta content="CINewyear" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/opinion/nyregionopinions/CINewyear.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817123"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The City"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Campaign Finance Board</org>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E5D91430F934A35752C0A9619C8B63" item-length="452" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Priorities for New York's New Year</hl1>
+        <hl2 class="online_headline">Priorities for New York’s New Year</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial offers New Year suggestions for making New York City better place to live</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's easy for anyone to be overwhelmed by the ambitions of a new year. That goes for New York City, too, especially when a rosy budget forecast seems to promise unlimited opportunites. Here are some achievable goals that must not get lost.</p>
+        <p>Campaign Finance Reform. Council Speaker Christine Quinn should work harder with the Campaign Finance Board to strengthen and improve the local campaign finance law. The program, though perhaps the best in the country, is flawed. It allows candidates without real competition to collect public funds for campaigns. A recent appellate court decision weakened the law's enforcement mechanisms, which must now be reinforced.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some achievable goals must not get overwhelmed by the ambitions and rosy budget forecast of the new year.</p>
+      </block>
+      <block class="full_text">
+        <p>It's easy for anyone to be overwhelmed by the ambitions of a new year. That goes for New York City, too, especially when a rosy budget forecast seems to promise unlimited opportunites. Here are some achievable goals that must not get lost.</p>
+        <p>Campaign Finance Reform. Council Speaker Christine Quinn should work harder with the Campaign Finance Board to strengthen and improve the local campaign finance law. The program, though perhaps the best in the country, is flawed. It allows candidates without real competition to collect public funds for campaigns. A recent appellate court decision weakened the law's enforcement mechanisms, which must now be reinforced.</p>
+        <p>Ms. Quinn has showed a healthy interest in curtailing the influence of special-interest lobbyists, but the larger task of bringing integrity to the political process is nowhere near complete. One major priority should be ending pay to play, in which political donors are awarded city contracts.</p>
+        <p>Traffic Congestion. Mayor Michael Bloomberg has offered a dazzling and hopeful plan to prepare the city for what is expected to be a substantial rise in population during the next quarter century, but unless the number of motorists is reduced, New Yorkers will choke on their own gridlock. Mr. Bloomberg needs to produce a major traffic study, move quickly to create new express bus routes and give serious thought to congestion pricing.</p>
+        <p>Law Enforcement. The use of excessive firepower by the police is a continuing concern made more vivid by the shooting last November of Sean Bell on his wedding day in Queens. Commissioner Ray Kelly was right to ask last week for an independent review of how police use their firearms. It is also time to take a closer look at how to improve the department's response to the Civilian Complaint Review Board, which investigates questionable police conduct.</p>
+        <p>The Budget. Mr. Bloomberg, who inherited multibillion-dollar budget gaps, now enjoys a surplus that could amount to more than a half billion dollars. This surplus is best applied toward future obligations, and should not be regarded as mad money to be used for reducing property taxes and unnecessary spending.</p>
+        <p>Affordable Housing. The Mayor and the City Council passed useful new legislation aimed at forcing developers to build more units for low- and middle-income New Yorkers if they wanted certain tax breaks provided by law. The task now is to win Albany's approval before the law expires at the end of the year.</p>
+        <p>The Poor.  About one-fifth of New Yorkers live below the poverty line. The Mayor has committed $150 million to his antipoverty program, but he could also make a huge difference by insuring that people who are eligible for food stamps actually get them by easing their way through the bureaucratic maze.</p>
+        <p>The City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

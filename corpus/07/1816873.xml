@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stroller Maker Advises Parents Where to Push</title>
+    <meta content="07transparents" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/travel/07transparents.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816873"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Baby Carriages, Strollers and Carriers</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Bugaboo (Co)</org>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Babies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E2D61F31F934A35752C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stroller Maker Advises Parents Where to Push</hl1>
+        <hl2 class="online_headline">Stroller Maker Advises Parents Where to Push</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>Bugaboo, Dutch stroller designer, plans to include day trip sites for parents with strollers on its refurbished Web site; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Parents of young children vowing to venture out more in 2007 should log on to the Web site of Bugaboo, the Dutch company that designs strollers. At the beginning of next month, the ''day trips'' selections on www.bugaboo.com will be reintroduced with new features to mobilize even the most exhausted parents.</p>
+        <p>The day trip sites are under ''Explore.'' Users can select from 19 American and European cities (there are plans to add 2 more cities outside Europe and North America), and find illustrated maps of those cities (each by a local artist) and snapshots of the various child-friendly destinations, each accompanied with instructions on what to see and do at each stop. Later, a gallery of photos sent in by parents who experienced the day trip will be posted, along with their comments.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Parents of young children vowing to venture out more in 2007 should log on to the Web site of Bugaboo, which will be reintroduced with new features.</p>
+      </block>
+      <block class="full_text">
+        <p>Parents of young children vowing to venture out more in 2007 should log on to the Web site of Bugaboo, the Dutch company that designs strollers. At the beginning of next month, the ''day trips'' selections on www.bugaboo.com will be reintroduced with new features to mobilize even the most exhausted parents.</p>
+        <p>The day trip sites are under ''Explore.'' Users can select from 19 American and European cities (there are plans to add 2 more cities outside Europe and North America), and find illustrated maps of those cities (each by a local artist) and snapshots of the various child-friendly destinations, each accompanied with instructions on what to see and do at each stop. Later, a gallery of photos sent in by parents who experienced the day trip will be posted, along with their comments.</p>
+        <p>''We wanted to make our day trips really come to life,'' said Demaris Beems, a spokeswoman for Bugaboo. ''We like to inspire our customers to get out and go places. Bugaboo is about freedom of movement,'' she said, adding that as a ''mobility design'' company it has plans for products that will have nothing to do with parents and children.</p>
+        <p>The sights chosen are not too child-centric -- Chinatown in New York is a featured map, and in Paris parents are sent to the Collette design boutique (above), while in Los Angeles they are directed to the Ivy for a kiwi daiquiri pick-me-up. Being a parent is a hard day's work.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

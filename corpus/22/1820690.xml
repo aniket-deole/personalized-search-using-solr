@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Aging at Home</title>
+    <meta content="l22elderly" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820690"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nursing Homes</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">Dorot (Orgn)</org>
+        <person class="indexing_service">Ehrlich, Vivian Fenster</person>
+        <person class="indexing_service">Rosofsky, Ira</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nursing Homes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EEDD1F30F931A15752C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Aging at Home</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Vivian Fenster Ehrlich, executive director of Dorot, which provides services to elderly, cites costs and possible risks of aging at home (Jan 17 Ira Rosofsky Op-Ed article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Ira Rosofsky forces each of us to think critically about the manner in which the elderly are cared for during their final years (''Escape From the Nursing Home,'' Op-Ed, Jan. 17).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Ira Rosofsky forces each of us to think critically about the manner in which the elderly are cared for during their final years (''Escape From the Nursing Home,'' Op-Ed, Jan. 17).</p>
+        <p>And while aging at home can be a cost-effective, if not comforting, option, there are serious consequences facing the elderly who do live on their own, including the very real danger of injury and social isolation.</p>
+        <p>Those who work extensively with the elderly know that frail seniors living on their own are at greater risk of injury, often need support services for chronic illness, and are likely to become isolated from their community.</p>
+        <p>Home care, although not always affordable, provides a reasonable attempt at preventing many of these risks, but few health care workers can properly assess an elderly person's mental well-being or provide the critical social stimulation that all humans need to function.</p>
+        <p>Aging at home comes with a cost that is often unseen to most of us but is one that the elderly know and fear all too well.</p>
+        <p>Vivian Fenster Ehrlich  New York, Jan. 17, 2007</p>
+        <p>The writer is executive director of Dorot, a nonprofit group that provides services to the elderly.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

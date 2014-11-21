@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Eakins Painting on Display</title>
+    <meta content="05arts-2" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816563"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <location class="indexing_service">Philadelphia (Pa)</location>
+        <org class="indexing_service">Jefferson, Thomas, University (Philadelphia)</org>
+        <org class="indexing_service">Philadelphia Museum of Art</org>
+        <person class="indexing_service">Vogel, Carol</person>
+        <person class="indexing_service">Eakins, Thomas (1844-1916)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Philadelphia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E4DB1430F936A35752C0A9619C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Eakins Painting on Display</hl1>
+      </hedline>
+      <byline class="print_byline">By CAROL VOGEL; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Vogel, Carol</byline>
+      <abstract>
+        <p>Thomas Eakins painting, which has been subject of fundraising efforts by Philadelphia institutions to keep painting in city, will go on display at Philadelphia Museum of Art; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thomas Jefferson University in Philadelphia has agreed to lend the Philadelphia Museum of Art ''The Gross Clinic,'' its prized 1875 Thomas Eakins painting, above, which the museum is raising funds to buy in a collaboration with the Pennsylvania Academy of the Fine Arts. It will go on view at 4 p.m. today. ''It's a thank you to donors who have already given and an inspiration for future gifts,'' said Anne d'Harnoncourt, the museum's director. She said that more than half the $68 million needed to buy the painting had been raised. Late last month the museum and the Academy announced that they would match the price that the National Gallery of Art in Washington and the Crystal Bridges Museum of American Art in Bentonville, Ark., had agreed to pay unless a local institution would pay an equal amount. The work will remain on view at the museum until early spring, when it will move to the Academy.</p>
+        <p>CAROL VOGEL</p>
+      </block>
+      <block class="full_text">
+        <p>Thomas Jefferson University in Philadelphia has agreed to lend the Philadelphia Museum of Art ''The Gross Clinic,'' its prized 1875 Thomas Eakins painting, above, which the museum is raising funds to buy in a collaboration with the Pennsylvania Academy of the Fine Arts. It will go on view at 4 p.m. today. ''It's a thank you to donors who have already given and an inspiration for future gifts,'' said Anne d'Harnoncourt, the museum's director. She said that more than half the $68 million needed to buy the painting had been raised. Late last month the museum and the Academy announced that they would match the price that the National Gallery of Art in Washington and the Crystal Bridges Museum of American Art in Bentonville, Ark., had agreed to pay unless a local institution would pay an equal amount. The work will remain on view at the museum until early spring, when it will move to the Academy.</p>
+        <p>CAROL VOGEL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

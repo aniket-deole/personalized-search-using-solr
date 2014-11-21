@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRAVEL GUARANTEES</title>
+    <meta content="21letters" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820233"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel Agencies and Agents</classifier>
+        <person class="indexing_service">Fuqua, Jerre</person>
+        <person class="indexing_service">Higgins, Michelle</person>
+        <person class="indexing_service">Huang, Mickey</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel Agencies and Agents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE2DB1030F932A15752C0A9619C8B63" item-length="350" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRAVEL GUARANTEES</hl1>
+      </hedline>
+      <abstract>
+        <p>Letters from General Tours World Traveler manager Mickey Huang and First Choice Expeditions, Travcoa president Jerre Fuqua on Michelle Higgins' January 7 Practical Traveler column about travel guarantees offered by tour operators</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: ''Tour Operators; Are 'Guaranteed Departures' Guaranteed?'' (Practical Traveler, Jan. 7) by Michelle Higgins was comprehensive and informative.</p>
+        <p>One key advantage, however, was not mentioned. When a company guarantees all and not just a percentage of its departures, one of the benefits is that these tours take place with smaller groups. This way, companies like ours are never in the position of calling clients to advise them of a cancellation.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: ''Tour Operators; Are 'Guaranteed Departures' Guaranteed?'' (Practical Traveler, Jan. 7) by Michelle Higgins was comprehensive and informative.</p>
+        <p>One key advantage, however, was not mentioned. When a company guarantees all and not just a percentage of its departures, one of the benefits is that these tours take place with smaller groups. This way, companies like ours are never in the position of calling clients to advise them of a cancellation.</p>
+        <p>In fact, we regularly hear from our clients about how much they enjoy traveling in groups of 12 as opposed to groups of 44. For companies that guarantee only some of their departures, one unfortunate result can sometimes be motor coaches filled to near capacity.</p>
+        <p>Mickey Huang  Mr. Huang is the manager of sales and marketing for General Tours World Traveler in Keene, N.H.</p>
+        <p>To the Editor: I wanted to put into context a statement attributed to Travcoa in a recent Practical Traveler article. It said that Travcoa doesn't guarantee departures that include a chartered boat or aircraft because they are too large a financial liability to absorb if that part of the journey is canceled. That statement might have given your readers the wrong impression of our policy.</p>
+        <p>Travcoa excludes these departures from its guarantee policy because the third-party operator is not under Travcoa's control. If the operator must cancel the charter, Travcoa can't always replace it with another high-quality service. These cancellations do not occur often, but because Travcoa must fulfill its promise of a luxury experience, we would rather have the opportunity to cancel the departure than break this promise. We do offer clients other departure dates or a full refund if such a disruption occurs.</p>
+        <p>Our guaranteed departure policy was created for our guests' benefit. It gives them the confidence to be able to book a departure more than a year in advance, which in turn allows them to make flight reservations using frequent flyer miles and to make other appropriate arrangements.</p>
+        <p>Jerre Fuqua  Mr. Fugua is president of First Choice Expeditions, Travcoa in Newport Beach, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Karen Bernard, Jonathan Reiter</title>
+    <meta content="21Bernard" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/fashion/weddings/21Bernard.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820401"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Bernard, Karen Anne (Karen Anne Reiter)</person>
+        <person class="indexing_service">Reiter, Jonathan Charles</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E4DB1E30F932A15752C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Karen Bernard, Jonathan Reiter</hl1>
+        <hl2 class="online_headline">Karen Bernard, Jonathan Reiter</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Karen Anne Bernard and Jonathan Charles Reiter were married last evening at the Carlyle in New York. Justice Lewis J. Lubell of State Supreme Court in White Plains officiated.</p>
+        <p>Mrs. Reiter, 51, is a vice president for sales at Argus Research, a firm in New York that researches securities for banks, brokerage houses and other financial institutions. She graduated from Skidmore.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Karen Anne Bernard and Jonathan Charles Reiter were married last evening at the Carlyle in New York. Justice Lewis J. Lubell of State Supreme Court in White Plains officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Karen Anne Bernard and Jonathan Charles Reiter were married last evening at the Carlyle in New York. Justice Lewis J. Lubell of State Supreme Court in White Plains officiated.</p>
+        <p>Mrs. Reiter, 51, is a vice president for sales at Argus Research, a firm in New York that researches securities for banks, brokerage houses and other financial institutions. She graduated from Skidmore.</p>
+        <p>The bride, who had changed her maiden name, is a daughter of Sylvia Kordower-Zetlin of Leonia, N.J., and Nathan Borodinsky of South Orange, N.J., and a stepdaughter of Dr. Valentine Wolf Zetlin of Leonia.</p>
+        <p>Mr. Reiter, 56, is a partner at Broder &amp; Reiter, a New York law firm. He graduated from Brandeis University and Brooklyn Law School. He is the son of Shirley Reiter of Manhattan and the late Louis Alexander Reiter.</p>
+        <p>The bridegroom was a widower.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

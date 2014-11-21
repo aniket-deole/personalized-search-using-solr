@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; The Public Theater Collaborates With Stanford</title>
+    <meta content="22arts-3" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Education; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820727"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Scholarships and Fellowships</classifier>
+        <org class="indexing_service">Stanford University</org>
+        <org class="indexing_service">Public Theater (NYC)</org>
+        <person class="indexing_service">Robertson, Campbell</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EFDC1F30F931A15752C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; The Public Theater Collaborates With Stanford</hl1>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Robertson, Campbell</byline>
+      <abstract>
+        <p>Stanford University and Public Theater in New York announce long-term partnership that includes annual residency program at Stanford for playwrights developing work for Public, joint commissions for one playwright per year and three annual fellowships for Stanford undergraduates and graduates with artistic staff of Public (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stanford University and the Public Theater in New York have announced a long-term partnership that includes an annual residency program at Stanford for playwrights developing work for the Public, joint commissions for one playwright a year, and three annual fellowships for Stanford undergraduates and graduates with the artistic staff of the Public. David Henry Hwang, a Stanford alumnus, will be the playwright in the residency program this year. Starting next month Mr. Hwang will spend several weeks at Stanford, in Palo Alto, Calif., working on his new play, ''Yellow Face,'' which will be performed as staged readings before being presented at the Mark Taper Forum in Los Angeles in May and at the Public Theater next season. For the 2007-8 residency, the director JoAnne Akalaitis will present a new version of Euripides' ''Bacchae,'' with music by Philip Glass, in a workshop production.</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+      <block class="full_text">
+        <p>Stanford University and the Public Theater in New York have announced a long-term partnership that includes an annual residency program at Stanford for playwrights developing work for the Public, joint commissions for one playwright a year, and three annual fellowships for Stanford undergraduates and graduates with the artistic staff of the Public. David Henry Hwang, a Stanford alumnus, will be the playwright in the residency program this year. Starting next month Mr. Hwang will spend several weeks at Stanford, in Palo Alto, Calif., working on his new play, ''Yellow Face,'' which will be performed as staged readings before being presented at the Mark Taper Forum in Los Angeles in May and at the Public Theater next season. For the 2007-8 residency, the director JoAnne Akalaitis will present a new version of Euripides' ''Bacchae,'' with music by Philip Glass, in a workshop production.</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

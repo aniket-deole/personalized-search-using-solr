@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Middle Ground for Stem Cells</title>
+    <meta content="19levin" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/19/opinion/19levin.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1819880"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Stem Cells</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Levin, Yuval</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Stem Cells</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Transplants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Stem Cells</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Biotechnology</classifier>
+        <classifier class="online_producer" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stem Cells</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">House of Representatives</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E5DD1E30F93AA25752C0A9619C8B63" item-length="862" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Middle Ground for Stem Cells</hl1>
+        <hl2 class="online_headline">A Middle Ground for Stem Cells</hl2>
+      </hedline>
+      <byline class="print_byline">By Yuval Levin</byline>
+      <byline class="normalized_byline">Levin, Yuval</byline>
+      <dateline>Washington</dateline>
+      <abstract>
+        <p>Op-Ed article by Yuval Levin, former director of President's Council on Bioethics, says ethical questions at heart of stem cell research debate are being buried beneath hype and confusion; says Bush administration has spent more than $100 million in embryonic stem cell research that is promising but still speculative and American scientists hold huge lead in field; suggests positions can be reconciled, that 'pluripotent' cells could be developed without harming human embryos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WITH each new round of argument, the ethical questions at the heart of the embryonic stem cell debate get buried under more layers of hype and confusion.</p>
+        <p>Backers of a House bill, approved last week, that would loosen the limits on federal support for the research argue that there is now a ''ban'' on financing, that embryonic stem cells will cure tens of millions and that current federal policy sets American scientists behind their foreign counterparts. But the Bush administration has spent more than $100 million on embryonic stem cell research in the past six years; the research, while promising, remains purely speculative; and American scientists hold a huge and steady lead that no other country comes close to challenging.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Biomedical science can offer us tremendous benefits, but only if we make sure they do not come at the cost of our highest ideals.</p>
+      </block>
+      <block class="full_text">
+        <p>WITH each new round of argument, the ethical questions at the heart of the embryonic stem cell debate get buried under more layers of hype and confusion.</p>
+        <p>Backers of a House bill, approved last week, that would loosen the limits on federal support for the research argue that there is now a ''ban'' on financing, that embryonic stem cells will cure tens of millions and that current federal policy sets American scientists behind their foreign counterparts. But the Bush administration has spent more than $100 million on embryonic stem cell research in the past six years; the research, while promising, remains purely speculative; and American scientists hold a huge and steady lead that no other country comes close to challenging.</p>
+        <p>Defenders of the president's policy, meanwhile, too often get caught up in comparing adult and embryonic stem cell research. This leads them to deny the utility of embryonic cells, which scientists clearly do find useful, rather than articulating the moral justification for a policy that avoids the destruction of developing life.</p>
+        <p>All of this leaves us confused over just what the debate is about. It is, to begin with, not about stem cell research, any more than an argument about the lethal extraction of livers from Chinese political prisoners would be a debate about organ transplantation. There are ethical and unethical ways to transplant organs, and there are ethical and unethical ways to conduct stem cell research. The question is to which category a particular technique -- the destruction of living embryos for their cells -- belongs.</p>
+        <p>The debate is also not about whether there ought to be ethical limits on science. Everyone agrees there should be strict limits when research involves human subjects. The question is whether embryos destroyed for their cells are such human subjects.</p>
+        <p>But that does not mean the stem cell debate is about when human life begins. It is a simple and uncontroversial biological fact that a human life begins when an embryo is created. That embryo is human, and it is alive; its human life will last until its death, whether that comes days after conception or many decades later surrounded by children and grandchildren.</p>
+        <p>But the biological fact that a human life begins at conception does not by itself settle the ethical debate. The human embryo is a human organism, but is this being -- microscopically small, with no self-awareness and little resemblance to us -- a person, with a right to life?</p>
+        <p>Many advocates of federal financing for embryo-destructive research begin from a negative answer to that question. They argue that the human embryo is just too small, too unlike us in appearance, or too lacking in consciousness or sensitivity to pain or other critical mental capacity to be granted a place in the human family. But surely America has learned the hard way not to assign human worth by appearances. And surely we would not deny those who have lost some mental faculties the right to be regarded with respect and protected from harm. Why should we deny it to those whose faculties are still developing?</p>
+        <p>At its heart, then, when the biology and politics have been stipulated away, the stem cell debate is not about when human life begins but about whether every human life is equal. The circumstances of the embryo outside the body of a mother put that question in perhaps the most exaggerated form imaginable, but they do not change the question.</p>
+        <p>America's birth charter, the Declaration of Independence, asserts a positive answer to the question, and in lieu of an argument offers another assertion: that our equality is self-evident. But it is not. Indeed, the evidence of nature sometimes makes it very hard to believe that all human beings are equal. It takes a profound moral case to defend the proposition that the youngest and the oldest, the weakest and the strongest, all of us, simply by virtue of our common humanity, are in some basic and inalienable way equals.</p>
+        <p>Our faith in that essential liberal proposition is under attack by our own humanitarian impulses in the stem cell debate, and it will be under further attack as biotechnology progresses. But the stem cell debate, our first real test, should also be the easiest. We do not, at least in this instance, face a choice between science and the liberal society. We face the challenge of championing both.</p>
+        <p>President Bush's stem cell policy seeks to meet that challenge. It encourages scientists to pursue the cells they seek without destroying life. Scientific advances in the past two years have suggested that this can be done: that ''pluripotent'' cells could be developed without harming human embryos; that stem cell science and ethics can be reconciled. But some members of Congress nonetheless insist on a policy that sets the two at odds.</p>
+        <p>If we cannot pass this first and simplest test of our devotion to human equality and dignity in the age of biotechnology, we will have little chance of meeting the far more difficult challenges to come. Biomedical science can offer us tremendous benefits, but only if we make sure they do not come at the cost of our highest ideals.</p>
+        <p>Op-Ed Contributor Yuval Levin, a fellow at the Ethics and Public Policy Center, is a former executive director of the President's Council on Bioethics.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Yuval Levin, a fellow at the Ethics and Public Policy Center, is a former executive director of the President's Council on Bioethics.</tagline>
+    </body.end>
+  </body>
+</nitf>

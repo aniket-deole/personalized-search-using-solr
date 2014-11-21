@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rebekah Dopp, Theodore Calabrese</title>
+    <meta content="14dopp" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/fashion/weddings/14dopp.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818802"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Dopp, Rebekah Evangeline (Rebekah Evangeline Calabrese)</person>
+        <person class="indexing_service">Calabrese, Theodore Steven</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5DB1330F937A25752C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rebekah Dopp, Theodore Calabrese</hl1>
+        <hl2 class="online_headline">Rebekah Dopp, Theodore Calabrese</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rebekah Evangeline Dopp is to be married today to Theodore Steven Calabrese in the chapel of the Hackley School in Tarrytown, N.Y. The Rev. Leslie Harry Cohen, an interfaith minister, is to officiate.</p>
+        <p>The bride, 30, is a director of affiliate relations at HBO in New York. She graduated from the College of William and Mary.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Rebekah Evangeline Dopp is to be married today to Theodore Steven Calabrese in the chapel of the Hackley School in Tarrytown, N.Y. The Rev. Leslie Harry Cohen, an interfaith minister, is to officiate.</p>
+      </block>
+      <block class="full_text">
+        <p>Rebekah Evangeline Dopp is to be married today to Theodore Steven Calabrese in the chapel of the Hackley School in Tarrytown, N.Y. The Rev. Leslie Harry Cohen, an interfaith minister, is to officiate.</p>
+        <p>The bride, 30, is a director of affiliate relations at HBO in New York. She graduated from the College of William and Mary.</p>
+        <p>She is a daughter of Stephanie Evangeline Dopp and Charles G. Dopp of Middletown, Del. Her father works in Philadelphia as a vice president for programming of ''Comcast Newsmakers,'' an interview series produced by Comcast, the cable television company.</p>
+        <p>The bridegroom, 28, is a director of business development in New York at Computershare, an Australian firm that serves the securities industry. He graduated from Gettysburg College and received a law degree from New York Law School.</p>
+        <p>He is the son of Patricia Carr Calabrese and Steven Calabrese of Irvington, N.Y. His mother is a sales agent at Country Village Real Estate in Nantucket, Mass. His father works in New York and Shelton, Conn., managing the Medicare programs of Health Net Northeast, the managed-care insurance company.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; New Season at Carnegie</title>
+    <meta content="30arts-4" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822635"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Berlin Philharmonic</org>
+        <org class="indexing_service">Lucerne Festival Orchestra</org>
+        <org class="indexing_service">New York Philharmonic</org>
+        <person class="indexing_service">Sisario, Ben</person>
+        <person class="indexing_service">Abbado, Claudio</person>
+        <person class="indexing_service">Gergiev, Valery</person>
+        <person class="indexing_service">Mcferrin, Bobby</person>
+        <person class="indexing_service">Bronfman, Yefim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E5D8143FF933A05752C0A9619C8B63" item-length="224" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; New Season at Carnegie</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Sisario, Ben</byline>
+      <abstract>
+        <p>Carnegie Hall 2007-2008 season will include Berlin in Lights, 17-day festival that will feature residency by Berlin Philharmonic and various events; other highlights include North American debut of Lucerne Festival Orchestra, led by Claudio Abbado, concert by New York Philharmonic and Perspectives series with Valery Gergiev, Bobby McFerrin and Yefim Bronfman (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Berlin is coming to Carnegie Hall in November. As part of its 2007-8 season Carnegie will present ''Berlin in Lights,'' a 17-day festival beginning Nov. 2 that will feature a residency by the Berlin Philharmonic and performances by the Max Raabe and Palast Orchester and a screening of the 1927 silent film ''Berlin: Symphony of a City'' with a live score, as well as programs at the Guggenheim Museum, the Museum of Modern Art and the Neue Galerie. The Carnegie season opens on Oct. 3 with the North American debut of the Lucerne Festival Orchestra, led by Claudio Abbado in Beethoven's Ninth; the Lucerne players will make seven appearances, in different permutations, over five days. Other season highlights include the New York Philharmonic's first concert at Carnegie since plans to merge the institutions were aborted four years ago; Perspectives series with Valery Gergiev, Bobby McFerrin and Yefim Bronfman; Thomas Adès as the composer in residence; the Boston Symphony with James Levine; the Royal Concertgebouw Orchestra with Mariss Jansons, the Atlanta Symphony with Robert Spano and the Chicago Symphony with Pierre Boulez; an all-Schubert concert with the singers Dorothea Röschmann, Ian Bostridge and Thomas Quasthoff; recitals by Alfred Brendel, the Kronos Quartet, Lang Lang, Andras Schiff, Ravi Shankar, Joshua Bell and Anne-Sophie Mutter. Full schedule: carnegiehall.org.</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>Berlin is coming to Carnegie Hall in November. As part of its 2007-8 season Carnegie will present ''Berlin in Lights,'' a 17-day festival beginning Nov. 2 that will feature a residency by the Berlin Philharmonic and performances by the Max Raabe and Palast Orchester and a screening of the 1927 silent film ''Berlin: Symphony of a City'' with a live score, as well as programs at the Guggenheim Museum, the Museum of Modern Art and the Neue Galerie. The Carnegie season opens on Oct. 3 with the North American debut of the Lucerne Festival Orchestra, led by Claudio Abbado in Beethoven's Ninth; the Lucerne players will make seven appearances, in different permutations, over five days. Other season highlights include the New York Philharmonic's first concert at Carnegie since plans to merge the institutions were aborted four years ago; Perspectives series with Valery Gergiev, Bobby McFerrin and Yefim Bronfman; Thomas Adès as the composer in residence; the Boston Symphony with James Levine; the Royal Concertgebouw Orchestra with Mariss Jansons, the Atlanta Symphony with Robert Spano and the Chicago Symphony with Pierre Boulez; an all-Schubert concert with the singers Dorothea Röschmann, Ian Bostridge and Thomas Quasthoff; recitals by Alfred Brendel, the Kronos Quartet, Lang Lang, Andras Schiff, Ravi Shankar, Joshua Bell and Anne-Sophie Mutter. Full schedule: carnegiehall.org.</p>
+        <p>BEN SISARIO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

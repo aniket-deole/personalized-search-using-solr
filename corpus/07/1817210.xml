@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tips for Protecting the Home Computer</title>
+    <meta content="07tips" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/07/technology/07tips.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817210"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E7DE1530F934A35752C0A9619C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tips for Protecting the Home Computer</hl1>
+        <hl2 class="online_headline">Tips for Protecting the Home Computer</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Article offers tips on protecting home computer from botnet programs and other malicious software that mostly aim at PCs running Microsoft Windows operating system (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Botnet programs and other malicious software largely take aim at PCs running the Microsoft Windows operating system, because Windows' ubiquity makes it fertile ground for network-based attacks.</p>
+        <p>Using a non-Windows-based PC may be one defense against these programs, known as malware; also, anti-malware programs and antivirus utilities for the PC are available from several vendors. Windows users should use the Windows update feature.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Botnet programs and other malicious software largely take aim at PCs running the Microsoft Windows operating system, because Windows’ ubiquity makes it fertile ground for network-based attacks.</p>
+      </block>
+      <block class="full_text">
+        <p>Botnet programs and other malicious software largely take aim at PCs running the Microsoft Windows operating system, because Windows' ubiquity makes it fertile ground for network-based attacks.</p>
+        <p>Using a non-Windows-based PC may be one defense against these programs, known as malware; also, anti-malware programs and antivirus utilities for the PC are available from several vendors. Windows users should use the Windows update feature.</p>
+        <p>Microsoft itself entered the computer-security business last year and now offers a free malware-removal tool for download from its Web site. The company says the program removes about two million pieces of malware each month, of which 200,000, or about 10 percent, are botnet infections.</p>
+        <p>Like Windows, Microsoft's Internet Explorer browser is also a large, convenient target for code-writing vandals. Alternative browsers, like Firefox and Opera, may insulate users. Microsoft's most recent browser release, Internet Explorer 7, is said to offer significantly improved defenses.</p>
+        <p>Adding software to your browser like Noscript, a plug-in utility, can limit the ability of remote programs to run potentially damaging programs on your PC.</p>
+        <p>Security experts also offer these tips:</p>
+        <p>Don't share your computer (on which you pay your bills) with your children (who download games).</p>
+        <p>Use a firewall program that warns you about outgoing connections that botnets make to communicate with control software.</p>
+        <p>Don't use the same password on more than one financial site.</p>
+        <p>Don't let your browser store your password for such sites.</p>
+        <p>Don't buy anything offered by a spammer.</p>
+        <p>Don't click if someone offers you something too good to be true. It is.</p>
+        <p>JOHN MARKOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

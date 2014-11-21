@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LEWIS, EVERETT E.</title>
+    <meta content="dn011907" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819773"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LEWIS, EVERETT E.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE0DD1F3AF93AA25752C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LEWIS, EVERETT E.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEWIS--Everett E., died on January 12th. A lifelong New Yorker, Everett was born on August 12, 1924 and attended DeWitt Clinton High School. He enlisted in the Army Air Corps in 1942 and served in the Pacific. After the war, he completed his CCNY degree and went on to NYU Law School. He spent his professional life, which continued until his death, fighting for working men and women as a union lawyer. He was a partner at Lewis, Clifton and Nikolaidis at his death and was a legendary figure in the labor law fraternity. Everett</p>
+      </block>
+      <block class="full_text">
+        <p>LEWIS--Everett E., died on January 12th. A lifelong New Yorker, Everett was born on August 12, 1924 and attended DeWitt Clinton High School. He enlisted in the Army Air Corps in 1942 and served in the Pacific. After the war, he completed his CCNY degree and went on to NYU Law School. He spent his professional life, which continued until his death, fighting for working men and women as a union lawyer. He was a partner at Lewis, Clifton and Nikolaidis at his death and was a legendary figure in the labor law fraternity. Everett</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

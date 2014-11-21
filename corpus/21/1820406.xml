@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Melanie Thernstrom, Michael Callahan</title>
+    <meta content="21THERNSTROM" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820406"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Thernstrom, Melanie</person>
+        <person class="indexing_service">Callahan, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DB1E30F932A15752C0A9619C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Melanie Thernstrom, Michael Callahan</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Melanie Thernstrom and Michael Callahan were married last evening at the Harvard Club in New York. The ceremony was performed by Cynthia Baughman, the bride's best friend, who became a minister of the Rose Ministries for the event.</p>
+        <p>Ms. Thernstrom, 42, is keeping her name. She is a contributing writer, working from New York and Portland, Ore., for The New York Times Magazine. She is the author of two books, ''The Dead Girl'' (Simon &amp; Schuster, 1990) and ''Halfway Heaven'' (Doubleday, 1997). She graduated with highest honors from Harvard and received a Master of Fine Arts degree in creative writing from Cornell.</p>
+      </block>
+      <block class="full_text">
+        <p>Melanie Thernstrom and Michael Callahan were married last evening at the Harvard Club in New York. The ceremony was performed by Cynthia Baughman, the bride's best friend, who became a minister of the Rose Ministries for the event.</p>
+        <p>Ms. Thernstrom, 42, is keeping her name. She is a contributing writer, working from New York and Portland, Ore., for The New York Times Magazine. She is the author of two books, ''The Dead Girl'' (Simon &amp; Schuster, 1990) and ''Halfway Heaven'' (Doubleday, 1997). She graduated with highest honors from Harvard and received a Master of Fine Arts degree in creative writing from Cornell.</p>
+        <p>She is the daughter of Abigail Thernstrom and Stephan Thernstrom of Lexington, Mass. Her father is the Winthrop professor of history at Harvard and a council member of the National Endowment for the Humanities. Her mother is a senior fellow at the Manhattan Institute and the vice chairwoman of the United States Commission on Civil Rights. The bride's parents are the authors of ''No Excuses: Closing the Racial Gap in Learning'' (Simon &amp; Schuster, 2003), among other books written separately and together.</p>
+        <p>Mr. Callahan, 37, is a founder and the chief technology officer at PolyServe, a software company in Portland, specializing in database and file serving. He graduated summa cum laude from Harvard and was a Rhodes scholar at Oxford University, where he received a master's degree in mathematics.</p>
+        <p>He is the son of Felicity Callahan and James Callahan of Amherst, Mass. His mother is an adjunct instructor of mathematics at Holyoke Community College in Holyoke, Mass. His father is a professor of mathematics at Smith College.</p>
+        <p>The bridegroom's first marriage ended in divorce.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

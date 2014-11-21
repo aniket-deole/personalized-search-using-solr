@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Right Has a Jailhouse Conversion</title>
+    <meta content="21letters.t-7" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820272"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <person class="indexing_service">Suellentrop, Chris</person>
+        <person class="indexing_service">evans, richard m</person>
+        <person class="indexing_service">manno, d f</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E0DC1130F932A15752C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Right Has a Jailhouse Conversion</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard M Evans and D F Manno letters comment on Dec 24 article on conservative lawmakers' new embrace of prison reform</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is well and good, and long overdue, to plan seriously for prisoner re-entry, but that is only half the story (Chris Suellentrop, Dec. 24). The real problem is that we have been locking up far too many people for far too long. It's not about what we do with criminals; it's about how we define them.</p>
+      </block>
+      <block class="full_text">
+        <p>It is well and good, and long overdue, to plan seriously for prisoner re-entry, but that is only half the story (Chris Suellentrop, Dec. 24). The real problem is that we have been locking up far too many people for far too long. It's not about what we do with criminals; it's about how we define them.</p>
+        <p>When a debate emerges about whether we should imprison people whose conduct violated nobody else's rights (like most drug offenses), we'll know that real reform is stirring.</p>
+        <p>Richard M. Evans</p>
+        <p>Northampton, Mass.</p>
+        <p>Of course conservatives are now interested in prison reform. So many of them (DeLay, Ney, Abramoff, Cunningham, et al.) are either already there or facing the prospect.</p>
+        <p>It's no coincidence that the last time I can recall conservatives being interested in the subject was after Watergate.</p>
+        <p>D. F. Manno</p>
+        <p>Philadelphia</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

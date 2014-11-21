@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Snapping Turtles Do Snap</title>
+    <meta content="l09rural" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817572"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Turtles and Tortoises</classifier>
+        <classifier class="indexing_service" type="descriptor">Nature</classifier>
+        <person class="indexing_service">Longley, Robert</person>
+        <person class="indexing_service">Klinkenborg, Verlyn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reptiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E1D81530F93AA35752C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Snapping Turtles Do Snap</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert Longley letter comments on Verlyn Klinkenborg's remarks in Jan 1 essay about helping tortoises cross rural roads</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It's good to know that Verlyn Klinkenborg is among those of us who stop to help tortoises on their way on a busy road (''Edges and Order,'' The Rural Life, Jan. 1).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It's good to know that Verlyn Klinkenborg is among those of us who stop to help tortoises on their way on a busy road (''Edges and Order,'' The Rural Life, Jan. 1).</p>
+        <p>I have done that, and afterward felt at least virtuous if not godlike. But not long ago on a lonely road in northern Connecticut, I stopped to administer similar compassion, only to be stoutly rebuffed by a vicious snapping turtle that refused to be helped. I confess that I felt a certain animosity toward the reptile, and have yet to decide whether I will help his or her cousins in the future.</p>
+        <p>Robert Longley  Salisbury, Conn., Jan. 2, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

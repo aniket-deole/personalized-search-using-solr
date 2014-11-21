@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sun's Chief Doesn't Fear The Snarky</title>
+    <meta content="13interview" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/13/technology/13interview.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818435"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SATURDAY INTERVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Sun Microsystems</org>
+        <person class="indexing_service">Schwartz, Jonathan I</person>
+        <person class="indexing_service">Markoff, John</person>
+        <person class="indexing_service">Mcnealy, Scott G</person>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Sun Microsystems Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E7D91330F930A25752C0A9619C8B63" item-length="775" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sun's Chief Doesn't Fear The Snarky</hl1>
+        <hl2 class="online_headline">Sun’s Chief Doesn’t Fear the Snarky</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Excerpts from interview with Sun Microsystems chief executive Jonathan Schwartz, who comments on changes he has been making since succeeding Scott McNealy last April; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Jonathan I. Schwartz was named chief executive of the struggling Sun Microsystems last April, succeeding Scott G. McNealy, there was a great deal of skepticism about whether he could bring the company back. Perhaps more than any other computer maker Sun has been a victim of the dot-com Internet collapse.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jonathan I. Schwartz, the chief executive of Sun Microsystems, talked about the changes he has been making at the company.</p>
+      </block>
+      <block class="full_text">
+        <p>When Jonathan I. Schwartz was named chief executive of the struggling Sun Microsystems last April, succeeding Scott G. McNealy, there was a great deal of skepticism about whether he could bring the company back. Perhaps more than any other computer maker Sun has been a victim of the dot-com Internet collapse.</p>
+        <p>In the eight months since taking the helm, however, Mr. Schwartz, 41, a longtime computer industry executive, has been making steady progress, and the company's stock price has almost doubled in the last year. He talked about Sun and the changes he has been making from the company's campus in Menlo Park, Calif. Following are excerpts:</p>
+        <p>Q. There are so many companies in Silicon Valley in trouble around the backdating of options. What procedures or policies put Sun in a different position?</p>
+        <p>A. Everything spawns from leaders and from leadership. And if you want to know why we don't have an ethics problem at Sun, it's because we had a remarkably ethical individual at the helm during the period in which lots of other companies got caught up in problems, and that's Scott McNealy. And if there's one lesson I've learned in 25 years in business, it's everything spawns from the leader.</p>
+        <p>Q. Did the Valley get bad legal advice regarding options practices?</p>
+        <p>A. I'll give you my view on legal advice. Lawyers are the very core of Sun Microsystems. I mean in essence we're a company that monetizes intellectual property. There's a lot of lawyers involved in helping us think through open source licensing arrangements, you know, customer indemnity. These are not simple things. But at the end of the day, when folks inside of Sun come to me and say, a lawyer wouldn't let me do X or Y or Z, my response is, well, then why don't I move headcount under the lawyer, because who's making the decision here -- the lawyer or the businessperson? So legal advice is just that, it's advice.</p>
+        <p>Q. What is Sun's corporate culture like under you versus Sun culture under Scott McNealy?</p>
+        <p>A. I don't believe that you can change corporate culture of an organization of this size overnight and nor do I think, unless the corporate culture is rotten from the outset, you want to go change any corporate culture, because it takes a lot of time and energy. And what we're starting with is a wonderful foundation -- a foundation of tenacity, competitiveness, the value of R&amp;D, really valuing innovation in every area of the business, and I don't care if it's intellectual property arrangements or technology itself.</p>
+        <p>You know, I write a blog; Scott doesn't write a blog. I enjoy wine; Scott enjoys wine out of a box. I mean I love food; Scott thinks food is fuel. I don't go to SuperCuts for my haircut; Scott does. But I think in terms of the people we value inside of Sun, the customers we value, the technologies we value, that's almost identical.</p>
+        <p>Q. There are always some snarky comments in response to your blog. Do you read them?</p>
+        <p>A. I absolutely read the snarky comments. Look, you're never going to get 100 percent of the world to agree with what you say. And I don't want that. For us to be truly innovative, we have to disagree with conventional wisdom. Otherwise you're just going to be operating in someone else's market.</p>
+        <p>Q. Why did Sun buy land in Second Life, the virtual world service on the Internet?</p>
+        <p>A. When I say Sun is a new-media company, most folks roll their eyes and say, no, you're a hardware company. And then most of the analysts who cover us on Wall Street want to cover us as a hardware company, and they keep missing the real value of Sun.</p>
+        <p>Here's how our business works. You decide you need an operating system because you're a new start-up in India. And where do you go to get an operating system? You go to the Internet, right? Because you're not going to go to the corner store. And from there, we now have an opportunity -- independent of whatever hardware they're running on -- to serve that customer, because over time if you have an OS, if you have a computer, you need storage; if you have storage and a computer and you have software, you need network connection, and all of a sudden you need infrastructure requirements. I'm not going to advertise during the Super Bowl. What a waste of money. Where am I going to advertise? I'm going to buy land in Second Life.</p>
+        <p>SATURDAY INTERVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

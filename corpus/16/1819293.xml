@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Parents and Chicken Nuggets</title>
+    <meta content="16slett-4" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1819293"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Oils and Fats</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="indexing_service" type="descriptor">Families and Family Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <person class="indexing_service">Weiss, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oils and Fats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E5D81030F935A25752C0A9619C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Parents and Chicken Nuggets</hl1>
+      </hedline>
+      <abstract>
+        <p>Jennifer Weiss letter on January 9 article about how families eat says that it is logical that adults with families consume more fat than adults without children</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''So Now You're What Your Children Eat?''(Jan. 9): Did the Centers for Disease Control and Prevention really believe a full-blown study was necessary to learn that adults who live with children eat more fat, including saturated fat?</p>
+        <p>Even the C.D.C.'s researchers with kids could have explained how the contents of one's refrigerator changes when children are also being fed, and whatever food is in the house gets consumed by adults and children alike. Fish sticks, chicken nuggets, macaroni and cheese and graham crackers, just to name a few, seem to wend their way into everyone's diet to varying degrees.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''So Now You're What Your Children Eat?''(Jan. 9): Did the Centers for Disease Control and Prevention really believe a full-blown study was necessary to learn that adults who live with children eat more fat, including saturated fat?</p>
+        <p>Even the C.D.C.'s researchers with kids could have explained how the contents of one's refrigerator changes when children are also being fed, and whatever food is in the house gets consumed by adults and children alike. Fish sticks, chicken nuggets, macaroni and cheese and graham crackers, just to name a few, seem to wend their way into everyone's diet to varying degrees.</p>
+        <p>Also, it may not just be about the foods you eat but the amounts of food. Pity the parent who has two seatings a night -- the early dinner with the kids, and the second dinner with the spouse a few hours later.</p>
+        <p>Jennifer Weiss  Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AIDS Drug to Protect Fetus Is Safe for Infected Mothers, Study Finds</title>
+    <meta content="11drug" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/11/health/11drug.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817980"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="indexing_service" type="descriptor">Nevirapine (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <location class="indexing_service">Africa</location>
+        <location class="indexing_service">Far East, South and Southeast Asia and Pacific Areas</location>
+        <location class="indexing_service">Latin America</location>
+        <org class="indexing_service">New England Journal of Medicine</org>
+        <person class="indexing_service">Mcneil, Donald G Jr</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Botswana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pregnancy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Nevirapine (Drug)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Botswana</classifier>
+        <classifier class="online_producer" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Botswana</location>
+        <org class="online_producer">New England Journal of Medicine</org>
+        <org class="online_producer">Harvard School of Public Health</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0DB1230F932A25752C0A9619C8B63" item-length="540" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AIDS Drug to Protect Fetus Is Safe for Infected Mothers, Study Finds</hl1>
+        <hl2 class="online_headline">AIDS Drug to Protect Fetus Is Safe for Infected Mothers, Study Finds</hl2>
+      </hedline>
+      <byline class="print_byline">By DONALD G. McNEIL Jr.</byline>
+      <byline class="normalized_byline">Mcneil, Donald G Jr</byline>
+      <abstract>
+        <p>New study finds that women can take anti-AIDS drug nevirapine to protect their unborn children without endangering their ability to undergo life-saving antiretroviral treatment later on; nevirapine is inexpensive first-line drug that often prevents transmission of HIV from mother to child; study, published in The New England Journal of Medicine, is good news for poor women in Africa, Asia and Latin America who must take nevirapine rather than more expensive treatments for women in wealthy countries (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Women can take the anti-AIDS drug nevirapine to protect their unborn children without endangering their ability to undergo life-saving antiretroviral treatment later on, a new study has found.</p>
+        <p>The results are good news for poor women in Africa, Asia and Latin America who must take nevirapine, an inexpensive first-line drug that often prevents the transmission of H.I.V. from mother to child.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Women can take nevirapine without endangering their ability to undergo antiretroviral treatment later on.</p>
+      </block>
+      <block class="full_text">
+        <p>Women can take the anti-AIDS drug nevirapine to protect their unborn children without endangering their ability to undergo life-saving antiretroviral treatment later on, a new study has found.</p>
+        <p>The results are good news for poor women in Africa, Asia and Latin America who must take nevirapine, an inexpensive first-line drug that often prevents the transmission of H.I.V. from mother to child.</p>
+        <p>The drug lingers in the blood up to three weeks, and if the mother has the virus that causes AIDS, its presence encourages the growth of nevirapine-resistant strains. That has led to fears that any antiretroviral drug cocktail containing nevirapine would be useless.</p>
+        <p>But the new study, published today in The New England Journal of Medicine, finds that such a cocktail is still effective if women simply delay it for six months after taking the protective dose of nevirapine.</p>
+        <p>The study was done by Harvard researchers working in Botswana but has implications for poor women everywhere. Early reports of data gathered in the study, along with evidence from similar ones, influenced the World Health Organization's new AIDS treatment guidelines last year, helping to keep nevirapine in the arsenal of first-line AIDS drugs.</p>
+        <p>''This is a real glimmer of hope,'' said Dr. Catherine Hankins, chief scientific adviser for Unaids, the United Nations AIDS agency. ''There was real concern that single-dose nevirapine was blowing the use of that whole class of drugs.''</p>
+        <p>Nevirapine has never been a perfect drug; in prolonged use, it can poison the liver and cause rashes, and the virus that causes AIDS only needs to make a single mutation to develop resistance to it.</p>
+        <p>In wealthy countries, women are usually given a short course of two or three antiretroviral drugs late in the pregnancy to prevent passing the virus to their babies, and birth infections are now rare in the West.</p>
+        <p>But in poor countries, many women in rural villages give birth without ever seeing a doctor, or they make the trek to hospitals or clinics only when they are in labor, leaving medical workers with little choice but single-dose nevirapine.</p>
+        <p>The drug is so simple and effective that health workers in small clinics often leave pregnant women one pill to take when labor starts and a syringe full of liquid nevirapine to squirt into the newborn's mouth, said Dr. Shahin Lockman, a researcher for the Harvard School of Public Health's AIDS Initiative and one of the authors of the study. In some cases, she said, they must do this without even knowing whether the mother is infected. In Africa, many women still refuse AIDS tests for fear family or neighbors will shun them if they prove positive.</p>
+        <p>Under those circumstances, nevirapine is usually harmless and cuts in half the chance that the baby will get infected.</p>
+        <p>The drug is also a cornerstone of antiretroviral AIDS treatment in poor countries. It is commonly found in the three-in-one pills used in treatment programs supported by Western donors, and many start-up programs have few alternatives or none at all. In generic form, it costs one-eighth as much as efavirenz, the most closely related drug.</p>
+        <p>The Botswana study concludes that waiting six months after single-dose nevirapine allows the nevirapine-resistant strains to disappear from the body.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

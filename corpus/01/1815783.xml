@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Healthy New Year</title>
+    <meta content="01krugman" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/01/opinion/01krugman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1815783"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE7D81630F932A35752C0A9619C8B63" item-length="780" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Healthy New Year</hl1>
+        <hl2 class="online_headline">A Healthy New Year</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column holds that US health care system is disgrace; maintains that every other advanced country manages to provide its citizens with essential care; contends that only reason universal coverage seems hard to achieve in US is spectacular inefficiency of its health care system; holds that health care reform is in air, but says we could blow it with pre-emptive surrender to special interests (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The U.S. health care system is a scandal and a disgrace. But maybe, just maybe, 2007 will be the year we start the move toward universal coverage.</p>
+        <p>In 2005, almost 47 million Americans -- including more than 8 million children -- were uninsured, and many more had inadequate insurance.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The U.S. health care system is a scandal and a disgrace. But maybe 2007 will be the year we start the move toward universal coverage.</p>
+      </block>
+      <block class="full_text">
+        <p>The U.S. health care system is a scandal and a disgrace. But maybe, just maybe, 2007 will be the year we start the move toward universal coverage.</p>
+        <p>In 2005, almost 47 million Americans -- including more than 8 million children -- were uninsured, and many more had inadequate insurance.</p>
+        <p>Apologists for our system try to minimize the significance of these numbers. Many of the uninsured, asserted the 2004 Economic Report of the President, ''remain uninsured as a matter of choice.''</p>
+        <p>And then you wake up. A scathing article in yesterday's Los Angeles Times described how insurers refuse to cover anyone with even the slightest hint of a pre-existing condition. People have been denied insurance for reasons that range from childhood asthma to a ''past bout of jock itch.''</p>
+        <p>Some say that we can't afford universal health care, even though every year lack of insurance plunges millions of Americans into severe financial distress and sends thousands to an early grave. But every other advanced country somehow manages to provide all its citizens with essential care. The only reason universal coverage seems hard to achieve here is the spectacular inefficiency of the U.S. health care system.</p>
+        <p>Americans spend more on health care per person than anyone else -- almost twice as much as the French, whose medical care is among the best in the world. Yet we have the highest infant mortality and close to the lowest life expectancy of any wealthy nation. How do we do it?</p>
+        <p>Part of the answer is that our fragmented system has much higher administrative costs than the straightforward government insurance systems prevalent in the rest of the advanced world. As Anna Bernasek pointed out in yesterday's New York Times, besides the overhead of private insurance companies, ''there's an enormous amount of paperwork required of American doctors and hospitals that simply doesn't exist in countries like Canada or Britain.''</p>
+        <p>In addition, insurers often refuse to pay for preventive care, even though such care saves a lot of money in the long run, because those long-run savings won't necessarily redound to their benefit. And the fragmentation of the American system explains why we lag far behind other nations in the use of electronic medical records, which both reduce costs and save lives by preventing many medical errors.</p>
+        <p>The truth is that we can afford to cover the uninsured. What we can't afford is to keep going without a universal health care system.</p>
+        <p>If it were up to me, we'd have a Medicare-like system for everyone, paid for by a dedicated tax that for most people would be less than they or their employers currently pay in insurance premiums. This would, at a stroke, cover the uninsured, greatly reduce administrative costs and make it much easier to work on preventive care.</p>
+        <p>Such a system would leave people with the right to choose their own doctors, and with other choices as well: Medicare currently lets people apply their benefits to H.M.O.'s run by private insurance companies, and there's no reason why similar options shouldn't be available in a system of Medicare for all. But everyone would be in the system, one way or another.</p>
+        <p>Can we get there from here? Health care reform is in the air. Democrats in Congress are talking about providing health insurance to all children. John Edwards began his presidential campaign with a call for universal health care.</p>
+        <p>And there's real action at the state level. Inspired by the Massachusetts plan to cover all its uninsured residents, politicians in other states are talking about adopting similar plans. Senator Ron Wyden of Oregon has introduced a Massachusetts-type plan for the nation as a whole.</p>
+        <p>But now is the time to warn against plans that try to cover the uninsured without taking on the fundamental sources of our health system's inefficiency. What's wrong with both the Massachusetts plan and Senator Wyden's plan is that they don't operate like Medicare; instead, they funnel the money through private insurance companies.</p>
+        <p>Everyone knows why: would-be reformers are trying to avoid too strong a backlash from the insurance industry and other players who profit from our current system's irrationality.</p>
+        <p>But look at what happened to Bill Clinton. He rejected a single-payer approach, even though he understood its merits, in favor of a complex plan that was supposed to co-opt private insurance companies by giving them a largely gratuitous role. And the reward for this ''pragmatism'' was that insurance companies went all-out against his plan anyway, with the notorious ''Harry and Louise'' ads that, yes, mocked the plan's complexity.</p>
+        <p>Now we have another chance for fundamental health care reform. Let's not blow that chance with a pre-emptive surrender to the special interests.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

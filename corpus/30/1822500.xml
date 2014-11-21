@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALLY?</title>
+    <meta content="30real" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/30/health/30real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822500"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Really?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weight</classifier>
+        <classifier class="indexing_service" type="descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <person class="indexing_service">O'Connor, Anahad</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="descriptor">Weight</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DC143FF933A05752C0A9619C8B63" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALLY?</hl1>
+        <hl2 class="online_headline">The Claim: The Pill Can Make You Put On Weight</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+      <byline class="normalized_byline">O'Connor, Anahad</byline>
+      <abstract>
+        <p>Research does not show link between taking birth control pills and weight gain; drawings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM -- The pill can make you put on weight.</p>
+        <p>THE FACTS -- Quick weight gain may be among the birth-control pill's most dreaded side effects. But how much does it really add to your waistline?</p>
+        <p>Last year, a group of researchers carried out what may be the most extensive study on the subject to date. Their conclusion: In most women, neither the pill nor the patch seems to add any pounds at all.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Quick weight gain may be among the birth-control pill’s most dreaded side effects but how much does it really add to your waistline?</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM -- The pill can make you put on weight.</p>
+        <p>THE FACTS -- Quick weight gain may be among the birth-control pill's most dreaded side effects. But how much does it really add to your waistline?</p>
+        <p>Last year, a group of researchers carried out what may be the most extensive study on the subject to date. Their conclusion: In most women, neither the pill nor the patch seems to add any pounds at all.</p>
+        <p>Of 44 previous studies that the researchers combined and analyzed, 3 found no difference between women who took hormonal contraceptives and those who took a placebo. The other studies looked at women taking different types and doses of hormonal contraception, and came to the same overall conclusion.</p>
+        <p>The claim may have had some truth many years ago, when the pill contained high levels of estrogen, which can cause water retention and increased appetite. Nowadays, most versions of the pill have only half the amount found in early versions.</p>
+        <p>Some studies have shown that while the pill may add a couple of pounds at first from water retention, the added weight disappears as the body adjusts to the hormones.</p>
+        <p>Another factor has nothing to do with the pill: most women start birth control as teenagers and continue it through their 20s, a period when women naturally tend to gain weight.</p>
+        <p>THE BOTTOM LINE -- The link between the pill and weight gain is exaggerated at best.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>Really?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

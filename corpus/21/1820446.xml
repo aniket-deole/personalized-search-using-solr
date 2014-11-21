@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Busiest Runways, Most Delays: The Tao of Flying</title>
+    <meta content="21count" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/business/yourmoney/21count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820446"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <person class="indexing_service">Korkki, Phyllis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Airports</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EFDB1E30F932A15752C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Busiest Runways, Most Delays: The Tao of Flying</hl1>
+        <hl2 class="online_headline">Busiest Runways, Most Delays: The Tao of Flying</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+      <byline class="normalized_byline">Korkki, Phyllis</byline>
+      <abstract>
+        <p>The Count column discusses busiest airports nationwide; 10 busiest United States airports are listed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In total metro area population, Atlanta barely breaks the Top 10. But it is No. 1 at the airport: Atlanta can brag that it had the most takeoffs and landings in the United States for 2006.</p>
+        <p>Does that mean Atlanta also has the most delays? No. That unhappy distinction belongs to Newark (the highest percentage of delayed arrivals) and Philadelphia (delayed departures). Both airports suffer from having to operate inside the ultradense Northeast corridor.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Busiest Runways,.</p>
+      </block>
+      <block class="full_text">
+        <p>In total metro area population, Atlanta barely breaks the Top 10. But it is No. 1 at the airport: Atlanta can brag that it had the most takeoffs and landings in the United States for 2006.</p>
+        <p>Does that mean Atlanta also has the most delays? No. That unhappy distinction belongs to Newark (the highest percentage of delayed arrivals) and Philadelphia (delayed departures). Both airports suffer from having to operate inside the ultradense Northeast corridor.</p>
+        <p>Among the 31 largest commercial airports, Atlanta's ranks 21st in on-time arrivals and 27th in departures, according to recent monthly data from the Bureau of Transportation Statistics.</p>
+        <p>Even at the busiest airports, it is possible to grab a little alone time in the expensive-perfume aisle of the duty-free store or the empty waiting area at Gate C8. The real crowding starts once travelers herd onto the Jetway and into the plane. The percentage of seats filled has been rising everywhere. So the chance of an empty seat next to you is less likely, no matter which airport you fly from.</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

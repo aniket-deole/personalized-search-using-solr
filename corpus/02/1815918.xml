@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Today's Schedule for Ford Observances</title>
+    <meta content="02fbox" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1815918"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E3D61630F931A35752C0A9619C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Today's Schedule for Ford Observances</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The body of former President Gerald R. Ford, which has been lying in state in the Capitol Rotunda, will be moved to the doors of the Senate today, where it will briefly lie in repose. After a short ceremony on the east steps of the Senate, the coffin will be transported to Washington National Cathedral for a funeral, which is scheduled to begin at 10:30 a.m.</p>
+        <p>Elizabeth Mullen, a spokeswoman for the cathedral, said tributes would be delivered by President Bush, former President George Bush, former Secretary of State Henry A. Kissinger and the news anchor Tom Brokaw.</p>
+      </block>
+      <block class="full_text">
+        <p>The body of former President Gerald R. Ford, which has been lying in state in the Capitol Rotunda, will be moved to the doors of the Senate today, where it will briefly lie in repose. After a short ceremony on the east steps of the Senate, the coffin will be transported to Washington National Cathedral for a funeral, which is scheduled to begin at 10:30 a.m.</p>
+        <p>Elizabeth Mullen, a spokeswoman for the cathedral, said tributes would be delivered by President Bush, former President George Bush, former Secretary of State Henry A. Kissinger and the news anchor Tom Brokaw.</p>
+        <p>In addition, Ms. Mullen said, the mezzo-soprano Denyce Graves will sing the Lord's Prayer, accompanied by the United States Marine Orchestra.</p>
+        <p>The Rev. Dr. Robert G. Certain, rector of St. Margaret's Episcopal Church in Palm Desert, Calif., will deliver a homily, and there will be readings by two of Mr. Ford's children, Susan Ford Bales and John G. Ford, known as Jack.</p>
+        <p>The Very Rev. Samuel T. Lloyd III, dean of Washington National Cathedral, and the Rev. John Bryson Chane, the Episcopal bishop of Washington, are scheduled to officiate.</p>
+        <p>After the services, the body will be flown to the Gerald R. Ford Presidential Museum in Grand Rapids, Mich., where it will lie in repose after a brief ceremony. On Wednesday, final services will be held at Grace Episcopal Church, and Mr. Ford will be interred on a hillside north of the museum.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

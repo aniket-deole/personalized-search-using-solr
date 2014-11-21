@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Revisiting a Relationship Defined by Its Silences</title>
+    <meta content="10ridd" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/theater/reviews/10ridd.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817738"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THEATER REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Genzlinger, Neil</person>
+        <person class="indexing_service">Fitzpatrick, Julie</person>
+        <object.title class="indexing_service">RiddleLikeLove (with a side of ketchup) (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="descriptor">Deafness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deafness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <object.title class="online_producer">RiddleLikeLove (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EED61530F933A25752C0A9619C8B63" item-length="293" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Revisiting a Relationship Defined by Its Silences</hl1>
+        <hl2 class="online_headline">Revisiting a Relationship Defined by Its Silences</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+      <abstract>
+        <p>Neil Genzlinger reviews Julie Fitzpatrick one-woman show RiddleLikeLove (with a side of ketchup); photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The best thing about ''RiddleLikeLove (with a side of ketchup),'' a one-woman show performed by Julie Fitzpatrick, is that not much happens onstage. That leaves you free to watch the American Sign Language interpretation being offered to the side, which gives the show a welcome extra dimension.</p>
+        <p>Focusing on the interpreter is not just an idle exercise; the play, of which Ms. Fitzpatrick is a co-author, is about a childhood friend of hers, Elizabeth, who was deaf. The tale is fairly thin, but the signing, which is to be provided at each performance, has the effect of connecting the audience to Elizabeth in a visceral way.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The best thing about this one-woman show is that not much happens onstage. That leaves you free to watch the sign language interpretation being offered, which gives the show a welcome extra dimension.</p>
+      </block>
+      <block class="full_text">
+        <p>The best thing about ''RiddleLikeLove (with a side of ketchup),'' a one-woman show performed by Julie Fitzpatrick, is that not much happens onstage. That leaves you free to watch the American Sign Language interpretation being offered to the side, which gives the show a welcome extra dimension.</p>
+        <p>Focusing on the interpreter is not just an idle exercise; the play, of which Ms. Fitzpatrick is a co-author, is about a childhood friend of hers, Elizabeth, who was deaf. The tale is fairly thin, but the signing, which is to be provided at each performance, has the effect of connecting the audience to Elizabeth in a visceral way.</p>
+        <p>Ms. Fitzpatrick relates how an unexpected piece of mail led her to revisit her friendship with Elizabeth, who died young, and come to a fuller appreciation of her friend's struggles and strengths. She alternates between her own presumably current struggles as an aspiring actress in New York and flashbacks to high school, particularly Elizabeth's nerves over a prom date.</p>
+        <p>The time-jumping is hard to follow in places, but Ms. Fitzpatrick nicely juxtaposes some songs with the story. (Douglas Anderson, the pianist, is also credited as the show's co-writer and director.) She never really escapes the self-congratulatory tone that often afflicts attempts to write about people with disabilities -- ''I had a deaf friend; aren't I special?'' -- and it grates somewhat that, by her own account, she didn't bother to learn much about deafness until after Elizabeth had died.</p>
+        <p>But when Ms. Fitzpatrick adopts the character of Elizabeth -- her imitation of the way the deaf often talk is particularly good -- a genuineness comes through.</p>
+        <p>''RiddleLikeLove (with a side of ketchup)'' continues through Jan. 29 at Ensemble Studio Theater, 549 West 52nd Street, Clinton; (212) 352-3101.</p>
+        <p>THEATER REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fashion Rituals and Runway</title>
+    <meta content="27harr" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/27/arts/dance/27harr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1821707"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Danspace Project</org>
+        <person class="indexing_service">La Rocco, Claudia</person>
+        <person class="indexing_service">Harrell, Trajal</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Danspace Project</org>
+        <org class="online_producer">St Mark's Church</org>
+        <person class="online_producer">Harrell, Trajal</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEFDC173FF934A15752C0A9619C8B63" item-length="385" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fashion Rituals and Runway</hl1>
+        <hl2 class="online_headline">Fashion Rituals and Runway</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA LA ROCCO</byline>
+      <byline class="normalized_byline">La Rocco, Claudia</byline>
+      <abstract>
+        <p>Claudia La Rocco reviews performance by Trajal Harrell of his work Showpony at Danspace Project; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As any nature show will demonstrate, mammals use several methods for marking their territory.</p>
+        <p>The species commonly known as artist has untold ways, however; one might, for example, perch on the lap of every audience member, as Trajal Harrell did to start his ''Showpony'' on Thursday night at Danspace Project. Straddling crossed legs, he seemed at once defiant and helpless, simultaneously driven by and luxuriating in the ritualistic task.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Trajal Harrell’s “Showpony,” performed on Thursday at Danspace Project, took the shape of a fashion show, giving the audience a chance to watch Mr. Harrell, Katy Hernan and Christina Vassiliou strut their stuff.</p>
+      </block>
+      <block class="full_text">
+        <p>As any nature show will demonstrate, mammals use several methods for marking their territory.</p>
+        <p>The species commonly known as artist has untold ways, however; one might, for example, perch on the lap of every audience member, as Trajal Harrell did to start his ''Showpony'' on Thursday night at Danspace Project. Straddling crossed legs, he seemed at once defiant and helpless, simultaneously driven by and luxuriating in the ritualistic task.</p>
+        <p>This duality textured the length of the 70-minute performance, which took the shape of a fashion show. Two rows, each with 43 chairs, flanked a corridor of vinyl flooring, giving everyone a front-row seat to watch Mr. Harrell, Katy Hernan and Christina Vassiliou strut their stuff.</p>
+        <p>Both women are strong performers, and Ms. Vassiliou possesses a perfectly stony, of-course-I'm-sexy model's mien. (You sensed that the expression never changed even when she donned a ridiculously grotesque clown's mask). But Mr. Harrell owned the runway, from his rigidly thrown-out hips to his wonderfully expressive fingertips.</p>
+        <p>At the same time, he fractured the audience's attention. As the dancers, matching Mr. Harrell's restless soundtrack, changed clothes frequently and rapidly, they moved from jagged, hyper interpretations of runway behavior to robotic movement phrases reminiscent of early postmodern dance in their mundane repetition, but undertaken with a desperate urgency.</p>
+        <p>At one point Ms. Hernan was transported by what you assume was a simulated orgasm, head thrown back and body writhing in one of three empty seats in the audience that the performers employed; the middle-aged woman next to her crossed her arms and legs defensively, and the athletic man on her other side smiled and looked away. Both concentrated on the other dancers; nobody else could look away from Ms. Hernan.</p>
+        <p>Such extravagance of desire elevated material that was also unapologetically camp and sentimental and silly. His territory claimed, Mr. Harrell made it completely his own, even including a lengthy photographic slide show of his choreographer peers. Edited by David Bergé, the pictures slid by one after the next, as mesmerizing as they were banal.</p>
+        <p>Audience members and performers sat together in the darkness of St. Mark's Church, properly reverent in what is, after all, a place of worship.</p>
+        <p>''Showpony'' runs through tomorrow at Danspace Project, St. Mark's Church, 131 East 10th Street, East Village; (212) 674-8194.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

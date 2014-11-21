@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Creating a New Glow In Antique Kimono Stencils</title>
+    <meta content="25lantern" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1821222"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: LIGHTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lanterns</classifier>
+        <classifier class="indexing_service" type="descriptor">Kimonos</classifier>
+        <classifier class="indexing_service" type="descriptor">Stencils</classifier>
+        <person class="indexing_service">Ishi, Hiromi</person>
+        <person class="indexing_service">Louie, Elaine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E4DC163FF936A15752C0A9619C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Creating a New Glow In Antique Kimono Stencils</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE LOUIE</byline>
+      <byline class="normalized_byline">Louie, Elaine</byline>
+      <abstract>
+        <p>Hiromi Ishi, Japanese artist, is creating paper lanterns from one-of-a-kind antique stencils once used as patterns for kimonos; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For centuries, kimonos were decorated with patterns using paper stencils called katagami, made from three layers of rice paper and treated with persimmon juice. The technique is now a dying art, but Hiromi Ishii, an artist in Tokyo, has found a way to resurrect the one-of-a-kind stencils -- as paper lanterns.</p>
+        <p>Mr. Ishii takes stencils dating from the late 19th century to the 1940s, backs them with new rice paper and attaches them to iron frames wired to hold 25-watt bulbs. The katagami lights are manufactured in two shapes: rectangular and cylindrical. The rectangular lanterns come in 18-inch and 24-inch versions (the smaller, below, is $1,300), and the cylindrical ones are 18 inches high (above, $1,300). Prices range from $1,300 to $1,500. Tama Gallery, 5 Harrison Street, (212) 566-7030, tamagallery.com.</p>
+        <p>ELAINE LOUIE</p>
+      </block>
+      <block class="full_text">
+        <p>For centuries, kimonos were decorated with patterns using paper stencils called katagami, made from three layers of rice paper and treated with persimmon juice. The technique is now a dying art, but Hiromi Ishii, an artist in Tokyo, has found a way to resurrect the one-of-a-kind stencils -- as paper lanterns.</p>
+        <p>Mr. Ishii takes stencils dating from the late 19th century to the 1940s, backs them with new rice paper and attaches them to iron frames wired to hold 25-watt bulbs. The katagami lights are manufactured in two shapes: rectangular and cylindrical. The rectangular lanterns come in 18-inch and 24-inch versions (the smaller, below, is $1,300), and the cylindrical ones are 18 inches high (above, $1,300). Prices range from $1,300 to $1,500. Tama Gallery, 5 Harrison Street, (212) 566-7030, tamagallery.com.</p>
+        <p>ELAINE LOUIE  CURRENTS: LIGHTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

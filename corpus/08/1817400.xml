@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Student Binge Drinking</title>
+    <meta content="l08drink" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817400"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Alcohol Abuse</classifier>
+        <org class="indexing_service">Harvard University</org>
+        <person class="indexing_service">Wechsler, Henry</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcohol Abuse</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E1DB1530F93BA35752C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Student Binge Drinking</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Henry Wechsler, former director of College Alcohol Study at Harvard School of Public Health, says towns that have greater number of outlets for alcohol near colleges will experience more incidents of student binge drinking (Jan 1 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Wisconsin City's Revival of Downtown Has a Downside'' (news article, Jan. 1):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Wisconsin City's Revival of Downtown Has a Downside'' (news article, Jan. 1):</p>
+        <p>Our national research involving 120 colleges in 40 states has shown that the greater the number of alcohol outlets near colleges, the higher the rate of student binge drinking, and the higher the rate of secondhand effects in neighborhoods surrounding the college.</p>
+        <p>These effects include noise, vandalism, assaults, littering and other activities that degrade neighborhood life. A high density of bars and liquor stores leads to more competition for customers, lower prices and special promotions such as ''ladies' night'' or ''all you can drink for a set price,'' and supersized drinks.</p>
+        <p>We have found that these forms of marketing are associated with higher rates of binge drinking. You get what you pay for.</p>
+        <p>If a town wants to allow this type of situation in its downtown area, it should be prepared to spend more for policing, emergency medical care, and cleanup and repair.</p>
+        <p>Henry Wechsler  Boston, Jan. 1, 2007</p>
+        <p>The writer is the former director of the College Alcohol Study at the Harvard School of Public Health.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gumbel Avoids Chatter Not Related to the Game</title>
+    <meta content="07inbox-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817294"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Nfl Network</org>
+        <person class="indexing_service">Boltz, Alice</person>
+        <person class="indexing_service">Gumbel, Bryant</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DC1530F934A35752C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gumbel Avoids Chatter Not Related to the Game</hl1>
+      </hedline>
+      <abstract>
+        <p>Alice Boltz letter contends that NFL Network's Bryant Gumbel calls games without unnecessary chatter (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''Gumbel's Studio Skills Are Lost in Transition to NFL Network Booth,'' Jan. 1: Bryant Gumbel calls the games the way serious football fans want it: the facts, and skip the personal baloney. The Monday night team in particular is so annoying with all the nongame chatter, you would think it was a talk show rather than a football game. You go, Bryant. I like the straightforward style that you and Cris Collinsworth deliver on the NFL Network.</p>
+        <p>Alice Boltz  Lancaster, Pa.</p>
+        <p>To the Sports Editor:</p>
+        <p>I am glad not to hear an announcer blather about what is obvious to anyone watching the images of the game. Whether by design or not, I prefer to hear, ''First down, Giants. Barber,'' then nothing as I enjoy watching the end of the play.</p>
+        <p>Lawrence Swiader  Washington</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''Gumbel's Studio Skills Are Lost in Transition to NFL Network Booth,'' Jan. 1: Bryant Gumbel calls the games the way serious football fans want it: the facts, and skip the personal baloney. The Monday night team in particular is so annoying with all the nongame chatter, you would think it was a talk show rather than a football game. You go, Bryant. I like the straightforward style that you and Cris Collinsworth deliver on the NFL Network.</p>
+        <p>Alice Boltz  Lancaster, Pa.</p>
+        <p>To the Sports Editor:</p>
+        <p>I am glad not to hear an announcer blather about what is obvious to anyone watching the images of the game. Whether by design or not, I prefer to hear, ''First down, Giants. Barber,'' then nothing as I enjoy watching the end of the play.</p>
+        <p>Lawrence Swiader  Washington</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

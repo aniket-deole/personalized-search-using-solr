@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rethinking Income Gap</title>
+    <meta content="l22brooks" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820688"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Income</classifier>
+        <person class="indexing_service">Brooks, David</person>
+        <person class="indexing_service">Ryscavage, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFDD1F30F931A15752C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rethinking Income Gap</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Paul Ryscavage, author of book about income inequality, comments on Jan 14 David Brooks Op-Ed column on rising income inequality</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The American Way of Equality'' (column, Jan. 14):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The American Way of Equality'' (column, Jan. 14):</p>
+        <p>As an economist who favors free markets and eschews media ''warnings'' of rising income inequality, I liked most of what David Brooks wrote (through the lens of Seymour Martin Lipset) about why socialism never caught on in this country.</p>
+        <p>Yes, our hopes and desires for a better life (whatever that entails) have been typically acted upon first by ourselves and secondarily by the government -- keeping ''big brother'' at bay.</p>
+        <p>But when a society's media keep harping on growing income inequality, as if there are evil forces producing income differences (at a time when our economy is robust), segments of society can eventually ease up and look for help.</p>
+        <p>As Mr. Brooks said, the Democrats have responded to perceived pleas for help with ''pebbles'' -- but where there are pebbles, there are usually rocks and also boulders. That's what troubles me.</p>
+        <p>Paul Ryscavage  Washington, Jan. 16, 2007</p>
+        <p>The writer is the author of a book about income inequality.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

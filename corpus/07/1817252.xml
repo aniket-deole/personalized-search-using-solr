@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Record Temperatures Favor Golfers, Not Skiiers</title>
+    <meta content="07njweekNJ-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1817252"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Robinson, David</person>
+        <person class="indexing_service">Randall, David K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2DD1530F934A35752C0A9619C8B63" item-length="350" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Record Temperatures Favor Golfers, Not Skiiers</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID K. RANDALL</byline>
+      <byline class="normalized_byline">Randall, David K</byline>
+      <abstract>
+        <p>New Jersey climatologist David Robinson, citing fluctuation of jet stream, says November and December were second warmest on record; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a fitting end to the second warmest year on record in New Jersey, November and December went into the books with the record highs for each month since the state began keeping weather data in 1895.</p>
+        <p>The immediate cause for the mild fall and early winter is a fluctuation of the jet stream that has blocked cold polar air from venturing south, said David A. Robinson, the state climatologist and a professor of geography at Rutgers University. ''We can't grow our own cold air here because we don't have the snow cover, and we don't have long enough nighttime hours, so we have to import our air,'' he said.</p>
+      </block>
+      <block class="full_text">
+        <p>In a fitting end to the second warmest year on record in New Jersey, November and December went into the books with the record highs for each month since the state began keeping weather data in 1895.</p>
+        <p>The immediate cause for the mild fall and early winter is a fluctuation of the jet stream that has blocked cold polar air from venturing south, said David A. Robinson, the state climatologist and a professor of geography at Rutgers University. ''We can't grow our own cold air here because we don't have the snow cover, and we don't have long enough nighttime hours, so we have to import our air,'' he said.</p>
+        <p>Of New Jersey's 11 warmest years on record, 8 have occurred since 1990, Mr. Robinson said.</p>
+        <p>Across the state, golfers have packed parking lots to line up for tee times on unexpectedly nice winter days. Public courses, which rely on greens fees for revenues, are reaping the greatest financial windfall, said Steven Oakes, a board member for the New Jersey Section of the Professional Golfers Association.</p>
+        <p>Many more rounds than usual are being played. Mr. Oakes said that 1,200 rounds were played at Royce Brook Golf Club in Hillsborough last month, compared with 85 in December 2005, and that Minebrook Golf Club in Hackettstown had to start turning golfers away in December.</p>
+        <p>But skiers and other mountain sports athletes are waiting for snow. No more than 6 of 46 trails have been open at Mountain Creek Resort in Vernon. ''Once the first snowstorm comes, we'll have people sleeping out in the parking lot,'' said Shannon McSweeney, a resort spokeswoman. Until then, she said, the resort is supplementing its packages with tours of local wineries or indoor skating rinks.</p>
+        <p>Add Mr. Robinson to those hoping for snow. The state's official climatologist is also an ardent cross-country skier and is in the best position to know when to take his skis out of the basement.</p>
+        <p>They may stay there a while. The National Weather Service is predicting a milder than average January through March, he said.</p>
+        <p>DAVID K. RANDALL</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
