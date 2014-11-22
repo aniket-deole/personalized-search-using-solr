@@ -44,7 +44,7 @@ public class BasicEvaluator extends HttpServlet {
 		SolrServer solrServer = new HttpSolrServer(urlString);
 		
 		//q=modifyQuery(q);
-        q="title:sachin";
+        //q="title:sachin";
         bq="category:sports";
 
 		SolrQuery parameters = new SolrQuery();
