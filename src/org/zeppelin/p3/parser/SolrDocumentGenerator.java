@@ -15,7 +15,7 @@ public class SolrDocumentGenerator {
 	 */
 	public List<SolrInputDocument> createSolrDocuments() {
 		// TODO- Remove the hard-coding
-		String ipDir = "corpus";
+		String ipDir = "H:\\projects\\newspersonaliztion\\corpus";
 
 		File ipDirectory = new File(ipDir);
 		String[] catDirectories = ipDirectory.list();
@@ -40,6 +40,7 @@ public class SolrDocumentGenerator {
 				solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("title", doc.getTitle());
 				solrDoc.addField("source", doc.getSource());
+				solrDoc.addField("content", doc.getContent());
 				if (doc.getCategories() != null) {
 					for (String category : doc.getCategories()) {
 						solrDoc.addField("category", category);
@@ -48,10 +49,10 @@ public class SolrDocumentGenerator {
 				// add the doc to the list
 				solrInputDocuments.add(solrDoc);
 				count++;
-				if (count == 100)
+				if (count > 3)
 					break;
 			}
-			if (count == 100)
+			if (count > 3)
 				break;
 			System.out.println(count);
 		}

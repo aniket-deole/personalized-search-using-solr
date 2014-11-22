@@ -31,6 +31,7 @@ public class BasicEvaluator extends HttpServlet {
 		// every time the user press refresh
 		HttpSession session = request.getSession(true);
 		String q = request.getHeader("q");
+		String bq=null;
 		// Set the session valid for 5 secs
 		session.setMaxInactiveInterval(5);
 		response.setContentType("text/plain");
@@ -41,9 +42,16 @@ public class BasicEvaluator extends HttpServlet {
 
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
+		
+		//q=modifyQuery(q);
+        q="title:sachin";
+        bq="category:sports";
 
 		SolrQuery parameters = new SolrQuery();
 		parameters.set("q", q);
+		//parameters.set("bq", bq);
+		
+		
 		try {
 			QueryResponse q_response = solrServer.query(parameters);
 			SolrDocumentList list = q_response.getResults();
@@ -52,7 +60,7 @@ public class BasicEvaluator extends HttpServlet {
 			} else {
 				for (int i = 0; i < list.size(); i++) {
 					out.println(list.get(i).getFieldValue("title") + "<eoc>");
-					out.println(list.get(i).getFieldValue("source") + "<eoc>");
+					/*out.println(list.get(i).getFieldValue("source") + "<eoc>");
 					Object retrievedCategories = list.get(i).getFieldValue(
 							"category");
 					if (retrievedCategories instanceof List<?>) {
@@ -60,7 +68,7 @@ public class BasicEvaluator extends HttpServlet {
 						for (Object category : categories) {
 							out.println(category + "<eoc>");
 						}
-					}
+					}*/
 				}
 			}
 			out.close();
@@ -88,5 +96,10 @@ public class BasicEvaluator extends HttpServlet {
 	public void destroy() {
 		super.destroy();
 
+	}
+	
+	String modifyQuery(String q){
+		String modifiedQuery = q + "OR (category:sports)^2.0";
+		return modifiedQuery;
 	}
 }
