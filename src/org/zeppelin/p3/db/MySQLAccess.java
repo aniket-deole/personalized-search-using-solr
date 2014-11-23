@@ -54,6 +54,57 @@ public class MySQLAccess {
 
 	}
 
+	public void createNewUser(int userId, String userName) throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+
+			preparedStatement = connect
+					.prepareStatement("insert into  ub535p3.user_master values (?, ?)");
+			preparedStatement.setInt(1, userId);
+			preparedStatement.setString(2, userName);
+			preparedStatement.executeUpdate();
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+
+	}
+
+	public void createNewCategory(int categoryId, String categoryName)
+			throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+
+			preparedStatement = connect
+					.prepareStatement("insert into  ub535p3.category_master values (?, ?)");
+			preparedStatement.setInt(1, categoryId);
+			preparedStatement.setString(2, categoryName);
+			preparedStatement.executeUpdate();
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+
+	}
+
 	public void updateUserCategoryPreferences(int userId, String categoryName)
 			throws Exception {
 		try {
@@ -82,7 +133,6 @@ public class MySQLAccess {
 
 		} catch (SQLException e) {
 			e.printStackTrace();
-			;
 		} catch (Exception e) {
 			throw e;
 		} finally {
