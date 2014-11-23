@@ -49,8 +49,7 @@ public class BasicEvaluator extends HttpServlet {
 
 		SolrQuery parameters = new SolrQuery();
 		parameters.set("q", q);
-		parameters.set ("defType", "edismax");
-		parameters.set("bq", bq);
+		//parameters.set("bq", bq);
 		
 		
 		try {
