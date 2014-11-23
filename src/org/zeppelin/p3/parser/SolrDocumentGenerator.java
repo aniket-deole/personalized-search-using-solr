@@ -16,7 +16,8 @@ public class SolrDocumentGenerator {
 	public List<SolrInputDocument> createSolrDocuments() {
 		// TODO- Remove the hard-coding
 		// String ipDir = "H:\\projects\\newspersonaliztion\\corpus";
-		String ipDir = "/home/animesh/git/project3/corpus/00";
+		// String ipDir = "/home/animesh/git/project3/corpus/00";
+		String ipDir = "/home/animesh/git/project3/corpus";
 		File ipDirectory = new File(ipDir);
 		String[] catDirectories = ipDirectory.list();
 
@@ -49,11 +50,8 @@ public class SolrDocumentGenerator {
 				// add the doc to the list
 				solrInputDocuments.add(solrDoc);
 				count++;
-				if (count > 3)
-					break;
+				
 			}
-			if (count > 3)
-				break;
 			System.out.println(count);
 		}
 		System.out.println(count + " documents parsed.");
