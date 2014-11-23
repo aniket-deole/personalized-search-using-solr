@@ -16,6 +16,8 @@ import org.apache.solr.client.solrj.SolrServerException;
 import org.apache.solr.client.solrj.impl.HttpSolrServer;
 import org.apache.solr.client.solrj.response.QueryResponse;
 import org.apache.solr.common.SolrDocumentList;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 
 public class BasicEvaluator extends HttpServlet {
 	/**
@@ -31,7 +33,7 @@ public class BasicEvaluator extends HttpServlet {
 		// every time the user press refresh
 		HttpSession session = request.getSession(true);
 		String q = request.getHeader("q");
-		String bq=null;
+		String bq = null;
 		// Set the session valid for 5 secs
 		session.setMaxInactiveInterval(5);
 		response.setContentType("text/plain");
@@ -42,39 +44,35 @@ public class BasicEvaluator extends HttpServlet {
 
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
-		
-		//q=modifyQuery(q);
-        //q="title:sachin";
-        bq="category:sports";
+
+		// q=modifyQuery(q);
+		// q="title:sachin";
+		bq = "category:sports";
 
 		SolrQuery parameters = new SolrQuery();
 		parameters.set("q", q);
-		//parameters.set("bq", bq);
-		
-		
+		// parameters.set("bq", bq);
+
 		try {
 			QueryResponse q_response = solrServer.query(parameters);
 			SolrDocumentList list = q_response.getResults();
-			if (list.isEmpty()) {
-				out.println("No Documents Matched.");
-			} else {
-				for (int i = 0; i < list.size(); i++) {
-					out.println(list.get(i).getFieldValue("title") + "<eoc>");
-					/*out.println(list.get(i).getFieldValue("source") + "<eoc>");
-					Object retrievedCategories = list.get(i).getFieldValue(
-							"category");
-					if (retrievedCategories instanceof List<?>) {
-						List<?> categories = (List<?>) retrievedCategories;
-						for (Object category : categories) {
-							out.println(category + "<eoc>");
-						}
-					}*/
+			JSONObject obj = new JSONObject();
+			obj.put("resultCount", list.size());
+			JSONArray jsonResults = new JSONArray ();
+			if (!list.isEmpty()) {
+				obj.put("resultCount", list.size());
+				for (int i = 0; i < list.size (); i++) {
+					jsonResults.add(new QueryResult(list.get(i).getFieldValue("title").toString(), 
+							list.get(i).getFieldValue("content").toString(), 
+							list.get(i).getFieldValue("content").toString(), 
+							3, 
+							list.get(i).getFieldValue("category").toString(), 
+							list.get(i).getFieldValue("source").toString()));
 				}
+				obj.put("results", jsonResults);
 			}
+			out.println(obj);
 			out.close();
-
-			solrServer.deleteByQuery("*:*");
-			solrServer.commit();
 			return;
 		} catch (SolrServerException e) {
 			// TODO Auto-generated catch block
@@ -97,8 +95,8 @@ public class BasicEvaluator extends HttpServlet {
 		super.destroy();
 
 	}
-	
-	String modifyQuery(String q){
+
+	String modifyQuery(String q) {
 		String modifiedQuery = q + "OR (category:sports)^2.0";
 		return modifiedQuery;
 	}
