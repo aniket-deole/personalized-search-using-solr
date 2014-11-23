@@ -43,13 +43,12 @@ public class BasicEvaluator extends HttpServlet {
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
 		
-		//q=modifyQuery(q);
-        //q="title:sachin";
         bq="category:sports";
 
 		SolrQuery parameters = new SolrQuery();
 		parameters.set("q", q);
-		//parameters.set("bq", bq);
+		parameters.set("defType", "dismax");
+		parameters.set("bq", bq);
 		
 		
 		try {
