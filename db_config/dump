@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 5.6.20, for osx10.7 (x86_64)
+-- MySQL dump 10.13  Distrib 5.6.19, for debian-linux-gnu (x86_64)
 --
 -- Host: localhost    Database: ub535p3
 -- ------------------------------------------------------
--- Server version	5.6.20
+-- Server version	5.6.19-0ubuntu0.14.04.1
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -15,10 +15,6 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-CREATE USER mysqluser IDENTIFIED BY 'justarandompassword';
-grant usage on *.* to mysqluser@localhost identified by 'justarandompassword';
-grant all privileges on ub535p3.* to mysqluser@localhost;
-
 --
 -- Table structure for table `category_master`
 --
@@ -30,7 +26,7 @@ CREATE TABLE `category_master` (
   `category_id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(200) NOT NULL,
   PRIMARY KEY (`category_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -39,8 +35,31 @@ CREATE TABLE `category_master` (
 
 LOCK TABLES `category_master` WRITE;
 /*!40000 ALTER TABLE `category_master` DISABLE KEYS */;
-INSERT INTO `category_master` VALUES (1,'Porn'),(2,'NoPorn');
+INSERT INTO `category_master` VALUES (1,'Movies'),(2,'Arts'),(3,'Dining and Wine'),(4,'Business'),(5,'Sports'),(6,'New York and Region');
 /*!40000 ALTER TABLE `category_master` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `user_category_map`
+--
+
+DROP TABLE IF EXISTS `user_category_map`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `user_category_map` (
+  `user_id` int(11) NOT NULL,
+  `category_id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `user_category_map`
+--
+
+LOCK TABLES `user_category_map` WRITE;
+/*!40000 ALTER TABLE `user_category_map` DISABLE KEYS */;
+INSERT INTO `user_category_map` VALUES (4,2),(4,5),(1,1),(1,4),(1,5),(3,3),(3,5),(3,2),(2,5),(2,1),(4,6),(2,6);
+/*!40000 ALTER TABLE `user_category_map` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
@@ -74,10 +93,10 @@ DROP TABLE IF EXISTS `user_master`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `user_master` (
-  `user_id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(200) NOT NULL,
-  PRIMARY KEY (`user_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+  `user_id` int(11) DEFAULT NULL,
+  `name` varchar(100) NOT NULL,
+  UNIQUE KEY `user_id` (`user_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -86,7 +105,7 @@ CREATE TABLE `user_master` (
 
 LOCK TABLES `user_master` WRITE;
 /*!40000 ALTER TABLE `user_master` DISABLE KEYS */;
-INSERT INTO `user_master` VALUES (1,'Chutiya'),(2,'Randi'),(3,'Chodini');
+INSERT INTO `user_master` VALUES (1,'Animesh Kumar'),(2,'Priyankar Nandi'),(3,'Aniket Deole'),(4,'Harishankar Vishwanathan');
 /*!40000 ALTER TABLE `user_master` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -113,6 +132,28 @@ LOCK TABLES `user_relevance_feedback` WRITE;
 /*!40000 ALTER TABLE `user_relevance_feedback` DISABLE KEYS */;
 /*!40000 ALTER TABLE `user_relevance_feedback` ENABLE KEYS */;
 UNLOCK TABLES;
+
+--
+-- Table structure for table `user_tag_map`
+--
+
+DROP TABLE IF EXISTS `user_tag_map`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `user_tag_map` (
+  `user_id` int(11) NOT NULL,
+  `tag_name` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `user_tag_map`
+--
+
+LOCK TABLES `user_tag_map` WRITE;
+/*!40000 ALTER TABLE `user_tag_map` DISABLE KEYS */;
+/*!40000 ALTER TABLE `user_tag_map` ENABLE KEYS */;
+UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
@@ -123,54 +164,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-11-17  1:13:58
-
-/* ALTER TABLE user_master ADD COLUMN category_id int(11);
-ALTER TABLE user_master ADD CONSTRAINT FKPREFERREDUSERCAT FOREIGN KEY (category_id) REFERENCES category_master(category_id) ON DELETE CASCADE;
-ALTER TABLE user_master ADD COLUMN tags varchar(300); 
-ALTER TABLE user_master ADD COLUMN doc_id varchar(100);*/
-
-/* Insert Categories into category_master */
-insert into category_master values ( 1, 'Movies');
-insert into category_master values ( 2, 'Arts');
-insert into category_master values ( 3, 'Dining and Wine');
-insert into category_master values ( 4, 'Business');
-insert into category_master values ( 5, 'Sports');
-insert into category_master values ( 6, 'New York and Region');
-
-/* drop table user_master; */
-create table user_master ( user_id int(11) unique, name varchar(100) not null);
-
-create table user_category_map(user_id int(11) not null, category_id int(11) not null);
-
-create table user_tag_map(user_id int(11) not null, tag_name varchar(100) not null);
-
-insert into user_master values ( 1, 'Animesh Kumar');
-insert into user_master values ( 2, 'Priyankar Nandi');
-insert into user_master values ( 3, 'Aniket Deole');
-insert into user_master values ( 4, 'Harishankar Vishwanathan');
-
-insert into user_category_map values (4, 2);
-
-insert into user_category_map values (4, 5);
-
-insert into user_category_map values (4, 6);
-
-insert into user_category_map values (1, 1);
-
-insert into user_category_map values (1, 4);
-
-insert into user_category_map values (1, 5);
-
-insert into user_category_map values (3, 3);
-
-insert into user_category_map values (3, 5);
-
-insert into user_category_map values (3, 2);
-
-insert into user_category_map values (2, 5);
-
-insert into user_category_map values (2, 1);
-
-
-
+-- Dump completed on 2014-11-23  5:10:27
