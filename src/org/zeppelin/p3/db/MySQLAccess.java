@@ -6,6 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
 
 // Copied from <br>
 // http://www.vogella.com/tutorials/MySQLJava/article.html
@@ -18,12 +19,6 @@ public class MySQLAccess {
 
 	public void readDataBase() throws Exception {
 		try {
-			// this will load the MySQL driver, each DB has its own driver
-			Class.forName("com.mysql.jdbc.Driver");
-			// setup the connection with the DB.
-			connect = DriverManager
-					.getConnection("jdbc:mysql://localhost/ub535p3?"
-							+ "user=mysqluser&password=justarandompassword");
 
 			// statements allow to issue SQL queries to the database
 			statement = connect.createStatement();
@@ -69,14 +64,35 @@ public class MySQLAccess {
 
 	}
 
-	private void writeMetaData(ResultSet resultSet) throws SQLException {
-		// now get some metadata from the database
-		System.out.println("The columns in the table are: ");
-		System.out.println("Table: " + resultSet.getMetaData().getTableName(1));
-		for (int i = 1; i <= resultSet.getMetaData().getColumnCount(); i++) {
-			System.out.println("Column " + i + " "
-					+ resultSet.getMetaData().getColumnName(i));
+	public ArrayList<String> fetchPreferredCategories(int userId)
+			throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			// statements allow to issue SQL queries to the database
+			statement = connect.createStatement();
+
+			preparedStatement = connect
+					.prepareStatement("SELECT cm.name from ub535p3.user_category_map ucm, ub535p3.category_master cm where user_id=? AND ucm.category_id=cm.category_id");
+			preparedStatement.setInt(1, userId);
+			resultSet = preparedStatement.executeQuery();
+			ArrayList<String> preferredCartegories = new ArrayList<String>();
+			while (resultSet.next()) {
+				preferredCartegories.add("category:"
+						+ resultSet.getString("name"));
+			}
+			return preferredCartegories;
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
 		}
+
 	}
 
 	private void writeResultSet(ResultSet resultSet) throws SQLException {
@@ -112,13 +128,9 @@ public class MySQLAccess {
 				c.close();
 			}
 		} catch (Exception e) {
-			// don't throw now as it might leave following closables in
+			// don't throw now as it might leave following closeables in
 			// undefined state
 		}
 	}
 
-	public static void main(String[] args) throws Exception {
-		MySQLAccess dao = new MySQLAccess();
-		dao.readDataBase();
-	}
 }

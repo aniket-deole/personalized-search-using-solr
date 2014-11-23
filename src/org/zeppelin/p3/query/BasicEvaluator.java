@@ -2,7 +2,7 @@ package org.zeppelin.p3.query;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.List;
+import java.util.ArrayList;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -18,6 +18,7 @@ import org.apache.solr.client.solrj.response.QueryResponse;
 import org.apache.solr.common.SolrDocumentList;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
+import org.zeppelin.p3.db.MySQLAccess;
 
 public class BasicEvaluator extends HttpServlet {
 	/**
@@ -44,32 +45,48 @@ public class BasicEvaluator extends HttpServlet {
 
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
-
 		// q=modifyQuery(q);
 		// q="title:sachin";
-		bq = "category:sports";
+		// bq = "category:sports";
+
+		// Retrieve preferred categories for the given user id
+		int userId = 4;
+		ArrayList<String> preferredCategories = new ArrayList<String>();
+		MySQLAccess dao = new MySQLAccess();
+		try {
+			preferredCategories = dao.fetchPreferredCategories(userId);
+		} catch (Exception e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 
 		SolrQuery parameters = new SolrQuery();
 		parameters.set("q", q);
-		
-		parameters.set("defType","dismax");
-		parameters.set("bq", bq);
-		
+
+		parameters.set("defType", "dismax");
+		// Iterate over the preferred categories and apply them to query
+		// boosters
+		// for (String category : preferredCategories) {
+		parameters.set("bq", preferredCategories
+				.toArray(new String[preferredCategories.size()]));
+		// }
+		// parameters.set("bq", bq);
+
 		try {
 			QueryResponse q_response = solrServer.query(parameters);
 			SolrDocumentList list = q_response.getResults();
 			JSONObject obj = new JSONObject();
 			obj.put("resultCount", list.size());
-			JSONArray jsonResults = new JSONArray ();
+			JSONArray jsonResults = new JSONArray();
 			if (!list.isEmpty()) {
 				obj.put("resultCount", list.size());
-				for (int i = 0; i < list.size (); i++) {
-					jsonResults.add(new QueryResult(list.get(i).getFieldValue("title").toString(), 
-							list.get(i).getFieldValue("content").toString(), 
-							list.get(i).getFieldValue("content").toString(), 
-							3, 
-							list.get(i).getFieldValue("category").toString(), 
-							list.get(i).getFieldValue("source").toString()));
+				for (int i = 0; i < list.size(); i++) {
+					jsonResults.add(new QueryResult(list.get(i)
+							.getFieldValue("title").toString(), list.get(i)
+							.getFieldValue("content").toString(), list.get(i)
+							.getFieldValue("content").toString(), 3, list
+							.get(i).getFieldValue("category").toString(), list
+							.get(i).getFieldValue("source").toString()));
 				}
 				obj.put("results", jsonResults);
 			}

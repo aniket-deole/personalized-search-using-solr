@@ -62,19 +62,19 @@ public class SaxParserNytHandler extends DefaultHandler{
 	
 	@Override
 	public void endDocument() throws SAXException {
-		  System.out.println("\nContent :: "+content);
-		  System.out.println("\nTitle :: "+title);
-		  System.out.println("\nAuthor :: "+author);
-		  System.out.println("\nSource :: "+source);
-		  System.out.println("\nCategories :: ");
-		  for(String cat:categories){
-			 System.out.println(cat);  
-		  }
-		  System.out.println("\nTags :: "+tags.size());
-		  for(String tag:tags){
-			 System.out.println(tag);  
-		  }
-          System.out.println("\nEnded document");
+//		  System.out.println("\nContent :: "+content);
+//		  System.out.println("\nTitle :: "+title);
+//		  System.out.println("\nAuthor :: "+author);
+//		  System.out.println("\nSource :: "+source);
+//		  System.out.println("\nCategories :: ");
+//		  for(String cat:categories){
+//			 System.out.println(cat);  
+//		  }
+//		  System.out.println("\nTags :: "+tags.size());
+//		  for(String tag:tags){
+//			 System.out.println(tag);  
+//		  }
+//          System.out.println("\nEnded document");
           
           document.setAuthor(author);
           document.setCategories(categories);

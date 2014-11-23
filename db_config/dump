@@ -125,7 +125,52 @@ UNLOCK TABLES;
 
 -- Dump completed on 2014-11-17  1:13:58
 
-ALTER TABLE user_master ADD COLUMN category_id int(11);
+/* ALTER TABLE user_master ADD COLUMN category_id int(11);
 ALTER TABLE user_master ADD CONSTRAINT FKPREFERREDUSERCAT FOREIGN KEY (category_id) REFERENCES category_master(category_id) ON DELETE CASCADE;
 ALTER TABLE user_master ADD COLUMN tags varchar(300); 
-ALTER TABLE user_master ADD COLUMN doc_id varchar(100);
+ALTER TABLE user_master ADD COLUMN doc_id varchar(100);*/
+
+/* Insert Categories into category_master */
+insert into category_master values ( 1, 'Movies');
+insert into category_master values ( 2, 'Arts');
+insert into category_master values ( 3, 'Dining and Wine');
+insert into category_master values ( 4, 'Business');
+insert into category_master values ( 5, 'Sports');
+insert into category_master values ( 6, 'New York and Region');
+
+/* drop table user_master; */
+create table user_master ( user_id int(11) unique, name varchar(100) not null);
+
+create table user_category_map(user_id int(11) not null, category_id int(11) not null);
+
+create table user_tag_map(user_id int(11) not null, tag_name varchar(100) not null);
+
+insert into user_master values ( 1, 'Animesh Kumar');
+insert into user_master values ( 2, 'Priyankar Nandi');
+insert into user_master values ( 3, 'Aniket Deole');
+insert into user_master values ( 4, 'Harishankar Vishwanathan');
+
+insert into user_category_map values (4, 2);
+
+insert into user_category_map values (4, 5);
+
+insert into user_category_map values (4, 6);
+
+insert into user_category_map values (1, 1);
+
+insert into user_category_map values (1, 4);
+
+insert into user_category_map values (1, 5);
+
+insert into user_category_map values (3, 3);
+
+insert into user_category_map values (3, 5);
+
+insert into user_category_map values (3, 2);
+
+insert into user_category_map values (2, 5);
+
+insert into user_category_map values (2, 1);
+
+
+
