@@ -51,8 +51,10 @@ public class BasicEvaluator extends HttpServlet {
 
 		SolrQuery parameters = new SolrQuery();
 		parameters.set("q", q);
-		// parameters.set("bq", bq);
-
+		
+		parameters.set("defType","dismax");
+		parameters.set("bq", bq);
+		
 		try {
 			QueryResponse q_response = solrServer.query(parameters);
 			SolrDocumentList list = q_response.getResults();
