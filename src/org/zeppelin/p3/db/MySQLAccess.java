@@ -46,16 +46,43 @@ public class MySQLAccess {
 			resultSet = preparedStatement.executeQuery();
 			writeResultSet(resultSet);
 
-			// remove again the insert comment
-			// preparedStatement = connect
-			// .prepareStatement("delete from FEEDBACK.COMMENTS where myuser= ? ; ");
-			// preparedStatement.setString(1, "Test");
-			// preparedStatement.executeUpdate();
-			//
-			// resultSet = statement
-			// .executeQuery("select * from FEEDBACK.COMMENTS");
-			// writeMetaData(resultSet);
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
 
+	}
+
+	public void updateUserCategoryPreferences(int userId, String categoryName)
+			throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			// statements allow to issue SQL queries to the database
+			// // preparedStatements can use variables and are more efficient
+			preparedStatement = connect
+					.prepareStatement("SELECT category_id from ub535p3.category_master where name=?");
+			preparedStatement.setString(1, categoryName);
+			resultSet = preparedStatement.executeQuery();
+			int categoryId = 0;
+			while (resultSet.next()) {
+				categoryId = resultSet.getInt("category_id");
+			}
+			preparedStatement = connect
+					.prepareStatement("insert into  ub535p3.user_category_map values (?, ?)");
+			// preparedStatement = connect.prepareStatement("INSERT");
+			preparedStatement.setInt(1, userId);
+			preparedStatement.setInt(2, categoryId);
+			preparedStatement.executeUpdate();
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+			;
 		} catch (Exception e) {
 			throw e;
 		} finally {
@@ -74,8 +101,6 @@ public class MySQLAccess {
 					.getConnection("jdbc:mysql://localhost/ub535p3?"
 							+ "user=mysqluser&password=justarandompassword");
 			// statements allow to issue SQL queries to the database
-			statement = connect.createStatement();
-
 			preparedStatement = connect
 					.prepareStatement("SELECT cm.name from ub535p3.user_category_map ucm, ub535p3.category_master cm where user_id=? AND ucm.category_id=cm.category_id");
 			preparedStatement.setInt(1, userId);
