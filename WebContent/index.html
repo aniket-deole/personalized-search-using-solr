@@ -19,6 +19,10 @@
 <link rel="stylesheet" href="js/angular-material/themes/red-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/indigo-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/teal-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/grey-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/blue-grey-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/cyan-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/light-blue-dark-theme.css">
 
 
 <script>
@@ -28,7 +32,7 @@
 	function ContactController($scope, $http) {
 		
 	}
-	function AppCtrl($scope, $http) {
+	function AppCtrl($scope, $http, $mdSidenav) {
 
 		console.log('AppCtrl');
 		$scope.data = {
@@ -99,13 +103,21 @@
 				$scope.theme = 'teal'; 
 				$scope.nonThemed = '#009688'
 			} else if (tab == 2) {
-				$scope.theme = 'deep-orange'; 
-				$scope.nonThemed = '#ff5722';
+				$scope.theme = 'cyan'; 
+				$scope.nonThemed = '#00bcd4';
 			} else {
 				$scope.theme = 'indigo'; 
 				$scope.nonThemed = '#3f51b5';
 			}
 		};
+
+		$scope.changeUser = function() {
+			$mdSidenav('right').toggle()
+		};
+		$scope.close = function() {
+			$mdSidenav('right').toggle()
+		};
+		
 		$scope.cards = [
 			            
 	         ];
@@ -132,18 +144,18 @@
 			<span flex></span>
 
 			<md-button ng-click="createUser ()">Index</md-button>
-			<md-button>Change User</md-button>
+			<md-button ng-click="changeUser ()">Change User</md-button>
 		</div>
 
 		</md-toolbar>
-		<md-content style="height:100%;" md-theme="teal">
+		<md-content style="height:100%;background-color:#eaeaea;" md-theme="teal">
 		<div class="tabsdemoStaticTabs" style="height:100%;">
 			<div style="height:100%;">
 	<div ng-style="{'background-color' : nonThemed }">
 				<md-tabs selected="data.selectedIndex" left md-theme-watch="true" md-theme="{{theme}}" style="width:40%; min-width:400px;"> 
 					<md-tab
 						id="tab1" num="1" aria-controls="tab1-content"
-						ng-click="announceSelected(0)"> 
+						ng-click="announceSelected(0)" > 
 							Top News 
 						</md-tab> 
 					<md-tab
@@ -168,12 +180,14 @@
 					ng-switch-when="2" md-swipe-left="next()"
 					md-swipe-right="previous()">
 	
-	<md-card ng-repeat="card in cards" md-theme-watch="true" md-theme="teal" >
+	<md-card ng-repeat="card in cards" md-theme-watch="true" style="background-color:white; margin:14px;">
+	<div>
       <p style="font-weight:300; font-size:24px; line-height:0.5;padding-left:15px;">{{card.title}}</p>
       <p style="font-weight:300; font-size:14px;padding-left:15px;">
         	{{card.content}}
       </p>
       <div style="overflow:hidden"><p style="float:left; width:100px;padding-left:15px;">LIKE</p></div>
+      </div>
     </md-card>
     
 
@@ -194,26 +208,31 @@
 			</div>
 		</div>
 
+
 		</md-content>
+    <md-sidenav class="md-sidenav-right md-whiteframe-z2" component_id="right" md-theme="blue-grey">
+
+      <md-toolbar class="md-theme-light">
+        <h1 class="md-toolbar-tools">CHOOSE USER</h1>
+      </md-toolbar>
+        <p style="padding-left:15px;"><md-button ng-click="changeUser1 ()" class="md-primary" >
+          Aniket
+        </md-button></p>
+       <p style="padding-left:15px;"><md-button ng-click="changeUser1 ()" class="md-primary" >
+          Hari
+        </md-button></p>
+        <p style="padding-left:15px;"><md-button ng-click="changeUser1 ()" class="md-primary" >
+          PNandi
+        </md-button></p>
+        <p style="padding-left:15px;"><md-button ng-click="changeUser1 ()" class="md-primary" >
+          Kumar
+        </md-button></p>
+        <p style="padding-left:15px;padding-top:100px;"><md-button ng-click="close ()" class="md-primary" >
+          Close
+        </md-button></p>
+
+    </md-sidenav>
 	</div>
-	<!-- <div ng-controller="ContactController">
-     Email:<input type="text" ng-model="q"/>
-    <button ng-click="createUser ()">Index</button>
-    <button ng-click="query ()">Query</button>
-    <h2>Contacts</h2>
- 
-    <ul>
-      <p>{{status}}</p>
-    </ul>
- <md-button>
-   Button
- </md-button>
- <md-button href="http://google.com" class="md-button-colored">
-   I'm a link
- </md-button>
- <md-button disabled class="md-colored">
-   I'm a disabled button
- </md-button>
-</div> -->
+
 </body>
 </html>

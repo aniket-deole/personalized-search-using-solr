@@ -3,21 +3,26 @@
  * Animation styles
  */ }
   .tabsdemoStaticTabs #tab1-content {
-    background-color: #3F51B5; }
+    background-color: #EAEAEA;
+    color:#444  }
   .tabsdemoStaticTabs #tab2-content {
-    background-color: #673AB7; }
+    background-color: #EAEAEA; 
+    color:#444 }
   .tabsdemoStaticTabs #tab3-content {
-    background-color: #009688; }
+    background-color: #EAEAEA;
+    color:#444 }
   .tabsdemoStaticTabs .tabpanel-container {
     display: block;
     position: relative;
     background: white;
     border: 0px solid black;
     height: 300px;
+    width:100%;
     overflow: hidden; }
   .tabsdemoStaticTabs [role="tabpanel"] {
     color: white;
     height: 100%;
+    width:100%;
   	-webkit-transition: all ease-in-out;
     transition: all ease-in-out;
      position: absolute; }
