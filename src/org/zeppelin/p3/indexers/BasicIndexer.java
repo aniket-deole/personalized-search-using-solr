@@ -1,9 +1,11 @@
 package org.zeppelin.p3.indexers;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.List;
 
+import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -44,6 +46,8 @@ public class BasicIndexer extends HttpServlet {
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
 
+		ServletContext servletContext = getServletContext();
+		String contextPath = servletContext.getRealPath(File.separator);
 		
 /*		 SolrInputDocument document = new SolrInputDocument();
 		  document.addField("id", count + 1); document.addField("name",
