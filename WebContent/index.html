@@ -8,12 +8,14 @@
 <script src="js/angular/angular.js"></script>
 <meta name="viewport"
 	content="initial-scale=1, maximum-scale=1, user-scalable=no" />
-<link rel="stylesheet" href="js/angular-material.css">
+<link rel="stylesheet" href="js/angular-material/angular-material.css">
 <link rel="stylesheet" href="css/style.css">
 <script src="js/angular-aria/angular-aria.js"></script>
-<script src="js/angular-animate.js"></script>
+<script src="js/angular-animate/angular-animate.js"></script>
 <script src="js/hammerjs/hammer.js"></script>
-<script src="js/angular-material.js"></script>
+<script src="js/angular-material/angular-material.js"></script>
+
+
 <script>
 	
 </script>
@@ -57,14 +59,16 @@
 				},
 				data : $scope.user
 			}).success(function(data) {
-				$scope.status = data;
 				console.log (data);
-				var stringarray = data.split ('<eoc>');
-				for (var i = 0; i < stringarray.length - 1; i++){
-					$scope.cards.push({
-			        	title: stringarray[i],
-			        	content: stringarray[i]
-			    	});
+				var resultCount = data.resultCount;
+				var results = data.results;
+				if (resultCount != 0) {
+					for (var i = 0; i < results.length; i++){
+						$scope.cards.push({
+				        	title: results[i].title,
+				        	content: results[i].content
+				    	});
+					}
 				}
 			});
 		};
