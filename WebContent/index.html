@@ -8,12 +8,17 @@
 <script src="js/angular/angular.js"></script>
 <meta name="viewport"
 	content="initial-scale=1, maximum-scale=1, user-scalable=no" />
-<link rel="stylesheet" href="js/angular-material/angular-material.css">
-<link rel="stylesheet" href="css/style.css">
 <script src="js/angular-aria/angular-aria.js"></script>
 <script src="js/angular-animate/angular-animate.js"></script>
 <script src="js/hammerjs/hammer.js"></script>
 <script src="js/angular-material/angular-material.js"></script>
+<link rel="stylesheet" href="js/angular-material/angular-material.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="js/angular-material/themes/green-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/deep-orange-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/red-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/indigo-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/teal-theme.css">
 
 
 <script>
@@ -33,7 +38,8 @@
 		};
 
 		$scope.user = {};
-
+		$scope.theme = 'green'; 
+		$scope.nonThemed ='#259b24';
 		$scope.createUser = function() {
 			$http({
 				method : 'POST',
@@ -70,6 +76,7 @@
 				    	});
 					}
 				}
+				$scope.announceSelected (2);
 			});
 		};
 		
@@ -86,8 +93,18 @@
 		};
 
 		$scope.announceSelected = function(tab) {
-			console.log($scope.data.selectedIndex);
+			console.log(tab);
 			$scope.data.selectedIndex = tab;
+			if (tab == 1){
+				$scope.theme = 'teal'; 
+				$scope.nonThemed = '#009688'
+			} else if (tab == 2) {
+				$scope.theme = 'deep-orange'; 
+				$scope.nonThemed = '#ff5722';
+			} else {
+				$scope.theme = 'indigo'; 
+				$scope.nonThemed = '#3f51b5';
+			}
 		};
 		$scope.cards = [
 			            
@@ -105,13 +122,13 @@
 		app.controller("AppCtrl", AppCtrl);
 	</script>
 	<div layout="vertical" layout-fill style="height:100%;">
-		<md-toolbar scroll-shrink>
+		<md-toolbar md-theme-watch="true" md-theme="{{theme}}" >
 
 		<div class="md-toolbar-tools">
-			<md-text-float label="Enter query" ng-model="queryText" class="long">asasd</md-text-float>
+			<md-text-float label="Enter query" ng-model="queryText" class="long" md-theme-watch="true" md-theme="{{theme}}" ></md-text-float>
 
-			<!-- fill up the space between left and right area -->
 			<md-button ng-click="query ()">Search</md-button>
+			<!-- fill up the space between left and right area -->
 			<span flex></span>
 
 			<md-button ng-click="createUser ()">Index</md-button>
@@ -119,11 +136,11 @@
 		</div>
 
 		</md-toolbar>
-		<md-content style="height:100%;">
+		<md-content style="height:100%;" md-theme="teal">
 		<div class="tabsdemoStaticTabs" style="height:100%;">
 			<div style="height:100%;">
-
-				<md-tabs selected="data.selectedIndex" left> 
+	<div ng-style="{'background-color' : nonThemed }">
+				<md-tabs selected="data.selectedIndex" left md-theme-watch="true" md-theme="{{theme}}" style="width:40%; min-width:400px;"> 
 					<md-tab
 						id="tab1" num="1" aria-controls="tab1-content"
 						ng-click="announceSelected(0)"> 
@@ -139,27 +156,28 @@
 						Search Results 
 					</md-tab> 
 				</md-tabs>
+			</div>
 				<ng-switch on="data.selectedIndex"	 style="height:100%;">
-				<div role="tabpanel" id="tab1-content" aria-labelledby="tab1"
-					ng-switch-when="0" md-swipe-left="next()"
-					md-swipe-right="previous()">
-	
-	<md-card ng-repeat="card in cards" style="background-color:white; color:#555">
-      <h2>{{card.title}}</h2>
-      <p>
-        	{{card.content}}
-      </p>
-      <hr/>
-      <div style="overflow:hidden"><p style="float:left; width:100px;">LIKE</p><p style="left:25px;">NOPE</p></div>
-    </md-card>
-    
 
-  				</div>
 				<div role="tabpanel" id="tab2-content" aria-labelledby="tab2"
 					ng-switch-when="1" md-swipe-left="next()"
 					md-swipe-right="previous()">
 				
 				</div>
+								<div role="tabpanel" id="tab3-content" aria-labelledby="tab2"
+					ng-switch-when="2" md-swipe-left="next()"
+					md-swipe-right="previous()">
+	
+	<md-card ng-repeat="card in cards" md-theme-watch="true" md-theme="teal" >
+      <p style="font-weight:300; font-size:24px; line-height:0.5;padding-left:15px;">{{card.title}}</p>
+      <p style="font-weight:300; font-size:14px;padding-left:15px;">
+        	{{card.content}}
+      </p>
+      <div style="overflow:hidden"><p style="float:left; width:100px;padding-left:15px;">LIKE</p></div>
+    </md-card>
+    
+
+  				</div>
 				</ng-switch>
 
 <!-- 				<div class="after-tabs-area" layout="vertical"
