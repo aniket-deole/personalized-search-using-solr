@@ -32,7 +32,7 @@
 	function ContactController($scope, $http) {
 		
 	}
-	function AppCtrl($scope, $http, $mdSidenav) {
+	function AppCtrl($scope, $http, $mdSidenav, $mdBottomSheet) {
 
 		console.log('AppCtrl');
 		$scope.data = {
@@ -76,7 +76,7 @@
 					for (var i = 0; i < results.length; i++){
 						$scope.cards.push({
 				        	title: results[i].title,
-				        	content: results[i].category
+				        	content: results[i].content
 				    	});
 					}
 				}
@@ -117,11 +117,37 @@
 		$scope.close = function() {
 			$mdSidenav('right').toggle()
 		};
-		
+		$scope.showArticle = function($event, $cardo) {
+		    $scope.alert = '';
+		    $mdBottomSheet.show({
+		      templateUrl: 'viewArticle.html',
+		      controller: 'viewArticleCtrl',
+		      targetEvent: $event,
+		      locals: { carda: $cardo }
+		    }).then(function(clickedItem) {
+		      $scope.alert = clickedItem.name + ' clicked!';
+		    });
+		  };
 		$scope.cards = [
 			            
 	         ];
 	}
+	function viewArticleCtrl ($scope, $mdBottomSheet, carda) {
+		$scope.card  = carda;
+		  $scope.items = [
+		    { name: 'Hangout', icon: 'hangout' },
+		    { name: 'Mail', icon: 'mail' },
+		    { name: 'Message', icon: 'message' },
+		    { name: 'Copy', icon: 'copy' },
+		    { name: 'Facebook', icon: 'facebook' },
+		    { name: 'Twitter', icon: 'twitter' },
+		  ];
+
+		  $scope.listItemClick = function($index) {
+		    var clickedItem = $scope.items[$index];
+		    $mdBottomSheet.hide(clickedItem);
+		  };
+		}
 </script>
 </head>
 <body ng-controller="AppCtrl" >
@@ -132,6 +158,8 @@
 
 		app.controller("ContactController", ContactController);
 		app.controller("AppCtrl", AppCtrl);
+		app.controller("viewArticleCtrl", viewArticleCtrl);
+		
 	</script>
 	<div layout="vertical" layout-fill style="height:100%;">
 		<md-toolbar md-theme-watch="true" md-theme="{{theme}}" >
@@ -180,7 +208,8 @@
 					ng-switch-when="2" md-swipe-left="next()"
 					md-swipe-right="previous()">
 	
-	<md-card ng-repeat="card in cards" md-theme-watch="true" style="background-color:white; margin:14px;">
+	<md-card ng-repeat="card in cards" md-theme-watch="true" style="background-color:white; margin:14px;"
+		ng-click="showArticle($event, card)">
 	<div>
       <p style="font-weight:300; font-size:24px; line-height:0.5;padding-left:15px;">{{card.title}}</p>
       <p style="font-weight:300; font-size:14px;padding-left:15px;">
