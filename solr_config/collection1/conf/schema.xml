@@ -287,7 +287,6 @@
    <copyField source="description" dest="text"/>
    <copyField source="keywords" dest="text"/>
    <copyField source="source" dest="text"/>
-   <copyField source="published_date" dest="text"/>
    <copyField source="content" dest="text"/>
    <copyField source="content_type" dest="text"/>
    <copyField source="resourcename" dest="text"/>

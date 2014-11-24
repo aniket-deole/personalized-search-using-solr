@@ -2,9 +2,11 @@ package org.zeppelin.p3.parser;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 import org.apache.solr.common.SolrInputDocument;
+import org.apache.solr.common.util.DateUtil;
 
 public class SolrDocumentGenerator {
 
@@ -17,7 +19,7 @@ public class SolrDocumentGenerator {
 		// TODO- Remove the hard-coding
 		// String ipDir = "H:\\projects\\newspersonaliztion\\corpus";
 		// String ipDir = "/home/animesh/git/project3/corpus/00";
-		String ipDir = "/home/animesh/git/project3/corpus";
+		String ipDir = "/Users/aniket/Development/workspace/ub535p3/corpus";
 		File ipDirectory = new File(ipDir);
 		String[] catDirectories = ipDirectory.list();
 
@@ -41,7 +43,7 @@ public class SolrDocumentGenerator {
 				solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("title", doc.getTitle());
 				solrDoc.addField("source", doc.getSource());
-				solrDoc.addField("published_date", doc.getPublishedDate());
+				solrDoc.addField("published_date", new Date ());
 				solrDoc.addField("content", doc.getContent());
 				
 				if (doc.getCategories() != null) {
