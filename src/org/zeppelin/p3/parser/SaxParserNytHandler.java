@@ -2,8 +2,11 @@ package org.zeppelin.p3.parser;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -27,7 +30,7 @@ public class SaxParserNytHandler extends DefaultHandler {
 	String title = "";
 	String author = "";
 	String source = "";
-	String date = "";
+	Date date = null;
 	String place = "";
 	String summary = "";
 	List<String> categories; // = new ArrayList<String>();
@@ -118,13 +121,22 @@ public class SaxParserNytHandler extends DefaultHandler {
 		} else if (qName.equals("pubdata")) {
 			if (attributes.getValue("date.publication") != null) {
 				String dateValue = attributes.getValue("date.publication");
+				SimpleDateFormat formatter = new SimpleDateFormat(
+						"yyyyMMdd'T'HHmmss");
+				try {
+					date = formatter.parse(dateValue);
+				} catch (ParseException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 				// Format the date as required by the Solr Parser
 				// YYYY-MM-DDThh:mm:ssZ
-				date = dateValue.substring(0, 4) + "-"
-						+ dateValue.substring(4, 6) + "-"
-						+ dateValue.substring(6, 11) + ":"
-						+ dateValue.substring(11, 13) + ":"
-						+ dateValue.substring(13, 15) + "Z";
+				// date = dateValue.substring(0, 4) + "-"
+				// + dateValue.substring(4, 6) + "-"
+				// + dateValue.substring(6, 11) + ":"
+				// + dateValue.substring(11, 13) + ":"
+				// + dateValue.substring(13, 15) + "Z";
+
 			}
 		} else if (qName.equals("meta")) {
 			String name = attributes.getValue("name");

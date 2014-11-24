@@ -3,6 +3,7 @@
  */
 package org.zeppelin.p3.parser;
 
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -43,7 +44,7 @@ public class Document {
 	/**
 	 * The date on which the document was published
 	 */
-	private String publishedDate;
+	private Date publishedDate;
 
 	/**
 	 * Summary or result snippet that can be associated with the document
@@ -133,7 +134,7 @@ public class Document {
 	/**
 	 * @return the date
 	 */
-	public String getPublishedDate() {
+	public Date getPublishedDate() {
 		return publishedDate;
 	}
 
@@ -141,7 +142,7 @@ public class Document {
 	 * @param date
 	 *            the date to set
 	 */
-	public void setPublishedDate(String date) {
+	public void setPublishedDate(Date date) {
 		this.publishedDate = date;
 	}
 

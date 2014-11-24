@@ -19,7 +19,8 @@ public class SolrDocumentGenerator {
 		// TODO- Remove the hard-coding
 		// String ipDir = "H:\\projects\\newspersonaliztion\\corpus";
 		// String ipDir = "/home/animesh/git/project3/corpus/00";
-		String ipDir = "/Users/aniket/Development/workspace/ub535p3/corpus";
+		String ipDir = "/home/animesh/git/project3/corpus";
+		// String ipDir = "/Users/aniket/Development/workspace/ub535p3/corpus";
 		File ipDirectory = new File(ipDir);
 		String[] catDirectories = ipDirectory.list();
 
@@ -43,9 +44,9 @@ public class SolrDocumentGenerator {
 				solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("title", doc.getTitle());
 				solrDoc.addField("source", doc.getSource());
-				solrDoc.addField("published_date", new Date ());
+				solrDoc.addField("published_date", new Date());
 				solrDoc.addField("content", doc.getContent());
-				
+
 				if (doc.getCategories() != null) {
 					for (String category : doc.getCategories()) {
 						solrDoc.addField("category", category);
@@ -54,7 +55,7 @@ public class SolrDocumentGenerator {
 				// add the doc to the list
 				solrInputDocuments.add(solrDoc);
 				count++;
-				
+
 			}
 			System.out.println(count);
 		}
