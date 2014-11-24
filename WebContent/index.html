@@ -23,6 +23,7 @@
 <link rel="stylesheet" href="js/angular-material/themes/blue-grey-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/cyan-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/light-blue-dark-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/red-theme.css">
 
 
 <script>
@@ -32,7 +33,8 @@
 	function ContactController($scope, $http) {
 		
 	}
-	function AppCtrl($scope, $http, $mdSidenav, $mdBottomSheet) {
+
+	function AppCtrl($scope, $http, $mdSidenav, $mdBottomSheet, $mdDialog) {
 
 		console.log('AppCtrl');
 		$scope.data = {
@@ -102,6 +104,19 @@
 			if (tab == 1){
 				$scope.theme = 'teal'; 
 				$scope.nonThemed = '#009688'
+				
+					$http({
+						method : 'POST',
+						url : 'http://localhost:8080/UB535p3WebApp/PersonalizedViewClass',
+						headers : {
+							'Content-Type' : 'application/text',
+						},
+						data : $scope.user
+					}).success(function(data) {
+						$scope.status = data;
+						console.log (data);
+					});
+				
 			} else if (tab == 2) {
 				$scope.theme = 'cyan'; 
 				$scope.nonThemed = '#00bcd4';
@@ -131,22 +146,63 @@
 		$scope.cards = [
 			            
 	         ];
+		$scope.inita = function () {
+			   // check if there is query in url
+			   // and fire search in case its value is not empty
+			   console.log ('asds');
+			   $mdDialog.show({
+				      controller: DialogController,
+				      templateUrl: 'userSelectionDialog.html',
+				      targetEvent: null,
+				    })
+				    .then(function(loginUser) {
+				      console.log (loginUser);
+
+						$http({
+							method : 'POST',
+							url : 'http://localhost:8080/UB535p3WebApp/UserLogin',
+							headers : {
+								'Content-Type' : 'application/text',
+								'userId' : loginUser
+							},
+							data : $scope.user
+						}).success(function(data) {
+							$scope.status = data;
+							console.log (data);
+						});
+					
+				    },function() {
+				      $scope.alert = 'You cancelled the dialog.';
+				    });
+			};
+			// and fire it after definition
+			$scope.inita();
+
+		
 	}
 	function viewArticleCtrl ($scope, $mdBottomSheet, carda) {
 		$scope.card  = carda;
-		  $scope.items = [
-		    { name: 'Hangout', icon: 'hangout' },
-		    { name: 'Mail', icon: 'mail' },
-		    { name: 'Message', icon: 'message' },
-		    { name: 'Copy', icon: 'copy' },
-		    { name: 'Facebook', icon: 'facebook' },
-		    { name: 'Twitter', icon: 'twitter' },
-		  ];
-
 		  $scope.listItemClick = function($index) {
 		    var clickedItem = $scope.items[$index];
 		    $mdBottomSheet.hide(clickedItem);
 		  };
+		}
+	
+	function DialogController($scope, $mdDialog) {
+		  $scope.hide = function() {
+		    $mdDialog.hide();
+		  };
+
+		  $scope.cancel = function() {
+		    $mdDialog.cancel();
+		  };
+
+		  $scope.loginUser = function(loginUser) {
+		    $mdDialog.hide(loginUser);
+		  };
+		  $scope.newUser = function(newUser) {
+			$mdDialog.hide(newUser);
+		};
 		}
 </script>
 </head>
@@ -159,6 +215,7 @@
 		app.controller("ContactController", ContactController);
 		app.controller("AppCtrl", AppCtrl);
 		app.controller("viewArticleCtrl", viewArticleCtrl);
+		app.controller("DialogController", DialogController);
 		
 	</script>
 	<div layout="vertical" layout-fill style="height:100%;">
@@ -262,6 +319,7 @@
 
     </md-sidenav>
 	</div>
-
+	  <script>
+  </script>
 </body>
 </html>
