@@ -6,52 +6,50 @@ package org.zeppelin.p3.parser;
 import java.util.List;
 
 /**
- * @author nikhillo
- * Wrapper class that holds {@link FieldNames} to value mapping
+ * @author nikhillo Wrapper class that holds {@link FieldNames} to value mapping
  */
 public class Document {
-	
+
 	/**
 	 * Source of the document
 	 */
 	private String source;
-	
+
 	/**
 	 * Title of the document
 	 */
 	private String title;
-	
+
 	/**
 	 * Category of the document
 	 */
 	private List<String> categories;
-	
+
 	/**
-	 * Tags or subcategories that can be associated
-	 * with the document
+	 * Tags or subcategories that can be associated with the document
 	 */
 	private List<String> tags;
-	
+
 	/**
 	 * The author of the document
 	 */
 	private String author;
-	
+
 	/**
 	 * The place from which the document was published
 	 */
 	private String place;
-	
+
 	/**
-	 * The date on  which the document was published
+	 * The date on which the document was published
 	 */
-	private String date;
-	
+	private String publishedDate;
+
 	/**
 	 * Summary or result snippet that can be associated with the document
 	 */
 	private String summary;
-	
+
 	/**
 	 * Content of the document
 	 */
@@ -65,7 +63,8 @@ public class Document {
 	}
 
 	/**
-	 * @param source the source to set
+	 * @param source
+	 *            the source to set
 	 */
 	public void setSource(String source) {
 		this.source = source;
@@ -79,12 +78,12 @@ public class Document {
 	}
 
 	/**
-	 * @param title the title to set
+	 * @param title
+	 *            the title to set
 	 */
 	public void setTitle(String title) {
 		this.title = title;
 	}
-
 
 	/**
 	 * @return the tags
@@ -94,7 +93,8 @@ public class Document {
 	}
 
 	/**
-	 * @param tags the tags to set
+	 * @param tags
+	 *            the tags to set
 	 */
 	public void setTags(List<String> tags) {
 		this.tags = tags;
@@ -108,7 +108,8 @@ public class Document {
 	}
 
 	/**
-	 * @param author the author to set
+	 * @param author
+	 *            the author to set
 	 */
 	public void setAuthor(String author) {
 		this.author = author;
@@ -122,7 +123,8 @@ public class Document {
 	}
 
 	/**
-	 * @param place the place to set
+	 * @param place
+	 *            the place to set
 	 */
 	public void setPlace(String place) {
 		this.place = place;
@@ -131,15 +133,16 @@ public class Document {
 	/**
 	 * @return the date
 	 */
-	public String getDate() {
-		return date;
+	public String getPublishedDate() {
+		return publishedDate;
 	}
 
 	/**
-	 * @param date the date to set
+	 * @param date
+	 *            the date to set
 	 */
-	public void setDate(String date) {
-		this.date = date;
+	public void setPublishedDate(String date) {
+		this.publishedDate = date;
 	}
 
 	/**
@@ -150,7 +153,8 @@ public class Document {
 	}
 
 	/**
-	 * @param summary the summary to set
+	 * @param summary
+	 *            the summary to set
 	 */
 	public void setSummary(String summary) {
 		this.summary = summary;
@@ -164,7 +168,8 @@ public class Document {
 	}
 
 	/**
-	 * @param content the content to set
+	 * @param content
+	 *            the content to set
 	 */
 	public void setContent(String content) {
 		this.content = content;
@@ -178,10 +183,11 @@ public class Document {
 	}
 
 	/**
-	 * @param categories the categories to set
+	 * @param categories
+	 *            the categories to set
 	 */
 	public void setCategories(List<String> categories) {
 		this.categories = categories;
 	}
-	
+
 }

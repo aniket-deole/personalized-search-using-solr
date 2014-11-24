@@ -152,6 +152,7 @@
    <field name="author" type="text_general" indexed="true" stored="true"/>
    <field name="keywords" type="text_general" indexed="true" stored="true"/>
    <field name="category" type="text_general" indexed="true" stored="true" multiValued="true"/>
+   <field name="published_date" type="date" indexed="true" stored="true"/>
    <field name="resourcename" type="text_general" indexed="true" stored="true"/>
    <field name="url" type="text_general" indexed="true" stored="true"/>
    <field name="content_type" type="string" indexed="true" stored="true" multiValued="true"/>
@@ -286,6 +287,7 @@
    <copyField source="description" dest="text"/>
    <copyField source="keywords" dest="text"/>
    <copyField source="source" dest="text"/>
+   <copyField source="published_date" dest="text"/>
    <copyField source="content" dest="text"/>
    <copyField source="content_type" dest="text"/>
    <copyField source="resourcename" dest="text"/>
