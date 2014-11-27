@@ -63,7 +63,7 @@ public class BasicEvaluator extends HttpServlet {
 		SolrQuery parameters = new SolrQuery();
 		parameters.set("q", q);
 
-		parameters.set("defType", "dismax");
+		parameters.set("defType", "edismax");
 		// Iterate over the preferred categories and apply them to query
 		// boosters
 		// for (String category : preferredCategories) {
@@ -81,12 +81,19 @@ public class BasicEvaluator extends HttpServlet {
 			if (!list.isEmpty()) {
 				obj.put("resultCount", list.size());
 				for (int i = 0; i < list.size(); i++) {
-					jsonResults.add(new QueryResult(list.get(i)
-							.getFieldValue("title").toString(), list.get(i)
-							.getFieldValue("content").toString(), list.get(i)
-							.getFieldValue("content").toString(), 3, list
-							.get(i).getFieldValue("category").toString(), list
-							.get(i).getFieldValue("source").toString()));
+					jsonResults
+							.add(new QueryResult(list.get(i)
+									.getFieldValue("title").toString(),
+									list.get(i).getFieldValue("content")
+											.toString(), list.get(i)
+											.getFieldValue("content")
+											.toString(), 3, list.get(i)
+											.getFieldValue("category")
+											.toString(),
+									list.get(i).getFieldValue("source")
+											.toString(), list.get(i)
+											.getFieldValue("published_date")
+											.toString()));
 				}
 				obj.put("results", jsonResults);
 			}

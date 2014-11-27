@@ -78,6 +78,7 @@
 					for (var i = 0; i < results.length; i++){
 						$scope.cards.push({
 				        	title: results[i].title,
+				        	publishedDate: results[i].publishedDate,
 				        	content: results[i].content
 				    	});
 					}
@@ -115,6 +116,18 @@
 					}).success(function(data) {
 						$scope.status = data;
 						console.log (data);
+						var resultCount = data.resultCount;
+						var results = data.results;
+						if (resultCount != 0) {
+							for (var i = 0; i < results.length; i++){
+								$scope.cards.push({
+						        	title: results[i].title,
+						        	publishedDate: results[i].publishedDate,
+						        	content: results[i].content
+						    	});
+							}
+						}
+						$scope.announceSelected (2);
 					});
 				
 			} else if (tab == 2) {

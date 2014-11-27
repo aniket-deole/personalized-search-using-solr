@@ -1,14 +1,26 @@
 package org.zeppelin.p3.personalization;
 
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
+import org.apache.solr.client.solrj.SolrQuery;
+import org.apache.solr.client.solrj.SolrServer;
+import org.apache.solr.client.solrj.SolrServerException;
+import org.apache.solr.client.solrj.impl.HttpSolrServer;
+import org.apache.solr.client.solrj.response.QueryResponse;
+import org.apache.solr.common.SolrDocumentList;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 import org.zeppelin.p3.db.MySQLAccess;
+import org.zeppelin.p3.query.QueryResult;
 
 /**
  * Servlet implementation class PersonalizedViewClass
@@ -16,6 +28,7 @@ import org.zeppelin.p3.db.MySQLAccess;
 @WebServlet(urlPatterns = { "/PersonalizedViewClass" })
 public class PersonalizedViewClass extends HttpServlet {
 	private static final long serialVersionUID = 1L;
+	int count = 1;
 
 	/**
 	 * @see HttpServlet#HttpServlet()
@@ -31,9 +44,76 @@ public class PersonalizedViewClass extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
-		// int userId = 4;
-		// MySQLAccess dao = new MySQLAccess();
-		// dao.fetchPreferredCategories(userId);
+		// Set a cookie for the user, so that the counter does not increate
+		// every time the user press refresh
+		HttpSession session = request.getSession(true);
+		// Set the session valid for 5 secs
+		session.setMaxInactiveInterval(5);
+		response.setContentType("text/plain");
+		PrintWriter out = response.getWriter();
+		if (session.isNew()) {
+			count++;
+		}
+
+		String urlString = "http://localhost:8080/solr-4.10.2/";
+		SolrServer solrServer = new HttpSolrServer(urlString);
+
+		// Retrieve preferred categories for the given user id
+		int userId = 4;
+		ArrayList<String> preferredCategories = new ArrayList<String>();
+		MySQLAccess dao = new MySQLAccess();
+		try {
+			preferredCategories = dao.fetchPreferredCategories(userId);
+		} catch (Exception e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+
+		SolrQuery parameters = new SolrQuery();
+		parameters.set("q", "*:*");
+		// parameters.set("sort", "published_date desc");
+		parameters.set("defType", "edismax");
+		// Iterate over the preferred categories and apply them to query
+		// boosters
+		parameters.set("bq", preferredCategories
+				.toArray(new String[preferredCategories.size()]));
+		try {
+			QueryResponse q_response = solrServer.query(parameters);
+			SolrDocumentList list = q_response.getResults();
+			JSONObject obj = new JSONObject();
+			obj.put("resultCount", list.size());
+			JSONArray jsonResults = new JSONArray();
+			if (!list.isEmpty()) {
+				obj.put("resultCount", list.size());
+				// TODO - Show all results in a page view and asynchronously
+				for (int i = 0; i < 20; i++) {
+					if (i == list.size()) {
+						break;
+					}
+					jsonResults
+							.add(new QueryResult(list.get(i)
+									.getFieldValue("title").toString(),
+									list.get(i).getFieldValue("content")
+											.toString(), list.get(i)
+											.getFieldValue("content")
+											.toString(), 3, list.get(i)
+											.getFieldValue("category")
+											.toString(),
+									list.get(i).getFieldValue("source")
+											.toString(), list.get(i)
+											.getFieldValue("published_date")
+											.toString()));
+				}
+				obj.put("results", jsonResults);
+			}
+			out.println(obj);
+			out.close();
+			return;
+		} catch (SolrServerException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
 	}
 
 	/**

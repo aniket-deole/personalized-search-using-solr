@@ -121,21 +121,20 @@ public class SaxParserNytHandler extends DefaultHandler {
 		} else if (qName.equals("pubdata")) {
 			if (attributes.getValue("date.publication") != null) {
 				String dateValue = attributes.getValue("date.publication");
-				SimpleDateFormat formatter = new SimpleDateFormat(
-						"yyyyMMdd'T'HHmmss");
-				try {
-					date = formatter.parse(dateValue);
-				} catch (ParseException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
 				// Format the date as required by the Solr Parser
 				// YYYY-MM-DDThh:mm:ssZ
-				// date = dateValue.substring(0, 4) + "-"
-				// + dateValue.substring(4, 6) + "-"
-				// + dateValue.substring(6, 11) + ":"
-				// + dateValue.substring(11, 13) + ":"
-				// + dateValue.substring(13, 15) + "Z";
+				String formatteddate = dateValue.substring(0, 4) + "-"
+						+ dateValue.substring(4, 6) + "-"
+						+ dateValue.substring(6, 11) + ":"
+						+ dateValue.substring(11, 13) + ":"
+						+ dateValue.substring(13, 15) + "Z";
+				SimpleDateFormat formatter = new SimpleDateFormat(
+						"yyyy-MM-dd'T'HH:mm:ss'Z'");
+				try {
+					date = formatter.parse(formatteddate);
+				} catch (ParseException e) {
+					e.printStackTrace();
+				}
 
 			}
 		} else if (qName.equals("meta")) {
