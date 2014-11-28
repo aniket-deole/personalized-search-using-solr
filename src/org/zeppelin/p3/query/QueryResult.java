@@ -4,7 +4,8 @@ import org.json.simple.JSONAware;
 import org.json.simple.JSONObject;
 
 public class QueryResult implements JSONAware {
-
+	
+	private String id;
 	private String title;
 	private String content;
 	private String snippet;
@@ -13,8 +14,9 @@ public class QueryResult implements JSONAware {
 	private String source;
 	private String publishedDate;
 
-	public QueryResult(String title, String content, String snippet,
+	public QueryResult(String id, String title, String content, String snippet,
 			Integer rating, String category, String source, String publishedDate) {
+		this.id = id;
 		this.title = title;
 		this.content = content;
 		this.snippet = snippet;
@@ -28,7 +30,13 @@ public class QueryResult implements JSONAware {
 	public String toJSONString() {
 		StringBuffer sb = new StringBuffer();
 		sb.append("{");
+		
+		sb.append("\"" + JSONObject.escape("id") + "\"");
+		sb.append(":");
+		sb.append("\"" + JSONObject.escape(id) + "\"");
 
+		sb.append(",");
+		
 		sb.append("\"" + JSONObject.escape("title") + "\"");
 		sb.append(":");
 		sb.append("\"" + JSONObject.escape(title) + "\"");

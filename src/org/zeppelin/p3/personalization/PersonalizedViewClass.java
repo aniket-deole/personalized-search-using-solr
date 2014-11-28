@@ -44,16 +44,9 @@ public class PersonalizedViewClass extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
-		// Set a cookie for the user, so that the counter does not increate
-		// every time the user press refresh
-		HttpSession session = request.getSession(true);
-		// Set the session valid for 5 secs
-		session.setMaxInactiveInterval(5);
 		response.setContentType("text/plain");
+		
 		PrintWriter out = response.getWriter();
-		if (session.isNew()) {
-			count++;
-		}
 
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
@@ -92,6 +85,7 @@ public class PersonalizedViewClass extends HttpServlet {
 					}
 					jsonResults
 							.add(new QueryResult(list.get(i)
+									.getFieldValue("id").toString(),list.get(i)
 									.getFieldValue("title").toString(),
 									list.get(i).getFieldValue("content")
 											.toString(), list.get(i)

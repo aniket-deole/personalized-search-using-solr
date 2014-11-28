@@ -7,6 +7,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.List;
+
+import org.zeppelin.p3.personalization.User;
 
 // Copied from <br>
 // http://www.vogella.com/tutorials/MySQLJava/article.html
@@ -138,7 +141,6 @@ public class MySQLAccess {
 		} finally {
 			close();
 		}
-
 	}
 
 	public ArrayList<String> fetchPreferredCategories(int userId)
@@ -190,6 +192,38 @@ public class MySQLAccess {
 		}
 	}
 
+
+	public List<User> getUsers() throws Exception {
+		List<User> userList = new ArrayList<User> ();
+		
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+
+			preparedStatement = connect
+					.prepareStatement("SELECT user_id, name from ub535p3.user_master");
+			resultSet = preparedStatement.executeQuery();
+			ArrayList<String> preferredCartegories = new ArrayList<String>();
+			while (resultSet.next()) {
+				userList.add(new User (resultSet.getInt("user_id"),
+						resultSet.getString("name")));
+			}
+			return userList;
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+		return userList;
+	}
+
+	
 	// you need to close all three to make sure
 	private void close() {
 		close(resultSet);

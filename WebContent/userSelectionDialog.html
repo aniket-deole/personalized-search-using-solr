@@ -6,18 +6,9 @@
     </section>
     
    <section layout="row" layout-phone="column" layout-align="center center">
-    <md-button ng-click="loginUser(1)" class="md-warn">
-    	PNANDI
-    </md-button>
-    <md-button ng-click="loginUser(2)" class="md-warn">
-  		KANIMESH
-    </md-button>
-    <md-button ng-click="loginUser(3)" class="md-warn">
-  		SHANKAR
-    </md-button>
-    <md-button ng-click="loginUser(4)" class="md-warn">
-  		ANIKET
-    </md-button>
+	    <md-button ng-repeat="user in users" ng-click="loginUser(user.id)" class="md-warn">
+	    	{{user.name}}
+	    </md-button>
     </section>
     
    <section layout="row" layout-phone="column" layout-align="center center">

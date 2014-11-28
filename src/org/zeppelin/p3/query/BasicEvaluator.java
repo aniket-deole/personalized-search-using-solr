@@ -30,18 +30,13 @@ public class BasicEvaluator extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
-		// Set a cookie for the user, so that the counter does not increate
-		// every time the user press refresh
+
 		HttpSession session = request.getSession(true);
 		String q = request.getHeader("q");
 		String bq = null;
-		// Set the session valid for 5 secs
-		session.setMaxInactiveInterval(5);
+
 		response.setContentType("text/plain");
 		PrintWriter out = response.getWriter();
-		if (session.isNew()) {
-			count++;
-		}
 
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
@@ -82,19 +77,19 @@ public class BasicEvaluator extends HttpServlet {
 				obj.put("resultCount", list.size());
 				for (int i = 0; i < list.size(); i++) {
 					jsonResults
-							.add(new QueryResult(list.get(i)
-									.getFieldValue("title").toString(),
-									list.get(i).getFieldValue("content")
-											.toString(), list.get(i)
-											.getFieldValue("content")
-											.toString(), 3, list.get(i)
-											.getFieldValue("category")
-											.toString(),
-									list.get(i).getFieldValue("source")
-											.toString(), list.get(i)
-											.getFieldValue("published_date")
-											.toString()));
-				}
+					.add(new QueryResult(list.get(i).getFieldValue("id").toString(),
+							list.get(i)
+							.getFieldValue("title").toString(),
+							list.get(i).getFieldValue("content")
+									.toString(), list.get(i)
+									.getFieldValue("content")
+									.toString(), 3, list.get(i)
+									.getFieldValue("category")
+									.toString(),
+							list.get(i).getFieldValue("source")
+									.toString(), list.get(i)
+									.getFieldValue("published_date")
+									.toString()));}
 				obj.put("results", jsonResults);
 			}
 			out.println(obj);
