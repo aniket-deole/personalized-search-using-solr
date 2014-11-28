@@ -48,6 +48,7 @@
 		};
 
 		$scope.user = {};
+		$scope.categories = {};
 		$scope.theme = 'green';
 		$scope.nonThemed = '#259b24';
 		$scope.createUser = function() {
@@ -156,34 +157,6 @@
 		$scope.close = function() {
 			$mdSidenav('userPreferencesSideNav').toggle()
 		};
-		$scope.roles = [ {
-			id : 1,
-			text : 'guest'
-		}, {
-			id : 2,
-			text : 'user'
-		}, {
-			id : 3,
-			text : 'customer'
-		}, {
-			id : 4,
-			text : 'admin'
-		} ];
-		$scope.user = {
-			roles : [ 2, 4 ]
-		};
-		$scope.checkAll = function() {
-			$scope.user.roles = $scope.roles.map(function(item) {
-				return item.id;
-			});
-		};
-		$scope.uncheckAll = function() {
-			$scope.user.roles = [];
-		};
-		$scope.checkFirst = function() {
-			$scope.user.roles.splice(0, $scope.user.roles.length);
-			$scope.user.roles.push(1);
-		};
 
 		$scope.showArticle = function($event, $cardo) {
 			$scope.alert = '';
@@ -223,6 +196,20 @@
 				}).success(function(data) {
 					$scope.status = data;
 					console.log(data);
+
+					$http({
+						method : 'POST',
+						url : 'http://localhost:8080/UB535p3WebApp/Categories',
+						headers : {
+							'Content-Type' : 'application/text',
+							'userId' : loginUser
+						},
+						data : $scope.allcategories
+					}).success(function(data) {
+						$scope.status = data;
+						console.log(data);
+						$scope.categories = data.results;
+					});
 				});
 
 			}, function() {
@@ -233,6 +220,19 @@
 		$scope.inita();
 
 	}
+	function PersonalisationController($scope) {
+		$scope.color = {
+			red : Math.floor(Math.random() * 255),
+			green : Math.floor(Math.random() * 255),
+			blue : Math.floor(Math.random() * 255)
+		};
+		$scope.closePreferences = function() {
+			$scope.alert = 'Rating is ' + $scope.rating + '. Checkbox value = '
+					+ $scope.data.cb1;
+		};
+
+	}
+
 	function viewArticleCtrl($scope, $mdBottomSheet, carda) {
 		$scope.card = carda;
 		$scope.listItemClick = function($index) {
@@ -269,6 +269,7 @@
 		app.controller("AppCtrl", AppCtrl);
 		app.controller("viewArticleCtrl", viewArticleCtrl);
 		app.controller("DialogController", DialogController);
+		app.controller("PersonalisationController", PersonalisationController);
 	</script>
 	<div layout="vertical" layout-fill style="height: 100%;">
 		<md-toolbar md-theme-watch="true" md-theme="{{theme}}">
@@ -376,24 +377,36 @@
 		</md-sidenav>
 
 
-		<md-sidenav class="md-sidenav-right md-whiteframe-z2"
+		<md-sidenav id= "userPreferencesSideNav" class="md-sidenav-right md-whiteframe-z2"
 			component_id="userPreferencesSideNav" md-theme="blue-grey">
 		<md-toolbar class="md-theme-light">
 		<h1 class="md-toolbar-tools">UPDATE USER PREFERENCES</h1>
 		</md-toolbar>
-		<div class="personalisationDiv">
-			<label class="checkLabels" ng-repeat="role in roles"> <input type="checkbox"
-				checklist-model="user.roles" checklist-value="role.id">
-				{{role.text}}
-			</label> <br>
-			<button ng-click="checkAll()">check all</button>
-			<button ng-click="uncheckAll()">uncheck all</button>
-			<button ng-click="checkFirst()">check first</button>
-			<br> <br> user.roles {{ user.roles | json }}
+		<div ng-controller="PersonalisationController">
+
+			<div ng-repeat="category in categories" layout>
+				<section layout="row" layout-sm="column"
+					layout-align="center center">
+					<div>
+						<md-checkbox ng-model="data.cb1" aria-label="Checkbox 1">
+						{{category}} </md-checkbox>
+					</div>
+					<md-slider md-theme="blue" flex ng-model="rating" min="0" max="10"
+						aria-label="rating" id="rating-slider"> </md-slider>
+					<div flex="20" layout layout-align="center center">
+						<input type="number" ng-model="rating" aria-label="rating"
+							aria-controls="rating-slider" min="0" max="10">
+				</section>
+			</div>
 
 		</div>
+		<p style="padding-top: 100px;">
+			<md-button ng-click="closePreferences ()" class="md-primary">
+			Close </md-button>
+		</p>
+	</div>
 
-		</md-sidenav>
+	</md-sidenav>
 	</div>
 	<script>
 		
