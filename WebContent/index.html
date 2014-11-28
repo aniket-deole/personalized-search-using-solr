@@ -15,14 +15,18 @@
 <link rel="stylesheet" href="js/angular-material/angular-material.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="js/angular-material/themes/green-theme.css">
-<link rel="stylesheet" href="js/angular-material/themes/deep-orange-theme.css">
+<link rel="stylesheet"
+	href="js/angular-material/themes/deep-orange-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/red-theme.css">
-<link rel="stylesheet" href="js/angular-material/themes/indigo-theme.css">
+<link rel="stylesheet"
+	href="js/angular-material/themes/indigo-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/teal-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/grey-theme.css">
-<link rel="stylesheet" href="js/angular-material/themes/blue-grey-theme.css">
+<link rel="stylesheet"
+	href="js/angular-material/themes/blue-grey-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/cyan-theme.css">
-<link rel="stylesheet" href="js/angular-material/themes/light-blue-dark-theme.css">
+<link rel="stylesheet"
+	href="js/angular-material/themes/light-blue-dark-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/red-theme.css">
 
 
@@ -31,7 +35,7 @@
 </script>
 <script type="text/javascript">
 	function ContactController($scope, $http) {
-		
+
 	}
 
 	function AppCtrl($scope, $http, $mdSidenav, $mdBottomSheet, $mdDialog) {
@@ -44,8 +48,8 @@
 		};
 
 		$scope.user = {};
-		$scope.theme = 'green'; 
-		$scope.nonThemed ='#259b24';
+		$scope.theme = 'green';
+		$scope.nonThemed = '#259b24';
 		$scope.createUser = function() {
 			$http({
 				method : 'POST',
@@ -57,7 +61,7 @@
 				data : $scope.user
 			}).success(function(data) {
 				$scope.status = data;
-				console.log (data);
+				console.log(data);
 			});
 		};
 		$scope.query = function() {
@@ -71,22 +75,22 @@
 				},
 				data : $scope.user
 			}).success(function(data) {
-				console.log (data);
+				console.log(data);
 				var resultCount = data.resultCount;
 				var results = data.results;
 				if (resultCount != 0) {
-					for (var i = 0; i < results.length; i++){
+					for (var i = 0; i < results.length; i++) {
 						$scope.cards.push({
-				        	title: results[i].title,
-				        	publishedDate: results[i].publishedDate,
-				        	content: results[i].content
-				    	});
+							title : results[i].title,
+							publishedDate : results[i].publishedDate,
+							content : results[i].content
+						});
 					}
 				}
-				$scope.announceSelected (2);
+				$scope.announceSelected(2);
 			});
 		};
-		
+
 		$scope.next = function() {
 			$scope.data.selectedIndex = Math.min($scope.data.selectedIndex + 1,
 					2);
@@ -102,124 +106,132 @@
 		$scope.announceSelected = function(tab) {
 			console.log(tab);
 			$scope.data.selectedIndex = tab;
-			if (tab == 1){
-				$scope.theme = 'teal'; 
+			if (tab == 1) {
+				$scope.theme = 'teal';
 				$scope.nonThemed = '#009688'
-				
-					$http({
-						method : 'POST',
-						url : 'http://localhost:8080/UB535p3WebApp/PersonalizedViewClass',
-						headers : {
-							'Content-Type' : 'application/text',
-						},
-						data : $scope.user
-					}).success(function(data) {
-						$scope.status = data;
-						console.log (data);
-						var resultCount = data.resultCount;
-						var results = data.results;
-						if (resultCount != 0) {
-							for (var i = 0; i < results.length; i++){
-								$scope.cards.push({
-						        	title: results[i].title,
-						        	publishedDate: results[i].publishedDate,
-						        	content: results[i].content
-						    	});
-							}
+
+				$http(
+						{
+							method : 'POST',
+							url : 'http://localhost:8080/UB535p3WebApp/PersonalizedViewClass',
+							headers : {
+								'Content-Type' : 'application/text',
+							},
+							data : $scope.user
+						}).success(function(data) {
+					$scope.status = data;
+					console.log(data);
+					var resultCount = data.resultCount;
+					var results = data.results;
+					if (resultCount != 0) {
+						for (var i = 0; i < results.length; i++) {
+							$scope.cards.push({
+								title : results[i].title,
+								publishedDate : results[i].publishedDate,
+								content : results[i].content
+							});
 						}
-						$scope.announceSelected (2);
-					});
-				
+					}
+				});
+
 			} else if (tab == 2) {
-				$scope.theme = 'cyan'; 
+				$scope.theme = 'cyan';
 				$scope.nonThemed = '#00bcd4';
 			} else {
-				$scope.theme = 'indigo'; 
+				$scope.theme = 'indigo';
 				$scope.nonThemed = '#3f51b5';
 			}
 		};
 
 		$scope.changeUser = function() {
-			$mdSidenav('right').toggle()
+			$mdSidenav('changeUserSideNav').toggle()
 		};
 		$scope.close = function() {
-			$mdSidenav('right').toggle()
+			$mdSidenav('changeUserSideNav').toggle()
 		};
-		$scope.showArticle = function($event, $cardo) {
-		    $scope.alert = '';
-		    $mdBottomSheet.show({
-		      templateUrl: 'viewArticle.html',
-		      controller: 'viewArticleCtrl',
-		      targetEvent: $event,
-		      locals: { carda: $cardo }
-		    }).then(function(clickedItem) {
-		      $scope.alert = clickedItem.name + ' clicked!';
-		    });
-		  };
-		$scope.cards = [
-			            
-	         ];
-		$scope.inita = function () {
-			   // check if there is query in url
-			   // and fire search in case its value is not empty
-			   console.log ('asds');
-			   $mdDialog.show({
-				      controller: DialogController,
-				      templateUrl: 'userSelectionDialog.html',
-				      targetEvent: null,
-				    })
-				    .then(function(loginUser) {
-				      console.log (loginUser);
-
-						$http({
-							method : 'POST',
-							url : 'http://localhost:8080/UB535p3WebApp/UserLogin',
-							headers : {
-								'Content-Type' : 'application/text',
-								'userId' : loginUser
-							},
-							data : $scope.user
-						}).success(function(data) {
-							$scope.status = data;
-							console.log (data);
-						});
-					
-				    },function() {
-				      $scope.alert = 'You cancelled the dialog.';
-				    });
-			};
-			// and fire it after definition
-			$scope.inita();
-
 		
+		$scope.personalizePreferences = function() {
+			$mdSidenav('userPreferencesSideNav').toggle()
+		};
+		$scope.close = function() {
+			$mdSidenav('userPreferencesSideNav').toggle()
+		};
+		
+		$scope.showArticle = function($event, $cardo) {
+			$scope.alert = '';
+			$mdBottomSheet.show({
+				templateUrl : 'viewArticle.html',
+				controller : 'viewArticleCtrl',
+				targetEvent : $event,
+				locals : {
+					carda : $cardo
+				}
+			}).then(function(clickedItem) {
+				$scope.alert = clickedItem.name + ' clicked!';
+			});
+		};
+		$scope.cards = [
+
+		];
+		$scope.inita = function() {
+			// check if there is query in url
+			// and fire search in case its value is not empty
+			console.log('asds');
+			$mdDialog.show({
+				controller : DialogController,
+				templateUrl : 'userSelectionDialog.html',
+				targetEvent : null,
+			}).then(function(loginUser) {
+				console.log(loginUser);
+
+				$http({
+					method : 'POST',
+					url : 'http://localhost:8080/UB535p3WebApp/UserLogin',
+					headers : {
+						'Content-Type' : 'application/text',
+						'userId' : loginUser
+					},
+					data : $scope.user
+				}).success(function(data) {
+					$scope.status = data;
+					console.log(data);
+				});
+
+			}, function() {
+				$scope.alert = 'You cancelled the dialog.';
+			});
+		};
+		// and fire it after definition
+		$scope.inita();
+
 	}
-	function viewArticleCtrl ($scope, $mdBottomSheet, carda) {
-		$scope.card  = carda;
-		  $scope.listItemClick = function($index) {
-		    var clickedItem = $scope.items[$index];
-		    $mdBottomSheet.hide(clickedItem);
-		  };
-		}
-	
+	function viewArticleCtrl($scope, $mdBottomSheet, carda) {
+		$scope.card = carda;
+		$scope.listItemClick = function($index) {
+			var clickedItem = $scope.items[$index];
+			$mdBottomSheet.hide(clickedItem);
+		};
+	}
+
 	function DialogController($scope, $mdDialog) {
-		  $scope.hide = function() {
-		    $mdDialog.hide();
-		  };
+		$scope.hide = function() {
+			$mdDialog.hide();
+		};
 
-		  $scope.cancel = function() {
-		    $mdDialog.cancel();
-		  };
+		$scope.cancel = function() {
+			$mdDialog.cancel();
+		};
 
-		  $scope.loginUser = function(loginUser) {
-		    $mdDialog.hide(loginUser);
-		  };
-		  $scope.newUser = function(newUser) {
+		$scope.loginUser = function(loginUser) {
+			$mdDialog.hide(loginUser);
+		};
+		$scope.newUser = function(newUser) {
 			$mdDialog.hide(newUser);
 		};
-		}
+	}
 </script>
 </head>
-<body ng-controller="AppCtrl" >
+<body ng-controller="AppCtrl">
 	<script>
 		// Include app dependency on ngMataerial
 
@@ -229,71 +241,69 @@
 		app.controller("AppCtrl", AppCtrl);
 		app.controller("viewArticleCtrl", viewArticleCtrl);
 		app.controller("DialogController", DialogController);
-		
 	</script>
-	<div layout="vertical" layout-fill style="height:100%;">
-		<md-toolbar md-theme-watch="true" md-theme="{{theme}}" >
+	<div layout="vertical" layout-fill style="height: 100%;">
+		<md-toolbar md-theme-watch="true" md-theme="{{theme}}">
 
 		<div class="md-toolbar-tools">
-			<md-text-float label="Enter query" ng-model="queryText" class="long" md-theme-watch="true" md-theme="{{theme}}" ></md-text-float>
+			<md-text-float label="Enter query" ng-model="queryText" class="long"
+				md-theme-watch="true" md-theme="{{theme}}"></md-text-float>
 
 			<md-button ng-click="query ()">Search</md-button>
 			<!-- fill up the space between left and right area -->
 			<span flex></span>
 
 			<md-button ng-click="createUser ()">Index</md-button>
+			<md-button ng-click="personalizePreferences ()">Preferences</md-button>
 			<md-button ng-click="changeUser ()">Change User</md-button>
 		</div>
 
 		</md-toolbar>
-		<md-content style="height:100%;background-color:#eaeaea;" md-theme="teal">
-		<div class="tabsdemoStaticTabs" style="height:100%;">
-			<div style="height:100%;">
-	<div ng-style="{'background-color' : nonThemed }">
-				<md-tabs selected="data.selectedIndex" left md-theme-watch="true" md-theme="{{theme}}" style="width:40%; min-width:400px;"> 
-					<md-tab
-						id="tab1" num="1" aria-controls="tab1-content"
-						ng-click="announceSelected(0)" > 
-							Top News 
-						</md-tab> 
-					<md-tab
+		<md-content style="height:100%;background-color:#eaeaea;"
+			md-theme="teal">
+		<div class="tabsdemoStaticTabs" style="height: 100%;">
+			<div style="height: 100%;">
+				<div ng-style="{'background-color' : nonThemed }">
+					<md-tabs selected="data.selectedIndex" left md-theme-watch="true"
+						md-theme="{{theme}}" style="width:40%; min-width:400px;">
+					<md-tab id="tab1" num="1" aria-controls="tab1-content"
+						ng-click="announceSelected(0)"> Top News </md-tab> <md-tab
 						id="tab2" aria-controls="tab2-content"
-						ng-click="announceSelected(1)">
-							Personalised Results 
-					</md-tab> 
-					<md-tab id="tab3" aria-controls="tab3-content"
-							ng-click="announceSelected(2)"> 
-						Search Results 
-					</md-tab> 
-				</md-tabs>
-			</div>
-				<ng-switch on="data.selectedIndex"	 style="height:100%;">
+						ng-click="announceSelected(1)"> Personalised Results </md-tab> <md-tab
+						id="tab3" aria-controls="tab3-content"
+						ng-click="announceSelected(2)"> Search Results </md-tab> </md-tabs>
+				</div>
+				<ng-switch on="data.selectedIndex" style="height:100%;">
 
 				<div role="tabpanel" id="tab2-content" aria-labelledby="tab2"
 					ng-switch-when="1" md-swipe-left="next()"
-					md-swipe-right="previous()">
-				
-				</div>
-								<div role="tabpanel" id="tab3-content" aria-labelledby="tab2"
+					md-swipe-right="previous()"></div>
+				<div role="tabpanel" id="tab3-content" aria-labelledby="tab2"
 					ng-switch-when="2" md-swipe-left="next()"
 					md-swipe-right="previous()">
-	
-	<md-card ng-repeat="card in cards" md-theme-watch="true" style="background-color:white; margin:14px;"
-		ng-click="showArticle($event, card)">
-	<div>
-      <p style="font-weight:300; font-size:24px; line-height:0.5;padding-left:15px;">{{card.title}}</p>
-      <p style="font-weight:300; font-size:14px;padding-left:15px;">
-        	{{card.content}}
-      </p>
-      <div style="overflow:hidden"><p style="float:left; width:100px;padding-left:15px;">LIKE</p></div>
-      </div>
-    </md-card>
-    
 
-  				</div>
+					<md-card ng-repeat="card in cards" md-theme-watch="true"
+						style="background-color:white; margin:14px;"
+						ng-click="showArticle($event, card)">
+					<div>
+						<p
+							style="font-weight: 300; font-size: 24px; line-height: 0.5; padding-left: 15px;">{{card.title}}</p>
+						<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
+							{{card.content}}</p>
+						<div>
+							<ul style="padding: 0">
+								<li ng-repeat="star in stars" style="color: #FFD700;"
+									class="glyphicon"
+									ng-class="{true: 'glyphicon-star-empty', false: 'glyphicon-star'}[star.empty]"
+									ng-click="click(star.index)"></li>
+							</ul>
+						</div>
+					</div>
+					</md-card>
+				</div>
 				</ng-switch>
 
-<!-- 				<div class="after-tabs-area" layout="vertical"
+				<!-- 				<div class="after-tabs-area" layout="vertical"
 					layout-sm="horizontal" layout-padding layout-align="left center">
 
 					<md-text-float type="number" label="Selected Index"
@@ -309,30 +319,65 @@
 
 
 		</md-content>
-    <md-sidenav class="md-sidenav-right md-whiteframe-z2" component_id="right" md-theme="blue-grey">
+		<md-sidenav class="md-sidenav-right md-whiteframe-z2"
+			component_id="changeUserSideNav" md-theme="blue-grey"> <md-toolbar
+			class="md-theme-light">
+		<h1 class="md-toolbar-tools">CHOOSE USER</h1>
+		</md-toolbar>
+		<p style="padding-left: 15px;">
+			<md-button ng-click="changeUser1 ()" class="md-primary">
+			Aniket </md-button>
+		</p>
+		<p style="padding-left: 15px;">
+			<md-button ng-click="changeUser1 ()" class="md-primary">
+			Hari </md-button>
+		</p>
+		<p style="padding-left: 15px;">
+			<md-button ng-click="changeUser1 ()" class="md-primary">
+			PNandi </md-button>
+		</p>
+		<p style="padding-left: 15px;">
+			<md-button ng-click="changeUser1 ()" class="md-primary">
+			Kumar </md-button>
+		</p>
+		<p style="padding-left: 15px; padding-top: 100px;">
+			<md-button ng-click="close ()" class="md-primary"> Close
+			</md-button>
+		</p>
 
-      <md-toolbar class="md-theme-light">
-        <h1 class="md-toolbar-tools">CHOOSE USER</h1>
-      </md-toolbar>
-        <p style="padding-left:15px;"><md-button ng-click="changeUser1 ()" class="md-primary" >
-          Aniket
-        </md-button></p>
-       <p style="padding-left:15px;"><md-button ng-click="changeUser1 ()" class="md-primary" >
-          Hari
-        </md-button></p>
-        <p style="padding-left:15px;"><md-button ng-click="changeUser1 ()" class="md-primary" >
-          PNandi
-        </md-button></p>
-        <p style="padding-left:15px;"><md-button ng-click="changeUser1 ()" class="md-primary" >
-          Kumar
-        </md-button></p>
-        <p style="padding-left:15px;padding-top:100px;"><md-button ng-click="close ()" class="md-primary" >
-          Close
-        </md-button></p>
+		</md-sidenav>
+		
+		
+		<md-sidenav class="md-sidenav-right md-whiteframe-z2"
+			component_id="userPreferencesSideNav" md-theme="blue-grey"> <md-toolbar
+			class="md-theme-light">
+		<h1 class="md-toolbar-tools">UPDATE USER PREFERENCES</h1>
+		</md-toolbar>
+		<p style="padding-left: 15px;">
+			<md-button ng-click="changeUser1 ()" class="md-primary">
+			Aniket </md-button>
+		</p>
+		<p style="padding-left: 15px;">
+			<md-button ng-click="changeUser1 ()" class="md-primary">
+			Hari </md-button>
+		</p>
+		<p style="padding-left: 15px;">
+			<md-button ng-click="changeUser1 ()" class="md-primary">
+			PNandi </md-button>
+		</p>
+		<p style="padding-left: 15px;">
+			<md-button ng-click="changeUser1 ()" class="md-primary">
+			Kumar </md-button>
+		</p>
+		<p style="padding-left: 15px; padding-top: 100px;">
+			<md-button ng-click="close ()" class="md-primary"> Close
+			</md-button>
+		</p>
 
-    </md-sidenav>
+		</md-sidenav>
 	</div>
-	  <script>
-  </script>
+	<script>
+		
+	</script>
 </body>
 </html>
