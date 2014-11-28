@@ -1,47 +1,83 @@
 .tabsdemoStaticTabs {
-  /*
+	/*
  * Animation styles
- */ }
-  .tabsdemoStaticTabs #tab1-content {
-    background-color: #EAEAEA;
-    color:#444  }
-  .tabsdemoStaticTabs #tab2-content {
-    background-color: #EAEAEA; 
-    color:#444 }
-  .tabsdemoStaticTabs #tab3-content {
-    background-color: #EAEAEA;
-    color:#444 }
-  .tabsdemoStaticTabs .tabpanel-container {
-    display: block;
-    position: relative;
-    background: white;
-    border: 0px solid black;
-    height: 300px;
-    width:100%;
-    overflow: hidden; }
-  .tabsdemoStaticTabs [role="tabpanel"] {
-    color: white;
-    height: 100%;
-    width:100%;
-  	-webkit-transition: all ease-in-out;
-    transition: all ease-in-out;
-     position: absolute; }
-  .tabsdemoStaticTabs [role="tabpanel"].ng-leave.ng-leave-active, .tabsdemoStaticTabs [role="tabpanel"].ng-enter {
-    opacity:1; }
-  .tabsdemoStaticTabs [role="tabpanel"].ng-leave, .tabsdemoStaticTabs [role="tabpanel"].ng-enter.ng-enter-active {
-    top: 0; }
-  .tabsdemoStaticTabs [role="tabpanel"].ng-leave {
-    opacity:0; }
-  .tabsdemoStaticTabs .tabpanel-container [role="tabpanel"] {
-    padding: 20px; }
-  .tabsdemoStaticTabs .after-tabs-area {
-    padding: 25px; }
-  .tabsdemoStaticTabs .after-tabs-area > span {
-    margin-top: 25px;
-    padding-right: 15px;
-    vertical-align: middle;
-    line-height: 30px;
-    height: 35px; }
-  .tabsdemoStaticTabs .after-tabs-area > md-checkbox {
-    margin-top: 26px;
-    margin-left: 0px; }
+ */
+	
+}
+
+.tabsdemoStaticTabs #tab1-content {
+	background-color: #EAEAEA;
+	color: #444
+}
+
+.tabsdemoStaticTabs #tab2-content {
+	background-color: #EAEAEA;
+	color: #444
+}
+
+.tabsdemoStaticTabs #tab3-content {
+	background-color: #EAEAEA;
+	color: #444
+}
+
+.tabsdemoStaticTabs .tabpanel-container {
+	display: block;
+	position: relative;
+	background: white;
+	border: 0px solid black;
+	height: 300px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.tabsdemoStaticTabs [role="tabpanel"] {
+	color: white;
+	height: 100%;
+	width: 100%;
+	-webkit-transition: all ease-in-out;
+	transition: all ease-in-out;
+	position: absolute;
+}
+
+.tabsdemoStaticTabs [role="tabpanel"].ng-leave.ng-leave-active,
+	.tabsdemoStaticTabs [role="tabpanel"].ng-enter {
+	opacity: 1;
+}
+
+.tabsdemoStaticTabs [role="tabpanel"].ng-leave, .tabsdemoStaticTabs [role="tabpanel"].ng-enter.ng-enter-active
+	{
+	top: 0;
+}
+
+.tabsdemoStaticTabs [role="tabpanel"].ng-leave {
+	opacity: 0;
+}
+
+.tabsdemoStaticTabs .tabpanel-container [role="tabpanel"] {
+	padding: 20px;
+}
+
+.tabsdemoStaticTabs .after-tabs-area {
+	padding: 25px;
+}
+
+.tabsdemoStaticTabs .after-tabs-area>span {
+	margin-top: 25px;
+	padding-right: 15px;
+	vertical-align: middle;
+	line-height: 30px;
+	height: 35px;
+}
+
+.tabsdemoStaticTabs .after-tabs-area>md-checkbox {
+	margin-top: 26px;
+	margin-left: 0px;
+}
+
+.personalisationDiv {
+	margin: 50px;
+}
+
+.checkLabels {
+	display: block;
+}

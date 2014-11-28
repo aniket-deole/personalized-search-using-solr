@@ -149,14 +149,42 @@
 		$scope.close = function() {
 			$mdSidenav('changeUserSideNav').toggle()
 		};
-		
+
 		$scope.personalizePreferences = function() {
 			$mdSidenav('userPreferencesSideNav').toggle()
 		};
 		$scope.close = function() {
 			$mdSidenav('userPreferencesSideNav').toggle()
 		};
-		
+		$scope.roles = [ {
+			id : 1,
+			text : 'guest'
+		}, {
+			id : 2,
+			text : 'user'
+		}, {
+			id : 3,
+			text : 'customer'
+		}, {
+			id : 4,
+			text : 'admin'
+		} ];
+		$scope.user = {
+			roles : [ 2, 4 ]
+		};
+		$scope.checkAll = function() {
+			$scope.user.roles = $scope.roles.map(function(item) {
+				return item.id;
+			});
+		};
+		$scope.uncheckAll = function() {
+			$scope.user.roles = [];
+		};
+		$scope.checkFirst = function() {
+			$scope.user.roles.splice(0, $scope.user.roles.length);
+			$scope.user.roles.push(1);
+		};
+
 		$scope.showArticle = function($event, $cardo) {
 			$scope.alert = '';
 			$mdBottomSheet.show({
@@ -346,33 +374,24 @@
 		</p>
 
 		</md-sidenav>
-		
-		
+
+
 		<md-sidenav class="md-sidenav-right md-whiteframe-z2"
-			component_id="userPreferencesSideNav" md-theme="blue-grey"> <md-toolbar
-			class="md-theme-light">
+			component_id="userPreferencesSideNav" md-theme="blue-grey">
+		<md-toolbar class="md-theme-light">
 		<h1 class="md-toolbar-tools">UPDATE USER PREFERENCES</h1>
 		</md-toolbar>
-		<p style="padding-left: 15px;">
-			<md-button ng-click="changeUser1 ()" class="md-primary">
-			Aniket </md-button>
-		</p>
-		<p style="padding-left: 15px;">
-			<md-button ng-click="changeUser1 ()" class="md-primary">
-			Hari </md-button>
-		</p>
-		<p style="padding-left: 15px;">
-			<md-button ng-click="changeUser1 ()" class="md-primary">
-			PNandi </md-button>
-		</p>
-		<p style="padding-left: 15px;">
-			<md-button ng-click="changeUser1 ()" class="md-primary">
-			Kumar </md-button>
-		</p>
-		<p style="padding-left: 15px; padding-top: 100px;">
-			<md-button ng-click="close ()" class="md-primary"> Close
-			</md-button>
-		</p>
+		<div class="personalisationDiv">
+			<label class="checkLabels" ng-repeat="role in roles"> <input type="checkbox"
+				checklist-model="user.roles" checklist-value="role.id">
+				{{role.text}}
+			</label> <br>
+			<button ng-click="checkAll()">check all</button>
+			<button ng-click="uncheckAll()">uncheck all</button>
+			<button ng-click="checkFirst()">check first</button>
+			<br> <br> user.roles {{ user.roles | json }}
+
+		</div>
 
 		</md-sidenav>
 	</div>
