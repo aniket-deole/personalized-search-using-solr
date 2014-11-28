@@ -65,6 +65,13 @@ public class SaxParserNytHandler extends DefaultHandler {
 	@Override
 	public void startDocument() throws SAXException {
 		// System.out.println("\nStart document");
+		content = "";
+		title = "";
+		author = "";
+		source = "";
+		date = null;
+		place = "";
+		summary = "";
 	}
 
 	@Override
@@ -174,9 +181,8 @@ public class SaxParserNytHandler extends DefaultHandler {
 			throws SAXException {
 		if (qName.equals("block")) {
 			isBlockFullText = false;
-		} else if (isBlockFullText && qName.equals("p")) {
 			isContent = false;
-		} else if (qName.equals("title")) {
+		}  else if (qName.equals("title")) {
 			isTitle = false;
 		} else if (qName.equals("classifier") && isTag) {
 			isTag = false;
@@ -196,8 +202,7 @@ public class SaxParserNytHandler extends DefaultHandler {
 			throws SAXException {
 		if (isContent) {
 			String s = new String(new String(ch, start, length));
-			content = s + CommonConstants.WHITESPACE;
-			isContent = false;
+			content = content + CommonConstants.WHITESPACE + s;
 		}
 
 		else if (isTitle) {
