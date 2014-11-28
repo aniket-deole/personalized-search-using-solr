@@ -153,14 +153,15 @@
 		$scope.close = function() {
 			$mdSidenav('changeUserSideNav').toggle()
 		};
-
 		$scope.personalizePreferences = function() {
 			$mdSidenav('userPreferencesSideNav').toggle()
 		};
-		$scope.close = function() {
+		$scope.closePreferences = function() {
+			$scope.alert = 'Rating is ' + $scope.rating + '. Checkbox value = '
+					+ $scope.data.cb1;
 			$mdSidenav('userPreferencesSideNav').toggle()
 		};
-
+		
 		$scope.showArticle = function($event, $cardo) {
 			$scope.alert = '';
 
@@ -274,15 +275,9 @@
 
 	}
 	function PersonalisationController($scope) {
-		$scope.color = {
-			red : Math.floor(Math.random() * 255),
-			green : Math.floor(Math.random() * 255),
-			blue : Math.floor(Math.random() * 255)
-		};
-		$scope.closePreferences = function() {
-			$scope.alert = 'Rating is ' + $scope.rating + '. Checkbox value = '
-					+ $scope.data.cb1;
-		};
+		
+		
+		
 
 	}
 
@@ -433,7 +428,7 @@
 
 		<md-sidenav id="userPreferencesSideNav"
 			class="md-sidenav-right md-whiteframe-z2"
-			component_id="userPreferencesSideNav" md-theme="blue-grey">
+			component_id="userPreferencesSideNav" md-theme="blue-grey" >
 		<md-toolbar class="md-theme-light">
 		<h1 class="md-toolbar-tools">UPDATE USER PREFERENCES</h1>
 		</md-toolbar>
