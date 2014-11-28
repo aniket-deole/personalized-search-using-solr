@@ -2,11 +2,9 @@ package org.zeppelin.p3.parser;
 
 import java.io.File;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 import org.apache.solr.common.SolrInputDocument;
-import org.apache.solr.common.util.DateUtil;
 
 public class SolrDocumentGenerator {
 
@@ -44,13 +42,13 @@ public class SolrDocumentGenerator {
 				solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("title", doc.getTitle());
 				solrDoc.addField("source", doc.getSource());
-				solrDoc.addField("published_date", doc.getPublishedDate(), 1.0f);
+				solrDoc.addField("published_date", doc.getPublishedDate());
 				solrDoc.addField("content", doc.getContent());
 				solrDoc.addField("place", doc.getPlace());
 				
 				if (doc.getCategories() != null) {
 					for (String category : doc.getCategories()) {
-						solrDoc.addField("category", category);
+						solrDoc.addField("category", category, 1.0f);
 					}
 				}
 				// add the doc to the list

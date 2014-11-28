@@ -170,6 +170,33 @@ public class MySQLAccess {
 
 	}
 
+	public ArrayList<String> fetchAllCategories() throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			// statements allow to issue SQL queries to the database
+			statement = connect.createStatement();
+			// resultSet gets the result of the SQL query
+			resultSet = statement
+					.executeQuery("SELECT name from ub535p3.category_master");
+			ArrayList<String> preferredCartegories = new ArrayList<String>();
+			while (resultSet.next()) {
+				preferredCartegories.add(resultSet.getString("name"));
+			}
+			return preferredCartegories;
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+
+	}
+
 	private void writeResultSet(ResultSet resultSet) throws SQLException {
 		// resultSet is initialised before the first data set
 		while (resultSet.next()) {
