@@ -71,6 +71,8 @@ public class BasicEvaluator extends HttpServlet {
 				.toArray(new String[preferredCategories.size()]));
 		// }
 		// parameters.set("bq", bq);
+		
+		//parameters = morelikethisQuery(q);
 
 		try {
 			QueryResponse q_response = solrServer.query(parameters);
@@ -125,5 +127,18 @@ public class BasicEvaluator extends HttpServlet {
 	String modifyQuery(String q) {
 		String modifiedQuery = q + "OR (category:sports)^2.0";
 		return modifiedQuery;
+	}
+	
+	SolrQuery morelikethisQuery(String q){
+		
+		//http://localhost:8983/solr/select?q=apache&mlt=true&mlt.fl=manu,cat&mlt.mindf=1&mlt.mintf=1&fl=id,score
+		SolrQuery parameters = new SolrQuery();
+		parameters.set("q", q);
+        parameters.set("defType", "edismax");
+        parameters.set("mlt.fl", "title,content,category");
+        parameters.set("mlt", "true");
+        //parameters.set("mlt.mindf", "1");
+        //parameters.set("mlt.mintf", "1");
+		return parameters;
 	}
 }
