@@ -179,7 +179,8 @@
    <field name="manu_exact" type="string" indexed="true" stored="false"/>
 
    <field name="payloads" type="payloads" indexed="true" stored="true"/>
-
+	<field name="eff_views" 
+       type="ext_file_field" />
 
    <!--
      Some fields such as popularity and manu_exact could be modified to
@@ -313,7 +314,11 @@
          Class names starting with "solr" refer to java classes in a
        standard package such as org.apache.solr.analysis
     -->
-
+<fieldType name="ext_file_field" 
+           keyField="id" 
+           defVal="0.0" 
+           class="solr.ExternalFileField" 
+           valType="float"/>
     <!-- The StrField type is not analyzed, but indexed/stored verbatim.
        It supports doc values but in that case the field needs to be
        single-valued and either required or have a default value.

@@ -672,6 +672,10 @@
       </arr>
     </listener>
 
+<listener event="newSearcher" 
+          class="org.apache.solr.schema.ExternalFileFieldReloader"/>
+<listener event="firstSearcher" 
+          class="org.apache.solr.schema.ExternalFileFieldReloader"/>
     <!-- Use Cold Searcher
 
          If a search request comes in and there is no current
