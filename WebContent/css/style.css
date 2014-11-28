@@ -74,10 +74,6 @@
 	margin-left: 0px;
 }
 
-.personalisationDiv {
-	margin: 50px;
-}
-
-.checkLabels {
-	display: block;
+#userPreferencesSideNav {
+	width : 40%;
 }

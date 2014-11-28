@@ -25,6 +25,7 @@ public class SaxParserNytHandler extends DefaultHandler {
 	Boolean isTitle = false;
 	Boolean isAuthor = false;
 	Boolean isTag = false;
+	Boolean isPlace = false;
 
 	String content = "";
 	String title = "";
@@ -35,6 +36,7 @@ public class SaxParserNytHandler extends DefaultHandler {
 	String summary = "";
 	List<String> categories; // = new ArrayList<String>();
 	List<String> tags = new ArrayList<String>();
+	
 
 	Document document = new Document();
 
@@ -63,6 +65,13 @@ public class SaxParserNytHandler extends DefaultHandler {
 	@Override
 	public void startDocument() throws SAXException {
 		// System.out.println("\nStart document");
+		content = "";
+		title = "";
+		author = "";
+		source = "";
+		date = null;
+		place = "";
+		summary = "";
 	}
 
 	@Override
@@ -161,6 +170,10 @@ public class SaxParserNytHandler extends DefaultHandler {
 				isTag = true;
 			}
 		}
+		
+		else if (qName.equals("dateline")) {
+			isPlace = true;
+		}
 	}
 
 	@Override
@@ -168,9 +181,8 @@ public class SaxParserNytHandler extends DefaultHandler {
 			throws SAXException {
 		if (qName.equals("block")) {
 			isBlockFullText = false;
-		} else if (isBlockFullText && qName.equals("p")) {
 			isContent = false;
-		} else if (qName.equals("title")) {
+		}  else if (qName.equals("title")) {
 			isTitle = false;
 		} else if (qName.equals("classifier") && isTag) {
 			isTag = false;
@@ -179,6 +191,10 @@ public class SaxParserNytHandler extends DefaultHandler {
 		else if (qName.equals("org") && isTag) {
 			isTag = false;
 		}
+		
+		else if (qName.equals("dateline")) {
+			isPlace = false;
+		}
 	}
 
 	@Override
@@ -186,8 +202,7 @@ public class SaxParserNytHandler extends DefaultHandler {
 			throws SAXException {
 		if (isContent) {
 			String s = new String(new String(ch, start, length));
-			content = s + CommonConstants.WHITESPACE;
-			isContent = false;
+			content = content + CommonConstants.WHITESPACE + s;
 		}
 
 		else if (isTitle) {
@@ -206,6 +221,16 @@ public class SaxParserNytHandler extends DefaultHandler {
 			String s = new String(ch, start, length);
 			if (s != null && s.length() > 0) {
 				tags.add(s);
+			}
+		}
+		
+		else if (isPlace){
+			String s = new String(ch, start, length);
+			if (s != null && s.length() > 0) {
+				String arr [] = s.split(CommonConstants.COMMA);
+				if(arr!=null && arr.length>0){
+					place=arr[0];
+				}
 			}
 		}
 
