@@ -25,6 +25,7 @@ public class SaxParserNytHandler extends DefaultHandler {
 	Boolean isTitle = false;
 	Boolean isAuthor = false;
 	Boolean isTag = false;
+	Boolean isPlace = false;
 
 	String content = "";
 	String title = "";
@@ -35,6 +36,7 @@ public class SaxParserNytHandler extends DefaultHandler {
 	String summary = "";
 	List<String> categories; // = new ArrayList<String>();
 	List<String> tags = new ArrayList<String>();
+	
 
 	Document document = new Document();
 
@@ -161,6 +163,10 @@ public class SaxParserNytHandler extends DefaultHandler {
 				isTag = true;
 			}
 		}
+		
+		else if (qName.equals("dateline")) {
+			isPlace = true;
+		}
 	}
 
 	@Override
@@ -178,6 +184,10 @@ public class SaxParserNytHandler extends DefaultHandler {
 
 		else if (qName.equals("org") && isTag) {
 			isTag = false;
+		}
+		
+		else if (qName.equals("dateline")) {
+			isPlace = false;
 		}
 	}
 
@@ -206,6 +216,16 @@ public class SaxParserNytHandler extends DefaultHandler {
 			String s = new String(ch, start, length);
 			if (s != null && s.length() > 0) {
 				tags.add(s);
+			}
+		}
+		
+		else if (isPlace){
+			String s = new String(ch, start, length);
+			if (s != null && s.length() > 0) {
+				String arr [] = s.split(CommonConstants.COMMA);
+				if(arr!=null && arr.length>0){
+					place=arr[0];
+				}
 			}
 		}
 
