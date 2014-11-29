@@ -77,3 +77,78 @@
 #userPreferencesSideNav {
 	width : 40%;
 }
+
+
+/* taken from bootstrap */
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+ul>li{
+	list-style:none;
+}
+
+/* Generic classes */
+.hide { /* Hide stuff without resorting to display:none; */
+	visibility: hidden !important;
+	width: 0 !important;
+	height: 0 !important;
+	line-height: 0 !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.hide:after { /* Hide stuff without resorting to display:none; */
+	visibility: hidden !important;
+	width: 0 !important;
+	height: 0 !important;
+	line-height: 0 !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.main{
+  display: inline-block;
+  padding: 2em;
+  width: 30em;
+  margin-bottom: 5em;
+}
+
+header{
+  width: 100%;
+  height: 6em;
+  padding: 0.7em 1em 0.5em 2em;
+  color: #eee;
+  background-color: #333;
+}
+.description{
+  text-align: left;
+}
+
+.thin{
+  font-weight: 100;
+}

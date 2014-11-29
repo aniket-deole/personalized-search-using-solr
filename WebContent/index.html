@@ -5,6 +5,8 @@
 <!-- 
 <script type="text/javascript"
     src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script> -->
+    
+     <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
 <script src="js/angular/angular.js"></script>
 <meta name="viewport"
 	content="initial-scale=1, maximum-scale=1, user-scalable=no" />
@@ -12,6 +14,9 @@
 <script src="js/angular-animate/angular-animate.js"></script>
 <script src="js/hammerjs/hammer.js"></script>
 <script src="js/angular-material/angular-material.js"></script>
+
+<script src="js/autocomplete.js"></script>
+
 <link rel="stylesheet" href="js/angular-material/angular-material.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="js/angular-material/themes/green-theme.css">
@@ -36,6 +41,8 @@
 <link rel="stylesheet" href="js/angular-material/themes/light-green-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/lime-theme.css">
 
+<link rel="stylesheet" href="css/autocomplete.css">
+
 
 <script>
 	
@@ -45,8 +52,29 @@
 
 	}
 
-	function AppCtrl($scope, $http, $mdSidenav, $mdBottomSheet, $mdDialog) {
+	function AppCtrl($scope, $http, $mdSidenav, $mdBottomSheet, $mdDialog, MovieRetriever) {
 
+		  $scope.result1 = '';
+		    $scope.options1 = null;
+		    $scope.details1 = '';
+
+
+
+		    $scope.result2 = '';
+		    $scope.options2 = {
+		      country: 'ca',
+		      types: '(cities)'
+		    };    $scope.details2 = '';
+		    
+		    
+		    
+		    $scope.result3 = '';
+		    $scope.options3 = {
+		      country: 'gb',
+		      types: 'establishment'
+		    };
+		    $scope.details3 = '';
+		
 		console.log('AppCtrl');
 		$scope.data = {
 			selectedIndex : 0,
@@ -54,8 +82,7 @@
 			secondLabel : "Item Two"
 		};
 
-		$scope.user = {};
-		$scope.categories = {};
+		$scope.user = [];
 		$scope.theme = 'green';
 		$scope.nonThemed = '#259b24';
 		$scope.createUser = function() {
@@ -213,6 +240,7 @@
 				$scope.alert = clickedItem.name + ' clicked!';
 			});
 		};
+		
 		$scope.cards = [];
 		$scope.personalizedCards = [];
 		$scope.categoriesAndLikeScoreMap = [];
@@ -296,6 +324,29 @@
 							});
 
 		};
+		
+		 $scope.movies = MovieRetriever.getmovies("...");
+		  $scope.movies.then(function(data){
+		    $scope.movies = data;
+		  });
+
+		  $scope.getmovies = function(){
+		    return $scope.movies;
+		  }
+
+		  $scope.doSomething = function(typedthings){
+		    console.log("Do something like reload data with this: " + typedthings );
+		    $scope.newmovies = MovieRetriever.getmovies(typedthings);
+		    $scope.newmovies.then(function(data){
+		      $scope.movies = data;
+		    });
+		  }
+
+		  $scope.doSomethingElse = function(suggestion){
+		    console.log("Suggestion selected: " + suggestion );
+		  }
+
+		
 		// and fire it after definition
 		$scope.inita();
 
@@ -341,8 +392,33 @@
 	<script>
 		// Include app dependency on ngMataerial
 
-		var app = angular.module('YourApp', [ 'ngMaterial' ]);
+		var app = angular.module('YourApp', [ 'ngMaterial' ,'autocomplete']);
+		app.factory('MovieRetriever', function($http, $q, $timeout){
+			  var MovieRetriever = new Object();
 
+			  MovieRetriever.getmovies = function(i) {
+			    var moviedata = $q.defer();
+			    var movies;
+
+			    var someMovies = ["The Wolverine", "The Smurfs 2", "The Mortal Instruments: City of Bones", "Drinking Buddies", "All the Boys Love Mandy Lane", "The Act Of Killing", "Red 2", "Jobs", "Getaway", "Red Obsession", "2 Guns", "The World's End", "Planes", "Paranoia", "The To Do List", "Man of Steel"];
+
+			    var moreMovies = ["The Wolverine", "The Smurfs 2", "The Mortal Instruments: City of Bones", "Drinking Buddies", "All the Boys Love Mandy Lane", "The Act Of Killing", "Red 2", "Jobs", "Getaway", "Red Obsession", "2 Guns", "The World's End", "Planes", "Paranoia", "The To Do List", "Man of Steel", "The Way Way Back", "Before Midnight", "Only God Forgives", "I Give It a Year", "The Heat", "Pacific Rim", "Pacific Rim", "Kevin Hart: Let Me Explain", "A Hijacking", "Maniac", "After Earth", "The Purge", "Much Ado About Nothing", "Europa Report", "Stuck in Love", "We Steal Secrets: The Story Of Wikileaks", "The Croods", "This Is the End", "The Frozen Ground", "Turbo", "Blackfish", "Frances Ha", "Prince Avalanche", "The Attack", "Grown Ups 2", "White House Down", "Lovelace", "Girl Most Likely", "Parkland", "Passion", "Monsters University", "R.I.P.D.", "Byzantium", "The Conjuring", "The Internship"]
+
+			    if(i && i.indexOf('T')!=-1)
+			      movies=moreMovies;
+			    else
+			      movies=moreMovies;
+
+			    $timeout(function(){
+			      moviedata.resolve(movies);
+			    },1000);
+
+			    return moviedata.promise
+			  }
+
+			  return MovieRetriever;
+			});
+		
 		app.controller("ContactController", ContactController);
 		app.controller("AppCtrl", AppCtrl);
 		app.controller("viewArticleCtrl", viewArticleCtrl);
@@ -355,9 +431,15 @@
 		<md-toolbar md-theme-watch="true" md-theme="{{theme}}">
 
 		<div class="md-toolbar-tools">
-			<md-text-float label="Enter query" ng-model="queryText" class="long"
-				md-theme-watch="true" md-theme="{{theme}}" style="font-size:12px;"></md-text-float>
-
+<!-- 			<md-text-float label="Enter query" ng-model="queryText" class="long"
+				md-theme-watch="true" md-theme="{{theme}}" style="font-size:12px;"
+				 ng-autocomplete="result1" details="details1" options="options1"></md-text-float>
+				 -->
+	
+	<autocomplete  ng-model="queryText" attr-placeholder="Enter query" 
+		click-activation="true" data="movies" on-type="doSomething" on-select="doSomethingElse"
+		class="autocomplete" style="background:transparent; border:0px; color:white;"></autocomplete>
+		
 			<md-button ng-click="query ()" style="font-size:12px;">Search</md-button>
 			<!-- fill up the space between left and right area -->
 			<span flex></span>
