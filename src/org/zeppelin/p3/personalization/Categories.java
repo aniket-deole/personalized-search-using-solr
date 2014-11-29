@@ -2,7 +2,8 @@ package org.zeppelin.p3.personalization;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -11,16 +12,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import org.apache.solr.client.solrj.SolrQuery;
-import org.apache.solr.client.solrj.SolrServer;
-import org.apache.solr.client.solrj.SolrServerException;
-import org.apache.solr.client.solrj.impl.HttpSolrServer;
-import org.apache.solr.client.solrj.response.QueryResponse;
-import org.apache.solr.common.SolrDocumentList;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.zeppelin.p3.db.MySQLAccess;
-import org.zeppelin.p3.query.QueryResult;
 
 /**
  * Servlet implementation class Categories
@@ -55,14 +49,13 @@ public class Categories extends HttpServlet {
 			count++;
 		}
 
-		String urlString = "http://localhost:8080/solr-4.10.2/";
-		SolrServer solrServer = new HttpSolrServer(urlString);
-
+		int userId = 4;
 		// Retrieve all the categories available
-		ArrayList<String> categories = new ArrayList<String>();
+		Map<String, Integer> categories = new HashMap<String, Integer>();
 		MySQLAccess dao = new MySQLAccess();
 		try {
-			categories = dao.fetchAllCategories();
+			categories = dao
+					.fetchPreferredCategoriesWithTheirLikingScores(userId);
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -73,8 +66,9 @@ public class Categories extends HttpServlet {
 		JSONArray jsonResults = new JSONArray();
 		if (!categories.isEmpty()) {
 			// TODO - Show all results in a page view and asynchronously
-			for (int i = 0; i < categories.size(); i++) {
-				jsonResults.add(categories.get(i).toString());
+			for (String category : categories.keySet()) {
+				jsonResults.add(new PreferredCategoriesWithLikeScore(category,
+						categories.get(category)));
 			}
 			obj.put("results", jsonResults);
 		}
