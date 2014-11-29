@@ -56,7 +56,6 @@
 
 		$scope.user = {};
 		$scope.categories = {};
-		$scope.categoriesAndLikeScore = [];
 		$scope.theme = 'green';
 		$scope.nonThemed = '#259b24';
 		$scope.createUser = function() {
@@ -249,6 +248,7 @@
 																		$scope.status = data;
 																		console
 																				.log(data);
+																		$scope.categoriesAndLikeScoreMap = [];
 																		$http(
 																				{
 																					method : 'POST',
@@ -257,7 +257,7 @@
 																						'Content-Type' : 'application/text',
 																						'userId' : loginUser
 																					},
-																					data : $scope.allcategoriesAndLikeScore
+																					data : $scope.categoriesAndLikeScoreMap
 																				})
 																				.success(
 																						function(
@@ -265,7 +265,7 @@
 																							$scope.status = data;
 																							console
 																									.log(data);
-																							$scope.categories = data.results;
+																							$scope.categoriesAndLikeScoreMap = data.results;
 																						});
 																	});
 
@@ -464,10 +464,10 @@
 		</md-toolbar>
 		<div>
 
-			<div ng-repeat="category in categories" layout>
+			<div ng-repeat="categoryLikeScore in categoriesAndLikeScoreMap" layout>
 				<div>
 					<md-checkbox ng-model="categoryCheck" aria-label="categoryCheck"
-						id="categoryCheckBox"> {{category}} </md-checkbox>
+						id="categoryCheckBox"> {{categoryLikeScore.category}} </md-checkbox>
 				</div>
 				<div flex="20" layout layout-align="center center">
 					<input type="number" ng-model="liking" aria-label="liking"
