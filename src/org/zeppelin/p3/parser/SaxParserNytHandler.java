@@ -36,6 +36,8 @@ public class SaxParserNytHandler extends DefaultHandler {
 	String summary = "";
 	List<String> categories; // = new ArrayList<String>();
 	List<String> tags = new ArrayList<String>();
+	int snippetLineCnt;
+	String snippet;
 	
 
 	Document document = new Document();
@@ -72,6 +74,8 @@ public class SaxParserNytHandler extends DefaultHandler {
 		date = null;
 		place = "";
 		summary = "";
+		snippetLineCnt = 0;
+		snippet = "";
 	}
 
 	@Override
@@ -99,6 +103,7 @@ public class SaxParserNytHandler extends DefaultHandler {
 		document.setTitle(title);
 		document.setSource(source);
 		document.setSummary(summary);
+		document.setSnippet(snippet);
 	}
 
 	@Override
@@ -203,6 +208,11 @@ public class SaxParserNytHandler extends DefaultHandler {
 		if (isContent) {
 			String s = new String(new String(ch, start, length));
 			content = content + CommonConstants.WHITESPACE + s;
+			//result snippet
+			if(snippetLineCnt<3){
+				snippet = snippet +"\n"+s;
+				snippetLineCnt++;
+			}
 		}
 
 		else if (isTitle) {

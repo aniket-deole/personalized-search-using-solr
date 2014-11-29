@@ -101,7 +101,7 @@ public class RCVParser {
 				content = content.trim();
 				document.setContent(content);
 				document.setSource("RCV");
-				//document.setResultSnippet(snippet);
+				document.setSnippet(snippet);
 			}
 			reader.close();
 		} catch (FileNotFoundException e) {

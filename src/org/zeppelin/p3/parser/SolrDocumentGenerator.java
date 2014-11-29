@@ -45,6 +45,7 @@ public class SolrDocumentGenerator {
 				solrDoc.addField("published_date", doc.getPublishedDate());
 				solrDoc.addField("content", doc.getContent());
 				solrDoc.addField("place", doc.getPlace());
+				solrDoc.addField("snippet", doc.getSnippet());
 				
 				if (doc.getCategories() != null) {
 					for (String category : doc.getCategories()) {

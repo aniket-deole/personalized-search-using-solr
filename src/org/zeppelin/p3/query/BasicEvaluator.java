@@ -83,9 +83,9 @@ public class BasicEvaluator extends HttpServlet {
 							result.setTitle(list.get(i).getFieldValue("title")
 									.toString());
 						}
-						if (list.get(i).getFieldValue("content") != null) {
+						if (list.get(i).getFieldValue("snippet") != null) {
 							result.setContent(list.get(i)
-									.getFieldValue("content").toString());
+									.getFieldValue("snippet").toString());
 						}
 						if (list.get(i).getFieldValue("category") != null) {
 							result.setCategory(list.get(i)
@@ -98,6 +98,10 @@ public class BasicEvaluator extends HttpServlet {
 						if (list.get(i).getFieldValue("published_date") != null) {
 							result.setPublishedDate(list.get(i)
 									.getFieldValue("published_date").toString());
+						}
+						if (list.get(i).getFieldValue("snippet") != null) {
+							result.setSnippet(list.get(i)
+									.getFieldValue("snippet").toString());
 						}
 
 						jsonResults.add(result);
