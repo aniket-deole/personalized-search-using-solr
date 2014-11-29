@@ -55,6 +55,11 @@ public class Document {
 	 * Content of the document
 	 */
 	private String content;
+	
+	/**
+	 * A short snippet of the document
+	 */
+	private String snippet;
 
 	/**
 	 * @return the source
@@ -189,6 +194,20 @@ public class Document {
 	 */
 	public void setCategories(List<String> categories) {
 		this.categories = categories;
+	}
+
+	/**
+	 * @return the snippet
+	 */
+	public String getSnippet() {
+		return snippet;
+	}
+
+	/**
+	 * @param snippet the snippet to set
+	 */
+	public void setSnippet(String snippet) {
+		this.snippet = snippet;
 	}
 
 }
