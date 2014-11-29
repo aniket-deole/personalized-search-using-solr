@@ -163,8 +163,8 @@
 			$mdSidenav('userPreferencesSideNav').toggle()
 		};
 		$scope.closePreferences = function() {
-			$scope.alert = 'Rating is ' + $scope.rating + '. Checkbox value = '
-					+ $scope.data.cb1;
+			$scope.alert = 'Rating is ' + $scope.liking + '. Checkbox value = '
+					+ $scope.categoryCheck;
 			$mdSidenav('userPreferencesSideNav').toggle()
 		};
 		
@@ -248,6 +248,7 @@
 																		$scope.status = data;
 																		console
 																				.log(data);
+																		$scope.categoriesAndLikeScoreMap = [];
 																		$http(
 																				{
 																					method : 'POST',
@@ -256,7 +257,7 @@
 																						'Content-Type' : 'application/text',
 																						'userId' : loginUser
 																					},
-																					data : $scope.allcategories
+																					data : $scope.categoriesAndLikeScoreMap
 																				})
 																				.success(
 																						function(
@@ -264,7 +265,7 @@
 																							$scope.status = data;
 																							console
 																									.log(data);
-																							$scope.categories = data.results;
+																							$scope.categoriesAndLikeScoreMap = data.results;
 																						});
 																	});
 
@@ -450,7 +451,7 @@
 			Kumar </md-button>
 		</p>
 		<p style="padding-left: 15px; padding-top: 100px;">
-			<md-button ng-click="close ()" class="md-primary"> Close
+			<md-button ng-click="close ()" class="md-raised"> Close
 			</md-button>
 		</p>
 
@@ -463,25 +464,25 @@
 		<md-toolbar class="md-theme-light">
 		<h1 class="md-toolbar-tools">UPDATE USER PREFERENCES</h1>
 		</md-toolbar>
-		<div ng-controller="PersonalisationController">
+		<div>
 
-			<div ng-repeat="category in categories" layout>
+			<div ng-repeat="categoryLikeScore in categoriesAndLikeScoreMap" layout>
 				<div>
 					<md-checkbox ng-model="categoryCheck" aria-label="categoryCheck"
-						id="categoryCheckBox"> {{category}} </md-checkbox>
+						id="categoryCheckBox"> {{categoryLikeScore.category}} </md-checkbox>
 				</div>
 				<div flex="20" layout layout-align="center center">
-					<input type="number" ng-model="rating" aria-label="rating"
-						aria-controls="rating-slider" min="0" max="10">
+					<input type="number" ng-model="liking" aria-label="liking"
+						aria-controls="liking-slider" min="0" max="10">
 				</div>
-				<md-slider md-theme="blue" flex ng-model="rating" min="0" max="10"
-					aria-label="rating" id="rating-slider"> </md-slider>
+				<md-slider md-theme="blue" flex ng-model="liking" min="0" max="10"
+					aria-label="liking" id="liking-slider"> </md-slider>
 
 			</div>
 
 		</div>
-		<p style="padding-top: 100px;">
-			<md-button ng-click="closePreferences ()" class="md-primary">
+		<p style="padding-left: 15px; padding-top: 100px;">
+			<md-button ng-click="closePreferences ()" class="md-raised">
 			Close </md-button>
 		</p>
 	</md-sidenav>

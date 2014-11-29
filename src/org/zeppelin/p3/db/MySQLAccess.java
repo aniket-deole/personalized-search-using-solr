@@ -7,7 +7,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.zeppelin.p3.personalization.User;
 
@@ -172,6 +174,55 @@ public class MySQLAccess {
 
 	}
 
+	public Map<String, Integer> fetchPreferredCategoriesWithTheirLikingScores(
+			int userId) throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			// statements allow to issue SQL queries to the database
+			statement = connect.createStatement();
+			// resultSet gets the result of the SQL query
+			resultSet = statement
+					.executeQuery("SELECT name from ub535p3.category_master");
+			ArrayList<String> allCategories = new ArrayList<String>();
+			while (resultSet.next()) {
+				allCategories.add(resultSet.getString("name"));
+			}
+			// statements allow to issue SQL queries to the database
+			preparedStatement = connect
+					.prepareStatement("SELECT cm.name,ucm.liking_count from ub535p3.user_category_map ucm, ub535p3.category_master cm where user_id=? AND ucm.category_id=cm.category_id");
+			preparedStatement.setInt(1, userId);
+			resultSet = preparedStatement.executeQuery();
+
+			Map<String, Integer> preferredCartegoriesMap = new HashMap<String, Integer>();
+			Map<String, Integer> copyOfPreferredCartegoriesMap = new HashMap<String, Integer>();
+			while (resultSet.next()) {
+				copyOfPreferredCartegoriesMap.put(resultSet.getString("name"),
+						resultSet.getInt("liking_count"));
+
+			}
+			for (String category : allCategories) {
+				Integer likingScore = preferredCartegoriesMap.get(category);
+				if (likingScore == null) {
+					preferredCartegoriesMap.put(category, 0);
+				} else {
+					preferredCartegoriesMap.put(category, likingScore);
+				}
+			}
+			return preferredCartegoriesMap;
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+
+	}
+
 	public ArrayList<String> fetchAllCategories() throws Exception {
 		try {
 			// this will load the MySQL driver, each DB has its own driver
@@ -189,6 +240,7 @@ public class MySQLAccess {
 			while (resultSet.next()) {
 				preferredCartegories.add(resultSet.getString("name"));
 			}
+			// Add liking scores
 			return preferredCartegories;
 
 		} catch (Exception e) {
@@ -219,10 +271,9 @@ public class MySQLAccess {
 		}
 	}
 
-
 	public List<User> getUsers() throws Exception {
-		List<User> userList = new ArrayList<User> ();
-		
+		List<User> userList = new ArrayList<User>();
+
 		try {
 			// this will load the MySQL driver, each DB has its own driver
 			Class.forName("com.mysql.jdbc.Driver");
@@ -234,10 +285,9 @@ public class MySQLAccess {
 			preparedStatement = connect
 					.prepareStatement("SELECT user_id, name from ub535p3.user_master");
 			resultSet = preparedStatement.executeQuery();
-			ArrayList<String> preferredCartegories = new ArrayList<String>();
 			while (resultSet.next()) {
-				userList.add(new User (resultSet.getInt("user_id"),
-						resultSet.getString("name")));
+				userList.add(new User(resultSet.getInt("user_id"), resultSet
+						.getString("name")));
 			}
 			return userList;
 		} catch (SQLException e) {
@@ -250,7 +300,6 @@ public class MySQLAccess {
 		return userList;
 	}
 
-	
 	// you need to close all three to make sure
 	private void close() {
 		close(resultSet);
