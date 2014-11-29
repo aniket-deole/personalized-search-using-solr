@@ -206,7 +206,7 @@ public class MySQLAccess {
 
 			}
 			for (String category : allCategories) {
-				Integer likingScore = preferredCartegoriesMap.get(category);
+				Integer likingScore = copyOfPreferredCartegoriesMap.get(category);
 				if (likingScore == null) {
 					preferredCartegoriesMap.put(category, 0);
 				} else {
