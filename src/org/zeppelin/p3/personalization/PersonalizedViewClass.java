@@ -45,14 +45,15 @@ public class PersonalizedViewClass extends HttpServlet {
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
 		response.setContentType("text/plain");
-		
+
 		PrintWriter out = response.getWriter();
 
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
-
+		// Fetch the Logged In userId from the session
+		Integer userId = (Integer) request.getSession().getAttribute(
+				"loggedInUserId");
 		// Retrieve preferred categories for the given user id
-		int userId = 4;
 		ArrayList<String> preferredCategories = new ArrayList<String>();
 		MySQLAccess dao = new MySQLAccess();
 		try {
@@ -85,8 +86,8 @@ public class PersonalizedViewClass extends HttpServlet {
 					}
 					jsonResults
 							.add(new QueryResult(list.get(i)
-									.getFieldValue("id").toString(),list.get(i)
-									.getFieldValue("title").toString(),
+									.getFieldValue("id").toString(), list
+									.get(i).getFieldValue("title").toString(),
 									list.get(i).getFieldValue("content")
 											.toString(), list.get(i)
 											.getFieldValue("content")

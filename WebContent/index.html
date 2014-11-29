@@ -136,9 +136,11 @@
 					if (resultCount != 0) {
 						for (var i = 0; i < results.length; i++) {
 							$scope.personalizedCards.push({
+								id : results[i].id,
 								title : results[i].title,
 								publishedDate : results[i].publishedDate,
-								content : results[i].content
+								content : results[i].content,
+								snippet : results[i].snippet
 							});
 						}
 					}
