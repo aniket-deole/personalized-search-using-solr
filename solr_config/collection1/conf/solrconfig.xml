@@ -1431,11 +1431,11 @@
     </arr>
   </requestHandler>
 
-  <searchComponent name="suggest" class="solr.SuggestComponent">
+  <!-- <searchComponent name="suggest" class="solr.SuggestComponent">
   	<lst name="suggester">
       <str name="name">mySuggester</str>
-      <str name="lookupImpl">FuzzyLookupFactory</str>      <!-- org.apache.solr.spelling.suggest.fst -->
-      <str name="dictionaryImpl">DocumentDictionaryFactory</str>     <!-- org.apache.solr.spelling.suggest.HighFrequencyDictionaryFactory --> 
+      <str name="lookupImpl">FuzzyLookupFactory</str>      org.apache.solr.spelling.suggest.fst
+      <str name="dictionaryImpl">DocumentDictionaryFactory</str>     org.apache.solr.spelling.suggest.HighFrequencyDictionaryFactory 
       <str name="field">cat</str>
       <str name="weightField">price</str>
       <str name="suggestAnalyzerFieldType">string</str>
@@ -1450,6 +1450,39 @@
     <arr name="components">
       <str>suggest</str>
     </arr>
+  </requestHandler> -->
+  
+    <searchComponent class="solr.SpellCheckComponent" name="suggest">
+		    <lst name="spellchecker">
+		      <str name="name">suggest</str>
+		      <str name="classname">org.apache.solr.spelling.suggest.Suggester</str>
+		      <str name="lookupImpl">org.apache.solr.spelling.suggest.tst.TSTLookupFactory</str>
+		      <!-- Alternatives to lookupImpl: 
+		           org.apache.solr.spelling.suggest.fst.FSTLookupFactory   [finite state automaton]
+		           org.apache.solr.spelling.suggest.fst.WFSTLookupFactory [weighted finite state automaton]
+		           org.apache.solr.spelling.suggest.jaspell.JaspellLookupFactory [default, jaspell-based]
+		           org.apache.solr.spelling.suggest.tst.TSTLookupFactory   [ternary trees]
+		      -->
+		      <str name="field">name</str>  <!-- the indexed field to derive suggestions from -->
+		      <float name="threshold">0.005</float>
+		      <str name="buildOnCommit">true</str>
+		<!--
+		      <str name="sourceLocation">american-english</str>
+		-->
+		    </lst>
+  </searchComponent>
+  
+  <requestHandler class="org.apache.solr.handler.component.SearchHandler" name="/suggest">
+		    <lst name="defaults">
+		      <str name="spellcheck">true</str>
+		      <str name="spellcheck.dictionary">suggest</str>
+		      <str name="spellcheck.onlyMorePopular">true</str>
+		      <str name="spellcheck.count">5</str>
+		      <str name="spellcheck.collate">true</str>
+		    </lst>
+		    <arr name="components">
+		      <str>suggest</str>
+		    </arr>
   </requestHandler>
   <!-- Term Vector Component
 
