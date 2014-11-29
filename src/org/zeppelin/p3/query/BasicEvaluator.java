@@ -96,6 +96,8 @@ public class BasicEvaluator extends HttpServlet {
 					}
 					
 					jsonResults.add(result);
+				}
+				obj.put("results", jsonResults);
 			}
 			out.println(obj);
 			out.close();

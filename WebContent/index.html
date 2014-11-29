@@ -30,6 +30,11 @@
 	<link rel="stylesheet"
 	href="js/angular-material/themes/blue-theme.css">
 <link rel="stylesheet" href="js/angular-material/themes/red-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/brown-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/amber-theme.css">
+
+<link rel="stylesheet" href="js/angular-material/themes/light-green-theme.css">
+<link rel="stylesheet" href="js/angular-material/themes/lime-theme.css">
 
 
 <script>
@@ -129,7 +134,7 @@
 					var results = data.results;
 					if (resultCount != 0) {
 						for (var i = 0; i < results.length; i++) {
-							$scope.cards.push({
+							$scope.personalizedCards.push({
 								title : results[i].title,
 								publishedDate : results[i].publishedDate,
 								content : results[i].content
@@ -139,11 +144,11 @@
 				});
 
 			} else if (tab == 2) {
-				$scope.theme = 'cyan';
-				$scope.nonThemed = '#00bcd4';
-			} else {
 				$scope.theme = 'indigo';
 				$scope.nonThemed = '#3f51b5';
+			} else {
+				$scope.theme = 'green';
+				$scope.nonThemed = '#259b24';
 			}
 		};
 
@@ -190,6 +195,7 @@
 			});
 		};
 		$scope.cards = [];
+		$scope.personalizedCards = [];
 		$scope.users = [];
 		$scope.inita = function() {
 			$http({
@@ -235,8 +241,7 @@
 																	'userId' : loginUser
 																},
 																data : $scope.user
-															})
-															.success(
+															}).success(
 																	function(
 																			data) {
 																		$scope.status = data;
@@ -287,6 +292,9 @@
 			var clickedItem = $scope.items[$index];
 			$mdBottomSheet.hide(clickedItem);
 		};
+		$scope.hide = function () {
+			$mdBottomSheet.hide ();
+		}
 	}
 
 	function DialogController($scope, $mdDialog, userss) {
@@ -320,42 +328,62 @@
 		app.controller("DialogController", DialogController);
 		app.controller("PersonalisationController", PersonalisationController);
 	</script>
-	<div layout="vertical" layout-fill style="height: 100%;">
+	<div layout="vertical" layout-fill style="height: 100%; font-size:12px;">
 		<md-toolbar md-theme-watch="true" md-theme="{{theme}}">
 
 		<div class="md-toolbar-tools">
 			<md-text-float label="Enter query" ng-model="queryText" class="long"
-				md-theme-watch="true" md-theme="{{theme}}"></md-text-float>
+				md-theme-watch="true" md-theme="{{theme}}" style="font-size:12px;"></md-text-float>
 
-			<md-button ng-click="query ()">Search</md-button>
+			<md-button ng-click="query ()" style="font-size:12px;">Search</md-button>
 			<!-- fill up the space between left and right area -->
 			<span flex></span>
 
-			<md-button ng-click="createUser ()">Index</md-button>
-			<md-button ng-click="personalizePreferences ()">Preferences</md-button>
-			<md-button ng-click="changeUser ()">Change User</md-button>
+			<md-button ng-click="createUser ()" style="font-size:12px;">Index</md-button>
+			<md-button ng-click="personalizePreferences ()" style="font-size:12px;">Preferences</md-button>
+			<md-button ng-click="changeUser ()" style="font-size:12px;">Change User</md-button>
 		</div>
 
 		</md-toolbar>
 		<md-content style="height:100%;background-color:#eaeaea;"
 			md-theme="teal">
 		<div class="tabsdemoStaticTabs" style="height: 100%;">
-			<div style="height: 100%;">
+			<div style="height: 100%; font-size:12px;">
 				<div ng-style="{'background-color' : nonThemed }">
 					<md-tabs selected="data.selectedIndex" left md-theme-watch="true"
-						md-theme="{{theme}}" style="width:40%; min-width:400px;">
+						md-theme="{{theme}}" style="width:40%; min-width:400px; font-size:12px;">
 					<md-tab id="tab1" num="1" aria-controls="tab1-content"
-						ng-click="announceSelected(0)"> Top News </md-tab> <md-tab
+						ng-click="announceSelected(0)" style="font-size:12px;"> Top News </md-tab> <md-tab
 						id="tab2" aria-controls="tab2-content"
-						ng-click="announceSelected(1)"> Personalised Results </md-tab> <md-tab
+						ng-click="announceSelected(1)" style="font-size:12px;"> Personalised Results </md-tab> <md-tab
 						id="tab3" aria-controls="tab3-content"
-						ng-click="announceSelected(2)"> Search Results </md-tab> </md-tabs>
+						ng-click="announceSelected(2)" style="font-size:12px;"> Search Results </md-tab> </md-tabs>
 				</div>
 				<ng-switch on="data.selectedIndex" style="height:100%;">
 
 				<div role="tabpanel" id="tab2-content" aria-labelledby="tab2"
-					ng-switch-when="1" md-swipe-left="next()"
-					md-swipe-right="previous()"></div>
+					ng-swi	ch-when="1" md-swipe-left="next()"
+					md-swipe-right="previous()">
+				<md-card ng-repeat="card in personalizedCards" md-theme-watch="true"
+						style="background-color:white; margin:14px;"
+						ng-click="showArticle($event, card)">
+					<div>
+						<p
+							style="font-weight: 300; font-size: 24px; line-height: 0.5; padding-left: 15px;">{{card.title}}</p>
+						<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
+							{{card.content}}</p>
+						<div>
+							<ul style="padding: 0">
+								<li ng-repeat="star in stars" style="color: #FFD700;"
+									class="glyphicon"
+									ng-class="{true: 'glyphicon-star-empty', false: 'glyphicon-star'}[star.empty]"
+									ng-click="click(star.index)"></li>
+							</ul>
+						</div>
+					</div>
+					</md-card>
+					
+				</div>
 				<div role="tabpanel" id="tab3-content" aria-labelledby="tab2"
 					ng-switch-when="2" md-swipe-left="next()"
 					md-swipe-right="previous()">
