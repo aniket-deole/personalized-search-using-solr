@@ -49,7 +49,9 @@ public class Categories extends HttpServlet {
 			count++;
 		}
 
-		int userId = 4;
+		// Fetch the Logged In userId from the session
+		Integer userId = (Integer) request.getSession().getAttribute(
+				"loggedInUserId");
 		// Retrieve all the categories available
 		Map<String, Integer> categories = new HashMap<String, Integer>();
 		MySQLAccess dao = new MySQLAccess();

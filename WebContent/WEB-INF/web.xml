@@ -29,4 +29,14 @@
     <servlet-name>BasicIndexer</servlet-name>
     <servlet-class>org.zeppelin.p3.indexers.BasicIndexer</servlet-class>
   </servlet>
+    <servlet-mapping>
+    <servlet-name>SpellSuggestion</servlet-name>
+    <url-pattern>/SpellSuggestion</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>SpellSuggestion</display-name>
+    <servlet-name>SpellSuggestion</servlet-name>
+    <servlet-class>org.zeppelin.p3.query.SpellSuggestionServlet</servlet-class>
+  </servlet>
 </web-app>

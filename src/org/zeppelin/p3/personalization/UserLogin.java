@@ -31,6 +31,9 @@ public class UserLogin extends HttpServlet {
 			HttpServletResponse response) throws ServletException, IOException {
 		try {
 			Integer id = Integer.parseInt(request.getHeader("userId"));
+			// Set the Logged in User Id to the Seesion so that it's 
+			// accessible across servlets
+			request.getSession().setAttribute("loggedInUserId", id);
 			System.out.println("Logged In User:" + id);
 		} catch (NumberFormatException e) {
 			/*
