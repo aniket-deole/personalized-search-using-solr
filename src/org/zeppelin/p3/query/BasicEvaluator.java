@@ -94,6 +94,9 @@ public class BasicEvaluator extends HttpServlet {
 					if(list.get(i).getFieldValue("published_date")!=null){
 						result.setPublishedDate(list.get(i).getFieldValue("published_date").toString());
 					}
+					if(list.get(i).getFieldValue("snippet")!=null){
+						result.setSnippet(list.get(i).getFieldValue("snippet").toString());
+					}
 					
 					jsonResults.add(result);
 				}

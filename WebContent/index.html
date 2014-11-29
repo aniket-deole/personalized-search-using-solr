@@ -92,7 +92,8 @@
 							id : results[i].id,
 							title : results[i].title,
 							publishedDate : results[i].publishedDate,
-							content : results[i].content
+							content : results[i].content,
+							snippet : results[i].snippet
 						});
 					}
 				}
@@ -395,7 +396,7 @@
 						<p
 							style="font-weight: 300; font-size: 24px; line-height: 0.5; padding-left: 15px;">{{card.title}}</p>
 						<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
-							{{card.content}}</p>
+							{{card.snippet}}</p>
 						<div>
 							<ul style="padding: 0">
 								<li ng-repeat="star in stars" style="color: #FFD700;"
