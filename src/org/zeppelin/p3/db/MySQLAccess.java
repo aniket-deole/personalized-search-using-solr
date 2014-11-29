@@ -184,11 +184,20 @@ public class MySQLAccess {
 					.getConnection("jdbc:mysql://localhost/ub535p3?"
 							+ "user=mysqluser&password=justarandompassword");
 			// statements allow to issue SQL queries to the database
+			statement = connect.createStatement();
+			// resultSet gets the result of the SQL query
+			resultSet = statement
+					.executeQuery("SELECT name from ub535p3.category_master");
+			ArrayList<String> allCategories = new ArrayList<String>();
+			while (resultSet.next()) {
+				allCategories.add(resultSet.getString("name"));
+			}
+			// statements allow to issue SQL queries to the database
 			preparedStatement = connect
-					.prepareStatement("SELECT cm.name,cm.liking_count from ub535p3.user_category_map ucm, ub535p3.category_master cm where user_id=? AND ucm.category_id=cm.category_id");
+					.prepareStatement("SELECT cm.name,ucm.liking_count from ub535p3.user_category_map ucm, ub535p3.category_master cm where user_id=? AND ucm.category_id=cm.category_id");
 			preparedStatement.setInt(1, userId);
 			resultSet = preparedStatement.executeQuery();
-			ArrayList<String> allCategories = fetchAllCategories();
+
 			Map<String, Integer> preferredCartegoriesMap = new HashMap<String, Integer>();
 			Map<String, Integer> copyOfPreferredCartegoriesMap = new HashMap<String, Integer>();
 			while (resultSet.next()) {
