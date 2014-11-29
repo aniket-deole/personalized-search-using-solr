@@ -66,8 +66,8 @@ public class BasicEvaluator extends HttpServlet {
 				.toArray(new String[preferredCategories.size()]));
 		// }
 		// parameters.set("bq", bq);
-		
-		//parameters = morelikethisQuery(q);
+
+		// parameters = morelikethisQuery(q);
 
 		try {
 			QueryResponse q_response = solrServer.query(parameters);
@@ -78,24 +78,31 @@ public class BasicEvaluator extends HttpServlet {
 			if (!list.isEmpty()) {
 				obj.put("resultCount", list.size());
 				for (int i = 0; i < list.size(); i++) {
-					QueryResult result = new QueryResult();
-					if(list.get(i).getFieldValue("title")!=null){
-						result.setTitle(list.get(i).getFieldValue("title").toString());
-					}
-					if(list.get(i).getFieldValue("content")!=null){
-						result.setContent(list.get(i).getFieldValue("content").toString());
-					}
-					if(list.get(i).getFieldValue("category")!=null){
-						result.setCategory(list.get(i).getFieldValue("category").toString());
-					}
-					if(list.get(i).getFieldValue("source")!=null){
-						result.setSource(list.get(i).getFieldValue("source").toString());
-					}
-					if(list.get(i).getFieldValue("published_date")!=null){
-						result.setPublishedDate(list.get(i).getFieldValue("published_date").toString());
-					}
-					
-					jsonResults.add(result);
+						QueryResult result = new QueryResult();
+						if (list.get(i).getFieldValue("title") != null) {
+							result.setTitle(list.get(i).getFieldValue("title")
+									.toString());
+						}
+						if (list.get(i).getFieldValue("content") != null) {
+							result.setContent(list.get(i)
+									.getFieldValue("content").toString());
+						}
+						if (list.get(i).getFieldValue("category") != null) {
+							result.setCategory(list.get(i)
+									.getFieldValue("category").toString());
+						}
+						if (list.get(i).getFieldValue("source") != null) {
+							result.setSource(list.get(i)
+									.getFieldValue("source").toString());
+						}
+						if (list.get(i).getFieldValue("published_date") != null) {
+							result.setPublishedDate(list.get(i)
+									.getFieldValue("published_date").toString());
+						}
+
+						jsonResults.add(result);
+				}
+				obj.put("results", jsonResults);
 			}
 			out.println(obj);
 			out.close();
@@ -126,17 +133,17 @@ public class BasicEvaluator extends HttpServlet {
 		String modifiedQuery = q + "OR (category:sports)^2.0";
 		return modifiedQuery;
 	}
-	
-	SolrQuery morelikethisQuery(String q){
-		
-		//http://localhost:8983/solr/select?q=apache&mlt=true&mlt.fl=manu,cat&mlt.mindf=1&mlt.mintf=1&fl=id,score
+
+	SolrQuery morelikethisQuery(String q) {
+
+		// http://localhost:8983/solr/select?q=apache&mlt=true&mlt.fl=manu,cat&mlt.mindf=1&mlt.mintf=1&fl=id,score
 		SolrQuery parameters = new SolrQuery();
 		parameters.set("q", q);
-        parameters.set("defType", "edismax");
-        parameters.set("mlt.fl", "title,content,category");
-        parameters.set("mlt", "true");
-        //parameters.set("mlt.mindf", "1");
-        //parameters.set("mlt.mintf", "1");
+		parameters.set("defType", "edismax");
+		parameters.set("mlt.fl", "title,content,category");
+		parameters.set("mlt", "true");
+		// parameters.set("mlt.mindf", "1");
+		// parameters.set("mlt.mintf", "1");
 		return parameters;
 	}
 }
