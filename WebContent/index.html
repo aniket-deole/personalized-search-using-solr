@@ -267,25 +267,6 @@
 																		$scope.status = data;
 																		console
 																				.log(data);
-																		
-																		$http(
-																				{
-																					method : 'POST',
-																					url : 'http://localhost:8080/UB535p3WebApp/Categories',
-																					headers : {
-																						'Content-Type' : 'application/text',
-																						'userId' : loginUser
-																					},
-																					data : $scope.categoriesAndLikeScoreMap
-																				})
-																				.success(
-																						function(
-																								data) {
-																							$scope.status = data;
-																							console
-																									.log(data);
-																							$scope.categoriesAndLikeScoreMap = data.results;
-																						});
 																	});
 
 												},
