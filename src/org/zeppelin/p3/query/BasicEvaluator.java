@@ -78,21 +78,24 @@ public class BasicEvaluator extends HttpServlet {
 			if (!list.isEmpty()) {
 				obj.put("resultCount", list.size());
 				for (int i = 0; i < list.size(); i++) {
-					jsonResults
-					.add(new QueryResult(list.get(i).getFieldValue("id").toString(),
-							list.get(i)
-							.getFieldValue("title").toString(),
-							list.get(i).getFieldValue("content")
-									.toString(), list.get(i)
-									.getFieldValue("content")
-									.toString(), 3, list.get(i)
-									.getFieldValue("category")
-									.toString(),
-							list.get(i).getFieldValue("source")
-									.toString(), list.get(i)
-									.getFieldValue("published_date")
-									.toString()));}
-				obj.put("results", jsonResults);
+					QueryResult result = new QueryResult();
+					if(list.get(i).getFieldValue("title")!=null){
+						result.setTitle(list.get(i).getFieldValue("title").toString());
+					}
+					if(list.get(i).getFieldValue("content")!=null){
+						result.setContent(list.get(i).getFieldValue("content").toString());
+					}
+					if(list.get(i).getFieldValue("category")!=null){
+						result.setCategory(list.get(i).getFieldValue("category").toString());
+					}
+					if(list.get(i).getFieldValue("source")!=null){
+						result.setSource(list.get(i).getFieldValue("source").toString());
+					}
+					if(list.get(i).getFieldValue("published_date")!=null){
+						result.setPublishedDate(list.get(i).getFieldValue("published_date").toString());
+					}
+					
+					jsonResults.add(result);
 			}
 			out.println(obj);
 			out.close();

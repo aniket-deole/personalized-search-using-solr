@@ -12,6 +12,122 @@ public class QueryResult implements JSONAware {
 	private Integer rating;
 	private String category;
 	private String source;
+	
+	public QueryResult(){
+		
+	}
+	/**
+	 * @return the id
+	 */
+	public String getId() {
+		return id;
+	}
+
+	/**
+	 * @param id the id to set
+	 */
+	public void setId(String id) {
+		this.id = id;
+	}
+
+	/**
+	 * @return the title
+	 */
+	public String getTitle() {
+		return title;
+	}
+
+	/**
+	 * @param title the title to set
+	 */
+	public void setTitle(String title) {
+		this.title = title;
+	}
+
+	/**
+	 * @return the content
+	 */
+	public String getContent() {
+		return content;
+	}
+
+	/**
+	 * @param content the content to set
+	 */
+	public void setContent(String content) {
+		this.content = content;
+	}
+
+	/**
+	 * @return the snippet
+	 */
+	public String getSnippet() {
+		return snippet;
+	}
+
+	/**
+	 * @param snippet the snippet to set
+	 */
+	public void setSnippet(String snippet) {
+		this.snippet = snippet;
+	}
+
+	/**
+	 * @return the rating
+	 */
+	public Integer getRating() {
+		return rating;
+	}
+
+	/**
+	 * @param rating the rating to set
+	 */
+	public void setRating(Integer rating) {
+		this.rating = rating;
+	}
+
+	/**
+	 * @return the category
+	 */
+	public String getCategory() {
+		return category;
+	}
+
+	/**
+	 * @param category the category to set
+	 */
+	public void setCategory(String category) {
+		this.category = category;
+	}
+
+	/**
+	 * @return the source
+	 */
+	public String getSource() {
+		return source;
+	}
+
+	/**
+	 * @param source the source to set
+	 */
+	public void setSource(String source) {
+		this.source = source;
+	}
+
+	/**
+	 * @return the publishedDate
+	 */
+	public String getPublishedDate() {
+		return publishedDate;
+	}
+
+	/**
+	 * @param publishedDate the publishedDate to set
+	 */
+	public void setPublishedDate(String publishedDate) {
+		this.publishedDate = publishedDate;
+	}
+
 	private String publishedDate;
 
 	public QueryResult(String id, String title, String content, String snippet,

@@ -31,5 +31,8 @@ public class CommonConstants {
 	
 	public static final String SEMICOLON = ";";
 	
+	public static final Pattern PATTERN_FOR_PLACE_DATE = Pattern
+			.compile(RegExp.REGEX_FOR_PLACE_DATE);
+	
 
 }
