@@ -131,7 +131,7 @@
 
    <field name="weight" type="float" indexed="true" stored="true"/>
    <field name="price"  type="float" indexed="true" stored="true"/>
-   <field name="popularity" type="int" indexed="true" stored="true" />
+  <!--  <field name="popularity" type="int" indexed="true" stored="true" /> -->
    <field name="inStock" type="boolean" indexed="true" stored="true" />
 
    <field name="store" type="location" indexed="true" stored="true"/>
@@ -161,6 +161,8 @@
    <field name="place" type="text_general" indexed="true" stored="true"/>
    <!-- Dont index snippet field , only store it -->
    <field name="snippet" type="text_general" indexed="false" stored="true"/>
+   
+   <field name="popularityScore" type="int" indexed="true" stored="true"/>
 
    <!-- Main body of document extracted by SolrCell.
         NOTE: This field is not indexed by default, since it is also copied to "text"
