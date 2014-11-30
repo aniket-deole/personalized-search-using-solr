@@ -1,0 +1,20 @@
+<md-dialog aria-label="Mango (Fruit)">
+
+  <md-content>
+   <section layout="row" layout-phone="column" layout-align="center center">
+	<p style="font-weight:100; font-size:48px;">Who da fuck are you ?</p>
+    </section>
+    
+   <section layout="row" layout-phone="column" layout-align="center center">
+	    <md-button ng-repeat="user in choicess" ng-click="loginUser (2)" class="md-warn">
+	    	{{user}}
+	    </md-button>
+    </section>
+    
+   <section layout="row" layout-phone="column" layout-align="center center">
+    	<md-text-float label="New User ?" ng-model="newUserName"  md-theme="red"> </md-text-float>
+      <md-button  ng-click="newUser (newUserName)">Come on in!</md-button>
+    </section>
+  </md-content>
+
+</md-dialog>
