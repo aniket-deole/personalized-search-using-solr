@@ -63,7 +63,7 @@ public class PersonalizedViewClass extends HttpServlet {
 		MySQLAccess dao = new MySQLAccess();
 		Map<String, Integer> likeScoresAssignedByLoggedInUser = new HashMap<String, Integer>();
 		try {
-			//preferredCategories = dao.fetchPreferredCategoriesWithTheirLikingScores(userId);
+			preferredCategories = dao.fetchPreferredCategoriesWithTheirLikingScores(userId);
 			likeScoresAssignedByLoggedInUser = dao
 					.fetchLikeScoreForAllDocuments(userId);
 			//fetchPreferredCategoriesWithTheirLikingScores
@@ -73,8 +73,8 @@ public class PersonalizedViewClass extends HttpServlet {
 		}
 
 		//TODO - remove temp Hard coding
-		preferredCategories.put("Business", 6);
-		preferredCategories.put("Sports", 3);
+	/*	preferredCategories.put("Business", 6);
+		preferredCategories.put("Sports", 3);*/
 		StringBuilder queryString=new StringBuilder();
 		
 		/**
@@ -83,8 +83,10 @@ public class PersonalizedViewClass extends HttpServlet {
 		Iterator it = preferredCategories.entrySet().iterator();
 	    while (it.hasNext()) {
 	        Map.Entry pairs = (Map.Entry)it.next();
-	        queryString.append("category:").append(pairs.getKey()).append(CommonConstants.CARROT).append(pairs.getValue());
-	        queryString.append(CommonConstants.WHITESPACE);
+	        if((Integer)pairs.getValue()!=0){
+                queryString.append("category:").append(pairs.getKey()).append(CommonConstants.CARROT).append(pairs.getValue());
+		        queryString.append(CommonConstants.WHITESPACE);
+	        }
 	        it.remove(); // avoids a ConcurrentModificationException
 	    }
 		
@@ -134,6 +136,7 @@ public class PersonalizedViewClass extends HttpServlet {
 		}
 	    
 	    
+	    System.out.println("\nQuery for personalised class "+queryString);
 	    
 		SolrQuery parameters = new SolrQuery();
 		parameters.set("q", queryString.toString());

@@ -15,7 +15,7 @@ public class SolrDocumentGenerator {
 	 */
 	public List<SolrInputDocument> createSolrDocuments() {
 		// TODO- Remove the hard-coding
-		 String ipDir = "H:\\projects\\newspersonaliztion\\corpus\\00";
+		 String ipDir = "H:\\projects\\newspersonaliztion\\corpus";
 		// String ipDir = "/home/animesh/git/project3/corpus/00";
 		//String ipDir = "/home/animesh/git/project3/corpus";
 		// String ipDir = "/Users/aniket/Development/workspace/ub535p3/corpus";
