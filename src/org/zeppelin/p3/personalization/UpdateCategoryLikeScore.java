@@ -33,8 +33,8 @@ public class UpdateCategoryLikeScore extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
-		// String categoriesAndLikeScoreMap =
-		// request.getHeader("categoriesAndLikeScoreMap");
+		 String categoriesAndLikeScoreMapS =
+		 request.getHeader("categoriesAndLikeScoreMap");
 		MySQLAccess dao = new MySQLAccess();
 		// Fetch the Logged In userId from the session
 		Integer loggedInUserId = (Integer) request.getSession().getAttribute(

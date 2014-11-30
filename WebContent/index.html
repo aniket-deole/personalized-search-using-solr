@@ -283,14 +283,17 @@
 		};
 		$scope.closePreferences = function() {
 			$mdSidenav('userPreferencesSideNav').toggle();
-			
+			var stringToSend = '';
+			for (var i = 0; i < $scope.categoriesAndLikeScoreMap.length; i++) {
+				stringToSend = stringToSend + $scope.categoriesAndLikeScoreMap[i].category + ':' + $scope.categoriesAndLikeScoreMap[i].likingScore + ','
+			}
 			$http({
 				method : 'POST',
 				url : 'http://localhost:8080/UB535p3WebApp/UpdateCategoryLikeScore',
 				headers : {
 					'Content-Type' : 'application/text',
 					'userId' : $scope.loginUser,
-					'categoriesAndLikeScoreMap' : $scope.categoriesAndLikeScoreMap
+					'categoriesAndLikeScoreMap' : stringToSend
 				},
 				data : $scope.categoriesAndLikeScoreMap
 			}).success(function(data) {
@@ -711,11 +714,6 @@
 
 				<div ng-repeat="categoryLikeScore in categoriesAndLikeScoreMap"
 					layout>
-					<div>
-						<md-checkbox ng-model="categoryCheck" aria-label="categoryCheck"
-							id="categoryCheckBox">
-						{{categoryLikeScore.category}} </md-checkbox>
-					</div>
 					<div flex="20" layout layout-align="center center">
 						<input type="number" ng-model="categoryLikeScore.likingScore"
 							aria-label="liking" aria-controls="blue-slider" min="0" max="10">
@@ -724,7 +722,7 @@
 					<md-slider md-discrete="" md-theme="blue" flex
 						class="ng-pristine ng-valid ng-isolate-scope md-blue-theme ng-touched"
 						ng-model="categoryLikeScore.likingScore" tabindex="0"
-						role="slider" aria-valuemin="0" aria-valuemax="9" step="1" min="0"
+						role="slider" aria-valuemin="0" aria-valcloseuemax="9" step="1" min="0"
 						max="9" aria-label="liking" id="blue-slider" role="slider"
 						aria-valuenow="3" aria-invalid="false"> </md-slider>
 
@@ -733,7 +731,7 @@
 			</div>
 			<p style="padding-left: 15px; padding-top: 100px;">
 				<md-button ng-click="closePreferences ()" class="md-raised">
-				Close </md-button>
+				UPDATE </md-button>
 			</p>
 			</md-sidenav>
 		</div>
