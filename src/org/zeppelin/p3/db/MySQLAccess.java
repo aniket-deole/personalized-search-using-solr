@@ -381,7 +381,7 @@ public class MySQLAccess {
 					.getConnection("jdbc:mysql://localhost/ub535p3?"
 							+ "user=mysqluser&password=justarandompassword");
 			preparedStatement = connect
-					.prepareStatement("update ub535p3.user_relevance_feedback set likingScore = ? where user_id = ? AND doc_id = ?");
+					.prepareStatement("update ub535p3.user_relevance_feedback set like_score = ? where user_id = ? AND doc_id = ?");
 			preparedStatement.setInt(1, likingScore);
 			preparedStatement.setInt(2, loggedInUserId);
 			preparedStatement.setString(3, docId);

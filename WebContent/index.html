@@ -121,7 +121,7 @@
 							publishedDate : results[i].publishedDate,
 							content : results[i].content,
 							snippet : results[i].snippet
-							//documentRating : results[i].rating
+						//documentRating : results[i].rating
 						});
 					}
 				}
@@ -324,14 +324,30 @@
 
 	}
 
-	function viewArticleCtrl($scope, $mdBottomSheet, carda) {
+	function viewArticleCtrl($scope, $http, $mdBottomSheet, carda) {
 		$scope.card = carda;
 		$scope.listItemClick = function($index) {
 			var clickedItem = $scope.items[$index];
 			$mdBottomSheet.hide(clickedItem);
 		};
-		$scope.hide = function() {
+		$scope.hideArticle = function(docId, docRating) {
 			$mdBottomSheet.hide();
+
+			$http(
+					{
+						method : 'POST',
+						url : 'http://localhost:8080/UB535p3WebApp/LikingScoreRegisterer',
+						headers : {
+							'Content-Type' : 'application/text',
+							'docId' : docId,
+							'docRating' : docRating
+						},
+						data : $scope.user
+					}).success(function(data) {
+				$scope.status = data;
+				console.log(data);
+			});
+
 		}
 	}
 
@@ -476,7 +492,9 @@
 							<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
 								{{card.content}}</p>
 							<div ng-controller="RatingDemoCtrl">
-								<rating ng-model="card.documentRating" max="max" readonly="isReadonly" state-on ="'glyphicon-star'" state-off ="'glyphicon-star-empty'"
+								<rating ng-model="card.documentRating" max="max"
+									readonly="isReadonly" state-on="'glyphicon-star'"
+									state-off="'glyphicon-star-empty'"
 									on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
 								<span class="label"
 									ng-class="{'label-warning': percent<30, 'label-info': percent>=30 && percent<70, 'label-success': percent>=70}"
@@ -499,7 +517,8 @@
 							<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
 								{{card.snippet}}</p>
 							<div ng-controller="RatingDemoCtrl">
-								<rating ng-model="rate" max="max" readonly="isReadonly" state-on ="'glyphicon-star'" state-off ="'glyphicon-star-empty'"
+								<rating ng-model="rate" max="max" readonly="isReadonly"
+									state-on="'glyphicon-star'" state-off="'glyphicon-star-empty'"
 									on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
 								<span class="label"
 									ng-class="{'label-warning': percent<30, 'label-info': percent>=30 && percent<70, 'label-success': percent>=70}"

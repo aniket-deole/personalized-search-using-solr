@@ -32,7 +32,7 @@ public class LikingScoreRegisterer extends HttpServlet {
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
 		String docId = request.getHeader("docId");
-		String likingScore = request.getHeader("likingScore");
+		String likingScore = request.getHeader("docRating");
 		MySQLAccess dao = new MySQLAccess();
 		// Fetch the Logged In userId from the session
 		Integer loggedInUserId = (Integer) request.getSession().getAttribute(
