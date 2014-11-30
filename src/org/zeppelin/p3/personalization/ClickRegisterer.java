@@ -40,6 +40,9 @@ public class ClickRegisterer extends HttpServlet {
 			HttpServletResponse response) throws ServletException, IOException {
 		String docId = request.getHeader("docId");
 		String popularityS = request.getHeader("popularityScore");
+		if (popularityS == null) {
+			popularityS = "0";
+		}
 		MySQLAccess dao = new MySQLAccess();
 		// Fetch the Logged In userId from the session
 		Integer loggedInUserId = (Integer) request.getSession().getAttribute(
@@ -50,32 +53,30 @@ public class ClickRegisterer extends HttpServlet {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
+
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
-		
+
 		Integer popularityScore = Integer.parseInt(popularityS);
-		popularityScore = popularityScore+1;
+		popularityScore = popularityScore + 1;
 		SolrInputDocument solrInputDocument = new SolrInputDocument();
-		solrInputDocument.addField("id",docId);
-		//solrInputDocument.addField("popularityScore",popularityScore);
+		solrInputDocument.addField("id", docId);
+		// solrInputDocument.addField("popularityScore",popularityScore);
 		Map<String, Integer> popularityMap = new HashMap<String, Integer>();
 		popularityMap.put("inc", 1);
 		solrInputDocument.addField("popularityScore", popularityMap);
 		try {
-			UpdateResponse updateResponse = solrServer
-					.add(solrInputDocument);
+			UpdateResponse updateResponse = solrServer.add(solrInputDocument);
 			solrServer.commit();
 		} catch (SolrServerException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-/*		UpdateResponse updateResponse = solrServer
-				.add(solrInputDocument);
-		docCount++;
-		System.out.println(docId);*/
 
+		/*
+		 * UpdateResponse updateResponse = solrServer .add(solrInputDocument);
+		 * docCount++; System.out.println(docId);
+		 */
 
 	}
 

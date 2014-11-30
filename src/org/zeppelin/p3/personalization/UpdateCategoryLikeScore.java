@@ -1,8 +1,6 @@
 package org.zeppelin.p3.personalization;
 
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -33,22 +31,36 @@ public class UpdateCategoryLikeScore extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
-		 String categoriesAndLikeScoreMapS =
-		 request.getHeader("categoriesAndLikeScoreMap");
-		MySQLAccess dao = new MySQLAccess();
 		// Fetch the Logged In userId from the session
 		Integer loggedInUserId = (Integer) request.getSession().getAttribute(
 				"loggedInUserId");
-		// TODO fetch it from User for each category
-		Map<String, Integer> categoriesAndLikeScoreMap = new HashMap<String, Integer>();
-		try {
-			for (String category : categoriesAndLikeScoreMap.keySet()) {
-				dao.updateUserCategoryPreferences(loggedInUserId, category,
-						categoriesAndLikeScoreMap.get(category));
+		String categoriesAndLikeScoreMapS = request
+				.getHeader("categoriesAndLikeScoreMap");
+		// First split all the strings based on comma
+		if (categoriesAndLikeScoreMapS != null
+				&& !categoriesAndLikeScoreMapS.isEmpty()) {
+			String[] mapArray = categoriesAndLikeScoreMapS.split("[,]");
+			String categoryName = null;
+			MySQLAccess dao = new MySQLAccess();
+			Integer likeScore = 0;
+			if (mapArray.length > 0) {
+				// Split category and the like score
+				for (String map : mapArray) {
+					String[] split = map.split("[:]");
+					if (split.length == 2) {
+						categoryName = split[0].trim();
+						split[1] = split[1].trim();
+						likeScore = Integer.parseInt(split[1]);
+						try {
+							dao.updateUserCategoryPreferences(loggedInUserId,
+									categoryName, likeScore);
+						} catch (Exception e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+					}
+				}
 			}
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
 	}
 
