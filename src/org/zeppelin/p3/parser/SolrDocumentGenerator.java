@@ -46,6 +46,7 @@ public class SolrDocumentGenerator {
 				solrDoc.addField("content", doc.getContent());
 				solrDoc.addField("place", doc.getPlace());
 				solrDoc.addField("snippet", doc.getSnippet());
+				solrDoc.addField("popularityScore", 0);
 				
 				if (doc.getCategories() != null) {
 					for (String category : doc.getCategories()) {

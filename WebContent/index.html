@@ -121,7 +121,8 @@
 							title : results[i].title,
 							publishedDate : results[i].publishedDate,
 							content : results[i].content,
-							snippet : results[i].snippet
+							snippet : results[i].snippet,
+							popularityScore : results[i].popularityScore
 						//documentRating : results[i].rating
 						});
 					}
@@ -145,7 +146,40 @@
 		$scope.announceSelected = function(tab) {
 			console.log(tab);
 			$scope.data.selectedIndex = tab;
-			if (tab == 1) {
+			if (tab == 0) {
+				$scope.theme = 'teal';
+				$scope.nonThemed = '#009688'
+
+				$http(
+						{
+							method : 'POST',
+							url : 'http://localhost:8080/UB535p3WebApp/TopNews',
+							headers : {
+								'Content-Type' : 'application/text',
+							},
+							data : $scope.user
+						}).success(function(data) {
+					$scope.status = data;
+					console.log(data);
+					var resultCount = data.resultCount;
+					var results = data.results;
+					if (resultCount != 0) {
+						for (var i = 0; i < results.length; i++) {
+							$scope.personalizedCards.push({
+								id : results[i].id,
+								title : results[i].title,
+								publishedDate : results[i].publishedDate,
+								content : results[i].content,
+								snippet : results[i].snippet,
+								documentRating : results[i].rating,
+								popularityScore : results[i].popularityScore
+							});
+						}
+					}
+				});
+
+			}
+			else if (tab == 1) {
 				$scope.theme = 'teal';
 				$scope.nonThemed = '#009688'
 
@@ -221,7 +255,8 @@
 				url : 'http://localhost:8080/UB535p3WebApp/ClickRegisterer',
 				headers : {
 					'Content-Type' : 'application/text',
-					'docId' : $cardo.id
+					'docId' : $cardo.id ,
+					'popularityScore' : $cardo.popularityScore 
 				},
 				data : $scope.user
 			}).success(function(data) {

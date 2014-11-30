@@ -12,6 +12,7 @@ public class QueryResult implements JSONAware {
 	private Integer rating;
 	private String category;
 	private String source;
+	private Integer popularityScore;
 	
 	public QueryResult(){
 		
@@ -142,6 +143,18 @@ public class QueryResult implements JSONAware {
 		this.publishedDate = publishedDate;
 	}
 
+	/**
+	 * @return the popularityScore
+	 */
+	public Integer getPopularityScore() {
+		return popularityScore;
+	}
+	/**
+	 * @param popularityScore the popularityScore to set
+	 */
+	public void setPopularityScore(Integer popularityScore) {
+		this.popularityScore = popularityScore;
+	}
 	@Override
 	public String toJSONString() {
 		StringBuffer sb = new StringBuffer();
@@ -192,6 +205,12 @@ public class QueryResult implements JSONAware {
 		sb.append("\"" + JSONObject.escape("publishedDate") + "\"");
 		sb.append(":");
 		sb.append("\"" + JSONObject.escape(publishedDate) + "\"");
+		
+		sb.append(",");
+
+		sb.append("\"" + JSONObject.escape("popularityScore") + "\"");
+		sb.append(":");
+		sb.append(popularityScore);
 
 		sb.append("}");
 
