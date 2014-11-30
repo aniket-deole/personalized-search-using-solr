@@ -401,6 +401,23 @@
 
 		};
 
+		$scope.updateUser = function(currentUser) {
+			console.log(currentUser);
+
+			$http({
+				method : 'POST',
+				url : 'http://localhost:8080/UB535p3WebApp/UserLogin',
+				headers : {
+					'Content-Type' : 'application/text',
+					'userId' : currentUser.id
+				},
+				data : $scope.user
+			}).success(function(data) {
+				$scope.status = data;
+				console.log(data);
+			});
+		}
+
 		$scope.movies = MovieRetriever.getmovies("...");
 		$scope.movies.then(function(data) {
 			$scope.movies = data;
@@ -702,22 +719,12 @@
 			<md-toolbar class="md-theme-light">
 			<h1 class="md-toolbar-tools">CHOOSE USER</h1>
 			</md-toolbar>
-			<p style="padding-left: 15px;">
-				<md-button ng-click="changeUser1 ()" class="md-primary">
-				Aniket </md-button>
-			</p>
-			<p style="padding-left: 15px;">
-				<md-button ng-click="changeUser1 ()" class="md-primary">
-				Hari </md-button>
-			</p>
-			<p style="padding-left: 15px;">
-				<md-button ng-click="changeUser1 ()" class="md-primary">
-				PNandi </md-button>
-			</p>
-			<p style="padding-left: 15px;">
-				<md-button ng-click="changeUser1 ()" class="md-primary">
-				Kumar </md-button>
-			</p>
+			<div ng-repeat="user in users">
+				<p style="padding-left: 15px;">
+					<md-button ng-click="updateUser (user)" class="md-primary">
+					{{user.name}} </md-button>
+				</p>
+			</div>
 			<p style="padding-left: 15px; padding-top: 100px;">
 				<md-button ng-click="close ()" class="md-raised"> Close
 				</md-button>
@@ -736,7 +743,8 @@
 
 				<div ng-repeat="categoryLikeScore in categoriesAndLikeScoreMap"
 					layout>
-					<p flex="30" style="padding-left: 15px; margin-top:10px; font-weight:bold">{{categoryLikeScore.category}}</p>
+					<p flex="30"
+						style="padding-left: 15px; margin-top: 10px; font-weight: bold">{{categoryLikeScore.category}}</p>
 					<div flex="20" layout layout-align="center center">
 						<input type="number" ng-model="categoryLikeScore.likingScore"
 							aria-label="liking" aria-controls="blue-slider" min="0" max="10">
