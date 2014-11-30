@@ -19,9 +19,18 @@ public class CommonUtil {
 	public static SolrQuery createPersonalisedQuery(String q,Integer userId){
 		   // Retrieve preferred categories for the given user id
 			Map<String,Integer> preferredCategories = new HashMap<String,Integer>();
-			//TODO - remove temp Hard coding
+			
+			MySQLAccess dao = new MySQLAccess();
+			
+			try {
+				preferredCategories = dao.fetchPreferredCategoriesWithTheirLikingScores(userId);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			/*//TODO - remove temp Hard coding
 			preferredCategories.put("Business", 6);
-			preferredCategories.put("Sports", 3);
+			preferredCategories.put("Sports", 3);*/
 			
 			SolrQuery query = new SolrQuery();
 			
@@ -38,7 +47,7 @@ public class CommonUtil {
 		        it.remove(); // avoids a ConcurrentModificationException
 		    }
 		    
-		    MySQLAccess dao = new MySQLAccess();
+		    
 
 		    
 		    try {

@@ -68,6 +68,8 @@ public class BasicEvaluator extends HttpServlet {
 		
 
          SolrQuery query = CommonUtil.createPersonalisedQuery(q, userId);
+         
+         System.out.println("\nQuery in BasicEvaluator::: "+query);
 		// }
 		// parameters.set("bq", bq);
 
