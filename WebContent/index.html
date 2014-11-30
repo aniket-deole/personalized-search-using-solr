@@ -234,7 +234,6 @@
 					carda : $cardo
 				}
 			}).then(function(clickedItem) {
-				$scope.alert = clickedItem.name + ' clicked!';
 			});
 		};
 
@@ -257,7 +256,6 @@
 				for (var i = 0; i < results.length; i++) {
 					$scope.users.push({
 						id : results[i].id,
-						name : results[i].name
 					});
 				}
 

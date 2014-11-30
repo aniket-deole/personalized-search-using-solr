@@ -1,34 +1,25 @@
-<md-bottom-sheet class="md-list md-has-header" 
-	style="height:100%; padding:0px;">
-  <md-content>
-  <md-toolbar md-theme="blue-grey">
-    <div class="md-toolbar-tools">
-      <span class="md-flex">{{card.title}}</span>
-    </div>
-  </md-toolbar>
-	<p style="font-weight: 300; font-size: 12px; padding-left: 15px;">
-		{{card.content}}
-	</p>
-	</md-content>
-	<div class="md-actions" layout="row" style="padding:50px;">
-    <md-button ng-click="answer('useful')" class="md-primary" md-theme="blue-grey">
-      *
-    </md-button>
-    <md-button ng-click="answer('useful')" class="md-primary" md-theme="blue-grey">
-      *
-    </md-button>
-    <md-button ng-click="answer('useful')" class="md-primary" md-theme="blue-grey">
-      *
-    </md-button>
-    <md-button ng-click="answer('useful')" class="md-primary" md-theme="blue-grey">
-      *
-    </md-button>
-    <md-button ng-click="answer('useful')" class="md-primary" md-theme="blue-grey">
-      *
-    </md-button>
-    <span flex></span>
-    <md-button ng-click="hide ()" class="md-primary" md-theme="blue-grey">
-      HIDE
-    </md-button>
-  </div>
+<md-bottom-sheet class="md-list md-has-header"
+	style="height:100%; padding:0px;"> <md-content>
+<md-toolbar md-theme="blue-grey">
+<div class="md-toolbar-tools">
+	<span class="md-flex">{{card.title}}</span>
+</div>
+</md-toolbar>
+<p style="font-weight: 300; font-size: 12px; padding-left: 15px;">
+	{{card.content}}</p>
+</md-content>
+<div class="md-actions" layout="row" style="padding: 50px;">
+	<div ng-controller="RatingDemoCtrl">
+		<rating ng-model="rate" max="max" readonly="isReadonly"
+			state-on="'glyphicon-star'" state-off="'glyphicon-star-empty'"
+			on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
+		<span class="label"
+			ng-class="{'label-warning': percent<30, 'label-info': percent>=30 && percent<70, 'label-success': percent>=70}"
+			ng-show="overStar && !isReadonly">{{percent}}%</span>
+
+	</div>
+	<span flex></span>
+	<md-button ng-click="hide ()" class="md-primary" md-theme="blue-grey">
+	HIDE </md-button>
+</div>
 </md-bottom-sheet>
