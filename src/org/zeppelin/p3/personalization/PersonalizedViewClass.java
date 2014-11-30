@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
 import java.util.Map;
 
 import javax.servlet.ServletException;
@@ -21,6 +23,7 @@ import org.apache.solr.client.solrj.response.QueryResponse;
 import org.apache.solr.common.SolrDocumentList;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
+import org.zeppelin.p3.common.CommonConstants;
 import org.zeppelin.p3.db.MySQLAccess;
 import org.zeppelin.p3.query.QueryResult;
 
@@ -56,26 +59,90 @@ public class PersonalizedViewClass extends HttpServlet {
 		Integer userId = (Integer) request.getSession().getAttribute(
 				"loggedInUserId");
 		// Retrieve preferred categories for the given user id
-		ArrayList<String> preferredCategories = new ArrayList<String>();
+		Map<String,Integer> preferredCategories = new HashMap<String,Integer>();
 		MySQLAccess dao = new MySQLAccess();
 		Map<String, Integer> likeScoresAssignedByLoggedInUser = new HashMap<String, Integer>();
 		try {
-			preferredCategories = dao.fetchPreferredCategories(userId);
+			//preferredCategories = dao.fetchPreferredCategoriesWithTheirLikingScores(userId);
 			likeScoresAssignedByLoggedInUser = dao
 					.fetchLikeScoreForAllDocuments(userId);
+			//fetchPreferredCategoriesWithTheirLikingScores
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
 
+		//TODO - remove temp Hard coding
+		preferredCategories.put("Business", 6);
+		preferredCategories.put("Sports", 3);
+		StringBuilder queryString=new StringBuilder();
+		
+		/**
+		 * Reference - http://stackoverflow.com/questions/1066589/java-iterate-through-hashmap
+		 */
+		Iterator it = preferredCategories.entrySet().iterator();
+	    while (it.hasNext()) {
+	        Map.Entry pairs = (Map.Entry)it.next();
+	        queryString.append("category:").append(pairs.getKey()).append(CommonConstants.CARROT).append(pairs.getValue());
+	        queryString.append(CommonConstants.WHITESPACE);
+	        it.remove(); // avoids a ConcurrentModificationException
+	    }
+		
+	    //System.out.println(queryString);
+	    
+	    
+	    try {
+			List<UserLog> userLogs=dao.fetchLikeScoresAndClickCountsForAllDocuments(userId);
+			if(userLogs!=null){
+				for(UserLog userlog:userLogs){
+					
+					String docId=userlog.getDocID();
+					//http://localhost:8080/solr-4.10.2/query?q=*:*&defType=edismax&id=123
+					//http://localhost:8080/solr-4.10.2/query?q=id:123
+					SolrQuery parameters = new SolrQuery();
+					parameters.setRequestHandler("/query");
+					parameters.set("q", "id:"+docId);
+					//fetch the title of the docId
+					QueryResponse q_response = solrServer.query(parameters);
+					SolrDocumentList list = q_response.getResults();
+					if (!list.isEmpty()) {
+						QueryResult result = new QueryResult();
+						if (list.get(0).getFieldValue("title") != null) {
+							result.setTitle(list.get(0).getFieldValue("title")
+									.toString());
+						}
+						Integer boostFactor = userlog.getLikingScore()*2 + userlog.getClickCount();
+						if(result.getTitle()!=null){
+							
+							String s = result.getTitle();
+							s = s.replace("[", "").replace("]", "");
+							String [] arr = s.split(CommonConstants.WHITESPACE);
+							if(arr!=null && arr.length>0){
+								for(int i=0;i<arr.length;i++){
+									queryString.append(arr[i]).append(CommonConstants.CARROT).append(boostFactor);
+							        queryString.append(CommonConstants.WHITESPACE);
+								}
+							}
+						}
+					}
+					
+				}
+			}
+		} catch (Exception e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+	    
+	    
+	    
 		SolrQuery parameters = new SolrQuery();
-		parameters.set("q", "*:*");
+		parameters.set("q", queryString.toString());
 		// parameters.set("sort", "published_date desc");
 		parameters.set("defType", "edismax");
 		// Iterate over the preferred categories and apply them to query
 		// boosters
-		parameters.set("bq", preferredCategories
-				.toArray(new String[preferredCategories.size()]));
+/*		parameters.set("bq", preferredCategories
+				.toArray(new String[preferredCategories.size()]));*/
 		try {
 			QueryResponse q_response = solrServer.query(parameters);
 			SolrDocumentList list = q_response.getResults();
@@ -84,7 +151,6 @@ public class PersonalizedViewClass extends HttpServlet {
 			JSONArray jsonResults = new JSONArray();
 			if (!list.isEmpty()) {
 				obj.put("resultCount", list.size());
-				// TODO - Show all results in a page view and asynchronously
 				for (int i = 0; i < list.size(); i++) {
 					String docId = list.get(i).getFieldValue("id").toString();
 					Integer rating = likeScoresAssignedByLoggedInUser
@@ -92,22 +158,43 @@ public class PersonalizedViewClass extends HttpServlet {
 					if (rating == null) {
 						rating = 0;
 					}
-					jsonResults
-							.add(new QueryResult(docId, list.get(i)
-									.getFieldValue("title").toString(),
-									list.get(i).getFieldValue("content")
-											.toString(), list.get(i)
-											.getFieldValue("content")
-											.toString(), rating, list.get(i)
-											.getFieldValue("category")
-											.toString(),
-									list.get(i).getFieldValue("source")
-											.toString(), list.get(i)
-											.getFieldValue("published_date")
-											.toString()));
+					QueryResult result = new QueryResult();
+					result.setId(docId);
+					result.setRating(rating);
+					if (list.get(i).getFieldValue("title") != null) {
+						result.setTitle(list.get(i).getFieldValue("title")
+								.toString());
+					}
+					if (list.get(i).getFieldValue("content") != null) {
+						result.setContent(list.get(i).getFieldValue("content")
+								.toString());
+					}
+					if (list.get(i).getFieldValue("category") != null) {
+						result.setCategory(list.get(i)
+								.getFieldValue("category").toString());
+					}
+					if (list.get(i).getFieldValue("source") != null) {
+						result.setSource(list.get(i).getFieldValue("source")
+								.toString());
+					}
+					if(list.get(i).getFieldValue("source")!=null){
+						result.setSource(list.get(i).getFieldValue("source").toString());
+					}
+					if(list.get(i).getFieldValue("published_date")!=null){
+						result.setPublishedDate(list.get(i).getFieldValue("published_date").toString());
+					}
+					if(list.get(i).getFieldValue("snippet")!=null){
+						result.setSnippet(list.get(i).getFieldValue("snippet").toString());
+					}
+					if(list.get(i).getFieldValue("popularityScore")!=null){
+						result.setPopularityScore((Integer)list.get(i).getFieldValue("popularityScore"));
+					}
+					
+					jsonResults.add(result);
 				}
 				obj.put("results", jsonResults);
 			}
+			
 			out.println(obj);
 			out.close();
 			return;
@@ -115,6 +202,7 @@ public class PersonalizedViewClass extends HttpServlet {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+
 
 	}
 
@@ -126,5 +214,6 @@ public class PersonalizedViewClass extends HttpServlet {
 			HttpServletResponse response) throws ServletException, IOException {
 		doGet(request, response);
 	}
+	
 
 }

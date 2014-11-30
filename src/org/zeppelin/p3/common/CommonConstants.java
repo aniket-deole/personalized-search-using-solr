@@ -34,5 +34,7 @@ public class CommonConstants {
 	public static final Pattern PATTERN_FOR_PLACE_DATE = Pattern
 			.compile(RegExp.REGEX_FOR_PLACE_DATE);
 	
+	public static final String CARROT = "^";
+	
 
 }
