@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.zeppelin.p3.personalization.User;
+import org.zeppelin.p3.personalization.UserLog;
 
 // Copied from <br>
 // http://www.vogella.com/tutorials/MySQLJava/article.html
@@ -252,6 +253,71 @@ public class MySQLAccess {
 
 	}
 
+	public List<UserLog> fetchLikeScoresAndClickCountsForAllDocuments(int userId)
+			throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			ArrayList<UserLog> likeScoresAndClickCountsForAllDocuments = new ArrayList<UserLog>();
+			// statements allow to issue SQL queries to the database
+			preparedStatement = connect
+					.prepareStatement("SELECT doc_id,like_score,click_count from ub535p3.user_relevance_feedback where user_id=?");
+			preparedStatement.setInt(1, userId);
+			resultSet = preparedStatement.executeQuery();
+
+			while (resultSet.next()) {
+				UserLog log = new UserLog();
+				log.setUserId(userId);
+				log.setDocID(resultSet.getString("doc_id"));
+				log.setLikingScore(resultSet.getInt("like_score"));
+				log.setClickCount(resultSet.getInt("click_count"));
+				likeScoresAndClickCountsForAllDocuments.add(log);
+			}
+			return likeScoresAndClickCountsForAllDocuments;
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+	}
+
+	public UserLog fetchLikeScoresAndClickCountsForGivenDocument(int userId,
+			String docId) throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			// statements allow to issue SQL queries to the database
+			preparedStatement = connect
+					.prepareStatement("SELECT like_score,click_count from ub535p3.user_relevance_feedback where user_id=? AND doc_id=?");
+			preparedStatement.setInt(1, userId);
+			preparedStatement.setString(2, "doc_id");
+			resultSet = preparedStatement.executeQuery();
+
+			UserLog log = new UserLog();
+			while (resultSet.next()) {
+				log.setUserId(userId);
+				log.setDocID(docId);
+				log.setLikingScore(resultSet.getInt("like_score"));
+				log.setClickCount(resultSet.getInt("click_count"));
+			}
+			return log;
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+	}
+
 	private void writeResultSet(ResultSet resultSet) throws SQLException {
 		// resultSet is initialised before the first data set
 		while (resultSet.next()) {
@@ -341,7 +407,8 @@ public class MySQLAccess {
 		}
 	}
 
-	public Map<String, Integer> fetchLikeScoreForAllDocuments(Integer userId) throws Exception {
+	public Map<String, Integer> fetchLikeScoreForAllDocuments(Integer userId)
+			throws Exception {
 		try {
 			// this will load the MySQL driver, each DB has its own driver
 			Class.forName("com.mysql.jdbc.Driver");
