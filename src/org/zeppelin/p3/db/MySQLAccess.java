@@ -111,8 +111,8 @@ public class MySQLAccess {
 
 	}
 
-	public void updateUserCategoryPreferences(int userId, String categoryName)
-			throws Exception {
+	public void updateUserCategoryPreferences(int userId, String categoryName,
+			Integer likeScore) throws Exception {
 		try {
 			// this will load the MySQL driver, each DB has its own driver
 			Class.forName("com.mysql.jdbc.Driver");
@@ -131,11 +131,20 @@ public class MySQLAccess {
 				categoryId = resultSet.getInt("category_id");
 			}
 			preparedStatement = connect
-					.prepareStatement("insert into  ub535p3.user_category_map values (?, ?)");
-			// preparedStatement = connect.prepareStatement("INSERT");
-			preparedStatement.setInt(1, userId);
-			preparedStatement.setInt(2, categoryId);
-			preparedStatement.executeUpdate();
+					.prepareStatement("update ub535p3.user_category_map set liking_count = ? where user_id = ? AND category_id = ?");
+			preparedStatement.setInt(1, likeScore);
+			preparedStatement.setInt(2, userId);
+			preparedStatement.setInt(3, categoryId);
+			int rowsAffected = preparedStatement.executeUpdate();
+
+			if (rowsAffected == 0) {
+				preparedStatement = connect
+						.prepareStatement("insert into  ub535p3.user_category_map values (?, ?,?)");
+				preparedStatement.setInt(1, userId);
+				preparedStatement.setInt(2, categoryId);
+				preparedStatement.setInt(3, likeScore);
+				preparedStatement.executeUpdate();
+			}
 
 		} catch (SQLException e) {
 			e.printStackTrace();
