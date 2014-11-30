@@ -23,6 +23,8 @@ import org.apache.solr.client.solrj.response.SpellCheckResponse.Suggestion;
 import org.apache.solr.common.SolrDocumentList;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
+import org.zeppelin.p3.common.CommonConstants;
+import org.zeppelin.p3.common.CommonUtil;
 import org.zeppelin.p3.db.MySQLAccess;
 
 public class BasicEvaluator extends HttpServlet {
@@ -63,16 +65,9 @@ public class BasicEvaluator extends HttpServlet {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
+		
 
-		SolrQuery parameters = new SolrQuery();
-		parameters.set("q", q);
-
-		parameters.set("defType", "edismax");
-		// Iterate over the preferred categories and apply them to query
-		// boosters
-		// for (String category : preferredCategories) {
-		parameters.set("bq", preferredCategories
-				.toArray(new String[preferredCategories.size()]));
+         SolrQuery query = CommonUtil.createPersonalisedQuery(q, userId);
 		// }
 		// parameters.set("bq", bq);
 
@@ -81,7 +76,7 @@ public class BasicEvaluator extends HttpServlet {
 		// spellcheck(q);
 
 		try {
-			QueryResponse q_response = solrServer.query(parameters);
+			QueryResponse q_response = solrServer.query(query);
 			SolrDocumentList list = q_response.getResults();
 			JSONObject obj = new JSONObject();
 			obj.put("resultCount", list.size());
