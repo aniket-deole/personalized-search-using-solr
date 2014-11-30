@@ -3,7 +3,9 @@ package org.zeppelin.p3.query;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -51,9 +53,12 @@ public class BasicEvaluator extends HttpServlet {
 		Integer userId = (Integer) request.getSession().getAttribute(
 				"loggedInUserId");
 		ArrayList<String> preferredCategories = new ArrayList<String>();
+		Map<String, Integer> likeScoresAssignedByLoggedInUser = new HashMap<String, Integer>();
 		MySQLAccess dao = new MySQLAccess();
 		try {
 			preferredCategories = dao.fetchPreferredCategories(userId);
+			likeScoresAssignedByLoggedInUser = dao
+					.fetchLikeScoreForAllDocuments(userId);
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -84,7 +89,15 @@ public class BasicEvaluator extends HttpServlet {
 			if (!list.isEmpty()) {
 				obj.put("resultCount", list.size());
 				for (int i = 0; i < list.size(); i++) {
+					String docId = list.get(i).getFieldValue("id").toString();
+					Integer rating = likeScoresAssignedByLoggedInUser
+							.get(docId);
+					if (rating == null) {
+						rating = 0;
+					}
 					QueryResult result = new QueryResult();
+					result.setId(docId);
+					result.setRating(rating);
 					if (list.get(i).getFieldValue("title") != null) {
 						result.setTitle(list.get(i).getFieldValue("title")
 								.toString());

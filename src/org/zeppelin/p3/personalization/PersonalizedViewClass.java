@@ -3,6 +3,8 @@ package org.zeppelin.p3.personalization;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -56,8 +58,11 @@ public class PersonalizedViewClass extends HttpServlet {
 		// Retrieve preferred categories for the given user id
 		ArrayList<String> preferredCategories = new ArrayList<String>();
 		MySQLAccess dao = new MySQLAccess();
+		Map<String, Integer> likeScoresAssignedByLoggedInUser = new HashMap<String, Integer>();
 		try {
 			preferredCategories = dao.fetchPreferredCategories(userId);
+			likeScoresAssignedByLoggedInUser = dao
+					.fetchLikeScoreForAllDocuments(userId);
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -80,18 +85,20 @@ public class PersonalizedViewClass extends HttpServlet {
 			if (!list.isEmpty()) {
 				obj.put("resultCount", list.size());
 				// TODO - Show all results in a page view and asynchronously
-				for (int i = 0; i < 20; i++) {
-					if (i == list.size()) {
-						break;
+				for (int i = 0; i < list.size(); i++) {
+					String docId = list.get(i).getFieldValue("id").toString();
+					Integer rating = likeScoresAssignedByLoggedInUser
+							.get(docId);
+					if (rating == null) {
+						rating = 0;
 					}
 					jsonResults
-							.add(new QueryResult(list.get(i)
-									.getFieldValue("id").toString(), list
-									.get(i).getFieldValue("title").toString(),
+							.add(new QueryResult(docId, list.get(i)
+									.getFieldValue("title").toString(),
 									list.get(i).getFieldValue("content")
 											.toString(), list.get(i)
 											.getFieldValue("content")
-											.toString(), 3, list.get(i)
+											.toString(), rating, list.get(i)
 											.getFieldValue("category")
 											.toString(),
 									list.get(i).getFieldValue("source")

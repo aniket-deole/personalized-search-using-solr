@@ -341,6 +341,36 @@ public class MySQLAccess {
 		}
 	}
 
+	public Map<String, Integer> fetchLikeScoreForAllDocuments(Integer userId) throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			// statements allow to issue SQL queries to the database
+			preparedStatement = connect
+					.prepareStatement("SELECT doc_id,like_score from ub535p3.user_relevance_feedback where user_id=?");
+			preparedStatement.setInt(1, userId);
+			resultSet = preparedStatement.executeQuery();
+
+			Map<String, Integer> likeScoresForUser = new HashMap<String, Integer>();
+			while (resultSet.next()) {
+				likeScoresForUser.put(resultSet.getString("doc_id"),
+						resultSet.getInt("like_score"));
+
+			}
+			return likeScoresForUser;
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+
+	}
+
 	public void updateLikingScoreForDocument(Integer loggedInUserId,
 			String docId, Integer likingScore) throws Exception {
 		try {

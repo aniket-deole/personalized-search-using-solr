@@ -121,6 +121,7 @@
 							publishedDate : results[i].publishedDate,
 							content : results[i].content,
 							snippet : results[i].snippet
+							//documentRating : results[i].rating
 						});
 					}
 				}
@@ -167,7 +168,8 @@
 								title : results[i].title,
 								publishedDate : results[i].publishedDate,
 								content : results[i].content,
-								snippet : results[i].snippet
+								snippet : results[i].snippet,
+								documentRating : results[i].rating
 							});
 						}
 					}
@@ -474,7 +476,7 @@
 							<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
 								{{card.content}}</p>
 							<div ng-controller="RatingDemoCtrl">
-								<rating ng-model="rate" max="max" readonly="isReadonly" state-on ="'glyphicon-star'" state-off ="'glyphicon-star-empty'"
+								<rating ng-model="card.documentRating" max="max" readonly="isReadonly" state-on ="'glyphicon-star'" state-off ="'glyphicon-star-empty'"
 									on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
 								<span class="label"
 									ng-class="{'label-warning': percent<30, 'label-info': percent>=30 && percent<70, 'label-success': percent>=70}"

@@ -10,7 +10,7 @@
 </md-content>
 <div class="md-actions" layout="row" style="padding: 50px;">
 	<div ng-controller="RatingDemoCtrl">
-		<rating ng-model="rate" max="max" readonly="isReadonly"
+		<rating ng-model="card.documentRating" max="max" readonly="isReadonly"
 			state-on="'glyphicon-star'" state-off="'glyphicon-star-empty'"
 			on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
 		<span class="label"
