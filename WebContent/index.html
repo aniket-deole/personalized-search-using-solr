@@ -44,7 +44,6 @@
 <link rel="stylesheet" href="js/angular-material/themes/lime-theme.css">
 
 <link href="css/autocomplete.css" rel="stylesheet">
-<script src="js/angular/angular.js"></script>
 <script src="js/bootstrap/ui-bootstrap-tpls-0.12.0.js"></script>
 <link href="css/bootstrap.css" rel="stylesheet">
 <script>
@@ -442,6 +441,103 @@
 
 		// and fire it after definition
 		$scope.inita();
+		
+		
+
+		select_language.selectedIndex = 6;
+		updateCountry();
+		select_dialect.selectedIndex = 6;
+		showInfo('info_start');
+		function updateCountry() {		}
+	var create_email = false;
+	$scope.final_transcript = '';
+	var recognizing = false;
+	var ignore_onend;
+	$scope.recognition = '';
+	var start_timestamp;
+	if (!('webkitSpeechRecognition' in window)) {
+		  upgrade();
+		} else {
+		  start_button.style.display = 'inline-block';
+		  $scope.recognition = new webkitSpeechRecognition();
+		  $scope.recognition.continuous = true;
+		  $scope.recognition.interimResults = true;
+		  $scope.recognition.onstart = function() {
+			  $scope.recognizing = true;
+		    showInfo('info_speak_now');
+		    start_img.src = 'mic-animate.gif';
+		  };
+		  $scope.recognition.onerror = function(event) {
+		    if (event.error == 'no-speech') {
+		      start_img.src = 'mic.gif';
+		      showInfo('info_no_speech');
+		      ignore_onend = true;
+		    }
+		    if (event.error == 'audio-capture') {
+		      start_img.src = 'mic.gif';
+		      showInfo('info_no_microphone');
+		      ignore_onend = true;
+		    }
+		    if (event.error == 'not-allowed') {
+		      if (event.timeStamp - start_timestamp < 100) {
+		        showInfo('info_blocked');
+		      } else {
+		        showInfo('info_denied');
+		      }
+		      ignore_onend = true;
+		    }
+		  };
+		  $scope.recognition.onend = function() {
+			  $scope.recognizing = false;
+		    if (ignore_onend) {
+		      return;
+		    }
+		    start_img.src = 'mic.gif';
+		    if (!final_transcript) {
+		      showInfo('info_start');
+		      return;
+		    }
+		    showInfo('');
+		    if (window.getSelection) {
+		      window.getSelection().removeAllRanges();
+		      var range = document.createRange();
+		      range.selectNode(document.getElementById('final_span'));
+		      window.getSelection().addRange(range);
+		    }
+		    if (create_email) {
+		      create_email = false;
+		      createEmail();
+		    }
+		  };
+		  $scope.recognition.onresult = function(event) {
+		    var interim_transcript = '';
+		    for (var i = event.resultIndex; i < event.results.length; ++i) {
+		      if (event.results[i].isFinal) {
+		        final_transcript += event.results[i][0].transcript;
+		      } else {
+		        interim_transcript += event.results[i][0].transcript;
+		      }
+		    }
+		    $scope.queryText = final_transcript;
+		    console.log (final_transcript);
+		   
+		  };
+		}
+
+	$scope.startButton = function () {
+	  if ($scope.recognizing) {
+		  $scope.recognition.stop();
+	    return;
+	  }
+	  final_transcript = '';
+	  $scope.recognition.lang = ['en-US'];
+	  $scope.recognition.start();
+	  ignore_onend = false;
+	  showInfo('info_allow');
+	  start_timestamp = event.timeStamp;
+	}
+	function showInfo(s) {
+		}
 
 	}
 	function PersonalisationController($scope) {
@@ -590,11 +686,11 @@
 					click-activation="true" data="movies" on-type="doSomething"
 					on-select="doSomethingElse" class="autocomplete"
 					style="background:transparent; border:0px; color:white;"></autocomplete>
-
+<md-button id="start_button" ng-click="startButton()" style="font-size:12px;">Listen</md-button>
 				<md-button ng-click="query ()" style="font-size:12px;">Search</md-button>
 				<!-- fill up the space between left and right area -->
 				<span flex></span>
-
+		
 				<md-button ng-click="createUser ()" style="font-size:12px;">Index</md-button>
 				<md-button ng-click="personalizePreferences ()"
 					style="font-size:12px;">Preferences</md-button>
@@ -630,9 +726,10 @@
 							ng-click="showArticle($event, card)">
 						<div>
 							<p
-								style="font-weight: 300; font-size: 24px; line-height: 0.5; padding-left: 15px;">{{card.title}}</p>
+								style="font-weight: 300; font-size: 24px; line-height: 0.5; padding-left: 15px;
+								 padding-top:15px;">{{card.title}}</p>
 							<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
-								{{card.content}}</p>
+								{{card.snippet}}</p>
 							<div ng-controller="RatingDemoCtrl">
 								<rating ng-model="card.documentRating" max="max"
 									readonly="isReadonly" state-on="'glyphicon-star'"
@@ -655,9 +752,10 @@
 							ng-click="showArticle($event, card)">
 						<div>
 							<p
-								style="font-weight: 300; font-size: 24px; line-height: 0.5; padding-left: 15px;">{{card.title}}</p>
+								style="font-weight: 300; font-size: 24px; line-height: 0.5; 
+								 padding-top:15px; padding-left: 15px;">{{card.title}}</p>
 							<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
-								{{card.content}}</p>
+								{{card.snippet}}</p>
 							<div ng-controller="RatingDemoCtrl">
 								<rating ng-model="card.documentRating" max="max"
 									readonly="isReadonly" state-on="'glyphicon-star'"
@@ -676,7 +774,7 @@
 						md-swipe-right="previous()">
 
 						<md-card ng-repeat="card in cards" md-theme-watch="true"
-							style="background-color:white; margin:14px;"
+							style="background-color:white; margin:14px; padding-top:15px;"
 							ng-click="showArticle($event, card)">
 						<div>
 							<p
@@ -840,8 +938,13 @@
 			</md-content>
 		</div>
 	</div>
+	<div style="display:none;">
+		<select id="select_language" onchange="updateCountry()" style="display:none;"></select>
+    &nbsp;&nbsp;
+    <select id="select_dialect" style="display:hidden;"></select></div>
 	<script>
-		
+
 	</script>
+
 </body>
 </html>
