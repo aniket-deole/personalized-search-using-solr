@@ -301,7 +301,8 @@ public class MySQLAccess {
 		return userList;
 	}
 
-	public void updateClickCountForDocument(Integer loggedInUserId, String docId) throws Exception {
+	public void updateClickCountForDocument(Integer loggedInUserId, String docId)
+			throws Exception {
 		try {
 			// this will load the MySQL driver, each DB has its own driver
 			Class.forName("com.mysql.jdbc.Driver");
@@ -338,6 +339,48 @@ public class MySQLAccess {
 		} finally {
 			close();
 		}
+	}
+
+	public void updateLikingScoreForDocument(Integer loggedInUserId,
+			String docId, Integer likingScore) throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			preparedStatement = connect
+					.prepareStatement("update ub535p3.user_relevance_feedback set likingScore = ? where user_id = ? AND doc_id = ?");
+			preparedStatement.setInt(1, likingScore);
+			preparedStatement.setInt(2, loggedInUserId);
+			preparedStatement.setString(3, docId);
+			int affectedRows = preparedStatement.executeUpdate();
+			// In case no rows were updated, means that there were no entry for
+			// the given user and docid
+			// Run an Insert command
+			if (affectedRows == 0) {
+				// In case user likes the document without even clicking on the
+				// document
+				// then this part will be called before the creation of tuple
+				// for click_count
+				preparedStatement = connect
+						.prepareStatement("insert into ub535p3.user_relevance_feedback values (?,?,?,?)");
+				preparedStatement.setInt(1, loggedInUserId);
+				preparedStatement.setString(2, docId);
+				preparedStatement.setInt(3, likingScore);
+				preparedStatement.setInt(4, 1);
+				preparedStatement.executeUpdate();
+			}
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+
 	}
 
 	// you need to close all three to make sure
