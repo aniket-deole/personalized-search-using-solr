@@ -126,7 +126,49 @@
 							documentRating : results[i].rating
 						});
 					}
+				} else {
+					var spells = data.spellCorrections;
+					$mdDialog.show({
+						controller : Dialog2Controller,
+						templateUrl : 'spellChecker.html',
+						targetEvent : null,
+						locals : {
+							choices : spells
+						}
+					}).then(function(choice) {
+						console.log(choice);
+						$http({
+							method : 'POST',
+							url : 'http://localhost:8080/UB535p3WebApp/BasicEvaluator',
+							headers : {
+								'Content-Type' : 'application/text',
+								'q' : choice
+							},
+							data : $scope.user
+						}).success(function(data) {
+							console.log(data);
+							var resultCount = data.resultCount;
+							var results = data.results;
+							if (resultCount != 0) {
+								for (var i = 0; i < results.length; i++) {
+									$scope.cards.push({
+										id : results[i].id,
+										title : results[i].title,
+										publishedDate : results[i].publishedDate,
+										content : results[i].content,
+										snippet : results[i].snippet,
+										popularityScore : results[i].popularityScore,
+										documentRating : results[i].rating
+									});
+								}
+							} 
+						});
+
+					}, function() {
+						$scope.alert = 'You cancelled the dialog.';
+					});
 				}
+				
 				$scope.announceSelected(2);
 			});
 		};
@@ -411,6 +453,35 @@
 		$scope.loginUser = function(loginUser) {
 			$mdDialog.hide(loginUser);
 		};
+		
+		$scope.nextQuery = function(q) {
+			$mdDialog.hide(q);
+		};
+		
+		$scope.newUser = function(newUser) {
+			$mdDialog.hide(newUser);
+		};
+	}
+	
+
+	function Dialog2Controller($scope, $mdDialog, choices) {
+		$scope.choicess = choices;
+		$scope.hide = function() {
+			$mdDialog.hide();
+		};
+
+		$scope.cancel = function() {
+			$mdDialog.cancel();
+		};
+
+		$scope.loginUser = function(loginUser) {
+			$mdDialog.hide(loginUser);
+		};
+		
+		$scope.nextQuery = function(q) {
+			$mdDialog.hide(q);
+		};
+		
 		$scope.newUser = function(newUser) {
 			$mdDialog.hide(newUser);
 		};
@@ -457,6 +528,7 @@
 		app.controller("AppCtrl", AppCtrl);
 		app.controller("viewArticleCtrl", viewArticleCtrl);
 		app.controller("DialogController", DialogController);
+		app.controller("Dialog2Controller", DialogController);
 		app.controller("PersonalisationController", PersonalisationController);
 	</script>
 	<div layout="horizontal" layout-fill
