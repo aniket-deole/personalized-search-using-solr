@@ -42,7 +42,7 @@ public class CommonUtil {
 			Iterator it = preferredCategories.entrySet().iterator();
 		    while (it.hasNext()) {
 		        Map.Entry pairs = (Map.Entry)it.next();
-		        String boostTerm = "category:"+pairs.getKey()+CommonConstants.CARROT+pairs.getValue();
+		        String boostTerm = "category:"+pairs.getKey();
 		        query.add("bq", boostTerm);
 		        it.remove(); // avoids a ConcurrentModificationException
 		    }

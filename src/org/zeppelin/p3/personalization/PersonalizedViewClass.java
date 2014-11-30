@@ -84,7 +84,8 @@ public class PersonalizedViewClass extends HttpServlet {
 	    while (it.hasNext()) {
 	        Map.Entry pairs = (Map.Entry)it.next();
 	        if((Integer)pairs.getValue()!=0){
-                queryString.append("category:").append(pairs.getKey()).append(CommonConstants.CARROT).append(pairs.getValue());
+                queryString.append("category:").append(pairs.getKey()).append(CommonConstants.CARROT).append(
+                		(Integer)pairs.getValue() * 2);
 		        queryString.append(CommonConstants.WHITESPACE);
 	        }
 	        it.remove(); // avoids a ConcurrentModificationException
