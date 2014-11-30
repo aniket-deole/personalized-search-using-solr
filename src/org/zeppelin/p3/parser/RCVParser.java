@@ -100,7 +100,7 @@ public class RCVParser {
 				}
 				content = content.trim();
 				document.setContent(content);
-				document.setSource("RCV");
+				document.setSource("Reuters");
 				document.setSnippet(snippet);
 			}
 			reader.close();

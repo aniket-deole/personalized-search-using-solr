@@ -17,6 +17,7 @@ import org.apache.solr.client.solrj.SolrServerException;
 import org.apache.solr.client.solrj.impl.HttpSolrServer;
 import org.apache.solr.client.solrj.response.UpdateResponse;
 import org.apache.solr.common.SolrInputDocument;
+import org.zeppelin.p3.parser.RCVSolrDocumentGenerator;
 import org.zeppelin.p3.parser.SolrDocumentGenerator;
 
 public class BasicIndexer extends HttpServlet {
@@ -39,9 +40,16 @@ public class BasicIndexer extends HttpServlet {
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
 	 
-		SolrDocumentGenerator generatror = new SolrDocumentGenerator();
-		List<SolrInputDocument> solrDocuments = generatror
+		SolrDocumentGenerator generator = new SolrDocumentGenerator();
+		List<SolrInputDocument> solrDocuments = generator
 				.createSolrDocuments();
+		
+		RCVSolrDocumentGenerator rcvGenerator = new RCVSolrDocumentGenerator();
+		List<SolrInputDocument> solrDocumentsRCV = rcvGenerator
+				.createSolrDocuments();
+		
+		solrDocuments.addAll(solrDocumentsRCV);
+		
 		int docCount = 0;
 		for (SolrInputDocument solrInputDocument : solrDocuments) {
 			try {

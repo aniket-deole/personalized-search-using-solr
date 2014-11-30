@@ -123,6 +123,9 @@ public class BasicEvaluator extends HttpServlet {
 					if(list.get(i).getFieldValue("popularityScore")!=null){
 						result.setPopularityScore((Integer)list.get(i).getFieldValue("popularityScore"));
 					}
+					if(list.get(i).getFieldValue("source")!=null){
+						result.setSource(list.get(i).getFieldValue("source").toString());
+					}
 					
 					jsonResults.add(result);
 				}

@@ -104,6 +104,7 @@ public class SaxParserNytHandler extends DefaultHandler {
 		document.setSource(source);
 		document.setSummary(summary);
 		document.setSnippet(snippet);
+		document.setSource("The New York Times");
 	}
 
 	@Override
