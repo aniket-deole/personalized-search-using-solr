@@ -165,7 +165,7 @@
 					var results = data.results;
 					if (resultCount != 0) {
 						for (var i = 0; i < results.length; i++) {
-							$scope.personalizedCards.push({
+							$scope.topNewsCards.push({
 								id : results[i].id,
 								title : results[i].title,
 								publishedDate : results[i].publishedDate,
@@ -278,6 +278,7 @@
 
 		$scope.cards = [];
 		$scope.personalizedCards = [];
+		$scope.topNewsCards = [];
 		$scope.categoriesAndLikeScoreMap = [];
 		$scope.users = [];
 		$scope.inita = function() {
@@ -514,6 +515,33 @@
 							style="font-size:12px;"> Search Results </md-tab> </md-tabs>
 					</div>
 					<ng-switch on="data.selectedIndex" style="height:100%;">
+
+
+					<div role="tabpanel" id="tab1-content" aria-labelledby="tab1"
+						ng-swi ch-when="1" md-swipe-left="next()"
+						md-swipe-right="previous()">
+						<md-card ng-repeat="card in topNewsCards"
+							md-theme-watch="true"
+							style="background-color:white; margin:14px;"
+							ng-click="showArticle($event, card)">
+						<div>
+							<p
+								style="font-weight: 300; font-size: 24px; line-height: 0.5; padding-left: 15px;">{{card.title}}</p>
+							<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
+								{{card.content}}</p>
+							<div ng-controller="RatingDemoCtrl">
+								<rating ng-model="card.documentRating" max="max"
+									readonly="isReadonly" state-on="'glyphicon-star'"
+									state-off="'glyphicon-star-empty'"
+									on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
+								<span class="label"
+									ng-class="{'label-warning': percent<30, 'label-info': percent>=30 && percent<70, 'label-success': percent>=70}"
+									ng-show="overStar && !isReadonly">{{percent}}%</span>
+
+							</div>
+						</div>
+						</md-card>
+					</div>
 
 					<div role="tabpanel" id="tab2-content" aria-labelledby="tab2"
 						ng-swi ch-when="1" md-swipe-left="next()"
