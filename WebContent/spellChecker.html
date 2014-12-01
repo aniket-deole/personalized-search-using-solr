@@ -6,14 +6,9 @@
     </section>
     
    <section layout="row" layout-phone="column" layout-align="center center">
-	    <md-button ng-repeat="user in choicess" ng-click="loginUser (2)" class="md-warn">
+	    <md-button ng-repeat="user in choicess" ng-click="loginUser (user)" class="md-warn">
 	    	{{user}}
 	    </md-button>
-    </section>
-    
-   <section layout="row" layout-phone="column" layout-align="center center">
-    	<md-text-float label="New User ?" ng-model="newUserName"  md-theme="red"> </md-text-float>
-      <md-button  ng-click="newUser (newUserName)">Come on in!</md-button>
     </section>
   </md-content>
 

@@ -1,5 +1,5 @@
 <md-bottom-sheet class="md-list md-has-header"
-	style="height:100%; padding:0px;"> <md-content>
+	style="height:100%; padding:0px; overflow:scroll; "> <md-content>
 <md-toolbar md-theme="blue-grey">
 <div class="md-toolbar-tools">
 	<span class="md-flex" style="padding-left: 50px;">{{card.title}}</span>
@@ -7,11 +7,11 @@
 	<span class="md-flex" style="padding-right: 50px;">Source: {{card.source}}</span>
 </div>
 </md-toolbar>
-<p style="font-weight: 300; font-size: 12px; padding-left: 50px;
+<p style="font-weight: 300; font-size: 14px; padding-left: 50px;
 		padding-right:50px;padding-top:25px; line-height:2; ">
 	{{card.content}}</p>
 </md-content>
-<div class="md-actions" layout="row" style="padding: 50px;">
+<div class="md-actions" layout="row" style="padding: 50px; height:200px;">
 	<div ng-controller="RatingDemoCtrl">
 		<rating ng-model="card.documentRating" max="max" readonly="isReadonly"
 			state-on="'glyphicon-star'" state-off="'glyphicon-star-empty'"

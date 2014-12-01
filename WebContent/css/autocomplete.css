@@ -9,15 +9,12 @@
 }
 
 .autocomplete placeholder {
-	color:red;	
+	color:grey;	
 }
 
 .autocomplete ul{
   position: absolute;
   left: -15px;
-  border-left: 1px solid #888;
-  border-right: 1px solid #888;
-  border-bottom: 1px solid #888;
   z-index: 1;
   color:blue;
 }
@@ -30,11 +27,11 @@
 }
 
 .autocomplete li.active{
-  background-color: #4bf;
+  background-color: white;
 }
 
 .autocomplete .highlight {
-  background-color: red;
+  background-color: grey;
 }
 
 .autocomplete li.active .highlight {

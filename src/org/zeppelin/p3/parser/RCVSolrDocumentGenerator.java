@@ -15,10 +15,10 @@ public class RCVSolrDocumentGenerator {
 	 */
 	public List<SolrInputDocument> createSolrDocuments(){
 	        // TODO- Remove the hard-coding
-			String ipDir = "H:\\projects\\newsindexer\\training";
+			// String ipDir = "H:\\projects\\newsindexer\\training";
 			// String ipDir = "/home/animesh/git/project3/corpus/00";
 			//String ipDir = "/home/animesh/git/project3/corpus";
-			// String ipDir = "/Users/aniket/Development/workspace/ub535p3/corpus";
+			 String ipDir = "/Users/aniket/Development/workspace/ub535p3/corpus";
 			File ipDirectory = new File(ipDir);
 			String[] catDirectories = ipDirectory.list();
 

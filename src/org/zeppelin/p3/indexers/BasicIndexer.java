@@ -44,11 +44,11 @@ public class BasicIndexer extends HttpServlet {
 		List<SolrInputDocument> solrDocuments = generator
 				.createSolrDocuments();
 		
-		RCVSolrDocumentGenerator rcvGenerator = new RCVSolrDocumentGenerator();
-		List<SolrInputDocument> solrDocumentsRCV = rcvGenerator
-				.createSolrDocuments();
-		
-		solrDocuments.addAll(solrDocumentsRCV);
+//		RCVSolrDocumentGenerator rcvGenerator = new RCVSolrDocumentGenerator();
+//		List<SolrInputDocument> solrDocumentsRCV = rcvGenerator
+//				.createSolrDocuments();
+//		
+//		solrDocuments.addAll(solrDocumentsRCV);
 		
 		int docCount = 0;
 		for (SolrInputDocument solrInputDocument : solrDocuments) {
