@@ -364,6 +364,30 @@ http://stackoverflow.com/questions/15519713/highlighting-a-filtered-result-in-an
 				console.log(data);
 				$scope.categoriesAndLikeScoreMap = data.results;
 			});
+
+			$http({
+				method : 'POST',
+				url : 'http://localhost:8080/UB535p3WebApp/PreferredSources',
+				headers : {
+					'Content-Type' : 'application/text',
+					'userId' : $scope.loginUser
+				},
+				data : $scope.preferredSources
+			}).success(function(data) {
+				$scope.status = data;
+				console.log(data);
+				var resultCount = data.resultCount;
+				var results = data.results;
+				if (resultCount != 0) {
+					for (var i = 0; i < results.length; i++) {
+						$scope.preferredSources.push({
+							name : results[i].name,
+							check : results[i].check
+						});
+					}
+				}
+			});
+
 			$mdSidenav('userPreferencesSideNav').toggle()
 		};
 		$scope.closePreferences = function() {
@@ -374,6 +398,12 @@ http://stackoverflow.com/questions/15519713/highlighting-a-filtered-result-in-an
 						+ $scope.categoriesAndLikeScoreMap[i].category + ':'
 						+ $scope.categoriesAndLikeScoreMap[i].likingScore + ','
 			}
+			var updatedSourceWithCheckValues = '';
+			for (var i = 0; i < $scope.preferredSources.length; i++) {
+				updatedSourceWithCheckValues = updatedSourceWithCheckValues
+						+ $scope.preferredSources[i].name + ':'
+						+ $scope.preferredSources[i].check + ','
+			}
 			$http(
 					{
 						method : 'POST',
@@ -381,7 +411,8 @@ http://stackoverflow.com/questions/15519713/highlighting-a-filtered-result-in-an
 						headers : {
 							'Content-Type' : 'application/text',
 							'userId' : $scope.loginUser,
-							'categoriesAndLikeScoreMap' : stringToSend
+							'categoriesAndLikeScoreMap' : stringToSend,
+							'updatedSourceWithCheckValues' : updatedSourceWithCheckValues
 						},
 						data : $scope.categoriesAndLikeScoreMap
 					}).success(function(data) {
@@ -422,6 +453,7 @@ http://stackoverflow.com/questions/15519713/highlighting-a-filtered-result-in-an
 		
 		$scope.recos = [];
 		$scope.cards = [];
+		$scope.preferredSources = []
 		$scope.personalizedCards = [];
 		$scope.topNewsCards = [];
 		$scope.categoriesAndLikeScoreMap = [];
@@ -1002,7 +1034,17 @@ http://stackoverflow.com/questions/15519713/highlighting-a-filtered-result-in-an
 				</div>
 
 			</div>
-			<p style="padding-left: 15px; padding-top: 100px;">
+			<div>
+				<p
+					style="padding-left: 15px; margin-top: 10px; font-weight: bold; font-size: 14px">Preferred
+					Sources</p>
+				<div ng-repeat="source in preferredSources">
+					<md-checkbox ng-model="source.check" aria-label="source.name"
+						id="sourceCheck"> {{source.name}} </md-checkbox>
+				</div>
+
+			</div>
+			<p style="padding-left: 15px; padding-top: 15px;">
 				<md-button ng-click="closePreferences ()" class="md-raised">
 				UPDATE </md-button>
 			</p>

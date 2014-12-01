@@ -154,6 +154,41 @@ public class MySQLAccess {
 			close();
 		}
 	}
+	
+	public void updatePreferredSources(Integer loggedInUserId,
+			String sourceName, Boolean checked) throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			preparedStatement = connect
+					.prepareStatement("update ub535p3.user_source_map set checked = ? where user_id = ? AND source = ?");
+			preparedStatement.setBoolean(1, checked);
+			preparedStatement.setInt(2, loggedInUserId);
+			preparedStatement.setString(3, sourceName);
+			int rowsAffected = preparedStatement.executeUpdate();
+
+			if (rowsAffected == 0) {
+				preparedStatement = connect
+						.prepareStatement("insert into  ub535p3.user_source_map values (?, ?,?)");
+				preparedStatement.setInt(1, loggedInUserId);
+				preparedStatement.setString(2, sourceName);
+				preparedStatement.setBoolean(3, checked);
+				preparedStatement.executeUpdate();
+			}
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+		
+	}
 
 	public ArrayList<String> fetchPreferredCategories(int userId)
 			throws Exception {
@@ -446,6 +481,36 @@ public class MySQLAccess {
 		}
 
 	}
+	
+	public Map<String, Boolean> fetchPreferredSourcesWithCheckValue(Integer userId) throws Exception {
+		try {
+			// this will load the MySQL driver, each DB has its own driver
+			Class.forName("com.mysql.jdbc.Driver");
+			// setup the connection with the DB.
+			connect = DriverManager
+					.getConnection("jdbc:mysql://localhost/ub535p3?"
+							+ "user=mysqluser&password=justarandompassword");
+			// statements allow to issue SQL queries to the database
+			preparedStatement = connect
+					.prepareStatement("SELECT source,checked from ub535p3.user_source_map where user_id=?");
+			preparedStatement.setInt(1, userId);
+			resultSet = preparedStatement.executeQuery();
+
+			Map<String, Boolean> preferredSourceWithCheckedValue = new HashMap<String, Boolean>();
+			while (resultSet.next()) {
+				preferredSourceWithCheckedValue.put(resultSet.getString("source"),
+						resultSet.getBoolean("checked"));
+
+			}
+			return preferredSourceWithCheckedValue;
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			close();
+		}
+		
+	}
 
 	public void updateLikingScoreForDocument(Integer loggedInUserId,
 			String docId, Integer likingScore) throws Exception {
@@ -506,5 +571,7 @@ public class MySQLAccess {
 			// undefined state
 		}
 	}
+
+	
 
 }

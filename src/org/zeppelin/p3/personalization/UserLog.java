@@ -15,21 +15,6 @@ public class UserLog implements JSONAware {
 	}
 
 	/**
-	 * @return the id
-	 */
-	public String getCategory() {
-		return docID;
-	}
-
-	/**
-	 * @param id
-	 *            the id to set
-	 */
-	public void setCategory(String category) {
-		this.docID = category;
-	}
-
-	/**
 	 * @return the title
 	 */
 	public Integer getLikingScore() {
