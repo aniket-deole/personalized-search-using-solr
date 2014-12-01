@@ -76,11 +76,11 @@ public class CommonUtil {
 							if(result.getTitle()!=null){
 								
 								String s = result.getTitle();
-								s = s.replace("[", "").replace("]", "");
+								s = s.replace("[", "").replace("]", "").replace(":", "");
 								String [] arr = s.split(CommonConstants.WHITESPACE);
 								if(arr!=null && arr.length>0){
 									for(int i=0;i<arr.length;i++){
-								        String boostTerm = arr[i] +CommonConstants.CARROT+boostFactor;
+										String boostTerm = arr[i] +CommonConstants.CARROT+boostFactor;
 								        query.add("bq", boostTerm);
 									}
 								}
