@@ -124,7 +124,7 @@ public class BasicEvaluator extends HttpServlet {
 					
 					@SuppressWarnings("unused")
 					Map<String, List<String>> sn = h.get(docId);
-					List<String> sni = sn.get("snippet");
+					List<String> sni = sn.get("content");
 					StringBuilder snip = new StringBuilder ();
 					if (sni != null && !sni.isEmpty()) {
 						for (String s : sni) {
