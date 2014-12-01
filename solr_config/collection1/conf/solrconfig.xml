@@ -1029,9 +1029,9 @@
        <str name="f.name.hl.fragsize">0</str>
        <str name="f.name.hl.alternateField">name</str>
        <str name="f.content.hl.snippets">3</str>
-       <str name="f.content.hl.fragsize">200</str>
+       <str name="f.content.hl.fragsize">1000</str>
        <str name="f.content.hl.alternateField">content</str>
-       <str name="f.content.hl.maxAlternateFieldLength">750</str>
+       <str name="f.content.hl.maxAlternateFieldLength">1000</str>
 
        <!-- Spell checking defaults -->
        <str name="spellcheck">on</str>

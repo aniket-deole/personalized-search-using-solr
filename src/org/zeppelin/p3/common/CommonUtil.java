@@ -36,6 +36,7 @@ public class CommonUtil {
 			
 			query.set("q", q);
 			query.set("defType", "edismax");
+			//&hl=true&hl.fl=snippet
 			/**
 			 * Reference - http://stackoverflow.com/questions/1066589/java-iterate-through-hashmap
 			 */
@@ -93,7 +94,9 @@ public class CommonUtil {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
-		    
+
+			query.set ("hl", "true");
+			query.set ("hl.fl", "snippet");
 		    return query;
 	}
 

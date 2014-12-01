@@ -80,6 +80,7 @@ public class BasicEvaluator extends HttpServlet {
 		try {
 			QueryResponse q_response = solrServer.query(query);
 			SolrDocumentList list = q_response.getResults();
+			Map<String, Map<String, List<String>>> h = q_response.getHighlighting();
 			JSONObject obj = new JSONObject();
 			obj.put("resultCount", list.size());
 			JSONArray jsonResults = new JSONArray();
@@ -93,6 +94,9 @@ public class BasicEvaluator extends HttpServlet {
 						rating = 0;
 					}
 					QueryResult result = new QueryResult();
+					
+					
+					
 					result.setId(docId);
 					result.setRating(rating);
 					if (list.get(i).getFieldValue("title") != null) {
@@ -117,8 +121,20 @@ public class BasicEvaluator extends HttpServlet {
 					if(list.get(i).getFieldValue("published_date")!=null){
 						result.setPublishedDate(list.get(i).getFieldValue("published_date").toString());
 					}
-					if(list.get(i).getFieldValue("snippet")!=null){
-						result.setSnippet(list.get(i).getFieldValue("snippet").toString());
+					
+					@SuppressWarnings("unused")
+					Map<String, List<String>> sn = h.get(docId);
+					List<String> sni = sn.get("snippet");
+					StringBuilder snip = new StringBuilder ();
+					if (sni != null && !sni.isEmpty()) {
+						for (String s : sni) {
+							snip.append (s);
+						}
+						result.setSnippet(snip.toString());
+					}else {	
+						if(list.get(i).getFieldValue("snippet")!=null){
+							result.setSnippet(list.get(i).getFieldValue("snippet").toString());
+						}
 					}
 					if(list.get(i).getFieldValue("popularityScore")!=null){
 						result.setPopularityScore((Integer)list.get(i).getFieldValue("popularityScore"));

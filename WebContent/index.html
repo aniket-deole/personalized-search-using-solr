@@ -3,6 +3,8 @@
 <head>
 <title>Toogle - The New Google</title>
 <!-- 
+http://stackoverflow.com/questions/15519713/highlighting-a-filtered-result-in-angularjs
+
 <script type="text/javascript"
     src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script> -->
 
@@ -54,7 +56,7 @@
 
 	}
 
-	function AppCtrl($scope, $http, $mdSidenav, $mdBottomSheet, $mdDialog,
+	function AppCtrl($scope, $http, $mdSidenav, $mdBottomSheet, $mdDialog, $sce,
 			MovieRetriever) {
 
 		$scope.result1 = '';
@@ -577,7 +579,12 @@
 		// and fire it after definition
 		$scope.inita();
 		
-		
+		$scope.highlight = function(text, search) {
+		    if (!search) {
+		        return $sce.trustAsHtml(text);
+		    }
+		    return $sce.trustAsHtml(text.replace(new RegExp(search, 'gi'), '<span class="highlightedText">$&</span>'));
+		};
 
 		select_language.selectedIndex = 6;
 		updateCountry();
@@ -915,7 +922,8 @@
 						<div>
 							<p
 								style="font-weight: 300; font-size: 24px; line-height: 0.5; padding-left: 15px;">{{card.title}}</p>
-							<p style="font-weight: 300; font-size: 14px; padding-left: 15px;">
+							<p  ng-bind-html="highlight(card.snippet, queryText)" class="highlight" style="font-weight: 300; font-size: 14px; padding-left: 15px;">
+								
 								{{card.snippet}}</p>
 							<div ng-controller="RatingDemoCtrl">
 								<rating ng-model="card.documentRating" max="max"
