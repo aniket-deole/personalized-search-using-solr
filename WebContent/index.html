@@ -100,6 +100,40 @@
 			});
 		};
 		$scope.query = function() {
+			
+			
+			$scope.recos = [];
+
+			$http({
+				method : 'GET',
+				url : 'http://localhost:8080/UB535p3WebApp/RecommendedNews',
+				headers : {
+					'Content-Type' : 'application/text',
+				}
+			}).success(function(data) {
+				$scope.status = data;
+				console.log(data);
+				var resultCount = data.resultCount;
+				var results = data.results;
+				if (resultCount != 0) {
+					for (var i = 0; i < results.length; i++) {
+						$scope.recos.push({
+							id : results[i].id,
+							title : results[i].title,
+							publishedDate : results[i].publishedDate,
+							content : results[i].content,
+							snippet : results[i].snippet,
+							popularityScore : results[i].popularityScore,
+							documentRating : results[i].rating,
+							source : results[i].source
+						});
+					}
+				}
+			});
+			
+			
+			
+			
 			$scope.cards = [];
 			$http({
 				method : 'POST',
@@ -125,7 +159,8 @@
 													content : results[i].content,
 													snippet : results[i].snippet,
 													popularityScore : results[i].popularityScore,
-													documentRating : results[i].rating
+													documentRating : results[i].rating,
+													source : results[i].source
 												});
 									}
 								} else {
@@ -170,7 +205,8 @@
 																								content : results[i].content,
 																								snippet : results[i].snippet,
 																								popularityScore : results[i].popularityScore,
-																								documentRating : results[i].rating
+																								documentRating : results[i].rating,
+																								source : results[i].source
 																							});
 																				}
 																			}
@@ -199,6 +235,40 @@
 		};
 
 		$scope.announceSelected = function(tab) {
+			
+			
+			$scope.recos = [];
+
+			$http({
+				method : 'GET',
+				url : 'http://localhost:8080/UB535p3WebApp/RecommendedNews',
+				headers : {
+					'Content-Type' : 'application/text',
+				}
+			}).success(function(data) {
+				$scope.status = data;
+				console.log(data);
+				var resultCount = data.resultCount;
+				var results = data.results;
+				if (resultCount != 0) {
+					for (var i = 0; i < results.length; i++) {
+						$scope.recos.push({
+							id : results[i].id,
+							title : results[i].title,
+							publishedDate : results[i].publishedDate,
+							content : results[i].content,
+							snippet : results[i].snippet,
+							popularityScore : results[i].popularityScore,
+							documentRating : results[i].rating,
+							source : results[i].source
+						});
+					}
+				}
+			});
+			
+			
+			
+			
 			console.log(tab);
 			$scope.data.selectedIndex = tab;
 			if (tab == 0) {
@@ -225,7 +295,8 @@
 								content : results[i].content,
 								snippet : results[i].snippet,
 								popularityScore : results[i].popularityScore,
-								documentRating : results[i].rating
+								documentRating : results[i].rating,
+								source : results[i].source
 							});
 						}
 					}
@@ -255,7 +326,8 @@
 								publishedDate : results[i].publishedDate,
 								content : results[i].content,
 								snippet : results[i].snippet,
-								documentRating : results[i].rating
+								documentRating : results[i].rating,
+								source : results[i].source
 							});
 						}
 					}
@@ -341,10 +413,12 @@
 					carda : $cardo
 				}
 			}).then(function(clickedItem) {
-				$scope.alert = clickedItem.name + ' clicked!';
+				$scope.alert = ' clicked!';
 			});
 		};
 
+		
+		$scope.recos = [];
 		$scope.cards = [];
 		$scope.personalizedCards = [];
 		$scope.topNewsCards = [];
@@ -378,7 +452,7 @@
 					}
 				}).then(function(loginUser) {
 					console.log(loginUser);
-
+					$scope.topNewsCards = [];
 					$http({
 						method : 'POST',
 						url : 'http://localhost:8080/UB535p3WebApp/UserLogin',
@@ -390,6 +464,67 @@
 					}).success(function(data) {
 						$scope.status = data;
 						console.log(data);
+
+						$http({
+							method : 'POST',
+							url : 'http://localhost:8080/UB535p3WebApp/TopNews',
+							headers : {
+								'Content-Type' : 'application/text',
+							}
+						}).success(function(data) {
+							$scope.status = data;
+							console.log(data);
+							var resultCount = data.resultCount;
+							var results = data.results;
+							if (resultCount != 0) {
+								for (var i = 0; i < results.length; i++) {
+									$scope.topNewsCards.push({
+										id : results[i].id,
+										title : results[i].title,
+										publishedDate : results[i].publishedDate,
+										content : results[i].content,
+										snippet : results[i].snippet,
+										popularityScore : results[i].popularityScore,
+										documentRating : results[i].rating,
+										source : results[i].source
+									});
+								}
+							}
+						});
+						
+						$scope.recos = [];
+	
+						$http({
+							method : 'GET',
+							url : 'http://localhost:8080/UB535p3WebApp/RecommendedNews',
+							headers : {
+								'Content-Type' : 'application/text',
+							}
+						}).success(function(data) {
+							$scope.status = data;
+							console.log(data);
+							var resultCount = data.resultCount;
+							var results = data.results;
+							if (resultCount != 0) {
+								for (var i = 0; i < results.length; i++) {
+									$scope.recos.push({
+										id : results[i].id,
+										title : results[i].title,
+										publishedDate : results[i].publishedDate,
+										content : results[i].content,
+										snippet : results[i].snippet,
+										popularityScore : results[i].popularityScore,
+										documentRating : results[i].rating,
+										source : results[i].source
+									});
+								}
+							}
+						});
+						
+						
+						
+						
+						
 					});
 
 				}, function() {
@@ -733,7 +868,7 @@
 							<div ng-controller="RatingDemoCtrl">
 								<rating ng-model="card.documentRating" max="max"
 									readonly="isReadonly" state-on="'glyphicon-star'"
-									state-off="'glyphicon-star-empty'"
+									state-off="'glyphicon-star-empty'" style="padding-left:15px;"
 									on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
 								<span class="label"
 									ng-class="{'label-warning': percent<30, 'label-info': percent>=30 && percent<70, 'label-success': percent>=70}"
@@ -760,6 +895,7 @@
 								<rating ng-model="card.documentRating" max="max"
 									readonly="isReadonly" state-on="'glyphicon-star'"
 									state-off="'glyphicon-star-empty'"
+									style="padding-left:15px;"
 									on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
 								<span class="label"
 									ng-class="{'label-warning': percent<30, 'label-info': percent>=30 && percent<70, 'label-success': percent>=70}"
@@ -784,7 +920,7 @@
 							<div ng-controller="RatingDemoCtrl">
 								<rating ng-model="card.documentRating" max="max"
 									readonly="isReadonly" state-on="'glyphicon-star'"
-									state-off="'glyphicon-star-empty'"
+									state-off="'glyphicon-star-empty'" style="padding-left:15px;"
 									on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
 								<span class="label"
 									ng-class="{'label-warning': percent<30, 'label-info': percent>=30 && percent<70, 'label-success': percent>=70}"
@@ -873,75 +1009,23 @@
 			</div>
 			</md-toolbar>
 			<md-content class="md-padding" style="height: 100%">
-			Lorem ipsum dolor sit amet, ne quod novum mei. Sea omnium invenire
-			mediocrem at, in lobortis conclusionemque nam. Ne deleniti appetere
-			reprimique pro, inani labitur disputationi te sed. At vix sale
-			omnesque, id pro labitur reformidans accommodare, cum labores
-			honestatis eu. Nec quem lucilius in, eam praesent reformidans no. Sed
-			laudem aliquam ne.
-			<p>Facete delenit argumentum cum at. Pro rebum nostrum
-				contentiones ad. Mel exerci tritani maiorum at, mea te audire
-				phaedrum, mel et nibh aliquam. Malis causae equidem vel eu. Noster
-				melius vis ea, duis alterum oporteat ea sea. Per cu vide munere
-				fierent.</p>
-			<p>Ad sea dolor accusata consequuntur. Sit facete convenire
-				reprehendunt et. Usu cu nonumy dissentiet, mei choro omnes fuisset
-				ad. Te qui docendi accusam efficiantur, doming noster prodesset eam
-				ei. In vel posse movet, ut convenire referrentur eum, ceteros
-				singulis intellegam eu sit.</p>
-			<p>Sit saepe quaestio reprimique id, duo no congue nominati, cum
-				id nobis facilisi. No est laoreet dissentias, idque consectetuer eam
-				id. Clita possim assueverit cu his, solum virtute recteque et cum.
-				Vel cu luptatum signiferumque, mel eu brute nostro senserit. Blandit
-				euripidis consequat ex mei, atqui torquatos id cum, meliore luptatum
-				ut usu. Cu zril perpetua gubergren pri. Accusamus rationibus
-				instructior ei pro, eu nullam principes qui, reque justo omnes et
-				quo.</p>
-			<p>Sint unum eam id. At sit fastidii theophrastus, mutat senserit
-				repudiare et has. Atqui appareat repudiare ad nam, et ius alii
-				incorrupte. Alii nullam libris his ei, meis aeterno at eum. Ne aeque
-				tincidunt duo. In audire malorum mel, tamquam efficiantur has te.</p>
-			<p>Qui utamur tacimates quaestio ad, quod graece omnium ius ut.
-				Pri ut vero debitis interpretaris, qui cu mentitum adipiscing
-				disputationi. Voluptatum mediocritatem quo ut. Fabulas dolorem ei
-				has, quem molestie persequeris et sit.</p>
-			<p>Est in vivendum comprehensam conclusionemque, alia cetero
-				iriure no usu, te cibo deterruisset pro. Ludus epicurei quo id, ex
-				cum iudicabit intellegebat. Ex modo deseruisse quo, mel noster
-				menandri sententiae ea, duo et tritani malorum recteque. Nullam
-				suscipit partiendo nec id, indoctum vulputate per ex. Et has enim
-				habemus tibique. Cu latine electram cum, ridens propriae intellegat
-				eu mea.</p>
-			<p>Duo at aliquid mnesarchum, nec ne impetus hendrerit. Ius id
-				aeterno debitis atomorum, et sed feugait voluptua, brute tibique no
-				vix. Eos modo esse ex, ei omittam imperdiet pro. Vel assum albucius
-				incorrupte no. Vim viris prompta repudiare ne, vel ut viderer
-				scripserit, dicant appetere argumentum mel ea. Eripuit feugait
-				tincidunt pri ne, cu facilisi molestiae usu.</p>
-			<p>Qui utamur tacimates quaestio ad, quod graece omnium ius ut.
-				Pri ut vero debitis interpretaris, qui cu mentitum adipiscing
-				disputationi. Voluptatum mediocritatem quo ut. Fabulas dolorem ei
-				has, quem molestie persequeris et sit.</p>
-			<p>Est in vivendum comprehensam conclusionemque, alia cetero
-				iriure no usu, te cibo deterruisset pro. Ludus epicurei quo id, ex
-				cum iudicabit intellegebat. Ex modo deseruisse quo, mel noster
-				menandri sententiae ea, duo et tritani malorum recteque. Nullam
-				suscipit partiendo nec id, indoctum vulputate per ex. Et has enim
-				habemus tibique. Cu latine electram cum, ridens propriae intellegat
-				eu mea.</p>
-			<p>Duo at aliquid mnesarchum, nec ne impetus hendrerit. Ius id
-				aeterno debitis atomorum, et sed feugait voluptua, brute tibique no
-				vix. Eos modo esse ex, ei omittam imperdiet pro. Vel assum albucius
-				incorrupte no. Vim viris prompta repudiare ne, vel ut viderer
-				scripserit, dicant appetere argumentum mel ea. Eripuit feugait
-				tincidunt pri ne, cu facilisi molestiae usu.</p>
+				<md-list>
+				      <md-item ng-repeat="reco in recos">
+				        <md-item-content >
+				          <div class="md-tile-content"  style="border-bottom:1px; 
+				      	border-bottom-color:black; border-bottom-style:double;" ng-click="showArticle($event, reco)">
+				            <h3>{{reco.title}}</h3>
+				          </div>
+				        </md-item-content>
+				      </md-item>
+				    </md-list>
 			</md-content>
 		</div>
 	</div>
 	<div style="display:none;">
 		<select id="select_language" onchange="updateCountry()" style="display:none;"></select>
     &nbsp;&nbsp;
-    <select id="select_dialect" style="display:hidden;"></select></div>
+    <select id="select_dialect" style="display:none;"></select></div>
 	<script>
 
 	</script>

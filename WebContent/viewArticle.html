@@ -2,10 +2,13 @@
 	style="height:100%; padding:0px;"> <md-content>
 <md-toolbar md-theme="blue-grey">
 <div class="md-toolbar-tools">
-	<span class="md-flex">{{card.title}}</span>
+	<span class="md-flex" style="padding-left: 50px;">{{card.title}}</span>
+	<span flex></span>
+	<span class="md-flex" style="padding-right: 50px;">Sourca: {{card.source}}</span>
 </div>
 </md-toolbar>
-<p style="font-weight: 300; font-size: 12px; padding-left: 15px;">
+<p style="font-weight: 300; font-size: 12px; padding-left: 50px;
+		padding-right:50px;padding-top:25px; line-height:2; ">
 	{{card.content}}</p>
 </md-content>
 <div class="md-actions" layout="row" style="padding: 50px;">
