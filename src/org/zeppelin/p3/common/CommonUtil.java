@@ -96,7 +96,7 @@ public class CommonUtil {
 			}
 
 			query.set ("hl", "true");
-			query.set ("hl.fl", "snippet");
+			query.set ("hl.fl", "content");
 		    return query;
 	}
 
