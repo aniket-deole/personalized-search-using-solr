@@ -26,7 +26,7 @@ public class SolrDocumentGenerator {
 		File dir;
 		List<SolrInputDocument> solrInputDocuments = new ArrayList<SolrInputDocument>();
 		SaxParserNytHandler handler = new SaxParserNytHandler();
-		int count = 0;
+		int count = 1;
 		for (String cat : catDirectories) {
 			dir = new File(ipDir + File.separator + cat);
 			files = dir.list();
@@ -38,7 +38,7 @@ public class SolrDocumentGenerator {
 				Document doc = handler.parseDocument(dir.getAbsolutePath()
 						+ File.separator + f);
 				SolrInputDocument solrDoc = new SolrInputDocument();
-				solrDoc.addField("id", count + 123);
+				solrDoc.addField("id", "NYT"+count);
 				solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("title", doc.getTitle());
 				solrDoc.addField("source", doc.getSource());
