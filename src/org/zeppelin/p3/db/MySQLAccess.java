@@ -165,18 +165,28 @@ public class MySQLAccess {
 			connect = DriverManager
 					.getConnection("jdbc:mysql://localhost/ub535p3?"
 							+ "user=mysqluser&password=justarandompassword");
+			// If already exists
 			preparedStatement = connect
-					.prepareStatement("update ub535p3.user_source_map set checked = ? where user_id = ? AND source = ?");
+					.prepareStatement("update ub535p3.user_source_map set checked = ? where user_id = ? AND source_id = (select source_id from ub535p3.source_master where source_name = ?)");
 			preparedStatement.setBoolean(1, checked);
 			preparedStatement.setInt(2, loggedInUserId);
 			preparedStatement.setString(3, sourceName);
 			int rowsAffected = preparedStatement.executeUpdate();
 
 			if (rowsAffected == 0) {
+				// Fetch the source id
+				int sourceId = 0;
+				preparedStatement = connect
+						.prepareStatement("select source_id from ub535p3.source_master where source_name = ?");
+				preparedStatement.setString(1, sourceName);
+				resultSet = preparedStatement.executeQuery();
+				while (resultSet.next()) {
+					sourceId = resultSet.getInt("source_id");
+				}
 				preparedStatement = connect
 						.prepareStatement("insert into  ub535p3.user_source_map values (?, ?,?)");
 				preparedStatement.setInt(1, loggedInUserId);
-				preparedStatement.setString(2, sourceName);
+				preparedStatement.setInt(2, sourceId);
 				preparedStatement.setBoolean(3, checked);
 				preparedStatement.executeUpdate();
 			}
@@ -502,7 +512,7 @@ public class MySQLAccess {
 			}
 			// statements allow to issue SQL queries to the database
 			preparedStatement = connect
-					.prepareStatement("SELECT sm.source_name,usm.checked from ub535p3.source_master, ub535p3.user_source_map usm where user_id=?");
+					.prepareStatement("SELECT sm.source_name,usm.checked from ub535p3.source_master sm, ub535p3.user_source_map usm where user_id=? AND sm.source_id=usm.source_id");
 			preparedStatement.setInt(1, userId);
 			resultSet = preparedStatement.executeQuery();
 
@@ -513,7 +523,7 @@ public class MySQLAccess {
 			}
 			while (resultSet.next()) {
 				preferredSourceWithCheckedValue.put(
-						resultSet.getString("source"),
+						resultSet.getString("source_name"),
 						resultSet.getBoolean("checked"));
 
 			}

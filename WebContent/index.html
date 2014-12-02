@@ -1174,14 +1174,11 @@ http://stackoverflow.com/questions/15519713/highlighting-a-filtered-result-in-an
 				<p
 					style="padding-left: 15px; margin-top: 10px; font-weight: bold; font-size: 14px">Preferred
 					Sources</p>
-				<div>
-					<md-checkbox ng-model="$scope.checki1" aria-label="source.name"
-						id="sourceCheck"> The New York Times </md-checkbox>
-					<md-checkbox ng-model="$scope.checki2" aria-label="source.name"
-						id="sourceCheck"> Reuters </md-checkbox>
-					<md-checkbox ng-model="$scope.checki3" aria-label="source.name"
-						id="sourceCheck"> Wikinews </md-checkbox>
+				<div ng-repeat="source in preferredSources">
+					<md-checkbox ng-model="source.check" aria-label="source.name"
+						id="sourceCheck"> {{source.name}} </md-checkbox>
 				</div>
+
 
 			</div>
 			<p style="padding-left: 15px; padding-top: 15px;">
