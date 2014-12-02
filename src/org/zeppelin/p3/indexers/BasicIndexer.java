@@ -19,6 +19,7 @@ import org.apache.solr.client.solrj.response.UpdateResponse;
 import org.apache.solr.common.SolrInputDocument;
 import org.zeppelin.p3.parser.RCVSolrDocumentGenerator;
 import org.zeppelin.p3.parser.SolrDocumentGenerator;
+import org.zeppelin.p3.parser.WikiSolrDocGenerator;
 
 public class BasicIndexer extends HttpServlet {
 
@@ -43,6 +44,12 @@ public class BasicIndexer extends HttpServlet {
 		SolrDocumentGenerator generator = new SolrDocumentGenerator();
 		List<SolrInputDocument> solrDocuments = generator
 				.createSolrDocuments();
+		
+//		WikiSolrDocGenerator wikiGenerator = new WikiSolrDocGenerator();
+//     	List<SolrInputDocument> wikiDocuments = wikiGenerator
+//				.createSolrDocuments();
+//	
+//     	solrDocuments.addAll(wikiDocuments);
 		
 //		RCVSolrDocumentGenerator rcvGenerator = new RCVSolrDocumentGenerator();
 //		List<SolrInputDocument> solrDocumentsRCV = rcvGenerator

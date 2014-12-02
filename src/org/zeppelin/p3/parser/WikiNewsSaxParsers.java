@@ -79,6 +79,7 @@ public class WikiNewsSaxParsers extends DefaultHandler {
 		// System.out.println(tag);
 		// }
 		// System.out.println("\nEnded document");
+		//document.setSource(CommonConstants.SRC_WIKI);
 
 	}
 
@@ -101,7 +102,7 @@ public class WikiNewsSaxParsers extends DefaultHandler {
 			throws SAXException {
 		if (qName.equals("page")) {
 			document.setCategories(categories);
-			document.setSource("Wikinews");
+			document.setSource(CommonConstants.SRC_WIKI);
 			docList.add(document);
 			isPage = false;
 		} else if (qName.equals ("title")) {
