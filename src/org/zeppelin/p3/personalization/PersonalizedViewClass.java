@@ -77,6 +77,7 @@ public class PersonalizedViewClass extends HttpServlet {
 		preferredCategories.put("Sports", 3);*/
 		StringBuilder queryString=new StringBuilder();
 		
+		
 		/**
 		 * Reference - http://stackoverflow.com/questions/1066589/java-iterate-through-hashmap
 		 */
@@ -84,8 +85,8 @@ public class PersonalizedViewClass extends HttpServlet {
 	    while (it.hasNext()) {
 	        Map.Entry pairs = (Map.Entry)it.next();
 	        if((Integer)pairs.getValue()!=0){
-                queryString.append("category:").append(pairs.getKey()).append(CommonConstants.CARROT).append(
-                		(Integer)pairs.getValue() * 2);
+	        	Double boostFactor = 1 + Math.log10((Integer)pairs.getValue());
+                queryString.append("category:").append(pairs.getKey()).append(CommonConstants.CARROT).append(boostFactor);
 		        queryString.append(CommonConstants.WHITESPACE);
 	        }
 	        it.remove(); // avoids a ConcurrentModificationException
@@ -114,15 +115,45 @@ public class PersonalizedViewClass extends HttpServlet {
 							result.setTitle(list.get(0).getFieldValue("title")
 									.toString());
 						}
-						Integer boostFactor = userlog.getLikingScore()*2 + userlog.getClickCount();
+						
+						Double bfLikeTitle = 0.0;
+						Double bfClickTitle = 0.0;
+						
+						if(userlog.getLikingScore()!=0){
+							bfLikeTitle = 1+Math.log10(userlog.getLikingScore());
+						}
+						
+						if(userlog.getClickCount()!=0){
+							bfClickTitle = 1+Math.log10(userlog.getClickCount());
+						}
+						
+						//boost factor for the whole title
+						Double bfTitle = bfLikeTitle + bfClickTitle;
+						
+						
+						Double bfLikeTerms = 0.0;
+						Double bfClickTerms = 0.0;
+						
+						if(userlog.getLikingScore()!=0){
+							bfLikeTerms = 1+Math.log10(userlog.getLikingScore());
+						}
+						
+						if(userlog.getClickCount()!=0){
+							bfClickTerms = 1+Math.log10(userlog.getClickCount());
+						}
+						
+						//boost factor for the whole title
+						Double bfTerms = bfLikeTerms + bfClickTerms;
+						
 						if(result.getTitle()!=null){
-							
 							String s = result.getTitle();
+							queryString.append("\""+s+"\"").append(CommonConstants.CARROT).append(bfTitle);
+					        queryString.append(CommonConstants.WHITESPACE);
 							s = s.replace("[", "").replace("]", "");
 							String [] arr = s.split(CommonConstants.WHITESPACE);
 							if(arr!=null && arr.length>0){
 								for(int i=0;i<arr.length;i++){
-									queryString.append(arr[i]).append(CommonConstants.CARROT).append(boostFactor);
+									queryString.append(arr[i]).append(CommonConstants.CARROT).append(bfTerms);
 							        queryString.append(CommonConstants.WHITESPACE);
 								}
 							}
@@ -143,6 +174,9 @@ public class PersonalizedViewClass extends HttpServlet {
 		parameters.set("q", queryString.toString());
 		// parameters.set("sort", "published_date desc");
 		parameters.set("defType", "edismax");
+		
+		parameters.set("start", 0);
+		parameters.set("rows", 50);
 		// Iterate over the preferred categories and apply them to query
 		// boosters
 /*		parameters.set("bq", preferredCategories
