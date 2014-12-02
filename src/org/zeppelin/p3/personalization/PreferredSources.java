@@ -2,7 +2,7 @@ package org.zeppelin.p3.personalization;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Map;
+import java.util.ArrayList;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -48,7 +48,7 @@ public class PreferredSources extends HttpServlet {
 		Integer userId = (Integer) request.getSession().getAttribute(
 				"loggedInUserId");
 		MySQLAccess dao = new MySQLAccess();
-		Map<String, Boolean> preferredSourcesWithCheckValue;
+		ArrayList<PreferredSourceWithCheckValue> preferredSourcesWithCheckValue = new ArrayList<PreferredSourceWithCheckValue>();
 		try {
 			preferredSourcesWithCheckValue = dao
 					.fetchPreferredSourcesWithCheckValue(userId);
@@ -58,15 +58,7 @@ public class PreferredSources extends HttpServlet {
 			JSONArray jsonResults = new JSONArray();
 			if (!preferredSourcesWithCheckValue.isEmpty()) {
 				obj.put("resultCount", preferredSourcesWithCheckValue.size());
-				for (String preferredSource : preferredSourcesWithCheckValue
-						.keySet()) {
-					PreferredSourceWithCheckValue result = new PreferredSourceWithCheckValue();
-					result.setUserId(userId);
-					result.setSource(preferredSource);
-					result.setChecked(preferredSourcesWithCheckValue
-							.get(preferredSource));
-					jsonResults.add(result);
-				}
+				jsonResults.addAll(preferredSourcesWithCheckValue);
 				obj.put("results", jsonResults);
 			}
 

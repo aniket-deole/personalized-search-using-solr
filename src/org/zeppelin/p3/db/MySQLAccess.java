@@ -8,10 +8,10 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 
+import org.zeppelin.p3.personalization.PreferredSourceWithCheckValue;
 import org.zeppelin.p3.personalization.User;
 import org.zeppelin.p3.personalization.UserLog;
 
@@ -243,14 +243,14 @@ public class MySQLAccess {
 			statement = connect.createStatement();
 			// resultSet gets the result of the SQL query
 			resultSet = statement
-					.executeQuery("SELECT name from ub535p3.category_master");
+					.executeQuery("SELECT category_id,name from ub535p3.category_master ORDER BY category_id");
 			ArrayList<String> allCategories = new ArrayList<String>();
 			while (resultSet.next()) {
 				allCategories.add(resultSet.getString("name"));
 			}
 			// statements allow to issue SQL queries to the database
 			preparedStatement = connect
-					.prepareStatement("SELECT cm.name,ucm.liking_count from ub535p3.user_category_map ucm, ub535p3.category_master cm where user_id=? AND ucm.category_id=cm.category_id");
+					.prepareStatement("SELECT cm.category_id,cm.name,ucm.liking_count from ub535p3.user_category_map ucm, ub535p3.category_master cm where user_id=? AND ucm.category_id=cm.category_id ORDER BY cm.category_id");
 			preparedStatement.setInt(1, userId);
 			resultSet = preparedStatement.executeQuery();
 
@@ -261,7 +261,8 @@ public class MySQLAccess {
 						resultSet.getInt("liking_count"));
 
 			}
-			for (String category : allCategories) {
+			for (int i = 0; i < allCategories.size(); i++) {
+				String category = allCategories.get(i);
 				Integer likingScore = copyOfPreferredCartegoriesMap
 						.get(category);
 				if (likingScore == null) {
@@ -493,7 +494,7 @@ public class MySQLAccess {
 
 	}
 
-	public Map<String, Boolean> fetchPreferredSourcesWithCheckValue(
+	public ArrayList<PreferredSourceWithCheckValue> fetchPreferredSourcesWithCheckValue(
 			Integer userId) throws Exception {
 		try {
 			// this will load the MySQL driver, each DB has its own driver
@@ -505,28 +506,40 @@ public class MySQLAccess {
 			// First Fetch all the Sources
 			statement = connect.createStatement();
 			resultSet = statement
-					.executeQuery("SELECT source_name from ub535p3.source_master");
-			HashSet<String> sourceSuperset = new HashSet<String>();
+					.executeQuery("SELECT source_id,source_name from ub535p3.source_master ORDER BY source_id");
+			ArrayList<String> sourceSuperset = new ArrayList<String>();
 			while (resultSet.next()) {
 				sourceSuperset.add(resultSet.getString("source_name"));
 			}
 			// statements allow to issue SQL queries to the database
 			preparedStatement = connect
-					.prepareStatement("SELECT sm.source_name,usm.checked from ub535p3.source_master sm, ub535p3.user_source_map usm where user_id=? AND sm.source_id=usm.source_id");
+					.prepareStatement("SELECT sm.source_id,sm.source_name,usm.checked from ub535p3.source_master sm, ub535p3.user_source_map usm where user_id=? AND sm.source_id=usm.source_id ORDER BY sm.source_id");
 			preparedStatement.setInt(1, userId);
 			resultSet = preparedStatement.executeQuery();
 
-			Map<String, Boolean> preferredSourceWithCheckedValue = new HashMap<String, Boolean>();
+			ArrayList<PreferredSourceWithCheckValue> preferredSourceWithCheckedValue = new ArrayList<PreferredSourceWithCheckValue>();
 			// Default all of them to false
-			for (String source : sourceSuperset) {
-				preferredSourceWithCheckedValue.put(source, false);
+			for (int i = 0; i < sourceSuperset.size(); i++) {
+				String source = sourceSuperset.get(i);
+				PreferredSourceWithCheckValue preferredSource = new PreferredSourceWithCheckValue();
+				preferredSource.setUserId(userId);
+				preferredSource.setSource(source);
+				preferredSource.setChecked(false);
+				preferredSourceWithCheckedValue.add(preferredSource);
 			}
+			HashMap<String, Boolean> map = new HashMap<String, Boolean>();
 			while (resultSet.next()) {
-				preferredSourceWithCheckedValue.put(
-						resultSet.getString("source_name"),
+				map.put(resultSet.getString("source_name"),
 						resultSet.getBoolean("checked"));
 
 			}
+			// Set the values
+			for (PreferredSourceWithCheckValue preferredSource : preferredSourceWithCheckedValue) {
+				String source = preferredSource.getSource();
+				// Update the check values
+				preferredSource.setChecked(map.get(source));
+			}
+
 			return preferredSourceWithCheckedValue;
 
 		} catch (Exception e) {

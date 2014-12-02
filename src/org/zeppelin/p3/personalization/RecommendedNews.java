@@ -2,6 +2,7 @@ package org.zeppelin.p3.personalization;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -56,7 +57,7 @@ public class RecommendedNews extends HttpServlet {
 
 		// Retrieve preferred categories for the given user id
 		Map<String, Integer> preferredCategories = new HashMap<String, Integer>();
-		Map<String, Boolean> preferredSourcesWithCheckValue = new HashMap<String, Boolean>();
+		ArrayList<PreferredSourceWithCheckValue> preferredSourcesWithCheckValue = new ArrayList<PreferredSourceWithCheckValue>();
 		MySQLAccess dao = new MySQLAccess();
 
 		try {

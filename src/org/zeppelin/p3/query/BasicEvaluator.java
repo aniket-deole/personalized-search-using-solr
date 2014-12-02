@@ -23,9 +23,9 @@ import org.apache.solr.client.solrj.response.SpellCheckResponse.Suggestion;
 import org.apache.solr.common.SolrDocumentList;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
-import org.zeppelin.p3.common.CommonConstants;
 import org.zeppelin.p3.common.CommonUtil;
 import org.zeppelin.p3.db.MySQLAccess;
+import org.zeppelin.p3.personalization.PreferredSourceWithCheckValue;
 
 public class BasicEvaluator extends HttpServlet {
 	/**
@@ -55,7 +55,7 @@ public class BasicEvaluator extends HttpServlet {
 		Integer userId = (Integer) request.getSession().getAttribute(
 				"loggedInUserId");
 		ArrayList<String> preferredCategories = new ArrayList<String>();
-		Map<String, Boolean> preferredSourcesWithCheckValue = new HashMap<String, Boolean>();
+		ArrayList<PreferredSourceWithCheckValue> preferredSourcesWithCheckValue = new ArrayList<PreferredSourceWithCheckValue>();
 		Map<String, Integer> likeScoresAssignedByLoggedInUser = new HashMap<String, Integer>();
 		MySQLAccess dao = new MySQLAccess();
 		try {
