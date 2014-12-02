@@ -529,15 +529,24 @@ public class MySQLAccess {
 			}
 			HashMap<String, Boolean> map = new HashMap<String, Boolean>();
 			while (resultSet.next()) {
+				
+				Boolean checked = resultSet.getBoolean("checked");
+				if(checked==null){
+				   checked = false;	
+				}
 				map.put(resultSet.getString("source_name"),
-						resultSet.getBoolean("checked"));
+						checked);
 
 			}
 			// Set the values
 			for (PreferredSourceWithCheckValue preferredSource : preferredSourceWithCheckedValue) {
 				String source = preferredSource.getSource();
+				Boolean checked= map.get(source);
+				if(checked==null){
+				   checked = false;	
+				}
 				// Update the check values
-				preferredSource.setChecked(map.get(source));
+				preferredSource.setChecked(checked);
 			}
 
 			return preferredSourceWithCheckedValue;

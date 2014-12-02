@@ -39,6 +39,8 @@ public class CommonUtil {
 
 		query.set("q", q);
 		query.set("defType", "edismax");
+		query.set("start", 0);
+		query.set("rows", 30);
 		// &hl=true&hl.fl=snippet
 		/**
 		 * Reference -
@@ -59,7 +61,7 @@ public class CommonUtil {
 		//preferred sources
 		for(PreferredSourceWithCheckValue prefSource:preferredSourcesWithCheckValue){
 			if(prefSource.getChecked()){
-				query.add("bq", "source:"+ prefSource.getSource());
+				query.add("bq", "source:"+ prefSource.getSource()+CommonConstants.CARROT+"1.1");
 			}
 		}
 		

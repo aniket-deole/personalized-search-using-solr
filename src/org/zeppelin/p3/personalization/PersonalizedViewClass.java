@@ -182,7 +182,7 @@ public class PersonalizedViewClass extends HttpServlet {
   		for(PreferredSourceWithCheckValue prefSource:preferredSourcesWithCheckValue){
   			if(prefSource.getChecked()){
   				//parameters.add("bq", "source:"+ prefSource.getSource());
-  				queryString.append("source:"+prefSource.getSource());
+  				queryString.append("source:"+prefSource.getSource()+CommonConstants.CARROT+"1.1");
 		        queryString.append(CommonConstants.WHITESPACE);
   			}
   		}
@@ -191,7 +191,7 @@ public class PersonalizedViewClass extends HttpServlet {
 		parameters.set("defType", "edismax");
 		
 		parameters.set("start", 0);
-		parameters.set("rows", 50);
+		parameters.set("rows", 30);
 		// Iterate over the preferred categories and apply them to query
 		// boosters
 /*		parameters.set("bq", preferredCategories

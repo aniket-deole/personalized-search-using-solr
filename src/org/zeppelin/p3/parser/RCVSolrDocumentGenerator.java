@@ -49,6 +49,7 @@ public class RCVSolrDocumentGenerator {
 						solrDoc.addField("published_date", doc.getPublishedDate());
 						solrDoc.addField("content", doc.getContent());
 						solrDoc.addField("place", doc.getPlace());
+						solrDoc.addField("snippet", doc.getSnippet());
 						solrDoc.addField("popularityScore", 0);
 						
 						if (doc.getCategories() != null) {
