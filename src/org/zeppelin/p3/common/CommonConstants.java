@@ -36,5 +36,11 @@ public class CommonConstants {
 	
 	public static final String CARROT = "^";
 	
+	public static final String SRC_NYT = "The New York Times";
+	
+	public static final String SRC_RCV = "Reuters";
+	
+	public static final String SRC_WIKI = "Wikinews";
+	
 
 }
