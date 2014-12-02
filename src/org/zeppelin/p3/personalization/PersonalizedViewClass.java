@@ -120,11 +120,11 @@ public class PersonalizedViewClass extends HttpServlet {
 						Double bfClickTitle = 0.0;
 						
 						if(userlog.getLikingScore()!=0){
-							bfLikeTitle = 3+Math.log10(userlog.getLikingScore());
+							bfLikeTitle = 1+Math.log10(userlog.getLikingScore());
 						}
 						
 						if(userlog.getClickCount()!=0){
-							bfClickTitle = 2+Math.log10(userlog.getClickCount());
+							bfClickTitle = 1+Math.log10(userlog.getClickCount());
 						}
 						
 						//boost factor for the whole title
