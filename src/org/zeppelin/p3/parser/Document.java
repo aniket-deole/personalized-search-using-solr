@@ -210,4 +210,8 @@ public class Document {
 		this.snippet = snippet;
 	}
 
+	public String toString () {
+		return title;
+	}
+	
 }
