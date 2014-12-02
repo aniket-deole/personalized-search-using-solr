@@ -8,6 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 
@@ -154,7 +155,7 @@ public class MySQLAccess {
 			close();
 		}
 	}
-	
+
 	public void updatePreferredSources(Integer loggedInUserId,
 			String sourceName, Boolean checked) throws Exception {
 		try {
@@ -187,7 +188,7 @@ public class MySQLAccess {
 		} finally {
 			close();
 		}
-		
+
 	}
 
 	public ArrayList<String> fetchPreferredCategories(int userId)
@@ -481,8 +482,9 @@ public class MySQLAccess {
 		}
 
 	}
-	
-	public Map<String, Boolean> fetchPreferredSourcesWithCheckValue(Integer userId) throws Exception {
+
+	public Map<String, Boolean> fetchPreferredSourcesWithCheckValue(
+			Integer userId) throws Exception {
 		try {
 			// this will load the MySQL driver, each DB has its own driver
 			Class.forName("com.mysql.jdbc.Driver");
@@ -490,15 +492,28 @@ public class MySQLAccess {
 			connect = DriverManager
 					.getConnection("jdbc:mysql://localhost/ub535p3?"
 							+ "user=mysqluser&password=justarandompassword");
+			// First Fetch all the Sources
+			statement = connect.createStatement();
+			resultSet = statement
+					.executeQuery("SELECT source_name from ub535p3.source_master");
+			HashSet<String> sourceSuperset = new HashSet<String>();
+			while (resultSet.next()) {
+				sourceSuperset.add(resultSet.getString("source_name"));
+			}
 			// statements allow to issue SQL queries to the database
 			preparedStatement = connect
-					.prepareStatement("SELECT source,checked from ub535p3.user_source_map where user_id=?");
+					.prepareStatement("SELECT sm.source_name,usm.checked from ub535p3.source_master, ub535p3.user_source_map usm where user_id=?");
 			preparedStatement.setInt(1, userId);
 			resultSet = preparedStatement.executeQuery();
 
 			Map<String, Boolean> preferredSourceWithCheckedValue = new HashMap<String, Boolean>();
+			// Default all of them to false
+			for (String source : sourceSuperset) {
+				preferredSourceWithCheckedValue.put(source, false);
+			}
 			while (resultSet.next()) {
-				preferredSourceWithCheckedValue.put(resultSet.getString("source"),
+				preferredSourceWithCheckedValue.put(
+						resultSet.getString("source"),
 						resultSet.getBoolean("checked"));
 
 			}
@@ -509,7 +524,7 @@ public class MySQLAccess {
 		} finally {
 			close();
 		}
-		
+
 	}
 
 	public void updateLikingScoreForDocument(Integer loggedInUserId,
@@ -571,7 +586,5 @@ public class MySQLAccess {
 			// undefined state
 		}
 	}
-
-	
 
 }
