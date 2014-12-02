@@ -504,6 +504,7 @@ http://stackoverflow.com/questions/15519713/highlighting-a-filtered-result-in-an
 				console.log(data);
 				var resultCount = data.resultCount;
 				var results = data.results;
+				$scope.preferredSources =[];
 				if (resultCount != 0) {
 					for (var i = 0; i < results.length; i++) {
 						$scope.preferredSources.push({
