@@ -28,9 +28,7 @@ public class CommonUtil {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			/*//TODO - remove temp Hard coding
-			preferredCategories.put("Business", 6);
-			preferredCategories.put("Sports", 3);*/
+
 			
 			SolrQuery query = new SolrQuery();
 			
@@ -48,14 +46,14 @@ public class CommonUtil {
 		        it.remove(); // avoids a ConcurrentModificationException
 		    }
 		    
-		    
+			String urlString = "http://localhost:8080/solr-4.10.2/";
+			SolrServer solrServer = new HttpSolrServer(urlString);
 
 		    
 		    try {
 				List<UserLog> userLogs=dao.fetchLikeScoresAndClickCountsForAllDocuments(userId);
 				if(userLogs!=null){
 					for(UserLog userlog:userLogs){
-						
 						String docId=userlog.getDocID();
 						//http://localhost:8080/solr-4.10.2/query?q=*:*&defType=edismax&id=123
 						//http://localhost:8080/solr-4.10.2/query?q=id:123
@@ -63,31 +61,56 @@ public class CommonUtil {
 						parameters.setRequestHandler("/query");
 						parameters.set("q", "id:"+docId);
 						//fetch the title of the docId
-						String urlString = "http://localhost:8080/solr-4.10.2/";
-						SolrServer solrServer = new HttpSolrServer(urlString);
 						QueryResponse q_response = solrServer.query(parameters);
 						SolrDocumentList list = q_response.getResults();
-						if (!list.isEmpty()) {
-							QueryResult result = new QueryResult();
-							if (list.get(0).getFieldValue("title") != null) {
-								result.setTitle(list.get(0).getFieldValue("title")
-										.toString());
-							}
-							Integer boostFactor = userlog.getLikingScore()*2 + userlog.getClickCount();
-							if(result.getTitle()!=null){
-								
-								String s = result.getTitle();
-								s = s.replace("[", "").replace("]", "").replace(":", "");
-								String [] arr = s.split(CommonConstants.WHITESPACE);
-								if(arr!=null && arr.length>0){
-									for(int i=0;i<arr.length;i++){
-										String boostTerm = arr[i] +CommonConstants.CARROT+boostFactor;
-								        query.add("bq", boostTerm);
-									}
+						QueryResult result = new QueryResult();
+						if (list.get(0).getFieldValue("title") != null) {
+							result.setTitle(list.get(0).getFieldValue("title")
+									.toString());
+						}
+						
+						Double bfLikeTitle = 0.0;
+						Double bfClickTitle = 0.0;
+						
+						if(userlog.getLikingScore()!=0){
+							bfLikeTitle = 1+Math.log10(userlog.getLikingScore());
+						}
+						
+						if(userlog.getClickCount()!=0){
+							bfClickTitle = 1+Math.log10(userlog.getClickCount());
+						}
+						
+						//boost factor for the whole title
+						Double bfTitle = bfLikeTitle + bfClickTitle;
+						
+						
+						Double bfLikeTerms = 0.0;
+						Double bfClickTerms = 0.0;
+						
+						if(userlog.getLikingScore()!=0){
+							bfLikeTerms = 1+Math.log10(userlog.getLikingScore());
+						}
+						
+						if(userlog.getClickCount()!=0){
+							bfClickTerms = 1+Math.log10(userlog.getClickCount());
+						}
+						
+						//boost factor for the whole title
+						Double bfTerms = bfLikeTerms + bfClickTerms;
+						
+						if(result.getTitle()!=null){
+							String s = result.getTitle();
+							String boostTitle = s +CommonConstants.CARROT+bfTitle;
+					        query.add("bq", boostTitle);
+							s = s.replace("[", "").replace("]", "");
+							String [] arr = s.split(CommonConstants.WHITESPACE);
+							if(arr!=null && arr.length>0){
+								for(int i=0;i<arr.length;i++){
+									String boostTerm = arr[i] +CommonConstants.CARROT+bfTerms;
+							        query.add("bq", boostTerm);
 								}
 							}
 						}
-						
 					}
 				}
 			} catch (Exception e1) {
