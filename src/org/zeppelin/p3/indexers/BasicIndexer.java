@@ -3,6 +3,7 @@ package org.zeppelin.p3.indexers;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.servlet.ServletContext;
@@ -40,29 +41,37 @@ public class BasicIndexer extends HttpServlet {
 
 		String urlString = "http://localhost:8080/solr-4.10.2/";
 		SolrServer solrServer = new HttpSolrServer(urlString);
+		
+		List<SolrInputDocument> solrDocuments = new ArrayList<SolrInputDocument>();
 	 
-		SolrDocumentGenerator generator = new SolrDocumentGenerator();
-		List<SolrInputDocument> solrDocuments = generator
+        SolrDocumentGenerator generator = new SolrDocumentGenerator();
+		List<SolrInputDocument> nytdocuments = generator
 				.createSolrDocuments();
 		
-//		WikiSolrDocGenerator wikiGenerator = new WikiSolrDocGenerator();
-//     	List<SolrInputDocument> wikiDocuments = wikiGenerator
-//				.createSolrDocuments();
-//	
-//     	solrDocuments.addAll(wikiDocuments);
+		solrDocuments.addAll(nytdocuments);
 		
-//		RCVSolrDocumentGenerator rcvGenerator = new RCVSolrDocumentGenerator();
-//		List<SolrInputDocument> solrDocumentsRCV = rcvGenerator
-//				.createSolrDocuments();
-//		
-//		solrDocuments.addAll(solrDocumentsRCV);
+		/*WikiSolrDocGenerator wikiGenerator = new WikiSolrDocGenerator();
+     	List<SolrInputDocument> wikiDocuments = wikiGenerator
+				.createSolrDocuments();
+	
+     	solrDocuments.addAll(wikiDocuments);*/
+		
+        RCVSolrDocumentGenerator rcvGenerator = new RCVSolrDocumentGenerator();
+		List<SolrInputDocument> solrDocumentsRCV = rcvGenerator
+				.createSolrDocuments();
+		
+		solrDocuments.addAll(solrDocumentsRCV);
 		
 		int docCount = 0;
+		System.out.println("Total no.of docs "+solrDocuments.size());
 		for (SolrInputDocument solrInputDocument : solrDocuments) {
 			try {
-				solrServer.add(solrInputDocument);
-				docCount++;
-				solrServer.commit();
+				if(!("").equals(solrInputDocument.getFieldValue("content"))){
+					solrServer.add(solrInputDocument);
+					docCount++;
+					//System.out.println("Doc count "+docCount);
+				}
+				//solrServer.commit();
 			} catch (SolrServerException e1) {
 				e1.printStackTrace();
 			}

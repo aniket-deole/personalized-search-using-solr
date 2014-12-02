@@ -15,10 +15,10 @@ public class RCVSolrDocumentGenerator {
 	 */
 	public List<SolrInputDocument> createSolrDocuments(){
 	        // TODO- Remove the hard-coding
-			// String ipDir = "H:\\projects\\newsindexer\\training";
+			String ipDir = "H:\\projects\\newsindexer\\training";
 			// String ipDir = "/home/animesh/git/project3/corpus/00";
 			//String ipDir = "/home/animesh/git/project3/corpus";
-			 String ipDir = "/Users/aniket/Development/workspace/ub535p3/corpus";
+			// String ipDir = "/Users/aniket/Development/workspace/ub535p3/corpus";
 			File ipDirectory = new File(ipDir);
 			String[] catDirectories = ipDirectory.list();
 
@@ -27,6 +27,7 @@ public class RCVSolrDocumentGenerator {
 			List<SolrInputDocument> solrInputDocuments = new ArrayList<SolrInputDocument>();
 			int count = 0;
 			for (String cat : catDirectories) {
+				System.out.println(cat);
 				dir = new File(ipDir + File.separator + cat);
 				files = dir.list();
 
@@ -40,13 +41,15 @@ public class RCVSolrDocumentGenerator {
 						doc = RCVParser.parseDocument(dir.getAbsolutePath()
 								+ File.separator + f);
 						SolrInputDocument solrDoc = new SolrInputDocument();
-						solrDoc.addField("id", ("RCV"+count));
-						solrDoc.addField("name", doc.getContent());
+						solrDoc.addField("id", "RCV"+count);
+						solrDoc.addField("content", doc.getContent());
+						//solrDoc.addField("name", doc.getContent());
 						solrDoc.addField("title", doc.getTitle());
 						solrDoc.addField("source", doc.getSource());
 						solrDoc.addField("published_date", doc.getPublishedDate());
 						solrDoc.addField("content", doc.getContent());
 						solrDoc.addField("place", doc.getPlace());
+						solrDoc.addField("popularityScore", 0);
 						
 						if (doc.getCategories() != null) {
 							for (String category : doc.getCategories()) {
@@ -63,7 +66,10 @@ public class RCVSolrDocumentGenerator {
 
 				}
 			}
-			System.out.println(count + " documents parsed.");
+			
+			System.out.println(count + " RCV documents indexed");
+		
+			//System.out.println(count + " documents parsed.");
 			return solrInputDocuments;
 			
 	}

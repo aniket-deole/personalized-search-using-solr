@@ -54,16 +54,11 @@ public class BasicEvaluator extends HttpServlet {
 		// Fetch the Logged In userId from the session
 		Integer userId = (Integer) request.getSession().getAttribute(
 				"loggedInUserId");
-		ArrayList<String> preferredCategories = new ArrayList<String>();
-		ArrayList<PreferredSourceWithCheckValue> preferredSourcesWithCheckValue = new ArrayList<PreferredSourceWithCheckValue>();
 		Map<String, Integer> likeScoresAssignedByLoggedInUser = new HashMap<String, Integer>();
 		MySQLAccess dao = new MySQLAccess();
 		try {
-			preferredCategories = dao.fetchPreferredCategories(userId);
 			likeScoresAssignedByLoggedInUser = dao
 					.fetchLikeScoreForAllDocuments(userId);
-			preferredSourcesWithCheckValue = dao
-					.fetchPreferredSourcesWithCheckValue(userId);
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();

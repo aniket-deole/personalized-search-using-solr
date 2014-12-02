@@ -39,11 +39,11 @@ public class SolrDocumentGenerator {
 						+ File.separator + f);
 				SolrInputDocument solrDoc = new SolrInputDocument();
 				solrDoc.addField("id", "NYT"+count);
-				solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("title", doc.getTitle());
 				solrDoc.addField("source", doc.getSource());
 				solrDoc.addField("published_date", doc.getPublishedDate());
 				solrDoc.addField("content", doc.getContent());
+				//solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("place", doc.getPlace());
 				solrDoc.addField("snippet", doc.getSnippet());
 				solrDoc.addField("popularityScore", 0);
@@ -60,7 +60,7 @@ public class SolrDocumentGenerator {
 			}
 			System.out.println(count);
 		}
-		System.out.println(count + " documents parsed.");
+		//System.out.println(count + " documents parsed.");
 		return solrInputDocuments;
 	}
 }

@@ -62,8 +62,11 @@ public class PersonalizedViewClass extends HttpServlet {
 		Map<String,Integer> preferredCategories = new HashMap<String,Integer>();
 		MySQLAccess dao = new MySQLAccess();
 		Map<String, Integer> likeScoresAssignedByLoggedInUser = new HashMap<String, Integer>();
+		ArrayList<PreferredSourceWithCheckValue> preferredSourcesWithCheckValue = new ArrayList<PreferredSourceWithCheckValue>();
 		try {
 			preferredCategories = dao.fetchPreferredCategoriesWithTheirLikingScores(userId);
+			preferredSourcesWithCheckValue = dao
+					.fetchPreferredSourcesWithCheckValue(userId);
 			likeScoresAssignedByLoggedInUser = dao
 					.fetchLikeScoreForAllDocuments(userId);
 			//fetchPreferredCategoriesWithTheirLikingScores
@@ -93,6 +96,8 @@ public class PersonalizedViewClass extends HttpServlet {
 	    }
 		
 	    //System.out.println(queryString);
+	    
+	  
 	    
 	    
 	    try {
@@ -149,7 +154,7 @@ public class PersonalizedViewClass extends HttpServlet {
 							String s = result.getTitle();
 							queryString.append("\""+s+"\"").append(CommonConstants.CARROT).append(bfTitle);
 					        queryString.append(CommonConstants.WHITESPACE);
-							s = s.replace("[", "").replace("]", "");
+							s = s.replace("[", "").replace("]", "").replace(":", "");
 							String [] arr = s.split(CommonConstants.WHITESPACE);
 							if(arr!=null && arr.length>0){
 								for(int i=0;i<arr.length;i++){
@@ -168,9 +173,19 @@ public class PersonalizedViewClass extends HttpServlet {
 		}
 	    
 	    
+	    
 	    System.out.println("\nQuery for personalised class "+queryString);
 	    
 		SolrQuery parameters = new SolrQuery();
+		
+		//preferred sources
+  		for(PreferredSourceWithCheckValue prefSource:preferredSourcesWithCheckValue){
+  			if(prefSource.getChecked()){
+  				//parameters.add("bq", "source:"+ prefSource.getSource());
+  				queryString.append("source:"+prefSource.getSource());
+		        queryString.append(CommonConstants.WHITESPACE);
+  			}
+  		}
 		parameters.set("q", queryString.toString());
 		// parameters.set("sort", "published_date desc");
 		parameters.set("defType", "edismax");

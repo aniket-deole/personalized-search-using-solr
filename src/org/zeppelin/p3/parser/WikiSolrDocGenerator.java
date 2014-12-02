@@ -24,11 +24,11 @@ public class WikiSolrDocGenerator {
 		for (Document doc : documents) {
 				SolrInputDocument solrDoc = new SolrInputDocument();
 				solrDoc.addField("id", "WIKI"+count);
-				solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("title", doc.getTitle());
 				solrDoc.addField("source", doc.getSource());
 				solrDoc.addField("published_date", doc.getPublishedDate());
 				solrDoc.addField("content", doc.getContent());
+				//solrDoc.addField("name", doc.getContent());
 				solrDoc.addField("place", doc.getPlace());
 				solrDoc.addField("snippet", doc.getSnippet());
 				solrDoc.addField("popularityScore", 0);
@@ -44,7 +44,7 @@ public class WikiSolrDocGenerator {
 
 			}
 			System.out.println(count);
-		System.out.println(count + "WIKI documents parsed.");
+		//System.out.println(count + "WIKI documents parsed.");
 		return solrInputDocuments;
 	}
 }
