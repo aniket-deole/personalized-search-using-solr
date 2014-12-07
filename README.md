@@ -2,6 +2,8 @@ ub535p3
 =======
 News Personalized Using Solr. <br/>
 This project was developed as part of Project 3 in the Information Retrieval Course. <br/>
+The aim of this project was to build search system that supports personalized newsreader views. The system personalizes news articles for the user based on user preferences and user behavior.The system takes into account the relevance feedback provided by the user which can be both implicit as well as explicit for personalizing his news.
+<br/>
 UI/UX inspired by Google's Material Design Philosophy.<br/>
 <img src="http://i57.tinypic.com/24q7611.png"> </img>
 Demo Link: https://www.dropbox.com/s/95gui1bbf4w8wqg/TeamZeppelinMovie.mov?dl=0<br/>
