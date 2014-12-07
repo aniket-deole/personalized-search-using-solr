@@ -33,6 +33,7 @@ public class SpellSuggestionServlet extends HttpServlet {
 			HttpServletResponse response) throws ServletException, IOException {
 		response.setContentType("text/plain");
 		String q = request.getHeader("q");
+		System.out.println(q);
 		PrintWriter out = response.getWriter();
 		String urlString = "http://localhost:8080/solr-4.10.2";
 		SolrServer solrServer = new HttpSolrServer(urlString);
@@ -62,5 +63,6 @@ public class SpellSuggestionServlet extends HttpServlet {
 		}
 		JSONObject obj = new JSONObject();
 		obj.put("suggestions", suggestions);
+		System.out.println(suggestions);
 	}
 }

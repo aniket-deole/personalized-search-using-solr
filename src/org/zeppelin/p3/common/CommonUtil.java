@@ -50,10 +50,11 @@ public class CommonUtil {
 		Iterator it = preferredCategories.entrySet().iterator();
 		while (it.hasNext()) {
 			Map.Entry pairs = (Map.Entry) it.next();
-			String boostTerm = "category:" + pairs.getKey();
+			String boostTerm = "category:" + pairs.getKey().toString ().replaceAll(":", "").replaceAll(",", "").trim();
 			if((Integer)pairs.getValue()!=0){
 				Double bf = 1+Math.log10((Integer)pairs.getValue());
-				query.add("bq", boostTerm+CommonConstants.CARROT+bf);
+				if (!boostTerm.isEmpty())
+					query.add("bq", boostTerm+CommonConstants.CARROT+bf);
 			}
 			it.remove(); // avoids a ConcurrentModificationException
 		}
@@ -61,7 +62,7 @@ public class CommonUtil {
 		//preferred sources
 		for(PreferredSourceWithCheckValue prefSource:preferredSourcesWithCheckValue){
 			if(prefSource.getChecked()){
-				query.add("bq", "source:"+ prefSource.getSource()+CommonConstants.CARROT+"1.1");
+				query.add("bq", "source:"+ prefSource.getSource().trim()+CommonConstants.CARROT+"1.1");
 			}
 		}
 		
@@ -85,7 +86,7 @@ public class CommonUtil {
 					QueryResult result = new QueryResult();
 					if (list.get(0).getFieldValue("title") != null) {
 						result.setTitle(list.get(0).getFieldValue("title")
-								.toString());
+								.toString().trim().replaceAll(",", "").replaceAll(":", "").replaceAll(";", ""));
 					}
 
 					Double bfLikeTitle = 0.0;
@@ -101,7 +102,7 @@ public class CommonUtil {
 
 					// boost factor for the whole title
 					Double bfTitle = bfLikeTitle + bfClickTitle;
-
+					
 					Double bfLikeTerms = 0.0;
 					Double bfClickTerms = 0.0;
 
@@ -117,17 +118,19 @@ public class CommonUtil {
 					Double bfTerms = bfLikeTerms + bfClickTerms;
 
 					if (result.getTitle() != null) {
-						String s = result.getTitle();
+						String s = result.getTitle().trim().replaceAll(";", "");
 						String boostTitle = s + CommonConstants.CARROT
 								+ bfTitle;
-						query.add("bq", boostTitle);
-						s = s.replace("[", "").replace("]", "").replace(":", "");
+						if (!boostTitle.replaceAll(":", "").trim().replaceAll(",", "").replaceAll(";", "").isEmpty())
+							query.add("bq", boostTitle.replaceAll(":", "").trim().replaceAll(",", "").replaceAll(";", ""));
+						s = s.replaceAll("[", "").replaceAll("]", "").replaceAll(":", "").replaceAll(",", "").replaceAll(";", "");
 						String[] arr = s.split(CommonConstants.WHITESPACE);
 						if (arr != null && arr.length > 0) {
 							for (int i = 0; i < arr.length; i++) {
 								String boostTerm = arr[i]
 										+ CommonConstants.CARROT + bfTerms;
-								query.add("bq", boostTerm);
+								if (!boostTerm.replaceAll(":", "").trim().replaceAll(",", "").replaceAll(";", "").isEmpty())
+								query.add("bq", boostTerm.replaceAll(":", "").trim().replaceAll(",", "").replaceAll(";", ""));
 							}
 						}
 					}
@@ -140,6 +143,7 @@ public class CommonUtil {
 
 		query.set("hl", "true");
 		query.set("hl.fl", "content");
+		System.out.println(query.toString ());
 		return query;
 	}
 
