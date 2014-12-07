@@ -1,7 +1,7 @@
 ub535p3
 =======
 News Personalized Using Solr. <br/>
-This project was developed as part of Project 3 in the Information Retrieval Course.
+This project was developed as part of Project 3 in the Information Retrieval Course. <br/>
 UI/UX inspired by Google's Material Design Philosophy.<br/>
 <img src="http://i57.tinypic.com/24q7611.png"> </img>
 Steps to setup dev environment: <br/>
