@@ -4,7 +4,7 @@ News Personalized Using Solr. <br/>
 This project was developed as part of Project 3 in the Information Retrieval Course. <br/>
 UI/UX inspired by Google's Material Design Philosophy.<br/>
 <img src="http://i57.tinypic.com/24q7611.png"> </img>
-Demo Link: https://www.dropbox.com/s/95gui1bbf4w8wqg/TeamZeppelinMovie.mov?dl=0
+Demo Link: https://www.dropbox.com/s/95gui1bbf4w8wqg/TeamZeppelinMovie.mov?dl=0<br/>
 Steps to setup dev environment: <br/>
 We assume you are using Eclipse as the IDE. <br/>
 1. Import solr war from dist folder of solr archive downloaded from solr's website.<br/>
