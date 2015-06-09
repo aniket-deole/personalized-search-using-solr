@@ -1,13 +1,14 @@
 ub535p3
 =======
-News Personalized Using Solr. <br/>
+News Personalized Using Solr. <br/><br/>
 This project was developed as part of Project 3 in the Information Retrieval Course. <br/>
 The aim of this project was to build search system that supports personalized newsreader views. The system personalizes news articles for the user based on user preferences and user behavior.The system takes into account the relevance feedback provided by the user which can be both implicit as well as explicit for personalizing his news.
-<br/>
+<br/><br/>
 UI/UX inspired by Google's Material Design Philosophy.<br/>
 <img src="http://i57.tinypic.com/24q7611.png"> </img>
-Demo Link: https://www.dropbox.com/s/95gui1bbf4w8wqg/TeamZeppelinMovie.mov?dl=0<br/>
-Steps to setup dev environment: <br/>
+Demo Link: https://www.dropbox.com/s/95gui1bbf4w8wqg/TeamZeppelinMovie.mov?dl=0<br/><br/>
+Steps to setup dev environment:
+=======
 We assume you are using Eclipse as the IDE. <br/>
 1. Import solr war from dist folder of solr archive downloaded from solr's website.<br/>
 2. Import ub535p3 as an eclipse Project.<br/>
